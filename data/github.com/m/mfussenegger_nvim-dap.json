@@ -38,16 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 200,
+    "commitCountLastYear": 201,
     "createdAt": "2020-04-14T14:56:26Z",
     "description": "Debug Adapter Protocol client implementation for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-03-24T17:44:26Z",
+    "lastCommit": "2023-03-31T06:49:52Z",
+    "nameWithOwner": "mfussenegger/nvim-dap",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3096,
+    "star": 3118,
     "topics": [
       "neovim",
       "neovim-plugin",

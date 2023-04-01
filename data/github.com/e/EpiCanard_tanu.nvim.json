@@ -3,22 +3,10 @@
     [
       {
         "level": 0,
-        "name": "integration-apps.md"
+        "name": "git-github.md"
       },
       {
         "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Integration with other apps"
-      },
-      {
-        "level": 3,
-        "name": "Web"
-      },
-      {
-        "level": 4,
         "name": "GitLab"
       }
     ]
@@ -29,6 +17,7 @@
     "description": "Nvim plugin for Gitlab merge requests review",
     "isArchived": false,
     "lastCommit": "2022-09-11T18:16:12Z",
+    "nameWithOwner": "EpiCanard/tanu.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

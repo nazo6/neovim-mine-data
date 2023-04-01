@@ -12,11 +12,12 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 2,
     "createdAt": "2022-02-22T11:05:39Z",
     "description": "🤖 Automated async git commit and async git pull functions. Optional asynchronous 'commit-on-save'.",
     "isArchived": false,
     "lastCommit": "2022-04-08T14:36:48Z",
+    "nameWithOwner": "declancm/git-scripts.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

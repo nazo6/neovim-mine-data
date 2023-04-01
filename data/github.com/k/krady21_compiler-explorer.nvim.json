@@ -42,16 +42,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 132,
+    "commitCountLastYear": 136,
     "createdAt": "2021-09-13T14:59:32Z",
-    "description": "Run compilers and inspect assembly directly from Neovim with the help of https://godbolt.org/",
+    "description": "Run compilers and inspect assembly directly from Neovim with the help of https://godbolt.org",
     "isArchived": false,
-    "lastCommit": "2023-03-28T12:57:20Z",
+    "lastCommit": "2023-03-31T13:50:48Z",
+    "nameWithOwner": "krady21/compiler-explorer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 84,
+    "star": 85,
     "topics": [
       "assembly",
       "compiler-explorer",

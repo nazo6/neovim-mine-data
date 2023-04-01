@@ -38,16 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 80,
+    "commitCountLastYear": 81,
     "createdAt": "2022-10-31T07:46:21Z",
     "description": "Make your nvim window separators colorful",
     "isArchived": false,
-    "lastCommit": "2023-03-21T02:45:40Z",
+    "lastCommit": "2023-04-01T10:39:54Z",
+    "nameWithOwner": "nvim-zh/colorful-winsep.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 235,
+    "star": 236,
     "topics": [
       "neovim-plugin",
       "nvim-plugin"

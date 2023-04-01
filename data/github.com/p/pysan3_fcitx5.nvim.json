@@ -29,6 +29,7 @@
     "description": "A Neovim plugin writing in Lua to switch and restore fcitx state for each buffer. For example, switching to English input when leaving the INSERT mode, and restore Non-Latin input (like Chinese input) when enter the INSERT mode or COMMAND mode (for searching).",
     "isArchived": false,
     "lastCommit": "2022-12-14T15:03:40Z",
+    "nameWithOwner": "pysan3/fcitx5.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

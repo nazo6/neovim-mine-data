@@ -24,11 +24,12 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 2,
     "createdAt": "2021-05-18T07:51:59Z",
     "description": "diagnostic-languageserver configuration for Neovim's language server client",
     "isArchived": false,
     "lastCommit": "2022-11-07T08:21:46Z",
+    "nameWithOwner": "lithammer/nvim-diagnosticls",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

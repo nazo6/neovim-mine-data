@@ -38,16 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 66,
+    "commitCountLastYear": 69,
     "createdAt": "2022-06-19T23:05:06Z",
     "description": "You can attach a terminal-buffer for each buffer.",
     "isArchived": false,
-    "lastCommit": "2023-03-28T01:31:41Z",
+    "lastCommit": "2023-03-31T12:32:00Z",
+    "nameWithOwner": "nyngwang/NeoTerm.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 45,
+    "star": 46,
     "topics": [
       "lua",
       "neovim",

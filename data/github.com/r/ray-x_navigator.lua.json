@@ -42,16 +42,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 244,
+    "commitCountLastYear": 246,
     "createdAt": "2021-04-19T02:54:05Z",
     "description": "Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍",
     "isArchived": false,
-    "lastCommit": "2023-03-25T15:45:00Z",
+    "lastCommit": "2023-03-31T11:04:36Z",
+    "nameWithOwner": "ray-x/navigator.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 962,
+    "star": 966,
     "topics": [
       "neovim-plugin",
       "language-server-client",

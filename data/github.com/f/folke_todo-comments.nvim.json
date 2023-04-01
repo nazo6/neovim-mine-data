@@ -38,16 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 77,
+    "commitCountLastYear": 80,
     "createdAt": "2021-05-10T19:38:20Z",
     "description": "✅  Highlight, list and search todo comments in your projects",
     "isArchived": false,
-    "lastCommit": "2023-03-26T10:38:46Z",
+    "lastCommit": "2023-03-31T11:16:47Z",
+    "nameWithOwner": "folke/todo-comments.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1643,
+    "star": 1654,
     "topics": [
       "neovim",
       "neovim-plugin"

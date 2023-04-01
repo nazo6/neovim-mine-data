@@ -43,11 +43,12 @@
     "description": "Run `nix develop` without restarting neovim",
     "isArchived": false,
     "lastCommit": "2023-03-14T22:04:37Z",
+    "nameWithOwner": "figsoda/nix-develop.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 21,
+    "star": 22,
     "topics": [
       "neovim",
       "nix",

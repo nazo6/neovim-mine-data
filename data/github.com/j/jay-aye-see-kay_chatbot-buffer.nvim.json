@@ -24,11 +24,12 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 15,
     "createdAt": "2023-03-25T07:29:45Z",
     "description": "Interact with ai chatbots in an editable markdown buffer. Currently only supports one of openai's endpoints, may never support more.",
     "isArchived": false,
-    "lastCommit": "2023-03-26T23:36:39Z",
+    "lastCommit": "2023-03-31T19:13:25Z",
+    "nameWithOwner": "jay-aye-see-kay/chatbot-buffer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"

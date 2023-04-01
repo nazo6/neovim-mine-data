@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Translate"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-03-27T04:08:06Z",
+    "description": "Thin is a translation plugin powerd by deepl",
+    "isArchived": false,
+    "lastCommit": "2023-03-28T12:43:36Z",
+    "nameWithOwner": "torikatsupg/deepl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "deepl.nvim",
+  "owner": "torikatsupg",
+  "url": "https://github.com/torikatsupg/deepl.nvim"
+}

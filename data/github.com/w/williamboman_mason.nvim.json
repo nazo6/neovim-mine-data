@@ -64,16 +64,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 848,
+    "commitCountLastYear": 853,
     "createdAt": "2022-07-06T18:00:30Z",
     "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
     "isArchived": false,
-    "lastCommit": "2023-03-28T10:03:09Z",
+    "lastCommit": "2023-03-31T17:59:47Z",
+    "nameWithOwner": "williamboman/mason.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4047,
+    "star": 4076,
     "topics": [
       "lspinstall",
       "lua",

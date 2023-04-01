@@ -20,16 +20,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 91,
+    "commitCountLastYear": 92,
     "createdAt": "2020-10-19T09:32:33Z",
     "description": "Show code context",
     "isArchived": false,
-    "lastCommit": "2023-03-25T23:04:56Z",
+    "lastCommit": "2023-03-31T08:43:38Z",
+    "nameWithOwner": "nvim-treesitter/nvim-treesitter-context",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1332,
+    "star": 1350,
     "topics": [
       "vim",
       "neovim",

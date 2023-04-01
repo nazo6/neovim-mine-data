@@ -20,16 +20,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 415,
+    "commitCountLastYear": 418,
     "createdAt": "2022-09-07T16:15:13Z",
     "description": "💼 Neovim plugin to manage global and project-local settings",
     "isArchived": false,
-    "lastCommit": "2023-03-26T10:38:42Z",
+    "lastCommit": "2023-03-31T01:29:50Z",
+    "nameWithOwner": "folke/neoconf.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 266,
+    "star": 268,
     "topics": [
       "neovim",
       "neovim-config",

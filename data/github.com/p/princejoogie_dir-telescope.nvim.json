@@ -17,6 +17,7 @@
     "description": "Perform telescope functions in a selected directory",
     "isArchived": false,
     "lastCommit": "2023-03-26T03:04:37Z",
+    "nameWithOwner": "princejoogie/dir-telescope.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -26,7 +27,12 @@
       "lua",
       "neovim",
       "plugin",
-      "telescope-extension"
+      "telescope-extension",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "vim",
+      "fuzzy-finder"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fuzzy-finder.md"
+      },
+      {
+        "level": 1,
+        "name": "FuzzyFinder"
+      },
+      {
+        "level": 3,
+        "name": "Telescope Extensions"
+      },
+      {
+        "level": 4,
+        "name": "Grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2021-11-04T06:32:14Z",
+    "description": "Live grep with args",
+    "isArchived": false,
+    "lastCommit": "2023-03-19T18:19:46Z",
+    "nameWithOwner": "nvim-telescope/telescope-live-grep-args.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 266,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-live-grep-args.nvim",
+  "owner": "nvim-telescope",
+  "url": "https://github.com/nvim-telescope/telescope-rg.nvim"
+}

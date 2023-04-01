@@ -56,16 +56,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 19,
     "createdAt": "2021-06-14T18:20:10Z",
     "description": "🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)",
     "isArchived": false,
     "lastCommit": "2022-10-21T14:13:31Z",
+    "nameWithOwner": "ggandor/lightspeed.nvim",
     "primaryLanguage": {
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 1483,
+    "star": 1484,
     "topics": [
       "neovim",
       "neovim-plugin",

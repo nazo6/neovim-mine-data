@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Diff"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-03-29T12:42:57Z",
+    "description": "View file diffs quickly with Telescope.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-03-30T01:27:30Z",
+    "nameWithOwner": "jemag/telescope-diff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-diff.nvim",
+  "owner": "jemag",
+  "url": "https://github.com/jemag/telescope-diff.nvim"
+}

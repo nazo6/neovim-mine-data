@@ -34,16 +34,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 43,
+    "commitCountLastYear": 40,
     "createdAt": "2022-02-05T17:19:37Z",
     "description": "Highlight arguments' definitions and usages, using Treesitter",
     "isArchived": false,
     "lastCommit": "2023-03-25T19:38:37Z",
+    "nameWithOwner": "m-demare/hlargs.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 298,
+    "star": 303,
     "topics": [
       "lua",
       "neovim",

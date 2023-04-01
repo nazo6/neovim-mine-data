@@ -24,17 +24,25 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 78,
+    "commitCountLastYear": 92,
     "createdAt": "2023-03-19T17:11:38Z",
-    "description": "Markdown live-previewer with Wiki link support (which point to a local file) and many other features, give it a try ",
+    "description": "Markdown Previewer, Outliner, Incremental Searcher and more  ",
     "isArchived": false,
-    "lastCommit": "2023-03-28T12:30:36Z",
+    "lastCommit": "2023-04-01T11:02:47Z",
+    "nameWithOwner": "cnshsliu/smp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
+      "markdown",
+      "preview",
+      "snippets",
+      "neovim",
+      "outline",
+      "plugin",
+      "vim"
     ]
   },
   "domain": "github.com",

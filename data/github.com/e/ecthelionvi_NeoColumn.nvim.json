@@ -17,19 +17,38 @@
         "level": 3,
         "name": "Columnline"
       }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Bars and Lines"
+      }
     ]
   ],
   "data": {
-    "commitCountLastYear": 60,
+    "commitCountLastYear": 62,
     "createdAt": "2023-03-21T00:14:07Z",
     "description": "Neovim plugin that highlights individual characters with a toggleable ColorColumn.",
     "isArchived": false,
-    "lastCommit": "2023-03-25T03:02:18Z",
+    "lastCommit": "2023-04-01T01:45:36Z",
+    "nameWithOwner": "ecthelionvi/NeoColumn.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 14,
     "topics": [
       "colorcolumn",
       "lua",

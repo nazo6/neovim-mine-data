@@ -34,16 +34,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 142,
+    "commitCountLastYear": 143,
     "createdAt": "2022-04-02T21:07:51Z",
     "description": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
     "isArchived": false,
-    "lastCommit": "2023-03-18T10:26:26Z",
+    "lastCommit": "2023-03-28T18:13:48Z",
+    "nameWithOwner": "zbirenbaum/copilot.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 732,
+    "star": 764,
     "topics": [
       "copilot",
       "github-copilot",

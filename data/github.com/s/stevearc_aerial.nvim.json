@@ -42,16 +42,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 309,
+    "commitCountLastYear": 306,
     "createdAt": "2020-09-19T22:59:49Z",
     "description": "Neovim plugin for a code outline window",
     "isArchived": false,
-    "lastCommit": "2023-03-26T19:38:06Z",
+    "lastCommit": "2023-04-01T08:10:33Z",
+    "nameWithOwner": "stevearc/aerial.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 838,
+    "star": 843,
     "topics": [
       "nvim",
       "lsp",

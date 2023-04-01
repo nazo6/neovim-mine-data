@@ -38,16 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 3,
     "createdAt": "2021-12-17T14:14:44Z",
     "description": "Create key-bindings and watch them with telescope :telescope:",
     "isArchived": false,
-    "lastCommit": "2022-12-15T15:41:54Z",
+    "lastCommit": "2023-04-01T10:31:24Z",
+    "nameWithOwner": "LinArcX/telescope-command-palette.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 232,
+    "star": 233,
     "topics": [
       "lua",
       "neovim",

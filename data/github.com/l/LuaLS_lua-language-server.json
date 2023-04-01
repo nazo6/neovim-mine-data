@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Lua Development"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1634,
+    "createdAt": "2018-09-07T06:50:17Z",
+    "description": "A language server that offers Lua language support - programmed in Lua",
+    "isArchived": false,
+    "lastCommit": "2023-03-31T06:20:34Z",
+    "nameWithOwner": "LuaLS/lua-language-server",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2208,
+    "topics": [
+      "lua",
+      "language-server",
+      "lpeg",
+      "lpeglabel",
+      "lsp",
+      "lsp-server",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-language-server",
+  "owner": "LuaLS",
+  "url": "https://github.com/sumneko/lua-language-server"
+}

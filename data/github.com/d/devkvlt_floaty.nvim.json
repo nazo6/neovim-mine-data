@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-03-29T05:52:26Z",
+    "description": "Simple floating terminal and code runner for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-31T22:07:40Z",
+    "nameWithOwner": "devkvlt/floaty.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "terminal",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "floaty.nvim",
+  "owner": "devkvlt",
+  "url": "https://github.com/devkvlt/floaty.nvim"
+}

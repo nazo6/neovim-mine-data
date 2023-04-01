@@ -20,17 +20,22 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 44,
     "createdAt": "2023-03-21T20:28:13Z",
-    "description": "Configure neovim with yaml",
+    "description": "Configure neovim using yaml",
     "isArchived": false,
-    "lastCommit": "2023-03-26T22:40:05Z",
+    "lastCommit": "2023-03-31T23:01:59Z",
+    "nameWithOwner": "slarwise/nvim-but-yaml",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
     "star": 3,
     "topics": [
+      "lua",
+      "neovim",
+      "yaml",
+      "configuration"
     ]
   },
   "domain": "github.com",

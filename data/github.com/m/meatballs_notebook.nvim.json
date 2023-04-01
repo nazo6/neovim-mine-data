@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      },
+      {
+        "level": 4,
+        "name": "REPL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 66,
+    "createdAt": "2022-12-14T11:12:18Z",
+    "description": "Open .ipynb notebook files in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-31T18:38:55Z",
+    "nameWithOwner": "meatballs/notebook.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notebook.nvim",
+  "owner": "meatballs",
+  "url": "https://github.com/meatballs/ipynb.nvim"
+}

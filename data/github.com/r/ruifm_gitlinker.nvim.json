@@ -39,11 +39,12 @@
     "description": "A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse",
     "isArchived": false,
     "lastCommit": "2023-02-03T09:02:34Z",
+    "nameWithOwner": "ruifm/gitlinker.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 334,
+    "star": 336,
     "topics": [
       "neovim",
       "vim",

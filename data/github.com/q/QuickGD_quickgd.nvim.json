@@ -20,11 +20,12 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 25,
     "createdAt": "2023-03-05T08:54:56Z",
     "description": "auto-completion for gdshader with treesitter support using gltf; commands for interacting with godot through neovim",
     "isArchived": false,
-    "lastCommit": "2023-03-17T19:35:51Z",
+    "lastCommit": "2023-03-31T07:47:16Z",
+    "nameWithOwner": "QuickGD/quickgd.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
