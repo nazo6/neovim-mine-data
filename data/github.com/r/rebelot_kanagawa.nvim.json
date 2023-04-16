@@ -42,21 +42,28 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 162,
+    "commitCountLastYear": 172,
     "createdAt": "2021-12-20T18:51:22Z",
     "description": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
     "isArchived": false,
-    "lastCommit": "2023-03-26T13:38:55Z",
+    "lastCommit": "2023-04-14T15:18:32Z",
     "nameWithOwner": "rebelot/kanagawa.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2105,
+    "star": 2201,
     "topics": [
       "neovim",
-      "palette-generation",
-      "colorscheme"
+      "lsp",
+      "lua",
+      "neovim-colorscheme",
+      "neovim-theme",
+      "nvim",
+      "syntax-highlighting",
+      "terminal-colors",
+      "theme",
+      "tree-sitter-highlight"
     ]
   },
   "domain": "github.com",

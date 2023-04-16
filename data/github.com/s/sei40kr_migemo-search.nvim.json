@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      },
+      {
+        "level": 4,
+        "name": "migemo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-08-22T17:59:25Z",
+    "description": "Migemo search in Neovim. Ported from migemo-search.vim.",
+    "isArchived": false,
+    "lastCommit": "2023-02-12T15:22:38Z",
+    "nameWithOwner": "sei40kr/migemo-search.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "migemo-search.nvim",
+  "owner": "sei40kr",
+  "url": "https://github.com/sei40kr/migemo-search.nvim"
+}

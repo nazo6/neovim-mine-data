@@ -17,12 +17,30 @@
         "level": 3,
         "name": "Edit"
       }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Integration"
+      }
     ]
   ],
   "data": {
     "commitCountLastYear": 36,
     "createdAt": "2023-01-09T23:37:06Z",
-    "description": "Allowing your to edit your command in the terminal just like any other buffers.",
+    "description": "Allowing you to edit your command in the terminal just like any other buffers.",
     "isArchived": false,
     "lastCommit": "2023-01-25T03:53:35Z",
     "nameWithOwner": "chomosuke/term-edit.nvim",
@@ -30,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 81,
+    "star": 82,
     "topics": [
       "neovim",
       "neovim-plugin",

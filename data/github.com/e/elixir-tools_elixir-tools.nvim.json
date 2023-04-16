@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Elixir"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2022-03-23T13:10:50Z",
+    "description": "Neovim plugin for Elixir",
+    "isArchived": false,
+    "lastCommit": "2023-04-14T06:22:01Z",
+    "nameWithOwner": "elixir-tools/elixir-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 177,
+    "topics": [
+      "elixir",
+      "neovim",
+      "lua",
+      "plugin",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "elixir-tools.nvim",
+  "owner": "elixir-tools",
+  "url": "https://github.com/mhanberg/elixir.nvim"
+}

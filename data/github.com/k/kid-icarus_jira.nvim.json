@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "Jira"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2023-04-01T08:17:01Z",
+    "description": "A neovim plugin to interface with Jira",
+    "isArchived": false,
+    "lastCommit": "2023-04-09T01:58:43Z",
+    "nameWithOwner": "kid-icarus/jira.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jira.nvim",
+  "owner": "kid-icarus",
+  "url": "https://github.com/kid-icarus/jira.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "Notion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2023-04-07T06:58:26Z",
+    "description": "Notion API wrapper for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-04-15T17:32:46Z",
+    "nameWithOwner": "Al0den/notion.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "notion",
+      "neovim",
+      "plugin",
+      "wrapper"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notion.nvim",
+  "owner": "Al0den",
+  "url": "https://github.com/Al0den/notion.nvim"
+}

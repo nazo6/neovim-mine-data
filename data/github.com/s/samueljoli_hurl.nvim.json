@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Net"
+      },
+      {
+        "level": 3,
+        "name": "Hurl"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-04-01T01:35:52Z",
+    "description": "Vim syntax highlighting for Hurl",
+    "isArchived": false,
+    "lastCommit": "2023-04-07T02:19:53Z",
+    "nameWithOwner": "samueljoli/hurl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "hurl",
+      "lua",
+      "neovim",
+      "syntax-highlighting",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hurl.nvim",
+  "owner": "samueljoli",
+  "url": "https://github.com/samueljoli/hurl.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      },
+      {
+        "level": 2,
+        "name": "Search highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2022-11-20T11:37:15Z",
+    "description": "auto remove search highlight and rehighlight when using n or N",
+    "isArchived": false,
+    "lastCommit": "2023-04-11T06:01:18Z",
+    "nameWithOwner": "nvimdev/hlsearch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hlsearch.nvim",
+  "owner": "nvimdev",
+  "url": "https://github.com/nvimdev/hlsearch.nvim"
+}

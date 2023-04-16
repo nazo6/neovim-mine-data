@@ -42,17 +42,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 328,
+    "commitCountLastYear": 346,
     "createdAt": "2022-10-15T14:18:38Z",
     "description": "Supercharge your Haskell experience in neovim!",
     "isArchived": false,
-    "lastCommit": "2023-03-30T22:13:49Z",
+    "lastCommit": "2023-04-16T07:38:57Z",
     "nameWithOwner": "mrcjkb/haskell-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 197,
+    "star": 202,
     "topics": [
       "haskell",
       "lsp",
@@ -60,9 +60,10 @@
       "nvim",
       "language-server",
       "plugin",
-      "vim",
-      "languale-server-protocol",
-      "neovim-plugin"
+      "neovim-plugin",
+      "language-server-protocol",
+      "fast-tags",
+      "hoogle"
     ]
   },
   "domain": "github.com",

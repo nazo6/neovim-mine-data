@@ -1,0 +1,56 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      },
+      {
+        "level": 5,
+        "name": "OpenAI Review"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 50,
+    "createdAt": "2023-03-21T16:18:39Z",
+    "description": "A neovim plugin that uses GPT to highlight and explain code readability issues",
+    "isArchived": false,
+    "lastCommit": "2023-04-14T16:22:03Z",
+    "nameWithOwner": "james1236/backseat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 102,
+    "topics": [
+      "ai",
+      "copilot",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "backseat.nvim",
+  "owner": "james1236",
+  "url": "https://github.com/james1236/backseat.nvim"
+}

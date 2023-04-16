@@ -24,21 +24,23 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 48,
     "createdAt": "2022-10-13T13:14:25Z",
     "description": "A Lua port of the Everforest colour scheme",
     "isArchived": false,
-    "lastCommit": "2023-03-10T11:18:50Z",
+    "lastCommit": "2023-04-12T13:16:04Z",
     "nameWithOwner": "neanias/everforest-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 33,
+    "star": 42,
     "topics": [
       "everforest",
       "lua",
-      "neovim"
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

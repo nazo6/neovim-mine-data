@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Macro"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2023-04-04T10:46:26Z",
+    "description": "A neovim plugin to save your Macro",
+    "isArchived": false,
+    "lastCommit": "2023-04-14T15:53:38Z",
+    "nameWithOwner": "bignos/bookmacro",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "lua",
+      "macros",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bookmacro",
+  "owner": "bignos",
+  "url": "https://github.com/bignos/bookmacro"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Game"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-04-01T08:38:03Z",
+    "description": "Browse synonyms from thesaurus.com as a telescope.nvim extension.",
+    "isArchived": false,
+    "lastCommit": "2023-04-01T08:37:23Z",
+    "nameWithOwner": "rafi/telescope-thesaurus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-thesaurus.nvim",
+  "owner": "rafi",
+  "url": "https://github.com/rafi/telescope-thesaurus.nvim"
+}

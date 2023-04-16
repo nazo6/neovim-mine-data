@@ -17,20 +17,42 @@
         "level": 3,
         "name": "Code outline"
       }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
     ]
   ],
   "data": {
-    "commitCountLastYear": 45,
+    "commitCountLastYear": 102,
     "createdAt": "2023-03-20T11:28:42Z",
     "description": "A simple popup display that provides breadcrumbs feature using LSP server",
     "isArchived": false,
-    "lastCommit": "2023-03-31T17:38:24Z",
+    "lastCommit": "2023-04-15T10:56:09Z",
     "nameWithOwner": "SmiteshP/nvim-navbuddy",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 209,
+    "star": 297,
     "topics": [
       "document-symbols",
       "language-server-protocol",

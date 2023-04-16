@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Ruby"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-03-31T16:37:21Z",
+    "description": "Neovim Plugin for Code Smell detection",
+    "isArchived": false,
+    "lastCommit": "2023-03-31T22:17:24Z",
+    "nameWithOwner": "Philwi/nvim-code-smell",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-code-smell",
+  "owner": "Philwi",
+  "url": "https://github.com/Philwi/nvim-code-smell"
+}

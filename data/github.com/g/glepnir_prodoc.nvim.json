@@ -7,25 +7,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2021-01-15T07:48:53Z",
-    "description": "a neovim comment and  annotation plugin using coroutine",
-    "isArchived": true,
-    "lastCommit": "2022-08-20T11:24:40Z",
-    "nameWithOwner": "glepnir/prodoc.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 48,
-    "topics": [
-      "neovim",
-      "comment",
-      "annotation"
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'glepnir/prodoc.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "prodoc.nvim",
   "owner": "glepnir",
   "url": "https://github.com/glepnir/prodoc.nvim"

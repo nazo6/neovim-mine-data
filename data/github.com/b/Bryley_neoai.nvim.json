@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2023-04-01T05:17:13Z",
+    "description": "Neovim plugin for intracting with GPT models from OpenAI",
+    "isArchived": false,
+    "lastCommit": "2023-04-16T05:14:08Z",
+    "nameWithOwner": "Bryley/neoai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 136,
+    "topics": [
+      "chatgpt",
+      "gpt",
+      "gpt-4",
+      "gpt3-turbo",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "openai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neoai.nvim",
+  "owner": "Bryley",
+  "url": "https://github.com/Bryley/neoai.nvim"
+}

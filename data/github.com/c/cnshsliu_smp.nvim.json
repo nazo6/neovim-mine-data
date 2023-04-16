@@ -20,21 +20,25 @@
       {
         "level": 4,
         "name": "Markdown preview"
+      },
+      {
+        "level": 5,
+        "name": "Node"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 92,
+    "commitCountLastYear": 103,
     "createdAt": "2023-03-19T17:11:38Z",
     "description": "Markdown Previewer, Outliner, Incremental Searcher and more  ",
     "isArchived": false,
-    "lastCommit": "2023-04-01T11:02:47Z",
+    "lastCommit": "2023-04-05T09:37:40Z",
     "nameWithOwner": "cnshsliu/smp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 8,
     "topics": [
       "markdown",
       "preview",

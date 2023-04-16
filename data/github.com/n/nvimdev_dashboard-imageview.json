@@ -1,0 +1,30 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Image Viewer"
+      }
+    ]
+  ],
+  "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'nvimdev/dashboard-imageview'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "dashboard-imageview",
+  "owner": "nvimdev",
+  "url": "https://github.com/nvimdev/dashboard-imageview"
+}

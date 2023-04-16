@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Command"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2021-11-20T07:42:00Z",
+    "description": "Command interface for neovim LSP",
+    "isArchived": false,
+    "lastCommit": "2022-10-23T20:51:13Z",
+    "nameWithOwner": "ii14/lsp-command",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 49,
+    "topics": [
+      "neovim",
+      "nvim",
+      "lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-command",
+  "owner": "ii14",
+  "url": "https://github.com/ii14/lsp-command"
+}

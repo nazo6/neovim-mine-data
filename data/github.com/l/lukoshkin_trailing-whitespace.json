@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      },
+      {
+        "level": 3,
+        "name": "Trim Whitespace"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2022-07-18T19:59:19Z",
+    "description": "Highlight trailing whitespace in Vim/Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-03-10T19:02:24Z",
+    "nameWithOwner": "lukoshkin/trailing-whitespace",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-lua-plugin",
+      "vim-markdown",
+      "trailing-spaces",
+      "whitespace"
+    ]
+  },
+  "domain": "github.com",
+  "name": "trailing-whitespace",
+  "owner": "lukoshkin",
+  "url": "https://github.com/lukoshkin/trailing-whitespace"
+}

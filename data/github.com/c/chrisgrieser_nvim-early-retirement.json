@@ -1,0 +1,65 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "auto close"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-03-31T15:38:37Z",
+    "description": "Send buffers into early retirement by automatically closing them after x minutes of inactivity.",
+    "isArchived": false,
+    "lastCommit": "2023-04-12T11:39:18Z",
+    "nameWithOwner": "chrisgrieser/nvim-early-retirement",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 70,
+    "topics": [
+      "buffer-management",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-early-retirement",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/nvim-early-retirement"
+}

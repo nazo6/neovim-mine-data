@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Convert Case"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2023-03-26T20:44:22Z",
+    "description": "Neovim plugin to change the base of a number",
+    "isArchived": false,
+    "lastCommit": "2023-04-03T17:32:34Z",
+    "nameWithOwner": "Skosulor/nibbler",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nibbler",
+  "owner": "Skosulor",
+  "url": "https://github.com/Skosulor/nibbler"
+}

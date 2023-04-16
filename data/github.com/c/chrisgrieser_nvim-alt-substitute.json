@@ -1,0 +1,56 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Replace"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 93,
+    "createdAt": "2023-04-06T06:53:47Z",
+    "description": "A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.",
+    "isArchived": false,
+    "lastCommit": "2023-04-13T12:16:26Z",
+    "nameWithOwner": "chrisgrieser/nvim-alt-substitute",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "editing-support",
+      "nvim-plugin",
+      "search-and-replace",
+      "substitute",
+      "lua-pattern-matching"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-alt-substitute",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/nvim-alt-substitute"
+}

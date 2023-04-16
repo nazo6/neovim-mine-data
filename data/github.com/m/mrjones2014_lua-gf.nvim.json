@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "filer.md"
+      },
+      {
+        "level": 1,
+        "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "gx"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-04-13T18:47:48Z",
+    "description": "Enable `gf` (go to file) in Neovim for Lua and Fennel module paths",
+    "isArchived": false,
+    "lastCommit": "2023-04-13T19:10:07Z",
+    "nameWithOwner": "mrjones2014/lua-gf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-gf.nvim",
+  "owner": "mrjones2014",
+  "url": "https://github.com/mrjones2014/lua-gf.nvim"
+}

@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-04-07T02:01:32Z",
+    "description": "Integrated ChatGPT + Bing AI in NeoVim just for neo-pioneers like you :)",
+    "isArchived": false,
+    "lastCommit": "2023-04-09T07:23:50Z",
+    "nameWithOwner": "archibate/nvim-gpt",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "bingai",
+      "chatgpt",
+      "nvim-plugin",
+      "rplugin",
+      "pynvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gpt",
+  "owner": "archibate",
+  "url": "https://github.com/archibate/nvim-gpt"
+}

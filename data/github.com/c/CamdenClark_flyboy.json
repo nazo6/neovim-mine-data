@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2023-03-29T02:20:54Z",
+    "description": "a lightweight ChatGPT plugin for nevoim",
+    "isArchived": false,
+    "lastCommit": "2023-04-06T16:03:46Z",
+    "nameWithOwner": "CamdenClark/flyboy",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "chatgpt",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "flyboy",
+  "owner": "CamdenClark",
+  "url": "https://github.com/CamdenClark/flyboy"
+}

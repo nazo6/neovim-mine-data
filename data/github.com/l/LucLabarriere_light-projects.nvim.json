@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-04-01T13:26:04Z",
+    "description": "Neovim plugin to handle project specific settings",
+    "isArchived": false,
+    "lastCommit": "2023-04-13T13:02:17Z",
+    "nameWithOwner": "LucLabarriere/light-projects.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "light-projects.nvim",
+  "owner": "LucLabarriere",
+  "url": "https://github.com/LucLabarriere/light-projects.nvim"
+}

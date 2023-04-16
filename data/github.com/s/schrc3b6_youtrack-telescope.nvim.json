@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "youtrack"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-04-06T22:59:23Z",
+    "description": "telescope extension for youtrack issues",
+    "isArchived": false,
+    "lastCommit": "2023-04-08T14:26:25Z",
+    "nameWithOwner": "schrc3b6/youtrack-telescope.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "youtrack-telescope.nvim",
+  "owner": "schrc3b6",
+  "url": "https://github.com/schrc3b6/youtrack_telescope.nvim"
+}

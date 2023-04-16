@@ -1,0 +1,56 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "open"
+      },
+      {
+        "level": 5,
+        "name": "remote open"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2023-03-28T23:15:55Z",
+    "description": "Explore, edit, and develop on a remote machine via SSHFS with Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-04-05T03:44:04Z",
+    "nameWithOwner": "nosduco/remote-sshfs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "vim",
+      "neovim-plugin",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "remote-sshfs.nvim",
+  "owner": "nosduco",
+  "url": "https://github.com/NOSDuco/remote-sshfs.nvim"
+}

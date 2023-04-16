@@ -15,22 +15,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2022-11-14T03:26:02Z",
-    "description": "nvim-pqf from gitlab",
-    "isArchived": false,
-    "lastCommit": "2022-11-14T03:25:17Z",
-    "nameWithOwner": "quocnho/nvim-pqf",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 1,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'quocnho/nvim-pqf'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "nvim-pqf",
   "owner": "quocnho",
   "url": "https://github.com/quocnho/nvim-pqf"

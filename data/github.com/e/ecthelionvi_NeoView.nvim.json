@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Save"
+      },
+      {
+        "level": 4,
+        "name": "Cursor Position"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2023-04-05T18:33:57Z",
+    "description": "NeoView is a Neovim plugin that saves and restores views and cursor positions.",
+    "isArchived": false,
+    "lastCommit": "2023-04-09T22:10:10Z",
+    "nameWithOwner": "ecthelionvi/NeoView.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "cursor",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "views"
+    ]
+  },
+  "domain": "github.com",
+  "name": "NeoView.nvim",
+  "owner": "ecthelionvi",
+  "url": "https://github.com/ecthelionvi/NeoView.nvim"
+}

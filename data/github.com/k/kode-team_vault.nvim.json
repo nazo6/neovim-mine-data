@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Security"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-04-07T09:56:15Z",
+    "description": "Password manager for neovim (Inspired by Rails encrypted configuration)",
+    "isArchived": false,
+    "lastCommit": "2023-04-11T18:21:55Z",
+    "nameWithOwner": "kode-team/vault.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vault.nvim",
+  "owner": "kode-team",
+  "url": "https://github.com/kode-team/vault.nvim"
+}

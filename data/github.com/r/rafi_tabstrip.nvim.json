@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Tabline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-04-01T08:36:43Z",
+    "description": "Unobtrusive tabline for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-04-07T16:04:04Z",
+    "nameWithOwner": "rafi/tabstrip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tabstrip.nvim",
+  "owner": "rafi",
+  "url": "https://github.com/rafi/tabstrip.nvim"
+}

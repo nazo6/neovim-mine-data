@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-04-08T20:55:44Z",
+    "description": "Plugin to interact with snipgpt",
+    "isArchived": false,
+    "lastCommit": "2023-04-14T05:28:31Z",
+    "nameWithOwner": "cristianoliveira/snipgpt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snipgpt.nvim",
+  "owner": "cristianoliveira",
+  "url": "https://github.com/cristianoliveira/snipgpt.nvim"
+}

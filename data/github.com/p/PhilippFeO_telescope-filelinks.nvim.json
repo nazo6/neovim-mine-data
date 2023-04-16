@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2023-04-03T10:05:40Z",
+    "description": "Add file links to your wiki, the `README.md` or any other file using telescope.",
+    "isArchived": false,
+    "lastCommit": "2023-04-13T22:31:51Z",
+    "nameWithOwner": "PhilippFeO/telescope-filelinks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-lua",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-filelinks.nvim",
+  "owner": "PhilippFeO",
+  "url": "https://github.com/PhilippFeO/telescope-filelinks.nvim"
+}

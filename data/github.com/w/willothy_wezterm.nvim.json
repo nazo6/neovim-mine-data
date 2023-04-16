@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Terminal"
+      },
+      {
+        "level": 4,
+        "name": "WezTerm"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-04-15T02:52:43Z",
+    "description": "Utilities for interacting with Wezterm from within Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-04-15T04:32:44Z",
+    "nameWithOwner": "willothy/wezterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wezterm.nvim",
+  "owner": "willothy",
+  "url": "https://github.com/willothy/wezterm.nvim"
+}

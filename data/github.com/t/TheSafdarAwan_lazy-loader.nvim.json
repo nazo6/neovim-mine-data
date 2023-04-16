@@ -3,28 +3,16 @@
     [
       {
         "level": 0,
-        "name": "plugin-manager.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Plugin Manager"
-      },
-      {
-        "level": 3,
-        "name": "Use builtin package feature"
+        "name": "Archived.md"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 87,
+    "commitCountLastYear": 88,
     "createdAt": "2022-12-12T21:29:23Z",
     "description": "a bunch of functions to lazy load your plugins for you",
-    "isArchived": false,
-    "lastCommit": "2023-03-02T10:15:27Z",
+    "isArchived": true,
+    "lastCommit": "2023-04-09T13:27:29Z",
     "nameWithOwner": "TheSafdarAwan/lazy-loader.nvim",
     "primaryLanguage": {
       "color": "#000080",

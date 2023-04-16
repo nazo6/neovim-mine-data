@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "quickfix_location.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Quickfix"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-04-06T02:53:35Z",
+    "description": "Some sanity to quickfix lists but not turning them into some GUI search/replace monster.",
+    "isArchived": false,
+    "lastCommit": "2023-04-10T15:51:30Z",
+    "nameWithOwner": "izo0x90/quickfix_actually.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "plugin",
+      "vim",
+      "clist",
+      "lua",
+      "modal-editing",
+      "nvim",
+      "nvim-configs",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quickfix_actually.nvim",
+  "owner": "izo0x90",
+  "url": "https://github.com/izo0x90/quickfix_actually.nvim"
+}

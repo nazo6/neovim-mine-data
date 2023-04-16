@@ -3,27 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Coding"
-      },
-      {
-        "level": 3,
-        "name": "[Comment Out](./comment.md)"
-      },
-      {
-        "level": 4,
-        "name": "Context Header"
-      },
-      {
-        "level": 5,
-        "name": "Indent Guide"
+        "name": "Archived.md"
       }
     ],
     [
@@ -49,22 +29,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2020-11-08T13:00:26Z",
-    "description": null,
-    "isArchived": false,
-    "lastCommit": "2021-03-26T15:13:03Z",
-    "nameWithOwner": "glepnir/indent-guides.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 150,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'glepnir/indent-guides.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "indent-guides.nvim",
   "owner": "glepnir",
   "url": "https://github.com/glepnir/indent-guides.nvim"

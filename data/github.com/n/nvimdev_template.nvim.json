@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Template"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 68,
+    "createdAt": "2022-07-05T13:09:34Z",
+    "description": "Quickly insert templates into file",
+    "isArchived": false,
+    "lastCommit": "2023-04-11T11:12:08Z",
+    "nameWithOwner": "nvimdev/template.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 110,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "template"
+    ]
+  },
+  "domain": "github.com",
+  "name": "template.nvim",
+  "owner": "nvimdev",
+  "url": "https://github.com/nvimdev/template.nvim"
+}

@@ -20,6 +20,10 @@
       {
         "level": 4,
         "name": "Markdown preview"
+      },
+      {
+        "level": 5,
+        "name": "Glow"
       }
     ],
     [
@@ -46,7 +50,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 27,
     "createdAt": "2020-08-12T23:40:54Z",
     "description": "A markdown preview directly in your neovim.",
     "isArchived": false,
@@ -56,7 +60,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 872,
+    "star": 884,
     "topics": [
       "neovim",
       "lua",

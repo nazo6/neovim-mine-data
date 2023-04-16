@@ -1,0 +1,36 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-04-12T13:42:31Z",
+    "description": "Fuzzy version of the search command (/?)",
+    "isArchived": false,
+    "lastCommit": "2023-04-16T05:33:38Z",
+    "nameWithOwner": "IndianBoy42/fuzzy_slash.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "fuzzy-search",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fuzzy_slash.nvim",
+  "owner": "IndianBoy42",
+  "url": "https://github.com/IndianBoy42/fuzzy_slash.nvim"
+}

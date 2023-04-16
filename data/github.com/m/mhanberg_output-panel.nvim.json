@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Log"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-04-14T06:12:17Z",
+    "description": "A panel to view the logs from your LSP servers.",
+    "isArchived": false,
+    "lastCommit": "2023-04-15T13:06:32Z",
+    "nameWithOwner": "mhanberg/output-panel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "output-panel.nvim",
+  "owner": "mhanberg",
+  "url": "https://github.com/mhanberg/output-panel.nvim"
+}

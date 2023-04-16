@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "[Comment Out](./comment.md)"
+      },
+      {
+        "level": 4,
+        "name": "Context Header"
+      },
+      {
+        "level": 5,
+        "name": "Indent Guide"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-04-13T09:54:52Z",
+    "description": "A minimal and blazing fast indentline plugin",
+    "isArchived": false,
+    "lastCommit": "2023-04-15T12:22:05Z",
+    "nameWithOwner": "nvimdev/indentmini.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "indentmini.nvim",
+  "owner": "nvimdev",
+  "url": "https://github.com/nvimdev/indentmini.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Util wrapper"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 48,
+    "createdAt": "2023-02-02T02:13:33Z",
+    "description": "Neovim plugin for Spring Initializr and Maven archetypes written in Lua (WIP)",
+    "isArchived": false,
+    "lastCommit": "2023-04-11T15:22:01Z",
+    "nameWithOwner": "javiorfo/nvim-mug",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "java",
+      "maven",
+      "spring-boot",
+      "gradle",
+      "groovy",
+      "kotlin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mug",
+  "owner": "javiorfo",
+  "url": "https://github.com/javio7/nvim-osfa"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "open"
+      },
+      {
+        "level": 5,
+        "name": "recent file"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-04-13T01:42:47Z",
+    "description": "History Jumper is a plugin for Neovim that allows you to quickly jump to previously opened files using just three keystrokes.",
+    "isArchived": false,
+    "lastCommit": "2023-04-13T07:14:18Z",
+    "nameWithOwner": "zzhirong/history-jumper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "history-jumper.nvim",
+  "owner": "zzhirong",
+  "url": "https://github.com/zzhirong/history-jumper.nvim"
+}

@@ -3,19 +3,7 @@
     [
       {
         "level": 0,
-        "name": "task-runner.md"
-      },
-      {
-        "level": 1,
-        "name": "Task Runner"
-      },
-      {
-        "level": 2,
-        "name": "Config file style"
-      },
-      {
-        "level": 3,
-        "name": "Lua"
+        "name": "Archived.md"
       }
     ]
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 38,
     "createdAt": "2022-11-06T20:48:27Z",
     "description": "A Neovim plugin for managing and asynchronously running actions.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-01-08T20:17:22Z",
     "nameWithOwner": "lpoto/actions.nvim",
     "primaryLanguage": {

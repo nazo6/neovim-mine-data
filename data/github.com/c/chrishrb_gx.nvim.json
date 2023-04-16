@@ -8,21 +8,25 @@
       {
         "level": 1,
         "name": "Filer"
+      },
+      {
+        "level": 2,
+        "name": "gx"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 26,
     "createdAt": "2023-03-14T12:25:56Z",
     "description": "Implementation of gx without the need of netrw",
     "isArchived": false,
-    "lastCommit": "2023-03-30T20:38:45Z",
+    "lastCommit": "2023-04-15T20:27:58Z",
     "nameWithOwner": "chrishrb/gx.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 45,
+    "star": 46,
     "topics": [
     ]
   },

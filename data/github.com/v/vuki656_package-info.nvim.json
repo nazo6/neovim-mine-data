@@ -40,7 +40,7 @@
   "data": {
     "commitCountLastYear": 11,
     "createdAt": "2021-08-01T21:14:49Z",
-    "description": "✍️ All the npm/yarn commands I don't want to type",
+    "description": "✍️ All the npm/yarn/pnpm commands I don't want to type",
     "isArchived": false,
     "lastCommit": "2023-03-28T18:42:16Z",
     "nameWithOwner": "vuki656/package-info.nvim",
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 251,
+    "star": 254,
     "topics": [
       "neovim",
       "neovim-plugin",
@@ -58,7 +58,8 @@
       "package-json",
       "npm",
       "yarn",
-      "vim"
+      "vim",
+      "pnpm"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git rebase"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-04-03T05:11:13Z",
+    "description": "Show diff automatically when git rebase",
+    "isArchived": false,
+    "lastCommit": "2023-04-04T02:26:09Z",
+    "nameWithOwner": "yutkat/git-rebase-auto-diff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-rebase-auto-diff.nvim",
+  "owner": "yutkat",
+  "url": "https://github.com/yutkat/git-rebase-auto-diff.nvim"
+}

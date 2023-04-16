@@ -20,6 +20,10 @@
       {
         "level": 4,
         "name": "Markdown preview"
+      },
+      {
+        "level": 5,
+        "name": "Glow"
       }
     ]
   ],
@@ -34,7 +38,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
       "neovim-plugin",
       "neovim",

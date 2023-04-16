@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Root Detector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-04-09T16:05:02Z",
+    "description": "Find your project root",
+    "isArchived": false,
+    "lastCommit": "2023-04-09T16:42:15Z",
+    "nameWithOwner": "gmartsenkov/root.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "root.nvim",
+  "owner": "gmartsenkov",
+  "url": "https://github.com/gmartsenkov/root.nvim"
+}

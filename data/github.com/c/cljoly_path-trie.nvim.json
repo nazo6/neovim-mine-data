@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "File"
+      },
+      {
+        "level": 3,
+        "name": "path-trie"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-04-13T21:56:30Z",
+    "description": "Path trie in Lua, for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-04-14T20:49:38Z",
+    "nameWithOwner": "cljoly/path-trie.nvim",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "path-trie.nvim",
+  "owner": "cljoly",
+  "url": "https://github.com/cljoly/path-trie.nvim"
+}

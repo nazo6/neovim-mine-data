@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "terminal.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Terminal"
+      },
+      {
+        "level": 3,
+        "name": "Terminal Enhancement"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-04-16T04:36:12Z",
+    "description": "A terminal plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-04-16T07:24:59Z",
+    "nameWithOwner": "uga-rosa/ugaterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ugaterm.nvim",
+  "owner": "uga-rosa",
+  "url": "https://github.com/uga-rosa/ugaterm.nvim"
+}

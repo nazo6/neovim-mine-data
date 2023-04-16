@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-04-10T04:19:20Z",
+    "description": "A statusline plugin with cterm support.",
+    "isArchived": false,
+    "lastCommit": "2023-04-14T15:57:37Z",
+    "nameWithOwner": "girishji/bufstatusline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufstatusline.nvim",
+  "owner": "girishji",
+  "url": "https://github.com/girishji/cstatusline.nvim"
+}

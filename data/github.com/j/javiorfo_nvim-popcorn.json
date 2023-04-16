@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-library.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "UI"
+      },
+      {
+        "level": 3,
+        "name": "Popup"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-04-01T20:39:32Z",
+    "description": "Neovim library for popup utilities written in Lua (WIP) ",
+    "isArchived": false,
+    "lastCommit": "2023-04-15T14:18:06Z",
+    "nameWithOwner": "javiorfo/nvim-popcorn",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "popup"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-popcorn",
+  "owner": "javiorfo",
+  "url": "https://github.com/javiorfo/nvim-popcorn"
+}

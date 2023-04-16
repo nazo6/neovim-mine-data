@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitLab"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-04-10T15:34:58Z",
+    "description": "Open files/MRs from your code in GitLab",
+    "isArchived": false,
+    "lastCommit": "2023-04-16T09:54:48Z",
+    "nameWithOwner": "vaidotasp/gitlab-open.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitlab-open.nvim",
+  "owner": "vaidotasp",
+  "url": "https://github.com/vaidotasp/gitlab-open.nvim"
+}
