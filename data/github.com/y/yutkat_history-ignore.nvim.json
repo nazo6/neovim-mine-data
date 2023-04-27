@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "History"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2020-08-10T03:39:48Z",
+    "description": "Configure commands not to be registered in the command-line history",
+    "isArchived": false,
+    "lastCommit": "2022-05-19T17:25:28Z",
+    "nameWithOwner": "yutkat/history-ignore.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "history-ignore.nvim",
+  "owner": "yutkat",
+  "url": "https://github.com/yutkat/history-ignore.nvim"
+}

@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 98,
+    "createdAt": "2023-04-06T13:06:46Z",
+    "description": "Your NeoVim assistant",
+    "isArchived": false,
+    "lastCommit": "2023-04-23T18:37:14Z",
+    "nameWithOwner": "deifyed/naVi",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "openai",
+      "lua",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "naVi",
+  "owner": "deifyed",
+  "url": "https://github.com/deifyed/naVi"
+}

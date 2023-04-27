@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "Jira"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2023-04-22T23:20:08Z",
+    "description": "Auto-complete Jira issues in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-04-25T22:19:01Z",
+    "nameWithOwner": "artem-nefedov/cmp-jira-issues.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "completion",
+      "jira"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-jira-issues.nvim",
+  "owner": "artem-nefedov",
+  "url": "https://github.com/artem-nefedov/cmp-jira-issues.nvim"
+}

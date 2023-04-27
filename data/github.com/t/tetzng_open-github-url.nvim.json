@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-04-17T17:06:34Z",
+    "description": "open-githhub-url.nvim is a Neovim plugin to open the abbreviated GitHub repository URL under the cursor in your browser.",
+    "isArchived": false,
+    "lastCommit": "2023-04-17T17:43:30Z",
+    "nameWithOwner": "tetzng/open-github-url.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-github-url.nvim",
+  "owner": "tetzng",
+  "url": "https://github.com/tetzng/open-github-url.nvim"
+}

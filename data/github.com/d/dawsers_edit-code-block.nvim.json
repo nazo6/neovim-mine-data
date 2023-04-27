@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown code block"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-04-22T04:23:26Z",
+    "description": "Edit injected code blocks in another buffer",
+    "isArchived": false,
+    "lastCommit": "2023-04-22T22:04:11Z",
+    "nameWithOwner": "dawsers/edit-code-block.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "edit-code-block.nvim",
+  "owner": "dawsers",
+  "url": "https://github.com/dawsers/edit-code-block.nvim"
+}

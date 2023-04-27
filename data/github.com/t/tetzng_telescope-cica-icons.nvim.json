@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Font"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-04-22T17:46:43Z",
+    "description": "A Telescope extension for searching and inserting Cica icons in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-04-22T21:54:36Z",
+    "nameWithOwner": "tetzng/telescope-cica-icons.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "cica",
+      "neovim",
+      "neovim-plugin",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-cica-icons.nvim",
+  "owner": "tetzng",
+  "url": "https://github.com/tetzng/telescope-cica-icons.nvim"
+}

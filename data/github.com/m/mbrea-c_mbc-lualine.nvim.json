@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2023-04-15T13:31:37Z",
+    "description": "Lualine theme that uses your wal/pywal-generated colors. Uses the wal-colors.nvim API.",
+    "isArchived": false,
+    "lastCommit": "2023-04-15T13:32:05Z",
+    "nameWithOwner": "mbrea-c/mbc-lualine.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mbc-lualine.nvim",
+  "owner": "mbrea-c",
+  "url": "https://github.com/mbrea-c/mbc-lualine.nvim"
+}

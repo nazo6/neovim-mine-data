@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Weather"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-04-19T14:33:34Z",
+    "description": "Bring Weather Forecasts to Your Neovim Editor for Ultimate Productivity",
+    "isArchived": false,
+    "lastCommit": "2023-04-19T15:34:36Z",
+    "nameWithOwner": "bitspaceorg/weather-reporto.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "weather-reporto.nvim",
+  "owner": "bitspaceorg",
+  "url": "https://github.com/bitspaceorg/Weather-Reporto.nvim"
+}

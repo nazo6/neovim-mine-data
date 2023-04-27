@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-04-19T02:35:00Z",
+    "description": "a lua / neovim library for building file exclusion rulesets used to restrict cod searches",
+    "isArchived": false,
+    "lastCommit": "2023-04-20T00:06:43Z",
+    "nameWithOwner": "napisani/nvim-search-rules",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-search-rules",
+  "owner": "napisani",
+  "url": "https://github.com/napisani/nvim-search-rules"
+}

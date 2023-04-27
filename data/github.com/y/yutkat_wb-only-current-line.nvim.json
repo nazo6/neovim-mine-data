@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Improve Mappings"
+      },
+      {
+        "level": 3,
+        "name": "Normal Mode"
+      },
+      {
+        "level": 4,
+        "name": "Word Motion"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2020-08-08T06:19:13Z",
+    "description": "w,b,W,B motion for the current line only",
+    "isArchived": false,
+    "lastCommit": "2022-05-19T13:01:57Z",
+    "nameWithOwner": "yutkat/wb-only-current-line.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wb-only-current-line.nvim",
+  "owner": "yutkat",
+  "url": "https://github.com/yutkat/wb-only-current-line.nvim"
+}

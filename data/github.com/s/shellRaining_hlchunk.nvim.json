@@ -50,20 +50,22 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 157,
+    "commitCountLastYear": 187,
     "createdAt": "2023-02-12T03:32:57Z",
     "description": "This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed",
     "isArchived": false,
-    "lastCommit": "2023-04-15T04:31:55Z",
+    "lastCommit": "2023-04-27T03:27:10Z",
     "nameWithOwner": "shellRaining/hlchunk.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 34,
+    "star": 36,
     "topics": [
       "lua",
-      "neovim"
+      "neovim",
+      "indentline",
+      "chunk"
     ]
   },
   "domain": "github.com",

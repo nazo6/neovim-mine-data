@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      },
+      {
+        "level": 4,
+        "name": "Debugger"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2020-11-15T11:18:37Z",
+    "description": "An extension for nvim-dap, providing default configurations for python and methods to debug individual test methods or classes.",
+    "isArchived": false,
+    "lastCommit": "2023-04-05T11:22:06Z",
+    "nameWithOwner": "mfussenegger/nvim-dap-python",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 254,
+    "topics": [
+      "neovim",
+      "nvim-dap",
+      "neovim-plugin",
+      "debugging",
+      "debugger",
+      "debug-adapter-protocol"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-python",
+  "owner": "mfussenegger",
+  "url": "https://github.com/mfussenegger/nvim-dap-python"
+}

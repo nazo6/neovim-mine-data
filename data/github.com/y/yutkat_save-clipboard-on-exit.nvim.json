@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Yank"
+      },
+      {
+        "level": 2,
+        "name": "Save"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2020-08-09T10:03:36Z",
+    "description": "Save the Linux clipboard on exit",
+    "isArchived": false,
+    "lastCommit": "2022-05-19T14:08:43Z",
+    "nameWithOwner": "yutkat/save-clipboard-on-exit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "save-clipboard-on-exit.nvim",
+  "owner": "yutkat",
+  "url": "https://github.com/yutkat/save-clipboard-on-exit.nvim"
+}

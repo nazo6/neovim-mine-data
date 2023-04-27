@@ -15,31 +15,32 @@
       },
       {
         "level": 3,
-        "name": "Go"
+        "name": "Javascript/Typescript"
       },
       {
         "level": 4,
-        "name": "gofmt"
+        "name": "tsserver"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 12,
-    "createdAt": "2023-02-13T22:37:55Z",
-    "description": "gofmt.nvim é usada para formatar o código Go no nvim",
+    "commitCountLastYear": 7,
+    "createdAt": "2023-04-18T21:27:21Z",
+    "description": "Neovim plugin to format tsserver LSP errors",
     "isArchived": false,
-    "lastCommit": "2023-02-13T23:58:59Z",
-    "nameWithOwner": "MaxwelMazur/gofmt.nvim",
+    "lastCommit": "2023-04-20T02:08:56Z",
+    "nameWithOwner": "davidosomething/format-ts-errors.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 28,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "gofmt.nvim",
-  "owner": "MaxwelMazur",
-  "url": "https://github.com/MaxwelMazur/gofmt.nvim"
+  "name": "format-ts-errors.nvim",
+  "owner": "davidosomething",
+  "url": "https://github.com/davidosomething/format-ts-errors.nvim"
 }

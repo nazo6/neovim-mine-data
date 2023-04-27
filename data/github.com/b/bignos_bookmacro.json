@@ -20,11 +20,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 40,
+    "commitCountLastYear": 55,
     "createdAt": "2023-04-04T10:46:26Z",
-    "description": "A neovim plugin to save your Macro",
+    "description": "A neovim plugin to save, execute and share your Macros",
     "isArchived": false,
-    "lastCommit": "2023-04-14T15:53:38Z",
+    "lastCommit": "2023-04-21T16:25:12Z",
     "nameWithOwner": "bignos/bookmacro",
     "primaryLanguage": {
       "color": "#000080",
@@ -35,7 +35,9 @@
       "lua",
       "macros",
       "neovim",
-      "nvim"
+      "nvim",
+      "open-source",
+      "nvim-lua"
     ]
   },
   "domain": "github.com",

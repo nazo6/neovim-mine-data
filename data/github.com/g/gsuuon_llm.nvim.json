@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 109,
+    "createdAt": "2023-04-16T04:18:10Z",
+    "description": "Easily use LLM's in Neovim buffers",
+    "isArchived": false,
+    "lastCommit": "2023-04-22T21:31:41Z",
+    "nameWithOwner": "gsuuon/llm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "chatgpt",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "llm.nvim",
+  "owner": "gsuuon",
+  "url": "https://github.com/gsuuon/llm.nvim"
+}

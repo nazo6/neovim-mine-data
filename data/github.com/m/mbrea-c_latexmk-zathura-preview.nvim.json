@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-04-22T18:24:45Z",
+    "description": "Opinionated LaTeX previewer using zathura for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-04-22T22:16:12Z",
+    "nameWithOwner": "mbrea-c/latexmk-zathura-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "latexmk-zathura-preview.nvim",
+  "owner": "mbrea-c",
+  "url": "https://github.com/mbrea-c/latexmk-zathura-preview.nvim"
+}

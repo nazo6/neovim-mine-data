@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-04-17T17:10:07Z",
+    "description": "Use github code search within neovim",
+    "isArchived": false,
+    "lastCommit": "2023-04-19T13:28:21Z",
+    "nameWithOwner": "napisani/nvim-github-codesearch",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 50,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-github-codesearch",
+  "owner": "napisani",
+  "url": "https://github.com/napisani/nvim-github-codesearch"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "neovim-lua-development.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Colorscheme Creation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-04-16T07:19:14Z",
+    "description": "Tweak and save any color scheme. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2023-04-22T12:17:26Z",
+    "nameWithOwner": "echasnovski/mini.colors",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.colors",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.colors"
+}

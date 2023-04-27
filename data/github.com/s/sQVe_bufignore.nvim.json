@@ -42,17 +42,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 18,
     "createdAt": "2023-04-13T13:12:35Z",
-    "description": "Unlist hidden buffers that are git ignored.",
+    "description": "Unlist hidden buffers matching specified ignore sources.",
     "isArchived": false,
-    "lastCommit": "2023-04-15T15:26:21Z",
+    "lastCommit": "2023-04-20T10:19:53Z",
     "nameWithOwner": "sQVe/bufignore.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 12,
     "topics": [
     ]
   },

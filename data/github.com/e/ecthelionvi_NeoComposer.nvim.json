@@ -1,0 +1,65 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Macro"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-04-22T00:34:26Z",
+    "description": "Neovim plugin that simplifies macros, enhancing productivity with harmony.",
+    "isArchived": false,
+    "lastCommit": "2023-04-24T14:06:09Z",
+    "nameWithOwner": "ecthelionvi/NeoComposer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 175,
+    "topics": [
+      "lua",
+      "macros",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "NeoComposer.nvim",
+  "owner": "ecthelionvi",
+  "url": "https://github.com/ecthelionvi/NeoComposer.nvim"
+}

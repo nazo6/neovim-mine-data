@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "Database"
+      },
+      {
+        "level": 4,
+        "name": "SurrealDB"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-04-23T02:41:39Z",
+    "description": "tree-sitter-surrealdb nvim integration plugin",
+    "isArchived": false,
+    "lastCommit": "2023-04-25T07:32:26Z",
+    "nameWithOwner": "DariusCorvus/tree-sitter-surrealdb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "surrealdb",
+      "tree-sitter",
+      "tree-sitter-highlight"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tree-sitter-surrealdb.nvim",
+  "owner": "DariusCorvus",
+  "url": "https://github.com/DariusCorvus/tree-sitter-surrealdb.nvim"
+}

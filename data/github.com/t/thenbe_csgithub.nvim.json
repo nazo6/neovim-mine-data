@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "search"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-03-20T13:35:29Z",
+    "description": "Neovim plugin to search for code on Github.",
+    "isArchived": false,
+    "lastCommit": "2023-04-20T11:11:39Z",
+    "nameWithOwner": "thenbe/csgithub.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "search"
+    ]
+  },
+  "domain": "github.com",
+  "name": "csgithub.nvim",
+  "owner": "thenbe",
+  "url": "https://github.com/thenbe/csgithub.nvim"
+}

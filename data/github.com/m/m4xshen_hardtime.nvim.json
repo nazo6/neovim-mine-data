@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Training"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-04-24T17:38:50Z",
+    "description": "A Neovim plugin stopping you from repeating the basic movement keys ",
+    "isArchived": false,
+    "lastCommit": "2023-04-25T09:03:22Z",
+    "nameWithOwner": "m4xshen/hardtime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "hardtime",
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hardtime.nvim",
+  "owner": "m4xshen",
+  "url": "https://github.com/m4xshen/hardtime.nvim"
+}

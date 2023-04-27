@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2023-04-16T14:05:26Z",
+    "description": "A project manager for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-04-27T02:55:54Z",
+    "nameWithOwner": "aaditeynair/conduct.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "conduct.nvim",
+  "owner": "aaditeynair",
+  "url": "https://github.com/aaditeynair/conduct.nvim"
+}

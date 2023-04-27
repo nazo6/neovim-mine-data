@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2023-04-14T22:42:36Z",
+    "description": "A Neovim plugin for quickly executing git commands with popup window UI",
+    "isArchived": false,
+    "lastCommit": "2023-04-18T18:42:35Z",
+    "nameWithOwner": "mathiasmellemstuen/git-popup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-popup.nvim",
+  "owner": "mathiasmellemstuen",
+  "url": "https://github.com/mathiasmellemstuen/git-popup.nvim"
+}

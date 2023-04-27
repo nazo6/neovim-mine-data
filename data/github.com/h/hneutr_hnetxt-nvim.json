@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-04-09T01:31:43Z",
+    "description": "nvim plugin for hnetxt",
+    "isArchived": false,
+    "lastCommit": "2023-04-26T21:47:02Z",
+    "nameWithOwner": "hneutr/hnetxt-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hnetxt-nvim",
+  "owner": "hneutr",
+  "url": "https://github.com/hneutr/hnetxt-nvim"
+}

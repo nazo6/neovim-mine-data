@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "OS"
+      },
+      {
+        "level": 4,
+        "name": "Linux"
+      },
+      {
+        "level": 5,
+        "name": "Inkscape"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-04-17T22:03:34Z",
+    "description": "A neovim plugin for managing figures that are drawn in Inkscape and included in a markup document (only markdown for now).",
+    "isArchived": false,
+    "lastCommit": "2023-04-19T05:14:43Z",
+    "nameWithOwner": "silaswaxter/inkscape-figure-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "inkscape-figure-manager.nvim",
+  "owner": "silaswaxter",
+  "url": "https://github.com/silaswaxter/inkscape-figure-manager.nvim"
+}

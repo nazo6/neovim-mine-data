@@ -24,11 +24,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 45,
+    "commitCountLastYear": 97,
     "createdAt": "2023-04-07T06:58:26Z",
     "description": "Notion API wrapper for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-04-15T17:32:46Z",
+    "lastCommit": "2023-04-26T20:56:21Z",
     "nameWithOwner": "Al0den/notion.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -39,7 +39,8 @@
       "notion",
       "neovim",
       "plugin",
-      "wrapper"
+      "wrapper",
+      "lua"
     ]
   },
   "domain": "github.com",

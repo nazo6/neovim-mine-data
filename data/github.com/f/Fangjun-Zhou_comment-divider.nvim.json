@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      },
+      {
+        "level": 4,
+        "name": "Comment Header"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-04-15T04:56:28Z",
+    "description": "Replacement of VSCode Comment Divider plugin in nvim.",
+    "isArchived": false,
+    "lastCommit": "2023-04-20T04:04:24Z",
+    "nameWithOwner": "Fangjun-Zhou/comment-divider.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment-divider.nvim",
+  "owner": "Fangjun-Zhou",
+  "url": "https://github.com/Fangjun-Zhou/comment-divider.nvim"
+}

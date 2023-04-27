@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "yank_paste.md"
+      },
+      {
+        "level": 1,
+        "name": "Yank"
+      },
+      {
+        "level": 2,
+        "name": "OSC52"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2020-08-09T02:34:27Z",
+    "description": "Copy text to local clipboard in ssh using OSC52",
+    "isArchived": false,
+    "lastCommit": "2022-05-21T03:19:53Z",
+    "nameWithOwner": "yutkat/osc52.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "osc52.nvim",
+  "owner": "yutkat",
+  "url": "https://github.com/yutkat/osc52.nvim"
+}

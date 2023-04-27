@@ -16,12 +16,12 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 48,
+    "commitCountLastYear": 59,
     "createdAt": "2023-02-02T02:13:33Z",
-    "description": "Neovim plugin for Spring Initializr and Maven archetypes written in Lua (WIP)",
+    "description": "Neovim plugin for Spring Initializr written in Lua (WIP)",
     "isArchived": false,
-    "lastCommit": "2023-04-11T15:22:01Z",
-    "nameWithOwner": "javiorfo/nvim-mug",
+    "lastCommit": "2023-04-25T16:37:08Z",
+    "nameWithOwner": "javiorfo/nvim-springtime",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,11 +35,12 @@
       "spring-boot",
       "gradle",
       "groovy",
-      "kotlin"
+      "kotlin",
+      "rust"
     ]
   },
   "domain": "github.com",
-  "name": "nvim-mug",
+  "name": "nvim-springtime",
   "owner": "javiorfo",
   "url": "https://github.com/javio7/nvim-osfa"
 }
