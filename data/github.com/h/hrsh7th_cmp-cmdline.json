@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "commandline.md"
       },
       {
         "level": 1,
@@ -11,20 +11,16 @@
       },
       {
         "level": 2,
-        "name": "Other Standard Feature Enhancement"
+        "name": "Command Line UI"
       },
       {
         "level": 3,
-        "name": "Command Line"
-      },
-      {
-        "level": 4,
         "name": "command line completion"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 25,
     "createdAt": "2021-10-21T16:43:05Z",
     "description": "nvim-cmp source for vim's cmdline",
     "isArchived": false,
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 296,
+    "star": 299,
     "topics": [
       "nvim-cmp"
     ]

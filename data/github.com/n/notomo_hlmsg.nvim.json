@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
@@ -15,16 +15,16 @@
       },
       {
         "level": 3,
-        "name": "Messsage"
+        "name": "Message"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 25,
     "createdAt": "2022-09-05T14:01:00Z",
     "description": "Neovim plugin to get highlighted message history",
     "isArchived": false,
-    "lastCommit": "2023-03-26T09:52:30Z",
+    "lastCommit": "2023-04-28T12:10:33Z",
     "nameWithOwner": "notomo/hlmsg.nvim",
     "primaryLanguage": {
       "color": "#000080",

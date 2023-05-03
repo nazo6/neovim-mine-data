@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
@@ -38,17 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 576,
+    "commitCountLastYear": 579,
     "createdAt": "2022-07-14T10:40:43Z",
     "description": "A VS Code like winbar for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-04-22T15:37:22Z",
+    "lastCommit": "2023-04-28T15:55:15Z",
     "nameWithOwner": "utilyre/barbecue.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 361,
+    "star": 369,
     "topics": [
       "lua",
       "neovim",

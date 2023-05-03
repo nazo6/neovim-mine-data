@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "command.md"
       },
       {
         "level": 1,
@@ -11,10 +11,6 @@
       },
       {
         "level": 2,
-        "name": "Other Standard Feature Enhancement"
-      },
-      {
-        "level": 3,
         "name": "Command"
       }
     ],
@@ -38,17 +34,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 51,
+    "commitCountLastYear": 52,
     "createdAt": "2022-07-11T19:14:19Z",
     "description": "The easiest way to create previewable commands in Neovim.",
     "isArchived": false,
-    "lastCommit": "2022-10-17T15:09:41Z",
+    "lastCommit": "2023-04-28T16:37:56Z",
     "nameWithOwner": "smjonas/live-command.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 327,
+    "star": 333,
     "topics": [
       "neovim-plugin",
       "neovim"

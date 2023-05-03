@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "commandline.md"
       },
       {
         "level": 1,
@@ -11,10 +11,6 @@
       },
       {
         "level": 2,
-        "name": "Other Standard Feature Enhancement"
-      },
-      {
-        "level": 3,
         "name": "Command Line"
       }
     ],
@@ -48,7 +44,7 @@
       "color": "#199f4b",
       "name": "Vim Script"
     },
-    "star": 1002,
+    "star": 1005,
     "topics": [
       "neovim",
       "vim",

@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
@@ -24,17 +24,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 19,
     "createdAt": "2022-10-24T16:22:07Z",
     "description": "Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.",
     "isArchived": false,
-    "lastCommit": "2023-03-13T14:31:52Z",
+    "lastCommit": "2023-04-30T08:04:33Z",
     "nameWithOwner": "echasnovski/mini.indentscope",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 54,
+    "star": 58,
     "topics": [
       "lua",
       "mini-nvim",

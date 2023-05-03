@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Selector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2023-04-09T19:57:42Z",
+    "description": "a neovim plugin that creates a vertical split window to help you manage and navigate your buffers more efficiently",
+    "isArchived": false,
+    "lastCommit": "2023-04-30T20:26:28Z",
+    "nameWithOwner": "Hajime-Suzuki/vuffers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "buffers",
+      "navigation",
+      "neovim",
+      "neovim-plugin",
+      "buffers-explorer",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vuffers.nvim",
+  "owner": "Hajime-Suzuki",
+  "url": "https://github.com/Hajime-Suzuki/vuffers.nvim"
+}

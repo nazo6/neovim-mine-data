@@ -7,11 +7,22 @@
       }
     ]
   ],
-  "domain": "github.com",
-  "error": {
-    "message": "Could not resolve to a Repository with the name 'loichyan/spark.nvim'.",
-    "reason": "NOT_FOUND"
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2023-05-03T01:46:46Z",
+    "description": "🌟  A lazy and sequential loading plugin manager for neovim written in TypeScript.",
+    "isArchived": true,
+    "lastCommit": "2023-05-03T01:48:38Z",
+    "nameWithOwner": "loichyan/spark.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
   },
+  "domain": "github.com",
   "name": "spark.nvim",
   "owner": "loichyan",
   "url": "https://github.com/loichyan/spark.nvim"

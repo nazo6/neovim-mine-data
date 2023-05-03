@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
@@ -20,17 +20,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 13,
     "createdAt": "2022-10-24T16:24:10Z",
     "description": "Neovim Lua plugin to manage window with buffer text overview. Part of 'mini.nvim' library.",
     "isArchived": false,
-    "lastCommit": "2023-03-13T14:31:52Z",
+    "lastCommit": "2023-04-30T08:04:33Z",
     "nameWithOwner": "echasnovski/mini.map",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 23,
+    "star": 26,
     "topics": [
       "lua",
       "mini-nvim",

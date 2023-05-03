@@ -3,15 +3,11 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "code-outline.md"
       },
       {
         "level": 1,
         "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Coding"
       },
       {
         "level": 3,
@@ -42,7 +38,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 67,
+    "commitCountLastYear": 65,
     "createdAt": "2021-04-19T01:17:58Z",
     "description": "A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.",
     "isArchived": false,
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1437,
+    "star": 1453,
     "topics": [
       "neovim"
     ]

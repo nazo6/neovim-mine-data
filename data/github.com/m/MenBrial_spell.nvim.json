@@ -3,15 +3,11 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "spellcheck.md"
       },
       {
         "level": 1,
         "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Other Standard Feature Enhancement"
       },
       {
         "level": 3,
@@ -24,11 +20,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2022-10-30T14:05:36Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2022-10-30T14:06:59Z",
+    "lastCommit": "2023-04-29T15:04:29Z",
     "nameWithOwner": "MenBrial/spell.nvim",
     "primaryLanguage": {
       "color": "#000080",

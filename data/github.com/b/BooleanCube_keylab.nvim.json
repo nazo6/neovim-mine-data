@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Game"
+      },
+      {
+        "level": 4,
+        "name": "Typing"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 52,
+    "createdAt": "2023-04-17T01:14:34Z",
+    "description": "Practice your nvim keybinding configuration for a boost in productivity.",
+    "isArchived": false,
+    "lastCommit": "2023-05-01T21:03:04Z",
+    "nameWithOwner": "BooleanCube/keylab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keylab.nvim",
+  "owner": "BooleanCube",
+  "url": "https://github.com/BooleanCube/keylab.nvim"
+}

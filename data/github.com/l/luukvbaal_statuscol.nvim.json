@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
@@ -38,17 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 102,
+    "commitCountLastYear": 104,
     "createdAt": "2022-11-21T12:04:24Z",
     "description": "Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
     "isArchived": false,
-    "lastCommit": "2023-04-23T16:09:49Z",
+    "lastCommit": "2023-05-02T21:33:33Z",
     "nameWithOwner": "luukvbaal/statuscol.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 267,
+    "star": 269,
     "topics": [
       "lua",
       "neovim",

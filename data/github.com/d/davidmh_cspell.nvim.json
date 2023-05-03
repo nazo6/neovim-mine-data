@@ -3,15 +3,11 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "spellcheck.md"
       },
       {
         "level": 1,
         "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Other Standard Feature Enhancement"
       },
       {
         "level": 3,
@@ -24,17 +20,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 9,
     "createdAt": "2023-04-23T18:23:33Z",
     "description": "A companion plugin for null-ls, adding support for CSpell diagnostics and code actions.",
     "isArchived": false,
-    "lastCommit": "2023-04-25T23:50:43Z",
+    "lastCommit": "2023-04-29T04:55:46Z",
     "nameWithOwner": "davidmh/cspell.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 9,
     "topics": [
     ]
   },

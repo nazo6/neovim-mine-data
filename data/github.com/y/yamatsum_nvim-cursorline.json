@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "cursorline_columnline.md"
       },
       {
         "level": 1,
@@ -11,10 +11,6 @@
       },
       {
         "level": 2,
-        "name": "Appearance"
-      },
-      {
-        "level": 3,
         "name": "Cursorline"
       }
     ],
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 315,
+    "star": 318,
     "topics": [
       "neovim",
       "lua"

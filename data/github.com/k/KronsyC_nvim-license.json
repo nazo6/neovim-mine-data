@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "LICENSE"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-04-30T14:14:32Z",
+    "description": "A simple tool for writing licenses and license headers",
+    "isArchived": false,
+    "lastCommit": "2023-05-02T21:09:53Z",
+    "nameWithOwner": "KronsyC/nvim-license",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-license",
+  "owner": "KronsyC",
+  "url": "https://github.com/KronsyC/nvim-license"
+}

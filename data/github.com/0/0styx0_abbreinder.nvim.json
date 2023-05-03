@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
@@ -38,7 +38,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 0,
     "createdAt": "2021-07-11T15:12:08Z",
     "description": "Abbreviation reminder plugin for Neovim 0.5+",
     "isArchived": false,
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 67,
+    "star": 68,
     "topics": [
       "neovim",
       "lua",

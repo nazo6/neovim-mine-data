@@ -3,34 +3,15 @@
     [
       {
         "level": 0,
-        "name": "note-taking.md"
-      },
-      {
-        "level": 1,
-        "name": "Note Taking"
-      },
-      {
-        "level": 2,
-        "name": "Wiki"
+        "name": "Archived.md"
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 43,
-    "createdAt": "2022-09-03T10:53:09Z",
-    "description": "Just another Wiki for Neovim",
-    "isArchived": false,
-    "lastCommit": "2022-10-03T11:31:06Z",
-    "nameWithOwner": "Jxstxs/jaw.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 2,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'Jxstxs/jaw.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "jaw.nvim",
   "owner": "Jxstxs",
   "url": "https://github.com/Jxstxs/jaw.nvim"

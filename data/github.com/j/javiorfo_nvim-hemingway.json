@@ -3,7 +3,15 @@
     [
       {
         "level": 0,
-        "name": "Archived.md"
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
       }
     ]
   ],
@@ -29,5 +37,5 @@
   "domain": "github.com",
   "name": "nvim-hemingway",
   "owner": "javiorfo",
-  "url": "https://github.com/charkuils/nvim-hemingway"
+  "url": "https://github.com/javio7/nvim-hemingway"
 }

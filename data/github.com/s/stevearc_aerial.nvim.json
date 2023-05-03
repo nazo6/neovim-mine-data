@@ -3,15 +3,11 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "code-outline.md"
       },
       {
         "level": 1,
         "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Coding"
       },
       {
         "level": 3,
@@ -46,13 +42,13 @@
     "createdAt": "2020-09-19T22:59:49Z",
     "description": "Neovim plugin for a code outline window",
     "isArchived": false,
-    "lastCommit": "2023-04-21T03:41:53Z",
+    "lastCommit": "2023-05-02T05:11:37Z",
     "nameWithOwner": "stevearc/aerial.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 878,
+    "star": 889,
     "topics": [
       "nvim",
       "lsp",

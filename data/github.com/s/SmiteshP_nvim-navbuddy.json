@@ -3,15 +3,11 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "code-outline.md"
       },
       {
         "level": 1,
         "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Coding"
       },
       {
         "level": 3,
@@ -42,17 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 102,
+    "commitCountLastYear": 104,
     "createdAt": "2023-03-20T11:28:42Z",
     "description": "A simple popup display that provides breadcrumbs feature using LSP server",
     "isArchived": false,
-    "lastCommit": "2023-04-15T10:56:09Z",
+    "lastCommit": "2023-04-28T07:12:55Z",
     "nameWithOwner": "SmiteshP/nvim-navbuddy",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 353,
+    "star": 365,
     "topics": [
       "document-symbols",
       "language-server-protocol",

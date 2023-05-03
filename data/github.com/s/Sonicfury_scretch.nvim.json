@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Scratch Buffer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-04-30T19:53:34Z",
+    "description": "📝 Neovim plugin to manage scratch files !",
+    "isArchived": false,
+    "lastCommit": "2023-05-01T14:24:37Z",
+    "nameWithOwner": "Sonicfury/scretch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "scretch.nvim",
+  "owner": "Sonicfury",
+  "url": "https://github.com/Sonicfury/scretch"
+}

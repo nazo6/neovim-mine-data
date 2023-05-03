@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "mode.md"
       },
       {
         "level": 1,
@@ -11,30 +11,26 @@
       },
       {
         "level": 2,
-        "name": "Appearance"
-      },
-      {
-        "level": 3,
         "name": "Mode"
       },
       {
-        "level": 4,
+        "level": 3,
         "name": "Mode Viewer"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 11,
     "createdAt": "2021-07-27T03:53:43Z",
     "description": "Prismatic line decorations for the adventurous vim user",
     "isArchived": false,
-    "lastCommit": "2023-01-09T14:29:25Z",
+    "lastCommit": "2023-04-29T14:20:03Z",
     "nameWithOwner": "mvllow/modes.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 324,
+    "star": 326,
     "topics": [
       "lua",
       "neovim",

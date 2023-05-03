@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Root Detector"
+      },
+      {
+        "level": 5,
+        "name": "Monorepo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-04-27T10:23:16Z",
+    "description": "A way to manage monorepos in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-05-02T00:44:46Z",
+    "nameWithOwner": "imNel/monorepo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 38,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "monorepo.nvim",
+  "owner": "imNel",
+  "url": "https://github.com/imNel/monorepo.nvim"
+}

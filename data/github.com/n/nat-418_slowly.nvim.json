@@ -3,28 +3,16 @@
     [
       {
         "level": 0,
-        "name": "plugin-manager.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Plugin Manager"
-      },
-      {
-        "level": 3,
-        "name": "Use builtin package feature"
+        "name": "Archived.md"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 28,
     "createdAt": "2022-10-21T19:22:38Z",
     "description": "Neovim plugin manager where simplicity > speed",
-    "isArchived": false,
-    "lastCommit": "2023-01-08T15:31:48Z",
+    "isArchived": true,
+    "lastCommit": "2023-05-02T07:13:15Z",
     "nameWithOwner": "nat-418/slowly.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "cursorline_columnline.md"
       },
       {
         "level": 1,
@@ -11,10 +11,6 @@
       },
       {
         "level": 2,
-        "name": "Appearance"
-      },
-      {
-        "level": 3,
         "name": "Columnline"
       }
     ],
@@ -38,17 +34,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 70,
+    "commitCountLastYear": 72,
     "createdAt": "2023-03-24T23:20:55Z",
     "description": "A neovim plugin that shows colorcolumn dynamically",
     "isArchived": false,
-    "lastCommit": "2023-04-03T20:34:04Z",
+    "lastCommit": "2023-05-02T07:29:07Z",
     "nameWithOwner": "Bekaboo/deadcolumn.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 88,
+    "star": 96,
     "topics": [
       "lua",
       "neovim",

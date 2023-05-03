@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
@@ -20,11 +20,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 16,
     "createdAt": "2023-02-17T23:14:36Z",
-    "description": "Smart automatic keyboard layout switching in 110 SLOC",
+    "description": "Smart automatic keyboard layout switching in 120 LOC",
     "isArchived": false,
-    "lastCommit": "2023-03-28T21:57:17Z",
+    "lastCommit": "2023-04-29T14:13:50Z",
     "nameWithOwner": "ivanesmantovich/xkbswitch.nvim",
     "primaryLanguage": {
       "color": "#000080",

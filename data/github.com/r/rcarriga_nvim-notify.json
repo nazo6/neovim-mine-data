@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "neovim-lua-library.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
@@ -11,7 +11,7 @@
       },
       {
         "level": 2,
-        "name": "UI"
+        "name": "New features"
       },
       {
         "level": 3,
@@ -21,7 +21,7 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "neovim-lua-library.md"
       },
       {
         "level": 1,
@@ -29,7 +29,7 @@
       },
       {
         "level": 2,
-        "name": "New features"
+        "name": "UI"
       },
       {
         "level": 3,
@@ -56,7 +56,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 63,
+    "commitCountLastYear": 61,
     "createdAt": "2021-07-30T23:19:09Z",
     "description": "A fancy, configurable, notification manager for NeoVim",
     "isArchived": false,
@@ -66,7 +66,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2038,
+    "star": 2049,
     "topics": [
       "neovim",
       "nvim"
