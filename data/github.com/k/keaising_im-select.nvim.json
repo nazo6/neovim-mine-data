@@ -11,7 +11,7 @@
       },
       {
         "level": 2,
-        "name": "Integration with other apps"
+        "name": "Development environment"
       },
       {
         "level": 3,
@@ -38,17 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 21,
     "createdAt": "2022-07-27T06:23:08Z",
     "description": "Switch Input Method automatically depends on Neovim's edit mode ",
     "isArchived": false,
-    "lastCommit": "2023-04-10T07:07:22Z",
+    "lastCommit": "2023-05-06T05:52:57Z",
     "nameWithOwner": "keaising/im-select.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 59,
+    "star": 60,
     "topics": [
       "neovim",
       "neovim-lua-plugin",

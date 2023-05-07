@@ -11,7 +11,7 @@
       },
       {
         "level": 2,
-        "name": "Integration with other apps"
+        "name": "Development environment"
       },
       {
         "level": 3,
@@ -23,22 +23,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 9,
-    "createdAt": "2022-12-27T01:37:01Z",
-    "description": null,
-    "isArchived": false,
-    "lastCommit": "2023-02-17T17:25:39Z",
-    "nameWithOwner": "pandasoli/discord-presence.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 3,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'pandasoli/discord-presence.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "discord-presence.nvim",
   "owner": "pandasoli",
   "url": "https://github.com/pandasoli/discord-presence.nvim"

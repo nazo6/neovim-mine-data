@@ -34,23 +34,26 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 82,
+    "commitCountLastYear": 83,
     "createdAt": "2023-02-16T04:13:18Z",
-    "description": "A minimal, stylish and customizable statusline / winbar for Neovim written in Lua",
+    "description": "A minimal, stylish and customizable statusline, statuscolumn, and winbar for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-05-01T13:08:02Z",
+    "lastCommit": "2023-05-07T01:20:23Z",
     "nameWithOwner": "freddiehaddad/feline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 116,
+    "star": 118,
     "topics": [
       "neovim",
       "statusline",
       "winbar",
       "feline",
-      "plugin"
+      "plugin",
+      "lua",
+      "nvim",
+      "statuscolumn"
     ]
   },
   "domain": "github.com",

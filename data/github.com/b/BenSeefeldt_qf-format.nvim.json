@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "quickfix_location.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Quickfix"
+      },
+      {
+        "level": 3,
+        "name": "Syntax"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-05-02T04:33:51Z",
+    "description": "Autoformat and syntax highlight the quickfix window in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-05-02T13:16:33Z",
+    "nameWithOwner": "BenSeefeldt/qf-format.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qf-format.nvim",
+  "owner": "BenSeefeldt",
+  "url": "https://github.com/BenSeefeldt/qf-format.nvim"
+}

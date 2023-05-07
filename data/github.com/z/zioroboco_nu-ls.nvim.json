@@ -11,7 +11,7 @@
       },
       {
         "level": 2,
-        "name": "Integration with other apps"
+        "name": "Development environment"
       },
       {
         "level": 3,
@@ -24,17 +24,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 33,
     "createdAt": "2023-04-20T05:56:38Z",
     "description": "A null-ls source providing language server features for the nushell language in neovim",
     "isArchived": false,
-    "lastCommit": "2023-04-29T17:00:15Z",
+    "lastCommit": "2023-05-07T02:17:19Z",
     "nameWithOwner": "zioroboco/nu-ls.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9,
+    "star": 10,
     "topics": [
       "neovim",
       "nushell"

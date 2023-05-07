@@ -11,7 +11,7 @@
       },
       {
         "level": 2,
-        "name": "Integration with other apps"
+        "name": "Development environment"
       },
       {
         "level": 3,
@@ -24,17 +24,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 102,
+    "commitCountLastYear": 113,
     "createdAt": "2022-12-10T17:27:28Z",
     "description": "Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.",
     "isArchived": false,
-    "lastCommit": "2023-05-02T12:56:31Z",
+    "lastCommit": "2023-05-07T10:08:37Z",
     "nameWithOwner": "jackMort/ChatGPT.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1697,
+    "star": 1715,
     "topics": [
       "chatgpt",
       "nvim-plugin",

@@ -24,11 +24,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 39,
+    "commitCountLastYear": 43,
     "createdAt": "2023-03-05T19:23:05Z",
     "description": "A plugin for Neovim that allows you to check updates and versions of your node packages from within Neovim.",
     "isArchived": false,
-    "lastCommit": "2023-04-27T04:44:22Z",
+    "lastCommit": "2023-05-06T07:25:42Z",
     "nameWithOwner": "azizgharbi/nodePackageCheck.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -36,6 +36,9 @@
     },
     "star": 1,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

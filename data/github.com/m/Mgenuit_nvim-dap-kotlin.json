@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Kotlin"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-02-06T20:20:40Z",
+    "description": "An extension for nvim-dap providing configurations for launching kotlin debugger (kotlin-debug-adapter). Allowing you to debug applications and tests",
+    "isArchived": false,
+    "lastCommit": "2023-02-06T20:21:47Z",
+    "nameWithOwner": "Mgenuit/nvim-dap-kotlin",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-kotlin",
+  "owner": "Mgenuit",
+  "url": "https://github.com/Mgenuit/nvim-dap-kotlin"
+}

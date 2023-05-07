@@ -11,11 +11,11 @@
       },
       {
         "level": 2,
-        "name": "Integration with other apps"
+        "name": "Development environment"
       },
       {
         "level": 3,
-        "name": "CI"
+        "name": "CLI"
       },
       {
         "level": 4,
@@ -46,17 +46,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 22,
     "createdAt": "2021-06-19T04:19:00Z",
     "description": "tmux integration for nvim features pane movement and resizing from within nvim.",
     "isArchived": false,
-    "lastCommit": "2023-04-11T17:59:57Z",
+    "lastCommit": "2023-05-05T04:29:08Z",
     "nameWithOwner": "aserowy/tmux.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 395,
+    "star": 398,
     "topics": [
       "neovim",
       "neovim-plugin",

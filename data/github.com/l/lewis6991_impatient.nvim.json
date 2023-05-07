@@ -20,17 +20,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 25,
     "createdAt": "2021-08-28T17:27:00Z",
     "description": "Improve startup time for Neovim",
-    "isArchived": false,
-    "lastCommit": "2022-12-28T12:16:46Z",
+    "isArchived": true,
+    "lastCommit": "2023-05-05T08:47:45Z",
     "nameWithOwner": "lewis6991/impatient.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1230,
+    "star": 1231,
     "topics": [
       "neovim",
       "neovim-plugin",

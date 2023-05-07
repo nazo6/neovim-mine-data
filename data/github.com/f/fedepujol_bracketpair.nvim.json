@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "auto-insert.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "insert pairs"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-09-22T12:43:38Z",
+    "description": "Colorized bracket scope in lua!",
+    "isArchived": false,
+    "lastCommit": "2023-05-05T20:31:22Z",
+    "nameWithOwner": "fedepujol/bracketpair.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "lua",
+      "bracket-pair-colorizer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bracketpair.nvim",
+  "owner": "fedepujol",
+  "url": "https://github.com/fedepujol/bracketpair.nvim"
+}

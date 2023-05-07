@@ -11,7 +11,7 @@
       },
       {
         "level": 2,
-        "name": "Integration with other apps"
+        "name": "Development environment"
       },
       {
         "level": 3,
@@ -42,7 +42,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 21,
     "createdAt": "2022-02-08T00:22:32Z",
     "description": "NeoVim lua plugin that annotates source code with profiling information from perf or other profilers",
     "isArchived": false,
