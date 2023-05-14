@@ -3,34 +3,30 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "git-github.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        "name": "Git"
       },
       {
         "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
-        "name": "Git"
+        "name": "search"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 40,
+    "commitCountLastYear": 45,
     "createdAt": "2023-03-01T16:33:25Z",
     "description": "Search your git history by commit message, content and author in Neovim",
     "isArchived": false,
-    "lastCommit": "2023-04-16T20:21:32Z",
+    "lastCommit": "2023-05-10T12:09:22Z",
     "nameWithOwner": "aaronhallaert/advanced-git-search.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 138,
+    "star": 168,
     "topics": [
       "git",
       "neovim",
@@ -40,5 +36,5 @@
   "domain": "github.com",
   "name": "advanced-git-search.nvim",
   "owner": "aaronhallaert",
-  "url": "https://github.com/aaronhallaert/advanced-git-search.nvim"
+  "url": "https://github.com/aaronhallaert/ts-advanced-git-search.nvim"
 }

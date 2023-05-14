@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Reading assistant feature"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2022-06-29T13:37:52Z",
+    "description": "breadcrumb for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-12-13T01:01:12Z",
+    "nameWithOwner": "loctvl842/breadcrumb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "breadcrumb",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "breadcrumb.nvim",
+  "owner": "loctvl842",
+  "url": "https://github.com/loctvl842/breadcrumb.nvim"
+}

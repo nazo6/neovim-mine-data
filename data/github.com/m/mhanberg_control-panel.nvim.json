@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "window"
+      },
+      {
+        "level": 5,
+        "name": "logMessage"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-05-05T18:29:14Z",
+    "description": "experimental plugin, use with caution",
+    "isArchived": false,
+    "lastCommit": "2023-05-12T02:45:51Z",
+    "nameWithOwner": "mhanberg/control-panel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "control-panel.nvim",
+  "owner": "mhanberg",
+  "url": "https://github.com/mhanberg/control-panel.nvim"
+}

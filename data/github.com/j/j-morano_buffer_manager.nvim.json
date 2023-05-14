@@ -3,19 +3,19 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "buffer_window_tab-management.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        "name": "Table of Contents"
       },
       {
         "level": 2,
-        "name": "Plugin"
+        "name": "Buffer"
       },
       {
         "level": 3,
-        "name": "Utility"
+        "name": "Buffer Selector"
       }
     ]
   ],
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 89,
+    "star": 91,
     "topics": [
       "buffers",
       "lua",
@@ -41,5 +41,5 @@
   "domain": "github.com",
   "name": "buffer_manager.nvim",
   "owner": "j-morano",
-  "url": "https://github.com/j-morano/buffer_manager.nvim"
+  "url": "https://github.com/sonarom/peruse.nvim"
 }

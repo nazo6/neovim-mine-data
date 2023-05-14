@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 7,
     "createdAt": "2022-10-25T20:20:35Z",
-    "description": "View RSpec failure messages as diagnostic entries in Neovim",
+    "description": "Run RSpec. View failure messages as diagnostic entries in Neovim",
     "isArchived": false,
     "lastCommit": "2023-04-05T22:50:55Z",
     "nameWithOwner": "melopilosyan/rspec-integrated.nvim",
@@ -36,7 +36,8 @@
       "integration",
       "neovim",
       "rspec",
-      "lua"
+      "lua",
+      "nvim"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Integration with other apps"
+      },
+      {
+        "level": 3,
+        "name": "Browser Integration"
+      },
+      {
+        "level": 4,
+        "name": "Firefox"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-02-04T15:17:18Z",
+    "description": "Telescope extension to navigate Firefox's history and bookmarks",
+    "isArchived": false,
+    "lastCommit": "2023-05-08T22:49:10Z",
+    "nameWithOwner": "dawsers/telescope-firefox.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-firefox.nvim",
+  "owner": "dawsers",
+  "url": "https://github.com/dawsers/telescope-firefox.nvim"
+}

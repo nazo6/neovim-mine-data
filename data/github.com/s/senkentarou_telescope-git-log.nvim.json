@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git log"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-05-06T09:12:00Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-05-07T09:04:51Z",
+    "nameWithOwner": "senkentarou/telescope-git-log.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-git-log.nvim",
+  "owner": "senkentarou",
+  "url": "https://github.com/senkentarou/telescope-git-log.nvim"
+}

@@ -3,15 +3,7 @@
     [
       {
         "level": 0,
-        "name": "linter_formatter.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Formatter"
+        "name": "Archived.md"
       }
     ]
   ],
@@ -19,14 +11,14 @@
     "commitCountLastYear": 4,
     "createdAt": "2022-10-04T10:18:27Z",
     "description": "bridge mason.nvim and formatter.nvim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-10-04T10:17:40Z",
     "nameWithOwner": "princejoogie/mason-formatter.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 6,
     "topics": [
     ]
   },

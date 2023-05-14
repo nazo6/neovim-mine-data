@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "locate"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-05-08T22:19:37Z",
+    "description": "Telescope extension to use `locate` for system-wide quick file search",
+    "isArchived": false,
+    "lastCommit": "2023-05-08T22:17:19Z",
+    "nameWithOwner": "dawsers/telescope-locate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-locate.nvim",
+  "owner": "dawsers",
+  "url": "https://github.com/dawsers/telescope-locate.nvim"
+}

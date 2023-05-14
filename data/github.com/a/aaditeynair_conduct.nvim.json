@@ -20,18 +20,26 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 45,
+    "commitCountLastYear": 55,
     "createdAt": "2023-04-16T14:05:26Z",
-    "description": "A project manager for Neovim",
+    "description": "A project management plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-05-02T06:50:20Z",
+    "lastCommit": "2023-05-10T04:23:18Z",
     "nameWithOwner": "aaditeynair/conduct.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 25,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "plugin",
+      "project-management",
+      "vim"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "CI"
+      },
+      {
+        "level": 4,
+        "name": "Jenkins"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-05-11T20:21:08Z",
+    "description": "A linter of Jenkins using the Jenkins server",
+    "isArchived": false,
+    "lastCommit": "2023-05-11T20:26:58Z",
+    "nameWithOwner": "cvanhoosear/jenkins-linter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jenkins-linter.nvim",
+  "owner": "cvanhoosear",
+  "url": "https://github.com/cvanhoosear/jenkins-linter.nvim"
+}

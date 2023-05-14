@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Backup"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-05-08T16:11:29Z",
+    "description": "Neovim local file history managed by git and Telescope",
+    "isArchived": false,
+    "lastCommit": "2023-05-08T16:32:50Z",
+    "nameWithOwner": "dawsers/telescope-file-history.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-file-history.nvim",
+  "owner": "dawsers",
+  "url": "https://github.com/dawsers/telescope-file-history.nvim"
+}
