@@ -16,18 +16,21 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 14,
     "createdAt": "2023-05-07T09:26:41Z",
     "description": "Hugging Face Code Completion for neovim",
     "isArchived": false,
-    "lastCommit": "2023-05-09T20:33:39Z",
+    "lastCommit": "2023-05-16T18:10:04Z",
     "nameWithOwner": "huggingface/hfcc.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 116,
+    "star": 133,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "lua"
     ]
   },
   "domain": "github.com",

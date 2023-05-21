@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-05-13T18:16:20Z",
+    "description": "A neovim plugin to change the background between light and dark based on the sunrise and sunset.",
+    "isArchived": false,
+    "lastCommit": "2023-05-19T12:15:38Z",
+    "nameWithOwner": "duboisf/crepuscule.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "crepuscule.nvim",
+  "owner": "duboisf",
+  "url": "https://github.com/duboisf/crepuscule.nvim"
+}

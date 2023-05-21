@@ -3,38 +3,34 @@
     [
       {
         "level": 0,
-        "name": "readme.md"
+        "name": "README.md"
       },
       {
         "level": 1,
-        "name": "Table of Contents"
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
       },
       {
         "level": 2,
-        "name": "Coding"
+        "name": "Plugin"
       },
       {
         "level": 3,
-        "name": "[Comment Out](./comment.md)"
-      },
-      {
-        "level": 4,
-        "name": "Context Header"
+        "name": "Editing Support"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 117,
+    "commitCountLastYear": 124,
     "createdAt": "2020-10-19T09:32:33Z",
     "description": "Show code context",
     "isArchived": false,
-    "lastCommit": "2023-05-12T10:02:01Z",
+    "lastCommit": "2023-05-17T10:56:45Z",
     "nameWithOwner": "nvim-treesitter/nvim-treesitter-context",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1472,
+    "star": 1497,
     "topics": [
       "vim",
       "neovim",
@@ -45,5 +41,5 @@
   "domain": "github.com",
   "name": "nvim-treesitter-context",
   "owner": "nvim-treesitter",
-  "url": "https://github.com/romgrk/nvim-treesitter-context"
+  "url": "https://github.com/nvim-treesitter/nvim-treesitter-context"
 }

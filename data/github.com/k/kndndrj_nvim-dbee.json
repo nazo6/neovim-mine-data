@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "Database"
+      },
+      {
+        "level": 4,
+        "name": "SQL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 92,
+    "createdAt": "2023-01-24T08:24:17Z",
+    "description": "Interactive database client for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-05-13T16:17:31Z",
+    "nameWithOwner": "kndndrj/nvim-dbee",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 57,
+    "topics": [
+      "neovim",
+      "bee",
+      "database",
+      "database-client",
+      "golang",
+      "lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dbee",
+  "owner": "kndndrj",
+  "url": "https://github.com/kndndrj/nvim-dbee"
+}

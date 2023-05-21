@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Screen server"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-05-16T13:23:38Z",
+    "description": "Show a custom splash screen in a floating window",
+    "isArchived": false,
+    "lastCommit": "2023-05-19T10:34:40Z",
+    "nameWithOwner": "jovanlanik/fsplash.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "nvim-plugins",
+      "splash",
+      "splashscreen"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fsplash.nvim",
+  "owner": "jovanlanik",
+  "url": "https://github.com/jovanlanik/fsplash.nvim"
+}

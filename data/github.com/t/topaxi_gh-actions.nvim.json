@@ -38,18 +38,26 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 114,
+    "commitCountLastYear": 115,
     "createdAt": "2023-03-30T15:02:51Z",
     "description": "See status of workflows and dispatch runs directly in neovim",
     "isArchived": false,
-    "lastCommit": "2023-05-04T17:44:56Z",
+    "lastCommit": "2023-05-16T07:15:06Z",
     "nameWithOwner": "topaxi/gh-actions.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 46,
+    "star": 49,
     "topics": [
+      "actions",
+      "github",
+      "lua",
+      "neovim",
+      "nvim",
+      "github-actions",
+      "neovim-plugin",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

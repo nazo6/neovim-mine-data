@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-05-12T23:16:58Z",
+    "description": "MyNote is a Neovim plugin that allows you to take notes in a floating window",
+    "isArchived": false,
+    "lastCommit": "2023-05-13T06:58:36Z",
+    "nameWithOwner": "jellydn/my-note.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "note-taking",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "my-note.nvim",
+  "owner": "jellydn",
+  "url": "https://github.com/jellydn/my-note.nvim"
+}

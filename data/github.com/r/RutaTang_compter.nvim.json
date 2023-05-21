@@ -1,0 +1,61 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Adding and subtracting"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-05-17T12:35:13Z",
+    "description": "Power and extend the ability of <C-a> and <C-x> with customized patterns.",
+    "isArchived": false,
+    "lastCommit": "2023-05-18T07:49:14Z",
+    "nameWithOwner": "RutaTang/compter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "compter.nvim",
+  "owner": "RutaTang",
+  "url": "https://github.com/RutaTang/compter.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme overwrite"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-05-13T22:04:40Z",
+    "description": "Naïve syntax highlighting",
+    "isArchived": false,
+    "lastCommit": "2023-05-17T20:08:04Z",
+    "nameWithOwner": "mvllow/naif.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "naif.nvim",
+  "owner": "mvllow",
+  "url": "https://github.com/mvllow/naif.nvim"
+}

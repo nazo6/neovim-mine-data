@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Convert Case"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 58,
+    "createdAt": "2023-05-14T22:22:23Z",
+    "description": "Common text transformers for nvim - switch between camelCase, PascalCase, snake_case, and more!",
+    "isArchived": false,
+    "lastCommit": "2023-05-18T06:40:11Z",
+    "nameWithOwner": "chenasraf/text-transform.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "text-transform.nvim",
+  "owner": "chenasraf",
+  "url": "https://github.com/chenasraf/text-transform.nvim"
+}

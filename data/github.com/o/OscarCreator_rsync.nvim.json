@@ -1,0 +1,53 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "rsync"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2023-04-16T18:07:44Z",
+    "description": "neovim plugin which synchronises project with rsync on save.",
+    "isArchived": false,
+    "lastCommit": "2023-05-20T19:17:13Z",
+    "nameWithOwner": "OscarCreator/rsync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "async",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim",
+      "nvim-plugin",
+      "rsync"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rsync.nvim",
+  "owner": "OscarCreator",
+  "url": "https://github.com/OscarCreator/rsync.nvim"
+}

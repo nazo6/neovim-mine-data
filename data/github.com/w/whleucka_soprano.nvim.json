@@ -15,22 +15,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 40,
-    "createdAt": "2022-12-08T21:28:46Z",
-    "description": "Soprano music player for Neovim",
-    "isArchived": false,
-    "lastCommit": "2023-01-26T17:44:56Z",
-    "nameWithOwner": "whleucka/soprano.nvim",
-    "primaryLanguage": {
-      "color": "#89e051",
-      "name": "Shell"
-    },
-    "star": 3,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'whleucka/soprano.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "soprano.nvim",
   "owner": "whleucka",
   "url": "https://github.com/whleucka/soprano.nvim"

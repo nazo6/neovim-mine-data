@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Selector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-05-18T06:17:50Z",
+    "description": "Custom telescope.nvim buffer picker Neovim plugin inspired by bufferline.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-05-20T18:46:01Z",
+    "nameWithOwner": "ryanoneill/treble.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "treble.nvim",
+  "owner": "ryanoneill",
+  "url": "https://github.com/ryanoneill/treble.nvim"
+}
