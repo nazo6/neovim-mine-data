@@ -3,6 +3,24 @@
     [
       {
         "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Root Detector"
+      }
+    ],
+    [
+      {
+        "level": 0,
         "name": "README.md"
       },
       {
@@ -15,11 +33,7 @@
       },
       {
         "level": 3,
-        "name": "Formatting"
-      },
-      {
-        "level": 4,
-        "name": "Indent"
+        "name": "Project"
       }
     ]
   ],
@@ -46,5 +60,5 @@
   "domain": "github.com",
   "name": "penvim",
   "owner": "Abstract-IDE",
-  "url": "https://github.com/Abstract-IDE/penvim"
+  "url": "https://github.com/shaeinst/penvim"
 }

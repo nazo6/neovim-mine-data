@@ -23,22 +23,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2022-08-20T01:03:44Z",
-    "description": null,
-    "isArchived": false,
-    "lastCommit": "2022-08-20T01:12:43Z",
-    "nameWithOwner": "jefromyers/python_usain.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 2,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'jefromyers/python_usain.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "python_usain.nvim",
   "owner": "jefromyers",
   "url": "https://github.com/jefromyers/python_usain.nvim"

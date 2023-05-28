@@ -3,38 +3,22 @@
     [
       {
         "level": 0,
-        "name": "integration-apps.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Development environment"
-      },
-      {
-        "level": 3,
-        "name": "Audio"
-      },
-      {
-        "level": 4,
-        "name": "SuperCollider"
+        "name": "Archived.md"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2020-11-27T08:51:09Z",
     "description": "Neovim plugin for SuperCollider hack(er)s",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-05-22T19:27:39Z",
     "nameWithOwner": "madskjeldgaard/supercollider-h4x-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 23,
+    "star": 21,
     "topics": [
       "supercollider",
       "neovim",

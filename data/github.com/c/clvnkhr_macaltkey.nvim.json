@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Mac"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-05-22T06:42:18Z",
+    "description": "Simplify alt(i.e. option) keybindings for neovim on mac",
+    "isArchived": false,
+    "lastCommit": "2023-05-25T06:53:19Z",
+    "nameWithOwner": "clvnkhr/macaltkey.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "keybindings",
+      "lua",
+      "macos",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "macaltkey.nvim",
+  "owner": "clvnkhr",
+  "url": "https://github.com/clvnkhr/macaltkey.nvim"
+}

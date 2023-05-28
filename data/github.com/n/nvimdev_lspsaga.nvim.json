@@ -17,6 +17,34 @@
         "level": 3,
         "name": "LSP Feature Extension UI"
       }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "code-outline.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Code outline"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "code-outline.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Breadcrumbs"
+      }
     ]
   ],
   "data": {
@@ -30,7 +58,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2777,
+    "star": 2794,
     "topics": [
       "lsp",
       "neovim",

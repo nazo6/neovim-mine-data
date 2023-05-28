@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Ethereum"
+      },
+      {
+        "level": 4,
+        "name": "foundry"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-04-12T20:15:35Z",
+    "description": "Integrate foundry toolkit tool chisel(solidity REPL) with neovim",
+    "isArchived": false,
+    "lastCommit": "2023-05-28T01:27:12Z",
+    "nameWithOwner": "TheSnakeWitcher/chisel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chisel.nvim",
+  "owner": "TheSnakeWitcher",
+  "url": "https://github.com/TheSnakeWitcher/chisel.nvim"
+}

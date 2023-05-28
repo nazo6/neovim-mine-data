@@ -3,15 +3,15 @@
     [
       {
         "level": 0,
-        "name": "statusline.md"
+        "name": "code-outline.md"
       },
       {
         "level": 1,
-        "name": "Statusline"
+        "name": "Table of Contents"
       },
       {
-        "level": 2,
-        "name": "Statusline component"
+        "level": 3,
+        "name": "Breadcrumbs"
       }
     ],
     [
@@ -34,7 +34,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 161,
+    "commitCountLastYear": 159,
     "createdAt": "2022-05-23T16:09:54Z",
     "description": "Simple winbar/statusline plugin that shows your current code context",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 982,
+    "star": 998,
     "topics": [
       "language-server-protocol",
       "lsp",

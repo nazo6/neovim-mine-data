@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Haskell"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2023-05-26T18:56:16Z",
+    "description": "My collection of Haskell snippets for LuaSnip. Powered by tree-sitter and LSP. ",
+    "isArchived": false,
+    "lastCommit": "2023-05-27T23:57:27Z",
+    "nameWithOwner": "mrcjkb/haskell-snippets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "haskell-snippets.nvim",
+  "owner": "mrcjkb",
+  "url": "https://github.com/mrcjkb/haskell-snippets.nvim"
+}

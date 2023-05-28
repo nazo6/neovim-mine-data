@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Human-readable"
+      },
+      {
+        "level": 4,
+        "name": "bionic reading"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 57,
+    "createdAt": "2023-05-22T22:45:27Z",
+    "description": "Toggle Bionic Reading for Vim buffers",
+    "isArchived": false,
+    "lastCommit": "2023-05-24T21:06:27Z",
+    "nameWithOwner": "FluxxField/bionic-reading.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "bionic-reading",
+      "lua",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bionic-reading.nvim",
+  "owner": "FluxxField",
+  "url": "https://github.com/FluxxField/bionic-reading.nvim"
+}

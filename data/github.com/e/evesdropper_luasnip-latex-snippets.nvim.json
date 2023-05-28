@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2023-03-12T02:44:59Z",
+    "description": "A set of preconfigured snippets for LaTeX for the snippet engine LuaSnip.",
+    "isArchived": false,
+    "lastCommit": "2023-05-27T03:05:03Z",
+    "nameWithOwner": "evesdropper/luasnip-latex-snippets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+      "latex",
+      "luasnip",
+      "neovim-plugin",
+      "snippets"
+    ]
+  },
+  "domain": "github.com",
+  "name": "luasnip-latex-snippets.nvim",
+  "owner": "evesdropper",
+  "url": "https://github.com/evesdropper/luasnip-latex-snippets.nvim"
+}

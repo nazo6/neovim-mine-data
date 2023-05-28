@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "[Comment Out](./comment.md)"
+      },
+      {
+        "level": 4,
+        "name": "Context Header"
+      },
+      {
+        "level": 5,
+        "name": "Indent Guide"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-05-21T10:40:05Z",
+    "description": "Rainbow-ize your indents in Neovim today!",
+    "isArchived": false,
+    "lastCommit": "2023-05-21T10:48:08Z",
+    "nameWithOwner": "TheGLander/indent-rainbowline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "indent-rainbowline.nvim",
+  "owner": "TheGLander",
+  "url": "https://github.com/TheGLander/indent-rainbowline.nvim"
+}
