@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Screenshot"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-12-25T06:49:02Z",
+    "description": "Take Screenshots from Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-05-28T16:37:16Z",
+    "nameWithOwner": "kiran94/maim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "screenshot",
+      "maim",
+      "markdown",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "maim.nvim",
+  "owner": "kiran94",
+  "url": "https://github.com/kiran94/maim.nvim"
+}

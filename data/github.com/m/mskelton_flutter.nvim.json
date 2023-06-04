@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Dart, Flutter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-05-28T02:01:11Z",
+    "description": "Neovim plugin for flutter development.",
+    "isArchived": false,
+    "lastCommit": "2023-05-31T12:56:40Z",
+    "nameWithOwner": "mskelton/flutter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "flutter",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "flutter.nvim",
+  "owner": "mskelton",
+  "url": "https://github.com/mskelton/flutter.nvim"
+}

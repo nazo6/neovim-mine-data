@@ -15,11 +15,22 @@
       }
     ]
   ],
-  "domain": "github.com",
-  "error": {
-    "message": "Could not resolve to a Repository with the name 'whleucka/soprano.nvim'.",
-    "reason": "NOT_FOUND"
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-05-29T22:41:06Z",
+    "description": "Play soprano music in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-05-30T20:30:53Z",
+    "nameWithOwner": "whleucka/soprano.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
   },
+  "domain": "github.com",
   "name": "soprano.nvim",
   "owner": "whleucka",
   "url": "https://github.com/whleucka/soprano.nvim"

@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 2,
+        "name": "Statusline component"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-06-02T11:41:57Z",
+    "description": "Status line component showing the number of LSP definition and reference of the token under the cursor.",
+    "isArchived": false,
+    "lastCommit": "2023-06-02T12:33:56Z",
+    "nameWithOwner": "chrisgrieser/nvim-dr-lsp",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lsp",
+      "nvim-plugin",
+      "statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dr-lsp",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/nvim-dr-lsp"
+}

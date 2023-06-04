@@ -38,7 +38,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 100,
+    "commitCountLastYear": 86,
     "createdAt": "2022-05-22T02:18:54Z",
     "description": "A plugin that leverages Neovim's built-in RPC functionality to simplify opening files from within Neovim's terminal emulator without nesting sessions.",
     "isArchived": false,
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 173,
+    "star": 174,
     "topics": [
       "neovim",
       "nvim",

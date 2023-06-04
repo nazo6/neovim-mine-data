@@ -12,11 +12,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 12,
     "createdAt": "2023-05-13T21:40:15Z",
     "description": "Distant relative of Greg Hurrell's Scalpel",
     "isArchived": false,
-    "lastCommit": "2023-05-27T21:45:40Z",
+    "lastCommit": "2023-05-28T13:43:12Z",
     "nameWithOwner": "deponian/nvim-scalpelua",
     "primaryLanguage": {
       "color": "#000080",
@@ -24,6 +24,11 @@
     },
     "star": 3,
     "topics": [
+      "neovim",
+      "replace-text",
+      "scalpel",
+      "minimap",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

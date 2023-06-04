@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Features like gh"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2023-06-01T16:47:35Z",
+    "description": "🐙 GithubUtils.nvim - simple utils for working with Github inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-06-03T12:06:30Z",
+    "nameWithOwner": "mistweaverco/githubutils.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "github",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "github-cli",
+      "nvim-telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "githubutils.nvim",
+  "owner": "mistweaverco",
+  "url": "https://github.com/mistweaverco/githubutils.nvim"
+}

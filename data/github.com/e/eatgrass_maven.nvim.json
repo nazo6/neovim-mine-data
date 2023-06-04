@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Java"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-05-30T03:42:00Z",
+    "description": "for java developer, interactively execute maven command without leaving your editor",
+    "isArchived": false,
+    "lastCommit": "2023-06-02T01:31:28Z",
+    "nameWithOwner": "eatgrass/maven.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "nvim",
+      "maven",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "maven.nvim",
+  "owner": "eatgrass",
+  "url": "https://github.com/eatgrass/maven.nvim"
+}

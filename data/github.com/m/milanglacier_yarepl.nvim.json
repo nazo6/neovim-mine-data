@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "debugger_repl.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Debug"
+      },
+      {
+        "level": 3,
+        "name": "REPL"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-06-03T10:33:31Z",
+    "description": "Yet Another REPL for Neovim, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat (without `vim-repeat`).",
+    "isArchived": false,
+    "lastCommit": "2023-06-04T01:02:06Z",
+    "nameWithOwner": "milanglacier/yarepl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yarepl.nvim",
+  "owner": "milanglacier",
+  "url": "https://github.com/milanglacier/yarepl.nvim"
+}

@@ -3,6 +3,32 @@
     [
       {
         "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "tmux"
+      },
+      {
+        "level": 5,
+        "name": "tmux alternative"
+      }
+    ],
+    [
+      {
+        "level": 0,
         "name": "README.md"
       },
       {
@@ -34,7 +60,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 427,
+    "star": 429,
     "topics": [
       "neovim",
       "neovim-plugin",

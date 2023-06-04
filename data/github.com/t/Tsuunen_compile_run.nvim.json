@@ -19,22 +19,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 11,
-    "createdAt": "2023-03-17T16:41:30Z",
-    "description": null,
-    "isArchived": false,
-    "lastCommit": "2023-03-20T20:05:30Z",
-    "nameWithOwner": "Tsuunen/compile_run.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 2,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'Tsuunen/compile_run.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "compile_run.nvim",
   "owner": "Tsuunen",
   "url": "https://github.com/Tsuunen/compile_run.nvim"
