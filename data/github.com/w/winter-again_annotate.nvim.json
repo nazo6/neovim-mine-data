@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "inline note"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2023-06-04T04:07:07Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-06-07T22:41:47Z",
+    "nameWithOwner": "winter-again/annotate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "annotate.nvim",
+  "owner": "winter-again",
+  "url": "https://github.com/winter-again/annotate.nvim"
+}

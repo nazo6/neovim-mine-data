@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Web"
+      },
+      {
+        "level": 4,
+        "name": "OpenAI"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-05-30T03:34:15Z",
+    "description": "Simple and effective AI integration with your favorite Neovim text editor! Ask a question, and let robots expl[AI]n-it!",
+    "isArchived": false,
+    "lastCommit": "2023-06-08T05:24:39Z",
+    "nameWithOwner": "tdfacer/explain-it.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "chatgpt",
+      "developer-tools",
+      "lua",
+      "neovim",
+      "plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "explain-it.nvim",
+  "owner": "tdfacer",
+  "url": "https://github.com/tdfacer/explain-it.nvim"
+}

@@ -3,6 +3,20 @@
     [
       {
         "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "search"
+      }
+    ],
+    [
+      {
+        "level": 0,
         "name": "README.md"
       },
       {
@@ -30,11 +44,13 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 175,
+    "star": 176,
     "topics": [
       "git",
       "neovim",
-      "vim"
+      "vim",
+      "lua",
+      "plugin"
     ]
   },
   "domain": "github.com",

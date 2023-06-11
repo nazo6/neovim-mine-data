@@ -24,11 +24,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 158,
+    "commitCountLastYear": 224,
     "createdAt": "2023-04-16T04:18:10Z",
-    "description": "Easily use LLM's in Neovim buffers",
+    "description": "Neovim plugin for interacting with LLM's and building editor integrated prompts.",
     "isArchived": false,
-    "lastCommit": "2023-06-02T04:27:09Z",
+    "lastCommit": "2023-06-10T18:24:07Z",
     "nameWithOwner": "gsuuon/llm.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -37,7 +37,15 @@
     "star": 7,
     "topics": [
       "chatgpt",
-      "neovim-plugin"
+      "neovim-plugin",
+      "ai",
+      "llm",
+      "nvim",
+      "nvim-plugin",
+      "openai",
+      "prompt-engineering",
+      "prompts",
+      "palm"
     ]
   },
   "domain": "github.com",

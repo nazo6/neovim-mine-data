@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Screenshot"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2023-05-31T16:05:19Z",
+    "description": "A simple neovim plugin that enables you to instantly create snippets on ray.so",
+    "isArchived": false,
+    "lastCommit": "2023-06-09T14:39:56Z",
+    "nameWithOwner": "TobinPalmer/rayso.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "carbon",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "rayso"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rayso.nvim",
+  "owner": "TobinPalmer",
+  "url": "https://github.com/TobinPalmer/rayso.nvim"
+}

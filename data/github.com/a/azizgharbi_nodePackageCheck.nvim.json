@@ -24,11 +24,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 48,
+    "commitCountLastYear": 50,
     "createdAt": "2023-03-05T19:23:05Z",
     "description": "A plugin for Neovim that allows you to check updates and versions of your node packages from within Neovim.",
     "isArchived": false,
-    "lastCommit": "2023-06-04T04:47:36Z",
+    "lastCommit": "2023-06-07T05:19:00Z",
     "nameWithOwner": "azizgharbi/nodePackageCheck.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -42,7 +42,8 @@
       "node",
       "nodejs",
       "npm",
-      "yarn"
+      "yarn",
+      "neovim-plugins"
     ]
   },
   "domain": "github.com",

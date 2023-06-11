@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Parenthetical edit"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 86,
+    "createdAt": "2023-06-07T17:59:11Z",
+    "description": "A Paredit implementation for Neovim, built using Treesitter and written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-06-11T00:34:24Z",
+    "nameWithOwner": "julienvincent/nvim-paredit",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "clojure",
+      "lisp",
+      "neovim",
+      "paredit",
+      "lua",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-paredit",
+  "owner": "julienvincent",
+  "url": "https://github.com/julienvincent/nvim-paredit"
+}

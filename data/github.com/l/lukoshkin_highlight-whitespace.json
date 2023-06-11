@@ -20,17 +20,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 8,
     "createdAt": "2022-07-18T19:59:19Z",
-    "description": "Highlight trailing whitespace in Vim/Neovim",
+    "description": "Highlight unwanted whitespace and more in Vim/Neovim",
     "isArchived": false,
-    "lastCommit": "2023-03-10T19:02:24Z",
-    "nameWithOwner": "lukoshkin/trailing-whitespace",
+    "lastCommit": "2023-06-06T11:04:58Z",
+    "nameWithOwner": "lukoshkin/highlight-whitespace",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 8,
     "topics": [
       "neovim-lua-plugin",
       "vim-markdown",
@@ -39,7 +39,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "trailing-whitespace",
+  "name": "highlight-whitespace",
   "owner": "lukoshkin",
   "url": "https://github.com/lukoshkin/trailing-whitespace"
 }

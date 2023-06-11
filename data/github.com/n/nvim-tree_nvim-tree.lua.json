@@ -3,34 +3,26 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "filer.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-      },
-      {
-        "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
-        "name": "File Explorer"
+        "name": "Filer"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 396,
+    "commitCountLastYear": 390,
     "createdAt": "2020-02-04T19:00:47Z",
     "description": "A file explorer tree for neovim written in lua",
     "isArchived": false,
-    "lastCommit": "2023-06-04T04:29:04Z",
+    "lastCommit": "2023-06-10T06:58:29Z",
     "nameWithOwner": "nvim-tree/nvim-tree.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5043,
+    "star": 5076,
     "topics": [
       "lua",
       "neovim",
@@ -40,5 +32,5 @@
   "domain": "github.com",
   "name": "nvim-tree.lua",
   "owner": "nvim-tree",
-  "url": "https://github.com/kyazdani42/nvim-tree.lua"
+  "url": "https://github.com/nvim-tree/nvim-tree.lua"
 }

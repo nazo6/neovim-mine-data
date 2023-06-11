@@ -3,16 +3,6 @@
     [
       {
         "level": 0,
-        "name": "search_replace_grep_select.md"
-      },
-      {
-        "level": 1,
-        "name": "Grep"
-      }
-    ],
-    [
-      {
-        "level": 0,
         "name": "README.md"
       },
       {
@@ -30,17 +20,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 39,
+    "commitCountLastYear": 50,
     "createdAt": "2021-03-28T15:37:56Z",
     "description": "Find the enemy and replace them with dark power.",
     "isArchived": false,
-    "lastCommit": "2023-05-12T04:56:16Z",
+    "lastCommit": "2023-06-10T07:38:31Z",
     "nameWithOwner": "nvim-pack/nvim-spectre",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1013,
+    "star": 1022,
     "topics": [
     ]
   },

@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "PDF"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-06-08T15:33:15Z",
+    "description": "Open current markdown in PDF in Neovim!",
+    "isArchived": false,
+    "lastCommit": "2023-06-10T16:43:50Z",
+    "nameWithOwner": "arminveres/md-pdf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "markdown",
+      "pdf",
+      "pdf-converter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "md-pdf.nvim",
+  "owner": "arminveres",
+  "url": "https://github.com/arminveres/md-pdf.nvim"
+}

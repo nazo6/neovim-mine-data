@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Bootstrap"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-06-06T22:14:16Z",
+    "description": "Bootstrap classes completion source for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-06-10T21:16:56Z",
+    "nameWithOwner": "Jezda1337/cmp_bootstrap",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp_bootstrap",
+  "owner": "Jezda1337",
+  "url": "https://github.com/Jezda1337/cmp_bootstrap"
+}
