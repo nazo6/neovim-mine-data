@@ -3,28 +3,24 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "completion.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        "name": "Table of Contents"
       },
       {
         "level": 2,
-        "name": "Plugin"
+        "name": "Auto Completion"
       },
       {
         "level": 3,
-        "name": "LSP"
-      },
-      {
-        "level": 4,
-        "name": "(requires Neovim 0.5)"
+        "name": "Auto Completion support"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 13,
     "createdAt": "2021-02-04T19:47:10Z",
     "description": "vscode-like pictograms for neovim lsp completion items",
     "isArchived": false,
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 997,
+    "star": 1000,
     "topics": [
       "nvim",
       "lsp",
@@ -45,5 +41,5 @@
   "domain": "github.com",
   "name": "lspkind.nvim",
   "owner": "onsails",
-  "url": "https://github.com/onsails/lspkind.nvim"
+  "url": "https://github.com/onsails/lspkind-nvim"
 }

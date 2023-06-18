@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown header"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-06-12T16:08:25Z",
+    "description": "Neovim plugin that enables automatic (re)naming of Markdown files based on their h1 heading",
+    "isArchived": false,
+    "lastCommit": "2023-06-12T16:13:59Z",
+    "nameWithOwner": "arthur-remy/md-auto-filename.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "md-auto-filename.nvim",
+  "owner": "arthur-remy",
+  "url": "https://github.com/arthur-remy/md-auto-filename.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Lint"
+      },
+      {
+        "level": 3,
+        "name": "Global variables"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-06-10T04:20:49Z",
+    "description": "highlight global variables in neovim with treesitter",
+    "isArchived": false,
+    "lastCommit": "2023-06-11T07:02:48Z",
+    "nameWithOwner": "vhminh/hlglobals.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hlglobals.nvim",
+  "owner": "vhminh",
+  "url": "https://github.com/vhminh/hlglobals.nvim"
+}

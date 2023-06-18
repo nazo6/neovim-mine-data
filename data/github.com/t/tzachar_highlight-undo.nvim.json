@@ -20,18 +20,21 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 5,
     "createdAt": "2023-06-08T09:39:22Z",
     "description": "Highlight changed text after Undo / Redo operations",
     "isArchived": false,
-    "lastCommit": "2023-06-08T10:00:24Z",
+    "lastCommit": "2023-06-13T06:23:07Z",
     "nameWithOwner": "tzachar/highlight-undo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 57,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

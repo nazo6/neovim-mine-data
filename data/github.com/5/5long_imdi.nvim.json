@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-06-13T11:46:00Z",
+    "description": "Input Method DBus Integration for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-06-18T04:46:24Z",
+    "nameWithOwner": "5long/imdi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "fcitx",
+      "input-method",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "imdi.nvim",
+  "owner": "5long",
+  "url": "https://github.com/5long/imdi.nvim"
+}

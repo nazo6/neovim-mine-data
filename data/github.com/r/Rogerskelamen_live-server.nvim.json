@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "HTML"
+      },
+      {
+        "level": 4,
+        "name": "live server"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-06-10T05:06:57Z",
+    "description": "a plugin to use live-server in NeoVim with lua api",
+    "isArchived": false,
+    "lastCommit": "2023-06-11T02:27:04Z",
+    "nameWithOwner": "Rogerskelamen/live-server.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "live-server.nvim",
+  "owner": "Rogerskelamen",
+  "url": "https://github.com/Rogerskelamen/live-server.nvim"
+}

@@ -12,6 +12,10 @@
       {
         "level": 2,
         "name": "AI Completion"
+      },
+      {
+        "level": 3,
+        "name": "Copilot"
       }
     ],
     [
@@ -34,7 +38,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 115,
+    "commitCountLastYear": 98,
     "createdAt": "2022-04-02T21:07:51Z",
     "description": "Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot",
     "isArchived": false,
@@ -44,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1122,
+    "star": 1146,
     "topics": [
       "copilot",
       "github-copilot",

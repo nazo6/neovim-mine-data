@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Rust"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-06-11T11:33:01Z",
+    "description": "Useful nvim-cmp comparators for rust-analyzer ",
+    "isArchived": false,
+    "lastCommit": "2023-06-11T12:32:22Z",
+    "nameWithOwner": "ryo33/nvim-cmp-rust",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp-rust",
+  "owner": "ryo33",
+  "url": "https://github.com/ryo33/nvim-cmp-rust"
+}

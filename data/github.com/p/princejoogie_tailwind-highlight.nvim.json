@@ -1,0 +1,55 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "CSS"
+      },
+      {
+        "level": 4,
+        "name": "tailwind"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2022-03-20T19:03:13Z",
+    "description": "Highlight Tailwind CSS classes in neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-19T09:47:31Z",
+    "nameWithOwner": "princejoogie/tailwind-highlight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+      "neovim",
+      "tailwindcss",
+      "lua",
+      "plugin",
+      "color",
+      "lsp",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tailwind-highlight.nvim",
+  "owner": "princejoogie",
+  "url": "https://github.com/princejoogie/tailwind-highlight.nvim"
+}

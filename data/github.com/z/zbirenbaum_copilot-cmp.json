@@ -12,11 +12,15 @@
       {
         "level": 2,
         "name": "AI Completion"
+      },
+      {
+        "level": 3,
+        "name": "Copilot"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 49,
+    "commitCountLastYear": 41,
     "createdAt": "2022-04-02T22:24:10Z",
     "description": "Lua plugin to turn github copilot into a cmp source",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 646,
+    "star": 651,
     "topics": [
       "copilot",
       "lua",

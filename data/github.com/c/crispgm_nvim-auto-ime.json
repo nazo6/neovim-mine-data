@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-06-15T04:07:08Z",
+    "description": "Automatically switch Input Method (only on macOS)",
+    "isArchived": false,
+    "lastCommit": "2023-06-15T09:16:05Z",
+    "nameWithOwner": "crispgm/nvim-auto-ime",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-auto-ime",
+  "owner": "crispgm",
+  "url": "https://github.com/crispgm/nvim-auto-ime"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-03-16T00:31:08Z",
+    "description": "Deferring of NeoVim diagnostics",
+    "isArchived": false,
+    "lastCommit": "2023-06-16T23:30:45Z",
+    "nameWithOwner": "yorickpeterse/nvim-dd",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dd",
+  "owner": "yorickpeterse",
+  "url": "https://github.com/yorickpeterse/nvim-dd"
+}

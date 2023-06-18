@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Mail"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-06-09T21:05:14Z",
+    "description": "Telescope Extension for Himalaya CLI Email Client",
+    "isArchived": false,
+    "lastCommit": "2023-06-10T05:34:31Z",
+    "nameWithOwner": "elmarsto/mountaineer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mountaineer.nvim",
+  "owner": "elmarsto",
+  "url": "https://github.com/elmarsto/mountaineer.nvim"
+}

@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Tex"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-12-17T17:35:36Z",
+    "description": "A port of Gilles Castel's UltiSnip snippets for LuaSnip.",
+    "isArchived": false,
+    "lastCommit": "2023-03-19T21:18:29Z",
+    "nameWithOwner": "iurimateus/luasnip-latex-snippets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 62,
+    "topics": [
+      "latex",
+      "luasnip",
+      "neovim",
+      "snippets",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "luasnip-latex-snippets.nvim",
+  "owner": "iurimateus",
+  "url": "https://github.com/iurimateus/luasnip-latex-snippets.nvim"
+}

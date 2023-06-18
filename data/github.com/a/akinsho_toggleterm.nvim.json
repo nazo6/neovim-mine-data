@@ -3,24 +3,24 @@
     [
       {
         "level": 0,
-        "name": "terminal.md"
+        "name": "README.md"
       },
       {
         "level": 1,
-        "name": "Table of Contents"
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
       },
       {
         "level": 2,
-        "name": "Terminal"
+        "name": "Plugin"
       },
       {
         "level": 3,
-        "name": "Terminal Enhancement"
+        "name": "Terminal Integration"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 144,
+    "commitCountLastYear": 142,
     "createdAt": "2020-08-17T17:33:39Z",
     "description": "A neovim lua plugin to help easily manage multiple terminal windows",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2688,
+    "star": 2701,
     "topics": [
       "neovim",
       "lua",
@@ -41,5 +41,5 @@
   "domain": "github.com",
   "name": "toggleterm.nvim",
   "owner": "akinsho",
-  "url": "https://github.com/akinsho/toggleterm.nvim"
+  "url": "https://github.com/akinsho/nvim-toggleterm.lua"
 }

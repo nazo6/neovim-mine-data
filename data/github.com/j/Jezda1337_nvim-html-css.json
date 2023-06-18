@@ -20,11 +20,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 10,
     "createdAt": "2023-06-08T16:38:36Z",
     "description": "CSS Intellisense for HTML",
     "isArchived": false,
-    "lastCommit": "2023-06-10T18:27:35Z",
+    "lastCommit": "2023-06-15T12:27:50Z",
     "nameWithOwner": "Jezda1337/nvim-html-css",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,7 +32,11 @@
     },
     "star": 1,
     "topics": [
-      "nvim-cmp"
+      "nvim-cmp",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "html-css-intellisense"
     ]
   },
   "domain": "github.com",

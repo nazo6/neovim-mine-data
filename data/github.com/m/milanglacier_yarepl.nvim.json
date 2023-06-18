@@ -38,20 +38,23 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 49,
+    "commitCountLastYear": 61,
     "createdAt": "2023-06-03T10:33:31Z",
-    "description": "Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, telescope integration, and native dot repeat without vim-repeat.",
+    "description": "Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with tmux, telescope integration, and native dot repeat.",
     "isArchived": false,
-    "lastCommit": "2023-06-11T05:50:42Z",
+    "lastCommit": "2023-06-15T00:34:02Z",
     "nameWithOwner": "milanglacier/yarepl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 38,
+    "star": 46,
     "topics": [
       "neovim",
-      "neovim-plugin"
+      "neovim-plugin",
+      "neovim-lua",
+      "neovim-lua-library",
+      "neovim-lua-plugin"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-06-13T08:49:10Z",
+    "description": "Telescope extension for searching using \"git grep\"",
+    "isArchived": false,
+    "lastCommit": "2023-06-14T05:37:49Z",
+    "nameWithOwner": "davvid/telescope-git-grep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "telescope",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-git-grep.nvim",
+  "owner": "davvid",
+  "url": "https://github.com/davvid/telescope-git-grep.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "git grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-06-11T09:54:33Z",
+    "description": "Telescope git grep.",
+    "isArchived": false,
+    "lastCommit": "2023-06-11T12:32:46Z",
+    "nameWithOwner": "barklan/telescope-git-grep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "git",
+      "lua",
+      "neovim",
+      "nvim",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-git-grep.nvim",
+  "owner": "barklan",
+  "url": "https://github.com/barklan/telescope-git-grep.nvim"
+}

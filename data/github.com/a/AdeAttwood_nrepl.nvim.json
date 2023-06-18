@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Clojure"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-06-16T19:38:40Z",
+    "description": "A super simple Clojure nrepl plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-06-16T19:36:27Z",
+    "nameWithOwner": "AdeAttwood/nrepl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nrepl.nvim",
+  "owner": "AdeAttwood",
+  "url": "https://github.com/AdeAttwood/nrepl.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "IME"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-06-13T04:48:18Z",
+    "description": "Switch fcitx input method automatically.",
+    "isArchived": false,
+    "lastCommit": "2023-06-15T14:07:05Z",
+    "nameWithOwner": "TD-Sky/fcitx.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fcitx.nvim",
+  "owner": "TD-Sky",
+  "url": "https://github.com/TD-Sky/fcitx.nvim"
+}

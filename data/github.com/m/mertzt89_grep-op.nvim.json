@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Grep"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-06-11T22:30:15Z",
+    "description": "A simple plugin to add a grep operator to Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-06-11T23:03:54Z",
+    "nameWithOwner": "mertzt89/grep-op.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "grep-op.nvim",
+  "owner": "mertzt89",
+  "url": "https://github.com/mertzt89/grep-op.nvim"
+}

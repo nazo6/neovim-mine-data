@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Cloud"
+      },
+      {
+        "level": 4,
+        "name": "Salesforce"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2023-06-11T12:29:51Z",
+    "description": "Salesforce developer experience in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-06-13T21:44:13Z",
+    "nameWithOwner": "g-duff/sf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "salesforce",
+      "sf",
+      "sfdx"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sf.nvim",
+  "owner": "g-duff",
+  "url": "https://github.com/g-duff/sf.nvim"
+}

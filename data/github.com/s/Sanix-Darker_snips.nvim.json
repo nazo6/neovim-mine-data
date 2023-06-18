@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "snippet_template.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Snippet"
+      },
+      {
+        "level": 4,
+        "name": "Snippet definitions"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-06-15T23:05:24Z",
+    "description": "Create snips from your vim/nvim editor",
+    "isArchived": false,
+    "lastCommit": "2023-06-16T18:59:40Z",
+    "nameWithOwner": "Sanix-Darker/snips.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snips.nvim",
+  "owner": "Sanix-Darker",
+  "url": "https://github.com/Sanix-Darker/snips.nvim"
+}
