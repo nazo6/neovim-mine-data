@@ -15,10 +15,14 @@
       },
       {
         "level": 3,
-        "name": "CSS"
+        "name": "Javascript/Typescript"
       },
       {
         "level": 4,
+        "name": "CSS"
+      },
+      {
+        "level": 5,
         "name": "tailwind"
       }
     ]
@@ -34,7 +38,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 47,
+    "star": 48,
     "topics": [
       "neovim",
       "tailwindcss",

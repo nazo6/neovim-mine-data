@@ -33,12 +33,12 @@
     "description": "Simple arduino-language-server wrapper for nvim",
     "isArchived": false,
     "lastCommit": "2023-01-20T12:47:36Z",
-    "nameWithOwner": "edKotinsky/Arduino.nvim",
+    "nameWithOwner": "glebzlat/Arduino.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 11,
+    "star": 12,
     "topics": [
       "neovim",
       "arduino",
@@ -49,6 +49,6 @@
   },
   "domain": "github.com",
   "name": "Arduino.nvim",
-  "owner": "edKotinsky",
+  "owner": "glebzlat",
   "url": "https://github.com/edKotinsky/ArduinoLSP.nvim"
 }

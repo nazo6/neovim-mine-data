@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "syntax_highlight.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Syntax"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-04-19T13:31:20Z",
+    "description": "🎨 Convenient plugin to switch between themes installed in neovim through a menu.",
+    "isArchived": false,
+    "lastCommit": "2023-06-22T11:38:24Z",
+    "nameWithOwner": "zaldih/themery.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "colorscheme",
+      "lua",
+      "neovim",
+      "plugin",
+      "theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "themery.nvim",
+  "owner": "zaldih",
+  "url": "https://github.com/zaldih/themery.nvim"
+}

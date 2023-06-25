@@ -19,6 +19,10 @@
       },
       {
         "level": 4,
+        "name": "Toolchain"
+      },
+      {
+        "level": 5,
         "name": "tsc(TypeScript compiler)"
       }
     ],
@@ -42,17 +46,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 27,
+    "commitCountLastYear": 30,
     "createdAt": "2023-04-22T22:35:33Z",
     "description": "A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)",
     "isArchived": false,
-    "lastCommit": "2023-05-28T15:33:38Z",
+    "lastCommit": "2023-06-23T11:49:10Z",
     "nameWithOwner": "dmmulroy/tsc.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 137,
+    "star": 141,
     "topics": [
       "lua",
       "neovim",

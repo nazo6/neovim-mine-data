@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Git"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 120,
+    "createdAt": "2023-02-18T12:55:10Z",
+    "description": "A fork of ruifm's gitlinker, refactored with pattern based rule engine, windows support and other enhancements.",
+    "isArchived": false,
+    "lastCommit": "2023-06-17T14:37:13Z",
+    "nameWithOwner": "linrongbin16/gitlinker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitlinker.nvim",
+  "owner": "linrongbin16",
+  "url": "https://github.com/linrongbin16/gitlinker.nvim"
+}

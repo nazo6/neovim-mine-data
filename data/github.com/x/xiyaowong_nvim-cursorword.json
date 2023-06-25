@@ -42,7 +42,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2021-06-28T05:22:31Z",
     "description": "highlight the word under the cursor.",
     "isArchived": false,
@@ -52,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 106,
+    "star": 107,
     "topics": [
       "neovim-plugin",
       "cursorword",

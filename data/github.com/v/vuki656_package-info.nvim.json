@@ -19,6 +19,10 @@
       },
       {
         "level": 4,
+        "name": "Toolchain"
+      },
+      {
+        "level": 5,
         "name": "npm"
       }
     ],
@@ -52,7 +56,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 268,
+    "star": 270,
     "topics": [
       "neovim",
       "neovim-plugin",

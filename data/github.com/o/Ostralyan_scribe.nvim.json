@@ -3,19 +3,15 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "note-taking.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        "name": "Note Taking"
       },
       {
         "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
-        "name": "Note Taking"
+        "name": "etc"
       }
     ]
   ],
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 20,
+    "star": 21,
     "topics": [
       "neovim",
       "neovim-plugin",
@@ -40,5 +36,5 @@
   "domain": "github.com",
   "name": "scribe.nvim",
   "owner": "Ostralyan",
-  "url": "https://github.com/ostralyan/scribe.nvim"
+  "url": "https://github.com/Ostralyan/scribe.nvim"
 }

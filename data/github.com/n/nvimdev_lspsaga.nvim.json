@@ -3,28 +3,52 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "lsp.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        "name": "Table of Contents"
       },
       {
         "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
         "name": "LSP"
       },
       {
-        "level": 4,
-        "name": "(requires Neovim 0.5)"
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "code-outline.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Code outline"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "code-outline.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Breadcrumbs"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 979,
+    "commitCountLastYear": 961,
     "createdAt": "2020-12-16T00:36:44Z",
     "description": "improve neovim lsp experience",
     "isArchived": false,
@@ -34,7 +58,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2842,
+    "star": 2854,
     "topics": [
       "lsp",
       "neovim",
@@ -47,5 +71,5 @@
   "domain": "github.com",
   "name": "lspsaga.nvim",
   "owner": "nvimdev",
-  "url": "https://github.com/glepnir/lspsaga.nvim"
+  "url": "https://github.com/nvimdev/lspsaga.nvim"
 }

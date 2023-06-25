@@ -19,27 +19,27 @@
       },
       {
         "level": 4,
-        "name": "haste"
+        "name": "OpenAI"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2022-05-29T00:00:27Z",
-    "description": "Upload the current buffer to any haste server.",
+    "commitCountLastYear": 6,
+    "createdAt": "2023-06-18T13:55:46Z",
+    "description": "GP (GPT Prompt) plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2022-11-22T02:31:57Z",
-    "nameWithOwner": "pollen00/haste-nvim",
+    "lastCommit": "2023-06-21T16:17:55Z",
+    "nameWithOwner": "Robitx/gp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "haste-nvim",
-  "owner": "pollen00",
-  "url": "https://github.com/pollen00/haste-nvim"
+  "name": "gp.nvim",
+  "owner": "Robitx",
+  "url": "https://github.com/Robitx/gp.nvim"
 }

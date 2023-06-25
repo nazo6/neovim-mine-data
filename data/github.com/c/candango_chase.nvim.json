@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Python"
+      },
+      {
+        "level": 4,
+        "name": "venv"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-06-17T23:13:07Z",
+    "description": "Chase after organizing the project configuration and running things...",
+    "isArchived": false,
+    "lastCommit": "2023-06-20T02:16:49Z",
+    "nameWithOwner": "candango/chase.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "plugin",
+      "project-management",
+      "pip",
+      "virtualenv"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chase.nvim",
+  "owner": "candango",
+  "url": "https://github.com/candango/chase.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-06-21T09:20:59Z",
+    "description": "just a simple compile command module to use inside neovim (not a plugin)",
+    "isArchived": false,
+    "lastCommit": "2023-06-21T11:10:53Z",
+    "nameWithOwner": "commrade-goad/nvim-cc-module",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cc-module",
+  "owner": "commrade-goad",
+  "url": "https://github.com/commrade-goad/nvim-cc-module"
+}

@@ -15,10 +15,14 @@
       },
       {
         "level": 3,
-        "name": "HTML"
+        "name": "Javascript/Typescript"
       },
       {
         "level": 4,
+        "name": "HTML"
+      },
+      {
+        "level": 5,
         "name": "live server"
       }
     ]
@@ -34,7 +38,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 23,
+    "star": 25,
     "topics": [
       "live-server",
       "neovim",

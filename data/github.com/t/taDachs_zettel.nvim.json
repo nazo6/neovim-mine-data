@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Zettelkasten"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-06-19T19:24:10Z",
+    "description": "Zettelkasten plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-06-19T22:51:55Z",
+    "nameWithOwner": "taDachs/zettel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "notes",
+      "zettelkasten"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zettel.nvim",
+  "owner": "taDachs",
+  "url": "https://github.com/taDachs/zettel.nvim"
+}

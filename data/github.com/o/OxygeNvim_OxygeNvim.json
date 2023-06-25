@@ -19,26 +19,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 36,
-    "createdAt": "2023-01-11T17:45:00Z",
-    "description": "Neovim configuration for all kinds of development with rock solid defaults! (STILL IN DEVELOPMENT)",
-    "isArchived": false,
-    "lastCommit": "2023-03-03T19:16:36Z",
-    "nameWithOwner": "OxygeNvim/OxygeNvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 20,
-    "topics": [
-      "lua",
-      "neovim",
-      "neovim-config",
-      "oxygenvim"
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'OxygeNvim/OxygeNvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "OxygeNvim",
   "owner": "OxygeNvim",
   "url": "https://github.com/OxygeNvim/OxygeNvim"

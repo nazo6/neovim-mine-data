@@ -3,6 +3,24 @@
     [
       {
         "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Root Detector"
+      }
+    ],
+    [
+      {
+        "level": 0,
         "name": "README.md"
       },
       {
@@ -15,16 +33,12 @@
       },
       {
         "level": 3,
-        "name": "Formatting"
-      },
-      {
-        "level": 4,
-        "name": "Indent"
+        "name": "Project"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 21,
     "createdAt": "2022-04-05T10:04:42Z",
     "description": "Project's root directory and documents Indentation detector with project based config loader",
     "isArchived": false,
@@ -34,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 36,
+    "star": 37,
     "topics": [
       "neovim",
       "neovim-plugin",
@@ -46,5 +60,5 @@
   "domain": "github.com",
   "name": "penvim",
   "owner": "Abstract-IDE",
-  "url": "https://github.com/Abstract-IDE/penvim"
+  "url": "https://github.com/shaeinst/penvim"
 }

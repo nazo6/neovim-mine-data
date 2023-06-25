@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "open"
+      },
+      {
+        "level": 5,
+        "name": "remote open"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-06-19T23:28:56Z",
+    "description": "Downloads contents of a directory over API, watches local files for changes, and uploades any changed files.",
+    "isArchived": false,
+    "lastCommit": "2023-06-20T10:58:31Z",
+    "nameWithOwner": "pseudoacacial/turbo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "turbo.nvim",
+  "owner": "pseudoacacial",
+  "url": "https://github.com/pseudoacacial/turbo.nvim"
+}

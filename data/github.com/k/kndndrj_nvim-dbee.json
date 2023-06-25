@@ -11,14 +11,10 @@
       },
       {
         "level": 2,
-        "name": "Configuration File"
-      },
-      {
-        "level": 3,
         "name": "Database"
       },
       {
-        "level": 4,
+        "level": 3,
         "name": "SQL"
       }
     ]
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 69,
+    "star": 74,
     "topics": [
       "neovim",
       "bee",

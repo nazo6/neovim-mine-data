@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "etc"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2023-06-22T01:01:00Z",
+    "description": "Notes in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-06-25T02:03:43Z",
+    "nameWithOwner": "gsuuon/note.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "notes",
+      "nvim",
+      "nvim-plugin",
+      "organization",
+      "tasks",
+      "wiki"
+    ]
+  },
+  "domain": "github.com",
+  "name": "note.nvim",
+  "owner": "gsuuon",
+  "url": "https://github.com/gsuuon/note.nvim"
+}

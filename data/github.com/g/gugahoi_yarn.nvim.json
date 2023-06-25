@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Javascript/Typescript"
+      },
+      {
+        "level": 4,
+        "name": "Toolchain"
+      },
+      {
+        "level": 5,
+        "name": "yarn"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-06-21T08:56:21Z",
+    "description": "NPM tasks runner plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-06-21T23:06:15Z",
+    "nameWithOwner": "gugahoi/yarn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yarn.nvim",
+  "owner": "gugahoi",
+  "url": "https://github.com/gugahoi/yarn.nvim"
+}

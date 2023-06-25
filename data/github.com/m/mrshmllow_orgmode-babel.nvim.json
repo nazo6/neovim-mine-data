@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Org mode"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-06-24T15:24:32Z",
+    "description": "An experimental plugin that evaluates and tangles code blocks in nvim-orgmode using babel itself.",
+    "isArchived": false,
+    "lastCommit": "2023-06-25T07:10:10Z",
+    "nameWithOwner": "mrshmllow/orgmode-babel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "orgmode-nvim",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "orgmode-babel.nvim",
+  "owner": "mrshmllow",
+  "url": "https://github.com/mrshmllow/orgmode-babel.nvim"
+}
