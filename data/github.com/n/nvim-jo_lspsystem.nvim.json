@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "command.md"
+        "name": "lsp.md"
       },
       {
         "level": 1,
@@ -11,25 +11,21 @@
       },
       {
         "level": 2,
-        "name": "Command"
+        "name": "LSP"
       },
       {
         "level": 3,
-        "name": "Shell Command"
-      },
-      {
-        "level": 4,
-        "name": "sudo"
+        "name": "LSP Feature Extension UI"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 5,
-    "createdAt": "2023-04-17T08:58:19Z",
+    "commitCountLastYear": 16,
+    "createdAt": "2023-06-28T00:41:59Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-04-28T10:26:16Z",
-    "nameWithOwner": "haolian9/sudo_write.nvim",
+    "lastCommit": "2023-06-28T19:55:13Z",
+    "nameWithOwner": "nvim-jo/lspsystem.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -39,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "sudo_write.nvim",
-  "owner": "haolian9",
-  "url": "https://github.com/haolian9/sudo_write.nvim"
+  "name": "lspsystem.nvim",
+  "owner": "nvim-jo",
+  "url": "https://github.com/nvim-jo/lspsystem.nvim"
 }

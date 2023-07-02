@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Root Detector"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-06-29T09:05:22Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-06-29T09:05:22Z",
+    "nameWithOwner": "kilisio/nvim-root-dir",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-root-dir",
+  "owner": "kilisio",
+  "url": "https://github.com/kilisio/nvim-root-dir"
+}

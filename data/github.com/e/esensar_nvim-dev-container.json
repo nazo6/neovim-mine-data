@@ -15,7 +15,7 @@
       },
       {
         "level": 3,
-        "name": "Remote Development"
+        "name": "Devcontainer"
       }
     ],
     [
@@ -38,17 +38,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 23,
     "createdAt": "2022-05-07T10:09:17Z",
     "description": "Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container",
     "isArchived": false,
-    "lastCommit": "2023-06-17T13:22:09Z",
+    "lastCommit": "2023-07-01T15:42:59Z",
     "nameWithOwner": "esensar/nvim-dev-container",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 272,
+    "star": 279,
     "topics": [
       "containers",
       "devcontainer",

@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Analytics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-06-24T11:29:31Z",
+    "description": "NeoVim plugin with which you can track the time you spent on files, projects, repos, filetypes",
+    "isArchived": false,
+    "lastCommit": "2023-06-27T13:12:57Z",
+    "nameWithOwner": "gaborvecsei/usage-tracker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "nvim",
+      "tracking",
+      "usage",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "usage-tracker.nvim",
+  "owner": "gaborvecsei",
+  "url": "https://github.com/gaborvecsei/usage-tracker.nvim"
+}

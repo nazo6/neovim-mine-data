@@ -3,28 +3,32 @@
     [
       {
         "level": 0,
-        "name": "mode.md"
+        "name": "README.md"
       },
       {
         "level": 1,
-        "name": "Table of Contents"
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
       },
       {
         "level": 2,
-        "name": "Mode"
+        "name": "Plugin"
       },
       {
         "level": 3,
-        "name": "Mode Viewer"
+        "name": "Bars and Lines"
+      },
+      {
+        "level": 4,
+        "name": "Cursorline"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 64,
+    "commitCountLastYear": 66,
     "createdAt": "2022-10-04T07:45:53Z",
     "description": "Cursor line number mode indicator",
     "isArchived": false,
-    "lastCommit": "2023-06-16T15:05:10Z",
+    "lastCommit": "2023-06-29T07:48:11Z",
     "nameWithOwner": "mawkler/modicator.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -41,5 +45,5 @@
   "domain": "github.com",
   "name": "modicator.nvim",
   "owner": "mawkler",
-  "url": "https://github.com/melkster/modicator.nvim"
+  "url": "https://github.com/mawkler/modicator.nvim"
 }

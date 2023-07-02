@@ -20,12 +20,12 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 226,
+    "commitCountLastYear": 230,
     "createdAt": "2023-02-02T02:24:49Z",
     "description": "Neovim plugin for calling APIs (REST and GraphQL)  written in Lua",
     "isArchived": false,
-    "lastCommit": "2023-06-08T00:52:04Z",
-    "nameWithOwner": "javiorfo/nvim-ship",
+    "lastCommit": "2023-06-28T20:02:04Z",
+    "nameWithOwner": "caosystema/nvim-ship",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -46,6 +46,6 @@
   },
   "domain": "github.com",
   "name": "nvim-ship",
-  "owner": "javiorfo",
+  "owner": "caosystema",
   "url": "https://github.com/javio7/nvim-vurl"
 }

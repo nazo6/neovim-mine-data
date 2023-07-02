@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Password Manager"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-06-25T14:53:52Z",
+    "description": "Generates a password in neovim and prints it to line (standard 12char password & base64)",
+    "isArchived": false,
+    "lastCommit": "2023-06-25T21:18:13Z",
+    "nameWithOwner": "NeverW8/nvim_pw.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim_pw.nvim",
+  "owner": "NeverW8",
+  "url": "https://github.com/NeverW8/nvim_pw.nvim"
+}

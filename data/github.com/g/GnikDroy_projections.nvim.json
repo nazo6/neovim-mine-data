@@ -3,26 +3,34 @@
     [
       {
         "level": 0,
-        "name": "session.md"
+        "name": "README.md"
       },
       {
         "level": 1,
-        "name": "Session"
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Project"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 42,
+    "commitCountLastYear": 43,
     "createdAt": "2022-11-10T12:06:59Z",
     "description": "A map to your filesystem",
     "isArchived": false,
-    "lastCommit": "2023-05-18T04:48:42Z",
+    "lastCommit": "2023-06-29T13:12:51Z",
     "nameWithOwner": "GnikDroy/projections.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 172,
+    "star": 173,
     "topics": [
       "luajit",
       "neovim",
@@ -34,5 +42,5 @@
   "domain": "github.com",
   "name": "projections.nvim",
   "owner": "GnikDroy",
-  "url": "https://github.com/GnikDroy/projections.nvim"
+  "url": "https://github.com/gnikdroy/projections.nvim"
 }

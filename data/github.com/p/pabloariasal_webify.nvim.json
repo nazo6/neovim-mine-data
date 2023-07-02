@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-06-24T09:33:37Z",
+    "description": "Neovim Plugin that opens the current file in github or gitlab's web interface",
+    "isArchived": false,
+    "lastCommit": "2023-06-28T20:26:16Z",
+    "nameWithOwner": "pabloariasal/webify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "webify.nvim",
+  "owner": "pabloariasal",
+  "url": "https://github.com/pabloariasal/webify.nvim"
+}

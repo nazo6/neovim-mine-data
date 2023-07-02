@@ -1,0 +1,43 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      },
+      {
+        "level": 3,
+        "name": "Simple"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-06-25T09:47:45Z",
+    "description": "Minimum opinionated neovim statusline written in lua.",
+    "isArchived": false,
+    "lastCommit": "2023-06-30T15:37:44Z",
+    "nameWithOwner": "juiceDeLemon/schitoozleen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugins",
+      "neovim-statusline",
+      "statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "schitoozleen.nvim",
+  "owner": "juiceDeLemon",
+  "url": "https://github.com/juiceDeLemon/schitoozleen.nvim"
+}

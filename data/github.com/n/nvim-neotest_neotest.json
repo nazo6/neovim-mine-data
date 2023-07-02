@@ -3,20 +3,24 @@
     [
       {
         "level": 0,
-        "name": "test.md"
+        "name": "README.md"
       },
       {
         "level": 1,
-        "name": "Table of Contents"
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
       },
       {
         "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
         "name": "Test"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 205,
+    "commitCountLastYear": 203,
     "createdAt": "2022-01-02T23:08:55Z",
     "description": "An extensible framework for interacting with tests within NeoVim.",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1359,
+    "star": 1386,
     "topics": [
       "neovim",
       "lua"
@@ -35,5 +39,5 @@
   "domain": "github.com",
   "name": "neotest",
   "owner": "nvim-neotest",
-  "url": "https://github.com/rcarriga/neotest"
+  "url": "https://github.com/nvim-neotest/neotest"
 }

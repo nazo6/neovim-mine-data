@@ -1,0 +1,53 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Robot"
+      },
+      {
+        "level": 5,
+        "name": "FRC(First robotics competition)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-06-26T03:11:42Z",
+    "description": "NeoVim plugin written in Lua, providing support for WPILib tooling",
+    "isArchived": false,
+    "lastCommit": "2023-06-26T04:31:52Z",
+    "nameWithOwner": "VLPatton/frcpal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "frc",
+      "neovim",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "frcpal.nvim",
+  "owner": "VLPatton",
+  "url": "https://github.com/VLPatton/frcpal.nvim"
+}

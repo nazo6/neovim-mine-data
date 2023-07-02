@@ -24,11 +24,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 11,
     "createdAt": "2023-06-22T02:30:35Z",
-    "description": "automatically determines the direction of window splitting",
+    "description": "Split the window horizontally if it is vertical, and vertically if it is horizontal",
     "isArchived": false,
-    "lastCommit": "2023-06-23T01:32:16Z",
+    "lastCommit": "2023-07-01T15:53:36Z",
     "nameWithOwner": "yuma140902/auto-split-direction.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-06-27T12:10:22Z",
+    "description": "Plugin, that allows to pass commands to kitty window from neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-01T16:31:29Z",
+    "nameWithOwner": "lolpie244/simple-kitty-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "kitty-terminal",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-kitty-runner.nvim",
+  "owner": "lolpie244",
+  "url": "https://github.com/lolpie244/simple-kitty-runner.nvim"
+}

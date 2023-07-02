@@ -3,16 +3,6 @@
     [
       {
         "level": 0,
-        "name": "git-github.md"
-      },
-      {
-        "level": 1,
-        "name": "Git"
-      }
-    ],
-    [
-      {
-        "level": 0,
         "name": "README.md"
       },
       {
@@ -25,27 +15,29 @@
       },
       {
         "level": 3,
-        "name": "Git"
+        "name": "Motion"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 296,
-    "createdAt": "2020-06-18T09:14:28Z",
-    "description": "magit for neovim",
+    "commitCountLastYear": 369,
+    "createdAt": "2023-06-08T07:32:45Z",
+    "description": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
     "isArchived": false,
-    "lastCommit": "2023-06-09T13:42:10Z",
-    "nameWithOwner": "TimUntersberger/neogit",
+    "lastCommit": "2023-07-02T09:11:09Z",
+    "nameWithOwner": "folke/flash.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2193,
+    "star": 622,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "neogit",
-  "owner": "TimUntersberger",
-  "url": "https://github.com/TimUntersberger/neogit"
+  "name": "flash.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/flash.nvim"
 }

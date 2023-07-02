@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Devcontainer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2023-05-31T15:51:25Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-06-30T16:35:56Z",
+    "nameWithOwner": "arnaupv/nvim-devcontainer-cli",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 39,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-devcontainer-cli",
+  "owner": "arnaupv",
+  "url": "https://github.com/arnaupv/nvim-devcontainer-cli"
+}

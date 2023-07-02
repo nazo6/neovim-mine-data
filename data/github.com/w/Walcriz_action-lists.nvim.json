@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Config file style"
+      },
+      {
+        "level": 3,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-06-28T17:01:38Z",
+    "description": "Easily customize lists of actions based on filetypes in nvim.",
+    "isArchived": false,
+    "lastCommit": "2023-07-01T10:17:21Z",
+    "nameWithOwner": "Walcriz/action-lists.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "action-lists.nvim",
+  "owner": "Walcriz",
+  "url": "https://github.com/Walcriz/action-lists.nvim"
+}
