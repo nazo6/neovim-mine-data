@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Robot"
+      },
+      {
+        "level": 5,
+        "name": "LEGO"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-07-01T14:00:59Z",
+    "description": "Neovim lua-plugin for working with Pybricks on LEGO Powered Up hubs.",
+    "isArchived": false,
+    "lastCommit": "2023-07-08T07:33:23Z",
+    "nameWithOwner": "KWSmit/nvim-pybricks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pybricks.nvim",
+  "owner": "KWSmit",
+  "url": "https://github.com/KWSmit/nvim-pybricks.nvim"
+}

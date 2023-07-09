@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Align"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-03T07:48:31Z",
+    "description": "Adds a new \"mode\" to neovim to align text in column",
+    "isArchived": false,
+    "lastCommit": "2023-07-03T20:58:40Z",
+    "nameWithOwner": "imLew/nvim-align-mode",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-align-mode",
+  "owner": "imLew",
+  "url": "https://github.com/imLew/nvim-align-mode"
+}

@@ -20,11 +20,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 16,
     "createdAt": "2023-03-21T09:00:24Z",
     "description": "Convenient way to add dependencies to your Java/Kotlin project using Neovim with Telescope",
     "isArchived": false,
-    "lastCommit": "2023-04-03T12:18:31Z",
+    "lastCommit": "2023-07-03T14:07:29Z",
     "nameWithOwner": "Iamnotagenius/mvnsearch.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,13 @@
     },
     "star": 2,
     "topics": [
+      "neovim-plugin",
+      "gradle",
+      "jvm-languages",
+      "maven",
+      "neovim",
+      "nvim",
+      "telescope-extension"
     ]
   },
   "domain": "github.com",

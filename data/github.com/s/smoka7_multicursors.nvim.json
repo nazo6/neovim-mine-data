@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "search_replace_grep_select.md"
+      },
+      {
+        "level": 1,
+        "name": "Select"
+      },
+      {
+        "level": 2,
+        "name": "Multi Cursor"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2023-07-01T13:11:46Z",
+    "description": "A multi cursor plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-07-07T16:49:32Z",
+    "nameWithOwner": "smoka7/multicursors.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 74,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "multicursors.nvim",
+  "owner": "smoka7",
+  "url": "https://github.com/smoka7/multicursors.nvim"
+}

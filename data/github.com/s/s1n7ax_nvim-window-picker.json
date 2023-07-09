@@ -20,17 +20,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 33,
     "createdAt": "2021-09-25T20:30:24Z",
     "description": "This plugins prompts the user to pick a window and returns the window id of the picked window",
     "isArchived": false,
-    "lastCommit": "2023-06-21T18:07:44Z",
+    "lastCommit": "2023-07-04T14:26:25Z",
     "nameWithOwner": "s1n7ax/nvim-window-picker",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 168,
+    "star": 171,
     "topics": [
       "neovim",
       "neovim-plugin",

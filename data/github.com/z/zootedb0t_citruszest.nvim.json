@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2023-06-27T07:01:06Z",
+    "description": "A vibrant and refreshing neovim colorscheme inspired by citrus fruits.",
+    "isArchived": false,
+    "lastCommit": "2023-07-08T05:47:51Z",
+    "nameWithOwner": "zootedb0t/citruszest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "colorscheme",
+      "neovim",
+      "neovim-plugin",
+      "lua",
+      "neovim-colorscheme",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "citruszest.nvim",
+  "owner": "zootedb0t",
+  "url": "https://github.com/zootedb0t/citruszest.nvim"
+}

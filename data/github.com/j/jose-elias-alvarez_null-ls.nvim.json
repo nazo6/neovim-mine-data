@@ -140,17 +140,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 384,
+    "commitCountLastYear": 389,
     "createdAt": "2021-05-15T06:12:28Z",
     "description": "Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
     "isArchived": false,
-    "lastCommit": "2023-06-29T16:36:35Z",
+    "lastCommit": "2023-07-06T14:08:56Z",
     "nameWithOwner": "jose-elias-alvarez/null-ls.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3329,
+    "star": 3357,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "command.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Command"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-01T21:05:49Z",
+    "description": "A simple plugin for neovim to get the current location",
+    "isArchived": false,
+    "lastCommit": "2023-07-01T21:22:02Z",
+    "nameWithOwner": "ragnarok22/whereami.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "whereami.nvim",
+  "owner": "ragnarok22",
+  "url": "https://github.com/ragnarok22/whereami.nvim"
+}

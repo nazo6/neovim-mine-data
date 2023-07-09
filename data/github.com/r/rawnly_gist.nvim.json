@@ -15,31 +15,30 @@
       },
       {
         "level": 3,
-        "name": "PlantUML"
+        "name": "Gist"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 74,
-    "createdAt": "2023-02-02T02:22:02Z",
-    "description": "Neovim plugin written in Lua for Plant UML",
+    "commitCountLastYear": 45,
+    "createdAt": "2023-03-14T21:20:23Z",
+    "description": "Neovim plugin that allows you to create a Github Gist from the current file",
     "isArchived": false,
-    "lastCommit": "2023-06-28T19:56:52Z",
-    "nameWithOwner": "caosystema/nvim-soil",
+    "lastCommit": "2023-06-19T15:41:06Z",
+    "nameWithOwner": "rawnly/gist.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 15,
+    "star": 132,
     "topics": [
-      "neovim",
-      "neovim-plugin",
-      "plantuml",
-      "uml"
+      "gist",
+      "lua",
+      "neovim"
     ]
   },
   "domain": "github.com",
-  "name": "nvim-soil",
-  "owner": "caosystema",
-  "url": "https://github.com/javio7/nvim-modelizer"
+  "name": "gist.nvim",
+  "owner": "rawnly",
+  "url": "https://github.com/Rawnly/gist.nvim"
 }

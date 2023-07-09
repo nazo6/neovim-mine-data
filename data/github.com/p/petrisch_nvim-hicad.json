@@ -15,31 +15,35 @@
       },
       {
         "level": 3,
-        "name": "Web"
+        "name": "Hardware"
       },
       {
         "level": 4,
-        "name": "Discord"
+        "name": "CAD"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2023-05-29T13:50:31Z",
-    "description": "A Discord Rich Presence For NeoVIM",
+    "commitCountLastYear": 2,
+    "createdAt": "2023-06-30T14:30:59Z",
+    "description": "Neovim plugin for using the HiCAD Macro language",
     "isArchived": false,
-    "lastCommit": "2023-05-29T14:00:58Z",
-    "nameWithOwner": "CatKoder123/presence.nvim",
+    "lastCommit": "2023-07-02T08:59:37Z",
+    "nameWithOwner": "petrisch/nvim-hicad",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 1,
     "topics": [
+      "cad",
+      "hicad",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "presence.nvim",
-  "owner": "CatKoder123",
-  "url": "https://github.com/CatKoder123/presence.nvim"
+  "name": "nvim-hicad",
+  "owner": "petrisch",
+  "url": "https://github.com/petrisch/nvim-hicad"
 }

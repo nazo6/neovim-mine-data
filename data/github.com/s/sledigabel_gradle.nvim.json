@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Java"
+      },
+      {
+        "level": 4,
+        "name": "Gradle"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-07-04T09:49:34Z",
+    "description": "A simple plugin to manage gradle tasks within neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-04T13:19:47Z",
+    "nameWithOwner": "sledigabel/gradle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gradle.nvim",
+  "owner": "sledigabel",
+  "url": "https://github.com/sledigabel/gradle.nvim"
+}

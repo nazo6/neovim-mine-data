@@ -3,28 +3,20 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "lsp.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        "name": "Table of Contents"
       },
       {
         "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
-        "name": "LSP"
-      },
-      {
-        "level": 4,
-        "name": "(requires Neovim 0.5)"
+        "name": "Pre-configuration"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 48,
+    "commitCountLastYear": 47,
     "createdAt": "2022-04-24T05:57:59Z",
     "description": "A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.",
     "isArchived": false,
@@ -48,5 +40,5 @@
   "domain": "github.com",
   "name": "lsp-setup.nvim",
   "owner": "junnplus",
-  "url": "https://github.com/Junnplus/nvim-lsp-setup"
+  "url": "https://github.com/junnplus/nvim-lsp-setup"
 }

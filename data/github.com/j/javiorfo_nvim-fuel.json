@@ -16,12 +16,12 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 186,
+    "commitCountLastYear": 195,
     "createdAt": "2023-02-02T02:20:37Z",
     "description": "Neovim plugin written in Lua for running a main or script in several languages",
     "isArchived": false,
-    "lastCommit": "2023-06-28T19:56:04Z",
-    "nameWithOwner": "caosystema/nvim-fuel",
+    "lastCommit": "2023-07-07T22:44:02Z",
+    "nameWithOwner": "javiorfo/nvim-fuel",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -42,6 +42,6 @@
   },
   "domain": "github.com",
   "name": "nvim-fuel",
-  "owner": "caosystema",
+  "owner": "javiorfo",
   "url": "https://github.com/javio7/nvim-executor"
 }

@@ -1,0 +1,30 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "PlantUML"
+      }
+    ]
+  ],
+  "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'BenceBakos/plantuml.nvim'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "plantuml.nvim",
+  "owner": "BenceBakos",
+  "url": "https://github.com/BenceBakos/plantuml.nvim"
+}

@@ -3,20 +3,16 @@
     [
       {
         "level": 0,
-        "name": "statusline.md"
-      },
-      {
-        "level": 1,
-        "name": "Statusline"
+        "name": "Archived.md"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 52,
+    "commitCountLastYear": 53,
     "createdAt": "2023-04-15T13:31:37Z",
     "description": "Lualine theme that uses your wal/pywal-generated colors. Uses the wal-colors.nvim API.",
-    "isArchived": false,
-    "lastCommit": "2023-04-15T13:32:05Z",
+    "isArchived": true,
+    "lastCommit": "2023-07-02T14:31:28Z",
     "nameWithOwner": "mbrea-c/mbc-lualine.nvim",
     "primaryLanguage": {
       "color": "#000080",

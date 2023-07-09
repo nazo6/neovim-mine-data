@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "fold.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Fold"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-07-05T19:35:09Z",
+    "description": "A neovim version of the inline fold plugin",
+    "isArchived": false,
+    "lastCommit": "2023-07-06T10:11:47Z",
+    "nameWithOwner": "malbertzard/inline-fold.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "tailwindcss",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "inline-fold.nvim",
+  "owner": "malbertzard",
+  "url": "https://github.com/malbertzard/inline-fold.nvim"
+}

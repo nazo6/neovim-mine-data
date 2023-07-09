@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "project.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Project"
+      },
+      {
+        "level": 4,
+        "name": "Project Switcher"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-07-05T04:52:51Z",
+    "description": "Super simple Neovim plugin for quickly jumping to a project",
+    "isArchived": false,
+    "lastCommit": "2023-07-05T18:24:41Z",
+    "nameWithOwner": "Hubro/nvim-projects",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-projects",
+  "owner": "Hubro",
+  "url": "https://github.com/Hubro/nvim-projects"
+}

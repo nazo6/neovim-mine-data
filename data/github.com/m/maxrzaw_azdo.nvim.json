@@ -15,31 +15,31 @@
       },
       {
         "level": 3,
-        "name": "CLI"
+        "name": "Cloud"
       },
       {
         "level": 4,
-        "name": "rsync"
+        "name": "Azure"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 5,
-    "createdAt": "2023-01-15T12:05:15Z",
-    "description": "Rsync wrapper for Neovim",
+    "commitCountLastYear": 4,
+    "createdAt": "2023-07-07T22:55:15Z",
+    "description": "Experimenting with the azure-devops-cli-extension and Neovim",
     "isArchived": false,
-    "lastCommit": "2023-03-16T15:20:18Z",
-    "nameWithOwner": "noorwachid/vim-rsync",
+    "lastCommit": "2023-07-08T05:33:04Z",
+    "nameWithOwner": "maxrzaw/azdo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "vim-rsync",
-  "owner": "noorwachid",
-  "url": "https://github.com/noorwachid/nvim-rsync"
+  "name": "azdo.nvim",
+  "owner": "maxrzaw",
+  "url": "https://github.com/maxrzaw/azdo.nvim"
 }

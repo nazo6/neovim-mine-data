@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Keyboard Layout"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-07-07T03:24:17Z",
+    "description": "Adds some support for Cyrillic keyboard layouts in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-07T03:34:30Z",
+    "nameWithOwner": "nativerv/cyrillic.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "i18n",
+      "language-support",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "cyrillic"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cyrillic.nvim",
+  "owner": "nativerv",
+  "url": "https://github.com/nativerv/cyrillic.nvim"
+}
