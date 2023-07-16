@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-07-08T08:55:08Z",
+    "description": "Open a path/link/github repo under cursor with system app.",
+    "isArchived": false,
+    "lastCommit": "2023-07-08T09:15:26Z",
+    "nameWithOwner": "Pagliacii/sys-open.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sys-open.nvim",
+  "owner": "Pagliacii",
+  "url": "https://github.com/Pagliacii/sys-open.nvim"
+}

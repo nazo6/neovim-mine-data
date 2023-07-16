@@ -1,0 +1,55 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Colorscheme"
+      },
+      {
+        "level": 4,
+        "name": "Tree-sitter Supported Colorscheme"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-06-17T16:17:27Z",
+    "description": "a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-02T06:11:53Z",
+    "nameWithOwner": "xero/miasma.nvim",
+    "primaryLanguage": {
+      "color": "#199f4b",
+      "name": "Vim Script"
+    },
+    "star": 19,
+    "topics": [
+      "color-scheme",
+      "colorscheme",
+      "fog",
+      "forest",
+      "miasma",
+      "neovim",
+      "neovim-colors",
+      "neovim-colorscheme",
+      "vim",
+      "vim-colors"
+    ]
+  },
+  "domain": "github.com",
+  "name": "miasma.nvim",
+  "owner": "xero",
+  "url": "https://github.com/xero/miasma.nvim"
+}

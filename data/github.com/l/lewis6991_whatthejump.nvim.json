@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "jump.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Go to File"
+      },
+      {
+        "level": 3,
+        "name": "jumplist"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-07-12T10:35:44Z",
+    "description": "Show jumplist in a floating window.",
+    "isArchived": false,
+    "lastCommit": "2023-07-12T19:35:41Z",
+    "nameWithOwner": "lewis6991/whatthejump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "whatthejump.nvim",
+  "owner": "lewis6991",
+  "url": "https://github.com/lewis6991/whatthejump.nvim"
+}

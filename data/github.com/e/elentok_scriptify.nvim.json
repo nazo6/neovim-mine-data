@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Shellscript(bash)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-07-09T17:13:14Z",
+    "description": "Creates scripts files by adding shebang and making them executable",
+    "isArchived": false,
+    "lastCommit": "2023-07-09T18:36:11Z",
+    "nameWithOwner": "elentok/scriptify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scriptify.nvim",
+  "owner": "elentok",
+  "url": "https://github.com/elentok/scriptify.nvim"
+}

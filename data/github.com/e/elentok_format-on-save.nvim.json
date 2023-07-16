@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "linter_formatter.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-07-14T17:26:07Z",
+    "description": "Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt",
+    "isArchived": false,
+    "lastCommit": "2023-07-16T08:43:09Z",
+    "nameWithOwner": "elentok/format-on-save.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+      "formatter",
+      "lsp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "format-on-save.nvim",
+  "owner": "elentok",
+  "url": "https://github.com/elentok/format-on-save.nvim"
+}

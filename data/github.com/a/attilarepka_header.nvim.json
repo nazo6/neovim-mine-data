@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Comment out"
+      },
+      {
+        "level": 4,
+        "name": "Comment Header"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-07-13T14:34:36Z",
+    "description": "adds copyright information to the top of source files",
+    "isArchived": false,
+    "lastCommit": "2023-07-15T19:42:11Z",
+    "nameWithOwner": "attilarepka/header.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "header.nvim",
+  "owner": "attilarepka",
+  "url": "https://github.com/attilarepka/header.nvim"
+}

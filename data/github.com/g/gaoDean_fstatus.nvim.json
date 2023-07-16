@@ -1,0 +1,33 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "statusline.md"
+      },
+      {
+        "level": 1,
+        "name": "Statusline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-07-09T09:26:25Z",
+    "description": "a minimal no-nonsense floating statusline for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-10T08:30:57Z",
+    "nameWithOwner": "gaoDean/fstatus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fstatus.nvim",
+  "owner": "gaoDean",
+  "url": "https://github.com/gaoDean/fstatus.nvim"
+}

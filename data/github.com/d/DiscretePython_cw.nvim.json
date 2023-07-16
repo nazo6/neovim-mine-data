@@ -1,0 +1,51 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Cloud"
+      },
+      {
+        "level": 4,
+        "name": "AWS"
+      },
+      {
+        "level": 5,
+        "name": "CloudWatch"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-07-09T18:33:03Z",
+    "description": "Tail AWS CloudWatch logs from Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-12T22:15:40Z",
+    "nameWithOwner": "DiscretePython/cw.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "aws-cloudwatch",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cw.nvim",
+  "owner": "DiscretePython",
+  "url": "https://github.com/DiscretePython/cw.nvim"
+}

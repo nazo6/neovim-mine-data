@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "task-runner.md"
+      },
+      {
+        "level": 1,
+        "name": "Task Runner"
+      },
+      {
+        "level": 2,
+        "name": "Command style"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-07-12T05:18:25Z",
+    "description": "Allows in editor execution of a run command for each project",
+    "isArchived": false,
+    "lastCommit": "2023-07-14T15:28:41Z",
+    "nameWithOwner": "isaac238/terminal_run.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "terminal_run.nvim",
+  "owner": "isaac238",
+  "url": "https://github.com/isaac238/terminal_run.nvim"
+}

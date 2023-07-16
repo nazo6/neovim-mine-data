@@ -3,15 +3,15 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        "name": "Table of Contents"
       },
       {
         "level": 2,
-        "name": "Plugin"
+        "name": "Other Standard Feature Enhancement"
       },
       {
         "level": 3,
@@ -20,7 +20,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 264,
+    "commitCountLastYear": 263,
     "createdAt": "2020-06-07T07:00:58Z",
     "description": "vim dashboard",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1606,
+    "star": 1610,
     "topics": [
       "dashboard",
       "neovim",
@@ -43,5 +43,5 @@
   "domain": "github.com",
   "name": "dashboard-nvim",
   "owner": "nvimdev",
-  "url": "https://github.com/glepnir/dashboard-nvim"
+  "url": "https://github.com/nvimdev/dashboard-nvim"
 }

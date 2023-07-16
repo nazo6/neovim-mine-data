@@ -1,0 +1,55 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "LSP"
+      },
+      {
+        "level": 4,
+        "name": "(requires Neovim 0.5)"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2021-03-08T02:16:05Z",
+    "description": "An unofficial collection of different linter and formatter configurations for diagnostic-languageserver used for built-in nvim-lsp",
+    "isArchived": false,
+    "lastCommit": "2023-07-14T16:39:18Z",
+    "nameWithOwner": "creativenull/diagnosticls-configs-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 66,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "lua",
+      "nvim-lsp",
+      "diagnostic-language-server",
+      "linters",
+      "formatters",
+      "neovim",
+      "checker",
+      "formatter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagnosticls-configs-nvim",
+  "owner": "creativenull",
+  "url": "https://github.com/creativenull/diagnosticls-configs-nvim"
+}

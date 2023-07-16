@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Profiler"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-07-13T14:08:42Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-07-14T01:49:55Z",
+    "nameWithOwner": "mgerb/metrics.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "metrics.nvim",
+  "owner": "mgerb",
+  "url": "https://github.com/mgerb/metrics.nvim"
+}

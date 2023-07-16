@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "ToDo"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-07-09T12:07:57Z",
+    "description": "Neovim plugin for creating and editing notes associated with cwd, current buffer's filepath, or filetype of the current buffer under a single key.",
+    "isArchived": false,
+    "lastCommit": "2023-07-09T13:38:53Z",
+    "nameWithOwner": "rareitems/saved_notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "saved_notes.nvim",
+  "owner": "rareitems",
+  "url": "https://github.com/rareitems/saved_notes.nvim"
+}

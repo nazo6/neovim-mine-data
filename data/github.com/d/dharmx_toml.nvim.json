@@ -1,0 +1,44 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "TOML"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-14T13:05:29Z",
+    "description": "A proof of concept plugin. Configure Neovim with TOML/JSON.",
+    "isArchived": false,
+    "lastCommit": "2023-07-16T06:13:39Z",
+    "nameWithOwner": "dharmx/toml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "qol"
+    ]
+  },
+  "domain": "github.com",
+  "name": "toml.nvim",
+  "owner": "dharmx",
+  "url": "https://github.com/dharmx/toml.nvim"
+}

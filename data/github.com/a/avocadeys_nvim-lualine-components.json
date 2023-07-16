@@ -3,30 +3,15 @@
     [
       {
         "level": 0,
-        "name": "statusline.md"
-      },
-      {
-        "level": 1,
-        "name": "Statusline"
+        "name": "Archived.md"
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 5,
-    "createdAt": "2023-04-16T09:38:19Z",
-    "description": "small components for lualine.nvim plugin (no longer maintained)",
-    "isArchived": false,
-    "lastCommit": "2023-05-29T05:18:31Z",
-    "nameWithOwner": "avocadeys/nvim-lualine-components",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 3,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'avocadeys/nvim-lualine-components'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "nvim-lualine-components",
   "owner": "avocadeys",
   "url": "https://github.com/avocadeys/nvim-lualine-components"

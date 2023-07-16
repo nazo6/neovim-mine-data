@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 85,
+    "createdAt": "2023-07-09T03:50:33Z",
+    "description": "LSP diagnostics in virtual text at the top right of your screen",
+    "isArchived": false,
+    "lastCommit": "2023-07-12T15:14:13Z",
+    "nameWithOwner": "dgagn/diagflow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 81,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagflow.nvim",
+  "owner": "dgagn",
+  "url": "https://github.com/dgagn/diagflow.nvim"
+}
