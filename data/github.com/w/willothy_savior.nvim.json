@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Save"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-19T11:29:15Z",
+    "description": "The only auto-save plugin you will ever need.",
+    "isArchived": false,
+    "lastCommit": "2023-07-21T16:52:02Z",
+    "nameWithOwner": "willothy/savior.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "auto-save",
+      "lsp-server",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "savior.nvim",
+  "owner": "willothy",
+  "url": "https://github.com/willothy/savior.nvim"
+}

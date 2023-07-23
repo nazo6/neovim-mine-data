@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Rename"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-15T16:43:11Z",
+    "description": "A plugin to rename files based on tree-sitter nodes.",
+    "isArchived": false,
+    "lastCommit": "2023-07-16T18:48:41Z",
+    "nameWithOwner": "metalelf0/treesitter-renamer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "treesitter-renamer.nvim",
+  "owner": "metalelf0",
+  "url": "https://github.com/metalelf0/treesitter-renamer.nvim"
+}

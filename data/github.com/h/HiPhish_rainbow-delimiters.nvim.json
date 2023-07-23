@@ -13,20 +13,38 @@
         "level": 2,
         "name": "Highlight"
       }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      }
     ]
   ],
   "data": {
-    "commitCountLastYear": 294,
+    "commitCountLastYear": 307,
     "createdAt": "2023-07-02T21:48:37Z",
     "description": "Rainbow delimiters for Neovim with Tree-sitter",
     "isArchived": false,
-    "lastCommit": "2023-07-14T20:33:52Z",
+    "lastCommit": "2023-07-22T19:28:04Z",
     "nameWithOwner": "HiPhish/rainbow-delimiters.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 65,
+    "star": 96,
     "topics": [
     ]
   },

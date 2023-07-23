@@ -20,11 +20,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 10,
     "createdAt": "2022-02-16T16:05:30Z",
     "description": "TeX-PDF synchronisation in Neovim: plugin providing inverse search functionality",
     "isArchived": false,
-    "lastCommit": "2022-07-17T20:52:58Z",
+    "lastCommit": "2023-07-19T21:46:31Z",
     "nameWithOwner": "jhofscheier/nvim-texis",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,9 @@
     },
     "star": 3,
     "topics": [
+      "latex",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

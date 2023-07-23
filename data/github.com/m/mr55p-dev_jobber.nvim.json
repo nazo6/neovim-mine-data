@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "command.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Command"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-20T22:57:46Z",
+    "description": "Nvim plugin to define some commands and have them open in terminals in a new window",
+    "isArchived": false,
+    "lastCommit": "2023-07-20T23:12:16Z",
+    "nameWithOwner": "mr55p-dev/jobber.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jobber.nvim",
+  "owner": "mr55p-dev",
+  "url": "https://github.com/mr55p-dev/jobber.nvim"
+}

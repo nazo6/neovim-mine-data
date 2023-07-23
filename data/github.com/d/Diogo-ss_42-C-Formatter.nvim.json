@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "C/C++"
+      },
+      {
+        "level": 4,
+        "name": "Formatter"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-07-21T20:04:25Z",
+    "description": "Format code C/C++ according to the 42 norm V3 directly in Nvim. Written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-07-21T21:19:43Z",
+    "nameWithOwner": "Diogo-ss/42-C-Formatter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "42-C-Formatter.nvim",
+  "owner": "Diogo-ss",
+  "url": "https://github.com/Diogo-ss/42-C-Formatter.nvim"
+}

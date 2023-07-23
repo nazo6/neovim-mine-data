@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 48,
+    "createdAt": "2022-10-09T11:24:41Z",
+    "description": "🧶 Automatically save your changes in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-07-21T06:34:38Z",
+    "nameWithOwner": "okuuva/auto-save.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-save.nvim",
+  "owner": "okuuva",
+  "url": "https://github.com/okuuva/auto-save.nvim"
+}

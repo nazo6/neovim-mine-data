@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Reading assistant feature"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-10T16:50:46Z",
+    "description": "A lightweight neovim plugin for pinning fragments of code to the screen.",
+    "isArchived": false,
+    "lastCommit": "2023-07-20T20:08:45Z",
+    "nameWithOwner": "KaitlynEthylia/TreePin",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "TreePin",
+  "owner": "KaitlynEthylia",
+  "url": "https://github.com/KaitlynEthylia/TreePin"
+}

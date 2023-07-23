@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Analytics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-07-18T22:18:27Z",
+    "description": "Time to stand reminders",
+    "isArchived": false,
+    "lastCommit": "2023-07-18T22:35:59Z",
+    "nameWithOwner": "mvllow/stand.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "stand.nvim",
+  "owner": "mvllow",
+  "url": "https://github.com/mvllow/stand.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Cloud"
+      },
+      {
+        "level": 4,
+        "name": "Terraform"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2022-09-30T23:05:19Z",
+    "description": "Plan and Explore your terraform resources from nvim",
+    "isArchived": false,
+    "lastCommit": "2023-07-20T02:32:03Z",
+    "nameWithOwner": "mvaldes14/terraform.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "terraform.nvim",
+  "owner": "mvaldes14",
+  "url": "https://github.com/mvaldes14/terraform.nvim"
+}

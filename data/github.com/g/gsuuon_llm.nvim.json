@@ -15,7 +15,7 @@
       },
       {
         "level": 3,
-        "name": "Web"
+        "name": "AI Coding"
       },
       {
         "level": 4,
@@ -24,11 +24,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 282,
+    "commitCountLastYear": 286,
     "createdAt": "2023-04-16T04:18:10Z",
     "description": "Neovim plugin for interacting with LLM's and building editor integrated prompts.",
     "isArchived": false,
-    "lastCommit": "2023-07-14T09:15:34Z",
+    "lastCommit": "2023-07-20T04:43:00Z",
     "nameWithOwner": "gsuuon/llm.nvim",
     "primaryLanguage": {
       "color": "#000080",

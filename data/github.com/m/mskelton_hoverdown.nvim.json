@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown code block"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-07-16T13:18:56Z",
+    "description": "Improves support for LSP hover documentation by properly parsing and highlighting markdown.",
+    "isArchived": false,
+    "lastCommit": "2023-07-18T00:55:17Z",
+    "nameWithOwner": "mskelton/hoverdown.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "hover",
+      "lsp",
+      "markdown",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hoverdown.nvim",
+  "owner": "mskelton",
+  "url": "https://github.com/mskelton/hoverdown.nvim"
+}

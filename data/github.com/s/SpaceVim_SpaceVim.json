@@ -3,26 +3,22 @@
     [
       {
         "level": 0,
-        "name": "neovim-distribution.md"
-      },
-      {
-        "level": 1,
-        "name": "Neovim Distribution"
+        "name": "Archived.md"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 527,
+    "commitCountLastYear": 526,
     "createdAt": "2016-12-26T04:40:55Z",
     "description": "A community-driven modular vim/neovim distribution - The ultimate vimrc",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-07-16T05:10:27Z",
     "nameWithOwner": "SpaceVim/SpaceVim",
     "primaryLanguage": {
       "color": "#199f4b",
       "name": "Vim Script"
     },
-    "star": 19965,
+    "star": 19975,
     "topics": [
       "spacevim",
       "neovim",

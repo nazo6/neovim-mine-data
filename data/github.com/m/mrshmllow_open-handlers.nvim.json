@@ -1,0 +1,39 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Link"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2023-07-22T02:45:25Z",
+    "description": "A very simple plugin that allows multiple custom vim.ui.open handlers to co-exist",
+    "isArchived": false,
+    "lastCommit": "2023-07-23T04:33:33Z",
+    "nameWithOwner": "mrshmllow/open-handlers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-handlers.nvim",
+  "owner": "mrshmllow",
+  "url": "https://github.com/mrshmllow/open-handlers.nvim"
+}

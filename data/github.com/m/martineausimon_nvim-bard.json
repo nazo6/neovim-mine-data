@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "AI Coding"
+      },
+      {
+        "level": 4,
+        "name": "Google Bard"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-07-16T13:26:43Z",
+    "description": "A minimal plugin to interact with Google Bard in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-20T13:19:26Z",
+    "nameWithOwner": "martineausimon/nvim-bard",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-bard",
+  "owner": "martineausimon",
+  "url": "https://github.com/martineausimon/nvim-bard"
+}

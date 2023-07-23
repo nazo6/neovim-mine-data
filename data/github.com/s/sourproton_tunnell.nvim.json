@@ -20,18 +20,28 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 20,
     "createdAt": "2023-07-13T11:48:22Z",
-    "description": "A neovim plugin to tunnell your selections and cells to targets, written in Lua.",
+    "description": "A neovim plugin to tunnell text from neovim to a tmux target pane, written in Lua.",
     "isArchived": false,
-    "lastCommit": "2023-07-15T10:00:47Z",
+    "lastCommit": "2023-07-20T10:16:15Z",
     "nameWithOwner": "sourproton/tunnell.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 5,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "repl",
+      "tmux"
     ]
   },
   "domain": "github.com",

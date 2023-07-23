@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown checkbox"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-07-17T13:53:56Z",
+    "description": "Extended todo-item syntax for markdown.",
+    "isArchived": false,
+    "lastCommit": "2023-07-17T14:15:36Z",
+    "nameWithOwner": "thenbe/markdown-todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-todo.nvim",
+  "owner": "thenbe",
+  "url": "https://github.com/thenbe/markdown-todo.nvim"
+}

@@ -16,17 +16,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 23,
+    "commitCountLastYear": 29,
     "createdAt": "2023-06-24T15:24:32Z",
     "description": "An experimental plugin that evaluates and tangles code blocks in nvim-orgmode using babel itself.",
     "isArchived": false,
-    "lastCommit": "2023-06-30T04:55:19Z",
+    "lastCommit": "2023-07-23T04:52:10Z",
     "nameWithOwner": "mrshmllow/orgmode-babel.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 11,
+    "star": 12,
     "topics": [
       "orgmode-nvim",
       "neovim"

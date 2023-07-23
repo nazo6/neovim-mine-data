@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Translate"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-16T02:28:37Z",
+    "description": "A language translator for neovim written in Lua",
+    "isArchived": false,
+    "lastCommit": "2023-07-16T08:02:47Z",
+    "nameWithOwner": "alix2013/nvim-translator",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-translator",
+  "owner": "alix2013",
+  "url": "https://github.com/alix2013/nvim-translator"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Javascript/Typescript"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-07-22T15:58:53Z",
+    "description": "`nvim-treesitter`-based actions on JavaScript code",
+    "isArchived": false,
+    "lastCommit": "2023-07-22T17:50:43Z",
+    "nameWithOwner": "llllvvuu/nvim-js-actions",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-js-actions",
+  "owner": "llllvvuu",
+  "url": "https://github.com/llllvvuu/nvim-js-actions"
+}

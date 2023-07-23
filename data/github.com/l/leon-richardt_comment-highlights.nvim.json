@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "comment.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Special Comment"
+      },
+      {
+        "level": 4,
+        "name": "Comment highlight"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-07-16T15:09:21Z",
+    "description": "Highlight comments in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-19T10:45:15Z",
+    "nameWithOwner": "leon-richardt/comment-highlights.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment-highlights.nvim",
+  "owner": "leon-richardt",
+  "url": "https://github.com/leon-richardt/comment-highlights.nvim"
+}

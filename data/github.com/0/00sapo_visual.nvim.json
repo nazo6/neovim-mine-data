@@ -1,0 +1,59 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Editing support"
+      },
+      {
+        "level": 3,
+        "name": "Select Edit"
+      }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Editing Support"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2023-07-17T09:47:19Z",
+    "description": "First select, then edit. A helix/kakoune-like editing in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-22T17:43:15Z",
+    "nameWithOwner": "00sapo/visual.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 78,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "visual.nvim",
+  "owner": "00sapo",
+  "url": "https://github.com/00sapo/visual.nvim"
+}

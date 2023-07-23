@@ -3,34 +3,15 @@
     [
       {
         "level": 0,
-        "name": "toy.md"
-      },
-      {
-        "level": 1,
-        "name": "Toy"
-      },
-      {
-        "level": 2,
-        "name": "Study"
+        "name": "Archived.md"
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 4,
-    "createdAt": "2023-04-21T17:55:20Z",
-    "description": "Study.nvim is a Neovim plugin for creating, managing, and studying flashcards and question sets, all within the editor",
-    "isArchived": false,
-    "lastCommit": "2023-05-01T00:32:28Z",
-    "nameWithOwner": "D4NZ-jpg/study.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 1,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'D4NZ-jpg/study.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "study.nvim",
   "owner": "D4NZ-jpg",
   "url": "https://github.com/D4NZ-jpg/study.nvim"
