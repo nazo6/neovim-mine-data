@@ -15,7 +15,7 @@
       },
       {
         "level": 3,
-        "name": "[Comment Out](./comment.md)"
+        "name": "Comment Out"
       },
       {
         "level": 4,
@@ -50,7 +50,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 39,
     "createdAt": "2020-04-11T13:55:29Z",
     "description": "Indent guides  for Neovim",
     "isArchived": false,
@@ -60,7 +60,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2922,
+    "star": 2936,
     "topics": [
       "vim",
       "vim-plugin",

@@ -24,18 +24,23 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 15,
     "createdAt": "2023-07-16T13:26:43Z",
     "description": "A minimal plugin to interact with Google Bard in Neovim",
     "isArchived": false,
-    "lastCommit": "2023-07-20T13:19:26Z",
+    "lastCommit": "2023-07-24T11:48:54Z",
     "nameWithOwner": "martineausimon/nvim-bard",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 13,
     "topics": [
+      "ai",
+      "bard",
+      "bard-api",
+      "google-bard",
+      "neovim"
     ]
   },
   "domain": "github.com",

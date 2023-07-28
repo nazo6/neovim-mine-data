@@ -3,23 +3,7 @@
     [
       {
         "level": 0,
-        "name": "readme.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Other Standard Feature Enhancement"
-      },
-      {
-        "level": 3,
-        "name": "Save"
-      },
-      {
-        "level": 4,
-        "name": "Cursor Position"
+        "name": "Archived.md"
       }
     ],
     [
@@ -42,17 +26,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 8,
     "createdAt": "2021-05-02T22:04:20Z",
     "description": "A Lua rewrite of vim-lastplace",
-    "isArchived": false,
-    "lastCommit": "2023-06-05T16:58:10Z",
+    "isArchived": true,
+    "lastCommit": "2023-07-27T15:53:46Z",
     "nameWithOwner": "ethanholz/nvim-lastplace",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 273,
+    "star": 279,
     "topics": [
       "plugin",
       "vim",

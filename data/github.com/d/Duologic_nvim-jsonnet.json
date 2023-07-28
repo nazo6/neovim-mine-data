@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "JSON"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-07-23T18:11:44Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-07-23T19:48:20Z",
+    "nameWithOwner": "Duologic/nvim-jsonnet",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jsonnet",
+  "owner": "Duologic",
+  "url": "https://github.com/Duologic/nvim-jsonnet"
+}

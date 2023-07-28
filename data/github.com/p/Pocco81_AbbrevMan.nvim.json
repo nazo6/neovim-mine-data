@@ -37,28 +37,12 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2021-05-29T02:41:54Z",
-    "description": "🍍 A NeoVim plugin for managing vim abbreviations.",
-    "isArchived": false,
-    "lastCommit": "2023-05-15T17:33:31Z",
-    "nameWithOwner": "Pocco81/abbrev-man.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 94,
-    "topics": [
-      "neovim",
-      "neovim-plugin",
-      "abbreviations",
-      "vimrc",
-      "manager"
-    ]
-  },
   "domain": "github.com",
-  "name": "abbrev-man.nvim",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'Pocco81/AbbrevMan.nvim'.",
+    "reason": "NOT_FOUND"
+  },
+  "name": "AbbrevMan.nvim",
   "owner": "Pocco81",
   "url": "https://github.com/Pocco81/AbbrevMan.nvim"
 }

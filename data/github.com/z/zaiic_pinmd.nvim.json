@@ -1,0 +1,47 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "image.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Image"
+      },
+      {
+        "level": 3,
+        "name": "Image Paste"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-22T10:48:01Z",
+    "description": "Picture In Markdown. A plugin written in Lua for Neovim to paste images from clipboard.",
+    "isArchived": false,
+    "lastCommit": "2023-07-24T07:06:11Z",
+    "nameWithOwner": "zaiic/pinmd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "clipboard",
+      "lua",
+      "markdown",
+      "neovim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pinmd.nvim",
+  "owner": "zaiic",
+  "url": "https://github.com/zaiic/pinmd.nvim"
+}

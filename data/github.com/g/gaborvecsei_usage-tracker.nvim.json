@@ -17,20 +17,38 @@
         "level": 3,
         "name": "Analytics"
       }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Utility"
+      }
     ]
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 33,
     "createdAt": "2023-06-24T11:29:31Z",
     "description": "NeoVim plugin with which you can track the time you spent on files, projects, repos, filetypes",
     "isArchived": false,
-    "lastCommit": "2023-07-20T13:15:31Z",
+    "lastCommit": "2023-07-25T13:46:02Z",
     "nameWithOwner": "gaborvecsei/usage-tracker.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 15,
     "topics": [
       "neovim",
       "nvim",

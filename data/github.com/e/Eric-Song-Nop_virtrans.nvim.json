@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Translate"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-07-26T04:49:18Z",
+    "description": "First translate all comments into virtual text",
+    "isArchived": false,
+    "lastCommit": "2023-07-26T05:11:07Z",
+    "nameWithOwner": "Eric-Song-Nop/virtrans.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "virtrans.nvim",
+  "owner": "Eric-Song-Nop",
+  "url": "https://github.com/Eric-Song-Nop/virtrans.nvim"
+}

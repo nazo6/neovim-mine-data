@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Startup"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-07-25T23:14:49Z",
+    "description": "Extremely minimalistic Neovim Startup/Intro Screen",
+    "isArchived": false,
+    "lastCommit": "2023-07-28T09:22:08Z",
+    "nameWithOwner": "Yoolayn/nvim-intro",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-intro",
+  "owner": "Yoolayn",
+  "url": "https://github.com/Yoolayn/nvim-intro"
+}

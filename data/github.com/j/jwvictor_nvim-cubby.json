@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Password Manager"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-07-24T12:54:46Z",
+    "description": "A Neovim plugin for Cubby.",
+    "isArchived": false,
+    "lastCommit": "2023-07-27T15:19:24Z",
+    "nameWithOwner": "jwvictor/nvim-cubby",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cubby",
+  "owner": "jwvictor",
+  "url": "https://github.com/jwvictor/nvim-cubby"
+}

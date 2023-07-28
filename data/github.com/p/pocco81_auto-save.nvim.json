@@ -3,7 +3,7 @@
     [
       {
         "level": 0,
-        "name": "concentration.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
@@ -11,7 +11,11 @@
       },
       {
         "level": 2,
-        "name": "Zen Mode"
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Save"
       }
     ],
     [
@@ -34,32 +38,27 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 30,
-    "createdAt": "2021-04-16T14:14:19Z",
-    "description": "🦝 Clean and elegant distraction-free writing for NeoVim",
+    "commitCountLastYear": 14,
+    "createdAt": "2021-07-01T16:41:24Z",
+    "description": "🧶 Automatically save your changes in NeoVim",
     "isArchived": false,
-    "lastCommit": "2023-06-09T12:35:40Z",
-    "nameWithOwner": "Pocco81/true-zen.nvim",
+    "lastCommit": "2022-11-01T19:12:23Z",
+    "nameWithOwner": "pocco81/auto-save.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 841,
+    "star": 436,
     "topics": [
-      "neovim-ui",
-      "toggles",
-      "nvim",
-      "vi-mode",
-      "lua",
-      "neovim-plugin",
-      "zen",
-      "pretty",
       "neovim",
-      "zenmode"
+      "neovim-plugin",
+      "save-editor",
+      "save-files",
+      "lua"
     ]
   },
   "domain": "github.com",
-  "name": "true-zen.nvim",
-  "owner": "Pocco81",
-  "url": "https://github.com/Pocco81/TrueZen.nvim"
+  "name": "auto-save.nvim",
+  "owner": "pocco81",
+  "url": "https://github.com/Pocco81/AutoSave.nvim"
 }

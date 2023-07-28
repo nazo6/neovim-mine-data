@@ -1,0 +1,50 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Remote Development"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-07-26T12:01:43Z",
+    "description": "Remote development in Neovim (currently using SSH) 🔥",
+    "isArchived": false,
+    "lastCommit": "2023-07-28T10:10:08Z",
+    "nameWithOwner": "amitds1997/remote-nvim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "dev-containers",
+      "devcontainers",
+      "docker",
+      "remote-development",
+      "ssh"
+    ]
+  },
+  "domain": "github.com",
+  "name": "remote-nvim.nvim",
+  "owner": "amitds1997",
+  "url": "https://github.com/amitds1997/remote-nvim.nvim"
+}

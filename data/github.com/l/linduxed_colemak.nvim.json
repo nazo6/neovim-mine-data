@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Hardware"
+      },
+      {
+        "level": 4,
+        "name": "Keyboard"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-07-24T22:02:44Z",
+    "description": "Remapping keys in Neovim to work with a Colemak keyboard layout.",
+    "isArchived": false,
+    "lastCommit": "2023-07-25T00:44:35Z",
+    "nameWithOwner": "linduxed/colemak.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "colemak.nvim",
+  "owner": "linduxed",
+  "url": "https://github.com/linduxed/colemak.nvim"
+}

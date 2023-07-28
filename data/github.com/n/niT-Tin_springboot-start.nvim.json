@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Java"
+      },
+      {
+        "level": 4,
+        "name": "Spring Boot"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-07-26T09:03:25Z",
+    "description": "Neovim plugin for initializing spring boot projects.",
+    "isArchived": false,
+    "lastCommit": "2023-07-27T01:51:28Z",
+    "nameWithOwner": "niT-Tin/springboot-start.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "springboot-start.nvim",
+  "owner": "niT-Tin",
+  "url": "https://github.com/niT-Tin/springboot-start.nvim"
+}

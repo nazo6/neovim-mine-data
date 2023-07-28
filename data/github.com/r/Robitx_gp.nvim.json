@@ -21,20 +21,38 @@
         "level": 4,
         "name": "OpenAI"
       }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "AI"
+      }
     ]
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 48,
     "createdAt": "2023-06-18T13:55:46Z",
     "description": "GP (GPT Prompt) plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-07-14T13:59:55Z",
+    "lastCommit": "2023-07-23T14:12:35Z",
     "nameWithOwner": "Robitx/gp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 19,
     "topics": [
       "autocomplete",
       "chatgpt",
