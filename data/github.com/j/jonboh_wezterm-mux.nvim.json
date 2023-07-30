@@ -1,0 +1,48 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "Terminal"
+      },
+      {
+        "level": 4,
+        "name": "WezTerm"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-07-28T20:18:25Z",
+    "description": "Seamlessly navigate between wezterm panes and neovim windows.",
+    "isArchived": false,
+    "lastCommit": "2023-07-29T18:12:56Z",
+    "nameWithOwner": "jonboh/wezterm-mux.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "nvim",
+      "wezterm"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wezterm-mux.nvim",
+  "owner": "jonboh",
+  "url": "https://github.com/jonboh/wezterm-mux.nvim"
+}

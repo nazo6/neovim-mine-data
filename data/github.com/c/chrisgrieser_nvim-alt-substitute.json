@@ -30,17 +30,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 104,
+    "commitCountLastYear": 106,
     "createdAt": "2023-04-06T06:53:47Z",
     "description": "A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.",
     "isArchived": false,
-    "lastCommit": "2023-07-24T11:46:45Z",
+    "lastCommit": "2023-07-28T14:52:48Z",
     "nameWithOwner": "chrisgrieser/nvim-alt-substitute",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 36,
+    "star": 37,
     "topics": [
       "editing-support",
       "nvim-plugin",

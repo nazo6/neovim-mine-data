@@ -15,22 +15,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2023-02-01T16:14:33Z",
-    "description": "Codegeex for neovim plugin",
-    "isArchived": false,
-    "lastCommit": "2023-02-02T15:26:57Z",
-    "nameWithOwner": "jinzhongjia/Codegeex.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 3,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'jinzhongjia/Codegeex.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "Codegeex.nvim",
   "owner": "jinzhongjia",
   "url": "https://github.com/jinzhongjia/Codegeex.nvim"

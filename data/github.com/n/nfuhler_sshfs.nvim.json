@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "buffer_window_tab-management.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Buffer"
+      },
+      {
+        "level": 3,
+        "name": "Buffer Management"
+      },
+      {
+        "level": 4,
+        "name": "open"
+      },
+      {
+        "level": 5,
+        "name": "remote open"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-07-27T07:56:13Z",
+    "description": "SSHFS wrapper fron neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-28T21:35:27Z",
+    "nameWithOwner": "nfuhler/sshfs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sshfs.nvim",
+  "owner": "nfuhler",
+  "url": "https://github.com/nfuhler/sshfs.nvim"
+}
