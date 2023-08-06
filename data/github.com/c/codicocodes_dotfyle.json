@@ -16,21 +16,24 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 450,
+    "commitCountLastYear": 503,
     "createdAt": "2023-03-15T16:32:24Z",
     "description": "Discover and share Neovim configs and plugins",
     "isArchived": false,
-    "lastCommit": "2023-07-29T20:47:14Z",
+    "lastCommit": "2023-08-06T00:03:52Z",
     "nameWithOwner": "codicocodes/dotfyle",
     "primaryLanguage": {
       "color": "#3178c6",
       "name": "TypeScript"
     },
-    "star": 218,
+    "star": 220,
     "topics": [
       "neovim",
       "neovim-dotfiles",
-      "neovim-plugins"
+      "neovim-plugins",
+      "nvim-configs",
+      "nvim-lua",
+      "nvim"
     ]
   },
   "domain": "github.com",

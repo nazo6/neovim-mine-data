@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Coding"
+      },
+      {
+        "level": 3,
+        "name": "Generate documentation"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 144,
+    "createdAt": "2023-07-29T02:12:09Z",
+    "description": "Generate and open your HTML code documentation inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-08-06T01:22:41Z",
+    "nameWithOwner": "Zeioth/dooku.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dooku.nvim",
+  "owner": "Zeioth",
+  "url": "https://github.com/Zeioth/dooku.nvim"
+}

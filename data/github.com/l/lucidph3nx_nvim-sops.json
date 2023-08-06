@@ -1,0 +1,46 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "New features"
+      },
+      {
+        "level": 3,
+        "name": "Security"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-07-30T22:59:24Z",
+    "description": "A simple neovim plugin to encrypt and decrypt sops files",
+    "isArchived": false,
+    "lastCommit": "2023-07-31T04:09:42Z",
+    "nameWithOwner": "lucidph3nx/nvim-sops",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "sops"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-sops",
+  "owner": "lucidph3nx",
+  "url": "https://github.com/lucidph3nx/nvim-sops"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Programing Language / Framework"
+      },
+      {
+        "level": 3,
+        "name": "Javascript/Typescript"
+      },
+      {
+        "level": 4,
+        "name": "Framework"
+      },
+      {
+        "level": 5,
+        "name": "Angular"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-07-30T16:58:06Z",
+    "description": "Treesiter for angular templates (inline as well)",
+    "isArchived": false,
+    "lastCommit": "2023-08-02T20:56:05Z",
+    "nameWithOwner": "abelfubu/nvim-treesitter-angular",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-treesitter-angular",
+  "owner": "abelfubu",
+  "url": "https://github.com/abelfubu/nvim-treesitter-angular"
+}

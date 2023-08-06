@@ -1,0 +1,42 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "Git"
+      },
+      {
+        "level": 2,
+        "name": "gitignore"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-03T03:55:46Z",
+    "description": "A neovim plugin for generating .gitignore files.",
+    "isArchived": false,
+    "lastCommit": "2023-08-03T04:02:10Z",
+    "nameWithOwner": "dylf/gitignore.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "gitignore",
+      "gitignore-generator",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitignore.nvim",
+  "owner": "dylf",
+  "url": "https://github.com/dylf/gitignore.nvim"
+}

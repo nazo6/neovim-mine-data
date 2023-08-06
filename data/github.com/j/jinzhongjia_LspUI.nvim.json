@@ -42,17 +42,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 42,
+    "commitCountLastYear": 46,
     "createdAt": "2023-01-20T02:32:50Z",
-    "description": "A modern and useful UI plugin that wraps lsp operations.",
+    "description": "A modern and useful UI plugin that wraps lsp operations.I think I might need to refactor this plugin",
     "isArchived": false,
-    "lastCommit": "2023-07-28T01:28:20Z",
+    "lastCommit": "2023-08-04T15:51:12Z",
     "nameWithOwner": "jinzhongjia/LspUI.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 98,
+    "star": 99,
     "topics": [
       "neovim-plugin",
       "neovim-lua-plugin"

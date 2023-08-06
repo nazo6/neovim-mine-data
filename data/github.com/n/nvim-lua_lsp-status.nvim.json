@@ -42,7 +42,7 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2020-05-18T22:02:38Z",
     "description": "Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline",
     "isArchived": false,
@@ -52,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 585,
+    "star": 587,
     "topics": [
       "lsp-status",
       "neovim",

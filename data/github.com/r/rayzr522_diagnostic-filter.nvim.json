@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-04T02:24:06Z",
+    "description": "a simple neovim plugin to let you filter out diagnostics based on patterns.",
+    "isArchived": false,
+    "lastCommit": "2023-08-04T02:26:10Z",
+    "nameWithOwner": "rayzr522/diagnostic-filter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagnostic-filter.nvim",
+  "owner": "rayzr522",
+  "url": "https://github.com/rayzr522/diagnostic-filter.nvim"
+}

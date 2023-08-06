@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Appearance"
+      },
+      {
+        "level": 3,
+        "name": "Background"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-08-02T15:26:21Z",
+    "description": "A simple neovim plugin to automatically set the background color when system theme changes (only works on macOS now).",
+    "isArchived": false,
+    "lastCommit": "2023-08-02T16:40:35Z",
+    "nameWithOwner": "wangl-cc/auto-bg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-bg.nvim",
+  "owner": "wangl-cc",
+  "url": "https://github.com/wangl-cc/auto-bg.nvim"
+}

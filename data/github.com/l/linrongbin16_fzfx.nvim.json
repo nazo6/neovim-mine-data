@@ -9,14 +9,32 @@
         "level": 1,
         "name": "FuzzyFinder"
       }
+    ],
+    [
+      {
+        "level": 0,
+        "name": "README.md"
+      },
+      {
+        "level": 1,
+        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+      },
+      {
+        "level": 2,
+        "name": "Plugin"
+      },
+      {
+        "level": 3,
+        "name": "Fuzzy Finder"
+      }
     ]
   ],
   "data": {
-    "commitCountLastYear": 83,
+    "commitCountLastYear": 176,
     "createdAt": "2023-07-26T09:58:20Z",
-    "description": "E(x)tended commands missing in fzf.vim, focused on better usability and tiny improvements.",
+    "description": "E(x)tended commands missing in fzf.vim, a brand new fzf plugin for Neovim, build from scratch, focused on usability, customization and performance.",
     "isArchived": false,
-    "lastCommit": "2023-07-29T08:52:40Z",
+    "lastCommit": "2023-08-05T16:07:39Z",
     "nameWithOwner": "linrongbin16/fzfx.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "integration-apps.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Development environment"
+      },
+      {
+        "level": 3,
+        "name": "CLI"
+      },
+      {
+        "level": 4,
+        "name": "rsync"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-08-04T02:43:09Z",
+    "description": "An rsync wrapper for Neovim fully written in Lua",
+    "isArchived": false,
+    "lastCommit": "2023-08-05T01:08:26Z",
+    "nameWithOwner": "michel-garcia/rsync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rsync.nvim",
+  "owner": "michel-garcia",
+  "url": "https://github.com/michel-garcia/rsync.nvim"
+}

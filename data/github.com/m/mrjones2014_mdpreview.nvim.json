@@ -1,0 +1,54 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "documentation.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Documentation"
+      },
+      {
+        "level": 3,
+        "name": "Markdown"
+      },
+      {
+        "level": 4,
+        "name": "Markdown preview"
+      },
+      {
+        "level": 5,
+        "name": "Lua"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-08-03T15:48:20Z",
+    "description": "WIP: Live-reloading Markdown preview window using any CLI Markdown renderer",
+    "isArchived": false,
+    "lastCommit": "2023-08-03T18:35:31Z",
+    "nameWithOwner": "mrjones2014/mdpreview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "markdown",
+      "markdown-preview",
+      "markdown-previewer",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdpreview.nvim",
+  "owner": "mrjones2014",
+  "url": "https://github.com/mrjones2014/mdpreview.nvim"
+}
