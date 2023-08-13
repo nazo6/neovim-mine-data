@@ -3,18 +3,14 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "test.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        "name": "Table of Contents"
       },
       {
         "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
         "name": "Test"
       }
     ]
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1455,
+    "star": 1468,
     "topics": [
       "neovim",
       "lua"
@@ -39,5 +35,5 @@
   "domain": "github.com",
   "name": "neotest",
   "owner": "nvim-neotest",
-  "url": "https://github.com/nvim-neotest/neotest"
+  "url": "https://github.com/rcarriga/neotest"
 }

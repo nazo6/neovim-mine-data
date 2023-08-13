@@ -3,28 +3,16 @@
     [
       {
         "level": 0,
-        "name": "motion.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Motion"
-      },
-      {
-        "level": 3,
-        "name": "Paragraph"
+        "name": "Archived.md"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 8,
     "createdAt": "2023-01-19T23:31:41Z",
     "description": "Paragraph support for neoscroll",
-    "isArchived": false,
-    "lastCommit": "2023-01-20T14:36:09Z",
+    "isArchived": true,
+    "lastCommit": "2023-08-11T21:22:03Z",
     "nameWithOwner": "roobert/neoscroll-motions.nvim",
     "primaryLanguage": {
       "color": "#000080",

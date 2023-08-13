@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "readme.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "Other Standard Feature Enhancement"
+      },
+      {
+        "level": 3,
+        "name": "Help"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-07T23:17:56Z",
+    "description": "Quick cheatsheet viewer plugin for nvim.",
+    "isArchived": false,
+    "lastCommit": "2023-08-08T17:46:20Z",
+    "nameWithOwner": "riodelphino/cheatsheet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cheatsheet.nvim",
+  "owner": "riodelphino",
+  "url": "https://github.com/riodelphino/cheatsheet.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "git-github.md"
+      },
+      {
+        "level": 1,
+        "name": "GitHub"
+      },
+      {
+        "level": 2,
+        "name": "Pull Request"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-08-06T18:01:43Z",
+    "description": "Neovim plugin written in lua which uses the gh cli to fetch any pull request check results and allow to display them in a status bar.",
+    "isArchived": false,
+    "lastCommit": "2023-08-08T08:42:46Z",
+    "nameWithOwner": "Velrok/pr_status.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pr_status.nvim",
+  "owner": "Velrok",
+  "url": "https://github.com/Velrok/pr_status.nvim"
+}

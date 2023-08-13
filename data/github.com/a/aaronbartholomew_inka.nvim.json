@@ -15,22 +15,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2023-07-24T21:37:11Z",
-    "description": null,
-    "isArchived": false,
-    "lastCommit": "2023-07-24T21:37:41Z",
-    "nameWithOwner": "aaronbartholomew/inka.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 1,
-    "topics": [
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'aaronbartholomew/inka.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "inka.nvim",
   "owner": "aaronbartholomew",
   "url": "https://github.com/aaronbartholomew/inka.nvim"

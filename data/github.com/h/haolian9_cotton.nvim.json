@@ -16,11 +16,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 5,
     "createdAt": "2023-08-02T11:38:42Z",
-    "description": null,
+    "description": "an example to integrate external linters into nvim",
     "isArchived": false,
-    "lastCommit": "2023-08-05T12:44:40Z",
+    "lastCommit": "2023-08-09T02:39:07Z",
     "nameWithOwner": "haolian9/cotton.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,8 @@
     },
     "star": 2,
     "topics": [
+      "lint",
+      "nvim"
     ]
   },
   "domain": "github.com",

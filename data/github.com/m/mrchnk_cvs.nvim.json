@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "language-specific.md"
+      },
+      {
+        "level": 1,
+        "name": "Language specific"
+      },
+      {
+        "level": 2,
+        "name": "Configuration File"
+      },
+      {
+        "level": 3,
+        "name": "CSV"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2023-08-05T09:46:16Z",
+    "description": "NeoVim plugin to improve experience while working with CVS",
+    "isArchived": false,
+    "lastCommit": "2023-08-13T07:55:14Z",
+    "nameWithOwner": "mrchnk/cvs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cvs.nvim",
+  "owner": "mrchnk",
+  "url": "https://github.com/mrchnk/cvs.nvim"
+}

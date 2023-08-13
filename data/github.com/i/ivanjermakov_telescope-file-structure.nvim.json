@@ -1,0 +1,40 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "code-outline.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 3,
+        "name": "Code outline"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-08-09T16:54:03Z",
+    "description": "telescope.nvim plugin extension to provide file structure, similar to JetBrains' project structure widget",
+    "isArchived": false,
+    "lastCommit": "2023-08-09T19:01:00Z",
+    "nameWithOwner": "ivanjermakov/telescope-file-structure.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-file-structure.nvim",
+  "owner": "ivanjermakov",
+  "url": "https://github.com/ivanjermakov/telescope-file-structure.nvim"
+}

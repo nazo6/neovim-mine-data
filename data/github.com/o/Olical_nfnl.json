@@ -34,22 +34,25 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 135,
+    "commitCountLastYear": 149,
     "createdAt": "2023-07-03T12:22:30Z",
     "description": "Enhance your Neovim with Fennel",
     "isArchived": false,
-    "lastCommit": "2023-08-06T10:11:43Z",
+    "lastCommit": "2023-08-11T11:31:35Z",
     "nameWithOwner": "Olical/nfnl",
     "primaryLanguage": {
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 60,
+    "star": 63,
     "topics": [
       "fennel",
       "neovim",
       "neovim-fennel",
-      "neovim-plugin"
+      "neovim-plugin",
+      "lua",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

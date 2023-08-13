@@ -19,35 +19,27 @@
       },
       {
         "level": 4,
-        "name": "open"
-      },
-      {
-        "level": 5,
-        "name": "recent file"
+        "name": "delete"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 21,
-    "createdAt": "2023-03-21T16:15:34Z",
-    "description": " Harpoon-like file tracking. Supercharged with telescope.nvim.",
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-11T02:45:18Z",
+    "description": "WIP: Get next visited buf of given window before closing current buf.",
     "isArchived": false,
-    "lastCommit": "2023-07-21T08:30:10Z",
-    "nameWithOwner": "dharmx/track.nvim",
+    "lastCommit": "2023-08-13T04:22:08Z",
+    "nameWithOwner": "towry/window-bufstack.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 13,
+    "star": 1,
     "topics": [
-      "harpoon",
-      "plugin",
-      "wip",
-      "awesome-neovim"
     ]
   },
   "domain": "github.com",
-  "name": "track.nvim",
-  "owner": "dharmx",
-  "url": "https://github.com/dharmx/track.nvim"
+  "name": "window-bufstack.nvim",
+  "owner": "towry",
+  "url": "https://github.com/towry/window-bufstack.nvim"
 }

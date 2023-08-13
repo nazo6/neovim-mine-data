@@ -1,0 +1,52 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "lsp.md"
+      },
+      {
+        "level": 1,
+        "name": "Table of Contents"
+      },
+      {
+        "level": 2,
+        "name": "LSP"
+      },
+      {
+        "level": 3,
+        "name": "LSP Feature Extension UI"
+      },
+      {
+        "level": 4,
+        "name": "Diagnostics"
+      },
+      {
+        "level": 5,
+        "name": "diagnostics summary"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-08-08T03:41:10Z",
+    "description": "Neovim plugin to show diagnostics summary in the buffer's corner, similar to JetBrains' inspections widget.",
+    "isArchived": false,
+    "lastCommit": "2023-08-12T11:56:39Z",
+    "nameWithOwner": "ivanjermakov/troublesum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "diagnostics",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "troublesum.nvim",
+  "owner": "ivanjermakov",
+  "url": "https://github.com/ivanjermakov/troublesum.nvim"
+}

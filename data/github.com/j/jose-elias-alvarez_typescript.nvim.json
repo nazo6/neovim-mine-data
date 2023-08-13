@@ -3,19 +3,7 @@
     [
       {
         "level": 0,
-        "name": "language-specific.md"
-      },
-      {
-        "level": 1,
-        "name": "Language specific"
-      },
-      {
-        "level": 2,
-        "name": "Programing Language / Framework"
-      },
-      {
-        "level": 3,
-        "name": "Javascript/Typescript"
+        "name": "Archived.md"
       }
     ],
     [
@@ -42,17 +30,17 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 33,
     "createdAt": "2022-03-15T15:37:18Z",
     "description": "A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).",
-    "isArchived": false,
-    "lastCommit": "2023-06-28T22:41:44Z",
+    "isArchived": true,
+    "lastCommit": "2023-08-12T03:22:59Z",
     "nameWithOwner": "jose-elias-alvarez/typescript.nvim",
     "primaryLanguage": {
       "color": "#3178c6",
       "name": "TypeScript"
     },
-    "star": 496,
+    "star": 497,
     "topics": [
       "neovim",
       "neovim-plugin",

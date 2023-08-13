@@ -12,11 +12,11 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 13,
     "createdAt": "2023-02-23T14:07:58Z",
-    "description": "a fuzzy finder for nvim with few data sources powered by fzf",
+    "description": "integrate fzf into nvim",
     "isArchived": false,
-    "lastCommit": "2023-08-05T04:03:16Z",
+    "lastCommit": "2023-08-09T02:38:58Z",
     "nameWithOwner": "haolian9/fond.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -24,6 +24,8 @@
     },
     "star": 1,
     "topics": [
+      "fzf",
+      "nvim"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "mapping.md"
+      },
+      {
+        "level": 1,
+        "name": "Keymap"
+      },
+      {
+        "level": 2,
+        "name": "Show assigned"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2022-11-01T21:44:23Z",
+    "description": "Neovim plugin to display which keys have keymaps assigned",
+    "isArchived": false,
+    "lastCommit": "2023-08-08T02:42:42Z",
+    "nameWithOwner": "jokajak/keyseer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keyseer.nvim",
+  "owner": "jokajak",
+  "url": "https://github.com/jokajak/keyseer.nvim"
+}

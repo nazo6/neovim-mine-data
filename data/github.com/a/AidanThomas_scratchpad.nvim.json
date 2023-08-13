@@ -1,0 +1,37 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "note-taking.md"
+      },
+      {
+        "level": 1,
+        "name": "Note Taking"
+      },
+      {
+        "level": 2,
+        "name": "Scratch Buffer"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-08-05T12:14:30Z",
+    "description": "A small plugin written in Lua to provide a scratchpad to jot notes or anything else.",
+    "isArchived": false,
+    "lastCommit": "2023-08-05T22:19:27Z",
+    "nameWithOwner": "AidanThomas/scratchpad.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratchpad.nvim",
+  "owner": "AidanThomas",
+  "url": "https://github.com/AidanThomas/scratchpad.nvim"
+}

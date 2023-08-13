@@ -3,132 +3,52 @@
     [
       {
         "level": 0,
-        "name": "lsp.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "LSP"
-      },
-      {
-        "level": 3,
-        "name": "LSP Feature Extension UI"
-      },
-      {
-        "level": 4,
-        "name": "Diagnostics"
+        "name": "Archived.md"
       }
     ],
     [
       {
         "level": 0,
-        "name": "lsp.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "LSP"
-      },
-      {
-        "level": 3,
-        "name": "LSP Feature Extension UI"
-      },
-      {
-        "level": 4,
-        "name": "Code action"
+        "name": "Archived.md"
       }
     ],
     [
       {
         "level": 0,
-        "name": "lsp.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "LSP"
-      },
-      {
-        "level": 3,
-        "name": "LSP Feature Extension UI"
-      },
-      {
-        "level": 4,
-        "name": "Hover Doc"
+        "name": "Archived.md"
       }
     ],
     [
       {
         "level": 0,
-        "name": "linter_formatter.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Formatter"
+        "name": "Archived.md"
       }
     ],
     [
       {
         "level": 0,
-        "name": "linter_formatter.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Lint"
+        "name": "Archived.md"
       }
     ],
     [
       {
         "level": 0,
-        "name": "completion.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Auto Completion"
-      },
-      {
-        "level": 3,
-        "name": "Auto Completion Plugin"
-      },
-      {
-        "level": 4,
-        "name": "Made in Lua"
+        "name": "Archived.md"
       }
     ]
   ],
   "data": {
-    "commitCountLastYear": 359,
+    "commitCountLastYear": 353,
     "createdAt": "2021-05-15T06:12:28Z",
     "description": "Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
-    "isArchived": false,
-    "lastCommit": "2023-07-06T14:08:56Z",
+    "isArchived": true,
+    "lastCommit": "2023-08-12T03:21:33Z",
     "nameWithOwner": "jose-elias-alvarez/null-ls.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3517,
+    "star": 3542,
     "topics": [
       "neovim",
       "neovim-plugin",

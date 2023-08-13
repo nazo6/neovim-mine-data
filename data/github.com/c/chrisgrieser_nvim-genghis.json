@@ -3,19 +3,19 @@
     [
       {
         "level": 0,
-        "name": "README.md"
+        "name": "readme.md"
       },
       {
         "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        "name": "Table of Contents"
       },
       {
         "level": 2,
-        "name": "Plugin"
+        "name": "New features"
       },
       {
         "level": 3,
-        "name": "Utility"
+        "name": "File Handling"
       }
     ]
   ],
@@ -39,5 +39,5 @@
   "domain": "github.com",
   "name": "nvim-genghis",
   "owner": "chrisgrieser",
-  "url": "https://github.com/chrisgrieser/nvim-genghis"
+  "url": "https://github.com/chrisgrieser/nvim-ghengis"
 }

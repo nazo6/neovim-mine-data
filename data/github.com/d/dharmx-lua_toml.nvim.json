@@ -20,12 +20,12 @@
     ]
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 16,
     "createdAt": "2023-07-14T13:05:29Z",
     "description": "A proof of concept plugin. Configure Neovim with TOML/JSON.",
     "isArchived": false,
-    "lastCommit": "2023-07-22T08:27:17Z",
-    "nameWithOwner": "dharmx/toml.nvim",
+    "lastCommit": "2023-08-11T21:46:42Z",
+    "nameWithOwner": "dharmx-lua/toml.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -41,6 +41,6 @@
   },
   "domain": "github.com",
   "name": "toml.nvim",
-  "owner": "dharmx",
+  "owner": "dharmx-lua",
   "url": "https://github.com/dharmx/toml.nvim"
 }

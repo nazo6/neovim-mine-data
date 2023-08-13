@@ -1,0 +1,41 @@
+{
+  "category": [
+    [
+      {
+        "level": 0,
+        "name": "toy.md"
+      },
+      {
+        "level": 1,
+        "name": "Toy"
+      },
+      {
+        "level": 2,
+        "name": "Music"
+      },
+      {
+        "level": 4,
+        "name": "Morse"
+      }
+    ]
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-08-11T08:42:01Z",
+    "description": "A small neovim plugin that converts buffers to dits and dahs, written in Rust",
+    "isArchived": false,
+    "lastCommit": "2023-08-11T20:58:03Z",
+    "nameWithOwner": "TheyCallMeHacked/morse.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "morse.nvim",
+  "owner": "TheyCallMeHacked",
+  "url": "https://github.com/TheyCallMeHacked/morse.nvim"
+}

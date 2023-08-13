@@ -7,25 +7,11 @@
       }
     ]
   ],
-  "data": {
-    "commitCountLastYear": 12,
-    "createdAt": "2023-03-18T03:33:05Z",
-    "description": "Lsp diagnostics for mix credo",
-    "isArchived": true,
-    "lastCommit": "2023-03-21T20:20:48Z",
-    "nameWithOwner": "wesleimp/mix-credo.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 4,
-    "topics": [
-      "credo",
-      "elixir",
-      "neovim"
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Could not resolve to a Repository with the name 'wesleimp/mix-credo.nvim'.",
+    "reason": "NOT_FOUND"
+  },
   "name": "mix-credo.nvim",
   "owner": "wesleimp",
   "url": "https://github.com/wesleimp/mix-credo.nvim"
