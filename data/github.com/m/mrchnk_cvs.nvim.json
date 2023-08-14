@@ -1,30 +1,30 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "language-specific.md"
-      },
-      {
-        "level": 1,
-        "name": "Language specific"
-      },
-      {
-        "level": 2,
-        "name": "Configuration File"
-      },
-      {
-        "level": 3,
-        "name": "CSV"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 36,
+    "commitCountLastYear": 53,
     "createdAt": "2023-08-05T09:46:16Z",
     "description": "NeoVim plugin to improve experience while working with CVS",
     "isArchived": false,
-    "lastCommit": "2023-08-13T07:55:14Z",
+    "lastCommit": "2023-08-14T06:46:23Z",
     "nameWithOwner": "mrchnk/cvs.nvim",
     "primaryLanguage": {
       "color": "#000080",

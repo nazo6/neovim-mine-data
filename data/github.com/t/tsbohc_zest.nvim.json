@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "neovim-lua-development.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Fennel"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fennel"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 0,

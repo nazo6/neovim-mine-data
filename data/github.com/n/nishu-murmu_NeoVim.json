@@ -1,15 +1,15 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "Archived.md"
-      },
-      {
-        "level": 1,
-        "name": "Neovim distribution"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Neovim distribution"
+        }
+      ],
+      "file": "Archived.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 61,

@@ -1,36 +1,36 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "filer.md"
-      },
-      {
-        "level": 1,
-        "name": "Filer"
-      }
-    ],
-    [
-      {
-        "level": 0,
-        "name": "README.md"
-      },
-      {
-        "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-      },
-      {
-        "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
-        "name": "File Explorer"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "File Explorer"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
   ],
   "data": {
-    "commitCountLastYear": 177,
+    "commitCountLastYear": 175,
     "createdAt": "2021-12-12T13:38:23Z",
     "description": "Neovim plugin to manage the file system and other tree like structures.",
     "isArchived": false,
@@ -40,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1899,
+    "star": 1901,
     "topics": [
       "neovim",
       "file-explorer",

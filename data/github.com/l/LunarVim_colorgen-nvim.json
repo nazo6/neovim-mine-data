@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "external-tools.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Color"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Color"
+        }
+      ],
+      "file": "external-tools.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 7,

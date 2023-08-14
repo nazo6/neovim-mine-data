@@ -1,22 +1,22 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "fuzzy-finder.md"
-      },
-      {
-        "level": 1,
-        "name": "FuzzyFinder"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 14,
     "createdAt": "2023-02-23T14:07:58Z",
     "description": "integrate fzf into nvim",
     "isArchived": false,
-    "lastCommit": "2023-08-09T02:38:58Z",
+    "lastCommit": "2023-08-14T02:57:57Z",
     "nameWithOwner": "haolian9/fond.nvim",
     "primaryLanguage": {
       "color": "#000080",

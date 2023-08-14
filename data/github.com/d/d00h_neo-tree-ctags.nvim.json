@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "code-outline.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 3,
-        "name": "Code outline"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Code outline"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 7,

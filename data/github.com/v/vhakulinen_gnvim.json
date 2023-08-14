@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "gui.md"
-      },
-      {
-        "level": 1,
-        "name": "GUI"
-      },
-      {
-        "level": 2,
-        "name": "Rust"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GUI"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        }
+      ],
+      "file": "gui.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 54,

@@ -1,27 +1,27 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "readme.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Coding"
-      },
-      {
-        "level": 3,
-        "name": "Reading assistant feature"
-      },
-      {
-        "level": 4,
-        "name": "Current Position Info"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Coding"
+        },
+        {
+          "level": 3,
+          "name": "Reading assistant feature"
+        },
+        {
+          "level": 4,
+          "name": "Current Position Info"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 43,

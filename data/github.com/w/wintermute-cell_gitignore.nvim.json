@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "git-github.md"
-      },
-      {
-        "level": 1,
-        "name": "Git"
-      },
-      {
-        "level": 2,
-        "name": "gitignore"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "gitignore"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 17,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 83,
+    "star": 84,
     "topics": [
     ]
   },

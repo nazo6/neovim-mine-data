@@ -1,23 +1,23 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "linter_formatter.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Formatter"
-      },
-      {
-        "level": 3,
-        "name": "Trim Whitespace"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        },
+        {
+          "level": 3,
+          "name": "Trim Whitespace"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 9,

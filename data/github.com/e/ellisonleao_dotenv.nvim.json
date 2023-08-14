@@ -1,27 +1,27 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "integration-apps.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Development environment"
-      },
-      {
-        "level": 3,
-        "name": "CLI"
-      },
-      {
-        "level": 4,
-        "name": "dotenv"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotenv"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 4,
@@ -34,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19,
+    "star": 20,
     "topics": [
       "dotenv",
       "hacktoberfest",

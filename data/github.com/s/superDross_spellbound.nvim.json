@@ -1,23 +1,23 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "spellcheck.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 3,
-        "name": "Spell"
-      },
-      {
-        "level": 4,
-        "name": "Spellcheck"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Spell"
+        },
+        {
+          "level": 4,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 12,

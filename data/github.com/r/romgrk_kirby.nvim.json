@@ -1,15 +1,15 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "fuzzy-finder.md"
-      },
-      {
-        "level": 1,
-        "name": "FuzzyFinder"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 49,
@@ -22,7 +22,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 104,
+    "star": 105,
     "topics": [
     ]
   },

@@ -1,27 +1,27 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "motion.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Motion"
-      },
-      {
-        "level": 3,
-        "name": "Horizontal Move"
-      },
-      {
-        "level": 4,
-        "name": "Show jump word"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        },
+        {
+          "level": 4,
+          "name": "Show jump word"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 54,
@@ -34,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 274,
+    "star": 275,
     "topics": [
       "neovim-lua",
       "neovim-plugin",

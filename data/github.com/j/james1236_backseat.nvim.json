@@ -1,31 +1,31 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "integration-apps.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Development environment"
-      },
-      {
-        "level": 3,
-        "name": "AI Coding"
-      },
-      {
-        "level": 4,
-        "name": "OpenAI"
-      },
-      {
-        "level": 5,
-        "name": "OpenAI Review"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "OpenAI"
+        },
+        {
+          "level": 5,
+          "name": "OpenAI Review"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 50,

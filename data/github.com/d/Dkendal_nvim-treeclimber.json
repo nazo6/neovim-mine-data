@@ -1,15 +1,15 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "search_replace_grep_select.md"
-      },
-      {
-        "level": 1,
-        "name": "Select"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Select"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 27,
@@ -22,7 +22,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 142,
+    "star": 143,
     "topics": [
       "lua",
       "neovim",

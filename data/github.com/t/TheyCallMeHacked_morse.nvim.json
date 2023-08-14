@@ -1,23 +1,23 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "toy.md"
-      },
-      {
-        "level": 1,
-        "name": "Toy"
-      },
-      {
-        "level": 2,
-        "name": "Music"
-      },
-      {
-        "level": 4,
-        "name": "Morse"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 4,
+          "name": "Morse"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 15,

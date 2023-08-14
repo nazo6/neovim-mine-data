@@ -1,36 +1,36 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "language-specific.md"
-      },
-      {
-        "level": 1,
-        "name": "Language specific"
-      },
-      {
-        "level": 2,
-        "name": "Database"
-      },
-      {
-        "level": 3,
-        "name": "SQL"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 155,
+    "commitCountLastYear": 178,
     "createdAt": "2023-01-24T08:24:17Z",
     "description": "Interactive database client for neovim",
     "isArchived": false,
-    "lastCommit": "2023-06-14T17:38:46Z",
+    "lastCommit": "2023-08-14T10:55:25Z",
     "nameWithOwner": "kndndrj/nvim-dbee",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 107,
+    "star": 108,
     "topics": [
       "neovim",
       "bee",

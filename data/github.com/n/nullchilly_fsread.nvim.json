@@ -1,27 +1,27 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "motion.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Motion"
-      },
-      {
-        "level": 3,
-        "name": "j/k"
-      },
-      {
-        "level": 4,
-        "name": "Scrolling"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "j/k"
+        },
+        {
+          "level": 4,
+          "name": "Scrolling"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 5,

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-12T12:48:52Z",
+    "description": "Filter and manipulate diagnostics in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-08-12T13:18:27Z",
+    "nameWithOwner": "m-gail/diagnostic_manipulation.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagnostic_manipulation.nvim",
+  "owner": "m-gail",
+  "url": "https://github.com/m-gail/diagnostic_manipulation.nvim"
+}

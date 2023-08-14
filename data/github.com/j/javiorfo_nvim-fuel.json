@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "task-runner.md"
-      },
-      {
-        "level": 1,
-        "name": "Task Runner"
-      },
-      {
-        "level": 2,
-        "name": "Partial execution"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Partial execution"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 202,

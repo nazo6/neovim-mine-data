@@ -1,48 +1,48 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "completion.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Auto Completion"
-      },
-      {
-        "level": 3,
-        "name": "Auto Completion Plugin"
-      },
-      {
-        "level": 4,
-        "name": "Made in Python"
-      }
-    ],
-    [
-      {
-        "level": 0,
-        "name": "README.md"
-      },
-      {
-        "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-      },
-      {
-        "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
-        "name": "Completion"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Python"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Completion"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
   ],
   "data": {
-    "commitCountLastYear": 481,
+    "commitCountLastYear": 480,
     "createdAt": "2020-07-16T03:58:40Z",
     "description": "Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.",
     "isArchived": false,

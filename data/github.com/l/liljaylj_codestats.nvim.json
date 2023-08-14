@@ -1,27 +1,27 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "readme.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "New features"
-      },
-      {
-        "level": 3,
-        "name": "IDE feature"
-      },
-      {
-        "level": 4,
-        "name": "Code::Stats"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "IDE feature"
+        },
+        {
+          "level": 4,
+          "name": "Code::Stats"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 61,

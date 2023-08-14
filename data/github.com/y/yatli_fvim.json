@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "gui.md"
-      },
-      {
-        "level": 1,
-        "name": "GUI"
-      },
-      {
-        "level": 2,
-        "name": "F"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GUI"
+        },
+        {
+          "level": 2,
+          "name": "F"
+        }
+      ],
+      "file": "gui.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 11,
@@ -26,7 +26,7 @@
       "color": "#b845fc",
       "name": "F#"
     },
-    "star": 1166,
+    "star": 1165,
     "topics": [
       "neovim",
       "nvim",

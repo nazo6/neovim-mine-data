@@ -1,26 +1,26 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "syntax_highlight.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Highlight"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 38,
+    "commitCountLastYear": 39,
     "createdAt": "2023-01-08T22:22:28Z",
     "description": "unified lsp docs style with TS support + clickable links",
     "isArchived": false,
-    "lastCommit": "2023-08-10T09:41:20Z",
+    "lastCommit": "2023-08-13T18:34:56Z",
     "nameWithOwner": "JosefLitos/reform.nvim",
     "primaryLanguage": {
       "color": "#555555",

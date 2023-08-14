@@ -1,26 +1,26 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "project.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 3,
-        "name": "Project"
-      },
-      {
-        "level": 4,
-        "name": "Project Switcher"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 13,
     "createdAt": "2022-06-16T16:29:03Z",
     "description": "Quickly switch between projects and automate startup tasks.",
     "isArchived": false,

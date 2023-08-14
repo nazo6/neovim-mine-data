@@ -1,26 +1,26 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "statusline.md"
-      },
-      {
-        "level": 1,
-        "name": "Statusline"
-      },
-      {
-        "level": 3,
-        "name": "Simple"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Simple"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 118,
+    "commitCountLastYear": 120,
     "createdAt": "2023-01-08T03:24:45Z",
     "description": "A simple Lua statusline for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-08-13T05:31:34Z",
+    "lastCommit": "2023-08-14T05:30:29Z",
     "nameWithOwner": "bluz71/nvim-linefly",
     "primaryLanguage": {
       "color": "#000080",

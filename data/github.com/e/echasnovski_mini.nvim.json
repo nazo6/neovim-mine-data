@@ -1,15 +1,15 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "neovim-distribution.md"
-      },
-      {
-        "level": 1,
-        "name": "Neovim Distribution"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Neovim Distribution"
+        }
+      ],
+      "file": "neovim-distribution.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 402,
@@ -22,7 +22,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2574,
+    "star": 2576,
     "topics": [
       "neovim",
       "lua",

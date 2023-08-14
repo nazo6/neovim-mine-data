@@ -1,27 +1,27 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "README.md"
-      },
-      {
-        "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-      },
-      {
-        "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
-        "name": "Programming Languages Support"
-      },
-      {
-        "level": 4,
-        "name": "Markdown and LaTeX"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 4,
+          "name": "Markdown and LaTeX"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
   ],
   "data": {
     "commitCountLastYear": 0,
@@ -34,7 +34,7 @@
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "star": 5088,
+    "star": 5091,
     "topics": [
       "neovim",
       "vim",

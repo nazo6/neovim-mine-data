@@ -1,26 +1,26 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "fuzzy-finder.md"
-      },
-      {
-        "level": 1,
-        "name": "FuzzyFinder"
-      },
-      {
-        "level": 3,
-        "name": "Telescope Extensions"
-      },
-      {
-        "level": 4,
-        "name": "Grep"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Grep"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 7,
     "createdAt": "2021-11-04T06:32:14Z",
     "description": "Live grep with args",
     "isArchived": false,

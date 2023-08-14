@@ -1,11 +1,11 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "Archived.md"
-      }
-    ]
+    {
+      "data": [
+      ],
+      "file": "Archived.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 0,
@@ -18,7 +18,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 29,
+    "star": 28,
     "topics": [
       "competitive-programming",
       "lua",

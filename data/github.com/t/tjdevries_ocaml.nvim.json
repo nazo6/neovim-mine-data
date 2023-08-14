@@ -1,23 +1,23 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "language-specific.md"
-      },
-      {
-        "level": 1,
-        "name": "Language specific"
-      },
-      {
-        "level": 2,
-        "name": "Programing Language / Framework"
-      },
-      {
-        "level": 3,
-        "name": "OCaml"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "OCaml"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 13,
@@ -30,7 +30,7 @@
       "color": "#1e4aec",
       "name": "Scheme"
     },
-    "star": 41,
+    "star": 42,
     "topics": [
     ]
   },

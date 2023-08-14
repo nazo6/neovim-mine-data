@@ -1,22 +1,22 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "gui.md"
-      },
-      {
-        "level": 1,
-        "name": "GUI"
-      },
-      {
-        "level": 2,
-        "name": "Rust"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GUI"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        }
+      ],
+      "file": "gui.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 150,
+    "commitCountLastYear": 148,
     "createdAt": "2019-12-06T20:51:39Z",
     "description": "No Nonsense Neovim Client in Rust",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 10532,
+    "star": 10533,
     "topics": [
       "neovim",
       "rust",

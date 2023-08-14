@@ -1,27 +1,27 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "mapping.md"
-      },
-      {
-        "level": 1,
-        "name": "Keymap"
-      },
-      {
-        "level": 2,
-        "name": "Improve Mappings"
-      },
-      {
-        "level": 3,
-        "name": "Normal Mode"
-      },
-      {
-        "level": 4,
-        "name": "Word Motion"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Improve Mappings"
+        },
+        {
+          "level": 3,
+          "name": "Normal Mode"
+        },
+        {
+          "level": 4,
+          "name": "Word Motion"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 0,

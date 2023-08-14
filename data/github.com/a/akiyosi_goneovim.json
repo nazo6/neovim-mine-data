@@ -1,26 +1,26 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "gui.md"
-      },
-      {
-        "level": 1,
-        "name": "GUI"
-      },
-      {
-        "level": 2,
-        "name": "Go"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GUI"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        }
+      ],
+      "file": "gui.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 184,
+    "commitCountLastYear": 183,
     "createdAt": "2017-10-16T12:29:07Z",
     "description": "A GUI frontend for neovim.",
     "isArchived": false,
-    "lastCommit": "2023-08-12T21:39:51Z",
+    "lastCommit": "2023-08-13T13:28:54Z",
     "nameWithOwner": "akiyosi/goneovim",
     "primaryLanguage": {
       "color": "#00ADD8",

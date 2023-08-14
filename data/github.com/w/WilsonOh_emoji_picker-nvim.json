@@ -1,23 +1,23 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "emoji.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Emoji"
-      },
-      {
-        "level": 3,
-        "name": "Emoji FuzzyFinder"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Emoji"
+        },
+        {
+          "level": 3,
+          "name": "Emoji FuzzyFinder"
+        }
+      ],
+      "file": "emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 9,

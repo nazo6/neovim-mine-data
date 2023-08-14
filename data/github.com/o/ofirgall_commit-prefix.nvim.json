@@ -1,23 +1,23 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "git-github.md"
-      },
-      {
-        "level": 1,
-        "name": "Git"
-      },
-      {
-        "level": 2,
-        "name": "git commit"
-      },
-      {
-        "level": 3,
-        "name": "prefix"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        },
+        {
+          "level": 3,
+          "name": "prefix"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 9,

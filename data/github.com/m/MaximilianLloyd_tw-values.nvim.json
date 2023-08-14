@@ -1,38 +1,38 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "language-specific.md"
-      },
-      {
-        "level": 1,
-        "name": "Language specific"
-      },
-      {
-        "level": 2,
-        "name": "Programing Language / Framework"
-      },
-      {
-        "level": 3,
-        "name": "Javascript/Typescript"
-      },
-      {
-        "level": 4,
-        "name": "CSS"
-      },
-      {
-        "level": 5,
-        "name": "tailwind"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "CSS"
+        },
+        {
+          "level": 5,
+          "name": "tailwind"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 15,
     "createdAt": "2023-07-31T17:22:57Z",
     "description": "View all applied tailwindcss values on an element",
     "isArchived": false,
-    "lastCommit": "2023-08-02T18:24:26Z",
+    "lastCommit": "2023-08-14T10:26:56Z",
     "nameWithOwner": "MaximilianLloyd/tw-values.nvim",
     "primaryLanguage": {
       "color": "#000080",

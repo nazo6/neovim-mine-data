@@ -1,26 +1,26 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "quickfix_location.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Quickfix"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 32,
     "createdAt": "2021-06-06T12:09:43Z",
     "description": "Extends the default quickfix and location lists for neovim",
     "isArchived": false,
-    "lastCommit": "2023-08-11T16:11:59Z",
+    "lastCommit": "2023-08-13T16:44:57Z",
     "nameWithOwner": "ten3roberts/qf.nvim",
     "primaryLanguage": {
       "color": "#000080",

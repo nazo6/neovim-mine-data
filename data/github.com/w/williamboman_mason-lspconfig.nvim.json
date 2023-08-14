@@ -1,44 +1,44 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "package-manager.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Package Manager"
-      },
-      {
-        "level": 3,
-        "name": "LSP, DAP, linter, formatter"
-      }
-    ],
-    [
-      {
-        "level": 0,
-        "name": "lsp.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "LSP"
-      },
-      {
-        "level": 3,
-        "name": "LSP Installer"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "LSP, DAP, linter, formatter"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Installer"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 139,
+    "commitCountLastYear": 138,
     "createdAt": "2022-07-21T11:57:05Z",
     "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
     "isArchived": false,
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1351,
+    "star": 1354,
     "topics": [
       "lsp",
       "lspconfig",

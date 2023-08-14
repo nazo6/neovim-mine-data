@@ -1,31 +1,31 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "integration-apps.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Development environment"
-      },
-      {
-        "level": 3,
-        "name": "Hardware"
-      },
-      {
-        "level": 4,
-        "name": "Embedded Software"
-      },
-      {
-        "level": 5,
-        "name": "FlipperZero"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Hardware"
+        },
+        {
+          "level": 4,
+          "name": "Embedded Software"
+        },
+        {
+          "level": 5,
+          "name": "FlipperZero"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 7,

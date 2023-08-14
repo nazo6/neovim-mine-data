@@ -1,23 +1,23 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "neovim-lua-development.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Lua Development"
-      },
-      {
-        "level": 3,
-        "name": "Formatter"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua Development"
+        },
+        {
+          "level": 3,
+          "name": "Formatter"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 153,
@@ -30,7 +30,7 @@
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 1095,
+    "star": 1098,
     "topics": [
       "lua",
       "formatter",

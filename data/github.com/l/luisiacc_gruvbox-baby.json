@@ -1,48 +1,48 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "colorscheme.md"
-      },
-      {
-        "level": 1,
-        "name": "Colorscheme"
-      },
-      {
-        "level": 2,
-        "name": "Warm Color Base"
-      },
-      {
-        "level": 3,
-        "name": "Gruvbox"
-      }
-    ],
-    [
-      {
-        "level": 0,
-        "name": "README.md"
-      },
-      {
-        "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-      },
-      {
-        "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
-        "name": "Colorscheme"
-      },
-      {
-        "level": 4,
-        "name": "Tree-sitter Supported Colorscheme"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 2,
+          "name": "Warm Color Base"
+        },
+        {
+          "level": 3,
+          "name": "Gruvbox"
+        }
+      ],
+      "file": "colorscheme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 4,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
   ],
   "data": {
-    "commitCountLastYear": 50,
+    "commitCountLastYear": 46,
     "createdAt": "2021-12-26T04:51:41Z",
     "description": "Gruvbox theme for neovim with full 🎄TreeSitter support. ",
     "isArchived": false,

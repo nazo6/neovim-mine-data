@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "service.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Config share"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Config share"
+        }
+      ],
+      "file": "service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 503,
@@ -26,7 +26,7 @@
       "color": "#3178c6",
       "name": "TypeScript"
     },
-    "star": 222,
+    "star": 223,
     "topics": [
       "neovim",
       "neovim-dotfiles",

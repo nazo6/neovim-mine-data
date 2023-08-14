@@ -1,41 +1,41 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "jump.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Go to File"
-      },
-      {
-        "level": 3,
-        "name": "jumplist"
-      }
-    ],
-    [
-      {
-        "level": 0,
-        "name": "buffer_window_tab-management.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Buffer"
-      },
-      {
-        "level": 3,
-        "name": "Buffer Selector"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go to File"
+        },
+        {
+          "level": 3,
+          "name": "jumplist"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 0,

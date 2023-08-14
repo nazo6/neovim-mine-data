@@ -1,40 +1,40 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "git-github.md"
-      },
-      {
-        "level": 1,
-        "name": "Git"
-      },
-      {
-        "level": 2,
-        "name": "git status"
-      }
-    ],
-    [
-      {
-        "level": 0,
-        "name": "README.md"
-      },
-      {
-        "level": 1,
-        "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-      },
-      {
-        "level": 2,
-        "name": "Plugin"
-      },
-      {
-        "level": 3,
-        "name": "Git"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
   ],
   "data": {
-    "commitCountLastYear": 163,
+    "commitCountLastYear": 162,
     "createdAt": "2020-10-18T10:14:43Z",
     "description": "Git integration for buffers",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3392,
+    "star": 3396,
     "topics": [
       "nvim",
       "lua",

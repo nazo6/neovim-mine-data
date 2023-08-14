@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "gui.md"
-      },
-      {
-        "level": 1,
-        "name": "GUI"
-      },
-      {
-        "level": 2,
-        "name": "MacOS"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GUI"
+        },
+        {
+          "level": 2,
+          "name": "MacOS"
+        }
+      ],
+      "file": "gui.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 51,
@@ -26,7 +26,7 @@
       "color": "#F05138",
       "name": "Swift"
     },
-    "star": 6371,
+    "star": 6372,
     "topics": [
       "neovim",
       "neovim-guis",

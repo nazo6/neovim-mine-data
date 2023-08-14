@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "session.md"
-      },
-      {
-        "level": 1,
-        "name": "Session"
-      },
-      {
-        "level": 2,
-        "name": "Session Selector"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        },
+        {
+          "level": 2,
+          "name": "Session Selector"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 14,

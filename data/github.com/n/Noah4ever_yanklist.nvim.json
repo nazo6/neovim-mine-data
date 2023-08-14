@@ -1,15 +1,15 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "yank_paste.md"
-      },
-      {
-        "level": 1,
-        "name": "Yank"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 22,

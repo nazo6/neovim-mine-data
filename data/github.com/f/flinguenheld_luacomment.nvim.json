@@ -1,22 +1,22 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "comment.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 3,
-        "name": "Comment out"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Comment out"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 25,
     "createdAt": "2022-08-09T09:29:58Z",
     "description": "Easy comment with lua",
     "isArchived": false,

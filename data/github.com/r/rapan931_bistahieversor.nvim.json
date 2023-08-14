@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "search_replace_grep_select.md"
-      },
-      {
-        "level": 1,
-        "name": "Search"
-      },
-      {
-        "level": 2,
-        "name": "Search count"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Search"
+        },
+        {
+          "level": 2,
+          "name": "Search count"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 5,

@@ -1,36 +1,36 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "neovim-lua-development.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Lua Development"
-      },
-      {
-        "level": 3,
-        "name": "LSP"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua Development"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 915,
+    "commitCountLastYear": 920,
     "createdAt": "2018-09-07T06:50:17Z",
     "description": "A language server that offers Lua language support - programmed in Lua",
     "isArchived": false,
-    "lastCommit": "2023-08-11T11:04:34Z",
+    "lastCommit": "2023-08-14T10:01:58Z",
     "nameWithOwner": "LuaLS/lua-language-server",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2472,
+    "star": 2471,
     "topics": [
       "lua",
       "language-server",

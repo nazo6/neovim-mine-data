@@ -1,37 +1,37 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "readme.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Appearance"
-      },
-      {
-        "level": 3,
-        "name": "Scrollbar"
-      }
-    ],
-    [
-      {
-        "level": 0,
-        "name": "git-github.md"
-      },
-      {
-        "level": 1,
-        "name": "Git"
-      },
-      {
-        "level": 2,
-        "name": "git status"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Scrollbar"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 10,

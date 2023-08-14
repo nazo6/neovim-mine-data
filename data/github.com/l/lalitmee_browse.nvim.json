@@ -1,30 +1,30 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "integration-apps.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Integration with other apps"
-      },
-      {
-        "level": 3,
-        "name": "Browser Integration"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 19,
     "createdAt": "2022-03-13T13:03:36Z",
     "description": "browse for anything using your choice of method",
     "isArchived": false,
-    "lastCommit": "2023-06-12T12:46:11Z",
+    "lastCommit": "2023-08-14T09:05:26Z",
     "nameWithOwner": "lalitmee/browse.nvim",
     "primaryLanguage": {
       "color": "#000080",

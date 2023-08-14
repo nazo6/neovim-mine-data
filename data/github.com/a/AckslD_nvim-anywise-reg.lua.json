@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "yank_paste.md"
-      },
-      {
-        "level": 1,
-        "name": "Paste"
-      },
-      {
-        "level": 2,
-        "name": "Wise paste"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Paste"
+        },
+        {
+          "level": 2,
+          "name": "Wise paste"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 0,

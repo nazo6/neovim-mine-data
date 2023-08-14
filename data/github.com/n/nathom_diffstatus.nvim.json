@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "statusline.md"
-      },
-      {
-        "level": 1,
-        "name": "Statusline"
-      },
-      {
-        "level": 2,
-        "name": "Statusline component"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        },
+        {
+          "level": 2,
+          "name": "Statusline component"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 2,

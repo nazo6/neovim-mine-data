@@ -1,32 +1,32 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "filer.md"
-      },
-      {
-        "level": 1,
-        "name": "Filer"
-      },
-      {
-        "level": 2,
-        "name": "gx"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "gx"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 35,
+    "commitCountLastYear": 36,
     "createdAt": "2023-03-14T12:25:56Z",
     "description": "Implementation of gx without the need of netrw",
     "isArchived": false,
-    "lastCommit": "2023-07-26T07:00:58Z",
+    "lastCommit": "2023-08-14T10:20:52Z",
     "nameWithOwner": "chrishrb/gx.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 86,
+    "star": 87,
     "topics": [
       "lua",
       "neovim",

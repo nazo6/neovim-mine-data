@@ -1,19 +1,37 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "note-taking.md"
-      },
-      {
-        "level": 1,
-        "name": "Note Taking"
-      },
-      {
-        "level": 2,
-        "name": "etc"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Note Taking"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 22,
@@ -36,5 +54,5 @@
   "domain": "github.com",
   "name": "scribe.nvim",
   "owner": "Ostralyan",
-  "url": "https://github.com/Ostralyan/scribe.nvim"
+  "url": "https://github.com/ostralyan/scribe.nvim"
 }

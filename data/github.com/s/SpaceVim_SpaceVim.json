@@ -1,11 +1,11 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "Archived.md"
-      }
-    ]
+    {
+      "data": [
+      ],
+      "file": "Archived.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 559,
@@ -18,7 +18,7 @@
       "color": "#199f4b",
       "name": "Vim Script"
     },
-    "star": 20021,
+    "star": 20024,
     "topics": [
       "spacevim",
       "neovim",

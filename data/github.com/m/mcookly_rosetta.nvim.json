@@ -1,31 +1,31 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "integration-apps.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Development environment"
-      },
-      {
-        "level": 3,
-        "name": "OS"
-      },
-      {
-        "level": 4,
-        "name": "Linux"
-      },
-      {
-        "level": 5,
-        "name": "fribidi"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "OS"
+        },
+        {
+          "level": 4,
+          "name": "Linux"
+        },
+        {
+          "level": 5,
+          "name": "fribidi"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 48,

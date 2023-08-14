@@ -1,22 +1,22 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "session.md"
-      },
-      {
-        "level": 1,
-        "name": "Session"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 80,
+    "commitCountLastYear": 84,
     "createdAt": "2022-09-09T05:31:03Z",
     "description": "A replacement for mksession with a better API",
     "isArchived": false,
-    "lastCommit": "2023-07-17T16:31:17Z",
+    "lastCommit": "2023-08-13T18:26:59Z",
     "nameWithOwner": "stevearc/resession.nvim",
     "primaryLanguage": {
       "color": "#000080",

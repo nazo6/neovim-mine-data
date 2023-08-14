@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ripgrep"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-08-12T09:09:58Z",
+    "description": "ripgrep integration in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-08-12T21:35:06Z",
+    "nameWithOwner": "doums/rg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "grep",
+      "neovim",
+      "nvim",
+      "rg",
+      "ripgrep",
+      "quickfix-list"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rg.nvim",
+  "owner": "doums",
+  "url": "https://github.com/doums/rg.nvim"
+}

@@ -1,30 +1,30 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "motion.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Motion"
-      },
-      {
-        "level": 3,
-        "name": "Label Jump (Easymotion style)"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Label Jump (Easymotion style)"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 26,
     "createdAt": "2023-05-10T13:40:29Z",
     "description": "an opinionated jump motion impl for neovim",
     "isArchived": false,
-    "lastCommit": "2023-08-09T02:38:58Z",
+    "lastCommit": "2023-08-14T02:58:06Z",
     "nameWithOwner": "haolian9/gallop.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,49 +1,49 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "debugger_repl.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Debug"
-      },
-      {
-        "level": 3,
-        "name": "Debugger"
-      },
-      {
-        "level": 4,
-        "name": "nvim-dap extension"
-      }
-    ],
-    [
-      {
-        "level": 0,
-        "name": "completion.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Auto Completion"
-      },
-      {
-        "level": 3,
-        "name": "nvim-cmp extension"
-      },
-      {
-        "level": 4,
-        "name": "nvim-cmp sources"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "nvim-cmp extension"
+        },
+        {
+          "level": 4,
+          "name": "nvim-cmp sources"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 4,

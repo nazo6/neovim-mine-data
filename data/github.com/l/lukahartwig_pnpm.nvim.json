@@ -1,35 +1,35 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "language-specific.md"
-      },
-      {
-        "level": 1,
-        "name": "Language specific"
-      },
-      {
-        "level": 2,
-        "name": "Programing Language / Framework"
-      },
-      {
-        "level": 3,
-        "name": "Javascript/Typescript"
-      },
-      {
-        "level": 4,
-        "name": "Toolchain"
-      },
-      {
-        "level": 5,
-        "name": "npm"
-      },
-      {
-        "level": 6,
-        "name": "pnpm"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Toolchain"
+        },
+        {
+          "level": 5,
+          "name": "npm"
+        },
+        {
+          "level": 6,
+          "name": "pnpm"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 9,

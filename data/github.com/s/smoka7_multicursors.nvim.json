@@ -1,19 +1,19 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "search_replace_grep_select.md"
-      },
-      {
-        "level": 1,
-        "name": "Select"
-      },
-      {
-        "level": 2,
-        "name": "Multi Cursor"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Select"
+        },
+        {
+          "level": 2,
+          "name": "Multi Cursor"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 119,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 119,
+    "star": 120,
     "topics": [
       "neovim",
       "neovim-plugin",

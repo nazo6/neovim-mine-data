@@ -1,23 +1,23 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "mode.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Mode"
-      },
-      {
-        "level": 3,
-        "name": "Mode Viewer"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mode"
+        },
+        {
+          "level": 3,
+          "name": "Mode Viewer"
+        }
+      ],
+      "file": "mode.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 15,
@@ -40,5 +40,5 @@
   "domain": "github.com",
   "name": "monark.nvim",
   "owner": "doums",
-  "url": "https://github.com/doums/monark.nvim"
+  "url": "https://github.com/doums/modeui.nvim"
 }

@@ -1,23 +1,23 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "fuzzy-finder.md"
-      },
-      {
-        "level": 1,
-        "name": "FuzzyFinder"
-      },
-      {
-        "level": 3,
-        "name": "Telescope Extensions"
-      },
-      {
-        "level": 4,
-        "name": "Integration for another plugin"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Integration for another plugin"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 0,

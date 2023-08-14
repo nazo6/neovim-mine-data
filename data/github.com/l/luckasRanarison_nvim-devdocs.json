@@ -1,40 +1,40 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "integration-apps.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Development environment"
-      },
-      {
-        "level": 3,
-        "name": "Web"
-      },
-      {
-        "level": 4,
-        "name": "DevDocs"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "DevDocs"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 23,
     "createdAt": "2023-08-06T04:56:32Z",
     "description": "Neovim DevDocs integration",
     "isArchived": false,
-    "lastCommit": "2023-08-13T04:10:17Z",
+    "lastCommit": "2023-08-13T16:23:39Z",
     "nameWithOwner": "luckasRanarison/nvim-devdocs",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 69,
+    "star": 73,
     "topics": [
       "devdocs",
       "neovim",

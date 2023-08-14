@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Errorformat"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-12T18:25:15Z",
+    "description": "Manage your `makeprg` / `errorformat` inside neoconf.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-08-12T18:43:01Z",
+    "nameWithOwner": "faergeek/neomakery.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neomakery.nvim",
+  "owner": "faergeek",
+  "url": "https://github.com/faergeek/neomakery.nvim"
+}

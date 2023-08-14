@@ -1,31 +1,31 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "lsp.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "LSP"
-      },
-      {
-        "level": 3,
-        "name": "LSP Feature Extension UI"
-      },
-      {
-        "level": 4,
-        "name": "Diagnostics"
-      },
-      {
-        "level": 5,
-        "name": "diagnostics summary"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        },
+        {
+          "level": 5,
+          "name": "diagnostics summary"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 0,
@@ -38,7 +38,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 60,
+    "star": 61,
     "topics": [
     ]
   },

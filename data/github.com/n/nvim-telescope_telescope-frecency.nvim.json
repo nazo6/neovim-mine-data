@@ -1,38 +1,38 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "buffer_window_tab-management.md"
-      },
-      {
-        "level": 1,
-        "name": "Table of Contents"
-      },
-      {
-        "level": 2,
-        "name": "Buffer"
-      },
-      {
-        "level": 3,
-        "name": "Buffer Management"
-      },
-      {
-        "level": 4,
-        "name": "open"
-      },
-      {
-        "level": 5,
-        "name": "recent file"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "open"
+        },
+        {
+          "level": 5,
+          "name": "recent file"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 30,
     "createdAt": "2021-01-17T19:14:26Z",
     "description": "A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.",
     "isArchived": false,
-    "lastCommit": "2023-08-13T06:15:35Z",
+    "lastCommit": "2023-08-13T14:58:17Z",
     "nameWithOwner": "nvim-telescope/telescope-frecency.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,15 +1,15 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "bufferline.md"
-      },
-      {
-        "level": 1,
-        "name": "Bufferline"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Bufferline"
+        }
+      ],
+      "file": "bufferline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
     "commitCountLastYear": 10,

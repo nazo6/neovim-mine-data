@@ -1,22 +1,22 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "bufferline.md"
-      },
-      {
-        "level": 1,
-        "name": "Bufferline"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Bufferline"
+        }
+      ],
+      "file": "bufferline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 26,
     "createdAt": "2022-10-01T21:37:47Z",
     "description": "Neovim plugin for working with buffers, windows, and tabs",
     "isArchived": false,
-    "lastCommit": "2023-08-13T08:14:07Z",
+    "lastCommit": "2023-08-13T18:26:20Z",
     "nameWithOwner": "stevearc/three.nvim",
     "primaryLanguage": {
       "color": "#000080",

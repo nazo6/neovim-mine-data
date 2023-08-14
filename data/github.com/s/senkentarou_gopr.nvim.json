@@ -1,22 +1,22 @@
 {
   "category": [
-    [
-      {
-        "level": 0,
-        "name": "git-github.md"
-      },
-      {
-        "level": 1,
-        "name": "GitHub"
-      },
-      {
-        "level": 2,
-        "name": "Pull Request"
-      }
-    ]
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Pull Request"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 3,
     "createdAt": "2022-07-24T06:38:01Z",
     "description": null,
     "isArchived": false,
