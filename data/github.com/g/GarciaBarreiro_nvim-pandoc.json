@@ -8,36 +8,36 @@
         },
         {
           "level": 2,
-          "name": "Formatter"
+          "name": "Documentation"
         },
         {
           "level": 3,
-          "name": "Trim Whitespace"
+          "name": "Pandoc"
         }
       ],
-      "file": "linter_formatter.md",
+      "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
-    "createdAt": "2022-07-20T21:59:59Z",
-    "description": "Whitespace management for Neovim",
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-15T16:56:42Z",
+    "description": "Neovim plugin that allows easier use of Pandoc",
     "isArchived": false,
-    "lastCommit": "2023-02-22T15:00:00Z",
-    "nameWithOwner": "kaplanz/nvim-retrail",
+    "lastCommit": "2023-08-15T17:05:59Z",
+    "nameWithOwner": "GarciaBarreiro/nvim-pandoc",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 37,
+    "star": 1,
     "topics": [
       "neovim",
-      "trailing-spaces"
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "nvim-retrail",
-  "owner": "kaplanz",
-  "url": "https://github.com/kaplanz/nvim-retrail"
+  "name": "nvim-pandoc",
+  "owner": "GarciaBarreiro",
+  "url": "https://github.com/GarciaBarreiro/nvim-pandoc"
 }

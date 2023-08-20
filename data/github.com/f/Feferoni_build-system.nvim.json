@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        },
+        {
+          "level": 4,
+          "name": "Makefile"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-08-14T23:04:58Z",
+    "description": "Build tool, mainly focused on Makefile like build structures.",
+    "isArchived": false,
+    "lastCommit": "2023-08-16T21:49:46Z",
+    "nameWithOwner": "Feferoni/build-system.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "build-system.nvim",
+  "owner": "Feferoni",
+  "url": "https://github.com/Feferoni/build-system.nvim"
+}

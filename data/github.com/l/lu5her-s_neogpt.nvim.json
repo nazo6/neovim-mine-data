@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "OpenAI"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-08-15T09:06:52Z",
+    "description": "my neovim plugin to use openai api",
+    "isArchived": false,
+    "lastCommit": "2023-08-16T04:55:45Z",
+    "nameWithOwner": "lu5her-s/neogpt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neogpt.nvim",
+  "owner": "lu5her-s",
+  "url": "https://github.com/lu5her-s/neogpt.nvim"
+}

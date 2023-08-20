@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Cursor"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-08-14T15:30:32Z",
+    "description": "makes relative line jumps easier",
+    "isArchived": false,
+    "lastCommit": "2023-08-19T10:32:49Z",
+    "nameWithOwner": "scheisa/relpointers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "relpointers.nvim",
+  "owner": "scheisa",
+  "url": "https://github.com/scheisa/relpointers.nvim"
+}

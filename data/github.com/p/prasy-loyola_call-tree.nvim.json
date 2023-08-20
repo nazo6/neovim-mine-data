@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Call Hierarchy"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-08-18T16:14:09Z",
+    "description": "A neovim plugin to display call tree of a function using LSP",
+    "isArchived": false,
+    "lastCommit": "2023-08-19T13:43:24Z",
+    "nameWithOwner": "prasy-loyola/call-tree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "call-tree.nvim",
+  "owner": "prasy-loyola",
+  "url": "https://github.com/prasy-loyola/call-tree.nvim"
+}

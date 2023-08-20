@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Config switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-17T13:17:25Z",
+    "description": "Manage project specific settings without polluting your project directory",
+    "isArchived": false,
+    "lastCommit": "2023-08-17T21:09:49Z",
+    "nameWithOwner": "saccarosium/projectconf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "projectconf.nvim",
+  "owner": "saccarosium",
+  "url": "https://github.com/saccarosium/projectconf.nvim"
+}

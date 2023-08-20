@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-08-16T20:57:36Z",
+    "description": "Lazy-loading statusline for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-08-17T05:54:44Z",
+    "nameWithOwner": "willothy/lazyline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazyline.nvim",
+  "owner": "willothy",
+  "url": "https://github.com/willothy/lazyline.nvim"
+}

@@ -9,6 +9,10 @@
         {
           "level": 2,
           "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Type sound"
         }
       ],
       "file": "toy.md",
@@ -16,22 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
-    "createdAt": "2023-05-29T22:41:06Z",
-    "description": "Play soprano music in neovim",
+    "commitCountLastYear": 12,
+    "createdAt": "2023-08-16T20:16:26Z",
+    "description": "reverb.nvim is a Neovim plugin designed to elevate your coding environment with immersive sound effects. ",
     "isArchived": false,
-    "lastCommit": "2023-06-09T21:14:18Z",
-    "nameWithOwner": "whleucka/soprano.nvim",
+    "lastCommit": "2023-08-19T01:20:37Z",
+    "nameWithOwner": "whleucka/reverb.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 30,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "soprano.nvim",
+  "name": "reverb.nvim",
   "owner": "whleucka",
-  "url": "https://github.com/whleucka/soprano.nvim"
+  "url": "https://github.com/whleucka/reverb.nvim"
 }

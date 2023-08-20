@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 33,
     "createdAt": "2023-02-07T23:15:11Z",
-    "description": "⚡ A Neovim plugin to show information about the word under the cursor in the statusline or as virtual text",
+    "description": "⚡ A Neovim plugin that displays available actions like 'Go to Definition' and 'Go to Reference(s)' for the highlighted word, presented in the statusline or inline as virtual text.",
     "isArchived": false,
-    "lastCommit": "2023-08-13T19:14:25Z",
+    "lastCommit": "2023-08-17T21:06:04Z",
     "nameWithOwner": "roobert/action-hints.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 20,
     "topics": [
     ]
   },

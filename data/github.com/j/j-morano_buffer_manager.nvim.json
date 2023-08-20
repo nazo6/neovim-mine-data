@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Buffer"
-        },
-        {
-          "level": 3,
-          "name": "Buffer Selector"
-        }
-      ],
-      "file": "buffer_window_tab-management.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -35,20 +17,38 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 77,
+    "commitCountLastYear": 78,
     "createdAt": "2022-07-30T23:28:30Z",
     "description": "A simple plugin to easily manage Neovim buffers.",
     "isArchived": false,
-    "lastCommit": "2023-07-19T14:50:07Z",
+    "lastCommit": "2023-08-18T22:43:44Z",
     "nameWithOwner": "j-morano/buffer_manager.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 132,
+    "star": 134,
     "topics": [
       "buffers",
       "lua",
@@ -59,5 +59,5 @@
   "domain": "github.com",
   "name": "buffer_manager.nvim",
   "owner": "j-morano",
-  "url": "https://github.com/sonarom/peruse.nvim"
+  "url": "https://github.com/j-morano/buffer_manager.nvim"
 }

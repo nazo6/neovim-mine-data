@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Haskell"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-14T03:26:59Z",
+    "description": "Eta-reduce Haskell functions using treesitter",
+    "isArchived": false,
+    "lastCommit": "2023-08-14T03:50:20Z",
+    "nameWithOwner": "aloussase/point-free.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "haskell",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "point-free.nvim",
+  "owner": "aloussase",
+  "url": "https://github.com/aloussase/point-free.nvim"
+}

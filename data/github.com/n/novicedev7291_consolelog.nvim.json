@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Log"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-16T17:22:38Z",
+    "description": "Plugin to log message using different levels into neovim console.",
+    "isArchived": false,
+    "lastCommit": "2023-08-19T10:44:04Z",
+    "nameWithOwner": "novicedev7291/consolelog.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "consolelog.nvim",
+  "owner": "novicedev7291",
+  "url": "https://github.com/novicedev7291/consolelog.nvim"
+}
