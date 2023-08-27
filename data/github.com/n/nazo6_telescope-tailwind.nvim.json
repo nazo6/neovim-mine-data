@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "CSS"
+        },
+        {
+          "level": 5,
+          "name": "tailwind"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-08-22T12:31:13Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-08-24T13:42:32Z",
+    "nameWithOwner": "nazo6/telescope-tailwind.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-tailwind.nvim",
+  "owner": "nazo6",
+  "url": "https://github.com/nazo6/telescope-tailwind.nvim"
+}

@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "Simple"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -17,20 +31,6 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Filer"
-        },
-        {
-          "level": 2,
-          "name": "Simple"
-        }
-      ],
-      "file": "filer.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 142,
+    "star": 144,
     "topics": [
       "neovim",
       "lua",
@@ -55,5 +55,5 @@
   "domain": "github.com",
   "name": "carbon.nvim",
   "owner": "SidOfc",
-  "url": "https://github.com/SidOfc/carbon.nvim"
+  "url": "https://github.com/sidofc/carbon.nvim"
 }

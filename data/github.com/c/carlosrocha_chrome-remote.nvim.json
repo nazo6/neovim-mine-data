@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "DevTools"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-08-08T03:37:47Z",
+    "description": "Chrome DevTools Protocol Lua API for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-08-22T18:55:06Z",
+    "nameWithOwner": "carlosrocha/chrome-remote.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "chrome-devtools-protocol",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chrome-remote.nvim",
+  "owner": "carlosrocha",
+  "url": "https://github.com/carlosrocha/chrome-remote.nvim"
+}

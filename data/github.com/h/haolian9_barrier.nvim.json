@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "quit"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-08-19T15:01:29Z",
+    "description": "a barrier for `:qa`",
+    "isArchived": false,
+    "lastCommit": "2023-08-22T23:25:56Z",
+    "nameWithOwner": "haolian9/barrier.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "barrier.nvim",
+  "owner": "haolian9",
+  "url": "https://github.com/haolian9/barrier.nvim"
+}

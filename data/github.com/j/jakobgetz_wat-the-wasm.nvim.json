@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Wasm"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-08-21T09:02:26Z",
+    "description": "Explore the WebAssembly assembler",
+    "isArchived": false,
+    "lastCommit": "2023-08-22T10:28:47Z",
+    "nameWithOwner": "jakobgetz/wat-the-wasm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wat-the-wasm.nvim",
+  "owner": "jakobgetz",
+  "url": "https://github.com/jakobgetz/wat-the-wasm.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Unity"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-08-20T20:36:09Z",
+    "description": "Auto-/Force-Syncs the current Unity-Project for better LSP experience",
+    "isArchived": false,
+    "lastCommit": "2023-08-20T21:45:13Z",
+    "nameWithOwner": "Lohni/unitysync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "unitysync.nvim",
+  "owner": "Lohni",
+  "url": "https://github.com/Lohni/unitysync.nvim"
+}

@@ -21,21 +21,54 @@
       ],
       "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        },
+        {
+          "level": 4,
+          "name": "(requires Neovim 0.5)"
+        },
+        {
+          "level": 5,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 66,
     "createdAt": "2023-08-14T09:56:15Z",
-    "description": "Delicious diagnostic debugging in Neovim",
+    "description": "Delicious diagnostic debugging in Neovim 🤤",
     "isArchived": false,
-    "lastCommit": "2023-08-15T10:12:42Z",
+    "lastCommit": "2023-08-25T10:16:28Z",
     "nameWithOwner": "piersolenski/wtf.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 30,
     "topics": [
+      "ai",
+      "lsp",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

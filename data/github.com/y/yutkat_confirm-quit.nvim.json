@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "quit"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2021-04-07T13:18:56Z",
+    "description": "Check and then exit from Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-05-14T19:55:10Z",
+    "nameWithOwner": "yutkat/confirm-quit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "confirm-quit.nvim",
+  "owner": "yutkat",
+  "url": "https://github.com/yutkat/confirm-quit.nvim"
+}
