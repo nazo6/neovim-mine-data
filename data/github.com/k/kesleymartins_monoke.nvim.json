@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-08-31T00:37:05Z",
+    "description": "A buffer manager plugin written in lua",
+    "isArchived": false,
+    "lastCommit": "2023-09-02T14:23:09Z",
+    "nameWithOwner": "kesleymartins/monoke.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "monoke.nvim",
+  "owner": "kesleymartins",
+  "url": "https://github.com/kesleymartins/monoke.nvim"
+}

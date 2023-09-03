@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Abbreviation"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-08-18T15:51:33Z",
+    "description": "Neovim plugin that works like electric-quotes emacs mode",
+    "isArchived": false,
+    "lastCommit": "2023-08-30T17:45:40Z",
+    "nameWithOwner": "shadyalfred/electric-quotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "electric-quotes.nvim",
+  "owner": "shadyalfred",
+  "url": "https://github.com/shadyalfred/electric-quotes.nvim"
+}

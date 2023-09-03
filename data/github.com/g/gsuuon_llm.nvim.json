@@ -21,20 +21,38 @@
       ],
       "file": "integration-apps.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "AI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 286,
+    "commitCountLastYear": 315,
     "createdAt": "2023-04-16T04:18:10Z",
     "description": "Neovim plugin for interacting with LLM's and building editor integrated prompts.",
     "isArchived": false,
-    "lastCommit": "2023-07-20T04:43:00Z",
+    "lastCommit": "2023-08-30T20:07:45Z",
     "nameWithOwner": "gsuuon/llm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 33,
+    "star": 46,
     "topics": [
       "chatgpt",
       "neovim-plugin",

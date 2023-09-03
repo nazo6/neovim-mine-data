@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "OCaml"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-08-26T23:48:48Z",
+    "description": "Integration plugin for ocp-indent in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-08-27T10:27:10Z",
+    "nameWithOwner": "Halbaroth/ocp-indent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ocp-indent.nvim",
+  "owner": "Halbaroth",
+  "url": "https://github.com/Halbaroth/ocp-indent.nvim"
+}

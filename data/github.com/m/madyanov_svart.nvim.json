@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Horizontal Move"
+          "name": "Label Jump (Easymotion style)"
         }
       ],
       "file": "motion.md",
@@ -20,25 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 128,
-    "createdAt": "2023-01-31T15:43:46Z",
-    "description": "extend's the capability of neovim find command's",
+    "commitCountLastYear": 107,
+    "createdAt": "2023-08-31T17:14:54Z",
+    "description": "Neovim plugin to jump to any location with few keystrokes",
     "isArchived": false,
-    "lastCommit": "2023-04-02T03:49:11Z",
-    "nameWithOwner": "0xSafdarAwan/find-extender.nvim",
+    "lastCommit": "2023-05-18T17:55:58Z",
+    "nameWithOwner": "madyanov/svart.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 20,
+    "star": 1,
     "topics": [
-      "lua",
-      "neovim",
-      "plugin"
     ]
   },
   "domain": "github.com",
-  "name": "find-extender.nvim",
-  "owner": "0xSafdarAwan",
-  "url": "https://github.com/TheSafdarAwan/find-extender.nvim"
+  "name": "svart.nvim",
+  "owner": "madyanov",
+  "url": "https://github.com/madyanov/svart.nvim"
 }

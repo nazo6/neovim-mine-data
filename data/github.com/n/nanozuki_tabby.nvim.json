@@ -38,23 +38,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 48,
     "createdAt": "2021-09-24T03:48:51Z",
     "description": "A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!",
     "isArchived": false,
-    "lastCommit": "2023-08-16T09:46:17Z",
+    "lastCommit": "2023-08-30T06:26:01Z",
     "nameWithOwner": "nanozuki/tabby.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 405,
+    "star": 408,
     "topics": [
       "neovim",
       "neovim-plugin",
       "tabline",
       "lua",
-      "nvim"
+      "nvim",
+      "bufferline"
     ]
   },
   "domain": "github.com",

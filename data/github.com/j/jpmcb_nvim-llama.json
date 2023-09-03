@@ -12,7 +12,11 @@
         },
         {
           "level": 3,
-          "name": "Shell"
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "Llama"
         }
       ],
       "file": "integration-apps.md",
@@ -20,22 +24,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 79,
-    "createdAt": "2023-05-28T13:49:59Z",
-    "description": "A collection of pre-defined commands which are readable and easy to search and use",
+    "commitCountLastYear": 3,
+    "createdAt": "2023-08-26T19:48:17Z",
+    "description": "🦙 Llama 2 and llama.cpp interfaces for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-08-05T09:53:21Z",
-    "nameWithOwner": "LintaoAmons/easy-commands.nvim",
+    "lastCommit": "2023-09-02T16:50:20Z",
+    "nameWithOwner": "jpmcb/nvim-llama",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 9,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "easy-commands.nvim",
-  "owner": "LintaoAmons",
-  "url": "https://github.com/LintaoAmons/easy-commands.nvim"
+  "name": "nvim-llama",
+  "owner": "jpmcb",
+  "url": "https://github.com/jpmcb/nvim-llama"
 }

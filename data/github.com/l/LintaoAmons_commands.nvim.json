@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Shell"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 86,
+    "createdAt": "2023-05-28T13:49:59Z",
+    "description": "A collection of pre-defined commands which are readable and easy to search and use",
+    "isArchived": false,
+    "lastCommit": "2023-09-01T06:42:46Z",
+    "nameWithOwner": "LintaoAmons/commands.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commands.nvim",
+  "owner": "LintaoAmons",
+  "url": "https://github.com/LintaoAmons/easy-commands.nvim"
+}

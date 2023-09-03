@@ -24,25 +24,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
-    "createdAt": "2022-09-10T18:39:15Z",
-    "description": "Show diagnostics at the right corner of the buffer",
+    "commitCountLastYear": 1,
+    "createdAt": "2023-08-31T12:54:21Z",
+    "description": "Mess around with problems/diagnostics",
     "isArchived": false,
-    "lastCommit": "2022-09-18T23:27:51Z",
-    "nameWithOwner": "santigo-zero/right-corner-diagnostics.nvim",
+    "lastCommit": "2023-08-31T12:55:38Z",
+    "nameWithOwner": "suliatis/mess-around.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 1,
     "topics": [
-      "diagnostics",
-      "lsp",
-      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "right-corner-diagnostics.nvim",
-  "owner": "santigo-zero",
-  "url": "https://github.com/santigo-zero/right-corner-diagnostics.nvim"
+  "name": "mess-around.nvim",
+  "owner": "suliatis",
+  "url": "https://github.com/suliatis/mess-around.nvim"
 }

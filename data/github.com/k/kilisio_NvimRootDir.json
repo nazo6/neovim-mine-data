@@ -7,39 +7,35 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Debug"
-        },
-        {
           "level": 3,
-          "name": "Debugger"
+          "name": "Project"
         },
         {
           "level": 4,
-          "name": "nvim-dap extension"
+          "name": "Project Root Detector"
         }
       ],
-      "file": "debugger_repl.md",
+      "file": "project.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2023-06-29T09:07:50Z",
+    "commitCountLastYear": 3,
+    "createdAt": "2023-06-29T09:05:22Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-07-04T10:30:49Z",
-    "nameWithOwner": "kilisio/nvim-dap-projects",
+    "lastCommit": "2023-07-04T16:00:31Z",
+    "nameWithOwner": "kilisio/NvimRootDir",
     "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
+      "color": "#000080",
+      "name": "Lua"
     },
     "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "nvim-dap-projects",
+  "name": "NvimRootDir",
   "owner": "kilisio",
-  "url": "https://github.com/kilisio/nvim-dap-projects"
+  "url": "https://github.com/kilisio/nvim-root-dir"
 }

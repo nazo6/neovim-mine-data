@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 27,
     "createdAt": "2022-12-20T19:54:14Z",
     "description": "NeoVim mail merge plugin",
     "isArchived": false,
-    "lastCommit": "2023-08-26T22:37:44Z",
+    "lastCommit": "2023-08-30T23:34:01Z",
     "nameWithOwner": "martineausimon/nvim-mail-merge",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 7,
     "topics": [
       "mail-merge",
       "neomutt",
@@ -39,7 +39,9 @@
       "publipostage",
       "csv",
       "markdown",
-      "markdown-to-html"
+      "markdown-to-html",
+      "email",
+      "email-sender"
     ]
   },
   "domain": "github.com",

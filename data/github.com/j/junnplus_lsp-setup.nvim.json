@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pre-configuration"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -21,20 +35,6 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Pre-configuration"
-        }
-      ],
-      "file": "lsp.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 206,
+    "star": 207,
     "topics": [
       "lsp-server",
       "nvim",
@@ -62,5 +62,5 @@
   "domain": "github.com",
   "name": "lsp-setup.nvim",
   "owner": "junnplus",
-  "url": "https://github.com/Junnplus/nvim-lsp-setup"
+  "url": "https://github.com/junnplus/nvim-lsp-setup"
 }

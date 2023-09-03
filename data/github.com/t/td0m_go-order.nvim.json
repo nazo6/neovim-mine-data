@@ -2,24 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
-        },
-        {
-          "level": 3,
-          "name": "Go"
-        },
-        {
-          "level": 4,
-          "name": "gofmt"
-        }
       ],
-      "file": "language-specific.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -27,7 +11,7 @@
     "commitCountLastYear": 7,
     "createdAt": "2023-02-27T23:17:32Z",
     "description": "A Neovim library for formatting Go file contents alphabetically",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-02-28T00:07:19Z",
     "nameWithOwner": "td0m/go-order.nvim",
     "primaryLanguage": {

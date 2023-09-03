@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Alarm"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2023-08-30T14:39:58Z",
+    "description": "Reminders to keep hydrated while you code",
+    "isArchived": false,
+    "lastCommit": "2023-09-01T16:55:26Z",
+    "nameWithOwner": "stefanlogue/hydrate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hydrate.nvim",
+  "owner": "stefanlogue",
+  "url": "https://github.com/stefanlogue/hydrate.nvim"
+}

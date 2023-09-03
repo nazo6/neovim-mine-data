@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        },
+        {
+          "level": 2,
+          "name": "Statusline component"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 164,
+    "createdAt": "2023-05-27T14:09:02Z",
+    "description": "Neovim plugin packed with modules  ( battery, wifi, date, time, day  etc) to litter the statusline and winbar",
+    "isArchived": false,
+    "lastCommit": "2023-09-03T09:02:13Z",
+    "nameWithOwner": "Pheon-Dev/pigeon",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+      "battery",
+      "cpu",
+      "cpu-usage",
+      "date",
+      "day",
+      "memory-usage",
+      "neovim",
+      "neovim-plugins",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pigeon",
+  "owner": "Pheon-Dev",
+  "url": "https://github.com/Pheon-Dev/pigeon"
+}

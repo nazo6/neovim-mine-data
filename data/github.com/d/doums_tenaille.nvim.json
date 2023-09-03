@@ -16,18 +16,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 4,
     "createdAt": "2023-08-17T19:34:36Z",
-    "description": null,
+    "description": "nvim plugin to wrap the visual selection in brackets and quotes",
     "isArchived": false,
-    "lastCommit": "2023-08-17T19:39:13Z",
+    "lastCommit": "2023-08-31T23:12:20Z",
     "nameWithOwner": "doums/tenaille.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 4,
     "topics": [
+      "bracket",
+      "neovim",
+      "nvim",
+      "pair",
+      "plugin",
+      "quotes"
     ]
   },
   "domain": "github.com",

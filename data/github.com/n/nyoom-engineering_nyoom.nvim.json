@@ -4,6 +4,24 @@
       "data": [
         {
           "level": 1,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 2,
+          "name": "Blue Base"
+        },
+        {
+          "level": 3,
+          "name": "Doom"
+        }
+      ],
+      "file": "colorscheme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Neovim Distribution"
         }
       ],
@@ -27,28 +45,10 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Colorscheme"
-        },
-        {
-          "level": 2,
-          "name": "Blue Base"
-        },
-        {
-          "level": 3,
-          "name": "Doom"
-        }
-      ],
-      "file": "colorscheme.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 87,
+    "commitCountLastYear": 85,
     "createdAt": "2021-12-06T17:54:28Z",
     "description": "A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme",
     "isArchived": false,
@@ -58,7 +58,7 @@
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 966,
+    "star": 968,
     "topics": [
       "neovim-colorscheme",
       "neovim-conf",
@@ -75,5 +75,5 @@
   "domain": "github.com",
   "name": "nyoom.nvim",
   "owner": "nyoom-engineering",
-  "url": "https://github.com/shaunsingh/nyoom.nvim"
+  "url": "https://github.com/nyoom-engineering/nyoom.nvim"
 }

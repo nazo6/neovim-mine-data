@@ -7,25 +7,25 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Project"
+          "level": 2,
+          "name": "Terminal"
         },
         {
-          "level": 4,
-          "name": "Project Root Detector"
+          "level": 3,
+          "name": "Terminal Enhancement"
         }
       ],
-      "file": "project.md",
+      "file": "terminal.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2023-06-29T09:05:22Z",
+    "commitCountLastYear": 7,
+    "createdAt": "2023-08-28T14:09:15Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-07-04T16:00:31Z",
-    "nameWithOwner": "kilisio/nvim-root-dir",
+    "lastCommit": "2023-09-02T13:15:54Z",
+    "nameWithOwner": "AbaoFromCUG/terminal.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "nvim-root-dir",
-  "owner": "kilisio",
-  "url": "https://github.com/kilisio/nvim-root-dir"
+  "name": "terminal.nvim",
+  "owner": "AbaoFromCUG",
+  "url": "https://github.com/AbaoFromCUG/terminal.nvim"
 }

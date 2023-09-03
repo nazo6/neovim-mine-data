@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 168,
+    "createdAt": "2023-04-05T16:47:05Z",
+    "description": "Spiritual successor of https://github.com/wbthomason/packer.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-09-02T07:50:14Z",
+    "nameWithOwner": "lewis6991/pckr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 98,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pckr.nvim",
+  "owner": "lewis6991",
+  "url": "https://github.com/lewis6991/pckr.nvim"
+}
