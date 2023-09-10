@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-09-03T16:39:34Z",
+    "description": "A better git worktree integration for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-09-03T17:27:31Z",
+    "nameWithOwner": "Mohanbarman/g-worktree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "g-worktree.nvim",
+  "owner": "Mohanbarman",
+  "url": "https://github.com/Mohanbarman/g-worktree.nvim"
+}

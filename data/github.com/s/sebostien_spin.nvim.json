@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Promela"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-09-08T14:53:48Z",
+    "description": "A neovim plugin for interacting with the software verification tool spin.",
+    "isArchived": false,
+    "lastCommit": "2023-09-09T11:43:52Z",
+    "nameWithOwner": "sebostien/spin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spin.nvim",
+  "owner": "sebostien",
+  "url": "https://github.com/sebostien/spin.nvim"
+}

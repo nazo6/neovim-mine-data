@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "CHIP-8"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2023-09-02T01:53:41Z",
+    "description": "CHIP-8 for the Neovim Video Computer System",
+    "isArchived": false,
+    "lastCommit": "2023-09-02T05:17:34Z",
+    "nameWithOwner": "rktjmp/chip-8.nvim",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 5,
+    "topics": [
+      "chip8-emulator",
+      "fennel",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chip-8.nvim",
+  "owner": "rktjmp",
+  "url": "https://github.com/rktjmp/chip-8.nvim"
+}

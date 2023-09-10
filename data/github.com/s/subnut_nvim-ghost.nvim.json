@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2020-10-04T04:09:30Z",
+    "description": ":ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3.6+ installed)",
+    "isArchived": false,
+    "lastCommit": "2023-05-29T17:32:40Z",
+    "nameWithOwner": "subnut/nvim-ghost.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 107,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "ghosttext",
+      "nvim",
+      "nvim-plugin",
+      "windows",
+      "wsl",
+      "wsl2"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ghost.nvim",
+  "owner": "subnut",
+  "url": "https://github.com/subnut/nvim-ghost.nvim"
+}

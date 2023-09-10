@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "create"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-09-03T11:30:40Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-09-03T11:30:58Z",
+    "nameWithOwner": "lpoto/buffers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffers.nvim",
+  "owner": "lpoto",
+  "url": "https://github.com/lpoto/buffers.nvim"
+}

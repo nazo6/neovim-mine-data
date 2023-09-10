@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "cheat.sh"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-09-03T22:59:52Z",
+    "description": "cheat.sh plugin for nvim",
+    "isArchived": false,
+    "lastCommit": "2023-09-03T23:15:45Z",
+    "nameWithOwner": "sanathks/cht.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cht.nvim",
+  "owner": "sanathks",
+  "url": "https://github.com/sanathks/cht.nvim"
+}

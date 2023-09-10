@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 12,
     "createdAt": "2022-09-09T05:37:30Z",
     "description": "Translation commands of Neovim using DeepL API",
     "isArchived": false,
-    "lastCommit": "2022-09-12T09:54:14Z",
+    "lastCommit": "2023-09-08T16:50:23Z",
     "nameWithOwner": "gw31415/deepl-commands.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -33,7 +33,8 @@
     "star": 14,
     "topics": [
       "deepl",
-      "neovim"
+      "neovim",
+      "fzyselect-plugin"
     ]
   },
   "domain": "github.com",

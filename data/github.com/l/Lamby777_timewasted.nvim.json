@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Analytics"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-09-04T03:18:07Z",
+    "description": "Recreating the \"Time Wasted Debugging:\" stopwatch from x64dbg as a Neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2023-09-04T06:34:32Z",
+    "nameWithOwner": "Lamby777/timewasted.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "timewasted.nvim",
+  "owner": "Lamby777",
+  "url": "https://github.com/Lamby777/timewasted.nvim"
+}

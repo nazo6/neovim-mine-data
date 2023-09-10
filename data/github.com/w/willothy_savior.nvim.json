@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 8,
     "createdAt": "2023-07-19T11:29:15Z",
-    "description": "Customizable, event-based auto saving built on top of Neovim's builtin LSP client.",
+    "description": "Customizable, event-based auto saving for Neovim",
     "isArchived": false,
     "lastCommit": "2023-08-31T07:52:30Z",
     "nameWithOwner": "willothy/savior.nvim",
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
       "auto-save",
       "lsp-server",

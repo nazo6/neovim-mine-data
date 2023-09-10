@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        },
+        {
+          "level": 4,
+          "name": "tweaks"
+        },
+        {
+          "level": 5,
+          "name": "string"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-09-06T13:44:33Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-09-06T14:14:50Z",
+    "nameWithOwner": "stefanlogue/auto-fstring.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-fstring.nvim",
+  "owner": "stefanlogue",
+  "url": "https://github.com/stefanlogue/auto-fstring.nvim"
+}

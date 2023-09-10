@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-09-03T19:47:33Z",
+    "description": "LSP diagnostics at your corner",
+    "isArchived": false,
+    "lastCommit": "2023-09-07T20:41:39Z",
+    "nameWithOwner": "RaafatTurki/corn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "corn.nvim",
+  "owner": "RaafatTurki",
+  "url": "https://github.com/RaafatTurki/corn.nvim"
+}

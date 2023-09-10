@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Macro"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-09-06T06:17:21Z",
+    "description": "recursive macro recording in nvim",
+    "isArchived": false,
+    "lastCommit": "2023-09-06T13:19:42Z",
+    "nameWithOwner": "jake-stewart/recursive-macro.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "recursive-macro.nvim",
+  "owner": "jake-stewart",
+  "url": "https://github.com/jake-stewart/recursive-macro.nvim"
+}

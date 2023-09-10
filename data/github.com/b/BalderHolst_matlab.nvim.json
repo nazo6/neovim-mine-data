@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "MatLab"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-09-07T10:57:35Z",
+    "description": "Run Matlab from within Neovim!",
+    "isArchived": false,
+    "lastCommit": "2023-09-08T11:25:03Z",
+    "nameWithOwner": "BalderHolst/matlab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "matlab.nvim",
+  "owner": "BalderHolst",
+  "url": "https://github.com/BalderHolst/matlab.nvim"
+}

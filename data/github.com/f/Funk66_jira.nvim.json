@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Jira"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-09-06T08:01:32Z",
+    "description": "Jira plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-09-08T13:48:07Z",
+    "nameWithOwner": "Funk66/jira.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jira.nvim",
+  "owner": "Funk66",
+  "url": "https://github.com/Funk66/jira.nvim"
+}

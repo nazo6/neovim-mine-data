@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown checkbox"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-09-07T17:04:51Z",
+    "description": "A simple nvim task manager plugin for markdown",
+    "isArchived": false,
+    "lastCommit": "2023-09-09T13:31:44Z",
+    "nameWithOwner": "marco-souza/tasks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasks.nvim",
+  "owner": "marco-souza",
+  "url": "https://github.com/marco-souza/tasks.nvim"
+}

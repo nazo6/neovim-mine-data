@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Docker"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-09-06T21:02:41Z",
+    "description": "A bunch of lints for Dockerfiles",
+    "isArchived": false,
+    "lastCommit": "2023-09-07T15:40:35Z",
+    "nameWithOwner": "aloussase/dockerlint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dockerlint.nvim",
+  "owner": "aloussase",
+  "url": "https://github.com/aloussase/dockerlint.nvim"
+}

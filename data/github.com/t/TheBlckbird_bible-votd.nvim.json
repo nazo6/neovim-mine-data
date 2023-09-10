@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 5,
     "createdAt": "2023-08-17T11:58:11Z",
     "description": "A Neovim plugin to show the bible verse of the day.",
     "isArchived": false,
-    "lastCommit": "2023-08-17T12:09:54Z",
+    "lastCommit": "2023-09-09T16:19:53Z",
     "nameWithOwner": "TheBlckbird/bible-votd.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,11 @@
     },
     "star": 1,
     "topics": [
+      "bible",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "verse-of-the-day"
     ]
   },
   "domain": "github.com",

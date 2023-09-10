@@ -28,11 +28,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 37,
     "createdAt": "2023-08-08T17:30:30Z",
-    "description": null,
+    "description": "The xmake plugin for neovim provides a ui interface that allows you to configure xmake more efficiently.",
     "isArchived": false,
-    "lastCommit": "2023-08-25T07:43:53Z",
+    "lastCommit": "2023-09-09T14:58:11Z",
     "nameWithOwner": "Mythos-404/xmake.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -40,6 +40,9 @@
     },
     "star": 10,
     "topics": [
+      "lua",
+      "neovim",
+      "xmake"
     ]
   },
   "domain": "github.com",

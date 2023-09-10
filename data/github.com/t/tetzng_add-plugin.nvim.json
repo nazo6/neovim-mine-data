@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "add"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-09-08T06:21:53Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-09-08T06:32:37Z",
+    "nameWithOwner": "tetzng/add-plugin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "add-plugin.nvim",
+  "owner": "tetzng",
+  "url": "https://github.com/tetzng/add-plugin.nvim"
+}
