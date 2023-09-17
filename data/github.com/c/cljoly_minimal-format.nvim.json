@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-09-13T23:20:01Z",
+    "description": "Smart formatting for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-09-14T00:28:56Z",
+    "nameWithOwner": "cljoly/minimal-format.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "wip"
+    ]
+  },
+  "domain": "github.com",
+  "name": "minimal-format.nvim",
+  "owner": "cljoly",
+  "url": "https://github.com/cljoly/minimal-format.nvim"
+}

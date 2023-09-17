@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Elixir"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-09-13T17:30:19Z",
+    "description": "Manipulate elixir keys from string to atom and vice-versa",
+    "isArchived": false,
+    "lastCommit": "2023-09-13T18:15:25Z",
+    "nameWithOwner": "wesleimp/elixir-keys.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "elixir-keys.nvim",
+  "owner": "wesleimp",
+  "url": "https://github.com/wesleimp/elixir-keys.nvim"
+}

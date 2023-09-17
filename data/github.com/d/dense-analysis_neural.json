@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 87,
+    "commitCountLastYear": 88,
     "createdAt": "2022-12-21T23:51:53Z",
-    "description": "Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)",
+    "description": "AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)",
     "isArchived": false,
-    "lastCommit": "2023-09-05T20:08:49Z",
+    "lastCommit": "2023-09-16T22:51:33Z",
     "nameWithOwner": "dense-analysis/neural",
     "primaryLanguage": {
       "color": "#199f4b",
@@ -40,7 +40,12 @@
       "neovim",
       "openai",
       "gpt-3",
-      "chatgpt"
+      "chatgpt",
+      "ai",
+      "linux",
+      "macos",
+      "vim",
+      "windows"
     ]
   },
   "domain": "github.com",

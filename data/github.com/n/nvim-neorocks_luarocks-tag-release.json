@@ -38,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 98,
+    "commitCountLastYear": 148,
     "createdAt": "2023-01-13T10:30:53Z",
     "description": "GitHub workflow for automatically generating Luarocks releases from tags",
     "isArchived": false,
-    "lastCommit": "2023-09-09T08:29:08Z",
+    "lastCommit": "2023-09-17T05:33:34Z",
     "nameWithOwner": "nvim-neorocks/luarocks-tag-release",
     "primaryLanguage": {
       "color": "#000080",
@@ -50,6 +50,15 @@
     },
     "star": 31,
     "topics": [
+      "automation",
+      "busted",
+      "cicd",
+      "luarocks",
+      "neovim",
+      "release",
+      "test",
+      "testing",
+      "workflow"
     ]
   },
   "domain": "github.com",

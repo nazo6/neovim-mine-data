@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 5,
     "createdAt": "2023-09-08T04:39:11Z",
     "description": "a simple neovim plugin for expanding rust macros :)",
     "isArchived": false,
-    "lastCommit": "2023-09-09T00:56:42Z",
+    "lastCommit": "2023-09-10T21:04:30Z",
     "nameWithOwner": "vxpm/rust-expand-macro.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,9 @@
     },
     "star": 1,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "rust"
     ]
   },
   "domain": "github.com",

@@ -2,25 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "AI Completion"
-        }
       ],
-      "file": "completion.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 148,
+    "commitCountLastYear": 150,
     "createdAt": "2023-01-29T07:31:06Z",
     "description": "A native neovim extension for Codeium",
-    "isArchived": false,
-    "lastCommit": "2023-09-08T02:09:41Z",
+    "isArchived": true,
+    "lastCommit": "2023-09-10T22:20:54Z",
     "nameWithOwner": "jcdickinson/codeium.nvim",
     "primaryLanguage": {
       "color": "#000080",

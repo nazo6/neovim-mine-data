@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Signature Help"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-09-13T11:08:16Z",
+    "description": "Plugin for neovim to toggle built in lsp signature help window",
+    "isArchived": false,
+    "lastCommit": "2023-09-13T12:19:40Z",
+    "nameWithOwner": "temchik00/toggle-signature-help.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggle-signature-help.nvim",
+  "owner": "temchik00",
+  "url": "https://github.com/temchik00/toggle-signature-help.nvim"
+}

@@ -4,7 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
@@ -15,7 +15,7 @@
           "name": "JSON"
         }
       ],
-      "file": "language-specific.md",
+      "file": "configration-file.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -42,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 182,
+    "commitCountLastYear": 186,
     "createdAt": "2021-10-07T07:03:15Z",
     "description": "🛍 JSON schemas for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-09-08T17:00:38Z",
+    "lastCommit": "2023-09-15T18:00:40Z",
     "nameWithOwner": "b0o/SchemaStore.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 510,
+    "star": 516,
     "topics": [
       "nvim",
       "nvim-plugin",

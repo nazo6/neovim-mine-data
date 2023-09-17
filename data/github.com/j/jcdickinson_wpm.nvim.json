@@ -2,35 +2,23 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "New features"
-        },
-        {
-          "level": 3,
-          "name": "Analytics"
-        }
       ],
-      "file": "readme.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2023-01-27T05:11:18Z",
     "description": "A quick and dirty WPM calculator for your UI needs",
-    "isArchived": false,
-    "lastCommit": "2023-01-27T16:16:24Z",
+    "isArchived": true,
+    "lastCommit": "2023-09-10T22:23:03Z",
     "nameWithOwner": "jcdickinson/wpm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 81,
+    "star": 82,
     "topics": [
     ]
   },

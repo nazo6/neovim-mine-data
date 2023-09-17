@@ -4,7 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
@@ -15,25 +15,27 @@
           "name": "CSV"
         }
       ],
-      "file": "language-specific.md",
+      "file": "configration-file.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 49,
+    "commitCountLastYear": 48,
     "createdAt": "2023-01-20T12:45:47Z",
     "description": "Neovim port of mechatroner/rainbow_csv",
     "isArchived": false,
-    "lastCommit": "2023-08-29T03:42:00Z",
+    "lastCommit": "2023-09-12T06:15:19Z",
     "nameWithOwner": "cameron-wags/rainbow_csv.nvim",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 22,
+    "star": 24,
     "topics": [
       "neovim",
-      "neovim-plugin"
+      "neovim-plugin",
+      "csv",
+      "syntax-highlighting"
     ]
   },
   "domain": "github.com",

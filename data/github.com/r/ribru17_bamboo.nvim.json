@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 4,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2023-06-01T04:44:26Z",
+    "description": "Warm Green Theme for Neovim and Beyond",
+    "isArchived": false,
+    "lastCommit": "2023-09-15T07:05:24Z",
+    "nameWithOwner": "ribru17/bamboo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 123,
+    "topics": [
+      "neovim-theme",
+      "dark-theme",
+      "lua",
+      "neovim",
+      "treesitter",
+      "konsole-color-schemes",
+      "wezterm-colorscheme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bamboo.nvim",
+  "owner": "ribru17",
+  "url": "https://github.com/ribru17/bamboo.nvim"
+}

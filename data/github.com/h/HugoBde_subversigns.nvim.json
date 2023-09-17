@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Subversion"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-09-09T05:29:37Z",
+    "description": "Subversion utilities for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-09-10T01:51:05Z",
+    "nameWithOwner": "HugoBde/subversigns.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "subversigns.nvim",
+  "owner": "HugoBde",
+  "url": "https://github.com/HugoBde/subversigns.nvim"
+}

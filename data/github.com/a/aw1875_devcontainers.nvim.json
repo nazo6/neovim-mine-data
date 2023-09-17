@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Devcontainer"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-09-13T01:23:44Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-09-13T02:51:29Z",
+    "nameWithOwner": "aw1875/devcontainers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "devcontainers.nvim",
+  "owner": "aw1875",
+  "url": "https://github.com/aw1875/devcontainers.nvim"
+}

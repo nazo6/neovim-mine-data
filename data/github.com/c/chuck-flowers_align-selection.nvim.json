@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Align"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-09-13T13:24:52Z",
+    "description": "A neovim plugin for centering the visual selection",
+    "isArchived": false,
+    "lastCommit": "2023-09-14T03:06:52Z",
+    "nameWithOwner": "chuck-flowers/align-selection.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "align-selection.nvim",
+  "owner": "chuck-flowers",
+  "url": "https://github.com/chuck-flowers/align-selection.nvim"
+}

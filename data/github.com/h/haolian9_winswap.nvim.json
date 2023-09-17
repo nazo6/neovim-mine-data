@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "swap"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-09-15T00:17:38Z",
+    "description": "to swap the underlying buffer of windows in the same tabpage",
+    "isArchived": false,
+    "lastCommit": "2023-09-15T00:31:23Z",
+    "nameWithOwner": "haolian9/winswap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "winswap.nvim",
+  "owner": "haolian9",
+  "url": "https://github.com/haolian9/winswap.nvim"
+}

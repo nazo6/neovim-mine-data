@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Net"
-        },
-        {
-          "level": 3,
-          "name": "HTTP"
-        }
       ],
-      "file": "neovim-lua-library.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 11,
     "createdAt": "2023-03-25T23:13:22Z",
     "description": "A http library for your neovim plugin",
-    "isArchived": false,
-    "lastCommit": "2023-03-30T03:56:59Z",
+    "isArchived": true,
+    "lastCommit": "2023-09-10T22:22:20Z",
     "nameWithOwner": "jcdickinson/http.nvim",
     "primaryLanguage": {
       "color": "#dea584",

@@ -4,7 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
@@ -15,16 +15,16 @@
           "name": "Hurl"
         }
       ],
-      "file": "language-specific.md",
+      "file": "configration-file.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 46,
     "createdAt": "2023-08-19T14:56:11Z",
     "description": "Utilities for running hurl files from inside neovim",
     "isArchived": false,
-    "lastCommit": "2023-09-09T22:04:34Z",
+    "lastCommit": "2023-09-11T07:46:43Z",
     "nameWithOwner": "ethancarlsson/nvim-hurl.nvim",
     "primaryLanguage": {
       "color": "#000080",

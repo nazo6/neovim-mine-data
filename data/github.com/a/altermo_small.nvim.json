@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util pack"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-09-15T22:07:14Z",
+    "description": "A collection of my presonal small plugins",
+    "isArchived": false,
+    "lastCommit": "2023-09-17T07:56:39Z",
+    "nameWithOwner": "altermo/small.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "lua",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "small.nvim",
+  "owner": "altermo",
+  "url": "https://github.com/altermo/small.nvim"
+}

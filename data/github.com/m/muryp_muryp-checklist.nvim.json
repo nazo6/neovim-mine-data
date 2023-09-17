@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown checkbox"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-09-09T00:24:18Z",
+    "description": "checkbox for markdown",
+    "isArchived": false,
+    "lastCommit": "2023-09-15T00:05:24Z",
+    "nameWithOwner": "muryp/muryp-checklist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "muryp-checklist.nvim",
+  "owner": "muryp",
+  "url": "https://github.com/muryp/checklist.nvim"
+}

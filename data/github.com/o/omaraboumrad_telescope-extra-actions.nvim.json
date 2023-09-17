@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Action"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-09-15T19:41:54Z",
+    "description": "Extra actions to use with telescope pickers",
+    "isArchived": false,
+    "lastCommit": "2023-09-15T21:03:31Z",
+    "nameWithOwner": "omaraboumrad/telescope-extra-actions.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-extra-actions.nvim",
+  "owner": "omaraboumrad",
+  "url": "https://github.com/omaraboumrad/telescope-extra-actions.nvim"
+}

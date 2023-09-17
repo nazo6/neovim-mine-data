@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Parenthetical edit"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-09-10T16:39:25Z",
+    "description": "A fennel language extension for nvim-paredit",
+    "isArchived": false,
+    "lastCommit": "2023-09-11T14:55:28Z",
+    "nameWithOwner": "julienvincent/nvim-paredit-fennel",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "fennel",
+      "lua",
+      "neovim",
+      "paredit",
+      "vim",
+      "nvim-paredit"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-paredit-fennel",
+  "owner": "julienvincent",
+  "url": "https://github.com/julienvincent/nvim-paredit-fennel"
+}

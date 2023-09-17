@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "delete"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-09-13T15:24:11Z",
+    "description": "A vim plugin to enhance to close buffers",
+    "isArchived": false,
+    "lastCommit": "2023-09-13T15:23:36Z",
+    "nameWithOwner": "kyoh86/bdelete-buffers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bdelete-buffers.nvim",
+  "owner": "kyoh86",
+  "url": "https://github.com/kyoh86/bdelete-buffers.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-09-11T01:10:37Z",
+    "description": "Set a command to run when you press the Quick Run key.",
+    "isArchived": false,
+    "lastCommit": "2023-09-11T01:44:55Z",
+    "nameWithOwner": "LiamFenneman/quick-run.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "quick-run.nvim",
+  "owner": "LiamFenneman",
+  "url": "https://github.com/LiamFenneman/quick-run.nvim"
+}

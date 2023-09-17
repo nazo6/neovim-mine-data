@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown link"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-09-15T23:57:18Z",
+    "description": "plugins nvim for create link markdown and wiki. and open link or file.",
+    "isArchived": false,
+    "lastCommit": "2023-09-16T00:12:28Z",
+    "nameWithOwner": "muryp/muryp-link.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "muryp-link.nvim",
+  "owner": "muryp",
+  "url": "https://github.com/muryp/muryp-link.nvim"
+}
