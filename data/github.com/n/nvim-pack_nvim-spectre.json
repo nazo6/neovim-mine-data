@@ -4,6 +4,16 @@
       "data": [
         {
           "level": 1,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -17,16 +27,6 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Grep"
-        }
-      ],
-      "file": "search_replace_grep_select.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
@@ -40,12 +40,12 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1257,
+    "star": 1273,
     "topics": [
     ]
   },
   "domain": "github.com",
   "name": "nvim-spectre",
   "owner": "nvim-pack",
-  "url": "https://github.com/windwp/nvim-spectre"
+  "url": "https://github.com/nvim-pack/nvim-spectre"
 }

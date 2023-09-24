@@ -1,0 +1,62 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Session"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2023-09-17T11:47:03Z",
+    "description": "Neovim project manager maintains your recent project history and uses Telescope to select from autosaved sessions.",
+    "isArchived": false,
+    "lastCommit": "2023-09-23T21:30:38Z",
+    "nameWithOwner": "coffebar/neovim-project",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neovim-project",
+  "owner": "coffebar",
+  "url": "https://github.com/coffebar/neovim-project"
+}

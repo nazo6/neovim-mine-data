@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Rust"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-09-20T03:37:51Z",
+    "description": "Experimental Lua/Nvim bindings for the leptos-reactive rust crate",
+    "isArchived": false,
+    "lastCommit": "2023-09-22T03:41:13Z",
+    "nameWithOwner": "willothy/leptos.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "leptos.nvim",
+  "owner": "willothy",
+  "url": "https://github.com/willothy/leptos.nvim"
+}

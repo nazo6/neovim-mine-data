@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 36,
+    "commitCountLastYear": 38,
     "createdAt": "2023-06-02T11:41:57Z",
     "description": "Status line component showing the number of LSP definition and reference of the token under the cursor.",
     "isArchived": false,
-    "lastCommit": "2023-08-13T16:26:20Z",
+    "lastCommit": "2023-09-18T11:36:27Z",
     "nameWithOwner": "chrisgrieser/nvim-dr-lsp",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 11,
+    "star": 16,
     "topics": [
       "lsp",
       "nvim-plugin",

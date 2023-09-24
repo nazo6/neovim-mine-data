@@ -8,38 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Window"
+          "name": "Development environment"
         },
         {
           "level": 3,
-          "name": "Window Management"
+          "name": "Hardware"
         },
         {
           "level": 4,
-          "name": "layout"
+          "name": "Microcomputer"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "integration-apps.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2022-11-18T12:27:34Z",
-    "description": null,
+    "commitCountLastYear": 17,
+    "createdAt": "2023-09-16T23:35:12Z",
+    "description": "STM32 tools neovim integration",
     "isArchived": false,
-    "lastCommit": "2022-11-29T06:45:17Z",
-    "nameWithOwner": "reanxp/nvim-window",
+    "lastCommit": "2023-09-21T15:05:23Z",
+    "nameWithOwner": "fmaggi/stm32.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 0,
+    "star": 4,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "nvim-window",
-  "owner": "reanxp",
-  "url": "https://github.com/reanxp/nvim-window"
+  "name": "stm32.nvim",
+  "owner": "fmaggi",
+  "url": "https://github.com/fmaggi/stm32.nvim"
 }

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 4,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2023-04-17T08:28:43Z",
+    "description": "🏙 Night City - A dark colorscheme for Neovim with LSP support",
+    "isArchived": false,
+    "lastCommit": "2023-09-20T13:52:30Z",
+    "nameWithOwner": "cryptomilk/nightcity.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nightcity.nvim",
+  "owner": "cryptomilk",
+  "url": "https://github.com/cryptomilk/nightcity.nvim"
+}

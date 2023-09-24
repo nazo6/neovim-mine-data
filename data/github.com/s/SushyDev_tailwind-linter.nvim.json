@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "CSS"
+        },
+        {
+          "level": 5,
+          "name": "tailwind"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-09-21T20:18:42Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-09-22T19:04:29Z",
+    "nameWithOwner": "SushyDev/tailwind-linter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tailwind-linter.nvim",
+  "owner": "SushyDev",
+  "url": "https://github.com/SushyDev/tailwind-linter.nvim"
+}

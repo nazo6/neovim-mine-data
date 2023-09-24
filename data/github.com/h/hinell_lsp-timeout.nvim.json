@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Test"
+          "name": "LSP"
         },
         {
           "level": 3,
-          "name": "Neotest adapter"
+          "name": "LSP timeout"
         }
       ],
-      "file": "test.md",
+      "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
-    "createdAt": "2023-08-02T00:38:55Z",
-    "description": null,
+    "commitCountLastYear": 1,
+    "createdAt": "2023-09-22T10:05:27Z",
+    "description": "Restart stopped LSP servers upon demand; keeps RAM usage low",
     "isArchived": false,
-    "lastCommit": "2023-08-02T01:34:50Z",
-    "nameWithOwner": "WhoIsSethDaniel/neotest-consumer-cmdline.nvim",
+    "lastCommit": "2023-09-24T10:11:45Z",
+    "nameWithOwner": "hinell/lsp-timeout.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "neotest-consumer-cmdline.nvim",
-  "owner": "WhoIsSethDaniel",
-  "url": "https://github.com/WhoIsSethDaniel/neotest-consumer-cmdline.nvim"
+  "name": "lsp-timeout.nvim",
+  "owner": "hinell",
+  "url": "https://github.com/hinell/lsp-timeout.nvim"
 }

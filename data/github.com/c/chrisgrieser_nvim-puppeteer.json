@@ -1,0 +1,63 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Editing Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2023-09-18T12:48:34Z",
+    "description": "Automatically convert strings to f-strings or template strings and back.",
+    "isArchived": false,
+    "lastCommit": "2023-09-23T11:35:16Z",
+    "nameWithOwner": "chrisgrieser/nvim-puppeteer",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "f-strings",
+      "nvim-plugin",
+      "string-manipulation",
+      "template-strings"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-puppeteer",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/nvim-puppeteer"
+}

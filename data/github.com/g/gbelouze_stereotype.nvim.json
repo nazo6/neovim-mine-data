@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Typing"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-09-20T01:45:10Z",
+    "description": "Minimalistic neovim plugin for type training inside your favourite editor",
+    "isArchived": false,
+    "lastCommit": "2023-09-20T23:37:46Z",
+    "nameWithOwner": "gbelouze/stereotype.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stereotype.nvim",
+  "owner": "gbelouze",
+  "url": "https://github.com/gbelouze/stereotype.nvim"
+}

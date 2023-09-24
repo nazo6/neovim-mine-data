@@ -7,15 +7,15 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Project"
+          "level": 2,
+          "name": "Lint"
         },
         {
-          "level": 4,
-          "name": "Project Switcher"
+          "level": 3,
+          "name": "Ignore"
         }
       ],
-      "file": "project.md",
+      "file": "linter_formatter.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,7 +30,15 @@
         },
         {
           "level": 3,
-          "name": "Project"
+          "name": "LSP"
+        },
+        {
+          "level": 4,
+          "name": "(requires Neovim 0.5)"
+        },
+        {
+          "level": 5,
+          "name": "Diagnostics"
         }
       ],
       "file": "README.md",
@@ -38,23 +46,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
-    "createdAt": "2023-01-26T06:21:23Z",
-    "description": "Multi-project management, switch pwd automatically.",
+    "commitCountLastYear": 51,
+    "createdAt": "2023-09-21T14:38:06Z",
+    "description": "Add inline-comments to ignore rules, or lookup rule documentation online.",
     "isArchived": false,
-    "lastCommit": "2023-01-27T06:46:13Z",
-    "nameWithOwner": "jinzhongjia/PS_manager.nvim",
+    "lastCommit": "2023-09-23T11:46:43Z",
+    "nameWithOwner": "chrisgrieser/nvim-rulebook",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 5,
     "topics": [
-      "neovim-plugin"
+      "linter-plugin",
+      "nvim-plugin",
+      "ignore-diagnostic"
     ]
   },
   "domain": "github.com",
-  "name": "PS_manager.nvim",
-  "owner": "jinzhongjia",
-  "url": "https://github.com/jinzhongjia/PS_manager.nvim"
+  "name": "nvim-rulebook",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/nvim-rulebook"
 }

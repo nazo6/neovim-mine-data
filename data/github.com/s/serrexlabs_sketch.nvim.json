@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2023-09-16T11:24:07Z",
+    "description": "Simplify code execution in Neovim. Run and test code snippets effortlessly in various languages, enhancing your coding workflow",
+    "isArchived": false,
+    "lastCommit": "2023-09-19T06:09:10Z",
+    "nameWithOwner": "serrexlabs/sketch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sketch.nvim",
+  "owner": "serrexlabs",
+  "url": "https://github.com/serrexlabs/sketch.nvim"
+}

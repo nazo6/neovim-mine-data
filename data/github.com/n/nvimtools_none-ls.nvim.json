@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "null-ls fork"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 304,
+    "createdAt": "2023-08-30T06:45:33Z",
+    "description": "null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-09-22T05:04:03Z",
+    "nameWithOwner": "nvimtools/none-ls.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 45,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "none-ls.nvim",
+  "owner": "nvimtools",
+  "url": "https://github.com/nvimtools/none-ls.nvim"
+}

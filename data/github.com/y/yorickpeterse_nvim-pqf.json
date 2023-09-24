@@ -1,0 +1,62 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Debugging"
+        },
+        {
+          "level": 4,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-03-16T00:36:06Z",
+    "description": "Prettier quickfix/location list windows for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-07-24T17:03:07Z",
+    "nameWithOwner": "yorickpeterse/nvim-pqf",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+      "neovim",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pqf",
+  "owner": "yorickpeterse",
+  "url": "https://github.com/yorickpeterse/nvim-pqf"
+}

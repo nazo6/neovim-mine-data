@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-09-19T05:07:09Z",
+    "description": "Simple todo motions to neovim",
+    "isArchived": false,
+    "lastCommit": "2023-09-19T05:33:58Z",
+    "nameWithOwner": "mariogarridopt/todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "todolist",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "mariogarridopt",
+  "url": "https://github.com/mariogarridopt/todo.nvim"
+}

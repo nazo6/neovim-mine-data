@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "OpenAI"
+        },
+        {
+          "level": 5,
+          "name": "Generate Doc"
+        },
+        {
+          "level": 6,
+          "name": "Mintlify Writer"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-09-20T21:20:24Z",
+    "description": "An unofficial implementation of Mintlify Writer",
+    "isArchived": false,
+    "lastCommit": "2023-09-21T08:08:07Z",
+    "nameWithOwner": "moozd/aidoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "aidoc.nvim",
+  "owner": "moozd",
+  "url": "https://github.com/moozd/aidoc.nvim"
+}

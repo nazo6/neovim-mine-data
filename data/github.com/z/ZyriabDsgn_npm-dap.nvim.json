@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-09-16T14:19:52Z",
+    "description": "Run your npm scripts from the debugger dialog",
+    "isArchived": false,
+    "lastCommit": "2023-09-22T18:53:05Z",
+    "nameWithOwner": "ZyriabDsgn/npm-dap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "npm-dap.nvim",
+  "owner": "ZyriabDsgn",
+  "url": "https://github.com/ZyriabDsgn/npm-dap.nvim"
+}

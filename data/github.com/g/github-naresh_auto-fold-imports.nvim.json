@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-09-21T06:52:00Z",
+    "description": "auto fold import statements in js and ts files",
+    "isArchived": false,
+    "lastCommit": "2023-09-22T06:47:25Z",
+    "nameWithOwner": "github-naresh/auto-fold-imports.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-fold-imports.nvim",
+  "owner": "github-naresh",
+  "url": "https://github.com/github-naresh/auto-fold-imports.nvim"
+}

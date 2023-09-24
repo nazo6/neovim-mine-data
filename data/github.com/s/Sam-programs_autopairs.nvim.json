@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 67,
+    "commitCountLastYear": 131,
     "createdAt": "2023-09-15T12:17:57Z",
-    "description": null,
+    "description": "an autopairs plugin focussed on never leaving insert mode",
     "isArchived": false,
-    "lastCommit": "2023-09-17T09:39:46Z",
+    "lastCommit": "2023-09-23T15:59:51Z",
     "nameWithOwner": "Sam-programs/autopairs.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,10 @@
     },
     "star": 2,
     "topics": [
+      "neovim-plugin",
+      "autopairs",
+      "lua",
+      "smooth"
     ]
   },
   "domain": "github.com",

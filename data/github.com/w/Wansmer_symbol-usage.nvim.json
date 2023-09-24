@@ -1,0 +1,67 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Definition, Reference"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        },
+        {
+          "level": 4,
+          "name": "(requires Neovim 0.5)"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2023-09-17T14:37:42Z",
+    "description": "Display references, definitions and implementations of document symbols",
+    "isArchived": false,
+    "lastCommit": "2023-09-22T08:00:45Z",
+    "nameWithOwner": "Wansmer/symbol-usage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 55,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "symbol-usage.nvim",
+  "owner": "Wansmer",
+  "url": "https://github.com/Wansmer/symbol-usage.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "R"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-09-18T08:28:12Z",
+    "description": "Plugin for making a TOC navigator, similar to the one in RStudio",
+    "isArchived": false,
+    "lastCommit": "2023-09-22T11:26:28Z",
+    "nameWithOwner": "jumanbar/tocnavigator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tocnavigator.nvim",
+  "owner": "jumanbar",
+  "url": "https://github.com/jumanbar/tocnavigator.nvim"
+}
