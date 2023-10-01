@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 21,
     "createdAt": "2023-08-14T14:16:02Z",
-    "description": null,
+    "description": "Neovim notes plugin based of Dendron",
     "isArchived": false,
-    "lastCommit": "2023-09-04T01:58:51Z",
+    "lastCommit": "2023-09-27T17:36:13Z",
     "nameWithOwner": "JoeKleinsorge/nvim-notes",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,12 @@
     },
     "star": 2,
     "topics": [
+      "dendron",
+      "lua",
+      "markdown",
+      "neovim",
+      "notes",
+      "nvim"
     ]
   },
   "domain": "github.com",

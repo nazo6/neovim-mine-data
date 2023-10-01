@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2023-09-22T10:05:27Z",
-    "description": "Restart stopped LSP servers upon demand; keeps RAM usage low",
+    "description": "Start/stop LSP servers upon demand; keeps RAM usage low",
     "isArchived": false,
-    "lastCommit": "2023-09-24T10:11:45Z",
+    "lastCommit": "2023-09-30T21:57:22Z",
     "nameWithOwner": "hinell/lsp-timeout.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 16,
     "topics": [
     ]
   },

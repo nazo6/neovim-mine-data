@@ -4,34 +4,34 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "GitHub"
         },
         {
           "level": 2,
-          "name": "Obsidian"
+          "name": "Pull Request"
         }
       ],
-      "file": "note-taking.md",
+      "file": "git-github.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 4,
-    "createdAt": "2023-09-17T16:17:18Z",
+    "createdAt": "2023-09-26T23:37:23Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-09-22T14:50:21Z",
-    "nameWithOwner": "oflisback/obsidian-sync.nvim",
+    "lastCommit": "2023-09-27T00:14:43Z",
+    "nameWithOwner": "josephwoodward/github-pr.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 14,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "obsidian-sync.nvim",
-  "owner": "oflisback",
-  "url": "https://github.com/oflisback/obsidian-sync.nvim"
+  "name": "github-pr.nvim",
+  "owner": "josephwoodward",
+  "url": "https://github.com/josephwoodward/github-pr.nvim"
 }

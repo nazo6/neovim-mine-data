@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-09-29T01:20:57Z",
+    "description": "Table view for data files",
+    "isArchived": false,
+    "lastCommit": "2023-09-29T08:14:34Z",
+    "nameWithOwner": "VidocqH/data-viewer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "data-viewer.nvim",
+  "owner": "VidocqH",
+  "url": "https://github.com/VidocqH/data-viewer.nvim"
+}

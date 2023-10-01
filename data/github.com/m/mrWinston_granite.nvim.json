@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-09-23T07:18:01Z",
+    "description": "Lightweight note taking plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-09-29T13:42:49Z",
+    "nameWithOwner": "mrWinston/granite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "granite.nvim",
+  "owner": "mrWinston",
+  "url": "https://github.com/mrWinston/granite.nvim"
+}

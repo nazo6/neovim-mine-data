@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2023-09-25T20:12:39Z",
+    "description": "Neovim harpoon like plugin, but only the core bits",
+    "isArchived": false,
+    "lastCommit": "2023-10-01T08:20:47Z",
+    "nameWithOwner": "MeanderingProgrammer/harpoon-core.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "harpoon",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "harpoon-core.nvim",
+  "owner": "MeanderingProgrammer",
+  "url": "https://github.com/MeanderingProgrammer/harpoon-core.nvim"
+}

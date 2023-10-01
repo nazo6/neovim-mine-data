@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-09-10T13:59:10Z",
+    "description": "Dap configuration for the record and replay debugger. Supports Rust, C++ and C.",
+    "isArchived": false,
+    "lastCommit": "2023-09-10T20:16:13Z",
+    "nameWithOwner": "jonboh/nvim-dap-rr",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "c",
+      "cpp",
+      "nvim",
+      "rr",
+      "rust"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-rr",
+  "owner": "jonboh",
+  "url": "https://github.com/jonboh/nvim-dap-rr"
+}

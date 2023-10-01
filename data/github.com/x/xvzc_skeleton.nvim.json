@@ -16,21 +16,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 36,
     "createdAt": "2023-01-11T08:15:11Z",
     "description": "Simply load your neovim templates with dynamically generated resources",
     "isArchived": false,
-    "lastCommit": "2023-07-02T13:39:34Z",
+    "lastCommit": "2023-09-28T17:58:18Z",
     "nameWithOwner": "xvzc/skeleton.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 8,
     "topics": [
       "neovim",
       "template",
-      "template-engine"
+      "neovim-plugin",
+      "template-plugin"
     ]
   },
   "domain": "github.com",

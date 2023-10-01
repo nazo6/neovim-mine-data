@@ -70,17 +70,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 991,
+    "commitCountLastYear": 839,
     "createdAt": "2022-09-21T19:32:33Z",
     "description": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
     "isArchived": false,
-    "lastCommit": "2023-08-30T07:22:44Z",
+    "lastCommit": "2023-09-25T08:30:05Z",
     "nameWithOwner": "folke/noice.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2822,
+    "star": 2840,
     "topics": [
       "neovim-lua-plugin",
       "neovim-plugin",

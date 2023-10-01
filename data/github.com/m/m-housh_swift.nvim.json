@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Swift"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-09-24T15:37:06Z",
+    "description": "A lua plugin for swift development in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-09-24T19:09:05Z",
+    "nameWithOwner": "m-housh/swift.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "swift.nvim",
+  "owner": "m-housh",
+  "url": "https://github.com/m-housh/swift.nvim"
+}

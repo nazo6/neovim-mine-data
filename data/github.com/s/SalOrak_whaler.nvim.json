@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-09-28T19:01:31Z",
+    "description": "Telescope extension to fuzzy find and search subdirectories of specific directoris. ",
+    "isArchived": false,
+    "lastCommit": "2023-09-30T21:55:16Z",
+    "nameWithOwner": "SalOrak/whaler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "whaler.nvim",
+  "owner": "SalOrak",
+  "url": "https://github.com/SalOrak/whaler.nvim"
+}

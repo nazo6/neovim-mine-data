@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        },
+        {
+          "level": 3,
+          "name": "Formatter switcher"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-09-27T07:45:39Z",
+    "description": "Neovim plugin to select which language server to format with.",
+    "isArchived": false,
+    "lastCommit": "2023-09-29T11:10:40Z",
+    "nameWithOwner": "fmbarina/pick-lsp-formatter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pick-lsp-formatter.nvim",
+  "owner": "fmbarina",
+  "url": "https://github.com/fmbarina/pick-lsp-formatter.nvim"
+}

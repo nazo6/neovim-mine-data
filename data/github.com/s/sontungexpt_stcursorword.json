@@ -1,0 +1,72 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Current word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Bars and Lines"
+        },
+        {
+          "level": 4,
+          "name": "Cursorline"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2023-09-24T10:38:22Z",
+    "description": "A concise, precise, and high-performance cursor word highlighting plugin for Neovim, implemented in Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-09-30T00:04:35Z",
+    "nameWithOwner": "sontungexpt/stcursorword",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "cursorline",
+      "cursorword",
+      "lua",
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-dotfiles",
+      "neovim-plugin",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "stcursorword",
+  "owner": "sontungexpt",
+  "url": "https://github.com/sontungexpt/stcursorword"
+}

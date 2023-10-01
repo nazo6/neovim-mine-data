@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "paste.rs"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-08-30T21:49:53Z",
+    "description": "Easily upload and share code snippets to paste.rs via Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-09-02T00:46:00Z",
+    "nameWithOwner": "dfendr/trozo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "trozo.nvim",
+  "owner": "dfendr",
+  "url": "https://github.com/postfen/trozo.nvim"
+}

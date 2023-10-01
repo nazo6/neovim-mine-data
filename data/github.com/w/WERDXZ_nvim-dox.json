@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        },
+        {
+          "level": 4,
+          "name": "Docstring"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2023-09-25T07:37:43Z",
+    "description": "A Pure Lua Docstring Generator for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-09-29T06:21:37Z",
+    "nameWithOwner": "WERDXZ/nvim-dox",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "docstring",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "annotation",
+      "comments"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dox",
+  "owner": "WERDXZ",
+  "url": "https://github.com/WERDXZ/nvim-dox"
+}

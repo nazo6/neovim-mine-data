@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Textobject"
+        },
+        {
+          "level": 3,
+          "name": "Duplicate"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-09-24T09:39:48Z",
+    "description": "Duplicate visual selection, lines, and textobjects",
+    "isArchived": false,
+    "lastCommit": "2023-09-30T20:14:37Z",
+    "nameWithOwner": "hinell/duplicate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "duplicate.nvim",
+  "owner": "hinell",
+  "url": "https://github.com/hinell/duplicate.nvim"
+}

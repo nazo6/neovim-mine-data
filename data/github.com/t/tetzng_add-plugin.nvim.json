@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 2,
     "createdAt": "2023-09-08T06:21:53Z",
-    "description": null,
+    "description": "A Neovim plugin to easily create new Lua plugin files.",
     "isArchived": false,
     "lastCommit": "2023-09-08T06:32:37Z",
     "nameWithOwner": "tetzng/add-plugin.nvim",
@@ -32,6 +32,8 @@
     },
     "star": 1,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

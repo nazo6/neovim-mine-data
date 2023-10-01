@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-09-29T20:39:04Z",
+    "description": "Harpoon-like mark manager for Neovim, backed by SQLite (WIP)",
+    "isArchived": false,
+    "lastCommit": "2023-10-01T04:00:12Z",
+    "nameWithOwner": "willothy/wrangler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wrangler.nvim",
+  "owner": "willothy",
+  "url": "https://github.com/willothy/wrangler.nvim"
+}

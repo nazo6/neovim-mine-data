@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Lua"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-09-24T20:10:10Z",
+    "description": "Generate a README.md for your Neovim configuration repo",
+    "isArchived": false,
+    "lastCommit": "2023-09-27T17:29:11Z",
+    "nameWithOwner": "NStefan002/mdmaker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "readme-generator"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdmaker.nvim",
+  "owner": "NStefan002",
+  "url": "https://github.com/NStefan002/mdmaker.nvim"
+}

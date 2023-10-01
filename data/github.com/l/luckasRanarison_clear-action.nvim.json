@@ -8,38 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
+          "name": "LSP"
         },
         {
           "level": 3,
-          "name": "Web"
+          "name": "LSP Feature Extension UI"
         },
         {
           "level": 4,
-          "name": "paste.rs"
+          "name": "Code action"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
-    "createdAt": "2023-08-30T21:49:53Z",
-    "description": "Easily upload and share code snippets to paste.rs via Neovim",
+    "commitCountLastYear": 13,
+    "createdAt": "2023-09-29T03:55:05Z",
+    "description": "Predictable LSP code actions",
     "isArchived": false,
-    "lastCommit": "2023-09-02T00:46:00Z",
-    "nameWithOwner": "postfen/trozo.nvim",
+    "lastCommit": "2023-10-01T04:48:22Z",
+    "nameWithOwner": "luckasRanarison/clear-action.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 28,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "trozo.nvim",
-  "owner": "postfen",
-  "url": "https://github.com/postfen/trozo.nvim"
+  "name": "clear-action.nvim",
+  "owner": "luckasRanarison",
+  "url": "https://github.com/luckasRanarison/clear-action.nvim"
 }
