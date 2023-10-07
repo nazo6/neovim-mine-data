@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-09-30T20:17:29Z",
+    "description": "A plugin manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-09-30T20:27:16Z",
+    "nameWithOwner": "MisanthropicBit/parcel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "parcel.nvim",
+  "owner": "MisanthropicBit",
+  "url": "https://github.com/MisanthropicBit/parcel.nvim"
+}

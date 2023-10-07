@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2023-10-01T10:18:49Z",
+    "description": "Easily enable/disable multiple plugins using lazy.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-10-06T17:26:48Z",
+    "nameWithOwner": "abeldekat/lazyflex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lazy-loading",
+      "lua",
+      "neovim-plugin",
+      "nvim",
+      "neovim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazyflex.nvim",
+  "owner": "abeldekat",
+  "url": "https://github.com/abeldekat/lazyflex.nvim"
+}

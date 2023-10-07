@@ -42,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 210,
+    "commitCountLastYear": 206,
     "createdAt": "2021-03-10T10:23:02Z",
     "description": "A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.",
     "isArchived": false,
-    "lastCommit": "2023-09-30T02:39:51Z",
+    "lastCommit": "2023-10-02T23:51:31Z",
     "nameWithOwner": "ray-x/go.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1290,
+    "star": 1299,
     "topics": [
       "neovim",
       "nvim",

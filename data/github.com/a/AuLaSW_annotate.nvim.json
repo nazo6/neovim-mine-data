@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Special Comment"
+        },
+        {
+          "level": 4,
+          "name": "Annotation"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-09-30T17:58:07Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-09-30T18:21:31Z",
+    "nameWithOwner": "AuLaSW/annotate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "annotate.nvim",
+  "owner": "AuLaSW",
+  "url": "https://github.com/AuLaSW/annotate.nvim"
+}

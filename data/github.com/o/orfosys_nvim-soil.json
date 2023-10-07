@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 94,
+    "commitCountLastYear": 96,
     "createdAt": "2023-02-02T02:22:02Z",
     "description": "Neovim plugin written in Lua for Plant UML",
     "isArchived": false,
-    "lastCommit": "2023-08-07T17:23:42Z",
-    "nameWithOwner": "javiorfo/nvim-soil",
+    "lastCommit": "2023-10-06T22:31:06Z",
+    "nameWithOwner": "orfosys/nvim-soil",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 26,
+    "star": 27,
     "topics": [
       "neovim",
       "neovim-plugin",
@@ -40,6 +40,6 @@
   },
   "domain": "github.com",
   "name": "nvim-soil",
-  "owner": "javiorfo",
+  "owner": "orfosys",
   "url": "https://github.com/javio7/nvim-modelizer"
 }

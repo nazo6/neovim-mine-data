@@ -42,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 25,
     "createdAt": "2022-04-13T01:11:59Z",
     "description": "A plugin for Neovim that helps you surf through your document and move elements around using the nvim-treesitter API.",
     "isArchived": false,
-    "lastCommit": "2023-07-29T22:46:27Z",
+    "lastCommit": "2023-10-06T14:27:32Z",
     "nameWithOwner": "ziontee113/syntax-tree-surfer",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 418,
+    "star": 419,
     "topics": [
       "lua",
       "neovim",

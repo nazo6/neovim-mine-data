@@ -17,6 +17,24 @@
       ],
       "file": "textobject_operator.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "Editing Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -24,13 +42,13 @@
     "createdAt": "2023-01-26T18:41:56Z",
     "description": "Gain the power to move lines and blocks and auto-indent them!",
     "isArchived": false,
-    "lastCommit": "2023-09-15T19:51:30Z",
+    "lastCommit": "2023-10-06T04:43:06Z",
     "nameWithOwner": "hinell/move.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 0,
+    "star": 3,
     "topics": [
     ]
   },

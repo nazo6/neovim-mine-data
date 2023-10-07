@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-09-30T15:15:18Z",
+    "description": "Updates Premeagen repo so that it works on Windows (and Windows only)",
+    "isArchived": false,
+    "lastCommit": "2023-09-30T15:32:35Z",
+    "nameWithOwner": "GitEdvard/git-worktree.windows.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-worktree.windows.nvim",
+  "owner": "GitEdvard",
+  "url": "https://github.com/GitEdvard/git-worktree.windows.nvim"
+}

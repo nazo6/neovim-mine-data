@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CI"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-10-02T07:52:20Z",
+    "description": "A template for Neovim plugin CI with GitHub actions",
+    "isArchived": false,
+    "lastCommit": "2023-10-02T08:12:58Z",
+    "nameWithOwner": "lukas-reineke/ci-template.nvim",
+    "primaryLanguage": {
+      "color": "#427819",
+      "name": "Makefile"
+    },
+    "star": 11,
+    "topics": [
+      "github",
+      "github-actions",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ci-template.nvim",
+  "owner": "lukas-reineke",
+  "url": "https://github.com/lukas-reineke/ci-template.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Drupal"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2023-09-30T15:18:29Z",
+    "description": "Shorthands for generating code when working with drupal.",
+    "isArchived": false,
+    "lastCommit": "2023-10-06T17:53:31Z",
+    "nameWithOwner": "everynameistaken1/nvim-drupal-sh",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-drupal-sh",
+  "owner": "everynameistaken1",
+  "url": "https://github.com/everynameistaken1/nvim-drupal-sh"
+}

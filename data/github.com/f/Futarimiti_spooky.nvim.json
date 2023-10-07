@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2023-09-30T10:33:55Z",
+    "description": "Spooky scary skeletons",
+    "isArchived": false,
+    "lastCommit": "2023-10-06T22:11:27Z",
+    "nameWithOwner": "Futarimiti/spooky.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spooky.nvim",
+  "owner": "Futarimiti",
+  "url": "https://github.com/Futarimiti/spooky.nvim"
+}

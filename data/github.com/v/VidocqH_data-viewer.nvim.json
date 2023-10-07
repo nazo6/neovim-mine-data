@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 19,
     "createdAt": "2023-09-29T01:20:57Z",
-    "description": "Table view for data files",
+    "description": "Table view for data files, csv, tsv",
     "isArchived": false,
-    "lastCommit": "2023-09-29T08:14:34Z",
+    "lastCommit": "2023-10-01T21:49:08Z",
     "nameWithOwner": "VidocqH/data-viewer.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,11 @@
     },
     "star": 2,
     "topics": [
+      "csv",
+      "neovim-plugin",
+      "nvim-plugin",
+      "tableview",
+      "tsv"
     ]
   },
   "domain": "github.com",

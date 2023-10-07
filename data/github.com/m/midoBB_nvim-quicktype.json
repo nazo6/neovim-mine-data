@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-09-30T17:14:58Z",
+    "description": "My first attempt at writing a neovim plugin.",
+    "isArchived": false,
+    "lastCommit": "2023-09-30T21:36:05Z",
+    "nameWithOwner": "midoBB/nvim-quicktype",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-quicktype",
+  "owner": "midoBB",
+  "url": "https://github.com/midoBB/nvim-quicktype"
+}

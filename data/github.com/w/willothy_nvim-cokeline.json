@@ -34,24 +34,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 91,
+    "commitCountLastYear": 105,
     "createdAt": "2021-04-29T21:36:25Z",
     "description": ":nose: A Neovim bufferline for people with addictive personalities",
     "isArchived": false,
-    "lastCommit": "2023-09-25T11:04:12Z",
+    "lastCommit": "2023-10-04T23:00:37Z",
     "nameWithOwner": "willothy/nvim-cokeline",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 393,
+    "star": 394,
     "topics": [
       "neovim",
       "neovim-plugin",
       "neovim-lua",
       "bufferline",
       "lua",
-      "tabline"
+      "tabline",
+      "hacktoberfest"
     ]
   },
   "domain": "github.com",

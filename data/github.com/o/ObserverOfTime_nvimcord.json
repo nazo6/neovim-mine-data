@@ -24,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 14,
     "createdAt": "2022-03-19T13:34:35Z",
     "description": "Another Neovim Discord RPC plugin",
     "isArchived": false,
@@ -40,7 +40,8 @@
       "neovim-plugin",
       "nvim-lua",
       "discord",
-      "discord-rpc"
+      "discord-rpc",
+      "hacktoberfest"
     ]
   },
   "domain": "github.com",

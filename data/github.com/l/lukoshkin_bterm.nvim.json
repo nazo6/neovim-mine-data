@@ -8,41 +8,36 @@
         },
         {
           "level": 2,
-          "name": "Buffer"
+          "name": "Terminal"
         },
         {
           "level": 3,
-          "name": "Buffer Management"
-        },
-        {
-          "level": 4,
-          "name": "create"
+          "name": "Terminal Enhancement"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "terminal.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 2,
-    "createdAt": "2023-09-03T11:30:40Z",
-    "description": null,
+    "createdAt": "2022-07-01T13:01:01Z",
+    "description": "Simple terminal toggle in Neovim",
     "isArchived": false,
-    "lastCommit": "2023-09-10T18:10:07Z",
-    "nameWithOwner": "lpoto/buffers.nvim",
+    "lastCommit": "2023-10-04T19:47:31Z",
+    "nameWithOwner": "lukoshkin/bterm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
     "star": 1,
     "topics": [
-      "lua",
-      "neovim",
-      "neovim-plugin"
+      "neovim-lua-plugin",
+      "vim-terminal"
     ]
   },
   "domain": "github.com",
-  "name": "buffers.nvim",
-  "owner": "lpoto",
-  "url": "https://github.com/lpoto/buffers.nvim"
+  "name": "bterm.nvim",
+  "owner": "lukoshkin",
+  "url": "https://github.com/lukoshkin/bterm.nvim"
 }

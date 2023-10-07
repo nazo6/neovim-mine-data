@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2023-10-03T12:35:58Z",
+    "description": "Manage projects within workspaces using Tmux sessions",
+    "isArchived": false,
+    "lastCommit": "2023-10-06T15:34:14Z",
+    "nameWithOwner": "sanathks/workspace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "workspace.nvim",
+  "owner": "sanathks",
+  "url": "https://github.com/sanathks/workspace.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Framework"
+        },
+        {
+          "level": 5,
+          "name": "Svelte"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-10-03T16:23:18Z",
+    "description": "Jump between route files in Svelte and keep an overview in your statusbar.",
+    "isArchived": false,
+    "lastCommit": "2023-10-06T00:43:35Z",
+    "nameWithOwner": "weskeiser/svelte-hop.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "svelte-hop.nvim",
+  "owner": "weskeiser",
+  "url": "https://github.com/weskeiser/svelte-hop.nvim"
+}

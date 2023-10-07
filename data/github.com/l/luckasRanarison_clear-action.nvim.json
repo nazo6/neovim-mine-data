@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 18,
     "createdAt": "2023-09-29T03:55:05Z",
     "description": "Predictable LSP code actions",
     "isArchived": false,
-    "lastCommit": "2023-10-01T04:48:22Z",
+    "lastCommit": "2023-10-07T02:13:10Z",
     "nameWithOwner": "luckasRanarison/clear-action.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -36,6 +36,9 @@
     },
     "star": 28,
     "topics": [
+      "code-action",
+      "lsp",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

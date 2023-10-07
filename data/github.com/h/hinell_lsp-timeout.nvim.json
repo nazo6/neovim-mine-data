@@ -17,6 +17,28 @@
       ],
       "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        },
+        {
+          "level": 4,
+          "name": "(requires Neovim 0.5)"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -24,13 +46,13 @@
     "createdAt": "2023-09-22T10:05:27Z",
     "description": "Start/stop LSP servers upon demand; keeps RAM usage low",
     "isArchived": false,
-    "lastCommit": "2023-09-30T21:57:22Z",
+    "lastCommit": "2023-10-06T18:16:46Z",
     "nameWithOwner": "hinell/lsp-timeout.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 22,
     "topics": [
     ]
   },

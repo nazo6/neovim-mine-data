@@ -4,15 +4,15 @@
       "data": [
         {
           "level": 1,
-          "name": "GitHub"
+          "name": "Git"
         },
         {
           "level": 2,
-          "name": "Link"
+          "name": "git commit"
         },
         {
           "level": 3,
-          "name": "Organization"
+          "name": "prefix"
         }
       ],
       "file": "git-github.md",
@@ -20,12 +20,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
-    "createdAt": "2023-09-02T19:19:53Z",
+    "commitCountLastYear": 8,
+    "createdAt": "2023-10-02T12:58:10Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-09-10T19:26:48Z",
-    "nameWithOwner": "xixiaofinland/sf.nvim",
+    "lastCommit": "2023-10-02T13:43:01Z",
+    "nameWithOwner": "mjacobus/telescope-gitmoji.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "sf.nvim",
-  "owner": "xixiaofinland",
-  "url": "https://github.com/xixiaofinland/force.nvim"
+  "name": "telescope-gitmoji.nvim",
+  "owner": "mjacobus",
+  "url": "https://github.com/mjacobus/telescope-gitmoji.nvim"
 }
