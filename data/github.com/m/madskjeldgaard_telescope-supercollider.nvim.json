@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Audio"
+        },
+        {
+          "level": 4,
+          "name": "SuperCollider"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-10-06T09:46:29Z",
+    "description": "Telescope extension for SuperCollider",
+    "isArchived": false,
+    "lastCommit": "2023-10-07T19:59:45Z",
+    "nameWithOwner": "madskjeldgaard/telescope-supercollider.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "nvim",
+      "supercollider",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-supercollider.nvim",
+  "owner": "madskjeldgaard",
+  "url": "https://github.com/madskjeldgaard/telescope-supercollider.nvim"
+}

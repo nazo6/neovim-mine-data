@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Tabline"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-10-06T08:55:04Z",
+    "description": "Clean tabline for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-06T11:01:59Z",
+    "nameWithOwner": "jryom/nvim-tabulous",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tabulous",
+  "owner": "jryom",
+  "url": "https://github.com/jryom/nvim-tabulous"
+}

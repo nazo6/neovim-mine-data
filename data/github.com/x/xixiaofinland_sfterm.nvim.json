@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Salesforce"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-10-05T22:23:47Z",
+    "description": "A integrated terminal to run sf commands",
+    "isArchived": false,
+    "lastCommit": "2023-10-07T14:50:12Z",
+    "nameWithOwner": "xixiaofinland/sfterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sfterm.nvim",
+  "owner": "xixiaofinland",
+  "url": "https://github.com/xixiaofinland/sfterm.nvim"
+}

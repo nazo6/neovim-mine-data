@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Tabline"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-10-05T15:40:33Z",
+    "description": "Minimal automatic tabline for neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-10-05T15:58:17Z",
+    "nameWithOwner": "mgnsk/autotabline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "autotabline.nvim",
+  "owner": "mgnsk",
+  "url": "https://github.com/mgnsk/autotabline.nvim"
+}

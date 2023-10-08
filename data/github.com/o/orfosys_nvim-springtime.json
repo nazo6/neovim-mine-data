@@ -8,11 +8,7 @@
         },
         {
           "level": 2,
-          "name": "UI"
-        },
-        {
-          "level": 3,
-          "name": "Popup"
+          "name": "Util wrapper"
         }
       ],
       "file": "neovim-lua-library.md",
@@ -26,7 +22,11 @@
         },
         {
           "level": 2,
-          "name": "Util wrapper"
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Popup"
         }
       ],
       "file": "neovim-lua-library.md",
@@ -60,5 +60,5 @@
   "domain": "github.com",
   "name": "nvim-springtime",
   "owner": "orfosys",
-  "url": "https://github.com/javio7/nvim-popcorn"
+  "url": "https://github.com/javio7/nvim-osfa"
 }

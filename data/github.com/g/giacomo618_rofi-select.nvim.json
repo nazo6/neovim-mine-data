@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "OS"
+        },
+        {
+          "level": 4,
+          "name": "Linux"
+        },
+        {
+          "level": 5,
+          "name": "Rofi"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-10-06T09:14:38Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-10-06T09:43:19Z",
+    "nameWithOwner": "giacomo618/rofi-select.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rofi-select.nvim",
+  "owner": "giacomo618",
+  "url": "https://github.com/giacomo618/rofi-select.nvim"
+}

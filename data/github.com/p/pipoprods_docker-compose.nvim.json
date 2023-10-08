@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Docker"
+        },
+        {
+          "level": 5,
+          "name": "Docker Compose"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-10-05T06:32:23Z",
+    "description": "Docker-compose intergration into Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-05T08:20:24Z",
+    "nameWithOwner": "pipoprods/docker-compose.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "docker-compose.nvim",
+  "owner": "pipoprods",
+  "url": "https://github.com/pipoprods/docker-compose.nvim"
+}

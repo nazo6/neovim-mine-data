@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Salesforce"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-10-05T22:33:44Z",
+    "description": "Fetch Salesforce org info and set target org",
+    "isArchived": false,
+    "lastCommit": "2023-10-05T23:29:53Z",
+    "nameWithOwner": "xixiaofinland/sforg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sforg.nvim",
+  "owner": "xixiaofinland",
+  "url": "https://github.com/xixiaofinland/sforg.nvim"
+}

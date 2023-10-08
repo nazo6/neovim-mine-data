@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Moonbit"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-10-06T14:47:45Z",
+    "description": "Neovim plugin for Moonbit",
+    "isArchived": false,
+    "lastCommit": "2023-10-07T14:55:15Z",
+    "nameWithOwner": "tonyfettes/moonbit.nvim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "moonbit.nvim",
+  "owner": "tonyfettes",
+  "url": "https://github.com/tonyfettes/moonbit.nvim"
+}

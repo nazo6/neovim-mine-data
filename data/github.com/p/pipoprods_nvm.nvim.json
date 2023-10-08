@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Toolchain"
+        },
+        {
+          "level": 5,
+          "name": "Task Runner"
+        },
+        {
+          "level": 6,
+          "name": "npm"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-10-05T06:40:55Z",
+    "description": "Node Version Manager integration into Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-05T08:19:29Z",
+    "nameWithOwner": "pipoprods/nvm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvm.nvim",
+  "owner": "pipoprods",
+  "url": "https://github.com/pipoprods/nvm.nvim"
+}
