@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "WezTerm"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2023-10-09T05:09:40Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-10-10T12:59:12Z",
+    "nameWithOwner": "winter-again/wezterm-config.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wezterm-config.nvim",
+  "owner": "winter-again",
+  "url": "https://github.com/winter-again/wezterm-config.nvim"
+}

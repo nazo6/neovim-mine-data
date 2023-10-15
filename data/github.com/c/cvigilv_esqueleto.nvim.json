@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "CLI"
         },
@@ -19,16 +15,16 @@
           "name": "Skeleton"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 59,
+    "commitCountLastYear": 82,
     "createdAt": "2022-11-25T15:45:58Z",
     "description": "Reduce your boilerplate code the lazy-bones way",
     "isArchived": false,
-    "lastCommit": "2023-04-09T03:51:43Z",
+    "lastCommit": "2023-10-11T14:28:07Z",
     "nameWithOwner": "cvigilv/esqueleto.nvim",
     "primaryLanguage": {
       "color": "#000080",

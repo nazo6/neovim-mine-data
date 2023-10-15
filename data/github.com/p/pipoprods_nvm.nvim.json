@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -27,16 +23,16 @@
           "name": "npm"
         }
       ],
-      "file": "language-specific.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2023-10-05T06:40:55Z",
     "description": "Node Version Manager integration into Neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-05T08:19:29Z",
+    "lastCommit": "2023-10-09T19:27:32Z",
     "nameWithOwner": "pipoprods/nvm.nvim",
     "primaryLanguage": {
       "color": "#000080",

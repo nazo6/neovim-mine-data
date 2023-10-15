@@ -52,14 +52,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Programming Languages Support"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Markdown and LaTeX"
         }
       ],
@@ -68,7 +64,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 3,
     "createdAt": "2022-05-06T02:31:58Z",
     "description": "Evaluate Neovim Lua inside Markdown",
     "isArchived": false,

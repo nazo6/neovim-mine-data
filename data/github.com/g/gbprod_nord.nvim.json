@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 50,
+    "commitCountLastYear": 57,
     "createdAt": "2022-12-01T13:29:51Z",
     "description": " An arctic, north-bluish clean and elegant Neovim theme. ",
     "isArchived": false,
-    "lastCommit": "2023-10-04T07:02:53Z",
+    "lastCommit": "2023-10-12T16:10:13Z",
     "nameWithOwner": "gbprod/nord.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 92,
+    "star": 95,
     "topics": [
       "lua",
       "neovim",

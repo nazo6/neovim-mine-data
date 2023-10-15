@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -42,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 295,
+    "commitCountLastYear": 290,
     "createdAt": "2021-03-21T05:46:20Z",
     "description": "A plugin for setting Neovim LSP with JSON or YAML files",
     "isArchived": false,
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 272,
+    "star": 273,
     "topics": [
       "neovim",
       "neovim-plugin",

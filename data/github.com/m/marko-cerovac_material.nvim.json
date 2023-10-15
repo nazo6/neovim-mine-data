@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 73,
+    "commitCountLastYear": 63,
     "createdAt": "2021-03-21T00:44:43Z",
     "description": ":trident: Material colorscheme for NeoVim written in Lua with built-in support for native LSP, TreeSitter and many more plugins",
     "isArchived": false,
-    "lastCommit": "2023-10-01T20:38:59Z",
+    "lastCommit": "2023-10-09T01:02:41Z",
     "nameWithOwner": "marko-cerovac/material.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 819,
+    "star": 823,
     "topics": [
       "neovim",
       "material",

@@ -40,10 +40,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Code Runner"
         }
       ],
@@ -52,17 +48,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 311,
+    "commitCountLastYear": 309,
     "createdAt": "2022-05-18T00:03:58Z",
     "description": "A task runner and job management plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-06T03:54:37Z",
+    "lastCommit": "2023-10-13T05:51:27Z",
     "nameWithOwner": "stevearc/overseer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 581,
+    "star": 594,
     "topics": [
       "neovim",
       "neovim-plugin",

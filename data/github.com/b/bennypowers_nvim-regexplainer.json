@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         }
       ],
@@ -38,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 13,
     "createdAt": "2022-02-16T18:45:09Z",
     "description": "Describe the regexp under the cursor",
     "isArchived": false,
-    "lastCommit": "2023-08-03T13:12:33Z",
+    "lastCommit": "2023-10-15T06:46:04Z",
     "nameWithOwner": "bennypowers/nvim-regexplainer",
     "primaryLanguage": {
       "color": "#000080",

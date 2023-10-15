@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 29,
     "createdAt": "2020-06-07T13:02:17Z",
     "description": "A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.",
     "isArchived": false,
-    "lastCommit": "2023-09-09T00:28:03Z",
+    "lastCommit": "2023-10-12T00:13:21Z",
     "nameWithOwner": "ray-x/aurora",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 252,
+    "star": 255,
     "topics": [
       "vim",
       "theme",

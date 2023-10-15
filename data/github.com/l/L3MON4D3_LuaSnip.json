@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Snippet"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 294,
+    "commitCountLastYear": 280,
     "createdAt": "2021-03-19T13:27:06Z",
     "description": "Snippet Engine for Neovim written in Lua.",
     "isArchived": false,
-    "lastCommit": "2023-10-06T16:08:39Z",
+    "lastCommit": "2023-10-12T08:33:03Z",
     "nameWithOwner": "L3MON4D3/LuaSnip",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2337,
+    "star": 2348,
     "topics": [
       "neovim",
       "snippets",

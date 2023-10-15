@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 334,
+    "commitCountLastYear": 336,
     "createdAt": "2022-12-19T13:21:41Z",
     "description": "Bundle of two dozen new text objects for Neovim.",
     "isArchived": false,
-    "lastCommit": "2023-10-07T13:59:02Z",
+    "lastCommit": "2023-10-09T03:08:55Z",
     "nameWithOwner": "chrisgrieser/nvim-various-textobjs",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 324,
+    "star": 326,
     "topics": [
       "nvim",
       "nvim-plugin",

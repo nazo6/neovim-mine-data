@@ -26,18 +26,14 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         },
         {
-          "level": 5,
+          "level": 4,
           "name": "Diagnostics"
         }
       ],
@@ -46,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 108,
+    "commitCountLastYear": 128,
     "createdAt": "2023-09-21T14:38:06Z",
     "description": "Add inline-comments to ignore rules, or lookup rule documentation online.",
     "isArchived": false,
-    "lastCommit": "2023-10-07T11:30:22Z",
+    "lastCommit": "2023-10-14T04:57:40Z",
     "nameWithOwner": "chrisgrieser/nvim-rulebook",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 23,
+    "star": 25,
     "topics": [
       "linter-plugin",
       "nvim-plugin",

@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Icon"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 6,
     "createdAt": "2022-06-20T08:16:55Z",
     "description": "This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis",
     "isArchived": false,
-    "lastCommit": "2023-05-04T13:00:44Z",
+    "lastCommit": "2023-10-09T12:30:42Z",
     "nameWithOwner": "ziontee113/icon-picker.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 212,
+    "star": 215,
     "topics": [
       "emoji",
       "lua",

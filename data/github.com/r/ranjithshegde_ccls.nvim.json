@@ -4,18 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
           "name": "C/C++"
         }
       ],
-      "file": "language-specific.md",
+      "file": "c_cpp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -26,14 +22,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -52,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 53,
+    "star": 54,
     "topics": [
       "ccls",
       "lsp",

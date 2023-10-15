@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 37,
+    "commitCountLastYear": 36,
     "createdAt": "2022-06-22T16:43:21Z",
     "description": "Port of Sublime's Mariana Theme to Neovim for short attention span devs.",
     "isArchived": false,

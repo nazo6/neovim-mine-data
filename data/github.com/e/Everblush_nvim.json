@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -42,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 21,
     "createdAt": "2022-04-01T13:07:36Z",
     "description": "A port of everblush.vim but written in lua",
     "isArchived": false,

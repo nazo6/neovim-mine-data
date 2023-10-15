@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 142,
+    "commitCountLastYear": 136,
     "createdAt": "2020-01-23T05:07:06Z",
     "description": "A dark midnight theme for modern Neovim & classic Vim",
     "isArchived": false,
-    "lastCommit": "2023-10-05T03:34:03Z",
+    "lastCommit": "2023-10-15T03:52:25Z",
     "nameWithOwner": "bluz71/vim-nightfly-colors",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 679,
+    "star": 680,
     "topics": [
       "vim",
       "neovim",

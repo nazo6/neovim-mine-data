@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Debugging"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 366,
+    "commitCountLastYear": 368,
     "createdAt": "2017-08-16T19:53:45Z",
     "description": "Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB",
     "isArchived": false,
-    "lastCommit": "2023-10-02T12:28:23Z",
+    "lastCommit": "2023-10-14T13:43:34Z",
     "nameWithOwner": "sakhnik/nvim-gdb",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 621,
+    "star": 626,
     "topics": [
       "gdb",
       "neovim",

@@ -30,10 +30,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Split and Window"
         }
       ],
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 87,
+    "commitCountLastYear": 89,
     "createdAt": "2021-02-12T21:07:43Z",
     "description": "Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!",
     "isArchived": false,
-    "lastCommit": "2023-10-05T19:36:20Z",
+    "lastCommit": "2023-10-13T17:41:56Z",
     "nameWithOwner": "nvim-focus/focus.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 552,
+    "star": 555,
     "topics": [
       "nvim",
       "neovim",

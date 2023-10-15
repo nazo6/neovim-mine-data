@@ -8,10 +8,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -20,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 468,
+    "commitCountLastYear": 469,
     "createdAt": "2022-03-10T15:44:12Z",
     "description": "A Neovim configuration for Rails and Javascript",
     "isArchived": false,
-    "lastCommit": "2023-10-06T18:18:18Z",
+    "lastCommit": "2023-10-10T13:52:00Z",
     "nameWithOwner": "otavioschwanck/mood-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 67,
+    "star": 68,
     "topics": [
     ]
   },

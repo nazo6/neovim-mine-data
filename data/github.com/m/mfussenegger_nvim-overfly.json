@@ -1,0 +1,35 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-10-12T11:55:01Z",
+    "description": "Provides keymaps to quickly fly around your source code",
+    "isArchived": false,
+    "lastCommit": "2023-10-12T18:20:32Z",
+    "nameWithOwner": "mfussenegger/nvim-overfly",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-overfly",
+  "owner": "mfussenegger",
+  "url": "https://github.com/mfussenegger/nvim-overfly"
+}

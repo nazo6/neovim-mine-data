@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 27,
     "createdAt": "2023-09-28T05:47:17Z",
-    "description": "Ultra-simple async library for Neovim",
+    "description": "Ultra-simple async library for Neovim, with cancellation support",
     "isArchived": false,
-    "lastCommit": "2023-10-07T11:57:40Z",
+    "lastCommit": "2023-10-15T00:56:17Z",
     "nameWithOwner": "willothy/micro-async.nvim",
     "primaryLanguage": {
       "color": "#000080",

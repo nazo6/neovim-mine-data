@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Scrolling"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Scrollbar"
         }
       ],
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 680,
+    "star": 684,
     "topics": [
       "neovim",
       "neovim-plugin",

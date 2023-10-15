@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 17,
     "createdAt": "2017-02-20T20:41:51Z",
     "description": "Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code",
     "isArchived": false,

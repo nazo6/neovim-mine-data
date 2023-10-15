@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Outline"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-10-10T17:17:20Z",
+    "description": "Neovim plugin for Outline",
+    "isArchived": false,
+    "lastCommit": "2023-10-13T10:00:17Z",
+    "nameWithOwner": "JockeKv/OutlineWiki.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "OutlineWiki.nvim",
+  "owner": "JockeKv",
+  "url": "https://github.com/JockeKv/OutlineWiki.nvim"
+}

@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Code Runner"
         }
       ],
@@ -38,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 23,
+    "commitCountLastYear": 20,
     "createdAt": "2022-09-08T11:11:44Z",
     "description": "Launcher for Neovim",
     "isArchived": false,

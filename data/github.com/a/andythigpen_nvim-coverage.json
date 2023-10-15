@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Test"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 48,
+    "commitCountLastYear": 50,
     "createdAt": "2022-02-26T19:45:00Z",
     "description": "Displays test coverage data in the sign column",
     "isArchived": false,
-    "lastCommit": "2023-07-20T00:48:28Z",
+    "lastCommit": "2023-10-09T17:12:35Z",
     "nameWithOwner": "andythigpen/nvim-coverage",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 203,
+    "star": 205,
     "topics": [
     ]
   },

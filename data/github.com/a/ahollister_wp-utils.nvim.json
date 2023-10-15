@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "Web"
         },
@@ -19,16 +15,16 @@
           "name": "WordPress"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "web-service.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 19,
     "createdAt": "2023-08-20T20:38:14Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-09-06T14:33:19Z",
+    "lastCommit": "2023-10-12T10:35:38Z",
     "nameWithOwner": "ahollister/wp-utils.nvim",
     "primaryLanguage": {
       "color": "#000080",

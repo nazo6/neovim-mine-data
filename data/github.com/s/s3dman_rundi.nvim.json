@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2023-10-10T06:13:21Z",
+    "description": "compile commands mappings ez",
+    "isArchived": false,
+    "lastCommit": "2023-10-14T17:21:03Z",
+    "nameWithOwner": "s3dman/rundi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "lua",
+      "nvim",
+      "neovim",
+      "neovim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rundi.nvim",
+  "owner": "s3dman",
+  "url": "https://github.com/s3dman/rundi.nvim"
+}

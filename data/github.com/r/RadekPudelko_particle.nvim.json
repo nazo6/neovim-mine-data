@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Hardware"
+        },
+        {
+          "level": 4,
+          "name": "IoT"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2023-10-08T16:08:45Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-10-11T00:30:11Z",
+    "nameWithOwner": "RadekPudelko/particle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "particle.nvim",
+  "owner": "RadekPudelko",
+  "url": "https://github.com/RadekPudelko/particle.nvim"
+}

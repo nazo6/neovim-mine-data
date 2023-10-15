@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Git"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 188,
+    "commitCountLastYear": 185,
     "createdAt": "2020-10-18T10:14:43Z",
     "description": "Git integration for buffers",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3569,
+    "star": 3600,
     "topics": [
       "nvim",
       "lua",

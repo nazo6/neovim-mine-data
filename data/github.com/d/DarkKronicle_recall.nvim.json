@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go to File"
+        },
+        {
+          "level": 3,
+          "name": "jumplist"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-10-07T03:50:49Z",
+    "description": "A neovim jumplist upgrade to quickly navigate your recent cursor positions.",
+    "isArchived": false,
+    "lastCommit": "2023-10-07T03:52:11Z",
+    "nameWithOwner": "DarkKronicle/recall.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "recall.nvim",
+  "owner": "DarkKronicle",
+  "url": "https://github.com/DarkKronicle/recall.nvim"
+}

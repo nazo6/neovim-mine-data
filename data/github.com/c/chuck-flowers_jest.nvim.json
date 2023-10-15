@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -23,12 +19,12 @@
           "name": "Test"
         }
       ],
-      "file": "language-specific.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 13,
     "createdAt": "2022-10-14T22:18:37Z",
     "description": "A jest plugin for neovim",
     "isArchived": false,

@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Command Line"
         }
       ],
@@ -34,11 +30,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 27,
+    "commitCountLastYear": 28,
     "createdAt": "2021-01-30T10:31:08Z",
     "description": "Alternative command-line window plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2023-08-18T13:51:24Z",
+    "lastCommit": "2023-10-09T05:12:55Z",
     "nameWithOwner": "notomo/cmdbuf.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 88,
+    "star": 89,
     "topics": [
       "nvim",
       "nvim-plugin",

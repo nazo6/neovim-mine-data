@@ -22,14 +22,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Game"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Competitive Programming"
         }
       ],
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 115,
+    "star": 124,
     "topics": [
       "neovim",
       "nvim-plugin",

@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "CLI"
         },
@@ -19,7 +15,7 @@
           "name": "rsync"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

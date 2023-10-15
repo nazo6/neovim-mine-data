@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Code Runner"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 238,
+    "commitCountLastYear": 214,
     "createdAt": "2020-08-17T20:44:45Z",
     "description": "A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages",
     "isArchived": false,
-    "lastCommit": "2023-10-06T17:34:43Z",
+    "lastCommit": "2023-10-12T06:04:22Z",
     "nameWithOwner": "michaelb/sniprun",
     "primaryLanguage": {
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 1193,
+    "star": 1199,
     "topics": [
       "code",
       "neovim",

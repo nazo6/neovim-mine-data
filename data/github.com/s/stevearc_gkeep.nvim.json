@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Note Taking"
         }
       ],
@@ -34,11 +30,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 12,
     "createdAt": "2021-07-31T22:55:31Z",
     "description": "Google Keep integration for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-05-27T16:22:15Z",
+    "lastCommit": "2023-10-09T06:35:24Z",
     "nameWithOwner": "stevearc/gkeep.nvim",
     "primaryLanguage": {
       "color": "#3572A5",

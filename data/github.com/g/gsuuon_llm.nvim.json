@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "AI Coding"
         },
@@ -19,7 +15,7 @@
           "name": "OpenAI"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "AI"
         }
       ],
@@ -42,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 345,
+    "commitCountLastYear": 356,
     "createdAt": "2023-04-16T04:18:10Z",
     "description": "Neovim plugin for interacting with LLM's and building editor integrated prompts.",
     "isArchived": false,
-    "lastCommit": "2023-10-02T18:40:19Z",
+    "lastCommit": "2023-10-10T23:20:08Z",
     "nameWithOwner": "gsuuon/llm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 103,
+    "star": 113,
     "topics": [
       "chatgpt",
       "neovim-plugin",

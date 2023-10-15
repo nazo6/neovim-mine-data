@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Session"
         }
       ],
@@ -30,17 +26,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 27,
     "createdAt": "2021-04-17T18:55:15Z",
     "description": "A simple wrapper around :mksession.",
     "isArchived": false,
-    "lastCommit": "2023-09-05T19:44:13Z",
+    "lastCommit": "2023-10-09T18:18:27Z",
     "nameWithOwner": "Shatur/neovim-session-manager",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 384,
+    "star": 389,
     "topics": [
       "neovim",
       "telescope",

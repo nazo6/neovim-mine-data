@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Session"
         }
       ],
@@ -30,11 +26,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 37,
     "createdAt": "2023-01-08T04:22:29Z",
     "description": "Session manager for neovim",
     "isArchived": false,
-    "lastCommit": "2023-07-15T01:12:05Z",
+    "lastCommit": "2023-10-11T10:26:31Z",
     "nameWithOwner": "niuiic/multiple-session.nvim",
     "primaryLanguage": {
       "color": "#000080",

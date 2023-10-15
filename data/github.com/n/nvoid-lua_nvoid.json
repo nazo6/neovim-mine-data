@@ -14,10 +14,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -26,17 +22,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 117,
+    "commitCountLastYear": 100,
     "createdAt": "2021-11-24T14:15:20Z",
     "description": "nvim with lua is cool",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-09-13T16:12:39Z",
     "nameWithOwner": "nvoid-lua/nvoid",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 88,
+    "star": 90,
     "topics": [
       "nvim",
       "neovim",

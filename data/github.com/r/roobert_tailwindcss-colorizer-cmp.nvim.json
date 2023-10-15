@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -23,7 +19,7 @@
           "name": "tailwind"
         }
       ],
-      "file": "language-specific.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,14 +30,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Programming Languages Support"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Web Development"
         }
       ],
@@ -60,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 225,
+    "star": 229,
     "topics": [
     ]
   },

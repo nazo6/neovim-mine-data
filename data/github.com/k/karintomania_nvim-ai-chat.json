@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "AI Coding"
         },
@@ -19,16 +15,16 @@
           "name": "OpenAI"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 59,
+    "commitCountLastYear": 60,
     "createdAt": "2022-12-08T19:38:38Z",
     "description": "NeoVim plugin to talk to open ai api from NeoVim.",
     "isArchived": false,
-    "lastCommit": "2023-09-13T11:43:48Z",
+    "lastCommit": "2023-10-10T05:16:14Z",
     "nameWithOwner": "karintomania/nvim-ai-chat",
     "primaryLanguage": {
       "color": "#000080",

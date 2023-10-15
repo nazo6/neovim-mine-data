@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Base64"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-10-09T12:50:20Z",
+    "description": "Neovim plugin which provides a few handy bracket mappings for Base64 encoding and decoding",
+    "isArchived": false,
+    "lastCommit": "2023-10-11T13:16:11Z",
+    "nameWithOwner": "jasonwoodland/base64.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "base64.nvim",
+  "owner": "jasonwoodland",
+  "url": "https://github.com/jasonwoodland/base64.nvim"
+}

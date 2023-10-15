@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Formatting"
         }
       ],
@@ -38,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 23,
     "createdAt": "2020-09-16T06:02:39Z",
     "description": "This plugin trims trailing whitespace and lines.",
     "isArchived": false,
-    "lastCommit": "2023-03-22T15:40:12Z",
+    "lastCommit": "2023-10-12T04:05:58Z",
     "nameWithOwner": "cappyzawa/trim.nvim",
     "primaryLanguage": {
       "color": "#000080",

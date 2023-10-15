@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 19,
     "createdAt": "2022-10-15T01:25:19Z",
     "description": "Awesome textobject plugin works with nvim-surround",
     "isArchived": false,

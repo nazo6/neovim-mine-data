@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "layout"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-10-12T21:06:10Z",
+    "description": "Convenient flips & shifts for your windows layout",
+    "isArchived": false,
+    "lastCommit": "2023-10-13T15:02:22Z",
+    "nameWithOwner": "jyscao/ventana.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "vim-windows"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ventana.nvim",
+  "owner": "jyscao",
+  "url": "https://github.com/jyscao/ventana.nvim"
+}

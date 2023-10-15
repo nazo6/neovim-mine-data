@@ -8,10 +8,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "File Explorer"
         }
       ],
@@ -30,17 +26,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 293,
+    "commitCountLastYear": 285,
     "createdAt": "2020-02-04T19:00:47Z",
     "description": "A file explorer tree for neovim written in lua",
     "isArchived": false,
-    "lastCommit": "2023-10-08T00:40:58Z",
+    "lastCommit": "2023-10-15T03:04:04Z",
     "nameWithOwner": "nvim-tree/nvim-tree.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5615,
+    "star": 5655,
     "topics": [
       "lua",
       "neovim",

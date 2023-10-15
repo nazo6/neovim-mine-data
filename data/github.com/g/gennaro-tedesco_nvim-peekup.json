@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Register"
         }
       ],
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 262,
+    "star": 263,
     "topics": [
       "neovim",
       "lua"

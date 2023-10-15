@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Keybinding"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 109,
+    "commitCountLastYear": 111,
     "createdAt": "2021-04-28T10:13:18Z",
     "description": "💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.",
     "isArchived": false,
-    "lastCommit": "2023-07-28T18:51:26Z",
+    "lastCommit": "2023-10-13T06:56:00Z",
     "nameWithOwner": "folke/which-key.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3498,
+    "star": 3519,
     "topics": [
       "neovim",
       "neovim-plugin",

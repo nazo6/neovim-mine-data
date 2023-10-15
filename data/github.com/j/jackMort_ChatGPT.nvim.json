@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "AI Coding"
         },
@@ -19,7 +15,7 @@
           "name": "OpenAI"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "AI"
         }
       ],
@@ -42,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 149,
+    "commitCountLastYear": 153,
     "createdAt": "2022-12-10T17:27:28Z",
     "description": "ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
     "isArchived": false,
-    "lastCommit": "2023-10-03T11:50:22Z",
+    "lastCommit": "2023-10-15T01:53:50Z",
     "nameWithOwner": "jackMort/ChatGPT.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2611,
+    "star": 2639,
     "topics": [
       "chatgpt",
       "nvim-plugin",

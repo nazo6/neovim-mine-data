@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Session"
         }
       ],
@@ -30,7 +26,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 107,
+    "commitCountLastYear": 106,
     "createdAt": "2021-09-07T18:33:56Z",
     "description": "💾 Simple session management for Neovim with git branching, autoloading and Telescope support",
     "isArchived": false,
@@ -40,7 +36,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 289,
+    "star": 290,
     "topics": [
       "neovim",
       "session",

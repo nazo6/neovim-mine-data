@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Code Runner"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 867,
+    "commitCountLastYear": 870,
     "createdAt": "2023-06-16T04:08:47Z",
     "description": "Neovim compiler for building and running your code without having to configure anything",
     "isArchived": false,
-    "lastCommit": "2023-10-04T17:54:56Z",
+    "lastCommit": "2023-10-15T00:53:07Z",
     "nameWithOwner": "Zeioth/compiler.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 208,
+    "star": 213,
     "topics": [
     ]
   },

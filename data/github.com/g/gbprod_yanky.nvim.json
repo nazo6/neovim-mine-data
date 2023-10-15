@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 58,
+    "commitCountLastYear": 60,
     "createdAt": "2022-03-01T12:40:46Z",
     "description": "Improved Yank and Put functionalities for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-06T05:55:41Z",
+    "lastCommit": "2023-10-12T05:48:44Z",
     "nameWithOwner": "gbprod/yanky.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 554,
+    "star": 562,
     "topics": [
     ]
   },

@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Programming Languages Support"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Web Development"
         }
       ],
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 67,
+    "commitCountLastYear": 69,
     "createdAt": "2021-05-05T22:56:10Z",
     "description": "A fast Neovim http client written in Lua",
     "isArchived": false,
-    "lastCommit": "2023-09-30T19:32:02Z",
+    "lastCommit": "2023-10-10T18:40:52Z",
     "nameWithOwner": "rest-nvim/rest.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 858,
+    "star": 864,
     "topics": [
       "neovim",
       "lua",

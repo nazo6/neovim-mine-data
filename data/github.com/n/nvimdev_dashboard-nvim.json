@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Startup"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 244,
+    "commitCountLastYear": 246,
     "createdAt": "2020-06-07T07:00:58Z",
     "description": "vim dashboard",
     "isArchived": false,
-    "lastCommit": "2023-09-30T00:34:37Z",
+    "lastCommit": "2023-10-11T06:02:16Z",
     "nameWithOwner": "nvimdev/dashboard-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1712,
+    "star": 1722,
     "topics": [
       "dashboard",
       "neovim",

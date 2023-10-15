@@ -8,10 +8,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Programming Languages Support"
         }
       ],
@@ -20,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 5,
     "createdAt": "2022-06-23T07:47:41Z",
     "description": "Lua version of the Phpactor vim plugin to take advantage of the latest Neovim features",
     "isArchived": false,
-    "lastCommit": "2023-02-28T08:52:10Z",
+    "lastCommit": "2023-10-13T13:26:35Z",
     "nameWithOwner": "gbprod/phpactor.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 36,
+    "star": 37,
     "topics": [
       "nvim",
       "neovim",

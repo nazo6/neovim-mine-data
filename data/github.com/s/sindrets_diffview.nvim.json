@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Git"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 133,
+    "commitCountLastYear": 134,
     "createdAt": "2021-05-01T23:41:36Z",
     "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
     "isArchived": false,
-    "lastCommit": "2023-10-05T10:00:53Z",
+    "lastCommit": "2023-10-11T10:32:31Z",
     "nameWithOwner": "sindrets/diffview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2693,
+    "star": 2707,
     "topics": [
       "neovim",
       "neovim-plugin",

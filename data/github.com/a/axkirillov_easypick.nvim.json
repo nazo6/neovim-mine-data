@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Fuzzy Finder"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 16,
     "createdAt": "2022-06-27T11:21:14Z",
     "description": "A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands",
     "isArchived": false,
-    "lastCommit": "2023-07-28T14:52:45Z",
+    "lastCommit": "2023-10-10T15:02:53Z",
     "nameWithOwner": "axkirillov/easypick.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 292,
+    "star": 300,
     "topics": [
       "cli",
       "lua",

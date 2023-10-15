@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -19,12 +15,12 @@
           "name": "Debugger"
         }
       ],
-      "file": "language-specific.md",
+      "file": "python.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 10,
     "createdAt": "2020-11-15T11:18:37Z",
     "description": "An extension for nvim-dap, providing default configurations for python and methods to debug individual test methods or classes.",
     "isArchived": false,
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 339,
+    "star": 342,
     "topics": [
       "neovim",
       "nvim-dap",

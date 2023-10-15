@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -23,7 +19,7 @@
           "name": "Formatter"
         }
       ],
-      "file": "language-specific.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,10 +30,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Formatting"
         }
       ],
@@ -56,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 223,
+    "star": 226,
     "topics": [
       "prettier",
       "neovim",

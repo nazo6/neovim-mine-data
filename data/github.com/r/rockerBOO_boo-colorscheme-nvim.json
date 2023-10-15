@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 9,
     "createdAt": "2020-11-12T03:42:04Z",
     "description": "Boo is a colorscheme for Neovim with handcrafted support for LSP, Tree-sitter.",
     "isArchived": false,
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 142,
+    "star": 145,
     "topics": [
       "neovim",
       "colorscheme",

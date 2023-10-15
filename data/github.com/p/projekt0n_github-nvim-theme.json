@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -42,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 169,
+    "commitCountLastYear": 167,
     "createdAt": "2021-06-21T05:37:41Z",
     "description": "Github's Neovim themes ",
     "isArchived": false,
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1781,
+    "star": 1785,
     "topics": [
       "lua",
       "colorscheme",

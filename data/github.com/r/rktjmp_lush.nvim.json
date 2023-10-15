@@ -22,14 +22,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Colorscheme Creation"
         }
       ],
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1157,
+    "star": 1162,
     "topics": [
       "neovim-plugin",
       "lua",

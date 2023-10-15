@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Code Runner"
         }
       ],
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 773,
+    "star": 774,
     "topics": [
       "nvim",
       "repl",

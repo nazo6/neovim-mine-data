@@ -26,18 +26,14 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         },
         {
-          "level": 5,
+          "level": 4,
           "name": "Diagnostics"
         }
       ],
@@ -46,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 111,
+    "commitCountLastYear": 110,
     "createdAt": "2021-04-21T22:12:24Z",
     "description": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
     "isArchived": false,
-    "lastCommit": "2023-10-08T06:09:14Z",
+    "lastCommit": "2023-10-09T22:09:14Z",
     "nameWithOwner": "folke/trouble.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3672,
+    "star": 3696,
     "topics": [
       "neovim",
       "neovim-plugin",

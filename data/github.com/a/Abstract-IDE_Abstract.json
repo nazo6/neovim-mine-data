@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -46,10 +42,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -58,7 +50,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 33,
+    "commitCountLastYear": 23,
     "createdAt": "2021-07-22T05:32:15Z",
     "description": "neovim as an IDE",
     "isArchived": false,

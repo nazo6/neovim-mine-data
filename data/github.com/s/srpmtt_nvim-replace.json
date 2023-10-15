@@ -1,0 +1,35 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-10-10T07:37:21Z",
+    "description": "Simple text replace plugin",
+    "isArchived": false,
+    "lastCommit": "2023-10-10T18:48:27Z",
+    "nameWithOwner": "srpmtt/nvim-replace",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-replace",
+  "owner": "srpmtt",
+  "url": "https://github.com/srpmtt/nvim-replace"
+}

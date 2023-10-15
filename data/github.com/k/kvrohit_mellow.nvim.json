@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 26,
     "createdAt": "2022-10-11T12:19:10Z",
     "description": "A soothing dark color scheme for neovim and friends.",
     "isArchived": false,
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 146,
+    "star": 152,
     "topics": [
       "colorscheme",
       "dark",

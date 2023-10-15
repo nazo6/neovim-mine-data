@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 141,
+    "commitCountLastYear": 145,
     "createdAt": "2020-04-26T13:47:22Z",
     "description": "A Metals plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-04T08:01:43Z",
+    "lastCommit": "2023-10-11T07:34:35Z",
     "nameWithOwner": "scalameta/nvim-metals",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 369,
+    "star": 374,
     "topics": [
       "nvim-lsp",
       "lsp",

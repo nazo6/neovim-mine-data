@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "cd(change directory)"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2023-10-07T07:06:30Z",
+    "description": "Broot integration for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-14T04:15:48Z",
+    "nameWithOwner": "9999years/broot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "broot",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "broot.nvim",
+  "owner": "9999years",
+  "url": "https://github.com/9999years/broot.nvim"
+}

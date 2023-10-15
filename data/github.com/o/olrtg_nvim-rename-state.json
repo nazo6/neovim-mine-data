@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -23,12 +19,12 @@
           "name": "React"
         }
       ],
-      "file": "language-specific.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 11,
     "createdAt": "2022-09-23T00:14:03Z",
     "description": "Rename the getter and the setter of a state hook in react/solidjs at the same time.",
     "isArchived": false,

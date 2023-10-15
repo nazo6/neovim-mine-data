@@ -4,23 +4,19 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
           "name": "Python"
         }
       ],
-      "file": "language-specific.md",
+      "file": "python.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 13,
     "createdAt": "2021-07-10T21:45:34Z",
     "description": "Lsp Plugin for working with Python virtual environments",
     "isArchived": false,

@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Motion"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Treesitter Based"
         }
       ],
@@ -42,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2022-05-20T17:20:01Z",
     "description": null,
     "isArchived": false,

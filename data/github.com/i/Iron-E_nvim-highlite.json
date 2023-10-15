@@ -22,14 +22,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Colorscheme Creation"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 239,
+    "commitCountLastYear": 240,
     "createdAt": "2020-06-19T22:42:23Z",
     "description": "A colorscheme generator that is \"lite\" on logic for the developer.",
     "isArchived": false,
-    "lastCommit": "2023-09-28T16:47:31Z",
+    "lastCommit": "2023-10-08T17:57:00Z",
     "nameWithOwner": "Iron-E/nvim-highlite",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 214,
+    "star": 217,
     "topics": [
       "nvim",
       "neovim",

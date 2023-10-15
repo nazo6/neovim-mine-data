@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Fennel"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 33,
     "createdAt": "2022-03-31T06:54:07Z",
     "description": ":hibiscus: Flavored Fennel Macros for Neovim",
     "isArchived": false,

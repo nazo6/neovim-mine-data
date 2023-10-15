@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "AI Coding"
         },
@@ -19,12 +15,12 @@
           "name": "OpenAI"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2022-10-05T08:46:31Z",
     "description": "WIP a simple nvim/neovim plugin to preview oas/openapi3 or swagger spec.",
     "isArchived": false,

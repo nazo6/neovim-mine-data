@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "AI Coding"
         },
@@ -19,22 +15,22 @@
           "name": "LLM"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 53,
+    "commitCountLastYear": 57,
     "createdAt": "2023-09-30T09:28:53Z",
     "description": "Neovim plugin to generate text using LLMs with customizable prompts",
     "isArchived": false,
-    "lastCommit": "2023-10-08T06:32:11Z",
+    "lastCommit": "2023-10-11T07:44:27Z",
     "nameWithOwner": "David-Kunz/gen.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 78,
+    "star": 102,
     "topics": [
     ]
   },

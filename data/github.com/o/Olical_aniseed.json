@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Fennel"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 7,
     "createdAt": "2019-11-11T23:05:32Z",
     "description": "Neovim configuration and plugins in Fennel (Lisp compiled to Lua)",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 578,
+    "star": 580,
     "topics": [
       "neovim",
       "lisp",

@@ -30,10 +30,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Debugging"
         }
       ],
@@ -42,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 10,
     "createdAt": "2022-07-10T16:27:38Z",
     "description": "Neovim plugin for persistent breakpoints.",
     "isArchived": false,
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 107,
+    "star": 108,
     "topics": [
     ]
   },

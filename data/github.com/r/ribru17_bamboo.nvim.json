@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 62,
+    "commitCountLastYear": 67,
     "createdAt": "2023-06-01T04:44:26Z",
     "description": "Warm Green Theme for Neovim and Beyond",
     "isArchived": false,
-    "lastCommit": "2023-10-05T15:16:05Z",
+    "lastCommit": "2023-10-14T23:15:19Z",
     "nameWithOwner": "ribru17/bamboo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 134,
+    "star": 142,
     "topics": [
       "neovim-theme",
       "dark-theme",

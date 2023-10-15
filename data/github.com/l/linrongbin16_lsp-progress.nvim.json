@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 132,
+    "commitCountLastYear": 148,
     "createdAt": "2023-01-31T00:58:42Z",
     "description": "A performant lsp progress status for Neovim.",
     "isArchived": false,
-    "lastCommit": "2023-10-08T06:51:17Z",
+    "lastCommit": "2023-10-13T02:24:28Z",
     "nameWithOwner": "linrongbin16/lsp-progress.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 111,
+    "star": 112,
     "topics": [
       "neovim",
       "lua",

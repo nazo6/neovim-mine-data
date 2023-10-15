@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Utility"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 28,
     "createdAt": "2023-06-08T22:02:04Z",
     "description": "A neovim plugin to navigate and execute code cells",
     "isArchived": false,
-    "lastCommit": "2023-10-06T05:28:08Z",
+    "lastCommit": "2023-10-08T10:45:21Z",
     "nameWithOwner": "GCBallesteros/NotebookNavigator.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 51,
+    "star": 54,
     "topics": [
       "neovim",
       "neovim-plugin",

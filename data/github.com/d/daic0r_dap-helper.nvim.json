@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-10-09T20:54:51Z",
+    "description": "Neovim Plugin that provides some convenience functions for nicer debugging",
+    "isArchived": false,
+    "lastCommit": "2023-10-15T07:42:13Z",
+    "nameWithOwner": "daic0r/dap-helper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dap-helper.nvim",
+  "owner": "daic0r",
+  "url": "https://github.com/daic0r/dap-helper.nvim"
+}

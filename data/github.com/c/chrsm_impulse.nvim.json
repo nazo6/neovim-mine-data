@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "Web"
         },
@@ -19,7 +15,7 @@
           "name": "Notion"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "web-service.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Note Taking"
         }
       ],
@@ -52,7 +44,7 @@
       "color": "#ff4585",
       "name": "MoonScript"
     },
-    "star": 82,
+    "star": 84,
     "topics": [
       "neovim",
       "neovim-lua-plugin",

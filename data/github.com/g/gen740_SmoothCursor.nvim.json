@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Motion"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 42,
+    "commitCountLastYear": 62,
     "createdAt": "2022-09-14T02:35:18Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-10-04T05:57:51Z",
+    "lastCommit": "2023-10-14T14:02:15Z",
     "nameWithOwner": "gen740/SmoothCursor.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 271,
+    "star": 272,
     "topics": [
     ]
   },

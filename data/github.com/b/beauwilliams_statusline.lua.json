@@ -22,14 +22,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Bars and Lines"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Statusline"
         }
       ],
@@ -38,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2021-01-31T21:25:26Z",
     "description": "A zero-config minimal statusline for neovim written in lua featuring awesome integrations and blazing speed!",
     "isArchived": false,

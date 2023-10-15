@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Neovim Lua Development"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 192,
+    "commitCountLastYear": 206,
     "createdAt": "2023-01-13T10:30:53Z",
     "description": "GitHub workflow for automatically generating Luarocks releases from tags and running busted tests",
     "isArchived": false,
-    "lastCommit": "2023-10-08T05:33:22Z",
+    "lastCommit": "2023-10-15T05:34:02Z",
     "nameWithOwner": "nvim-neorocks/luarocks-tag-release",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 32,
+    "star": 33,
     "topics": [
       "automation",
       "busted",

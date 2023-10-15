@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Motion"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Treesitter Based"
         }
       ],
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 419,
+    "star": 423,
     "topics": [
       "lua",
       "neovim",

@@ -9,6 +9,10 @@
         {
           "level": 2,
           "name": "Highlight"
+        },
+        {
+          "level": 3,
+          "name": "Arguments"
         }
       ],
       "file": "syntax_highlight.md",
@@ -22,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Syntax"
         }
       ],
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 18,
     "createdAt": "2022-02-05T17:19:37Z",
     "description": "Highlight arguments' definitions and usages, using Treesitter",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 383,
+    "star": 384,
     "topics": [
       "lua",
       "neovim",

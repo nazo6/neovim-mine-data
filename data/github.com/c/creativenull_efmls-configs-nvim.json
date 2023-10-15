@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -24,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 114,
+    "commitCountLastYear": 118,
     "createdAt": "2021-10-23T20:40:42Z",
     "description": "An unofficial collection of linters and formatters configured for efm-langserver for neovim.",
     "isArchived": false,
-    "lastCommit": "2023-10-04T03:34:17Z",
+    "lastCommit": "2023-10-10T14:05:03Z",
     "nameWithOwner": "creativenull/efmls-configs-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 186,
+    "star": 187,
     "topics": [
       "nvim-lsp",
       "efm-langserver",

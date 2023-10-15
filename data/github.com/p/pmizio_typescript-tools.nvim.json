@@ -4,33 +4,29 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
           "name": "Javascript/Typescript"
         }
       ],
-      "file": "language-specific.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 78,
+    "commitCountLastYear": 82,
     "createdAt": "2022-11-02T11:42:56Z",
     "description": "⚡ TypeScript integration NeoVim deserves ⚡",
     "isArchived": false,
-    "lastCommit": "2023-10-04T11:19:00Z",
+    "lastCommit": "2023-10-13T13:17:03Z",
     "nameWithOwner": "pmizio/typescript-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 593,
+    "star": 607,
     "topics": [
     ]
   },

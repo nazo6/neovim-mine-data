@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 146,
+    "commitCountLastYear": 149,
     "createdAt": "2023-07-17T09:47:19Z",
     "description": "First select, then edit. A helix/kakoune-like editing in neovim",
     "isArchived": false,
-    "lastCommit": "2023-09-02T09:34:32Z",
+    "lastCommit": "2023-10-15T08:59:07Z",
     "nameWithOwner": "00sapo/visual.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 149,
+    "star": 152,
     "topics": [
     ]
   },

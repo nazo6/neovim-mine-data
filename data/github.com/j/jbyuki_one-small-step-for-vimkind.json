@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Neovim Lua Development"
         }
       ],
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 287,
+    "star": 288,
     "topics": [
       "nvim",
       "nvim-dap",

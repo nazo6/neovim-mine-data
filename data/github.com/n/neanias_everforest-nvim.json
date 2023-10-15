@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 82,
+    "commitCountLastYear": 81,
     "createdAt": "2022-10-13T13:14:25Z",
     "description": "A Lua port of the Everforest colour scheme",
     "isArchived": false,

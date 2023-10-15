@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Workflow"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 137,
+    "commitCountLastYear": 139,
     "createdAt": "2023-04-24T17:38:50Z",
     "description": "A Neovim plugin helping you establish good command workflow and habit",
     "isArchived": false,
-    "lastCommit": "2023-10-07T09:18:30Z",
+    "lastCommit": "2023-10-09T12:40:17Z",
     "nameWithOwner": "m4xshen/hardtime.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 516,
+    "star": 520,
     "topics": [
       "hardtime",
       "neovim",

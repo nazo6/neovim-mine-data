@@ -7,7 +7,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Todo Comment Highlight"
         }
       ],
@@ -22,14 +22,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Comment"
         }
       ],
@@ -38,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 49,
+    "commitCountLastYear": 47,
     "createdAt": "2021-05-10T19:38:20Z",
     "description": "✅  Highlight, list and search todo comments in your projects",
     "isArchived": false,
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2125,
+    "star": 2139,
     "topics": [
       "neovim",
       "neovim-plugin"

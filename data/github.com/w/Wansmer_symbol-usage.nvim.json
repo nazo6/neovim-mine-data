@@ -30,14 +30,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -46,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 30,
     "createdAt": "2023-09-17T14:37:42Z",
     "description": "Display references, definitions and implementations of document symbols",
     "isArchived": false,
-    "lastCommit": "2023-10-01T16:43:03Z",
+    "lastCommit": "2023-10-13T07:43:41Z",
     "nameWithOwner": "Wansmer/symbol-usage.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 76,
+    "star": 79,
     "topics": [
     ]
   },

@@ -40,10 +40,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Color"
         }
       ],
@@ -52,7 +48,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 187,
+    "commitCountLastYear": 123,
     "createdAt": "2022-09-13T19:33:58Z",
     "description": "Color picker and highlighter plugin for Neovim.",
     "isArchived": false,
@@ -62,7 +58,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 534,
+    "star": 536,
     "topics": [
       "neovim-plugin",
       "lua",

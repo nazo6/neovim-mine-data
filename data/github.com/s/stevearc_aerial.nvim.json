@@ -22,14 +22,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 261,
+    "commitCountLastYear": 269,
     "createdAt": "2020-09-19T22:59:49Z",
     "description": "Neovim plugin for a code outline window",
     "isArchived": false,
-    "lastCommit": "2023-09-29T01:57:44Z",
+    "lastCommit": "2023-10-14T18:53:45Z",
     "nameWithOwner": "stevearc/aerial.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1075,
+    "star": 1112,
     "topics": [
       "nvim",
       "lsp",

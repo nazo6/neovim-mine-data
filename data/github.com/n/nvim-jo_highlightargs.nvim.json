@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Highlight"
+        },
+        {
+          "level": 3,
+          "name": "Arguments"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-10-10T06:07:09Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-10-10T06:13:51Z",
+    "nameWithOwner": "nvim-jo/highlightargs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "highlightargs.nvim",
+  "owner": "nvim-jo",
+  "url": "https://github.com/nvim-jo/highlightargs.nvim"
+}

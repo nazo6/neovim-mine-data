@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "CLI"
         },
@@ -23,7 +19,7 @@
           "name": "tmux alternative"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,14 +30,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Split and Window"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tmux"
         }
       ],
@@ -60,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 433,
+    "star": 434,
     "topics": [
       "neovim",
       "neovim-plugin",

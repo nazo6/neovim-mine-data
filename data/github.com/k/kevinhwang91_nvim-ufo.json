@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Utility"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 51,
+    "commitCountLastYear": 46,
     "createdAt": "2022-06-01T06:48:45Z",
     "description": "Not UFO in the sky, but an ultra fold in Neovim.",
     "isArchived": false,
-    "lastCommit": "2023-09-22T01:03:49Z",
+    "lastCommit": "2023-10-12T04:38:38Z",
     "nameWithOwner": "kevinhwang91/nvim-ufo",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1548,
+    "star": 1562,
     "topics": [
       "fold",
       "lua",

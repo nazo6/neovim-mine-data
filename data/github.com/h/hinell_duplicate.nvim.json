@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         }
       ],
@@ -38,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2023-09-24T09:39:48Z",
     "description": "Duplicate visual selection, lines, and textobjects",
     "isArchived": false,
-    "lastCommit": "2023-10-06T18:17:22Z",
+    "lastCommit": "2023-10-14T14:49:28Z",
     "nameWithOwner": "hinell/duplicate.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -50,6 +46,8 @@
     },
     "star": 6,
     "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

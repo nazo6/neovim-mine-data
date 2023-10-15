@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 93,
+    "commitCountLastYear": 92,
     "createdAt": "2021-02-11T06:55:05Z",
     "description": "Kimbie Dark Neovim colorscheme",
     "isArchived": false,

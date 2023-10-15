@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Bars and Lines"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Cursorline"
         }
       ],
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 118,
+    "star": 119,
     "topics": [
       "neovim-plugin",
       "cursorword",

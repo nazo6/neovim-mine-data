@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Comment out"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "CommentString"
         }
       ],
@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Comment"
         }
       ],
@@ -42,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 36,
     "createdAt": "2021-02-24T19:33:53Z",
     "description": "Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.",
     "isArchived": false,
-    "lastCommit": "2023-10-05T06:36:22Z",
+    "lastCommit": "2023-10-12T15:35:01Z",
     "nameWithOwner": "JoosepAlviste/nvim-ts-context-commentstring",
     "primaryLanguage": {
       "color": "#000080",

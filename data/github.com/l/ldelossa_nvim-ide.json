@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -30,11 +26,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 205,
+    "commitCountLastYear": 220,
     "createdAt": "2022-09-04T15:11:39Z",
     "description": "A full featured IDE layer for Neovim. Heavily inspired by VSCode.",
     "isArchived": false,
-    "lastCommit": "2023-10-08T02:37:31Z",
+    "lastCommit": "2023-10-11T23:09:41Z",
     "nameWithOwner": "ldelossa/nvim-ide",
     "primaryLanguage": {
       "color": "#000080",

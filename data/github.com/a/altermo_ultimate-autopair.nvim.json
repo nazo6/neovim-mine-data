@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 513,
+    "commitCountLastYear": 517,
     "createdAt": "2023-02-02T20:38:20Z",
     "description": "A neovim autopair plugin designed to have all the features that an autopair plugin needs.",
     "isArchived": false,
-    "lastCommit": "2023-10-06T14:47:02Z",
+    "lastCommit": "2023-10-13T20:03:54Z",
     "nameWithOwner": "altermo/ultimate-autopair.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 320,
+    "star": 322,
     "topics": [
       "autopair",
       "nvim-lua",

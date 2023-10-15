@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Completion"
         }
       ],
@@ -38,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 51,
+    "commitCountLastYear": 49,
     "createdAt": "2021-04-01T23:35:37Z",
     "description": "Tools for better development in rust using neovim's builtin lsp",
     "isArchived": false,
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2030,
+    "star": 2043,
     "topics": [
       "rust",
       "nvim",

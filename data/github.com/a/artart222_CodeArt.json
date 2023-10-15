@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -30,7 +26,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 8,
     "createdAt": "2020-11-26T16:17:33Z",
     "description": "Use NeoVim as general purpose IDE",
     "isArchived": false,
@@ -40,7 +36,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 858,
+    "star": 859,
     "topics": [
       "vim",
       "neovim",

@@ -8,10 +8,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Programming Languages Support"
         }
       ],
@@ -20,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 100,
+    "commitCountLastYear": 111,
     "createdAt": "2020-12-30T20:48:01Z",
     "description": "neovim support for the Lean theorem prover",
     "isArchived": false,
-    "lastCommit": "2023-09-30T13:13:42Z",
+    "lastCommit": "2023-10-15T01:37:50Z",
     "nameWithOwner": "Julian/lean.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 143,
+    "star": 144,
     "topics": [
       "leanprover",
       "neovim",

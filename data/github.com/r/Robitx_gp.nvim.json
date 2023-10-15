@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "AI Coding"
         },
@@ -19,7 +15,7 @@
           "name": "OpenAI"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "AI"
         }
       ],
@@ -42,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 97,
+    "commitCountLastYear": 98,
     "createdAt": "2023-06-18T13:55:46Z",
     "description": "Gp (GPT Prompt) plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-09-28T00:19:53Z",
+    "lastCommit": "2023-10-14T20:26:49Z",
     "nameWithOwner": "Robitx/gp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 94,
+    "star": 100,
     "topics": [
       "autocomplete",
       "chatgpt",

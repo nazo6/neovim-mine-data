@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Remote Development"
         }
       ],
@@ -38,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 78,
+    "commitCountLastYear": 75,
     "createdAt": "2022-05-07T10:09:17Z",
     "description": "Neovim dev container support - Mirror of https://codeberg.org/esensar/nvim-dev-container",
     "isArchived": false,
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 358,
+    "star": 364,
     "topics": [
       "containers",
       "devcontainer",

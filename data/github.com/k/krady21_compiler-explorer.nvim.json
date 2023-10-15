@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "Web"
         },
@@ -19,7 +15,7 @@
           "name": "compiler-explorer"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "web-service.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Media"
         }
       ],
@@ -42,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 37,
     "createdAt": "2021-09-13T14:59:32Z",
     "description": "Run compilers and inspect assembly directly from Neovim with the help of https://godbolt.org",
     "isArchived": false,
@@ -52,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 107,
+    "star": 109,
     "topics": [
       "assembly",
       "compiler-explorer",

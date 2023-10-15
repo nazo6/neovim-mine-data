@@ -18,14 +18,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Game"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Competitive Programming"
         }
       ],
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 104,
+    "star": 105,
     "topics": [
       "neovim",
       "codeforces",

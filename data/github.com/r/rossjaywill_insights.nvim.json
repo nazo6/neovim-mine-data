@@ -4,33 +4,29 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
           "name": "C/C++"
         }
       ],
-      "file": "language-specific.md",
+      "file": "c_cpp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 10,
     "createdAt": "2023-10-06T18:25:48Z",
     "description": "Neovim integration for cppinsights",
     "isArchived": false,
-    "lastCommit": "2023-10-06T21:52:18Z",
+    "lastCommit": "2023-10-12T17:35:14Z",
     "nameWithOwner": "rossjaywill/insights.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },

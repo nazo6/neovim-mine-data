@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Syntax"
         }
       ],
@@ -38,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 68,
+    "commitCountLastYear": 67,
     "createdAt": "2022-04-29T19:23:26Z",
     "description": "Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.",
     "isArchived": false,
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2082,
+    "star": 2107,
     "topics": [
       "lua",
       "neovim",

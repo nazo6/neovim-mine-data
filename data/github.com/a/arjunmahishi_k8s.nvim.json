@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "CLI"
         },
@@ -19,12 +15,12 @@
           "name": "k8s (Kubernetes)"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 3,
     "createdAt": "2022-10-03T14:34:41Z",
     "description": "Neovim plugin that wraps some of the kubectl operations with the goodness of telescope",
     "isArchived": false,

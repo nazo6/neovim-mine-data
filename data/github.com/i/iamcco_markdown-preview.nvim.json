@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Programming Languages Support"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Markdown and LaTeX"
         }
       ],
@@ -24,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 15,
     "createdAt": "2018-10-23T18:23:34Z",
     "description": "markdown preview plugin for (neo)vim",
     "isArchived": false,
-    "lastCommit": "2022-05-13T13:20:59Z",
+    "lastCommit": "2023-10-15T07:11:51Z",
     "nameWithOwner": "iamcco/markdown-preview.nvim",
     "primaryLanguage": {
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "star": 5251,
+    "star": 5274,
     "topics": [
       "neovim",
       "vim",

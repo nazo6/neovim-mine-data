@@ -22,14 +22,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Debugging"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Quickfix"
         }
       ],
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1305,
+    "star": 1312,
     "topics": [
       "neovim",
       "quickfix",

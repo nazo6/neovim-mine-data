@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -23,22 +19,22 @@
           "name": "tailwind"
         }
       ],
-      "file": "language-specific.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 18,
     "createdAt": "2023-07-31T17:22:57Z",
     "description": "View all applied tailwindcss values on an element",
     "isArchived": false,
-    "lastCommit": "2023-08-14T10:26:56Z",
+    "lastCommit": "2023-10-10T08:15:13Z",
     "nameWithOwner": "MaximilianLloyd/tw-values.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 89,
+    "star": 90,
     "topics": [
     ]
   },

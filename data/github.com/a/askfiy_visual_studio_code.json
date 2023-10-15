@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 30,
     "createdAt": "2023-02-28T18:25:29Z",
     "description": "A `neovim` theme that highly restores `vscode`, so that your friends will no longer be surprised that you use `neovim`, because they will think you are using `vscode` .. ",
     "isArchived": false,
-    "lastCommit": "2023-09-12T02:20:01Z",
+    "lastCommit": "2023-10-09T01:57:52Z",
     "nameWithOwner": "askfiy/visual_studio_code",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 109,
+    "star": 110,
     "topics": [
     ]
   },

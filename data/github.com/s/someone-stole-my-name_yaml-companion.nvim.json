@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Programming Languages Support"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "YAML"
         }
       ],
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 131,
+    "star": 133,
     "topics": [
       "nvim",
       "nvim-lsp",

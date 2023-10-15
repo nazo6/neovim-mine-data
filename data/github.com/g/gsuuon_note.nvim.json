@@ -13,20 +13,34 @@
       ],
       "file": "note-taking.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 118,
+    "commitCountLastYear": 120,
     "createdAt": "2023-06-22T01:01:00Z",
     "description": "Notes in neovim",
     "isArchived": false,
-    "lastCommit": "2023-09-15T17:35:59Z",
+    "lastCommit": "2023-10-13T23:09:34Z",
     "nameWithOwner": "gsuuon/note.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 9,
     "topics": [
       "neovim",
       "neovim-plugin",

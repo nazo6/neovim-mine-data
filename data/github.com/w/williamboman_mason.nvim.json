@@ -44,18 +44,14 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         },
         {
-          "level": 5,
+          "level": 4,
           "name": "LSP Installer"
         }
       ],
@@ -64,17 +60,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 492,
+    "commitCountLastYear": 473,
     "createdAt": "2022-07-06T18:00:30Z",
     "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
     "isArchived": false,
-    "lastCommit": "2023-09-10T22:02:24Z",
+    "lastCommit": "2023-10-10T12:05:20Z",
     "nameWithOwner": "williamboman/mason.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5418,
+    "star": 5458,
     "topics": [
       "lspinstall",
       "lua",

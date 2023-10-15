@@ -40,10 +40,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Code Runner"
         }
       ],
@@ -52,7 +48,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2021-10-30T23:48:59Z",
     "description": "⚙️ Just Another Quickrun Plugin for Neovim in Lua",
     "isArchived": false,
@@ -62,7 +58,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 160,
+    "star": 161,
     "topics": [
       "lua",
       "neovim"

@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 47,
     "createdAt": "2021-12-02T10:14:21Z",
     "description": "A pack of modern nvim color schemes: material, moonlight, Dracula (blood), Monokai, Mariana, Emerald, earlysummer, middlenight_blue... Fully support Treesitter, LSP and a variety of plugins.",
     "isArchived": false,
-    "lastCommit": "2023-09-09T00:31:16Z",
+    "lastCommit": "2023-10-12T00:11:53Z",
     "nameWithOwner": "ray-x/starry.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 166,
+    "star": 170,
     "topics": [
     ]
   },

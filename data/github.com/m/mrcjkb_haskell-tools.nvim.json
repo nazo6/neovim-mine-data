@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 517,
+    "commitCountLastYear": 519,
     "createdAt": "2022-10-15T14:18:38Z",
     "description": "Supercharge your Haskell experience in neovim!",
     "isArchived": false,
-    "lastCommit": "2023-10-08T00:22:29Z",
+    "lastCommit": "2023-10-15T00:21:04Z",
     "nameWithOwner": "mrcjkb/haskell-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 291,
+    "star": 295,
     "topics": [
       "haskell",
       "lsp",

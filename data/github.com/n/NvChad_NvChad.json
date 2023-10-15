@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -30,7 +26,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 184,
+    "commitCountLastYear": 182,
     "createdAt": "2021-03-07T14:33:17Z",
     "description": "Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",
     "isArchived": false,
@@ -40,7 +36,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19598,
+    "star": 19689,
     "topics": [
       "nvim",
       "neovim",

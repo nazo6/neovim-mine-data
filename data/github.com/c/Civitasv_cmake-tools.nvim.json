@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -19,7 +15,7 @@
           "name": "Cmake"
         }
       ],
-      "file": "language-specific.md",
+      "file": "c_cpp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Code Runner"
         }
       ],
@@ -42,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 195,
+    "commitCountLastYear": 196,
     "createdAt": "2022-05-08T01:34:39Z",
     "description": "CMake integration in Neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-02T00:42:27Z",
+    "lastCommit": "2023-10-08T13:01:17Z",
     "nameWithOwner": "Civitasv/cmake-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 162,
+    "star": 166,
     "topics": [
       "cmake",
       "neovim",

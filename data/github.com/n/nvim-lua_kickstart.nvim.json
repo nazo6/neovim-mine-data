@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 150,
+    "commitCountLastYear": 158,
     "createdAt": "2022-06-24T03:11:24Z",
     "description": "A launch point for your personal nvim configuration",
     "isArchived": false,
-    "lastCommit": "2023-10-07T23:51:19Z",
+    "lastCommit": "2023-10-13T19:07:41Z",
     "nameWithOwner": "nvim-lua/kickstart.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7995,
+    "star": 8109,
     "topics": [
     ]
   },

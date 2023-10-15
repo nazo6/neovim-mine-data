@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -23,12 +19,12 @@
           "name": "Deno"
         }
       ],
-      "file": "language-specific.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 24,
     "createdAt": "2022-09-18T13:00:35Z",
     "description": "A plugin to improve deno experience in neovim",
     "isArchived": false,

@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Keybinding"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 3,
     "createdAt": "2022-05-23T18:37:41Z",
     "description": "Key mapping hints in a floating window",
     "isArchived": false,

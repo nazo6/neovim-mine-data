@@ -18,14 +18,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Bars and Lines"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Statusline"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 6,
     "createdAt": "2021-07-15T08:03:55Z",
     "description": "a neovim statusline & tabline plug",
     "isArchived": false,

@@ -4,11 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
@@ -19,12 +15,12 @@
           "name": "Test"
         }
       ],
-      "file": "language-specific.md",
+      "file": "go.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 1,
     "createdAt": "2022-10-10T00:33:12Z",
     "description": null,
     "isArchived": false,

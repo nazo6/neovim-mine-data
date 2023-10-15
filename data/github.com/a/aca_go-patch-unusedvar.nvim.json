@@ -4,23 +4,19 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
           "name": "Go"
         }
       ],
-      "file": "language-specific.md",
+      "file": "go.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 3,
     "createdAt": "2022-10-10T12:12:20Z",
     "description": "Patch go UnusedVar error",
     "isArchived": false,

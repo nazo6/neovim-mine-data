@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Snippet"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 53,
+    "commitCountLastYear": 52,
     "createdAt": "2021-07-16T23:18:10Z",
     "description": "Snippet plugin for Neovim written in Lua",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 262,
+    "star": 263,
     "topics": [
       "neovim-plugin",
       "lua",

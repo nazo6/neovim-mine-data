@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 57,
+    "commitCountLastYear": 61,
     "createdAt": "2021-02-27T06:08:01Z",
     "description": "LSP signature hint as you type",
     "isArchived": false,
-    "lastCommit": "2023-09-20T03:30:59Z",
+    "lastCommit": "2023-10-12T01:00:59Z",
     "nameWithOwner": "ray-x/lsp_signature.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1656,
+    "star": 1664,
     "topics": [
       "neovim",
       "lsp",

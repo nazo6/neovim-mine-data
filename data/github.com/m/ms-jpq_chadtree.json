@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "File Explorer"
         }
       ],
@@ -30,7 +26,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 309,
+    "commitCountLastYear": 302,
     "createdAt": "2020-07-08T08:29:41Z",
     "description": "File manager for Neovim. Better than NERDTree.",
     "isArchived": false,
@@ -40,7 +36,7 @@
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 1548,
+    "star": 1550,
     "topics": [
       "neovim",
       "neovim-plugin",

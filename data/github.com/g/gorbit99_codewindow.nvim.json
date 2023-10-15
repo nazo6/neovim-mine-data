@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Scrolling"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Scrollbar"
         }
       ],
@@ -42,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 82,
+    "commitCountLastYear": 78,
     "createdAt": "2022-10-11T17:03:51Z",
     "description": null,
     "isArchived": false,
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 340,
+    "star": 341,
     "topics": [
     ]
   },

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Pandoc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-10-10T12:51:28Z",
+    "description": "Allows you to render any selected text to pandoc to be displayed as an image in vim",
+    "isArchived": false,
+    "lastCommit": "2023-10-10T12:49:39Z",
+    "nameWithOwner": "kamalsacranie/pandoc-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pandoc-preview.nvim",
+  "owner": "kamalsacranie",
+  "url": "https://github.com/kamalsacranie/pandoc-preview.nvim"
+}

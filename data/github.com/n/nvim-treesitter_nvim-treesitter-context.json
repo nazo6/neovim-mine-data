@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
-          "name": "Editing Support"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -39,20 +21,34 @@
       ],
       "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Editing Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 153,
+    "commitCountLastYear": 156,
     "createdAt": "2020-10-19T09:32:33Z",
     "description": "Show code context",
     "isArchived": false,
-    "lastCommit": "2023-10-05T08:31:35Z",
+    "lastCommit": "2023-10-15T09:08:10Z",
     "nameWithOwner": "nvim-treesitter/nvim-treesitter-context",
     "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
+      "color": "#0886a5",
+      "name": "Janet"
     },
-    "star": 1765,
+    "star": 1778,
     "topics": [
       "vim",
       "neovim",
@@ -63,5 +59,5 @@
   "domain": "github.com",
   "name": "nvim-treesitter-context",
   "owner": "nvim-treesitter",
-  "url": "https://github.com/nvim-treesitter/nvim-treesitter-context"
+  "url": "https://github.com/romgrk/nvim-treesitter-context"
 }

@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Note Taking"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 218,
+    "commitCountLastYear": 195,
     "createdAt": "2022-07-31T17:37:11Z",
     "description": "Neovim plugin for Obsidian, written in Lua",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1060,
+    "star": 1079,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Media"
         }
       ],
@@ -38,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 11,
     "createdAt": "2022-10-08T16:03:01Z",
     "description": "Image Preview for Neovim 🖼",
     "isArchived": false,
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 75,
+    "star": 74,
     "topics": [
       "image-preview",
       "neovim",

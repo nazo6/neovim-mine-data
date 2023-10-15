@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 2,
+          "name": "LeetCode"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 139,
+    "createdAt": "2023-09-16T11:25:17Z",
+    "description": "A Neovim plugin enabling you to solve LeetCode problems within Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-10-14T22:50:48Z",
+    "nameWithOwner": "kawre/leetcode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 124,
+    "topics": [
+      "leetcode",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "plugin",
+      "leetcode-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "leetcode.nvim",
+  "owner": "kawre",
+  "url": "https://github.com/kawre/leetcode.nvim"
+}

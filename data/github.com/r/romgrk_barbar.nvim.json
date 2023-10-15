@@ -18,14 +18,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Bars and Lines"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tabline"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 235,
+    "commitCountLastYear": 232,
     "createdAt": "2020-10-22T10:32:07Z",
     "description": "The neovim tabline plugin.",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1808,
+    "star": 1820,
     "topics": [
       "neovim",
       "neovim-plugin",

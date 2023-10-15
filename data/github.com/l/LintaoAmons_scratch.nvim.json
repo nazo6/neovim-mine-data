@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Utility"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 119,
+    "commitCountLastYear": 122,
     "createdAt": "2022-10-28T15:47:20Z",
     "description": "Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.",
     "isArchived": false,
-    "lastCommit": "2023-10-07T01:48:38Z",
+    "lastCommit": "2023-10-12T15:19:31Z",
     "nameWithOwner": "LintaoAmons/scratch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 98,
+    "star": 105,
     "topics": [
     ]
   },

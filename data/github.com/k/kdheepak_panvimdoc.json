@@ -44,14 +44,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Programming Languages Support"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Markdown and LaTeX"
         }
       ],
@@ -60,7 +56,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 210,
+    "commitCountLastYear": 207,
     "createdAt": "2021-08-09T15:46:23Z",
     "description": "Write documentation in pandoc markdown. Generate documentation in vimdoc.",
     "isArchived": false,

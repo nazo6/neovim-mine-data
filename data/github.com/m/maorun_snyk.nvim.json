@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "CLI"
         },
@@ -19,16 +15,16 @@
           "name": "Snyk Code"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 75,
+    "commitCountLastYear": 72,
     "createdAt": "2022-05-30T19:53:44Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-10-06T07:27:04Z",
+    "lastCommit": "2023-10-10T16:43:50Z",
     "nameWithOwner": "maorun/snyk.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -4,18 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Table of Contents"
         },
         {
           "level": 3,
           "name": "Python"
         }
       ],
-      "file": "language-specific.md",
+      "file": "python.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -26,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         }
       ],
@@ -38,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 48,
+    "commitCountLastYear": 74,
     "createdAt": "2023-09-18T12:48:34Z",
     "description": "Automatically convert strings to f-strings or template strings and back.",
     "isArchived": false,
-    "lastCommit": "2023-09-26T20:00:17Z",
+    "lastCommit": "2023-10-14T06:45:40Z",
     "nameWithOwner": "chrisgrieser/nvim-puppeteer",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 39,
+    "star": 41,
     "topics": [
       "f-strings",
       "nvim-plugin",

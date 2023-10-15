@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -30,7 +26,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 50,
+    "commitCountLastYear": 30,
     "createdAt": "2021-03-20T03:01:30Z",
     "description": "A Neovim configuration for the advanced martian hacker",
     "isArchived": false,
@@ -40,7 +36,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 949,
+    "star": 952,
     "topics": [
       "doom-nvim",
       "neovim",

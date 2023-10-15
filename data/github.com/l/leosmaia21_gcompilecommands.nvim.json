@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        },
+        {
+          "level": 4,
+          "name": "Clang"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2023-10-07T19:37:23Z",
+    "description": "Small plugin for neovim to generate compile_commands.json",
+    "isArchived": false,
+    "lastCommit": "2023-10-08T01:46:38Z",
+    "nameWithOwner": "leosmaia21/gcompilecommands.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "clang",
+      "clangd",
+      "compilecommands",
+      "json"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gcompilecommands.nvim",
+  "owner": "leosmaia21",
+  "url": "https://github.com/leosmaia21/gcompilecommands.nvim"
+}

@@ -22,14 +22,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Git"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "GitHub"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 141,
+    "commitCountLastYear": 139,
     "createdAt": "2020-09-26T21:32:31Z",
     "description": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
     "isArchived": false,
-    "lastCommit": "2023-10-06T21:01:31Z",
+    "lastCommit": "2023-10-13T13:53:18Z",
     "nameWithOwner": "pwntester/octo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1774,
+    "star": 1786,
     "topics": [
       "neovim",
       "github",

@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Colorscheme"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Tree-sitter Supported Colorscheme"
         }
       ],
@@ -24,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 25,
     "createdAt": "2022-07-01T23:28:50Z",
     "description": "Neovim color schemes ported from VSCode Dark+ and Dark Modern with Treesitter and semantic token highlighting",
     "isArchived": false,
-    "lastCommit": "2023-10-03T19:58:29Z",
+    "lastCommit": "2023-10-09T17:45:35Z",
     "nameWithOwner": "rockyzhang24/arctic.nvim",
     "primaryLanguage": {
       "color": "#000080",

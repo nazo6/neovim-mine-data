@@ -26,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Utility"
         }
       ],
@@ -38,23 +34,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 33,
     "createdAt": "2023-09-29T01:20:57Z",
     "description": "Table view for data files, csv, tsv",
     "isArchived": false,
-    "lastCommit": "2023-10-01T21:49:08Z",
+    "lastCommit": "2023-10-10T11:36:30Z",
     "nameWithOwner": "VidocqH/data-viewer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 9,
     "topics": [
       "csv",
       "neovim-plugin",
       "nvim-plugin",
       "tableview",
-      "tsv"
+      "tsv",
+      "neovim",
+      "sqlite"
     ]
   },
   "domain": "github.com",

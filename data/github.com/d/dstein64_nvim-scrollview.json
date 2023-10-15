@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Scrolling"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Scrollbar"
         }
       ],
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 451,
+    "commitCountLastYear": 455,
     "createdAt": "2020-12-10T01:51:20Z",
     "description": "A Neovim plugin that displays interactive vertical scrollbars and signs.",
     "isArchived": false,
-    "lastCommit": "2023-10-04T21:38:45Z",
+    "lastCommit": "2023-10-11T19:19:37Z",
     "nameWithOwner": "dstein64/nvim-scrollview",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 424,
+    "star": 425,
     "topics": [
       "neovim",
       "scrollbar",

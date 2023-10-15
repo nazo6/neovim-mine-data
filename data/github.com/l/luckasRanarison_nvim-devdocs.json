@@ -7,10 +7,6 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
           "level": 3,
           "name": "Web"
         },
@@ -19,7 +15,7 @@
           "name": "DevDocs"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "web-service.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,10 +26,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Utility"
         }
       ],
@@ -52,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 156,
+    "star": 159,
     "topics": [
       "devdocs",
       "neovim",

@@ -18,10 +18,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -30,17 +26,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1103,
+    "commitCountLastYear": 1236,
     "createdAt": "2022-12-30T16:31:42Z",
     "description": "Neovim config for the lazy",
     "isArchived": false,
-    "lastCommit": "2023-10-08T09:42:13Z",
+    "lastCommit": "2023-10-15T07:16:52Z",
     "nameWithOwner": "LazyVim/LazyVim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8173,
+    "star": 8912,
     "topics": [
       "neovim",
       "neovim-conf",

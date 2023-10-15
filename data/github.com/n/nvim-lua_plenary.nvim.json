@@ -64,10 +64,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Neovim Lua Development"
         }
       ],
@@ -76,17 +72,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 64,
+    "commitCountLastYear": 65,
     "createdAt": "2020-04-11T00:57:00Z",
     "description": "plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
     "isArchived": false,
-    "lastCommit": "2023-09-12T13:47:13Z",
+    "lastCommit": "2023-10-11T13:43:47Z",
     "nameWithOwner": "nvim-lua/plenary.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1928,
+    "star": 1943,
     "topics": [
       "neovim",
       "lua",

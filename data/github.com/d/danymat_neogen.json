@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Special Comment"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Annotation"
         }
       ],
@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Comment"
         }
       ],
@@ -42,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 73,
+    "commitCountLastYear": 72,
     "createdAt": "2021-08-15T20:03:20Z",
     "description": "A better annotation generator. Supports multiple languages and annotation conventions.",
     "isArchived": false,

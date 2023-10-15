@@ -44,10 +44,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Editing Support"
         }
       ],
@@ -56,7 +52,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 80,
+    "commitCountLastYear": 78,
     "createdAt": "2020-11-22T11:51:03Z",
     "description": "enhanced increment/decrement plugin for Neovim.",
     "isArchived": false,

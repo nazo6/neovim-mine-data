@@ -8,10 +8,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Preconfigured Configuration"
         }
       ],
@@ -20,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 849,
+    "commitCountLastYear": 864,
     "createdAt": "2023-01-09T23:45:38Z",
     "description": "Lin Rongbin's Neovim Distribution",
     "isArchived": false,
-    "lastCommit": "2023-10-07T03:05:51Z",
+    "lastCommit": "2023-10-14T06:45:06Z",
     "nameWithOwner": "linrongbin16/lin.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 36,
+    "star": 37,
     "topics": [
       "neovim",
       "neovim-dotfiles"

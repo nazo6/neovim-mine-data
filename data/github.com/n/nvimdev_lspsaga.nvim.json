@@ -54,14 +54,10 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "LSP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "(requires Neovim 0.5)"
         }
       ],
@@ -70,17 +66,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 941,
+    "commitCountLastYear": 953,
     "createdAt": "2020-12-16T00:36:44Z",
     "description": "improve neovim lsp experience",
     "isArchived": false,
-    "lastCommit": "2023-10-07T06:56:40Z",
+    "lastCommit": "2023-10-15T04:11:30Z",
     "nameWithOwner": "nvimdev/lspsaga.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3017,
+    "star": 3030,
     "topics": [
       "lsp",
       "neovim",

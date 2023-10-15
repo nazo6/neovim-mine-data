@@ -22,10 +22,6 @@
         },
         {
           "level": 2,
-          "name": "Plugin"
-        },
-        {
-          "level": 3,
           "name": "Register"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 35,
     "createdAt": "2021-02-11T21:33:23Z",
     "description": "📑 Neovim plugin to preview the contents of the registers",
     "isArchived": false,
-    "lastCommit": "2023-10-07T14:03:25Z",
+    "lastCommit": "2023-10-08T18:29:51Z",
     "nameWithOwner": "tversteeg/registers.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 553,
+    "star": 555,
     "topics": [
       "neovim",
       "nvim",
