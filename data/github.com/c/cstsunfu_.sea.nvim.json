@@ -4,16 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Neovim distribution"
-        }
-      ],
-      "file": "Archived.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -26,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 75,
+    "commitCountLastYear": 85,
     "createdAt": "2017-10-09T11:28:35Z",
     "description": "21st-century Neovim configure. Mainly implemented by lua.",
     "isArchived": false,
-    "lastCommit": "2023-10-13T08:14:24Z",
+    "lastCommit": "2023-10-20T11:40:13Z",
     "nameWithOwner": "cstsunfu/.sea.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 128,
+    "star": 129,
     "topics": [
     ]
   },

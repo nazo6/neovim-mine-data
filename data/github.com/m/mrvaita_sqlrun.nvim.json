@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-10-15T10:17:04Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-10-21T09:58:40Z",
+    "nameWithOwner": "mrvaita/sqlrun.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "mysql",
+      "neovim",
+      "postgres",
+      "sql"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sqlrun.nvim",
+  "owner": "mrvaita",
+  "url": "https://github.com/mrvaita/sqlrun.nvim"
+}

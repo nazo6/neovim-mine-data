@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "C#"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2023-10-17T10:57:24Z",
+    "description": "Roslyn LSP plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-19T09:23:29Z",
+    "nameWithOwner": "jmederosalvarado/roslyn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "roslyn.nvim",
+  "owner": "jmederosalvarado",
+  "url": "https://github.com/jmederosalvarado/roslyn.nvim"
+}

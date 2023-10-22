@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "OS"
+        },
+        {
+          "level": 4,
+          "name": "Linux"
+        },
+        {
+          "level": 5,
+          "name": "xrandr"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-10-20T06:59:28Z",
+    "description": "A simple wrapper around xrandr to manage your monitors through neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-20T09:28:44Z",
+    "nameWithOwner": "HannHank/monitor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "monitor.nvim",
+  "owner": "HannHank",
+  "url": "https://github.com/HannHank/monitor.nvim"
+}

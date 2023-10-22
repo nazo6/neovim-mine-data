@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Macro"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-10-19T17:26:25Z",
+    "description": "telescope.nvim extension to manage macros (WIP)",
+    "isArchived": false,
+    "lastCommit": "2023-10-21T19:32:57Z",
+    "nameWithOwner": "1riz/telescope-macros.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-macros.nvim",
+  "owner": "1riz",
+  "url": "https://github.com/1riz/telescope-macros.nvim"
+}

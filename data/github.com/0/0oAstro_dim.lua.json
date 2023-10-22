@@ -2,8 +2,28 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        },
+        {
+          "level": 5,
+          "name": "unused variable"
+        }
       ],
-      "file": "Archived.md",
+      "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -25,5 +45,5 @@
   "domain": "github.com",
   "name": "dim.lua",
   "owner": "0oAstro",
-  "url": "https://github.com/NarutoXY/dim.lua"
+  "url": "https://github.com/0oAstro/dim.lua"
 }

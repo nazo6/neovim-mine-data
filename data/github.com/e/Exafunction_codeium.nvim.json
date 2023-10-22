@@ -2,8 +2,20 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "Codeium "
+        }
       ],
-      "file": "Archived.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -18,12 +30,12 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 272,
+    "star": 278,
     "topics": [
     ]
   },
   "domain": "github.com",
   "name": "codeium.nvim",
   "owner": "Exafunction",
-  "url": "https://github.com/jcdickinson/codeium.nvim"
+  "url": "https://github.com/Exafunction/codeium.nvim"
 }

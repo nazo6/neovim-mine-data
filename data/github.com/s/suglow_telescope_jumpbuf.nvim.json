@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Appearance"
+          "name": "Go to File"
         },
         {
           "level": 3,
-          "name": "winbar"
+          "name": "jumplist"
         }
       ],
-      "file": "readme.md",
+      "file": "jump.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
-    "createdAt": "2023-05-25T15:39:43Z",
+    "commitCountLastYear": 4,
+    "createdAt": "2023-10-14T23:51:59Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-05-30T01:49:40Z",
-    "nameWithOwner": "kiet231199/winbar.nvim",
+    "lastCommit": "2023-10-15T07:02:31Z",
+    "nameWithOwner": "suglow/telescope_jumpbuf.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "winbar.nvim",
-  "owner": "kiet231199",
-  "url": "https://github.com/kiet231199/winbar.nvim"
+  "name": "telescope_jumpbuf.nvim",
+  "owner": "suglow",
+  "url": "https://github.com/suglow/telescope_jumpbuf.nvim"
 }

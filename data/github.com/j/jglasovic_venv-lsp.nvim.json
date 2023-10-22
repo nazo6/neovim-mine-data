@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        },
+        {
+          "level": 4,
+          "name": "venv"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-10-20T13:20:31Z",
+    "description": "Automatically handle Python virtualenvs for LSP",
+    "isArchived": false,
+    "lastCommit": "2023-10-20T22:07:44Z",
+    "nameWithOwner": "jglasovic/venv-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lsp",
+      "lspconfig",
+      "neovim",
+      "null-ls",
+      "python",
+      "virtualenv",
+      "none-ls"
+    ]
+  },
+  "domain": "github.com",
+  "name": "venv-lsp.nvim",
+  "owner": "jglasovic",
+  "url": "https://github.com/jglasovic/venv-lsp.nvim"
+}

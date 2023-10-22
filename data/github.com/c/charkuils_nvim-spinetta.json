@@ -20,12 +20,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 92,
+    "commitCountLastYear": 94,
     "createdAt": "2023-02-03T17:18:47Z",
     "description": "Neovim library written in Lua for using a spinner during a job process",
     "isArchived": false,
-    "lastCommit": "2023-10-06T22:30:09Z",
-    "nameWithOwner": "orfosys/nvim-spinetta",
+    "lastCommit": "2023-10-20T14:48:16Z",
+    "nameWithOwner": "charkuils/nvim-spinetta",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -42,6 +42,6 @@
   },
   "domain": "github.com",
   "name": "nvim-spinetta",
-  "owner": "orfosys",
+  "owner": "charkuils",
   "url": "https://github.com/javio7/nvim-spinetta"
 }

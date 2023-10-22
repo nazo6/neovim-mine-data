@@ -38,23 +38,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 30,
     "createdAt": "2023-04-19T13:31:20Z",
     "description": "🎨 Convenient plugin to switch between themes installed in neovim through a menu.",
     "isArchived": false,
-    "lastCommit": "2023-09-24T18:47:11Z",
+    "lastCommit": "2023-10-18T09:18:06Z",
     "nameWithOwner": "zaldih/themery.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 65,
+    "star": 68,
     "topics": [
       "colorscheme",
       "lua",
       "neovim",
       "plugin",
-      "theme"
+      "theme",
+      "hacktoberfest"
     ]
   },
   "domain": "github.com",

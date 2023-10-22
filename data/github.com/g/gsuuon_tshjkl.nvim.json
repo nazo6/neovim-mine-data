@@ -1,0 +1,59 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "j/k"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2023-06-27T17:44:11Z",
+    "description": "Tree-sitter hjkl movement for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-07-12T23:03:44Z",
+    "nameWithOwner": "gsuuon/tshjkl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tshjkl.nvim",
+  "owner": "gsuuon",
+  "url": "https://github.com/gsuuon/tshjkl.nvim"
+}

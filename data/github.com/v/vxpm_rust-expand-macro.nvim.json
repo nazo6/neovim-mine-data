@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Language specific"
-        },
-        {
-          "level": 2,
-          "name": "Programing Language / Framework"
-        },
-        {
-          "level": 3,
-          "name": "Rust"
-        }
       ],
-      "file": "language-specific.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 5,
     "createdAt": "2023-09-08T04:39:11Z",
     "description": "a simple neovim plugin for expanding rust macros :)",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-09-10T21:04:30Z",
     "nameWithOwner": "vxpm/rust-expand-macro.nvim",
     "primaryLanguage": {

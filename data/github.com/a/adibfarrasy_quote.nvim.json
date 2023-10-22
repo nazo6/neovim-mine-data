@@ -4,28 +4,24 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
+          "name": "Toy"
         },
         {
           "level": 2,
-          "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "Get LSP Client"
+          "name": "Cowsay"
         }
       ],
-      "file": "lsp.md",
+      "file": "toy.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
-    "createdAt": "2023-07-11T01:18:44Z",
+    "commitCountLastYear": 3,
+    "createdAt": "2023-10-14T07:39:23Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-07-11T01:52:40Z",
-    "nameWithOwner": "i314q159/ac.nvim",
+    "lastCommit": "2023-10-14T13:30:07Z",
+    "nameWithOwner": "adibfarrasy/quote.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "ac.nvim",
-  "owner": "i314q159",
-  "url": "https://github.com/i314q159/ac.nvim"
+  "name": "quote.nvim",
+  "owner": "adibfarrasy",
+  "url": "https://github.com/adibfarrasy/quote.nvim"
 }

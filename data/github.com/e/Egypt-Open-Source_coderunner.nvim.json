@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Auto detect style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-10-13T12:15:12Z",
+    "description": "A simple plugin to directly run code in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-17T17:15:13Z",
+    "nameWithOwner": "Egypt-Open-Source/coderunner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "coderunner.nvim",
+  "owner": "Egypt-Open-Source",
+  "url": "https://github.com/Egypt-Open-Source/coderunner.nvim"
+}

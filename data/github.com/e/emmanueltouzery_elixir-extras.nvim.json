@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Elixir"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-10-13T20:42:40Z",
+    "description": "neovim plugin with elixir-specific features",
+    "isArchived": false,
+    "lastCommit": "2023-10-15T16:31:21Z",
+    "nameWithOwner": "emmanueltouzery/elixir-extras.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "elixir-extras.nvim",
+  "owner": "emmanueltouzery",
+  "url": "https://github.com/emmanueltouzery/elixir-extras.nvim"
+}

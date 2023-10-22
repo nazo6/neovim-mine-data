@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2023-07-18T09:57:00Z",
+    "description": "Simple building plugin for neovim written 100% in lua",
+    "isArchived": false,
+    "lastCommit": "2023-10-20T06:20:31Z",
+    "nameWithOwner": "trimclain/builder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "builder",
+      "lua",
+      "neovim",
+      "plugin",
+      "quickrun"
+    ]
+  },
+  "domain": "github.com",
+  "name": "builder.nvim",
+  "owner": "trimclain",
+  "url": "https://github.com/trimclain/builder.nvim"
+}

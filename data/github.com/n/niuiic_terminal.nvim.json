@@ -4,10 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Keymap"
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
         }
       ],
-      "file": "mapping.md",
+      "file": "terminal.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -18,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "Motion"
+          "name": "Terminal Integration"
         }
       ],
       "file": "README.md",
@@ -26,23 +34,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2022-05-18T13:39:20Z",
-    "description": "Readline motions and deletions in Neovim",
+    "commitCountLastYear": 8,
+    "createdAt": "2023-10-21T01:52:45Z",
+    "description": "Simple and highly configurable terminal plugin for neovim.",
     "isArchived": false,
-    "lastCommit": "2022-08-13T12:38:02Z",
-    "nameWithOwner": "linty-org/readline.nvim",
+    "lastCommit": "2023-10-21T04:47:26Z",
+    "nameWithOwner": "niuiic/terminal.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 102,
+    "star": 1,
     "topics": [
-      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "readline.nvim",
-  "owner": "linty-org",
-  "url": "https://github.com/linty-org/readline.nvim"
+  "name": "terminal.nvim",
+  "owner": "niuiic",
+  "url": "https://github.com/niuiic/terminal.nvim"
 }

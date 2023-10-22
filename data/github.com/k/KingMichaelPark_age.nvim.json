@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Security"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-10-14T11:07:21Z",
+    "description": "A simply utility for loading encrypted secrets from an age encrypted file.",
+    "isArchived": false,
+    "lastCommit": "2023-10-20T20:56:29Z",
+    "nameWithOwner": "KingMichaelPark/age.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "age.nvim",
+  "owner": "KingMichaelPark",
+  "url": "https://github.com/KingMichaelPark/age.nvim"
+}

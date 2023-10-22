@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "[Indent](./indent.md)"
+          "name": "Indent"
         },
         {
           "level": 3,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 70,
+    "commitCountLastYear": 74,
     "createdAt": "2020-04-11T13:55:29Z",
     "description": "Indent guides  for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-12T03:23:30Z",
+    "lastCommit": "2023-10-19T03:33:16Z",
     "nameWithOwner": "lukas-reineke/indent-blankline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3219,
+    "star": 3241,
     "topics": [
       "vim",
       "vim-plugin",

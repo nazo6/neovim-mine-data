@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Switcher"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-10-15T05:43:39Z",
+    "description": "jump to a window in the tmux display-panes way",
+    "isArchived": false,
+    "lastCommit": "2023-10-17T10:44:08Z",
+    "nameWithOwner": "haolian9/winjump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "winjump.nvim",
+  "owner": "haolian9",
+  "url": "https://github.com/haolian9/winjump.nvim"
+}

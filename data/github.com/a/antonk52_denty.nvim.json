@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Indent"
+        },
+        {
+          "level": 3,
+          "name": "Indent Size"
+        }
+      ],
+      "file": "indent.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-10-14T13:45:10Z",
+    "description": "Indentation characters and auto set tabstop, shiftwidth, and expandtab for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-14T13:46:19Z",
+    "nameWithOwner": "antonk52/denty.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "denty.nvim",
+  "owner": "antonk52",
+  "url": "https://github.com/antonk52/denty.nvim"
+}

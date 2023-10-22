@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Video"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-10-18T09:26:51Z",
+    "description": "Play the famous DVD animation inside a neovim buffer",
+    "isArchived": false,
+    "lastCommit": "2023-10-18T09:42:48Z",
+    "nameWithOwner": "njegg/dvd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dvd.nvim",
+  "owner": "njegg",
+  "url": "https://github.com/njegg/dvd.nvim"
+}
