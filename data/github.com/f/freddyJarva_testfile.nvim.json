@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Test"
+        },
+        {
+          "level": 3,
+          "name": "Test file"
+        }
+      ],
+      "file": "test.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-10-21T18:57:28Z",
+    "description": "Simple plugin to help with creating test files for your source code",
+    "isArchived": false,
+    "lastCommit": "2023-10-21T19:13:27Z",
+    "nameWithOwner": "freddyJarva/testfile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "testfile.nvim",
+  "owner": "freddyJarva",
+  "url": "https://github.com/freddyJarva/testfile.nvim"
+}

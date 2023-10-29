@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua Development"
+        },
+        {
+          "level": 3,
+          "name": "LuaRocks"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 71,
+    "createdAt": "2023-07-05T11:24:40Z",
+    "description": "Neovim plugin management inspired by `Cargo`.",
+    "isArchived": false,
+    "lastCommit": "2023-10-28T17:27:11Z",
+    "nameWithOwner": "nvim-neorocks/rocks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rocks.nvim",
+  "owner": "nvim-neorocks",
+  "url": "https://github.com/nvim-neorocks/rocks.nvim"
+}

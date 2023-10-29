@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Analytics"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-10-23T17:08:46Z",
+    "description": "neovim plugin to count and track your keystrokes",
+    "isArchived": false,
+    "lastCommit": "2023-10-23T17:53:35Z",
+    "nameWithOwner": "OscarCreator/keystats.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keystats.nvim",
+  "owner": "OscarCreator",
+  "url": "https://github.com/OscarCreator/keystats.nvim"
+}

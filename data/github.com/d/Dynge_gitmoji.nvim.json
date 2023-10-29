@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Emoji"
+        }
+      ],
+      "file": "emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2023-10-23T16:51:08Z",
+    "description": "Gitmojis for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-27T20:58:03Z",
+    "nameWithOwner": "Dynge/gitmoji.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "gitmoji",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitmoji.nvim",
+  "owner": "Dynge",
+  "url": "https://github.com/Dynge/gitmoji.nvim"
+}

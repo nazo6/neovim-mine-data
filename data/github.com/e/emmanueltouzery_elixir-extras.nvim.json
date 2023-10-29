@@ -20,18 +20,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 15,
     "createdAt": "2023-10-13T20:42:40Z",
     "description": "neovim plugin with elixir-specific features",
     "isArchived": false,
-    "lastCommit": "2023-10-15T16:31:21Z",
+    "lastCommit": "2023-10-25T19:37:25Z",
     "nameWithOwner": "emmanueltouzery/elixir-extras.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 20,
     "topics": [
+      "elixir",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim"
     ]
   },
   "domain": "github.com",

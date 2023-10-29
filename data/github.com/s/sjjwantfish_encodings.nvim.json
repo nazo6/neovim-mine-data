@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Documentation"
+          "name": "Other Standard Feature Enhancement"
         },
         {
           "level": 3,
-          "name": "Markdown"
+          "name": "Encoding"
         }
       ],
-      "file": "documentation.md",
+      "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
-    "createdAt": "2023-06-25T18:27:45Z",
-    "description": "Lightweight markdown utility plugin for neovim.",
+    "commitCountLastYear": 2,
+    "createdAt": "2023-10-22T01:49:37Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2023-06-26T08:17:25Z",
-    "nameWithOwner": "inkognitobo/mkdown.nvim",
+    "lastCommit": "2023-10-22T01:53:27Z",
+    "nameWithOwner": "sjjwantfish/encodings.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "mkdown.nvim",
-  "owner": "inkognitobo",
-  "url": "https://github.com/inkognitobo/mkdown.nvim"
+  "name": "encodings.nvim",
+  "owner": "sjjwantfish",
+  "url": "https://github.com/sjjwantfish/encodings.nvim"
 }

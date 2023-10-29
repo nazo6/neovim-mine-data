@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-10-27T21:18:18Z",
+    "description": "Never forget self in methods",
+    "isArchived": false,
+    "lastCommit": "2023-10-28T03:06:30Z",
+    "nameWithOwner": "SWiegandt/autoself.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "autoself.nvim",
+  "owner": "SWiegandt",
+  "url": "https://github.com/SWiegandt/autoself.nvim"
+}

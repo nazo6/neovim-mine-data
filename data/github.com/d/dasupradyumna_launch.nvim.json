@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 30,
     "createdAt": "2023-06-23T06:39:34Z",
     "description": ":rocket: A task launcher plugin for neovim allowing dynamic task configuration per directory, with optional support for debugging",
     "isArchived": false,
-    "lastCommit": "2023-10-16T04:46:01Z",
+    "lastCommit": "2023-10-29T08:01:17Z",
     "nameWithOwner": "dasupradyumna/launch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 14,
+    "star": 16,
     "topics": [
       "debugging-tool",
       "hot-reload",

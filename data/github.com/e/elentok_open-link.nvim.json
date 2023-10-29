@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-10-23T14:49:34Z",
+    "description": "Neovim plugin to open links (and custom phrases that can be converted to a link)",
+    "isArchived": false,
+    "lastCommit": "2023-10-23T19:59:20Z",
+    "nameWithOwner": "elentok/open-link.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-link.nvim",
+  "owner": "elentok",
+  "url": "https://github.com/elentok/open-link.nvim"
+}

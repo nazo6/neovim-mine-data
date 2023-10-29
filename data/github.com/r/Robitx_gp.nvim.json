@@ -34,28 +34,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 107,
+    "commitCountLastYear": 120,
     "createdAt": "2023-06-18T13:55:46Z",
-    "description": "Gp (GPT Prompt) plugin for Neovim",
+    "description": "⭕🤖⭕ Extensible Neovim AI plugin ~  ChatGPT + Copilot + Speech to text. Uses OpenAI's GPT LLMs & Whisper. Native nvim/vim UX.",
     "isArchived": false,
-    "lastCommit": "2023-10-19T09:42:29Z",
+    "lastCommit": "2023-10-28T22:50:55Z",
     "nameWithOwner": "Robitx/gp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 110,
+    "star": 117,
     "topics": [
-      "autocomplete",
       "chatgpt",
       "copilot",
       "gpt",
-      "neovim-plugin",
       "neovim",
       "openai",
       "gpt-4",
       "nvim",
-      "nvim-plugin"
+      "ai",
+      "gpt-3",
+      "speech-to-text"
     ]
   },
   "domain": "github.com",

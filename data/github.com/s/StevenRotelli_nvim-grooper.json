@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Hardware"
+        },
+        {
+          "level": 4,
+          "name": "Grooper"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-10-23T21:25:19Z",
+    "description": "nvim plugin for Grooper object libraries",
+    "isArchived": false,
+    "lastCommit": "2023-10-23T21:37:00Z",
+    "nameWithOwner": "StevenRotelli/nvim-grooper",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-grooper",
+  "owner": "StevenRotelli",
+  "url": "https://github.com/StevenRotelli/nvim-grooper"
+}

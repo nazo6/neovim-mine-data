@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-10-21T03:56:53Z",
+    "description": "A Telescope extension to quickly switch your working directory from a list of specified directories within a workspace.",
+    "isArchived": false,
+    "lastCommit": "2023-10-27T04:17:38Z",
+    "nameWithOwner": "mskelton/telescope-jumper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "directories",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-jumper.nvim",
+  "owner": "mskelton",
+  "url": "https://github.com/mskelton/telescope-jumper.nvim"
+}

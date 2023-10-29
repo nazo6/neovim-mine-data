@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Operator"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-10-25T02:56:18Z",
+    "description": "Smooth operator input for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-25T16:09:01Z",
+    "nameWithOwner": "cat-phish/smooth-operator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smooth-operator.nvim",
+  "owner": "cat-phish",
+  "url": "https://github.com/cat-phish/smooth-operator.nvim"
+}

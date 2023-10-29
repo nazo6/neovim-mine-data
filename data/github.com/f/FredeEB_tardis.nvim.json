@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git log"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-10-24T23:43:00Z",
+    "description": "Timetravel for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-26T23:10:56Z",
+    "nameWithOwner": "FredeEB/tardis.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tardis.nvim",
+  "owner": "FredeEB",
+  "url": "https://github.com/FredeEB/tardis.nvim"
+}

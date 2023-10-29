@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-10-24T19:26:43Z",
+    "description": "Kubernetes schema support for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-24T19:55:07Z",
+    "nameWithOwner": "diogo464/kubernetes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "kubernetes",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kubernetes.nvim",
+  "owner": "diogo464",
+  "url": "https://github.com/diogo464/kubernetes.nvim"
+}

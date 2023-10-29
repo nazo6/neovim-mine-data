@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Color picker"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-10-26T01:09:06Z",
+    "description": "The easiest Neovim color picker in the world.",
+    "isArchived": false,
+    "lastCommit": "2023-10-26T17:51:13Z",
+    "nameWithOwner": "neph-iap/easycolor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "color-picker",
+      "neovim-colors",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "easycolor.nvim",
+  "owner": "neph-iap",
+  "url": "https://github.com/neph-iap/easycolor.nvim"
+}

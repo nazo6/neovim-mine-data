@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 10,
     "createdAt": "2023-10-20T13:20:31Z",
     "description": "Automatically handle Python virtualenvs for LSP",
     "isArchived": false,
-    "lastCommit": "2023-10-20T22:07:44Z",
+    "lastCommit": "2023-10-27T17:36:39Z",
     "nameWithOwner": "jglasovic/venv-lsp.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -38,7 +38,8 @@
       "null-ls",
       "python",
       "virtualenv",
-      "none-ls"
+      "none-ls",
+      "nvim"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Croc"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-10-24T22:39:53Z",
+    "description": "croc plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-25T00:10:48Z",
+    "nameWithOwner": "heaveless/croc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "croc.nvim",
+  "owner": "heaveless",
+  "url": "https://github.com/heaveless/croc.nvim"
+}

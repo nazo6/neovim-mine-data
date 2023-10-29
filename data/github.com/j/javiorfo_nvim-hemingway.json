@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 105,
+    "commitCountLastYear": 107,
     "createdAt": "2023-02-02T02:23:54Z",
     "description": "Neovim plugin written in Lua for commenting code",
     "isArchived": false,
-    "lastCommit": "2023-10-20T14:46:56Z",
-    "nameWithOwner": "charkuils/nvim-hemingway",
+    "lastCommit": "2023-10-22T14:55:43Z",
+    "nameWithOwner": "javiorfo/nvim-hemingway",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9,
+    "star": 10,
     "topics": [
       "commentary",
       "comments",
@@ -50,6 +50,6 @@
   },
   "domain": "github.com",
   "name": "nvim-hemingway",
-  "owner": "charkuils",
+  "owner": "javiorfo",
   "url": "https://github.com/orfosys/nvim-hemingway"
 }

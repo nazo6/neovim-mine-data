@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-10-23T11:19:09Z",
+    "description": "Simple todo list.",
+    "isArchived": false,
+    "lastCommit": "2023-10-26T14:31:25Z",
+    "nameWithOwner": "kimpors/plan.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin",
+      "todolist"
+    ]
+  },
+  "domain": "github.com",
+  "name": "plan.nvim",
+  "owner": "kimpors",
+  "url": "https://github.com/kimpors/plan.nvim"
+}

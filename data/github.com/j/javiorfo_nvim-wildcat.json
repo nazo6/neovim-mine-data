@@ -24,12 +24,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 92,
+    "commitCountLastYear": 94,
     "createdAt": "2023-02-02T02:22:57Z",
     "description": "Neovim plugin written in Lua for deploying Java war (or ear) files on Tomcat, JBoss or Wildfly",
     "isArchived": false,
-    "lastCommit": "2023-10-20T14:47:23Z",
-    "nameWithOwner": "charkuils/nvim-wildcat",
+    "lastCommit": "2023-10-22T14:55:12Z",
+    "nameWithOwner": "javiorfo/nvim-wildcat",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -47,6 +47,6 @@
   },
   "domain": "github.com",
   "name": "nvim-wildcat",
-  "owner": "charkuils",
+  "owner": "javiorfo",
   "url": "https://github.com/orfosys/nvim-wildcat"
 }

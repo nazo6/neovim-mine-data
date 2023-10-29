@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        },
+        {
+          "level": 4,
+          "name": "Anaconda"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2023-06-13T20:10:20Z",
+    "description": "Implementation of the conda package manager inside Neovim. Activate environments easily, update LSPs and more. ",
+    "isArchived": false,
+    "lastCommit": "2023-10-29T04:40:40Z",
+    "nameWithOwner": "kmontocam/nvim-conda",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "conda",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-conda",
+  "owner": "kmontocam",
+  "url": "https://github.com/kmontocam/nvim-conda"
+}
