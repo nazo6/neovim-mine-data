@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 33,
     "createdAt": "2023-10-18T08:15:48Z",
-    "description": null,
+    "description": "Auto indent like VSCode when cursor at the first column and press <TAB> key",
     "isArchived": false,
-    "lastCommit": "2023-10-26T20:29:33Z",
+    "lastCommit": "2023-11-03T10:05:56Z",
     "nameWithOwner": "VidocqH/auto-indent.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 11,
     "topics": [
       "autoindent",
       "indent",

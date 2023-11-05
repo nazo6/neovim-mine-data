@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-10-27T19:45:45Z",
+    "description": "A Neovim plugin to add Ollama support.",
+    "isArchived": false,
+    "lastCommit": "2023-10-31T04:56:02Z",
+    "nameWithOwner": "rheinardkorf/nvim-ollama",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ollama",
+  "owner": "rheinardkorf",
+  "url": "https://github.com/rheinardkorf/nvim-ollama"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        },
+        {
+          "level": 4,
+          "name": "Cmake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-10-29T00:19:41Z",
+    "description": "cmake-tools implementation for nvim",
+    "isArchived": false,
+    "lastCommit": "2023-11-04T15:13:38Z",
+    "nameWithOwner": "XDeme/cmake-kits.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmake-kits.nvim",
+  "owner": "XDeme",
+  "url": "https://github.com/XDeme/cmake-kits.nvim"
+}

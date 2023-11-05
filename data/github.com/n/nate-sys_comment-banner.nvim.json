@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        },
+        {
+          "level": 3,
+          "name": "Comment Header"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-10-28T15:51:15Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-10-28T18:20:58Z",
+    "nameWithOwner": "nate-sys/comment-banner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment-banner.nvim",
+  "owner": "nate-sys",
+  "url": "https://github.com/nate-sys/comment-banner.nvim"
+}

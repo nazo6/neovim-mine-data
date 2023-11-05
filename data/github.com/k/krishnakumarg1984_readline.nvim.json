@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Terminal"
+          "name": "Motion"
         },
         {
           "level": 3,
-          "name": "Terminal Enhancement"
+          "name": "Emacs Motion"
         }
       ],
-      "file": "terminal.md",
+      "file": "motion.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 23,
-    "createdAt": "2023-09-22T19:58:05Z",
-    "description": null,
+    "commitCountLastYear": 1,
+    "createdAt": "2023-10-31T16:26:07Z",
+    "description": "Readline motions and deletions in Neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-27T21:17:05Z",
-    "nameWithOwner": "ryanmsnyder/telescope-toggleterm.nvim",
+    "lastCommit": "2023-10-31T16:39:14Z",
+    "nameWithOwner": "krishnakumarg1984/readline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "telescope-toggleterm.nvim",
-  "owner": "ryanmsnyder",
-  "url": "https://github.com/ryanmsnyder/telescope-toggleterm.nvim"
+  "name": "readline.nvim",
+  "owner": "krishnakumarg1984",
+  "url": "https://github.com/krishnakumarg1984/readline.nvim"
 }

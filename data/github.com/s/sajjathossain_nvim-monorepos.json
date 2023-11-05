@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Root Detector"
+        },
+        {
+          "level": 5,
+          "name": "Monorepo"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 90,
+    "createdAt": "2023-11-01T15:02:10Z",
+    "description": "simple telescope project switcher for monorepos",
+    "isArchived": false,
+    "lastCommit": "2023-11-02T14:20:41Z",
+    "nameWithOwner": "sajjathossain/nvim-monorepos",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-lua",
+      "nvim-plugin",
+      "telescope-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-monorepos",
+  "owner": "sajjathossain",
+  "url": "https://github.com/sajjathossain/nvim-monorepos"
+}

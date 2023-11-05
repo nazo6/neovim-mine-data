@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Lazy load"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2023-10-29T01:39:33Z",
+    "description": "Lazy loader helper for Neovim, particularly geared for use with lazy.nvim. Mirror of GitLab repository.",
+    "isArchived": false,
+    "lastCommit": "2023-10-31T21:16:55Z",
+    "nameWithOwner": "Xarvex/lazy-load.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazy-load.nvim",
+  "owner": "Xarvex",
+  "url": "https://github.com/Xarvex/lazy-load.nvim"
+}

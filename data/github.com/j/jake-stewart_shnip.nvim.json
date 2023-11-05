@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-10-29T04:03:40Z",
+    "description": "shit snippets",
+    "isArchived": false,
+    "lastCommit": "2023-11-02T05:51:59Z",
+    "nameWithOwner": "jake-stewart/shnip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "shnip.nvim",
+  "owner": "jake-stewart",
+  "url": "https://github.com/jake-stewart/shnip.nvim"
+}

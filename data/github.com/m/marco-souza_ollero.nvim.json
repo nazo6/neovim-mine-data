@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 12,
     "createdAt": "2023-08-31T22:00:06Z",
-    "description": "Ollero is a nvim plugin integrating llama2 with your neovim offline",
+    "description": "Ollero is a nvim plugin for integrating `ollama` with neovim locally",
     "isArchived": false,
-    "lastCommit": "2023-10-19T18:53:59Z",
+    "lastCommit": "2023-11-01T16:35:44Z",
     "nameWithOwner": "marco-souza/ollero.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 4,
     "topics": [
       "llms",
       "lua",

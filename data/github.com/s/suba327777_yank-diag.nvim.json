@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2023-11-03T11:47:28Z",
+    "description": "neovim plugin for yank diagnose message",
+    "isArchived": false,
+    "lastCommit": "2023-11-05T09:14:31Z",
+    "nameWithOwner": "suba327777/yank-diag.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "yank-diag.nvim",
+  "owner": "suba327777",
+  "url": "https://github.com/suba327777/yank-diag.nvim"
+}

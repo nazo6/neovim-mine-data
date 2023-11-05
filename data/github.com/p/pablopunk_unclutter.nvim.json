@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "delete"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2023-10-30T19:48:45Z",
+    "description": "Keep your neovim buffers clean",
+    "isArchived": false,
+    "lastCommit": "2023-11-04T21:16:06Z",
+    "nameWithOwner": "pablopunk/unclutter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "unclutter.nvim",
+  "owner": "pablopunk",
+  "url": "https://github.com/pablopunk/unclutter.nvim"
+}

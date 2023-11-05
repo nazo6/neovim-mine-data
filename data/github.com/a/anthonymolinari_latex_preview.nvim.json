@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "Tex Preview"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-10-30T20:18:42Z",
+    "description": "latex preview in neovim!",
+    "isArchived": false,
+    "lastCommit": "2023-11-02T05:44:20Z",
+    "nameWithOwner": "anthonymolinari/latex_preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "latex_preview.nvim",
+  "owner": "anthonymolinari",
+  "url": "https://github.com/anthonymolinari/latex_preview.nvim"
+}

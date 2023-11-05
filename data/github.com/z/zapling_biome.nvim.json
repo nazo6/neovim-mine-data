@@ -2,37 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "Javascript/Typescript"
-        },
-        {
-          "level": 4,
-          "name": "Toolchain"
-        },
-        {
-          "level": 5,
-          "name": "Task Runner"
-        },
-        {
-          "level": 6,
-          "name": "Biome"
-        }
       ],
-      "file": "js_ts.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 5,
     "createdAt": "2023-08-30T11:25:47Z",
     "description": "Biome (previously rome) helper utils for nvim",
-    "isArchived": false,
-    "lastCommit": "2023-08-30T12:08:43Z",
+    "isArchived": true,
+    "lastCommit": "2023-10-30T14:35:29Z",
     "nameWithOwner": "zapling/biome.nvim",
     "primaryLanguage": {
       "color": "#000080",

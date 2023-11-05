@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-10-29T08:29:45Z",
+    "description": "Asynchronous find and replace. More of a proof of concept / Lua and Neovim project than a useful plugin but hey, it's something",
+    "isArchived": false,
+    "lastCommit": "2023-10-29T08:27:18Z",
+    "nameWithOwner": "ctimmins96/fnr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fnr.nvim",
+  "owner": "ctimmins96",
+  "url": "https://github.com/ctimmins96/fnr.nvim"
+}

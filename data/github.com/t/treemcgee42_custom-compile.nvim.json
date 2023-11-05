@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-10-30T04:48:07Z",
+    "description": "Dead simple compiler plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-11-03T14:59:48Z",
+    "nameWithOwner": "treemcgee42/custom-compile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "custom-compile.nvim",
+  "owner": "treemcgee42",
+  "url": "https://github.com/treemcgee42/custom-compile.nvim"
+}

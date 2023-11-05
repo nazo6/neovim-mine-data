@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-11-02T20:26:33Z",
+    "description": "😎 Opinionated Neovim plugin for organizing Obsidian-like vaults.",
+    "isArchived": false,
+    "lastCommit": "2023-11-04T16:15:29Z",
+    "nameWithOwner": "oleksiiluchnikov/vault.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-cmp",
+      "obsidian-md",
+      "obsidian-vault"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vault.nvim",
+  "owner": "oleksiiluchnikov",
+  "url": "https://github.com/oleksiiluchnikov/vault.nvim"
+}

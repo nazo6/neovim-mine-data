@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Insert"
+        },
+        {
+          "level": 4,
+          "name": "Smart Tab"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-11-01T11:47:31Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-11-01T11:49:11Z",
+    "nameWithOwner": "nvim-jo/smarttab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smarttab.nvim",
+  "owner": "nvim-jo",
+  "url": "https://github.com/nvim-jo/smarttab.nvim"
+}

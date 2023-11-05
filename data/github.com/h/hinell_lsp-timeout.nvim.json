@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 6,
     "createdAt": "2023-09-22T10:05:27Z",
     "description": "Start/stop LSP servers upon demand; keeps RAM usage low",
     "isArchived": false,
-    "lastCommit": "2023-10-23T20:25:20Z",
+    "lastCommit": "2023-10-30T16:12:16Z",
     "nameWithOwner": "hinell/lsp-timeout.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 91,
+    "star": 94,
     "topics": [
       "lsp",
       "neovim-plugin",
