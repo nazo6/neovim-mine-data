@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Help"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-04T11:53:41Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-11-05T11:21:06Z",
+    "nameWithOwner": "catgoose/telescope-helpgrep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-helpgrep.nvim",
+  "owner": "catgoose",
+  "url": "https://github.com/catgoose/telescope-helpgrep.nvim"
+}

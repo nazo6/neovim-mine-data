@@ -20,22 +20,27 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
-    "createdAt": "2023-08-31T03:13:08Z",
-    "description": "Adding llama-code to nvim",
+    "commitCountLastYear": 44,
+    "createdAt": "2023-11-02T09:39:47Z",
+    "description": "Neovim Plugin to interact with Ollama API 🦙",
     "isArchived": false,
-    "lastCommit": "2023-09-02T18:47:07Z",
-    "nameWithOwner": "nc-glitch/llama_code.nvim",
+    "lastCommit": "2023-11-07T23:22:15Z",
+    "nameWithOwner": "ziontee113/ollama.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 9,
     "topics": [
+      "llama2",
+      "llms",
+      "lua",
+      "nvim",
+      "ollama"
     ]
   },
   "domain": "github.com",
-  "name": "llama_code.nvim",
-  "owner": "nc-glitch",
-  "url": "https://github.com/nc-glitch/llama_code.nvim"
+  "name": "ollama.nvim",
+  "owner": "ziontee113",
+  "url": "https://github.com/ziontee113/ollama.nvim"
 }

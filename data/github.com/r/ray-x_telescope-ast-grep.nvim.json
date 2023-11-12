@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Grep"
+        },
+        {
+          "level": 2,
+          "name": "AST"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-11-04T03:57:46Z",
+    "description": "AST grep extension for telescope.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-11-05T23:25:45Z",
+    "nameWithOwner": "ray-x/telescope-ast-grep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "ast",
+      "neovim-plugin",
+      "telescope-extension",
+      "treesitter",
+      "grep",
+      "ast-grep"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-ast-grep.nvim",
+  "owner": "ray-x",
+  "url": "https://github.com/ray-x/telescope-ast-grep.nvim"
+}

@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-11-04T21:28:27Z",
+    "description": "Get the classic copy paste key bindings working as expected in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-11-09T22:47:50Z",
+    "nameWithOwner": "dam9000/classic-copy-paste.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-configuration",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "classic-copy-paste.nvim",
+  "owner": "dam9000",
+  "url": "https://github.com/dam9000/classic-copy-paste.nvim"
+}

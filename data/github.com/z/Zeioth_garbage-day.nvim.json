@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP timeout"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 148,
+    "createdAt": "2023-11-05T02:27:10Z",
+    "description": "Garbage collector that stops inactive LSP clients to free RAM",
+    "isArchived": false,
+    "lastCommit": "2023-11-09T05:44:50Z",
+    "nameWithOwner": "Zeioth/garbage-day.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 70,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "garbage-day.nvim",
+  "owner": "Zeioth",
+  "url": "https://github.com/Zeioth/garbage-day.nvim"
+}

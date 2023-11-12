@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Search"
+        },
+        {
+          "level": 2,
+          "name": "Word Count"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2023-10-10T21:47:13Z",
+    "description": "Adds search abilities",
+    "isArchived": false,
+    "lastCommit": "2023-10-31T00:44:13Z",
+    "nameWithOwner": "backdround/improved-search.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "improved-search.nvim",
+  "owner": "backdround",
+  "url": "https://github.com/backdround/improved-search.nvim"
+}

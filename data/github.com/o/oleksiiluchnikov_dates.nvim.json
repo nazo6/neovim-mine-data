@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Date"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-11-04T18:40:27Z",
+    "description": "📅 An utility Neovim plugin to manage and process dates.",
+    "isArchived": false,
+    "lastCommit": "2023-11-04T19:26:56Z",
+    "nameWithOwner": "oleksiiluchnikov/dates.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "date",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dates.nvim",
+  "owner": "oleksiiluchnikov",
+  "url": "https://github.com/oleksiiluchnikov/dates.nvim"
+}

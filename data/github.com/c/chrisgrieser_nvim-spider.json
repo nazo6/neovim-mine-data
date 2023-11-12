@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 136,
+    "commitCountLastYear": 138,
     "createdAt": "2023-03-20T12:51:48Z",
     "description": "Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.",
     "isArchived": false,
-    "lastCommit": "2023-11-03T18:40:20Z",
+    "lastCommit": "2023-11-07T14:16:53Z",
     "nameWithOwner": "chrisgrieser/nvim-spider",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 336,
+    "star": 339,
     "topics": [
       "camelcase",
       "nvim-plugin",

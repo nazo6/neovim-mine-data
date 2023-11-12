@@ -20,12 +20,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 8,
     "createdAt": "2023-10-21T03:56:53Z",
     "description": "A Telescope extension to quickly switch your working directory from a list of specified directories within a workspace.",
     "isArchived": false,
-    "lastCommit": "2023-10-27T04:17:38Z",
-    "nameWithOwner": "mskelton/telescope-jumper.nvim",
+    "lastCommit": "2023-11-11T23:03:23Z",
+    "nameWithOwner": "mskelton/jumper.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -38,7 +38,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "telescope-jumper.nvim",
+  "name": "jumper.nvim",
   "owner": "mskelton",
   "url": "https://github.com/mskelton/telescope-jumper.nvim"
 }

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Java"
+        },
+        {
+          "level": 4,
+          "name": "rename"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-11-07T19:22:54Z",
+    "description": "A neovim plugin to move and rename java files.",
+    "isArchived": false,
+    "lastCommit": "2023-11-07T19:59:29Z",
+    "nameWithOwner": "simaxme/java-rename.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-rename.nvim",
+  "owner": "simaxme",
+  "url": "https://github.com/simaxme/java-rename.nvim"
+}

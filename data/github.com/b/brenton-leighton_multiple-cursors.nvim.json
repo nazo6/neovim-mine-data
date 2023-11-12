@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Select"
+        },
+        {
+          "level": 2,
+          "name": "Multi Cursor"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-09T01:53:40Z",
+    "description": "A multiple cursors plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-11-10T01:27:13Z",
+    "nameWithOwner": "brenton-leighton/multiple-cursors.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "multiple-cursors.nvim",
+  "owner": "brenton-leighton",
+  "url": "https://github.com/brenton-leighton/multiple-cursors.nvim"
+}

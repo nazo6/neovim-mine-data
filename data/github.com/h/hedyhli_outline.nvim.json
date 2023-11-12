@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Code outline"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 170,
+    "createdAt": "2023-10-31T12:14:07Z",
+    "description": "(fork) tree of symbols, like tagbar but for neovim using lsp, written in 100% lua",
+    "isArchived": false,
+    "lastCommit": "2023-11-12T05:55:45Z",
+    "nameWithOwner": "hedyhli/outline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+      "lsp",
+      "lua",
+      "neovim",
+      "nvim-lua",
+      "outline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "outline.nvim",
+  "owner": "hedyhli",
+  "url": "https://github.com/hedyhli/symbols-outline.nvim"
+}

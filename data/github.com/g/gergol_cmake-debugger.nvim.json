@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        },
+        {
+          "level": 4,
+          "name": "Cmake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-11-07T22:29:03Z",
+    "description": "A simple neovim plugin for debugging cmake files.",
+    "isArchived": false,
+    "lastCommit": "2023-11-07T22:38:44Z",
+    "nameWithOwner": "gergol/cmake-debugger.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmake-debugger.nvim",
+  "owner": "gergol",
+  "url": "https://github.com/gergol/cmake-debugger.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Docker"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-11-05T14:01:36Z",
+    "description": "🐋 a lazydocker port for neovim | Even more lazier way to manage everything docker related",
+    "isArchived": false,
+    "lastCommit": "2023-11-08T07:34:39Z",
+    "nameWithOwner": "mgierada/lazydocker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "docker",
+      "lazydocker",
+      "neovim",
+      "terminal",
+      "utils"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazydocker.nvim",
+  "owner": "mgierada",
+  "url": "https://github.com/mgierada/lazydocker.nvim"
+}

@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 123,
+    "commitCountLastYear": 151,
     "createdAt": "2023-06-18T13:55:46Z",
-    "description": "GPT.nvim: Neovim AI plugin ~  OpenAI's ChatGPT & Copilot & Speech to text",
+    "description": "Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI]",
     "isArchived": false,
-    "lastCommit": "2023-10-30T23:05:03Z",
+    "lastCommit": "2023-11-12T07:59:39Z",
     "nameWithOwner": "Robitx/gp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 120,
+    "star": 137,
     "topics": [
       "chatgpt",
       "copilot",
@@ -54,8 +54,8 @@
       "gpt-4",
       "nvim",
       "ai",
-      "gpt-3",
-      "speech-to-text"
+      "speech-to-text",
+      "whisper"
     ]
   },
   "domain": "github.com",

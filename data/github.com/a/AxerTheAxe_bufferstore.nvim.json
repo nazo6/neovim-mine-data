@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "status"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-11-04T17:25:47Z",
+    "description": "Stores various buffer information in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-11-11T06:27:58Z",
+    "nameWithOwner": "AxerTheAxe/bufferstore.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferstore.nvim",
+  "owner": "AxerTheAxe",
+  "url": "https://github.com/AxerTheAxe/bufferstore.nvim"
+}

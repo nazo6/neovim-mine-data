@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Motion"
-        },
-        {
-          "level": 3,
-          "name": "Treesitter Based"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -49,6 +31,24 @@
       ],
       "file": "motion.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Treesitter Based"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -62,7 +62,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 377,
+    "star": 378,
     "topics": [
       "neovim",
       "neovim-plugin",
@@ -73,5 +73,5 @@
   "domain": "github.com",
   "name": "nvim-treehopper",
   "owner": "mfussenegger",
-  "url": "https://github.com/mfussenegger/nvim-ts-hint-textobject"
+  "url": "https://github.com/mfussenegger/nvim-treehopper"
 }

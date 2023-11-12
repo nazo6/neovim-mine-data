@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Hex"
+        },
+        {
+          "level": 4,
+          "name": "Hex Editor"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-11-08T19:49:02Z",
+    "description": "Neovim plugin for on-the-fly hexadecimal conversion and analysis. Instantly transform hex values under your cursor into integers, floats, doubles, interpret Unix timestamps, and what not",
+    "isArchived": false,
+    "lastCommit": "2023-11-08T19:56:11Z",
+    "nameWithOwner": "vetsE/hexamine.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hexamine.nvim",
+  "owner": "vetsE",
+  "url": "https://github.com/vetsE/hexamine.nvim"
+}

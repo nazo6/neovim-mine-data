@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Color name"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-11-05T15:47:32Z",
+    "description": "Show regular vim syntax highlight group under cursor in lualine status line",
+    "isArchived": false,
+    "lastCommit": "2023-11-05T16:42:15Z",
+    "nameWithOwner": "dam9000/show-highlight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "show-highlight.nvim",
+  "owner": "dam9000",
+  "url": "https://github.com/dam9000/show-highlight.nvim"
+}

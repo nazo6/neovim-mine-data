@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "Llama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-11-06T21:47:26Z",
+    "description": "Terminal UI to chat with large language models (LLM) using different model backends, and with a plugin for Neovim!",
+    "isArchived": false,
+    "lastCommit": "2023-11-11T00:31:55Z",
+    "nameWithOwner": "dustinblackman/oatmeal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "oatmeal.nvim",
+  "owner": "dustinblackman",
+  "url": "https://github.com/dustinblackman/oatmeal.nvim"
+}

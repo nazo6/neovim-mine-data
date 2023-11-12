@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Translate"
+          "name": "Command Palette"
         }
       ],
       "file": "readme.md",
@@ -20,22 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2023-07-26T04:49:18Z",
-    "description": "First translate all comments into virtual text",
+    "commitCountLastYear": 48,
+    "createdAt": "2023-11-07T20:48:04Z",
+    "description": "A customizable command palette for nvim",
     "isArchived": false,
-    "lastCommit": "2023-07-26T05:11:07Z",
-    "nameWithOwner": "Eric-Song-Nop/virtrans.nvim",
+    "lastCommit": "2023-11-12T00:49:30Z",
+    "nameWithOwner": "AtleSkaanes/command-palette.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "virtrans.nvim",
-  "owner": "Eric-Song-Nop",
-  "url": "https://github.com/Eric-Song-Nop/virtrans.nvim"
+  "name": "command-palette.nvim",
+  "owner": "AtleSkaanes",
+  "url": "https://github.com/AtleSkaanes/command-palette.nvim"
 }

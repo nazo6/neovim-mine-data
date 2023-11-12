@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2023-11-05T03:13:16Z",
+    "description": "Simple tree-based note taking system for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-11-11T01:33:21Z",
+    "nameWithOwner": "Selyss/mind.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mind.nvim",
+  "owner": "Selyss",
+  "url": "https://github.com/Selyss/mind.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "Mentat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-11-08T00:57:57Z",
+    "description": "A Neovim plugin to integrate mentat ",
+    "isArchived": false,
+    "lastCommit": "2023-11-09T13:37:19Z",
+    "nameWithOwner": "hesiod-au/mentat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mentat.nvim",
+  "owner": "hesiod-au",
+  "url": "https://github.com/hesiod-au/mentat.nvim"
+}

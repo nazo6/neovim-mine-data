@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Local Config"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-11-08T01:55:03Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-11-08T02:02:55Z",
+    "nameWithOwner": "mhanberg/workspace-folders.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "workspace-folders.nvim",
+  "owner": "mhanberg",
+  "url": "https://github.com/mhanberg/workspace-folders.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Convert Case"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-11-05T01:25:24Z",
+    "description": "This is an integration plugin with telescope and this can convert word case by lsp rename or just cword with preview.",
+    "isArchived": false,
+    "lastCommit": "2023-11-05T01:26:22Z",
+    "nameWithOwner": "senkentarou/telescope-convert-word-case.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-convert-word-case.nvim",
+  "owner": "senkentarou",
+  "url": "https://github.com/senkentarou/telescope-convert-word-case.nvim"
+}

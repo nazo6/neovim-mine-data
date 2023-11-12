@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-04T20:30:48Z",
+    "description": "Kakoune workflow for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-11-05T10:43:02Z",
+    "nameWithOwner": "mirlge/kak.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "kakoune",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kak.nvim",
+  "owner": "mirlge",
+  "url": "https://github.com/mirlge/kak.nvim"
+}

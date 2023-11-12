@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "OS"
+        },
+        {
+          "level": 4,
+          "name": "Windows"
+        },
+        {
+          "level": 5,
+          "name": "WSL"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-08T08:23:07Z",
+    "description": "copy yanked text to windows clipboard",
+    "isArchived": false,
+    "lastCommit": "2023-11-08T08:28:55Z",
+    "nameWithOwner": "hajin-chung/wsl-clipboard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wsl-clipboard.nvim",
+  "owner": "hajin-chung",
+  "url": "https://github.com/hajin-chung/wsl-clipboard.nvim"
+}

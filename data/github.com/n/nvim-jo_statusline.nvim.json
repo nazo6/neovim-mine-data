@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-11-05T12:10:56Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-11-05T21:28:47Z",
+    "nameWithOwner": "nvim-jo/statusline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "statusline.nvim",
+  "owner": "nvim-jo",
+  "url": "https://github.com/nvim-jo/statusline.nvim"
+}

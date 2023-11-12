@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "Llama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-08-31T03:13:08Z",
+    "description": "Adding llama-code to nvim",
+    "isArchived": false,
+    "lastCommit": "2023-09-02T18:47:07Z",
+    "nameWithOwner": "ncylich/llama_code.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "llama_code.nvim",
+  "owner": "ncylich",
+  "url": "https://github.com/nc-glitch/llama_code.nvim"
+}

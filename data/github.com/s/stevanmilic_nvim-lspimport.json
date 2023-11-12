@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        },
+        {
+          "level": 4,
+          "name": "import"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-11-06T09:52:32Z",
+    "description": "Automatically resolves imports for undefined terms in neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-11-08T17:17:32Z",
+    "nameWithOwner": "stevanmilic/nvim-lspimport",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lspimport",
+  "owner": "stevanmilic",
+  "url": "https://github.com/stevanmilic/nvim-lspimport"
+}
