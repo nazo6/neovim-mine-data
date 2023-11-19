@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Configuration"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-11-16T19:23:05Z",
+    "description": "Neovim plugin to help setup language injections with treesitter",
+    "isArchived": false,
+    "lastCommit": "2023-11-19T00:36:15Z",
+    "nameWithOwner": "Dronakurl/injectme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "injectme.nvim",
+  "owner": "Dronakurl",
+  "url": "https://github.com/Dronakurl/injectme.nvim"
+}

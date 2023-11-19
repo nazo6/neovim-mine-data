@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Other Editor"
+        },
+        {
+          "level": 4,
+          "name": "Xcode"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 77,
+    "createdAt": "2023-11-01T17:40:49Z",
+    "description": "Neovim plugin to Build, Run, and Test applications created with Xcode & Swift.",
+    "isArchived": false,
+    "lastCommit": "2023-11-15T17:58:52Z",
+    "nameWithOwner": "wojciech-kulik/xcodebuild.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 91,
+    "topics": [
+      "ios",
+      "macos",
+      "neovim",
+      "nvim",
+      "xcode",
+      "swift"
+    ]
+  },
+  "domain": "github.com",
+  "name": "xcodebuild.nvim",
+  "owner": "wojciech-kulik",
+  "url": "https://github.com/wojciech-kulik/xcodebuild.nvim"
+}

@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "GitHub link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -16,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 155,
+    "commitCountLastYear": 197,
     "createdAt": "2023-02-18T12:55:10Z",
-    "description": "A fork of ruifm's gitlinker, refactored with pattern based rule engine, windows support and other enhancements.",
+    "description": "Maintained fork of ruifm's gitlinker, refactored with bug fixes, git alias host, `/blame` url support and other improvements.",
     "isArchived": false,
-    "lastCommit": "2023-10-23T05:02:16Z",
+    "lastCommit": "2023-11-18T14:57:01Z",
     "nameWithOwner": "linrongbin16/gitlinker.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 24,
+    "star": 36,
     "topics": [
     ]
   },

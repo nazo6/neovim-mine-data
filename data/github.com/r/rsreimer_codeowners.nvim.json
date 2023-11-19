@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Link"
+        },
+        {
+          "level": 3,
+          "name": "CODEOWNERS"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-11-10T19:36:14Z",
+    "description": "nvim plugin for working with .github/CODEOWNERS",
+    "isArchived": false,
+    "lastCommit": "2023-11-13T07:31:14Z",
+    "nameWithOwner": "rsreimer/codeowners.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codeowners.nvim",
+  "owner": "rsreimer",
+  "url": "https://github.com/rsreimer/codeowners.nvim"
+}

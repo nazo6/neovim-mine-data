@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Coding"
+        },
+        {
+          "level": 3,
+          "name": "Regex"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-11-11T09:05:27Z",
+    "description": "search in neovim with variable expansion",
+    "isArchived": false,
+    "lastCommit": "2023-11-11T09:09:32Z",
+    "nameWithOwner": "jake-stewart/regex-vars.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "regex-vars.nvim",
+  "owner": "jake-stewart",
+  "url": "https://github.com/jake-stewart/regex-vars.nvim"
+}

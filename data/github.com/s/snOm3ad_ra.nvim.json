@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Rust"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2023-11-13T15:38:36Z",
+    "description": "Inlay hints for Rust",
+    "isArchived": false,
+    "lastCommit": "2023-11-19T05:22:55Z",
+    "nameWithOwner": "snOm3ad/ra.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ra.nvim",
+  "owner": "snOm3ad",
+  "url": "https://github.com/snOm3ad/ra.nvim"
+}

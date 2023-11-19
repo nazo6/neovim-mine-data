@@ -12,11 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Java"
-        },
-        {
-          "level": 4,
-          "name": "rename"
+          "name": "Orca"
         }
       ],
       "file": "language-specific.md",
@@ -24,22 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2023-11-07T19:22:54Z",
-    "description": "A neovim plugin to move and rename java files.",
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-14T16:39:04Z",
+    "description": "Lua port of orca for neovim, based on orca for monome norns",
     "isArchived": false,
-    "lastCommit": "2023-11-07T19:59:29Z",
-    "nameWithOwner": "simaxme/java-rename.nvim",
+    "lastCommit": "2023-11-16T15:43:39Z",
+    "nameWithOwner": "noearc/nvim-orca",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "java-rename.nvim",
-  "owner": "simaxme",
-  "url": "https://github.com/simaxme/java-rename.nvim"
+  "name": "nvim-orca",
+  "owner": "noearc",
+  "url": "https://github.com/noearc/nvim-orca"
 }

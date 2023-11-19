@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Perl"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-11-16T10:33:45Z",
+    "description": "A simple way to open perldoc for certain function in nvim",
+    "isArchived": false,
+    "lastCommit": "2023-11-16T10:41:12Z",
+    "nameWithOwner": "zKurisu/perldoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "perldoc.nvim",
+  "owner": "zKurisu",
+  "url": "https://github.com/zKurisu/perldoc.nvim"
+}

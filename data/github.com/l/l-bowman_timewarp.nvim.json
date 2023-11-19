@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go to File"
+        },
+        {
+          "level": 3,
+          "name": "Edit History"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-10-13T04:38:25Z",
+    "description": "Enhance your coding flow with Timewarp for Neovim: Seamlessly jump to your last edit or yank position and swiftly return to your starting point, simplifying your code navigation!",
+    "isArchived": false,
+    "lastCommit": "2023-11-13T14:30:59Z",
+    "nameWithOwner": "l-bowman/timewarp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "timewarp.nvim",
+  "owner": "l-bowman",
+  "url": "https://github.com/l-bowman/timewarp.nvim"
+}

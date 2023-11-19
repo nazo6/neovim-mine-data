@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "AWS"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-15T21:23:03Z",
+    "description": "A Neovim plugin to view AWS SDK related information",
+    "isArchived": false,
+    "lastCommit": "2023-11-18T19:20:56Z",
+    "nameWithOwner": "harryvince/aws-sdk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "aws-sdk.nvim",
+  "owner": "harryvince",
+  "url": "https://github.com/harryvince/aws-sdk.nvim"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitLab"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-11-10T06:01:34Z",
+    "description": "telescope gitlab extension",
+    "isArchived": false,
+    "lastCommit": "2023-11-14T19:43:32Z",
+    "nameWithOwner": "lrfurtado/telescope-gitlab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-gitlab.nvim",
+  "owner": "lrfurtado",
+  "url": "https://github.com/lrfurtado/telescope-gitlab.nvim"
+}

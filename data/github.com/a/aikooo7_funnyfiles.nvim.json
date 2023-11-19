@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "Create directory"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-11-12T12:17:47Z",
+    "description": "Neovim plugin to created and delete files and folders without a file explorer.",
+    "isArchived": false,
+    "lastCommit": "2023-11-12T19:25:53Z",
+    "nameWithOwner": "aikooo7/funnyfiles.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "funnyfiles.nvim",
+  "owner": "aikooo7",
+  "url": "https://github.com/aikooo7/funnyfiles.nvim"
+}

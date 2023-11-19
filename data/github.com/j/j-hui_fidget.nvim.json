@@ -38,18 +38,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 67,
     "createdAt": "2022-01-21T08:15:48Z",
-    "description": "Standalone UI for nvim-lsp progress",
+    "description": "Extensible UI for Neovim notifications and LSP progress messages.",
     "isArchived": false,
-    "lastCommit": "2023-11-12T06:15:58Z",
+    "lastCommit": "2023-11-18T01:28:30Z",
     "nameWithOwner": "j-hui/fidget.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1405,
+    "star": 1464,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

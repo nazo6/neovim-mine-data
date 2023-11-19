@@ -17,20 +17,38 @@
       ],
       "file": "python.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "(requires Neovim 0.5)"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 12,
     "createdAt": "2023-11-06T09:52:32Z",
     "description": "Automatically resolves imports for undefined terms in neovim.",
     "isArchived": false,
-    "lastCommit": "2023-11-08T17:17:32Z",
+    "lastCommit": "2023-11-12T20:31:54Z",
     "nameWithOwner": "stevanmilic/nvim-lspimport",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 15,
+    "star": 18,
     "topics": [
     ]
   },

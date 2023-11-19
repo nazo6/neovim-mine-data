@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Help"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-11-14T05:18:28Z",
+    "description": "A simple Neovim plugin to display a floating help dialog displaying your key mappings",
+    "isArchived": false,
+    "lastCommit": "2023-11-14T07:17:16Z",
+    "nameWithOwner": "jtubbenhauer/selfhelp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "selfhelp.nvim",
+  "owner": "jtubbenhauer",
+  "url": "https://github.com/jtubbenhauer/selfhelp.nvim"
+}

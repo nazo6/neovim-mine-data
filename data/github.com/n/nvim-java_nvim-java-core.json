@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Java"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2023-11-10T03:13:53Z",
+    "description": "Provides APIs to interact with java projects in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-11-19T08:38:54Z",
+    "nameWithOwner": "nvim-java/nvim-java-core",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-java-core",
+  "owner": "nvim-java",
+  "url": "https://github.com/nvim-java/nvim-java-core"
+}

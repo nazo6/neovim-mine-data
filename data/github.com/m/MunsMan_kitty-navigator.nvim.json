@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "Kitty"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-12T17:55:36Z",
+    "description": "NeoVim Kitty Navigator",
+    "isArchived": false,
+    "lastCommit": "2023-11-12T18:58:02Z",
+    "nameWithOwner": "MunsMan/kitty-navigator.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 2,
+    "topics": [
+      "kittens",
+      "kitty-terminal",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kitty-navigator.nvim",
+  "owner": "MunsMan",
+  "url": "https://github.com/MunsMan/kitty-navigator.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Line Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-11-10T14:22:31Z",
+    "description": "A Neovim plugin to copy/move the lines given by range to above/below the current cursor line.",
+    "isArchived": false,
+    "lastCommit": "2023-11-19T09:26:40Z",
+    "nameWithOwner": "0x00-ketsu/pull-line.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pull-line.nvim",
+  "owner": "0x00-ketsu",
+  "url": "https://github.com/0x00-ketsu/pull-line.nvim"
+}

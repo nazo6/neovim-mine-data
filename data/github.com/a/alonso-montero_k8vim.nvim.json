@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-11-11T22:30:11Z",
+    "description": "Kubernetes interface for nvim",
+    "isArchived": false,
+    "lastCommit": "2023-11-13T03:06:11Z",
+    "nameWithOwner": "alonso-montero/k8vim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "k8vim.nvim",
+  "owner": "alonso-montero",
+  "url": "https://github.com/alonso-montero/k8vim.nvim"
+}

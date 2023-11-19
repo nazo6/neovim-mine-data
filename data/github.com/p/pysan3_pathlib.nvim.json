@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "File"
+        },
+        {
+          "level": 3,
+          "name": "Path"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2023-11-13T15:19:42Z",
+    "description": "Ultimate solution to path handling in neovim. OS Independent.",
+    "isArchived": false,
+    "lastCommit": "2023-11-16T18:26:54Z",
+    "nameWithOwner": "pysan3/pathlib.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pathlib.nvim",
+  "owner": "pysan3",
+  "url": "https://github.com/pysan3/pathlib.nvim"
+}

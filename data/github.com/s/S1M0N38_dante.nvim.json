@@ -8,38 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
+          "name": "Lint"
         },
         {
           "level": 3,
-          "name": "Hardware"
-        },
-        {
-          "level": 4,
-          "name": "Verilog"
+          "name": "Grammar"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "linter_formatter.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2023-11-07T07:17:59Z",
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-16T08:11:14Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-11-06T07:08:47Z",
-    "nameWithOwner": "mingo99/autoverilog.nvim",
+    "lastCommit": "2023-11-16T19:02:13Z",
+    "nameWithOwner": "S1M0N38/dante.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 0,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "autoverilog.nvim",
-  "owner": "mingo99",
-  "url": "https://github.com/mingo99/autoverilog.nvim"
+  "name": "dante.nvim",
+  "owner": "S1M0N38",
+  "url": "https://github.com/S1M0N38/dante.nvim"
 }

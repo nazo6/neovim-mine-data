@@ -13,20 +13,38 @@
       ],
       "file": "code-outline.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "(requires Neovim 0.5)"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 170,
+    "commitCountLastYear": 242,
     "createdAt": "2023-10-31T12:14:07Z",
-    "description": "(fork) tree of symbols, like tagbar but for neovim using lsp, written in 100% lua",
+    "description": "A significantly enhanced & refactored fork of symbols-outline.nvim. Code outline sidebar powered by LSP",
     "isArchived": false,
-    "lastCommit": "2023-11-12T05:55:45Z",
+    "lastCommit": "2023-11-19T00:42:10Z",
     "nameWithOwner": "hedyhli/outline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 32,
+    "star": 56,
     "topics": [
       "lsp",
       "lua",

@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Search"
+        },
+        {
+          "level": 2,
+          "name": "File search"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-11-10T22:34:18Z",
+    "description": "Narrow your find files and live grep by first selecting a directory to search in",
+    "isArchived": false,
+    "lastCommit": "2023-11-13T07:20:55Z",
+    "nameWithOwner": "rsreimer/find-in-directory.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "find-in-directory.nvim",
+  "owner": "rsreimer",
+  "url": "https://github.com/rsreimer/find-in-directory.nvim"
+}

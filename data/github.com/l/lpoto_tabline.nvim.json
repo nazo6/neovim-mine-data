@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 26,
     "createdAt": "2023-09-02T05:35:17Z",
-    "description": "A simplistc interface that allows setting up the tabline both as a global statusline and a tabline.",
+    "description": "Remove distractions by merging your statusline into tabline",
     "isArchived": false,
-    "lastCommit": "2023-09-25T15:13:53Z",
+    "lastCommit": "2023-11-15T21:16:08Z",
     "nameWithOwner": "lpoto/tabline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
       "lua",
       "neovim",

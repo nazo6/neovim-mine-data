@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "Popup"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2023-09-27T02:48:16Z",
+    "description": "Use popup windows to navigate files/buffer and to contain shells/TUIs",
+    "isArchived": false,
+    "lastCommit": "2023-11-14T20:51:45Z",
+    "nameWithOwner": "carbon-steel/detour.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 80,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "detour.nvim",
+  "owner": "carbon-steel",
+  "url": "https://github.com/carbon-steel/detour.nvim"
+}

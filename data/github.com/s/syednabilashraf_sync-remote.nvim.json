@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-11-12T09:12:40Z",
+    "description": "Remote development plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-11-19T01:40:39Z",
+    "nameWithOwner": "syednabilashraf/sync-remote.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sync-remote.nvim",
+  "owner": "syednabilashraf",
+  "url": "https://github.com/syednabilashraf/sync-remote.nvim"
+}

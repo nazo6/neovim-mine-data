@@ -20,12 +20,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 57,
+    "commitCountLastYear": 59,
     "createdAt": "2022-12-27T19:52:08Z",
     "description": "🚀 Neovim plugin to open API endpoints directly in the editor ⚡",
     "isArchived": false,
-    "lastCommit": "2023-02-05T18:01:23Z",
-    "nameWithOwner": "tlj/endpoint-previewer.nvim",
+    "lastCommit": "2023-11-18T11:30:01Z",
+    "nameWithOwner": "tlj/api-browser.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -39,7 +39,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "endpoint-previewer.nvim",
+  "name": "api-browser.nvim",
   "owner": "tlj",
   "url": "https://github.com/tlj/endpoint-previewer.nvim"
 }

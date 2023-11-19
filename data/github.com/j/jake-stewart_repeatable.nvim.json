@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Improve Mappings"
+        },
+        {
+          "level": 3,
+          "name": "Repeatable"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-11-12T00:12:39Z",
+    "description": "easily create repeatable maps",
+    "isArchived": false,
+    "lastCommit": "2023-11-12T00:46:18Z",
+    "nameWithOwner": "jake-stewart/repeatable.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "repeatable.nvim",
+  "owner": "jake-stewart",
+  "url": "https://github.com/jake-stewart/repeatable.nvim"
+}

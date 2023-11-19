@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Rename"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-11-13T06:19:14Z",
+    "description": "workspace/willRenameFiles that just works",
+    "isArchived": false,
+    "lastCommit": "2023-11-17T15:27:49Z",
+    "nameWithOwner": "luckasRanarison/neo-rename.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neo-rename.nvim",
+  "owner": "luckasRanarison",
+  "url": "https://github.com/luckasRanarison/neo-rename.nvim"
+}
