@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-11-22T01:51:20Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-11-25T01:17:44Z",
+    "nameWithOwner": "michaelPotter/kubectl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kubectl.nvim",
+  "owner": "michaelPotter",
+  "url": "https://github.com/michaelPotter/kubectl.nvim"
+}

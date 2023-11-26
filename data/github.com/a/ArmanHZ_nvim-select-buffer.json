@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 17,
     "createdAt": "2023-03-20T23:09:10Z",
     "description": "Plugin for NeoVim to display and switch to a buffer.",
     "isArchived": false,
-    "lastCommit": "2023-04-06T16:46:25Z",
+    "lastCommit": "2023-11-22T01:01:48Z",
     "nameWithOwner": "ArmanHZ/nvim-select-buffer",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,12 @@
     },
     "star": 2,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "plugin"
     ]
   },
   "domain": "github.com",

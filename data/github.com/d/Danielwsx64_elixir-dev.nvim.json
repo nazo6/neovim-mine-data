@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Elixir"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-11-24T13:24:09Z",
+    "description": "A Neovim lua plugin for Elixir development.",
+    "isArchived": false,
+    "lastCommit": "2023-11-24T13:41:32Z",
+    "nameWithOwner": "Danielwsx64/elixir-dev.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "elixir-dev.nvim",
+  "owner": "Danielwsx64",
+  "url": "https://github.com/Danielwsx64/elixir-dev.nvim"
+}

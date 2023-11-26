@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-20T15:51:55Z",
+    "description": "my first plugin that essentially just executes `grep -inHr ",
+    "isArchived": false,
+    "lastCommit": "2023-11-21T09:32:21Z",
+    "nameWithOwner": "ctfrancia/locate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "locate.nvim",
+  "owner": "ctfrancia",
+  "url": "https://github.com/ctfrancia/locate.nvim"
+}

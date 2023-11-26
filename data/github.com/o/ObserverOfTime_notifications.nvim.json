@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Desktop Integration"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-11-23T01:08:05Z",
+    "description": "Neovim plugin for desktop notifications.",
+    "isArchived": false,
+    "lastCommit": "2023-11-25T19:52:25Z",
+    "nameWithOwner": "ObserverOfTime/notifications.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "notifications"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notifications.nvim",
+  "owner": "ObserverOfTime",
+  "url": "https://github.com/ObserverOfTime/notifications.nvim"
+}

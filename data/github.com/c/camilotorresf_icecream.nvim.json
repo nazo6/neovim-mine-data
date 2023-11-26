@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        },
+        {
+          "level": 4,
+          "name": "Debug"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-11-24T02:05:58Z",
+    "description": "Easily add and remove icecream traces to python code.",
+    "isArchived": false,
+    "lastCommit": "2023-11-24T02:11:14Z",
+    "nameWithOwner": "camilotorresf/icecream.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "icecream.nvim",
+  "owner": "camilotorresf",
+  "url": "https://github.com/camilotorresf/icecream.nvim"
+}

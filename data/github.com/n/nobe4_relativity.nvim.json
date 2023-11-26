@@ -8,37 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Motion"
+          "name": "Mark"
         },
         {
           "level": 3,
-          "name": "Horizontal Move"
+          "name": "Auto Mark"
         }
       ],
-      "file": "motion.md",
+      "file": "mark.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 128,
-    "createdAt": "2023-01-31T15:43:46Z",
-    "description": "extend's the capability of neovim find command's",
+    "commitCountLastYear": 11,
+    "createdAt": "2023-11-17T10:50:26Z",
+    "description": "move the cursor in space and time",
     "isArchived": false,
-    "lastCommit": "2023-04-02T03:49:11Z",
-    "nameWithOwner": "iSafdarAwan/find-extender.nvim",
+    "lastCommit": "2023-11-22T00:40:19Z",
+    "nameWithOwner": "nobe4/relativity.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 20,
+    "star": 1,
     "topics": [
       "lua",
       "neovim",
-      "plugin"
+      "space",
+      "time"
     ]
   },
   "domain": "github.com",
-  "name": "find-extender.nvim",
-  "owner": "iSafdarAwan",
-  "url": "https://github.com/TheSafdarAwan/find-extender.nvim"
+  "name": "relativity.nvim",
+  "owner": "nobe4",
+  "url": "https://github.com/nobe4/relativity.nvim"
 }

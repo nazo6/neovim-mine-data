@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "AsciiDoc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-11-22T21:51:39Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-11-22T22:21:56Z",
+    "nameWithOwner": "msr1k/outline-asciidoc-provider.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "outline-asciidoc-provider.nvim",
+  "owner": "msr1k",
+  "url": "https://github.com/msr1k/outline-asciidoc-provider.nvim"
+}

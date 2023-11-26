@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Error"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-11-20T19:38:39Z",
+    "description": "Gives basic functionality for error messages with format filename:line:column",
+    "isArchived": false,
+    "lastCommit": "2023-11-22T21:23:45Z",
+    "nameWithOwner": "Dr-42/error-jump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "error-jump.nvim",
+  "owner": "Dr-42",
+  "url": "https://github.com/Dr-42/error-jump.nvim"
+}

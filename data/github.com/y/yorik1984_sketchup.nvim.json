@@ -12,11 +12,11 @@
         },
         {
           "level": 3,
-          "name": "Cloud"
+          "name": "Hardware"
         },
         {
           "level": 4,
-          "name": "Terraform"
+          "name": "SketchUp"
         }
       ],
       "file": "integration-apps.md",
@@ -24,25 +24,29 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
-    "createdAt": "2023-03-10T20:29:59Z",
-    "description": "Find terraform resources and documentation",
+    "commitCountLastYear": 7,
+    "createdAt": "2023-11-23T20:11:29Z",
+    "description": "Neovim plugin for SketchUp API development",
     "isArchived": false,
-    "lastCommit": "2023-03-13T01:12:58Z",
-    "nameWithOwner": "walbi-malbi/telescope-terraform-doc.nvim",
+    "lastCommit": "2023-11-23T21:08:35Z",
+    "nameWithOwner": "yorik1984/sketchup.nvim",
     "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
+      "color": "#701516",
+      "name": "Ruby"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
+      "api",
       "neovim",
-      "telescope",
-      "terraform"
+      "plugin",
+      "ruby",
+      "sketchup",
+      "treesitter",
+      "yorik1984"
     ]
   },
   "domain": "github.com",
-  "name": "telescope-terraform-doc.nvim",
-  "owner": "walbi-malbi",
-  "url": "https://github.com/walbi-malbi/telescope-terraform-doc.nvim"
+  "name": "sketchup.nvim",
+  "owner": "yorik1984",
+  "url": "https://github.com/yorik1984/sketchup.nvim"
 }

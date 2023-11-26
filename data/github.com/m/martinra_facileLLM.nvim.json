@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 229,
+    "createdAt": "2023-11-23T00:29:14Z",
+    "description": "LLM interface for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-11-23T00:25:44Z",
+    "nameWithOwner": "martinra/facileLLM.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "facileLLM.nvim",
+  "owner": "martinra",
+  "url": "https://github.com/martinra/facileLLM.nvim"
+}

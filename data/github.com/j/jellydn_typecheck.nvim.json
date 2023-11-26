@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Toolchain"
+        },
+        {
+          "level": 5,
+          "name": "Type check"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2023-11-20T14:04:14Z",
+    "description": "A Neovim plugin for seamless TypeScript type checking.",
+    "isArchived": false,
+    "lastCommit": "2023-11-23T10:22:53Z",
+    "nameWithOwner": "jellydn/typecheck.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "tsc",
+      "typescript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "typecheck.nvim",
+  "owner": "jellydn",
+  "url": "https://github.com/jellydn/typecheck.nvim"
+}

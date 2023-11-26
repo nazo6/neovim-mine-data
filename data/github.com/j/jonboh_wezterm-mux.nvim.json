@@ -2,33 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
-          "name": "Terminal"
-        },
-        {
-          "level": 4,
-          "name": "WezTerm"
-        }
       ],
-      "file": "integration-apps.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 16,
     "createdAt": "2023-07-28T20:18:25Z",
     "description": "Seamlessly navigate between wezterm panes and neovim windows.",
-    "isArchived": false,
-    "lastCommit": "2023-07-29T18:12:56Z",
+    "isArchived": true,
+    "lastCommit": "2023-11-19T10:28:43Z",
     "nameWithOwner": "jonboh/wezterm-mux.nvim",
     "primaryLanguage": {
       "color": "#000080",

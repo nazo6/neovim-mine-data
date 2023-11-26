@@ -20,18 +20,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 14,
     "createdAt": "2023-11-16T08:11:14Z",
-    "description": null,
+    "description": "A simple writing tool powered by LLM",
     "isArchived": false,
-    "lastCommit": "2023-11-16T19:02:13Z",
+    "lastCommit": "2023-11-24T13:07:07Z",
     "nameWithOwner": "S1M0N38/dante.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 7,
     "topics": [
+      "grammar-checker",
+      "llm",
+      "lua-plugin",
+      "neovim",
+      "neovim-plugin",
+      "openai",
+      "plugin",
+      "writing-tool"
     ]
   },
   "domain": "github.com",

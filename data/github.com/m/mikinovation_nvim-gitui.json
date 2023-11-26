@@ -18,7 +18,7 @@
   "data": {
     "commitCountLastYear": 10,
     "createdAt": "2023-11-14T23:25:23Z",
-    "description": "Neovim Gitui tool",
+    "description": "Neovim plugin for seamless integration with Gitui, enhancing the Git workflow within the Neovim environment",
     "isArchived": false,
     "lastCommit": "2023-11-18T06:21:38Z",
     "nameWithOwner": "mikinovation/nvim-gitui",
@@ -28,6 +28,13 @@
     },
     "star": 2,
     "topics": [
+      "git",
+      "gitui",
+      "lua",
+      "neovim",
+      "nvim",
+      "tui",
+      "vim"
     ]
   },
   "domain": "github.com",

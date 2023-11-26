@@ -1,0 +1,54 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hint"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-11-18T04:07:28Z",
+    "description": "A plugin to simplify enabling neovim inlay hints(neovim 0.10+).",
+    "isArchived": false,
+    "lastCommit": "2023-11-19T02:29:11Z",
+    "nameWithOwner": "MysticalDevil/inlay-hints.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "inlay-hints",
+      "lsp",
+      "neovim",
+      "neovim-lsp",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lsp",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "inlay-hints.nvim",
+  "owner": "MysticalDevil",
+  "url": "https://github.com/MysticalDevil/inlay-hints.nvim"
+}

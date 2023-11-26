@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Simple"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-22T16:59:13Z",
+    "description": "Statusline plugin for neovim focused on simplicity",
+    "isArchived": false,
+    "lastCommit": "2023-11-22T17:21:42Z",
+    "nameWithOwner": "Ernest1338/eg-statusline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "eg-statusline.nvim",
+  "owner": "Ernest1338",
+  "url": "https://github.com/Ernest1338/eg-statusline.nvim"
+}

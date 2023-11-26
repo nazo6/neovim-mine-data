@@ -20,18 +20,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 74,
+    "commitCountLastYear": 87,
     "createdAt": "2023-07-05T11:24:40Z",
     "description": "Neovim plugin management inspired by `Cargo`.",
     "isArchived": false,
-    "lastCommit": "2023-11-17T12:47:32Z",
+    "lastCommit": "2023-11-22T20:06:16Z",
     "nameWithOwner": "nvim-neorocks/rocks.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 33,
+    "star": 36,
     "topics": [
+      "lua",
+      "luarocks",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "package-manager",
+      "plugin",
+      "plugin-manager"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-23T19:17:54Z",
+    "description": "builder_cpp integration into neovim",
+    "isArchived": false,
+    "lastCommit": "2023-11-23T22:25:02Z",
+    "nameWithOwner": "Dr-42/builder_cpp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "builder_cpp.nvim",
+  "owner": "Dr-42",
+  "url": "https://github.com/Dr-42/builder_cpp.nvim"
+}

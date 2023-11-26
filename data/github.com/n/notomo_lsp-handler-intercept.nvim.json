@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Documentation"
+          "name": "Command"
         },
         {
           "level": 3,
-          "name": "Markdown"
+          "name": "Handler"
         }
       ],
-      "file": "documentation.md",
+      "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2023-07-12T06:22:36Z",
+    "commitCountLastYear": 2,
+    "createdAt": "2023-11-24T11:06:42Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-07-12T06:24:18Z",
-    "nameWithOwner": "alanfvn/neomark.nvim",
+    "lastCommit": "2023-11-24T11:04:17Z",
+    "nameWithOwner": "notomo/lsp-handler-intercept.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "neomark.nvim",
-  "owner": "alanfvn",
-  "url": "https://github.com/alanfvn/neomark.nvim"
+  "name": "lsp-handler-intercept.nvim",
+  "owner": "notomo",
+  "url": "https://github.com/notomo/lsp-handler-intercept.nvim"
 }

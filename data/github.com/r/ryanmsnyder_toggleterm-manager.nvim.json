@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 52,
+    "createdAt": "2023-09-22T19:58:05Z",
+    "description": "A Telescope extension to manage Toggleterm's terminals in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-11-21T17:07:39Z",
+    "nameWithOwner": "ryanmsnyder/toggleterm-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "neovim",
+      "telescope",
+      "terminal",
+      "toggleterm",
+      "lua",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggleterm-manager.nvim",
+  "owner": "ryanmsnyder",
+  "url": "https://github.com/ryanmsnyder/telescope-toggleterm.nvim"
+}

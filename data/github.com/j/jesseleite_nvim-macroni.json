@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Macro"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-23T03:12:21Z",
+    "description": "🤌 Yank your macros for future use",
+    "isArchived": false,
+    "lastCommit": "2023-11-24T10:00:05Z",
+    "nameWithOwner": "jesseleite/nvim-macroni",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-macroni",
+  "owner": "jesseleite",
+  "url": "https://github.com/jesseleite/nvim-macroni"
+}

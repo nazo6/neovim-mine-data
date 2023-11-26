@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "AI Coding"
+        },
+        {
+          "level": 4,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 187,
+    "createdAt": "2023-11-21T10:45:26Z",
+    "description": "Chat with Ollama GPT Neovim Plugin: Effortless Natural Language Generation with Ollama LLM API ",
+    "isArchived": false,
+    "lastCommit": "2023-11-22T12:12:05Z",
+    "nameWithOwner": "huynle/ogpt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ogpt.nvim",
+  "owner": "huynle",
+  "url": "https://github.com/huynle/ogpt.nvim"
+}
