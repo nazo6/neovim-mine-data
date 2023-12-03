@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "auto close"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-11-29T21:02:12Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-11-30T08:55:35Z",
+    "nameWithOwner": "pierregoutheraud/buffers-auto-close.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffers-auto-close.nvim",
+  "owner": "pierregoutheraud",
+  "url": "https://github.com/pierregoutheraud/buffers-auto-close.nvim"
+}

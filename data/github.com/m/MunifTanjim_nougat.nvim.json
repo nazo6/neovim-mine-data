@@ -30,22 +30,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 150,
+    "commitCountLastYear": 172,
     "createdAt": "2022-10-26T17:10:04Z",
     "description": "🍫 Hyperextensible Statusline / Tabline / Winbar for Neovim 🚀",
     "isArchived": false,
-    "lastCommit": "2023-11-25T19:02:36Z",
+    "lastCommit": "2023-12-03T00:22:04Z",
     "nameWithOwner": "MunifTanjim/nougat.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 140,
+    "star": 143,
     "topics": [
       "neovim",
       "neovim-plugin",
       "neovim-ui",
-      "nvim"
+      "nvim",
+      "statusline",
+      "tabline",
+      "winbar"
     ]
   },
   "domain": "github.com",

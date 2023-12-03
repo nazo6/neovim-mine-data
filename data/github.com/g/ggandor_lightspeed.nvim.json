@@ -52,11 +52,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2021-06-14T18:20:10Z",
-    "description": "🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)",
+    "description": "deprecated in favor of leap.nvim",
     "isArchived": false,
-    "lastCommit": "2022-10-21T14:13:31Z",
+    "lastCommit": "2023-12-01T22:44:22Z",
     "nameWithOwner": "ggandor/lightspeed.nvim",
     "primaryLanguage": {
       "color": "#fff3d7",

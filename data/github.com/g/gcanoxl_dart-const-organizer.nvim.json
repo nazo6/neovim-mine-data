@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Dart, Flutter"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-11-30T02:56:56Z",
+    "description": "A simple Neovim plugin that can organize dart consts smartly and automatically",
+    "isArchived": false,
+    "lastCommit": "2023-11-30T06:06:34Z",
+    "nameWithOwner": "gcanoxl/dart-const-organizer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dart-const-organizer.nvim",
+  "owner": "gcanoxl",
+  "url": "https://github.com/gcanoxl/dart-const-organizer.nvim"
+}

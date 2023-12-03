@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "etc"
+          "name": "Linear.app"
         }
       ],
       "file": "note-taking.md",
@@ -16,22 +16,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
-    "createdAt": "2023-10-14T20:07:46Z",
-    "description": "💾 personal note management plugin for NeoVim (BTW)",
+    "commitCountLastYear": 44,
+    "createdAt": "2023-11-28T07:47:06Z",
+    "description": "Linear.app plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-15T13:33:44Z",
-    "nameWithOwner": "theoboldalex/slag.nvim",
+    "lastCommit": "2023-12-02T09:24:28Z",
+    "nameWithOwner": "alma3lol/linear.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "slag.nvim",
-  "owner": "theoboldalex",
-  "url": "https://github.com/theoboldalex/slag.nvim"
+  "name": "linear.nvim",
+  "owner": "alma3lol",
+  "url": "https://github.com/alma3lol/linear.nvim"
 }

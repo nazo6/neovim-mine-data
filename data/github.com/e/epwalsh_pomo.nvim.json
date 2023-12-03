@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pomodoro"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 71,
+    "createdAt": "2023-11-29T23:06:41Z",
+    "description": ":new: :stopwatch: A simple, customizable pomodoro timer for Neovim, written in Lua, with nvim-notify and lualine integrations",
+    "isArchived": false,
+    "lastCommit": "2023-12-02T19:10:09Z",
+    "nameWithOwner": "epwalsh/pomo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pomo.nvim",
+  "owner": "epwalsh",
+  "url": "https://github.com/epwalsh/pomo.nvim"
+}

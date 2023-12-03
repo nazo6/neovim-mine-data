@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "AI Coding"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Otter"
         }
       ],
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 218,
+    "commitCountLastYear": 221,
     "createdAt": "2022-12-20T15:09:14Z",
     "description": "Just ask an otter! 🦦",
     "isArchived": false,
-    "lastCommit": "2023-10-25T21:28:17Z",
+    "lastCommit": "2023-12-02T13:12:12Z",
     "nameWithOwner": "jmbuhr/otter.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 216,
+    "star": 224,
     "topics": [
       "neovim",
       "nvim",

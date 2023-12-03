@@ -7,35 +7,39 @@
           "name": "Table of Contents"
         },
         {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
           "level": 3,
-          "name": "AI Coding"
+          "name": "IME"
         },
         {
           "level": 4,
-          "name": "Ollama"
+          "name": "Fcitx"
         }
       ],
-      "file": "ai.md",
+      "file": "integration-apps.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 2,
-    "createdAt": "2023-11-21T06:56:13Z",
-    "description": "Simple Ollama plugin for Neovim",
+    "createdAt": "2023-11-26T10:06:08Z",
+    "description": "Switch IME based on InsertEnter/InsertLeave events",
     "isArchived": false,
-    "lastCommit": "2023-11-22T21:08:41Z",
-    "nameWithOwner": "0xfraso/ollama.nvim",
+    "lastCommit": "2023-11-26T10:43:10Z",
+    "nameWithOwner": "hnjae/fcitx.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "ollama.nvim",
-  "owner": "0xfraso",
-  "url": "https://github.com/0xfraso/ollama.nvim"
+  "name": "fcitx.nvim",
+  "owner": "hnjae",
+  "url": "https://github.com/hnjae/fcitx.nvim"
 }

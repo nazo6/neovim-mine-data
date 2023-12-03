@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Code Block Separater"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-11-29T01:36:32Z",
+    "description": "Provide a visual separator for code entities based on Treesitter info.",
+    "isArchived": false,
+    "lastCommit": "2023-12-02T03:19:01Z",
+    "nameWithOwner": "yantongl/separator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "separator.nvim",
+  "owner": "yantongl",
+  "url": "https://github.com/yantongl/separator.nvim"
+}

@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "AI Coding"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Llama"
         }
       ],
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 11,
     "createdAt": "2023-11-06T21:47:26Z",
     "description": "Terminal UI to chat with large language models (LLM) using different model backends, and with a plugin for Neovim!",
     "isArchived": false,
-    "lastCommit": "2023-11-11T00:31:55Z",
+    "lastCommit": "2023-12-01T04:31:43Z",
     "nameWithOwner": "dustinblackman/oatmeal.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 6,
     "topics": [
     ]
   },

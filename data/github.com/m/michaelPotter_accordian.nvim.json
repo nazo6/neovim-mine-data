@@ -8,34 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Documentation"
+          "name": "Window"
         },
         {
           "level": 3,
-          "name": "Markdown"
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "split"
         }
       ],
-      "file": "documentation.md",
+      "file": "buffer_window_tab-management.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2023-07-12T06:22:36Z",
+    "commitCountLastYear": 3,
+    "createdAt": "2023-11-25T03:24:50Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-07-12T06:24:18Z",
-    "nameWithOwner": "alanfvn/md-tools",
+    "lastCommit": "2023-11-25T03:24:07Z",
+    "nameWithOwner": "michaelPotter/accordian.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "md-tools",
-  "owner": "alanfvn",
-  "url": "https://github.com/alanfvn/neomark.nvim"
+  "name": "accordian.nvim",
+  "owner": "michaelPotter",
+  "url": "https://github.com/michaelPotter/accordian.nvim"
 }

@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Textobject"
+          "name": "Documentation"
         },
         {
           "level": 3,
-          "name": "Move"
+          "name": "PlantUML"
         }
       ],
-      "file": "textobject_operator.md",
+      "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2023-01-12T13:02:17Z",
+    "commitCountLastYear": 4,
+    "createdAt": "2023-11-30T17:09:31Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-01-17T14:35:50Z",
-    "nameWithOwner": "ur4ltz/move.nvim",
+    "lastCommit": "2023-11-30T18:21:20Z",
+    "nameWithOwner": "bnse/plantuml.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "move.nvim",
-  "owner": "ur4ltz",
-  "url": "https://github.com/ur4ltz/move.nvim"
+  "name": "plantuml.nvim",
+  "owner": "bnse",
+  "url": "https://github.com/bnse/plantuml.nvim"
 }

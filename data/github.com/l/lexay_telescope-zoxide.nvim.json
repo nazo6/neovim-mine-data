@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "cd(change directory)"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-11-28T21:06:07Z",
+    "description": "Why leave neovim while switching between your projects?",
+    "isArchived": false,
+    "lastCommit": "2023-12-03T09:50:28Z",
+    "nameWithOwner": "lexay/telescope-zoxide.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-zoxide.nvim",
+  "owner": "lexay",
+  "url": "https://github.com/lexay/telescope-zoxide.nvim"
+}

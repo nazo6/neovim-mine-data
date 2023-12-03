@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "AI Coding"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Ollama"
         }
       ],
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 35,
     "createdAt": "2023-11-07T07:29:47Z",
     "description": "A plugin for managing and integrating your ollama workflows in neovim.",
     "isArchived": false,
-    "lastCommit": "2023-11-22T18:20:53Z",
+    "lastCommit": "2023-12-03T00:45:41Z",
     "nameWithOwner": "nomnivore/ollama.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 34,
+    "star": 37,
     "topics": [
     ]
   },

@@ -21,20 +21,34 @@
       ],
       "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 43,
     "createdAt": "2023-11-01T08:15:49Z",
-    "description": "Neovim plugin for typst-preview",
+    "description": "Low latency typst preview for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-11-12T12:15:41Z",
+    "lastCommit": "2023-12-03T00:13:22Z",
     "nameWithOwner": "chomosuke/typst-preview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 20,
     "topics": [
       "lua",
       "neovim",

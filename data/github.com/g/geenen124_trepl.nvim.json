@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-25T11:45:03Z",
+    "description": "A lightweight tmux REPL (trepl) interaction plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-11-25T14:34:38Z",
+    "nameWithOwner": "geenen124/trepl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "trepl.nvim",
+  "owner": "geenen124",
+  "url": "https://github.com/geenen124/trepl.nvim"
+}

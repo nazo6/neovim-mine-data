@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-11-29T18:09:18Z",
+    "description": "Mapping functions which allow you to access a fallback function",
+    "isArchived": false,
+    "lastCommit": "2023-12-01T12:39:23Z",
+    "nameWithOwner": "kamalsacranie/nvim-mapper",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mapper",
+  "owner": "kamalsacranie",
+  "url": "https://github.com/kamalsacranie/nvim-mapper"
+}

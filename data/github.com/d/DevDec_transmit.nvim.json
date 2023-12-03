@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ftp"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-11-26T10:38:15Z",
+    "description": "Sftp plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-11-26T12:09:40Z",
+    "nameWithOwner": "DevDec/transmit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "transmit.nvim",
+  "owner": "DevDec",
+  "url": "https://github.com/DevDec/transmit.nvim"
+}

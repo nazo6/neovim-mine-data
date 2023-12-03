@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "AI Coding"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Codeium "
         }
       ],
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 160,
+    "commitCountLastYear": 162,
     "createdAt": "2023-01-29T07:31:06Z",
     "description": "A native neovim extension for Codeium",
     "isArchived": false,
-    "lastCommit": "2023-10-11T00:59:14Z",
+    "lastCommit": "2023-11-28T18:34:28Z",
     "nameWithOwner": "Exafunction/codeium.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 316,
+    "star": 321,
     "topics": [
     ]
   },

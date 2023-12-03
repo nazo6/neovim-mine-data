@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "AI Coding"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "LLM"
         }
       ],
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 147,
+    "commitCountLastYear": 149,
     "createdAt": "2023-09-30T09:28:53Z",
     "description": "Neovim plugin to generate text using LLMs with customizable prompts",
     "isArchived": false,
-    "lastCommit": "2023-11-26T08:21:28Z",
+    "lastCommit": "2023-11-28T15:09:02Z",
     "nameWithOwner": "David-Kunz/gen.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 349,
+    "star": 372,
     "topics": [
     ]
   },

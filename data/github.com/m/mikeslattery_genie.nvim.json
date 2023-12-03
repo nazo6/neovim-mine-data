@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Chat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-11-30T21:07:43Z",
+    "description": "Make a wish and Neovim will do it, via AI.",
+    "isArchived": false,
+    "lastCommit": "2023-12-01T20:24:31Z",
+    "nameWithOwner": "mikeslattery/genie.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "neovim",
+      "neovim-lua",
+      "openai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "genie.nvim",
+  "owner": "mikeslattery",
+  "url": "https://github.com/mikeslattery/genie.nvim"
+}

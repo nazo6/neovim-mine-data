@@ -4,20 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Editing Support"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -35,6 +21,20 @@
       ],
       "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Editing Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -48,7 +48,7 @@
       "color": "#0886a5",
       "name": "Janet"
     },
-    "star": 1833,
+    "star": 1843,
     "topics": [
       "vim",
       "neovim",
@@ -59,5 +59,5 @@
   "domain": "github.com",
   "name": "nvim-treesitter-context",
   "owner": "nvim-treesitter",
-  "url": "https://github.com/nvim-treesitter/nvim-treesitter-context"
+  "url": "https://github.com/romgrk/nvim-treesitter-context"
 }

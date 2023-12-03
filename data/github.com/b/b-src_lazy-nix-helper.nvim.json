@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "OS"
+        },
+        {
+          "level": 4,
+          "name": "Linux"
+        },
+        {
+          "level": 5,
+          "name": "Nix"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2023-11-29T01:33:32Z",
+    "description": "Neovim plugin to facilitate the use of the Lazy neovim plugin manager on NixOS",
+    "isArchived": false,
+    "lastCommit": "2023-12-03T04:16:23Z",
+    "nameWithOwner": "b-src/lazy-nix-helper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazy-nix-helper.nvim",
+  "owner": "b-src",
+  "url": "https://github.com/b-src/lazy-nix-helper.nvim"
+}

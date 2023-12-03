@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "AI Coding"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "LLM"
         }
       ],
@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 16,
     "createdAt": "2023-11-23T05:35:47Z",
-    "description": "Robots writing code in Neovim",
+    "description": "Write code in Neovim with robots",
     "isArchived": false,
-    "lastCommit": "2023-11-26T02:51:02Z",
+    "lastCommit": "2023-11-28T02:25:08Z",
     "nameWithOwner": "bakks/butterfish.nvim",
     "primaryLanguage": {
       "color": "#000080",

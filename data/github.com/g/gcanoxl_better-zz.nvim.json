@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Screen position"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-11-25T07:59:55Z",
+    "description": "Improved zz command, putting the line under the cursor at the user-specified percentage of the window.",
+    "isArchived": false,
+    "lastCommit": "2023-11-25T10:14:58Z",
+    "nameWithOwner": "gcanoxl/better-zz.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "better-zz.nvim",
+  "owner": "gcanoxl",
+  "url": "https://github.com/gcanoxl/better-zz.nvim"
+}
