@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "textDocument"
+        },
+        {
+          "level": 5,
+          "name": "CodeLens"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-12-02T09:28:06Z",
+    "description": "Execute code lenses from everywhere.",
+    "isArchived": false,
+    "lastCommit": "2023-12-09T20:53:57Z",
+    "nameWithOwner": "SvSchen/clh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clh.nvim",
+  "owner": "SvSchen",
+  "url": "https://github.com/SvSchen/clh.nvim"
+}

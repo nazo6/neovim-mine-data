@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Java"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-12-02T18:04:03Z",
+    "description": "Highlight and navigate java error stacks",
+    "isArchived": false,
+    "lastCommit": "2023-12-10T00:00:44Z",
+    "nameWithOwner": "dorin-suletea/nvim-stacktrace",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-stacktrace",
+  "owner": "dorin-suletea",
+  "url": "https://github.com/dorin-suletea/nvim-stacktrace"
+}

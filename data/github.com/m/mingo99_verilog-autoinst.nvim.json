@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 15,
     "createdAt": "2023-11-07T07:17:59Z",
-    "description": null,
+    "description": "A plugin for instantiate module automatically in neovim.",
     "isArchived": false,
-    "lastCommit": "2023-11-29T06:25:23Z",
+    "lastCommit": "2023-12-09T16:58:53Z",
     "nameWithOwner": "mingo99/verilog-autoinst.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -36,6 +36,8 @@
     },
     "star": 0,
     "topics": [
+      "lua",
+      "neovim"
     ]
   },
   "domain": "github.com",

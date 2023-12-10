@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-12-02T14:10:46Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-03T07:11:55Z",
+    "nameWithOwner": "ushmz/github-link.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "github-link.nvim",
+  "owner": "ushmz",
+  "url": "https://github.com/ushmz/github-link.nvim"
+}

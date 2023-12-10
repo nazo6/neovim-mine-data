@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Local Config"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2023-12-06T10:44:08Z",
+    "description": "Utilities for writing Neovim exrc files",
+    "isArchived": false,
+    "lastCommit": "2023-12-07T08:25:36Z",
+    "nameWithOwner": "jedrzejboczar/exrc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "exrc.nvim",
+  "owner": "jedrzejboczar",
+  "url": "https://github.com/jedrzejboczar/exrc.nvim"
+}

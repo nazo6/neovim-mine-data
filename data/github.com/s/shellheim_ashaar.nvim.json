@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Cowsay"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-12-05T13:15:30Z",
+    "description": "A neovim plugin to display random urdu couplets on startup.",
+    "isArchived": false,
+    "lastCommit": "2023-12-06T12:33:39Z",
+    "nameWithOwner": "shellheim/ashaar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "nvim",
+      "shayari",
+      "urdu"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ashaar.nvim",
+  "owner": "shellheim",
+  "url": "https://github.com/shellheim/ashaar.nvim"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Select"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-12-07T08:19:15Z",
+    "description": "Apply command to a partial selection (or a buffer)",
+    "isArchived": false,
+    "lastCommit": "2023-12-07T09:59:40Z",
+    "nameWithOwner": "yowcow/partial.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "partial.nvim",
+  "owner": "yowcow",
+  "url": "https://github.com/yowcow/partial.nvim"
+}

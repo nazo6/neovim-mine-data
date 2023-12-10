@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Java"
+        },
+        {
+          "level": 4,
+          "name": "Debugger"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2023-12-02T15:01:58Z",
+    "description": "Provides APIs related to debugging Java",
+    "isArchived": false,
+    "lastCommit": "2023-12-03T06:37:08Z",
+    "nameWithOwner": "nvim-java/nvim-java-dap",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-java-dap",
+  "owner": "nvim-java",
+  "url": "https://github.com/nvim-java/nvim-java-dap"
+}

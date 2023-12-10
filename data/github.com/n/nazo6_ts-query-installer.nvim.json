@@ -7,35 +7,35 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "C/C++"
+          "level": 2,
+          "name": "Treesitter"
         },
         {
-          "level": 4,
-          "name": "OpenMP"
+          "level": 3,
+          "name": "Installer"
         }
       ],
-      "file": "c_cpp.md",
+      "file": "treesitter.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
-    "createdAt": "2023-11-25T08:42:38Z",
+    "commitCountLastYear": 5,
+    "createdAt": "2023-12-02T06:37:58Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-11-30T02:44:27Z",
-    "nameWithOwner": "Horan-Z/OMP-Engineer.nvim",
+    "lastCommit": "2023-12-02T07:31:13Z",
+    "nameWithOwner": "nazo6/ts-query-installer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "OMP-Engineer.nvim",
-  "owner": "Horan-Z",
-  "url": "https://github.com/Horan-Z/OMP-Engineer.nvim"
+  "name": "ts-query-installer.nvim",
+  "owner": "nazo6",
+  "url": "https://github.com/nazo6/ts-query-installer.nvim"
 }

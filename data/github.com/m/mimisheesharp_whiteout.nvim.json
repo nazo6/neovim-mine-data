@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Security"
+        },
+        {
+          "level": 4,
+          "name": "Privacy"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-12-03T03:12:14Z",
+    "description": "Plugin for Neovim.Change to not visible/readable data.(comment/uncomment)",
+    "isArchived": false,
+    "lastCommit": "2023-12-08T08:19:04Z",
+    "nameWithOwner": "mimisheesharp/whiteout.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "whiteout.nvim",
+  "owner": "mimisheesharp",
+  "url": "https://github.com/mimisheesharp/whiteout.nvim"
+}

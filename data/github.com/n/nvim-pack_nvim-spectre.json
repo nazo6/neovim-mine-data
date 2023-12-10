@@ -4,16 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Grep"
-        }
-      ],
-      "file": "search_replace_grep_select.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -23,10 +13,20 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 107,
+    "commitCountLastYear": 106,
     "createdAt": "2021-03-28T15:37:56Z",
     "description": "Find the enemy and replace them with dark power.",
     "isArchived": false,
@@ -36,12 +36,12 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1407,
+    "star": 1418,
     "topics": [
     ]
   },
   "domain": "github.com",
   "name": "nvim-spectre",
   "owner": "nvim-pack",
-  "url": "https://github.com/nvim-pack/nvim-spectre"
+  "url": "https://github.com/windwp/nvim-spectre"
 }

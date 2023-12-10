@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-12-06T08:41:27Z",
+    "description": "Want to find a needle in a haystack? Use a magnet.nvim!",
+    "isArchived": false,
+    "lastCommit": "2023-12-06T08:58:07Z",
+    "nameWithOwner": "rsreimer/magnet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim",
+      "telescope-extension",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "magnet.nvim",
+  "owner": "rsreimer",
+  "url": "https://github.com/rsreimer/magnet.nvim"
+}

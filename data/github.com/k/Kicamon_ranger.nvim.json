@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "ranger"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-12-05T15:21:33Z",
+    "description": "Ranger plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-12-07T07:16:03Z",
+    "nameWithOwner": "Kicamon/ranger.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ranger.nvim",
+  "owner": "Kicamon",
+  "url": "https://github.com/Kicamon/ranger.nvim"
+}

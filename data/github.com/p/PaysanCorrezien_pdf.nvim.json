@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-12-03T16:45:32Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-03T16:47:28Z",
+    "nameWithOwner": "PaysanCorrezien/pdf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pdf.nvim",
+  "owner": "PaysanCorrezien",
+  "url": "https://github.com/PaysanCorrezien/pdf.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "WebSocket"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-12-04T03:08:09Z",
+    "description": "(UNFINISHED) A dependency-free WebSocket library for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2023-12-04T03:07:33Z",
+    "nameWithOwner": "iwillreku3206/websocket.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "websocket.nvim",
+  "owner": "iwillreku3206",
+  "url": "https://github.com/iwillreku3206/websocket.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Analytics"
+        },
+        {
+          "level": 4,
+          "name": "Typing speed"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2023-12-02T14:23:35Z",
+    "description": "A small NVim plugin tracking the typing speed while working in NVim.",
+    "isArchived": false,
+    "lastCommit": "2023-12-02T20:17:10Z",
+    "nameWithOwner": "JakobSachs/typing-metrics.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typing-metrics.nvim",
+  "owner": "JakobSachs",
+  "url": "https://github.com/JakobSachs/typing-metrics.nvim"
+}
