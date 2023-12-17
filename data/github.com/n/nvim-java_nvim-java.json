@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Java"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 63,
+    "createdAt": "2023-11-10T10:40:56Z",
+    "description": "Painless Java in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-12-13T19:53:23Z",
+    "nameWithOwner": "nvim-java/nvim-java",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 160,
+    "topics": [
+      "autocompletion",
+      "debugging",
+      "diagnostics",
+      "language-server-client",
+      "language-server-protocol",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "running",
+      "spring"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-java",
+  "owner": "nvim-java",
+  "url": "https://github.com/nvim-java/nvim-java"
+}

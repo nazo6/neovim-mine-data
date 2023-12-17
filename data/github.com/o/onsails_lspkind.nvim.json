@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Auto Completion"
-        },
-        {
-          "level": 3,
-          "name": "Auto Completion support"
-        }
-      ],
-      "file": "completion.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -35,6 +17,24 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion support"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1155,
+    "star": 1164,
     "topics": [
       "nvim",
       "lsp",
@@ -59,5 +59,5 @@
   "domain": "github.com",
   "name": "lspkind.nvim",
   "owner": "onsails",
-  "url": "https://github.com/onsails/lspkind-nvim"
+  "url": "https://github.com/onsails/lspkind.nvim"
 }

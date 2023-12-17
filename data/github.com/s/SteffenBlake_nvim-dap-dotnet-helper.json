@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-12-10T16:34:36Z",
+    "description": "Neovim Lua plugin that helps with locating and persisting of dotnet dll files for consumption by nvim-dap",
+    "isArchived": false,
+    "lastCommit": "2023-12-10T16:48:24Z",
+    "nameWithOwner": "SteffenBlake/nvim-dap-dotnet-helper",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-dotnet-helper",
+  "owner": "SteffenBlake",
+  "url": "https://github.com/SteffenBlake/nvim-dap-dotnet-helper"
+}

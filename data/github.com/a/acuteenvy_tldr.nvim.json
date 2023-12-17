@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tldr"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-12-08T21:04:57Z",
+    "description": "Preview tldr pages while editing",
+    "isArchived": false,
+    "lastCommit": "2023-12-09T17:36:12Z",
+    "nameWithOwner": "acuteenvy/tldr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "tldr",
+      "tldr-pages"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tldr.nvim",
+  "owner": "acuteenvy",
+  "url": "https://github.com/acuteenvy/tldr.nvim"
+}

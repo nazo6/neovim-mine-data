@@ -1,0 +1,60 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Utils"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2023-12-07T21:17:08Z",
+    "description": "nvim plugin that adds tabs for telescope search",
+    "isArchived": false,
+    "lastCommit": "2023-12-12T18:00:30Z",
+    "nameWithOwner": "FabianWirth/search.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "search.nvim",
+  "owner": "FabianWirth",
+  "url": "https://github.com/FabianWirth/search.nvim"
+}

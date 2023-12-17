@@ -4,6 +4,24 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        },
+        {
+          "level": 4,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -16,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 94,
+    "commitCountLastYear": 104,
     "createdAt": "2023-10-05T18:25:49Z",
     "description": "A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more",
     "isArchived": false,
-    "lastCommit": "2023-12-10T02:46:11Z",
+    "lastCommit": "2023-12-16T19:36:53Z",
     "nameWithOwner": "benlubas/molten-nvim",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 107,
+    "star": 123,
     "topics": [
       "code-runner",
       "jupyter",

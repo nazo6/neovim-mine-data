@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Analytics"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-12-09T17:01:11Z",
+    "description": "A neovim plugin that enables a command to display word count and estimated read time of your document.",
+    "isArchived": false,
+    "lastCommit": "2023-12-09T17:35:16Z",
+    "nameWithOwner": "rymdlego/readtime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "readtime.nvim",
+  "owner": "rymdlego",
+  "url": "https://github.com/rymdlego/readtime.nvim"
+}

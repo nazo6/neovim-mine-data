@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "GitHub link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-12-11T23:14:21Z",
+    "description": "quickly jump from a line of code in Neovim to the same line of code in the browser",
+    "isArchived": false,
+    "lastCommit": "2023-12-13T18:02:40Z",
+    "nameWithOwner": "juacker/git-link.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "git",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-link.nvim",
+  "owner": "juacker",
+  "url": "https://github.com/juacker/git-link.nvim"
+}

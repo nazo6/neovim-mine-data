@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Cursor"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-12-08T17:49:48Z",
+    "description": "Neovim plugin to make cursor color following syntax highlighting",
+    "isArchived": false,
+    "lastCommit": "2023-12-11T14:14:05Z",
+    "nameWithOwner": "ukyouz/syntax-highlighted-cursor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "syntax-highlighted-cursor.nvim",
+  "owner": "ukyouz",
+  "url": "https://github.com/ukyouz/syntax-highlighted-cursor.nvim"
+}

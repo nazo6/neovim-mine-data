@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Security"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2023-12-08T17:28:07Z",
+    "description": "Helping Developers build secure code in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-12-16T15:56:17Z",
+    "nameWithOwner": "GeekMasher/DevSecInspect.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "DevSecInspect.nvim",
+  "owner": "GeekMasher",
+  "url": "https://github.com/GeekMasher/DevSecInspect.nvim"
+}

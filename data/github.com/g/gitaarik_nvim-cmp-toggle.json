@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "nvim-cmp extension"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-12-12T00:37:52Z",
+    "description": "Toggle autocompletion from nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2023-12-12T00:57:58Z",
+    "nameWithOwner": "gitaarik/nvim-cmp-toggle",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp-toggle",
+  "owner": "gitaarik",
+  "url": "https://github.com/gitaarik/nvim-cmp-toggle"
+}

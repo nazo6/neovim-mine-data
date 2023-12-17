@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Improve Mappings"
+        },
+        {
+          "level": 3,
+          "name": "Normal Mode"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-12-12T03:21:31Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-12T03:24:22Z",
+    "nameWithOwner": "hiberabyss/readline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "readline.nvim",
+  "owner": "hiberabyss",
+  "url": "https://github.com/hiberabyss/readline.nvim"
+}

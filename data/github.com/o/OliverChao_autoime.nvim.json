@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        },
+        {
+          "level": 4,
+          "name": "Fcitx"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-12-08T07:34:11Z",
+    "description": "ime-auto-change smartly. written in lua.",
+    "isArchived": false,
+    "lastCommit": "2023-12-08T13:13:12Z",
+    "nameWithOwner": "OliverChao/autoime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "autoime.nvim",
+  "owner": "OliverChao",
+  "url": "https://github.com/OliverChao/autoime.nvim"
+}

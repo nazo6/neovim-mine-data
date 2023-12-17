@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 49,
+    "createdAt": "2023-12-10T23:02:50Z",
+    "description": "Ollama.nvim with added chat functionallity.",
+    "isArchived": false,
+    "lastCommit": "2023-12-13T14:58:50Z",
+    "nameWithOwner": "gerazov/ollama-chat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ollama-chat.nvim",
+  "owner": "gerazov",
+  "url": "https://github.com/gerazov/ollama-chat.nvim"
+}

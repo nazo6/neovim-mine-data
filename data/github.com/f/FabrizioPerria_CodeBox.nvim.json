@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-12-11T17:23:00Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-12T17:53:54Z",
+    "nameWithOwner": "FabrizioPerria/CodeBox.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "CodeBox.nvim",
+  "owner": "FabrizioPerria",
+  "url": "https://github.com/FabrizioPerria/CodeBox.nvim"
+}

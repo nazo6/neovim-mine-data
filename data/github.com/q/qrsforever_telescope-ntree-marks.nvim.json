@@ -7,25 +7,25 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Web"
+          "level": 2,
+          "name": "Mark"
         },
         {
-          "level": 4,
-          "name": "Jira"
+          "level": 3,
+          "name": "bookmark"
         }
       ],
-      "file": "web-service.md",
+      "file": "mark.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 2,
-    "createdAt": "2023-02-17T13:35:43Z",
-    "description": "A plugin providing Jira integration for Neovim (WIP)",
+    "createdAt": "2023-12-14T12:18:47Z",
+    "description": "telescope-ntree-marks.nvim",
     "isArchived": false,
-    "lastCommit": "2023-02-17T13:36:55Z",
-    "nameWithOwner": "154pinkchairs/jira.nvim",
+    "lastCommit": "2023-12-15T06:01:51Z",
+    "nameWithOwner": "qrsforever/telescope-ntree-marks.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "jira.nvim",
-  "owner": "154pinkchairs",
-  "url": "https://github.com/154pinkchairs/jira.nvim"
+  "name": "telescope-ntree-marks.nvim",
+  "owner": "qrsforever",
+  "url": "https://github.com/qrsforever/telescope-ntree-marks.nvim"
 }

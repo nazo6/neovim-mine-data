@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Framework"
+        },
+        {
+          "level": 5,
+          "name": "Node.js"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-07-20T09:48:53Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-16T16:41:09Z",
+    "nameWithOwner": "stoleruradu/nodejs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nodejs.nvim",
+  "owner": "stoleruradu",
+  "url": "https://github.com/stoleruradu/nodejstools.nvim"
+}

@@ -20,21 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
-    "createdAt": "2023-11-10T19:36:14Z",
-    "description": "nvim plugin for working with .github/CODEOWNERS",
+    "commitCountLastYear": 1,
+    "createdAt": "2023-12-11T18:41:32Z",
+    "description": "neovim plugin for .github/CODEOWNERS",
     "isArchived": false,
-    "lastCommit": "2023-11-21T13:33:26Z",
+    "lastCommit": "2023-12-11T18:53:09Z",
     "nameWithOwner": "rsreimer/codeowners.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 0,
     "topics": [
-      "nvim-plugin",
       "codeowners",
-      "nvim"
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 385,
+    "commitCountLastYear": 585,
     "createdAt": "2023-04-16T04:18:10Z",
     "description": "Neovim plugin for interacting with LLM's and building editor integrated prompts.",
     "isArchived": false,
-    "lastCommit": "2023-11-08T20:36:34Z",
-    "nameWithOwner": "gsuuon/llm.nvim",
+    "lastCommit": "2023-12-15T03:04:57Z",
+    "nameWithOwner": "gsuuon/model.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 146,
+    "star": 161,
     "topics": [
       "chatgpt",
       "neovim-plugin",
@@ -59,7 +59,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "llm.nvim",
+  "name": "model.nvim",
   "owner": "gsuuon",
   "url": "https://github.com/gsuuon/llm.nvim"
 }

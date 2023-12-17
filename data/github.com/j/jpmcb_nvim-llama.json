@@ -34,18 +34,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 10,
     "createdAt": "2023-08-26T19:48:17Z",
-    "description": "🦙 Llama 2 and llama.cpp interfaces for Neovim",
+    "description": "🦙 Ollama interfaces for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-12-08T15:58:06Z",
+    "lastCommit": "2023-12-13T18:48:26Z",
     "nameWithOwner": "jpmcb/nvim-llama",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 63,
+    "star": 106,
     "topics": [
+      "llama2",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "ollama"
     ]
   },
   "domain": "github.com",

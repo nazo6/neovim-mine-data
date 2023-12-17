@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Select"
+        },
+        {
+          "level": 2,
+          "name": "Multi Cursor"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2023-12-14T15:31:06Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-17T09:12:37Z",
+    "nameWithOwner": "lincheney/nvim-multi-cursor",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-multi-cursor",
+  "owner": "lincheney",
+  "url": "https://github.com/lincheney/nvim-multi-cursor"
+}

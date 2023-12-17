@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CI"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2023-12-08T23:05:09Z",
+    "description": "CI template for Neovim plugin project.",
+    "isArchived": false,
+    "lastCommit": "2023-12-14T11:15:03Z",
+    "nameWithOwner": "linrongbin16/ci-template.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ci-template.nvim",
+  "owner": "linrongbin16",
+  "url": "https://github.com/linrongbin16/ci-template.nvim"
+}
