@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-12-21T16:40:17Z",
+    "description": "Open repo in browser",
+    "isArchived": false,
+    "lastCommit": "2023-12-22T16:12:31Z",
+    "nameWithOwner": "tenfyzhong/nvim-gito",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gito",
+  "owner": "tenfyzhong",
+  "url": "https://github.com/tenfyzhong/nvim-gito"
+}

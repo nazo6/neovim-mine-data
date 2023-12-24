@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hover Doc"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-12-19T19:43:23Z",
+    "description": "Context aware hover provider alternative to  vim.lsp.buf.hover",
+    "isArchived": false,
+    "lastCommit": "2023-12-22T19:09:56Z",
+    "nameWithOwner": "patrickpichler/hovercraft.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-lsp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hovercraft.nvim",
+  "owner": "patrickpichler",
+  "url": "https://github.com/patrickpichler/hovercraft.nvim"
+}

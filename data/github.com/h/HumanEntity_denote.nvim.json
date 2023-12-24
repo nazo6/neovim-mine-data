@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-12-22T19:57:23Z",
+    "description": "Simple note taking plugin",
+    "isArchived": false,
+    "lastCommit": "2023-12-22T20:08:35Z",
+    "nameWithOwner": "HumanEntity/denote.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "denote.nvim",
+  "owner": "HumanEntity",
+  "url": "https://github.com/HumanEntity/denote.nvim"
+}

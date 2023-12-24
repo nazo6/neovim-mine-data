@@ -13,20 +13,34 @@
       ],
       "file": "search_replace_grep_select.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 37,
+    "commitCountLastYear": 38,
     "createdAt": "2023-10-10T21:47:13Z",
     "description": "Adds search abilities",
     "isArchived": false,
-    "lastCommit": "2023-11-18T18:15:48Z",
+    "lastCommit": "2023-12-21T18:27:32Z",
     "nameWithOwner": "backdround/improved-search.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 29,
+    "star": 31,
     "topics": [
     ]
   },

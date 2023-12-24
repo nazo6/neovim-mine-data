@@ -12,17 +12,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 162,
+    "commitCountLastYear": 167,
     "createdAt": "2023-04-16T13:37:58Z",
-    "description": "Gitlab's plugin for Neovim!",
+    "description": "Create, review, and manage Gitlab reources without leaving Neovim",
     "isArchived": false,
-    "lastCommit": "2023-12-16T22:20:38Z",
+    "lastCommit": "2023-12-19T18:41:07Z",
     "nameWithOwner": "harrisoncramer/gitlab.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 126,
+    "star": 128,
     "topics": [
       "gitlab",
       "neovim",

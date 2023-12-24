@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-12-18T00:52:28Z",
+    "description": "Built-in Neovim terminal, but with some improvements",
+    "isArchived": false,
+    "lastCommit": "2023-12-20T03:10:32Z",
+    "nameWithOwner": "pvskp/btterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "btterm.nvim",
+  "owner": "pvskp",
+  "url": "https://github.com/pvskp/btterm.nvim"
+}

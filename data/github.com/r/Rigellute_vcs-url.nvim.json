@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-12-20T12:01:41Z",
+    "description": "Tiny nvim utility for yanking the remote version control URL of the current buffer",
+    "isArchived": false,
+    "lastCommit": "2023-12-20T15:41:57Z",
+    "nameWithOwner": "Rigellute/vcs-url.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vcs-url.nvim",
+  "owner": "Rigellute",
+  "url": "https://github.com/Rigellute/vcs-url.nvim"
+}

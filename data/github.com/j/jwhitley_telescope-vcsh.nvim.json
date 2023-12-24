@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotfiles"
+        },
+        {
+          "level": 5,
+          "name": "vcsh"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-12-21T21:19:34Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-22T15:56:04Z",
+    "nameWithOwner": "jwhitley/telescope-vcsh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-vcsh.nvim",
+  "owner": "jwhitley",
+  "url": "https://github.com/jwhitley/telescope-vcsh.nvim"
+}

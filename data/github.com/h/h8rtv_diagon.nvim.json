@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "diagon"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-12-19T00:56:15Z",
+    "description": "Diagon wrapper for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-12-20T22:04:28Z",
+    "nameWithOwner": "h8rtv/diagon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagon.nvim",
+  "owner": "h8rtv",
+  "url": "https://github.com/h8rtv/diagon.nvim"
+}

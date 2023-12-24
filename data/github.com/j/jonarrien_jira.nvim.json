@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Jira"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-12-21T02:33:39Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-21T03:25:46Z",
+    "nameWithOwner": "jonarrien/jira.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jira.nvim",
+  "owner": "jonarrien",
+  "url": "https://github.com/jonarrien/jira.nvim"
+}

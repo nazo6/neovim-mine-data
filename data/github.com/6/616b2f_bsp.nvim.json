@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-12-21T08:53:51Z",
+    "description": "Build Server Protocol  (BSP) client for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-12-21T09:22:02Z",
+    "nameWithOwner": "616b2f/bsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "bsp",
+      "build-server-protocol",
+      "build-tool",
+      "buildserver",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bsp.nvim",
+  "owner": "616b2f",
+  "url": "https://github.com/616b2f/bsp.nvim"
+}

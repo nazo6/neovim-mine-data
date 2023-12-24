@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UUID"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-12-19T18:14:53Z",
+    "description": "Generates a UUID command to place a UUID at the current cursor location.",
+    "isArchived": false,
+    "lastCommit": "2023-12-21T22:06:48Z",
+    "nameWithOwner": "chrsolr/quicky-uuid.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "quicky-uuid.nvim",
+  "owner": "chrsolr",
+  "url": "https://github.com/chrsolr/quicky-uuid.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Cowsay"
+        },
+        {
+          "level": 4,
+          "name": "Tips"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2023-12-21T03:04:39Z",
+    "description": "A Neovim plugin to show a daily Vim tip to focus on for the day.",
+    "isArchived": false,
+    "lastCommit": "2023-12-23T17:07:45Z",
+    "nameWithOwner": "steveclarke/daily-focus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "daily-focus.nvim",
+  "owner": "steveclarke",
+  "url": "https://github.com/steveclarke/daily-focus.nvim"
+}

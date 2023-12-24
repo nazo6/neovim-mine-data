@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-12-17T23:38:02Z",
+    "description": "My first attempt at a Neovim plugin; an extensible plugin allowing isolated execution of arbitrary selected code.",
+    "isArchived": false,
+    "lastCommit": "2023-12-18T00:00:48Z",
+    "nameWithOwner": "almahoozi/repl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "repl.nvim",
+  "owner": "almahoozi",
+  "url": "https://github.com/almahoozi/repl.nvim"
+}

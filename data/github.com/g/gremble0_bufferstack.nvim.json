@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-12-17T21:45:23Z",
+    "description": "Neovim plugin that fixes unintuitive :bprevious and :bnext behavior",
+    "isArchived": false,
+    "lastCommit": "2023-12-23T21:44:42Z",
+    "nameWithOwner": "gremble0/bufferstack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferstack.nvim",
+  "owner": "gremble0",
+  "url": "https://github.com/gremble0/bufferstack.nvim"
+}

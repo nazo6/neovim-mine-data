@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-12-22T22:03:36Z",
+    "description": "Neovim plugin for showing Git blame info.",
+    "isArchived": false,
+    "lastCommit": "2023-12-23T17:04:32Z",
+    "nameWithOwner": "Zorcal/gitblame.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitblame.nvim",
+  "owner": "Zorcal",
+  "url": "https://github.com/Zorcal/gitblame.nvim"
+}

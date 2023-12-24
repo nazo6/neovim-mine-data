@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Plugin Config"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-12-17T15:33:39Z",
+    "description": "Neovim Config Manager",
+    "isArchived": false,
+    "lastCommit": "2023-12-17T20:40:21Z",
+    "nameWithOwner": "marco-souza/ncm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ncm.nvim",
+  "owner": "marco-souza",
+  "url": "https://github.com/marco-souza/ncm.nvim"
+}

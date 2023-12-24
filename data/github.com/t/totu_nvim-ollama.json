@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-12-19T12:20:49Z",
+    "description": "Simple Ollama.ai interface for NeoVIM",
+    "isArchived": false,
+    "lastCommit": "2023-12-21T12:01:38Z",
+    "nameWithOwner": "totu/nvim-ollama",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ollama",
+  "owner": "totu",
+  "url": "https://github.com/totu/nvim-ollama"
+}

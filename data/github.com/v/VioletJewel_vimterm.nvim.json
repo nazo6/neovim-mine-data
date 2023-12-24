@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-12-18T06:20:42Z",
+    "description": "vim :term in neovim",
+    "isArchived": false,
+    "lastCommit": "2023-12-21T04:21:52Z",
+    "nameWithOwner": "VioletJewel/vimterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vimterm.nvim",
+  "owner": "VioletJewel",
+  "url": "https://github.com/VioletJewel/vimterm.nvim"
+}

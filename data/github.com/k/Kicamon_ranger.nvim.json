@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 11,
     "createdAt": "2023-12-05T15:21:33Z",
     "description": "Ranger plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2023-12-14T04:11:36Z",
+    "lastCommit": "2023-12-18T13:41:08Z",
     "nameWithOwner": "Kicamon/ranger.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,10 @@
     },
     "star": 1,
     "topics": [
+      "neovim",
+      "vim",
+      "plug-in",
+      "ranger"
     ]
   },
   "domain": "github.com",

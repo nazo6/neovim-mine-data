@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "OS"
+        },
+        {
+          "level": 4,
+          "name": "Linux"
+        },
+        {
+          "level": 5,
+          "name": "X11"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-12-17T20:38:33Z",
+    "description": "Neovim plugin to change the border color of your terminal's x11 window to indicate what mode neovim is in.",
+    "isArchived": false,
+    "lastCommit": "2023-12-19T18:39:24Z",
+    "nameWithOwner": "Kody-Quintana/x11-border-color.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "bspwm",
+      "neovim-plugin",
+      "x11"
+    ]
+  },
+  "domain": "github.com",
+  "name": "x11-border-color.nvim",
+  "owner": "Kody-Quintana",
+  "url": "https://github.com/Kody-Quintana/x11-border-color.nvim"
+}

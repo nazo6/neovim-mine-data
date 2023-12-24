@@ -13,20 +13,34 @@
       ],
       "file": "command.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 23,
     "createdAt": "2023-07-01T21:05:49Z",
     "description": "A simple plugin for neovim to get the current location",
     "isArchived": false,
-    "lastCommit": "2023-12-10T12:36:19Z",
+    "lastCommit": "2023-12-20T23:47:58Z",
     "nameWithOwner": "ragnarok22/whereami.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 6,
     "topics": [
     ]
   },

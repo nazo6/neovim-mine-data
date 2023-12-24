@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua Development"
+        },
+        {
+          "level": 3,
+          "name": "LuaRocks"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2023-12-17T19:44:30Z",
+    "description": "Use rocks.nvim to install plugins from git!",
+    "isArchived": false,
+    "lastCommit": "2023-12-19T00:13:19Z",
+    "nameWithOwner": "nvim-neorocks/rocks-git.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rocks-git.nvim",
+  "owner": "nvim-neorocks",
+  "url": "https://github.com/nvim-neorocks/rocks-git.nvim"
+}

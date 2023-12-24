@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        },
+        {
+          "level": 4,
+          "name": "Header"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-12-19T14:15:39Z",
+    "description": "Tool to create Header and CPP files",
+    "isArchived": false,
+    "lastCommit": "2023-12-19T14:41:58Z",
+    "nameWithOwner": "Maduki-tech/header.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "cpp",
+      "nvim",
+      "setup"
+    ]
+  },
+  "domain": "github.com",
+  "name": "header.nvim",
+  "owner": "Maduki-tech",
+  "url": "https://github.com/Maduki-tech/header.nvim"
+}

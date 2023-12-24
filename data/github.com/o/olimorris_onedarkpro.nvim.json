@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 211,
+    "commitCountLastYear": 202,
     "createdAt": "2021-04-07T17:22:14Z",
-    "description": "🎨 Atom's iconic One Dark theme, for Neovim. Fully customisable, with Treesitter, LSP semantic token support and a light variant",
+    "description": "🎨 Atom's iconic One Dark theme, for Neovim. Cacheable, fully customisable, Treesitter + LSP semantic token support. Comes with variants",
     "isArchived": false,
-    "lastCommit": "2023-12-11T22:40:12Z",
+    "lastCommit": "2023-12-22T20:59:31Z",
     "nameWithOwner": "olimorris/onedarkpro.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 597,
+    "star": 604,
     "topics": [
       "neovim",
       "theme",

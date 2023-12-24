@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Roblox studio"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-12-18T22:15:07Z",
+    "description": "A plugin for bringing your Roblox DataModel into Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-12-21T20:29:03Z",
+    "nameWithOwner": "zilibobi/luau-tree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "luau",
+      "neovim",
+      "nvim",
+      "roblox"
+    ]
+  },
+  "domain": "github.com",
+  "name": "luau-tree.nvim",
+  "owner": "zilibobi",
+  "url": "https://github.com/zilibobi/luau-tree.nvim"
+}

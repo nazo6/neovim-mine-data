@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-12-21T14:47:02Z",
+    "description": "This is a plugin that will automatically setup folding in a way that makes sense to me.",
+    "isArchived": false,
+    "lastCommit": "2023-12-21T15:54:21Z",
+    "nameWithOwner": "lcroberts/simple-folds.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-folds.nvim",
+  "owner": "lcroberts",
+  "url": "https://github.com/lcroberts/simple-folds.nvim"
+}
