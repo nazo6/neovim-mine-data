@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-12-29T22:30:07Z",
+    "description": "fzf-lua extension that provides handy functionality about plugins installed via lazy.nvim",
+    "isArchived": false,
+    "lastCommit": "2023-12-29T22:36:30Z",
+    "nameWithOwner": "roginfarrer/fzf-lua-lazy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "fzf",
+      "lua",
+      "neovim",
+      "nvim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-lua-lazy.nvim",
+  "owner": "roginfarrer",
+  "url": "https://github.com/roginfarrer/fzf-lua-lazy.nvim"
+}

@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Command Line"
-        },
-        {
-          "level": 3,
-          "name": "GUID"
-        }
       ],
-      "file": "commandline.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,8 +11,8 @@
     "commitCountLastYear": 23,
     "createdAt": "2022-12-31T01:33:52Z",
     "description": "Simply common operations when working with GUIDs in Neovim",
-    "isArchived": false,
-    "lastCommit": "2023-02-21T02:12:46Z",
+    "isArchived": true,
+    "lastCommit": "2023-12-26T05:54:48Z",
     "nameWithOwner": "FooSoft/guid.nvim",
     "primaryLanguage": {
       "color": "#000080",

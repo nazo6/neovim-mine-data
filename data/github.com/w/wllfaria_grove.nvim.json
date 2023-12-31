@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-12-28T13:01:19Z",
+    "description": "File and session manager for neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-12-30T19:07:05Z",
+    "nameWithOwner": "wllfaria/grove.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "filetree",
+      "lua",
+      "neovim",
+      "plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "grove.nvim",
+  "owner": "wllfaria",
+  "url": "https://github.com/wllfaria/grove.nvim"
+}

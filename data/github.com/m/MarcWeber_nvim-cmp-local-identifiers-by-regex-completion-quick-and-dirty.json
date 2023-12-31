@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "nvim-cmp extension"
+        },
+        {
+          "level": 4,
+          "name": "nvim-cmp sources"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-12-23T13:11:13Z",
+    "description": "regex based local keyword completion for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2023-12-23T13:20:27Z",
+    "nameWithOwner": "MarcWeber/nvim-cmp-local-identifiers-by-regex-completion-quick-and-dirty",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp-local-identifiers-by-regex-completion-quick-and-dirty",
+  "owner": "MarcWeber",
+  "url": "https://github.com/MarcWeber/nvim-cmp-local-identifiers-by-regex-completion-quick-and-dirty"
+}

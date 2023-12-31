@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Prefix Key Binding"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2023-12-23T15:04:58Z",
+    "description": "Create custom submodes and menus",
+    "isArchived": false,
+    "lastCommit": "2023-12-31T01:16:38Z",
+    "nameWithOwner": "nvimtools/hydra.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hydra.nvim",
+  "owner": "nvimtools",
+  "url": "https://github.com/nvimtools/hydra.nvim"
+}

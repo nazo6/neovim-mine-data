@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Cowsay"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2023-12-29T23:54:45Z",
+    "description": "Be enlightened by Master Oogway! ",
+    "isArchived": false,
+    "lastCommit": "2023-12-30T22:07:10Z",
+    "nameWithOwner": "0x5a4/oogway.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "oogway.nvim",
+  "owner": "0x5a4",
+  "url": "https://github.com/0x5a4/oogway.nvim"
+}

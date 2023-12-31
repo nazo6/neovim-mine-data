@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Open README"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-12-27T19:31:20Z",
+    "description": "Neovim plugin quickly look up one plugin's README.md",
+    "isArchived": false,
+    "lastCommit": "2023-12-31T08:24:04Z",
+    "nameWithOwner": "neuromaancer/readup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "readup.nvim",
+  "owner": "neuromaancer",
+  "url": "https://github.com/neuromaancer/readup.nvim"
+}

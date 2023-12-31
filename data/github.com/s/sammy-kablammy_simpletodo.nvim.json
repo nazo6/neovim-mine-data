@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-12-29T17:53:39Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-29T18:07:47Z",
+    "nameWithOwner": "sammy-kablammy/simpletodo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simpletodo.nvim",
+  "owner": "sammy-kablammy",
+  "url": "https://github.com/sammy-kablammy/simpletodo.nvim"
+}

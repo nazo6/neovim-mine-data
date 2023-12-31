@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Insert"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-12-28T22:55:01Z",
+    "description": "Jump back and forth while being in insert mode",
+    "isArchived": false,
+    "lastCommit": "2023-12-28T23:33:09Z",
+    "nameWithOwner": "AgusDOLARD/backout.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "plugin",
+      "tabout",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "backout.nvim",
+  "owner": "AgusDOLARD",
+  "url": "https://github.com/AgusDOLARD/backout.nvim"
+}

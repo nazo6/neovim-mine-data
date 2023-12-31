@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Wrap line"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-12-25T03:49:55Z",
+    "description": "Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery",
+    "isArchived": false,
+    "lastCommit": "2023-12-31T00:09:36Z",
+    "nameWithOwner": "benlubas/wrapping-paper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wrapping-paper.nvim",
+  "owner": "benlubas",
+  "url": "https://github.com/benlubas/wrapping-paper.nvim"
+}

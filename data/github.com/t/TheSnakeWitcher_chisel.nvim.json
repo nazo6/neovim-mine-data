@@ -2,33 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
-          "name": "Ethereum"
-        },
-        {
-          "level": 4,
-          "name": "foundry"
-        }
       ],
-      "file": "integration-apps.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 21,
     "createdAt": "2023-04-12T20:15:35Z",
     "description": "Integrate foundry toolkit tool chisel(solidity REPL) with neovim",
-    "isArchived": false,
-    "lastCommit": "2023-05-28T19:23:32Z",
+    "isArchived": true,
+    "lastCommit": "2023-12-30T18:49:13Z",
     "nameWithOwner": "TheSnakeWitcher/chisel.nvim",
     "primaryLanguage": {
       "color": "#000080",

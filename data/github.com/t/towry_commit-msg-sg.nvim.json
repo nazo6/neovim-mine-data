@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2023-12-25T03:54:17Z",
+    "description": "Let AI write the git commit message for you in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-12-26T02:49:04Z",
+    "nameWithOwner": "towry/commit-msg-sg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "ai",
+      "neovim-plugin",
+      "sourcegraph-cody"
+    ]
+  },
+  "domain": "github.com",
+  "name": "commit-msg-sg.nvim",
+  "owner": "towry",
+  "url": "https://github.com/towry/commit-msg-sg.nvim"
+}

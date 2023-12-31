@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-12-24T08:51:27Z",
+    "description": "A To-Do client for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2023-12-24T18:43:58Z",
+    "nameWithOwner": "ManasPatil0967/nvim-todo",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-todo",
+  "owner": "ManasPatil0967",
+  "url": "https://github.com/ManasPatil0967/nvim-todo"
+}

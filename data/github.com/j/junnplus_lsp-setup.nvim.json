@@ -4,20 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Pre-configuration"
-        }
-      ],
-      "file": "lsp.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -31,20 +17,34 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pre-configuration"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 30,
     "createdAt": "2022-04-24T05:57:59Z",
     "description": "A simple wrapper for nvim-lspconfig and mason-lspconfig to easily setup LSP servers.",
     "isArchived": false,
-    "lastCommit": "2023-09-20T23:53:37Z",
+    "lastCommit": "2023-12-25T00:20:00Z",
     "nameWithOwner": "junnplus/lsp-setup.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 212,
+    "star": 213,
     "topics": [
       "lsp-server",
       "nvim",
@@ -58,5 +58,5 @@
   "domain": "github.com",
   "name": "lsp-setup.nvim",
   "owner": "junnplus",
-  "url": "https://github.com/junnplus/nvim-lsp-setup"
+  "url": "https://github.com/Junnplus/nvim-lsp-setup"
 }

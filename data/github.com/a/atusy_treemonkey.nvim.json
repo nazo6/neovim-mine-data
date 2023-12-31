@@ -17,20 +17,38 @@
       ],
       "file": "motion.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Treesitter Based"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 67,
     "createdAt": "2023-12-23T14:58:04Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-12-23T15:25:10Z",
+    "lastCommit": "2023-12-31T08:18:52Z",
     "nameWithOwner": "atusy/treemonkey.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 11,
     "topics": [
     ]
   },

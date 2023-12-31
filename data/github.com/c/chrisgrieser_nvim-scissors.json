@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-12-29T18:25:01Z",
+    "description": "Automagical snippet management. ",
+    "isArchived": false,
+    "lastCommit": "2023-12-30T16:44:10Z",
+    "nameWithOwner": "chrisgrieser/nvim-scissors",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "nvim-plugin",
+      "snippets",
+      "snippets-manager"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-scissors",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/nvim-scissors"
+}

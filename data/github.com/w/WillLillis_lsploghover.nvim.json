@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Log"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-12-26T01:00:49Z",
+    "description": "Hover windows on specified Neovim LSP logs",
+    "isArchived": false,
+    "lastCommit": "2023-12-28T07:34:01Z",
+    "nameWithOwner": "WillLillis/lsploghover.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "debugging-tool",
+      "lsp",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsploghover.nvim",
+  "owner": "WillLillis",
+  "url": "https://github.com/WillLillis/lsploghover.nvim"
+}

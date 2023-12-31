@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 8,
     "createdAt": "2023-09-13T23:20:01Z",
-    "description": "Smart formatting for neovim",
+    "description": "Minimal, smart formatting using native neovim capabilities.",
     "isArchived": false,
-    "lastCommit": "2023-10-08T21:12:42Z",
+    "lastCommit": "2023-12-29T16:12:09Z",
     "nameWithOwner": "cljoly/minimal-format.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -29,8 +29,7 @@
     "star": 3,
     "topics": [
       "neovim",
-      "neovim-plugin",
-      "wip"
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

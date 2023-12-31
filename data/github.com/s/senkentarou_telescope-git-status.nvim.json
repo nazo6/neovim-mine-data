@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2023-12-24T02:11:35Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-30T03:33:24Z",
+    "nameWithOwner": "senkentarou/telescope-git-status.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-git-status.nvim",
+  "owner": "senkentarou",
+  "url": "https://github.com/senkentarou/telescope-git-status.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util pack"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2023-12-23T00:22:58Z",
+    "description": "Handful abstractions for intermediate vim users",
+    "isArchived": false,
+    "lastCommit": "2023-12-28T02:19:55Z",
+    "nameWithOwner": "zegabr/toolbox.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toolbox.nvim",
+  "owner": "zegabr",
+  "url": "https://github.com/zegabr/toolbox.nvim"
+}

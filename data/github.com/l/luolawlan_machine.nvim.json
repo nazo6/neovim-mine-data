@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-12-28T13:24:27Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-29T23:56:31Z",
+    "nameWithOwner": "luolawlan/machine.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "machine.nvim",
+  "owner": "luolawlan",
+  "url": "https://github.com/luolawlan/machine.nvim"
+}

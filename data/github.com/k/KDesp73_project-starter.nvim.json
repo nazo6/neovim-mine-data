@@ -16,18 +16,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 13,
     "createdAt": "2023-12-21T18:18:59Z",
-    "description": null,
+    "description": "A neovim plugin for creating template project structures for various languages",
     "isArchived": false,
-    "lastCommit": "2023-12-21T21:36:58Z",
+    "lastCommit": "2023-12-24T17:29:31Z",
     "nameWithOwner": "KDesp73/project-starter.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "template-project"
     ]
   },
   "domain": "github.com",

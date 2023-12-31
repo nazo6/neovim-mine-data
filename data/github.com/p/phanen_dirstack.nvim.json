@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "cd(change directory)"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-12-26T13:36:31Z",
+    "description": "A directory navigator, with similar model to vim's builtin undolist.",
+    "isArchived": false,
+    "lastCommit": "2023-12-30T19:25:01Z",
+    "nameWithOwner": "phanen/dirstack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dirstack.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/dirstack.nvim"
+}
