@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "bookmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2024-01-03T12:21:27Z",
+    "description": "Bookmark your files, separated by project, and quickly navigate through them.",
+    "isArchived": false,
+    "lastCommit": "2024-01-06T14:53:55Z",
+    "nameWithOwner": "otavioschwanck/arrow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+      "bookmark",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "arrow.nvim",
+  "owner": "otavioschwanck",
+  "url": "https://github.com/otavioschwanck/arrow.nvim"
+}

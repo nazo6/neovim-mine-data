@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Startup"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 79,
+    "createdAt": "2023-09-12T03:01:51Z",
+    "description": "Neovim dashboard plugin",
+    "isArchived": false,
+    "lastCommit": "2023-10-12T20:06:29Z",
+    "nameWithOwner": "MeanderingProgrammer/dashboard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "dashboard",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dashboard.nvim",
+  "owner": "MeanderingProgrammer",
+  "url": "https://github.com/MeanderingProgrammer/dashboard.nvim"
+}

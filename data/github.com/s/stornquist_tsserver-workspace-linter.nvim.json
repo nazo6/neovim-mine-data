@@ -8,38 +8,38 @@
         },
         {
           "level": 3,
-          "name": "CLI"
+          "name": "Javascript/Typescript"
         },
         {
           "level": 4,
-          "name": "make"
+          "name": "Toolchain"
         },
         {
           "level": 5,
-          "name": "xmake"
+          "name": "tsserver"
         }
       ],
-      "file": "cli.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2023-07-17T14:35:37Z",
-    "description": "easy to use xmake in nvim.",
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-03T13:51:30Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2023-08-07T13:03:02Z",
-    "nameWithOwner": "CnsMaple/xmake.nvim",
+    "lastCommit": "2024-01-05T17:14:06Z",
+    "nameWithOwner": "stornquist/tsserver-workspace-linter.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "xmake.nvim",
-  "owner": "CnsMaple",
-  "url": "https://github.com/CnsMaple/xmake.nvim"
+  "name": "tsserver-workspace-linter.nvim",
+  "owner": "stornquist",
+  "url": "https://github.com/stornquist/tsserver-workspace-linter.nvim"
 }

@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 52,
+    "commitCountLastYear": 55,
     "createdAt": "2023-10-22T08:37:55Z",
     "description": "Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for GNU Emacs.",
     "isArchived": false,
-    "lastCommit": "2023-12-31T04:00:14Z",
+    "lastCommit": "2024-01-02T04:15:29Z",
     "nameWithOwner": "miikanissi/modus-themes.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 68,
+    "star": 75,
     "topics": [
       "neovim",
       "neovim-colorscheme",
@@ -39,7 +39,9 @@
       "theme",
       "vim",
       "vim-colorscheme",
-      "vim-theme"
+      "vim-theme",
+      "accessibility",
+      "wcag"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Chat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-01-03T10:11:56Z",
+    "description": "neovim plugin to chat and prompt with a local or remote ollama ai server.",
+    "isArchived": false,
+    "lastCommit": "2024-01-03T19:47:56Z",
+    "nameWithOwner": "Lommix/ollamachad.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "lua",
+      "neovim",
+      "ollama"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ollamachad.nvim",
+  "owner": "Lommix",
+  "url": "https://github.com/Lommix/ollamachad.nvim"
+}

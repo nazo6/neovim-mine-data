@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "Code outline"
-        }
       ],
-      "file": "code-outline.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,17 +26,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 11,
     "createdAt": "2021-04-19T01:17:58Z",
     "description": "A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.",
-    "isArchived": false,
-    "lastCommit": "2023-01-25T22:39:33Z",
+    "isArchived": true,
+    "lastCommit": "2024-01-03T05:25:39Z",
     "nameWithOwner": "simrat39/symbols-outline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1818,
+    "star": 1819,
     "topics": [
       "neovim"
     ]

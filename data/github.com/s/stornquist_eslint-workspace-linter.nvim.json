@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Toolchain"
+        },
+        {
+          "level": 5,
+          "name": "eslint"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-01-03T11:55:25Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-01-05T17:14:38Z",
+    "nameWithOwner": "stornquist/eslint-workspace-linter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "eslint-workspace-linter.nvim",
+  "owner": "stornquist",
+  "url": "https://github.com/stornquist/eslint-workspace-linter.nvim"
+}

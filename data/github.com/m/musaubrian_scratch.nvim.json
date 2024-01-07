@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 49,
+    "commitCountLastYear": 51,
     "createdAt": "2023-06-26T06:22:00Z",
-    "description": "temporary buffers",
+    "description": "create and evaluate temporary buffers",
     "isArchived": false,
-    "lastCommit": "2023-12-29T13:15:25Z",
+    "lastCommit": "2024-01-01T16:17:26Z",
     "nameWithOwner": "musaubrian/scratch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
+      "nvim",
+      "nvim-plugin",
+      "scratch"
     ]
   },
   "domain": "github.com",

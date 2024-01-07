@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Zettelkasten"
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
         }
       ],
-      "file": "note-taking.md",
+      "file": "syntax_highlight.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -22,7 +26,11 @@
         },
         {
           "level": 2,
-          "name": "Note Taking"
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme Switchers"
         }
       ],
       "file": "README.md",
@@ -30,26 +38,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
-    "createdAt": "2021-08-16T08:03:21Z",
-    "description": "Neovim extension for zk",
+    "commitCountLastYear": 99,
+    "createdAt": "2023-09-02T02:54:54Z",
+    "description": "Find, preview, and install any colorscheme without leaving neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-27T14:59:55Z",
-    "nameWithOwner": "mickael-menu/zk-nvim",
+    "lastCommit": "2024-01-06T20:37:23Z",
+    "nameWithOwner": "CWood-sdf/pineapple",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 404,
+    "star": 3,
     "topics": [
-      "neovim",
-      "nvim",
-      "zk",
-      "notes"
     ]
   },
   "domain": "github.com",
-  "name": "zk-nvim",
-  "owner": "mickael-menu",
-  "url": "https://github.com/mickael-menu/zk-nvim"
+  "name": "pineapple",
+  "owner": "CWood-sdf",
+  "url": "https://github.com/CWood-sdf/pineapple"
 }

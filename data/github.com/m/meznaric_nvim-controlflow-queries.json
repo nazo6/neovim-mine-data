@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Semantic highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2023-12-31T17:20:34Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2023-12-31T18:08:25Z",
+    "nameWithOwner": "meznaric/nvim-controlflow-queries",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-controlflow-queries",
+  "owner": "meznaric",
+  "url": "https://github.com/meznaric/nvim-controlflow-queries"
+}

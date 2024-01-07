@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2023-09-24T11:31:40Z",
+    "description": "Vimtex source for nvim-cmp.",
+    "isArchived": false,
+    "lastCommit": "2023-12-30T17:59:08Z",
+    "nameWithOwner": "micangl/cmp-vimtex",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 31,
+    "topics": [
+      "nvim-cmp",
+      "neovim",
+      "vimtex"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-vimtex",
+  "owner": "micangl",
+  "url": "https://github.com/micangl/cmp-vimtex"
+}

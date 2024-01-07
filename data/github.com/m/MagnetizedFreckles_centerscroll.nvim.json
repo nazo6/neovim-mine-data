@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Screen position"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-01-02T21:04:13Z",
+    "description": "A simple utility to keep cursor always vertically centered. Focused on minimizing stuttering.",
+    "isArchived": false,
+    "lastCommit": "2024-01-05T13:15:46Z",
+    "nameWithOwner": "MagnetizedFreckles/centerscroll.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "centerscroll.nvim",
+  "owner": "MagnetizedFreckles",
+  "url": "https://github.com/MagnetizedFreckles/centerscroll.nvim"
+}

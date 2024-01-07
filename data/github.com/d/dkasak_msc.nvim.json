@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 5,
     "createdAt": "2023-03-23T11:40:33Z",
-    "description": "Resolve MSC (Matrix Spec Proposal) references into URLs.",
+    "description": "nvim tooling for resolving MSC (Matrix Spec Proposal) references.",
     "isArchived": false,
-    "lastCommit": "2023-03-23T12:55:42Z",
+    "lastCommit": "2024-01-05T11:29:50Z",
     "nameWithOwner": "dkasak/msc.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,8 @@
     },
     "star": 2,
     "topics": [
+      "matrix",
+      "nvim"
     ]
   },
   "domain": "github.com",

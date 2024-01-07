@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Ruby"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-01-04T20:08:08Z",
+    "description": "Neovim plugin to interact with the Referral Rubygem",
+    "isArchived": false,
+    "lastCommit": "2024-01-04T20:20:25Z",
+    "nameWithOwner": "adam12/referral.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "ruby"
+    ]
+  },
+  "domain": "github.com",
+  "name": "referral.nvim",
+  "owner": "adam12",
+  "url": "https://github.com/adam12/referral.nvim"
+}

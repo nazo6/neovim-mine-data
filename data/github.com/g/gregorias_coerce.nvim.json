@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Convert Case"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 69,
+    "createdAt": "2024-01-02T15:51:34Z",
+    "description": "A Neovim plugin for changing keyword case.",
+    "isArchived": false,
+    "lastCommit": "2024-01-06T16:39:59Z",
+    "nameWithOwner": "gregorias/coerce.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "neovim-plugin",
+      "string-case"
+    ]
+  },
+  "domain": "github.com",
+  "name": "coerce.nvim",
+  "owner": "gregorias",
+  "url": "https://github.com/gregorias/coerce.nvim"
+}

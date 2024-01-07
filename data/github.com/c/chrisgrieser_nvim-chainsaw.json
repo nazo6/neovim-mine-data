@@ -1,0 +1,63 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Refactoring,Debugging"
+        },
+        {
+          "level": 4,
+          "name": "print debug"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Debugging"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-12-30T15:20:58Z",
+    "description": "Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.",
+    "isArchived": false,
+    "lastCommit": "2024-01-05T21:25:56Z",
+    "nameWithOwner": "chrisgrieser/nvim-chainsaw",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "log-statements",
+      "logging",
+      "nvim-plugin",
+      "print-statements"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-chainsaw",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/nvim-chainsaw"
+}

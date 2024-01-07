@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Formatting"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -17,39 +31,25 @@
       ],
       "file": "linter_formatter.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Formatting"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 18,
     "createdAt": "2021-10-26T03:57:34Z",
     "description": "A small Neovim plugin to remove trailing whitespace and empty lines at end of file on every save",
     "isArchived": false,
-    "lastCommit": "2023-10-22T19:17:04Z",
+    "lastCommit": "2024-01-04T19:54:25Z",
     "nameWithOwner": "mcauley-penney/tidy.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 98,
+    "star": 97,
     "topics": [
     ]
   },
   "domain": "github.com",
   "name": "tidy.nvim",
   "owner": "mcauley-penney",
-  "url": "https://github.com/McAuleyPenney/tidy.nvim"
+  "url": "https://github.com/mcauley-penney/tidy.nvim"
 }

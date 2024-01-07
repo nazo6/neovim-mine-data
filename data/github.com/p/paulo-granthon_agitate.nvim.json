@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 62,
+    "createdAt": "2024-01-02T15:52:00Z",
+    "description": "🌫 Agitate your git workflow in NeoVim! Abstraction commands over vim-fugitive to improve your Git agility even more.",
+    "isArchived": false,
+    "lastCommit": "2024-01-07T06:47:32Z",
+    "nameWithOwner": "paulo-granthon/agitate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "git",
+      "github",
+      "githubapi",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "agitate.nvim",
+  "owner": "paulo-granthon",
+  "url": "https://github.com/paulo-granthon/agitate.nvim"
+}
