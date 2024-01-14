@@ -4,24 +4,24 @@
       "data": [
         {
           "level": 1,
-          "name": "Search"
+          "name": "Note Taking"
         },
         {
           "level": 2,
-          "name": "Search highlight"
+          "name": "etc"
         }
       ],
-      "file": "search_replace_grep_select.md",
+      "file": "note-taking.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
-    "createdAt": "2024-01-05T17:56:37Z",
+    "commitCountLastYear": 1,
+    "createdAt": "2024-01-11T14:33:41Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-01-06T23:37:16Z",
-    "nameWithOwner": "MichaelMuz/timed-highlight.nvim",
+    "lastCommit": "2024-01-12T12:30:00Z",
+    "nameWithOwner": "sQVe/notebox.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "timed-highlight.nvim",
-  "owner": "MichaelMuz",
-  "url": "https://github.com/MichaelMuz/timed-highlight.nvim"
+  "name": "notebox.nvim",
+  "owner": "sQVe",
+  "url": "https://github.com/sQVe/notebox.nvim"
 }

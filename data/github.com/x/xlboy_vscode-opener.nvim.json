@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Other Editor"
+        },
+        {
+          "level": 4,
+          "name": "VS Code"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-01-06T05:40:53Z",
+    "description": "Open the current Neovim workspace or buffer in VSCode",
+    "isArchived": false,
+    "lastCommit": "2024-01-06T07:42:30Z",
+    "nameWithOwner": "xlboy/vscode-opener.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vscode-opener.nvim",
+  "owner": "xlboy",
+  "url": "https://github.com/xlboy/vscode-opener.nvim"
+}

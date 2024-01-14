@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2024-01-11T19:45:43Z",
+    "description": "A way to easily preview CSV files directly in neovim using csvlens, similar to glow.nvim. ",
+    "isArchived": false,
+    "lastCommit": "2024-01-13T22:40:54Z",
+    "nameWithOwner": "theKnightsOfRohan/csvlens.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "csvlens.nvim",
+  "owner": "theKnightsOfRohan",
+  "url": "https://github.com/theKnightsOfRohan/csvlens.nvim"
+}

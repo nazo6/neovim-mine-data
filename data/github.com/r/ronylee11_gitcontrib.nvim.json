@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "Contribution"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-01-11T09:30:47Z",
+    "description": "simple nvim plugin that pops up a notification window to show git contributions",
+    "isArchived": false,
+    "lastCommit": "2024-01-13T04:38:27Z",
+    "nameWithOwner": "ronylee11/gitcontrib.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitcontrib.nvim",
+  "owner": "ronylee11",
+  "url": "https://github.com/ronylee11/gitcontrib.nvim"
+}

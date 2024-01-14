@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "MongoDB"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 72,
+    "createdAt": "2024-01-06T15:37:53Z",
+    "description": "A frontend for mongosh in NeoVim.",
+    "isArchived": false,
+    "lastCommit": "2024-01-14T00:27:29Z",
+    "nameWithOwner": "SirZenith/mongosh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mongosh.nvim",
+  "owner": "SirZenith",
+  "url": "https://github.com/SirZenith/mongosh.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Simple"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2024-01-12T16:15:43Z",
+    "description": "Yet another statusline plugin for neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-01-13T13:01:13Z",
+    "nameWithOwner": "brianaung/yasl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yasl.nvim",
+  "owner": "brianaung",
+  "url": "https://github.com/brianaung/yasl.nvim"
+}

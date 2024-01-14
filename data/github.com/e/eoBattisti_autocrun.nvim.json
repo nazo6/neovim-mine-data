@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        },
+        {
+          "level": 4,
+          "name": "GCC"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-11T21:17:37Z",
+    "description": "A small neovim plugin to compile and run C code after save",
+    "isArchived": false,
+    "lastCommit": "2024-01-12T21:12:20Z",
+    "nameWithOwner": "eoBattisti/autocrun.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "autocrun.nvim",
+  "owner": "eoBattisti",
+  "url": "https://github.com/eoBattisti/autocrun.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "cd(change directory)"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-01-07T23:26:04Z",
+    "description": "Change'em, stack'em, pop'em (neovim cwd manager)",
+    "isArchived": false,
+    "lastCommit": "2024-01-07T23:27:11Z",
+    "nameWithOwner": "itsfrank/cd-stack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cd-stack.nvim",
+  "owner": "itsfrank",
+  "url": "https://github.com/itsfrank/cd-stack.nvim"
+}

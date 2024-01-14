@@ -20,18 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 147,
+    "commitCountLastYear": 146,
     "createdAt": "2023-11-21T10:45:26Z",
-    "description": "Chat with Ollama GPT Neovim Plugin: Effortless Natural Language Generation with Ollama LLM API ",
+    "description": "Chat with Ollama/Huggingface TextGen GPT Neovim Plugin: Effortless Natural Language Generation with LLM API ",
     "isArchived": false,
-    "lastCommit": "2024-01-04T14:19:12Z",
+    "lastCommit": "2024-01-11T12:28:44Z",
     "nameWithOwner": "huynle/ogpt.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 25,
+    "star": 32,
     "topics": [
+      "chatbot",
+      "huggingface",
+      "neovim",
+      "ollama",
+      "plugin",
+      "textgenui"
     ]
   },
   "domain": "github.com",

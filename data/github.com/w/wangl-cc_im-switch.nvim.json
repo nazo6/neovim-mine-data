@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-01-09T17:30:05Z",
+    "description": "A simple neovim plugin to automatically switch input method (only support macOS now).",
+    "isArchived": false,
+    "lastCommit": "2024-01-11T06:48:07Z",
+    "nameWithOwner": "wangl-cc/im-switch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "im-switch.nvim",
+  "owner": "wangl-cc",
+  "url": "https://github.com/wangl-cc/im-switch.nvim"
+}

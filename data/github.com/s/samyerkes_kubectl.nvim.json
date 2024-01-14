@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-01-10T16:07:04Z",
+    "description": "Manage Kubernetes resources from Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-01-10T22:40:35Z",
+    "nameWithOwner": "samyerkes/kubectl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kubectl.nvim",
+  "owner": "samyerkes",
+  "url": "https://github.com/samyerkes/kubectl.nvim"
+}

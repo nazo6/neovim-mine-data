@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Image"
-        },
-        {
-          "level": 3,
-          "name": "Image Viewer"
-        }
       ],
-      "file": "image.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,17 +22,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 11,
     "createdAt": "2022-02-08T11:21:52Z",
     "description": "🖼️ Image Viewer as ASCII Art for Neovim written in Lua",
-    "isArchived": false,
-    "lastCommit": "2023-06-08T14:32:05Z",
+    "isArchived": true,
+    "lastCommit": "2024-01-07T20:22:37Z",
     "nameWithOwner": "samodostal/image.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 167,
+    "star": 166,
     "topics": [
       "image-viewer",
       "neovim",

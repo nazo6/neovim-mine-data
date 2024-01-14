@@ -26,18 +26,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 614,
+    "commitCountLastYear": 615,
     "createdAt": "2023-07-26T09:58:20Z",
     "description": "FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke.",
     "isArchived": false,
-    "lastCommit": "2024-01-05T15:53:54Z",
+    "lastCommit": "2024-01-10T08:08:05Z",
     "nameWithOwner": "linrongbin16/fzfx.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 84,
+    "star": 85,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "lua",
+      "plugin",
+      "vim"
     ]
   },
   "domain": "github.com",

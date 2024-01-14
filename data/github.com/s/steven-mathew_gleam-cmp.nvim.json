@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Erlang"
+        },
+        {
+          "level": 4,
+          "name": "hex"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-01-10T18:26:58Z",
+    "description": "A source for nvim-cmp that autocompletes Gleam packages and its versions",
+    "isArchived": false,
+    "lastCommit": "2024-01-11T06:38:58Z",
+    "nameWithOwner": "steven-mathew/gleam-cmp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gleam-cmp.nvim",
+  "owner": "steven-mathew",
+  "url": "https://github.com/steven-mathew/gleam-cmp.nvim"
+}

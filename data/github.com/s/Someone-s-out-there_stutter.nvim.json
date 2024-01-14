@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Insert"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2024-01-11T10:43:56Z",
+    "description": "a vhdl-stutter-mode from emacs for general nvim use, with custom bindable stutter bindings",
+    "isArchived": false,
+    "lastCommit": "2024-01-11T21:07:05Z",
+    "nameWithOwner": "Someone-s-out-there/stutter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stutter.nvim",
+  "owner": "Someone-s-out-there",
+  "url": "https://github.com/Someone-s-out-there/stutter.nvim"
+}

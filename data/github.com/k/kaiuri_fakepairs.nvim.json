@@ -4,24 +4,24 @@
       "data": [
         {
           "level": 1,
-          "name": "Technical interviews"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "LeetCode"
+          "name": "insert pairs"
         }
       ],
-      "file": "language-specific.md",
+      "file": "auto-insert.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 1,
-    "createdAt": "2023-05-04T13:18:42Z",
-    "description": "leetcode in neovim",
+    "createdAt": "2024-01-06T15:25:36Z",
+    "description": "pretending to pair",
     "isArchived": false,
-    "lastCommit": "2023-05-09T12:17:25Z",
-    "nameWithOwner": "gh-liu/leetcode.nvim",
+    "lastCommit": "2024-01-06T15:25:21Z",
+    "nameWithOwner": "kaiuri/fakepairs.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "leetcode.nvim",
-  "owner": "gh-liu",
-  "url": "https://github.com/gh-liu/leetcode.nvim"
+  "name": "fakepairs.nvim",
+  "owner": "kaiuri",
+  "url": "https://github.com/kaiuri/fakepairs.nvim"
 }

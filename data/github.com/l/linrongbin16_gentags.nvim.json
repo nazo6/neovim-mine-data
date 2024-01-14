@@ -34,18 +34,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 35,
     "createdAt": "2023-12-08T01:45:11Z",
     "description": "Tags generator/management for old school vimers in Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-01-02T08:44:23Z",
+    "lastCommit": "2024-01-11T03:53:14Z",
     "nameWithOwner": "linrongbin16/gentags.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "vim"
     ]
   },
   "domain": "github.com",
