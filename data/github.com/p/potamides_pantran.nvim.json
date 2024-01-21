@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "New features"
-        },
-        {
-          "level": 3,
           "name": "Translate"
         }
       ],
-      "file": "readme.md",
+      "file": "translate.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 251,
+    "star": 252,
     "topics": [
       "apertium",
       "argos",

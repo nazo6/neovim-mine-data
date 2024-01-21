@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Save"
         }
       ],
-      "file": "readme.md",
+      "file": "save_backup.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 17,
+    "star": 20,
     "topics": [
       "lua",
       "autosave",

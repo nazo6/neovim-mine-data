@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "MDX"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-01-19T06:04:07Z",
+    "description": "Experimental MDX syntax highlighting for Neovim with Tree-sitter",
+    "isArchived": false,
+    "lastCommit": "2024-01-19T09:30:32Z",
+    "nameWithOwner": "loqusion/experimental_mdx.nvim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "experimental_mdx.nvim",
+  "owner": "loqusion",
+  "url": "https://github.com/loqusion/experimental_mdx.nvim"
+}

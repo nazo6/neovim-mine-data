@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Treesitter Node"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-16T10:42:55Z",
+    "description": "Toggle cursor position between the start and end of a node (replaces `%`)",
+    "isArchived": false,
+    "lastCommit": "2024-01-17T03:39:54Z",
+    "nameWithOwner": "xlboy/node-edge-toggler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "node-edge-toggler.nvim",
+  "owner": "xlboy",
+  "url": "https://github.com/xlboy/node-edge-toggler.nvim"
+}

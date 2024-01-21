@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Animation"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-01-14T22:12:16Z",
+    "description": "Print file animation in nvim",
+    "isArchived": false,
+    "lastCommit": "2024-01-15T03:50:37Z",
+    "nameWithOwner": "Derrekito/nvim-type-anim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-type-anim",
+  "owner": "Derrekito",
+  "url": "https://github.com/Derrekito/nvim-type-anim"
+}

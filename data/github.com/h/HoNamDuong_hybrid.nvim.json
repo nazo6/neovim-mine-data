@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-12-31T17:10:45Z",
+    "description": "A dark Neovim theme written in Lua",
+    "isArchived": false,
+    "lastCommit": "2024-01-21T00:45:15Z",
+    "nameWithOwner": "HoNamDuong/hybrid.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "hybrid",
+      "neovim",
+      "neovim-colorscheme",
+      "colorscheme",
+      "lua",
+      "theme",
+      "vim",
+      "scheme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hybrid.nvim",
+  "owner": "HoNamDuong",
+  "url": "https://github.com/HoNamDuong/hybrid.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Salesforce"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 71,
+    "createdAt": "2024-01-13T23:17:05Z",
+    "description": "A salesforce plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-01-20T00:37:16Z",
+    "nameWithOwner": "jonathanmorris180/salesforce.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "salesforce.nvim",
+  "owner": "jonathanmorris180",
+  "url": "https://github.com/jonathanmorris180/salesforce.nvim"
+}

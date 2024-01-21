@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Startup"
         }
       ],
-      "file": "readme.md",
+      "file": "startup.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1859,
+    "star": 1867,
     "topics": [
       "dashboard",
       "neovim",

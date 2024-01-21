@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2024-01-19T11:24:33Z",
+    "description": "A simple and efficient code runner for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-01-20T14:09:43Z",
+    "nameWithOwner": "jellydn/quick-code-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "code-runner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quick-code-runner.nvim",
+  "owner": "jellydn",
+  "url": "https://github.com/jellydn/quick-code-runner.nvim"
+}

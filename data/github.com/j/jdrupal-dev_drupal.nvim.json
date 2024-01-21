@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "PHP"
+        },
+        {
+          "level": 4,
+          "name": "Laravel"
+        },
+        {
+          "level": 5,
+          "name": "drupal"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-01-18T14:55:49Z",
+    "description": "A Drupal plugin for neovim coded in Lua.",
+    "isArchived": false,
+    "lastCommit": "2024-01-18T20:30:11Z",
+    "nameWithOwner": "jdrupal-dev/drupal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "drupal",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "drupal.nvim",
+  "owner": "jdrupal-dev",
+  "url": "https://github.com/jdrupal-dev/drupal.nvim"
+}

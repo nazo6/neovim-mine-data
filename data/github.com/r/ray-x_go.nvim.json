@@ -7,7 +7,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Go"
         }
       ],
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 229,
+    "commitCountLastYear": 217,
     "createdAt": "2021-03-10T10:23:02Z",
     "description": "A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the dev experience.",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1497,
+    "star": 1517,
     "topics": [
       "neovim",
       "nvim",

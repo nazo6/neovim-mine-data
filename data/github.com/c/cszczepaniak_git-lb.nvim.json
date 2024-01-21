@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git switch"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-01-15T05:58:12Z",
+    "description": "A small plugin to easily switch to recent Git branches.",
+    "isArchived": false,
+    "lastCommit": "2024-01-15T06:02:43Z",
+    "nameWithOwner": "cszczepaniak/git-lb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-lb.nvim",
+  "owner": "cszczepaniak",
+  "url": "https://github.com/cszczepaniak/git-lb.nvim"
+}

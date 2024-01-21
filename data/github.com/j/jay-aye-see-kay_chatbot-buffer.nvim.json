@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "AI Coding"
-        },
-        {
-          "level": 3,
-          "name": "OpenAI"
-        }
       ],
-      "file": "ai.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 33,
     "createdAt": "2023-03-25T07:29:45Z",
     "description": "Interact with ai chatbots in an editable markdown buffer. Currently only supports one of openai's endpoints, may never support more.",
-    "isArchived": false,
-    "lastCommit": "2023-04-06T00:07:02Z",
+    "isArchived": true,
+    "lastCommit": "2024-01-20T12:11:55Z",
     "nameWithOwner": "jay-aye-see-kay/chatbot-buffer.nvim",
     "primaryLanguage": {
       "color": "#000080",

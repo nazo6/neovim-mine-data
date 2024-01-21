@@ -20,18 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 25,
     "createdAt": "2024-01-05T11:05:31Z",
-    "description": null,
+    "description": "run commands from neovim telescope",
     "isArchived": false,
-    "lastCommit": "2024-01-12T08:53:52Z",
+    "lastCommit": "2024-01-17T08:21:15Z",
     "nameWithOwner": "Ajnasz/telescope-runcmd.nvim",
     "primaryLanguage": {
-      "color": "#fff3d7",
-      "name": "Fennel"
+      "color": "#000080",
+      "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-telescope",
+      "telescope",
+      "telescope-extension"
     ]
   },
   "domain": "github.com",

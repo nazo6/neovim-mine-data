@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git conflict"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-01-14T00:49:29Z",
+    "description": "Telescope git conflicts picker.",
+    "isArchived": false,
+    "lastCommit": "2024-01-14T11:59:28Z",
+    "nameWithOwner": "Snikimonkd/telescope-git-conflicts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-git-conflicts.nvim",
+  "owner": "Snikimonkd",
+  "url": "https://github.com/Snikimonkd/telescope-git-conflicts.nvim"
+}

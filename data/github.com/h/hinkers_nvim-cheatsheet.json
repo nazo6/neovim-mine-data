@@ -8,20 +8,20 @@
         },
         {
           "level": 2,
-          "name": "insert pairs"
+          "name": "CheatSheet"
         }
       ],
-      "file": "auto-insert.md",
+      "file": "help.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2024-01-06T15:25:36Z",
-    "description": "pretending to pair",
+    "commitCountLastYear": 5,
+    "createdAt": "2024-01-17T02:43:47Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-01-06T15:25:21Z",
-    "nameWithOwner": "kaiuri/fakepairs.nvim",
+    "lastCommit": "2024-01-21T10:01:44Z",
+    "nameWithOwner": "hinkers/nvim-cheatsheet",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "fakepairs.nvim",
-  "owner": "kaiuri",
-  "url": "https://github.com/kaiuri/fakepairs.nvim"
+  "name": "nvim-cheatsheet",
+  "owner": "hinkers",
+  "url": "https://github.com/hinkers/nvim-cheatsheet"
 }

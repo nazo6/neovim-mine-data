@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "GRPC"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-01-14T01:20:51Z",
+    "description": "Neovim Plugin for exploring gRPC services",
+    "isArchived": false,
+    "lastCommit": "2024-01-16T04:44:39Z",
+    "nameWithOwner": "nickkoul/nvim-grpc-explorer",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-grpc-explorer",
+  "owner": "nickkoul",
+  "url": "https://github.com/nickkoul/nvim-grpc-explorer"
+}

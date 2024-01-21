@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Command style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-01-19T09:02:39Z",
+    "description": "Run command in neovim terminal",
+    "isArchived": false,
+    "lastCommit": "2024-01-19T09:03:26Z",
+    "nameWithOwner": "fishioon/term.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "term.nvim",
+  "owner": "fishioon",
+  "url": "https://github.com/fishioon/term.nvim"
+}

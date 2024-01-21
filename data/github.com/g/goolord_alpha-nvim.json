@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Startup"
         }
       ],
-      "file": "readme.md",
+      "file": "startup.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 66,
+    "commitCountLastYear": 67,
     "createdAt": "2021-09-01T23:35:47Z",
     "description": "a lua powered greeter like vim-startify / dashboard-nvim",
     "isArchived": false,
-    "lastCommit": "2023-11-28T20:57:06Z",
+    "lastCommit": "2024-01-17T19:41:04Z",
     "nameWithOwner": "goolord/alpha-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1442,
+    "star": 1453,
     "topics": [
       "neovim",
       "vim-startify",

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "focus"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2023-10-13T13:42:44Z",
+    "description": "Obfuscate lua code inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-18T20:16:03Z",
+    "nameWithOwner": "kdssoftware/lua-obfuscator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "hacktoberfest",
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-obfuscator.nvim",
+  "owner": "kdssoftware",
+  "url": "https://github.com/kdssoftware/lua-obfuscator.nvim"
+}

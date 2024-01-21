@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-01-19T10:05:57Z",
+    "description": "Plugin for live-editing Markdown- and LaTeX-Files in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-01-19T11:33:26Z",
+    "nameWithOwner": "mcjkula/md-pdf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "md-pdf.nvim",
+  "owner": "mcjkula",
+  "url": "https://github.com/mcjkula/md-pdf.nvim"
+}

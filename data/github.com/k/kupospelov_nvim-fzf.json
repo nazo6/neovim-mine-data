@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-01-14T09:29:53Z",
+    "description": "A minimalistic fzf plugin written in Lua",
+    "isArchived": false,
+    "lastCommit": "2024-01-20T10:03:28Z",
+    "nameWithOwner": "kupospelov/nvim-fzf",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "fzf",
+      "nvim",
+      "neovim",
+      "plugin",
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-fzf",
+  "owner": "kupospelov",
+  "url": "https://github.com/kupospelov/nvim-fzf"
+}

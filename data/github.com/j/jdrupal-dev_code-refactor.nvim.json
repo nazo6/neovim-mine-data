@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Code Action"
+        }
+      ],
+      "file": "treesitter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-01-18T14:56:59Z",
+    "description": "A collection of nifty neovim code actions",
+    "isArchived": false,
+    "lastCommit": "2024-01-19T06:22:39Z",
+    "nameWithOwner": "jdrupal-dev/code-refactor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "code-action",
+      "neovim-plugin",
+      "refactoring"
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-refactor.nvim",
+  "owner": "jdrupal-dev",
+  "url": "https://github.com/jdrupal-dev/code-refactor.nvim"
+}

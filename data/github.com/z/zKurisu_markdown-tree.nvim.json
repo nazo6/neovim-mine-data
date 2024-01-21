@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown header"
+        },
+        {
+          "level": 5,
+          "name": "Title explorer"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2024-01-15T03:11:46Z",
+    "description": "Displaying the markdown titles, supporting edit and jump",
+    "isArchived": false,
+    "lastCommit": "2024-01-20T04:26:12Z",
+    "nameWithOwner": "zKurisu/markdown-tree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-tree.nvim",
+  "owner": "zKurisu",
+  "url": "https://github.com/zKurisu/markdown-tree.nvim"
+}

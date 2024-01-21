@@ -20,24 +20,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 31,
     "createdAt": "2024-01-02T15:17:12Z",
-    "description": "Neovim phpUtils",
+    "description": "Neovim PhpTools - one step toward phpstorm",
     "isArchived": false,
-    "lastCommit": "2024-01-07T21:05:36Z",
-    "nameWithOwner": "ccaglak/phpUtils.nvim",
+    "lastCommit": "2024-01-20T21:35:14Z",
+    "nameWithOwner": "ccaglak/phptools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
       "neovim",
-      "php"
+      "php",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "phpUtils.nvim",
+  "name": "phptools.nvim",
   "owner": "ccaglak",
   "url": "https://github.com/ccaglak/phpUtils.nvim"
 }

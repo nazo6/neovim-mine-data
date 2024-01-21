@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Startup"
         }
       ],
-      "file": "readme.md",
+      "file": "startup.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 84,
+    "commitCountLastYear": 94,
     "createdAt": "2023-09-14T01:16:57Z",
     "description": "The blazingly fastest way to get to your projects",
     "isArchived": false,
-    "lastCommit": "2024-01-13T00:15:46Z",
+    "lastCommit": "2024-01-20T21:01:17Z",
     "nameWithOwner": "CWood-sdf/spaceport.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 13,
     "topics": [
     ]
   },
