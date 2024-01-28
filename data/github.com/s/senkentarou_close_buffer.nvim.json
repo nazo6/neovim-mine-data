@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "delete"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-01-20T13:52:45Z",
+    "description": "setting close window process instead of buffer delete (bd) and last buffer opening integration.",
+    "isArchived": false,
+    "lastCommit": "2024-01-20T13:57:11Z",
+    "nameWithOwner": "senkentarou/close_buffer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "close_buffer.nvim",
+  "owner": "senkentarou",
+  "url": "https://github.com/senkentarou/close_buffer.nvim"
+}

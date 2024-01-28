@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-01-27T11:27:07Z",
+    "description": "A simple note taking plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-01-28T09:29:21Z",
+    "nameWithOwner": "rguruprakash/simple-note.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "notes",
+      "nvim",
+      "nvim-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-note.nvim",
+  "owner": "rguruprakash",
+  "url": "https://github.com/rguruprakash/simple-note.nvim"
+}

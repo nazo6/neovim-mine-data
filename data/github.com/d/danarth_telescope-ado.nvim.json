@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Azure"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-01-26T12:43:12Z",
+    "description": "telescope.nvim extension to help quickly navigate, copy and open Azure DevOps work items",
+    "isArchived": false,
+    "lastCommit": "2024-01-26T13:07:55Z",
+    "nameWithOwner": "danarth/telescope-ado.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-ado.nvim",
+  "owner": "danarth",
+  "url": "https://github.com/danarth/telescope-ado.nvim"
+}

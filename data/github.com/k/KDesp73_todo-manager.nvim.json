@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-01-25T14:50:55Z",
+    "description": "A todo manager functioning project-wide",
+    "isArchived": false,
+    "lastCommit": "2024-01-25T15:57:54Z",
+    "nameWithOwner": "KDesp73/todo-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "todo",
+      "todo-list"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-manager.nvim",
+  "owner": "KDesp73",
+  "url": "https://github.com/KDesp73/todo-manager.nvim"
+}

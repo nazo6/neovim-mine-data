@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Perl"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-01-21T12:00:24Z",
+    "description": "Auxiliary vim perl ftplugin for perl",
+    "isArchived": false,
+    "lastCommit": "2024-01-28T03:43:16Z",
+    "nameWithOwner": "dnebauer/dn-perl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dn-perl.nvim",
+  "owner": "dnebauer",
+  "url": "https://github.com/dnebauer/dn-perl.nvim"
+}

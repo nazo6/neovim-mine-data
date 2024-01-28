@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Mail"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-01-26T05:14:10Z",
+    "description": "Auxiliary ftplugin for mail (eml) files",
+    "isArchived": false,
+    "lastCommit": "2024-01-26T05:12:31Z",
+    "nameWithOwner": "dnebauer/dn-mail.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dn-mail.nvim",
+  "owner": "dnebauer",
+  "url": "https://github.com/dnebauer/dn-mail.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Base64"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-01-24T15:15:00Z",
+    "description": "Neovim lua plugin for using an external command to encode and decode text",
+    "isArchived": false,
+    "lastCommit": "2024-01-24T15:22:18Z",
+    "nameWithOwner": "antarktikali/nvim-external-base64",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-external-base64",
+  "owner": "antarktikali",
+  "url": "https://github.com/antarktikali/nvim-external-base64"
+}

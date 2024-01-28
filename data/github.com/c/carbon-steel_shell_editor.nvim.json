@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Shellscript(bash)"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-01-20T01:31:42Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-01-20T21:52:17Z",
+    "nameWithOwner": "carbon-steel/shell_editor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "shell_editor.nvim",
+  "owner": "carbon-steel",
+  "url": "https://github.com/carbon-steel/shell_editor.nvim"
+}

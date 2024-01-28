@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 7,
     "createdAt": "2024-01-16T11:37:12Z",
-    "description": null,
+    "description": "A buffer explorer neovim plugin",
     "isArchived": false,
-    "lastCommit": "2024-01-18T15:50:57Z",
+    "lastCommit": "2024-01-22T10:08:09Z",
     "nameWithOwner": "xiaoqixian/buffer-explorer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

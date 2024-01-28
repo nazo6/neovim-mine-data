@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Profiler"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-01-24T07:03:01Z",
+    "description": "A simple Lua Profiler for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-01-24T07:03:47Z",
+    "nameWithOwner": "wookayin/nvim-profiler",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-profiler",
+  "owner": "wookayin",
+  "url": "https://github.com/wookayin/nvim-profiler"
+}

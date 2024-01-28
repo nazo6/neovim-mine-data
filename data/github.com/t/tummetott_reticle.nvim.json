@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 72,
+    "commitCountLastYear": 42,
     "createdAt": "2023-01-22T18:54:29Z",
     "description": "NVIM plugin to highlight only the screen line of the cursor in the currently active window",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 75,
+    "star": 76,
     "topics": [
       "cursorline",
       "nvim",

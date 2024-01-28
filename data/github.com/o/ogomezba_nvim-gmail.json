@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Gmail"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-01-23T19:17:08Z",
+    "description": "Basic lua plugin for writting and reading emails through Gmail",
+    "isArchived": false,
+    "lastCommit": "2024-01-24T12:36:57Z",
+    "nameWithOwner": "ogomezba/nvim-gmail",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gmail",
+  "owner": "ogomezba",
+  "url": "https://github.com/ogomezba/nvim-gmail"
+}

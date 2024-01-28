@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "RGB"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2023-03-26T03:45:27Z",
+    "description": "A Neovim plugin that convert hex values on a line of text into rgba values.",
+    "isArchived": false,
+    "lastCommit": "2024-01-24T13:17:16Z",
+    "nameWithOwner": "austinwilcox/hex2rgba",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "colors",
+      "hex",
+      "lua",
+      "neovim",
+      "rgba"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hex2rgba",
+  "owner": "austinwilcox",
+  "url": "https://github.com/austinwilcox/hex2rgba"
+}

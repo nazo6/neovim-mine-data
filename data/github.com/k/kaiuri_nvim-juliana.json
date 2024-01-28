@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 32,
     "createdAt": "2022-06-22T16:43:21Z",
     "description": "Port of Sublime's Mariana Theme to Neovim for short attention span devs.",
-    "isArchived": false,
-    "lastCommit": "2023-11-13T15:56:17Z",
+    "isArchived": true,
+    "lastCommit": "2024-01-25T12:52:24Z",
     "nameWithOwner": "kaiuri/nvim-juliana",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 89,
+    "star": 90,
     "topics": [
       "colorscheme",
       "editor-plugin",

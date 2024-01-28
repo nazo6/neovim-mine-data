@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-01-26T03:24:37Z",
+    "description": "Experimental Neovim plugin that replaces cmdline with a floating equivalent",
+    "isArchived": false,
+    "lastCommit": "2024-01-27T00:43:26Z",
+    "nameWithOwner": "ivanjermakov/cmdzero.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmdzero.nvim",
+  "owner": "ivanjermakov",
+  "url": "https://github.com/ivanjermakov/cmdzero.nvim"
+}

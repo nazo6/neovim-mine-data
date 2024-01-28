@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Infra"
+        },
+        {
+          "level": 4,
+          "name": "SonarLint"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-01-21T12:21:02Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-01-21T12:22:01Z",
+    "nameWithOwner": "alnav3/sonarlint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sonarlint.nvim",
+  "owner": "alnav3",
+  "url": "https://github.com/alnav3/sonarlint.nvim"
+}
