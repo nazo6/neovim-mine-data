@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "OS"
+        },
+        {
+          "level": 4,
+          "name": "Windows"
+        },
+        {
+          "level": 5,
+          "name": "AutoHotKey"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-01-27T05:31:21Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-01-27T08:24:18Z",
+    "nameWithOwner": "GrzegorzKozub/ahk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ahk.nvim",
+  "owner": "GrzegorzKozub",
+  "url": "https://github.com/GrzegorzKozub/ahk.nvim"
+}

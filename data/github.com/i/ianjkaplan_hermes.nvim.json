@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "HTTP"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-01-31T15:40:12Z",
+    "description": "Minimal http ui plugin for quickly working with http requests in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-01-31T15:42:28Z",
+    "nameWithOwner": "ianjkaplan/hermes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hermes.nvim",
+  "owner": "ianjkaplan",
+  "url": "https://github.com/ianjkaplan/hermes.nvim"
+}

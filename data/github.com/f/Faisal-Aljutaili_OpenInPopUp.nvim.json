@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-02-01T06:27:08Z",
+    "description": "a neovim plugin that runs command in the terminal then opens it in a popup window , useful for terminal UI like lazygit",
+    "isArchived": false,
+    "lastCommit": "2024-02-01T11:36:33Z",
+    "nameWithOwner": "Faisal-Aljutaili/OpenInPopUp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "OpenInPopUp.nvim",
+  "owner": "Faisal-Aljutaili",
+  "url": "https://github.com/Faisal-Aljutaili/OpenInPopUp.nvim"
+}

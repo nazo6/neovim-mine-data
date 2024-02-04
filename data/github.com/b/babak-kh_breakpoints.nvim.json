@@ -8,39 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Buffer"
+          "name": "Debug"
         },
         {
           "level": 3,
-          "name": "Buffer Management"
+          "name": "Debugger"
         },
         {
           "level": 4,
-          "name": "status"
+          "name": "nvim-dap extension"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "debugger_repl.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
-    "createdAt": "2023-11-04T17:25:47Z",
-    "description": "Stores various buffer information in Neovim.",
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-27T23:18:58Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2023-12-29T03:14:38Z",
-    "nameWithOwner": "AxerTheAxe/bufferstore.nvim",
+    "lastCommit": "2024-01-27T23:23:44Z",
+    "nameWithOwner": "babak-kh/breakpoints.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
     "star": 1,
     "topics": [
-      "nvim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "bufferstore.nvim",
-  "owner": "AxerTheAxe",
-  "url": "https://github.com/AxerTheAxe/bufferstore.nvim"
+  "name": "breakpoints.nvim",
+  "owner": "babak-kh",
+  "url": "https://github.com/babak-kh/breakpoints.nvim"
 }

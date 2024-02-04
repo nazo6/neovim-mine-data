@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-01-27T11:15:36Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-01-31T15:36:42Z",
+    "nameWithOwner": "lennarkivimae/nvim-rsync",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-rsync",
+  "owner": "lennarkivimae",
+  "url": "https://github.com/lennarkivimae/nvim-rsync"
+}

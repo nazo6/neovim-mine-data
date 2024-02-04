@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotnet"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-01-30T20:24:27Z",
+    "description": "Add dotnet cli support into Neovim! ",
+    "isArchived": false,
+    "lastCommit": "2024-02-03T11:20:22Z",
+    "nameWithOwner": "Cozidian/nvim-dotnet-cli",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dotnet-cli",
+  "owner": "Cozidian",
+  "url": "https://github.com/Cozidian/nvim-dotnet-cli"
+}

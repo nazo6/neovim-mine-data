@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2022-05-29T00:00:27Z",
-    "description": "Upload the current buffer to any haste server.",
+    "description": "Upload the current buffer or range to any haste server.",
     "isArchived": false,
-    "lastCommit": "2022-11-22T02:31:57Z",
+    "lastCommit": "2024-02-02T11:19:33Z",
     "nameWithOwner": "ppebb/haste-nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "PlatformIO"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2021-07-31T03:39:01Z",
+    "description": "PlatformIO wrapper for neovim written in lua",
+    "isArchived": false,
+    "lastCommit": "2024-02-03T07:33:56Z",
+    "nameWithOwner": "anurag3301/nvim-platformio.lua",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-platformio.lua",
+  "owner": "anurag3301",
+  "url": "https://github.com/anurag3301/nvim-platformio.lua"
+}

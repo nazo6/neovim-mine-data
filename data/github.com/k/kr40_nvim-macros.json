@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Macro"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2024-01-31T08:08:55Z",
+    "description": "Easy way to save and load Macros!",
+    "isArchived": false,
+    "lastCommit": "2024-02-02T15:45:18Z",
+    "nameWithOwner": "kr40/nvim-macros",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "macros",
+      "neovim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-macros",
+  "owner": "kr40",
+  "url": "https://github.com/kr40/nvim-macros"
+}

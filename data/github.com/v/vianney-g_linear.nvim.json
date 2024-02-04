@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Linear"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-01-30T16:35:12Z",
+    "description": "Linear navigation from inside vim",
+    "isArchived": false,
+    "lastCommit": "2024-01-31T08:33:34Z",
+    "nameWithOwner": "vianney-g/linear.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "linear.nvim",
+  "owner": "vianney-g",
+  "url": "https://github.com/vianney-g/linear.nvim"
+}

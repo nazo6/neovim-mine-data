@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Wiki"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-02-01T01:06:00Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-02-02T18:51:20Z",
+    "nameWithOwner": "dneumann42/nvim-wikid",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-wikid",
+  "owner": "dneumann42",
+  "url": "https://github.com/dneumann42/nvim-wikid"
+}

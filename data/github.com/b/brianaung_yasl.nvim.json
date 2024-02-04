@@ -16,21 +16,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 59,
+    "commitCountLastYear": 62,
     "createdAt": "2024-01-12T16:15:43Z",
     "description": "Yet another statusline plugin for neovim.",
     "isArchived": false,
-    "lastCommit": "2024-01-27T17:51:05Z",
+    "lastCommit": "2024-01-30T12:44:25Z",
     "nameWithOwner": "brianaung/yasl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 13,
     "topics": [
       "neovim",
       "plugin",
-      "statusline"
+      "statusline",
+      "neovim-plugin",
+      "neovim-statusline"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-29T17:08:49Z",
+    "description": "Simple scratch buffers for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-01-29T17:23:08Z",
+    "nameWithOwner": "swaits/scratch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratch.nvim",
+  "owner": "swaits",
+  "url": "https://github.com/swaits/scratch.nvim"
+}

@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 33,
     "createdAt": "2024-01-12T06:22:33Z",
-    "description": null,
+    "description": "Simple pomodoro timer or clock for neovim",
     "isArchived": false,
-    "lastCommit": "2024-01-27T06:01:49Z",
+    "lastCommit": "2024-02-03T20:24:24Z",
     "nameWithOwner": "rushjs1/clock.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
       "lua",
       "neovim-plugin"

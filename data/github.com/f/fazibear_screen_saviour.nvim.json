@@ -4,34 +4,34 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
+          "name": "Toy"
         },
         {
           "level": 2,
-          "name": "Mark"
+          "name": "Screen server"
         }
       ],
-      "file": "mark.md",
+      "file": "toy.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 33,
-    "createdAt": "2023-12-24T21:41:54Z",
+    "commitCountLastYear": 50,
+    "createdAt": "2024-02-01T21:56:39Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-12-25T02:12:21Z",
-    "nameWithOwner": "MahmoudESSE/marky.nvim",
+    "lastCommit": "2024-02-01T22:04:40Z",
+    "nameWithOwner": "fazibear/screen_saviour.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "marky.nvim",
-  "owner": "MahmoudESSE",
-  "url": "https://github.com/MahmoudESSE/marky.nvim"
+  "name": "screen_saviour.nvim",
+  "owner": "fazibear",
+  "url": "https://github.com/fazibear/screen_saviour.nvim"
 }

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Skeleton"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2024-01-28T00:35:02Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-01-28T03:45:34Z",
+    "nameWithOwner": "nocis/skeleton.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "skeleton.nvim",
+  "owner": "nocis",
+  "url": "https://github.com/nocis/skeleton.nvim"
+}

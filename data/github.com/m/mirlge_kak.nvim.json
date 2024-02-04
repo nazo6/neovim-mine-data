@@ -2,21 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Keymap"
-        }
       ],
-      "file": "mapping.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 69,
+    "commitCountLastYear": 71,
     "createdAt": "2023-11-04T20:30:48Z",
-    "description": "Select -> action. Kakoune workflow and most keybinds for Neovim.",
-    "isArchived": false,
-    "lastCommit": "2024-01-06T18:15:59Z",
+    "description": "NOW ONLY AVAILABLE IN THE CODEBERG REPO (https://codeberg.org/mirge/kak.nvim). Select -> action. Kakoune workflow and most keybinds for Neovim.",
+    "isArchived": true,
+    "lastCommit": "2024-02-02T16:57:49Z",
     "nameWithOwner": "mirlge/kak.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "toc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2024-01-29T14:49:35Z",
+    "description": "[MIRROR] View and navigate a table of contents for markup files",
+    "isArchived": false,
+    "lastCommit": "2024-01-29T15:27:31Z",
+    "nameWithOwner": "adigitoleo/overview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "floating-window",
+      "markdown",
+      "markup"
+    ]
+  },
+  "domain": "github.com",
+  "name": "overview.nvim",
+  "owner": "adigitoleo",
+  "url": "https://github.com/adigitoleo/overview.nvim"
+}

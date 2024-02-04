@@ -8,18 +8,14 @@
         },
         {
           "level": 2,
-          "name": "LSP"
+          "name": "AI Coding"
         },
         {
           "level": 3,
-          "name": "LSP Feature Extension UI"
-        },
-        {
-          "level": 4,
-          "name": "Hint"
+          "name": "Gemini"
         }
       ],
-      "file": "lsp.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,11 +26,7 @@
         },
         {
           "level": 2,
-          "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
+          "name": "AI"
         }
       ],
       "file": "README.md",
@@ -42,22 +34,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 37,
-    "createdAt": "2023-10-24T14:03:00Z",
-    "description": "Show lsp diagnostics based on mouse position",
+    "commitCountLastYear": 7,
+    "createdAt": "2024-01-28T18:40:13Z",
+    "description": "gemini bindings for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-01-17T22:02:59Z",
-    "nameWithOwner": "soulis-1256/hoverhints.nvim",
+    "lastCommit": "2024-02-02T17:37:01Z",
+    "nameWithOwner": "kiddos/gemini.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 78,
+    "star": 6,
     "topics": [
+      "gemini",
+      "neovim"
     ]
   },
   "domain": "github.com",
-  "name": "hoverhints.nvim",
-  "owner": "soulis-1256",
-  "url": "https://github.com/soulis-1256/hoverhints.nvim"
+  "name": "gemini.nvim",
+  "owner": "kiddos",
+  "url": "https://github.com/kiddos/gemini.nvim"
 }

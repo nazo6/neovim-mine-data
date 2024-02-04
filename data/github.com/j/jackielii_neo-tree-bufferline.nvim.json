@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-31T16:43:28Z",
+    "description": "show pinned buffers as a neo-tree panel",
+    "isArchived": false,
+    "lastCommit": "2024-01-31T22:03:50Z",
+    "nameWithOwner": "jackielii/neo-tree-bufferline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neo-tree-bufferline.nvim",
+  "owner": "jackielii",
+  "url": "https://github.com/jackielii/neo-tree-bufferline.nvim"
+}

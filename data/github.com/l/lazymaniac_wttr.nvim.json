@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Weather"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 109,
+    "createdAt": "2024-01-03T22:35:37Z",
+    "description": "A simple plugin to display weather on nvim",
+    "isArchived": false,
+    "lastCommit": "2024-01-07T03:25:32Z",
+    "nameWithOwner": "lazymaniac/wttr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wttr.nvim",
+  "owner": "lazymaniac",
+  "url": "https://github.com/lazymaniac/wttr.nvim"
+}

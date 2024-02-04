@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "Curl"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-01-31T14:36:06Z",
+    "description": "Nvim postman replacement",
+    "isArchived": false,
+    "lastCommit": "2024-01-31T14:36:51Z",
+    "nameWithOwner": "minowak/nvim-curl",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-curl",
+  "owner": "minowak",
+  "url": "https://github.com/minowak/nvim-curl"
+}

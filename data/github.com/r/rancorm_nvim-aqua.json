@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "OS"
+        },
+        {
+          "level": 4,
+          "name": "Mac"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-02-01T15:41:08Z",
+    "description": "Neovim plugin to detect macOS appearance change",
+    "isArchived": false,
+    "lastCommit": "2024-02-03T23:52:25Z",
+    "nameWithOwner": "rancorm/nvim-aqua",
+    "primaryLanguage": {
+      "color": "#F05138",
+      "name": "Swift"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-aqua",
+  "owner": "rancorm",
+  "url": "https://github.com/rancorm/nvim-aqua"
+}

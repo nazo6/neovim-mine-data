@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Sapling"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-02-01T20:35:42Z",
+    "description": "Plugin for working with Sapling SCM in NVIM",
+    "isArchived": false,
+    "lastCommit": "2024-02-01T21:03:57Z",
+    "nameWithOwner": "AdeAttwood/sapling.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sapling.nvim",
+  "owner": "AdeAttwood",
+  "url": "https://github.com/AdeAttwood/sapling.nvim"
+}

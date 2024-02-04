@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 38,
+    "commitCountLastYear": 40,
     "createdAt": "2021-02-24T19:33:53Z",
     "description": "Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.",
     "isArchived": false,
-    "lastCommit": "2023-11-30T17:12:54Z",
+    "lastCommit": "2024-02-02T17:51:06Z",
     "nameWithOwner": "JoosepAlviste/nvim-ts-context-commentstring",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 959,
+    "star": 965,
     "topics": [
       "treesitter",
       "neovim-plugin",

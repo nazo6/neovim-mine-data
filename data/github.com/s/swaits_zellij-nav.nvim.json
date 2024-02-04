@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Zellij"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-01-29T17:08:34Z",
+    "description": "Seamless navigation between Neovim windows and Zellij panes.",
+    "isArchived": false,
+    "lastCommit": "2024-01-29T17:27:10Z",
+    "nameWithOwner": "swaits/zellij-nav.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zellij-nav.nvim",
+  "owner": "swaits",
+  "url": "https://github.com/swaits/zellij-nav.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Unity"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-28T03:51:40Z",
+    "description": "Better unity integration for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-01-28T09:01:17Z",
+    "nameWithOwner": "PostCyberPunk/Univim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "unity",
+      "unity3d"
+    ]
+  },
+  "domain": "github.com",
+  "name": "Univim.nvim",
+  "owner": "PostCyberPunk",
+  "url": "https://github.com/PostCyberPunk/Univim.nvim"
+}

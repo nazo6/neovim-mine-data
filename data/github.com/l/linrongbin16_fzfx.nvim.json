@@ -26,11 +26,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 615,
+    "commitCountLastYear": 639,
     "createdAt": "2023-07-26T09:58:20Z",
-    "description": "FZF-based fuzzy finder running on a dynamic engine that parsing user query and selection on every keystroke.",
+    "description": "A fzf fuzzy finder that updates on every keystroke of user query and selection.",
     "isArchived": false,
-    "lastCommit": "2024-01-10T08:08:05Z",
+    "lastCommit": "2024-02-04T07:10:51Z",
     "nameWithOwner": "linrongbin16/fzfx.nvim",
     "primaryLanguage": {
       "color": "#000080",

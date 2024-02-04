@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "Open directory"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-01-31T00:12:57Z",
+    "description": "Search for directories with telescope and perform any action.",
+    "isArchived": false,
+    "lastCommit": "2024-02-03T14:36:24Z",
+    "nameWithOwner": "fbuchlak/telescope-directory.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "nvim-lua",
+      "nvim-plugin",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-directory.nvim",
+  "owner": "fbuchlak",
+  "url": "https://github.com/fbuchlak/telescope-directory.nvim"
+}

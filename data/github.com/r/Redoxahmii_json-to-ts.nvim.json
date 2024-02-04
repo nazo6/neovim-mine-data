@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Toolchain"
+        },
+        {
+          "level": 5,
+          "name": "JSON"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-02-01T21:16:51Z",
+    "description": "A  neovim plugin to convert JSON objects to write Typescript types.",
+    "isArchived": false,
+    "lastCommit": "2024-02-03T21:09:59Z",
+    "nameWithOwner": "Redoxahmii/json-to-ts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "json-to-ts.nvim",
+  "owner": "Redoxahmii",
+  "url": "https://github.com/Redoxahmii/json-to-ts.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Show assigned"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-01-28T21:06:22Z",
+    "description": "Tree of nvim keymaps",
+    "isArchived": false,
+    "lastCommit": "2024-02-03T21:33:06Z",
+    "nameWithOwner": "punktigel/key-tree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "key-tree.nvim",
+  "owner": "punktigel",
+  "url": "https://github.com/punktigel/key-tree.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "null-ls fork"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-01-29T13:03:03Z",
+    "description": "Native PHP diagnostics plugin for none-ls.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-01-30T07:52:36Z",
+    "nameWithOwner": "gbprod/none-ls-php.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "none-ls",
+      "null-ls",
+      "nvim",
+      "php",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "none-ls-php.nvim",
+  "owner": "gbprod",
+  "url": "https://github.com/gbprod/none-ls-php.nvim"
+}
