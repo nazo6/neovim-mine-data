@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "etc"
+          "name": "ToDo"
         }
       ],
       "file": "note-taking.md",
@@ -16,22 +16,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2022-07-28T13:12:50Z",
-    "description": "A radically new way to take notes in Neovim",
+    "commitCountLastYear": 11,
+    "createdAt": "2024-02-05T15:49:19Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2022-08-05T05:06:30Z",
-    "nameWithOwner": "bloveless/notical.nvim",
+    "lastCommit": "2024-02-06T18:29:18Z",
+    "nameWithOwner": "skykosiner/todoist.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "notical.nvim",
-  "owner": "bloveless",
-  "url": "https://github.com/bloveless/notical.nvim"
+  "name": "todoist.nvim",
+  "owner": "skykosiner",
+  "url": "https://github.com/skykosiner/todoist.nvim"
 }

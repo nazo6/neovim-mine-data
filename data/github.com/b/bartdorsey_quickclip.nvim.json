@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        },
+        {
+          "level": 2,
+          "name": "Register Selector"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-02-08T23:18:17Z",
+    "description": "Super fast way to grab recently yanked items and paste them",
+    "isArchived": false,
+    "lastCommit": "2024-02-09T05:02:46Z",
+    "nameWithOwner": "bartdorsey/quickclip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "quickclip.nvim",
+  "owner": "bartdorsey",
+  "url": "https://github.com/bartdorsey/quickclip.nvim"
+}

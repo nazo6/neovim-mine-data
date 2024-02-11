@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        },
+        {
+          "level": 3,
+          "name": "History"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-02-04T17:14:31Z",
+    "description": "nvim lua dialog box with a history file, based on telescope UI",
+    "isArchived": false,
+    "lastCommit": "2024-02-04T17:42:01Z",
+    "nameWithOwner": "bartman/history-select.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "history-select.nvim",
+  "owner": "bartman",
+  "url": "https://github.com/bartman/history-select.nvim"
+}

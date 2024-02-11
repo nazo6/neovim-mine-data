@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2024-02-03T19:40:18Z",
+    "description": "Fast and Simple Note Taking in Neovim! 📃🚀",
+    "isArchived": false,
+    "lastCommit": "2024-02-08T02:55:53Z",
+    "nameWithOwner": "2KAbhishek/tdo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "editor",
+      "journal",
+      "neovim",
+      "note-taking",
+      "notes",
+      "pkm",
+      "second-brain",
+      "todos",
+      "tools",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tdo.nvim",
+  "owner": "2KAbhishek",
+  "url": "https://github.com/2KAbhishek/tdo.nvim"
+}

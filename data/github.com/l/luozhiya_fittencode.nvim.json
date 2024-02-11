@@ -20,18 +20,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 95,
     "createdAt": "2024-02-01T23:23:04Z",
     "description": "Fitten Code AI Programming Assistant for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-02-04T07:10:03Z",
+    "lastCommit": "2024-02-10T14:48:33Z",
     "nameWithOwner": "luozhiya/fittencode.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 8,
     "topics": [
+      "ai",
+      "gpt",
+      "neovim",
+      "neovim-plugin",
+      "fittencode"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Spell"
+        },
+        {
+          "level": 4,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 66,
+    "createdAt": "2024-02-05T23:35:17Z",
+    "description": "typofix is a tiny neovim plugin written in lua which lets you add and remove vim abbreviations on the fly and they will be managed for you by the plugin",
+    "isArchived": false,
+    "lastCommit": "2024-02-07T20:10:21Z",
+    "nameWithOwner": "barnii77/typofix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typofix.nvim",
+  "owner": "barnii77",
+  "url": "https://github.com/barnii77/typofix.nvim"
+}

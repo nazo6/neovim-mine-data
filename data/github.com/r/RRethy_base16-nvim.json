@@ -20,24 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 23,
     "createdAt": "2021-03-12T19:32:23Z",
     "description": "Neovim plugin for building a sync base16 colorscheme. Includes support for Treesitter and LSP highlight groups.",
     "isArchived": false,
-    "lastCommit": "2024-01-29T04:38:57Z",
-    "nameWithOwner": "RRethy/nvim-base16",
+    "lastCommit": "2024-02-07T02:40:22Z",
+    "nameWithOwner": "RRethy/base16-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 439,
+    "star": 441,
     "topics": [
       "nvim",
       "base16"
     ]
   },
   "domain": "github.com",
-  "name": "nvim-base16",
+  "name": "base16-nvim",
   "owner": "RRethy",
   "url": "https://github.com/RRethy/nvim-base16"
 }

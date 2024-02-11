@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Pkl"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-19T17:28:56Z",
+    "description": "Pkl language support for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-02-06T05:15:03Z",
+    "nameWithOwner": "apple/pkl-neovim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 74,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pkl-neovim",
+  "owner": "apple",
+  "url": "https://github.com/apple/pkl-neovim"
+}

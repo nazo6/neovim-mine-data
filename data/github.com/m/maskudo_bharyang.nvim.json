@@ -8,38 +8,34 @@
         },
         {
           "level": 2,
-          "name": "LSP"
+          "name": "Command"
         },
         {
           "level": 3,
-          "name": "LSP Feature Extension UI"
-        },
-        {
-          "level": 4,
-          "name": "Diagnostics"
+          "name": "sort"
         }
       ],
-      "file": "lsp.md",
+      "file": "command.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2022-06-01T16:36:54Z",
+    "commitCountLastYear": 10,
+    "createdAt": "2024-02-05T07:22:33Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2022-08-03T19:10:52Z",
-    "nameWithOwner": "Maan2003/lsp_lines.nvim",
+    "lastCommit": "2024-02-06T15:31:02Z",
+    "nameWithOwner": "maskudo/bharyang.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 234,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "lsp_lines.nvim",
-  "owner": "Maan2003",
-  "url": "https://github.com/Maan2003/lsp_lines.nvim"
+  "name": "bharyang.nvim",
+  "owner": "maskudo",
+  "url": "https://github.com/maskudo/bharyang.nvim"
 }

@@ -4,11 +4,11 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "GitHub"
         },
         {
           "level": 2,
-          "name": "git blame"
+          "name": "Trend"
         }
       ],
       "file": "git-github.md",
@@ -16,22 +16,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
-    "createdAt": "2023-12-22T22:03:36Z",
-    "description": "Neovim plugin for showing Git blame info.",
+    "commitCountLastYear": 11,
+    "createdAt": "2024-02-06T21:33:34Z",
+    "description": "Browse github repos by topic in neovim",
     "isArchived": false,
-    "lastCommit": "2024-01-07T08:09:36Z",
-    "nameWithOwner": "Zorcal/gitblame.nvim",
+    "lastCommit": "2024-02-07T18:34:15Z",
+    "nameWithOwner": "gsuuon/social.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
+      "neovim",
+      "nvim"
     ]
   },
   "domain": "github.com",
-  "name": "gitblame.nvim",
-  "owner": "Zorcal",
-  "url": "https://github.com/Zorcal/gitblame.nvim"
+  "name": "social.nvim",
+  "owner": "gsuuon",
+  "url": "https://github.com/gsuuon/social.nvim"
 }

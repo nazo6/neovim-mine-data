@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Plugin Manager"
+          "name": "AI Coding"
         },
         {
           "level": 3,
-          "name": "Add runtime path (vim-plug like)"
+          "name": "Gemini"
         }
       ],
-      "file": "plugin-manager.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
-    "createdAt": "2023-12-28T13:24:27Z",
-    "description": null,
+    "commitCountLastYear": 3,
+    "createdAt": "2023-12-19T16:53:01Z",
+    "description": "A Neovim plugin powered by Google Gemini.",
     "isArchived": false,
-    "lastCommit": "2023-12-29T23:56:31Z",
-    "nameWithOwner": "luolawlan/machine.nvim",
+    "lastCommit": "2023-12-24T08:21:08Z",
+    "nameWithOwner": "kentchiu/gemini.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 4,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "machine.nvim",
-  "owner": "luolawlan",
-  "url": "https://github.com/luolawlan/machine.nvim"
+  "name": "gemini.nvim",
+  "owner": "kentchiu",
+  "url": "https://github.com/kentchiu/gemini.nvim"
 }

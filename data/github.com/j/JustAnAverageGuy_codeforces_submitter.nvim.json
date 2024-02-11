@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Codeforce"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-02-05T00:43:21Z",
+    "description": "Submit code to codeforces, will probably get around to writing a readme someday : )",
+    "isArchived": false,
+    "lastCommit": "2024-02-05T01:04:00Z",
+    "nameWithOwner": "JustAnAverageGuy/codeforces_submitter.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codeforces_submitter.nvim",
+  "owner": "JustAnAverageGuy",
+  "url": "https://github.com/JustAnAverageGuy/codeforces_submitter.nvim"
+}

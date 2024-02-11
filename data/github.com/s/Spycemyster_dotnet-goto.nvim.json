@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotnet"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-02-07T12:40:41Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-02-07T13:32:59Z",
+    "nameWithOwner": "Spycemyster/dotnet-goto.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotnet-goto.nvim",
+  "owner": "Spycemyster",
+  "url": "https://github.com/Spycemyster/dotnet-goto.nvim"
+}

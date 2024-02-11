@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme session"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-01-29T17:08:17Z",
+    "description": "Automatically reload and synchronize your most recently used colorscheme.",
+    "isArchived": false,
+    "lastCommit": "2024-01-29T17:21:20Z",
+    "nameWithOwner": "swaits/colorsaver.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "colorsaver.nvim",
+  "owner": "swaits",
+  "url": "https://github.com/swaits/colorsaver.nvim"
+}

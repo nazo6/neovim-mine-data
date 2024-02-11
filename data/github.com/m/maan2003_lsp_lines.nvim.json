@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-06-01T16:36:54Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2022-08-03T19:10:52Z",
+    "nameWithOwner": "maan2003/lsp_lines.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 235,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp_lines.nvim",
+  "owner": "maan2003",
+  "url": "https://github.com/Maan2003/lsp_lines.nvim"
+}

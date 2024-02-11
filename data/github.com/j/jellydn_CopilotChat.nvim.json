@@ -2,31 +2,23 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Chat"
-        }
       ],
-      "file": "ai.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 126,
+    "commitCountLastYear": 161,
     "createdAt": "2023-12-15T14:32:49Z",
     "description": "Chat with GitHub Copilot in Neovim",
-    "isArchived": false,
-    "lastCommit": "2024-02-04T09:34:09Z",
+    "isArchived": true,
+    "lastCommit": "2024-02-05T13:41:31Z",
     "nameWithOwner": "jellydn/CopilotChat.nvim",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 107,
+    "star": 104,
     "topics": [
       "copilot-chat",
       "neovim",
