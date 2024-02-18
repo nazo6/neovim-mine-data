@@ -8,22 +8,18 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
           "name": "OS"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Linux"
         },
         {
-          "level": 5,
+          "level": 4,
           "name": "X11"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "os.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 143,
+    "star": 145,
     "topics": [
       "lua",
       "lua-ffi",

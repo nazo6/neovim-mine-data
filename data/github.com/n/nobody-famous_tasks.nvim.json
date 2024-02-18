@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-02-16T15:59:32Z",
+    "description": "Run VSCode tasks in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-02-16T16:44:17Z",
+    "nameWithOwner": "nobody-famous/tasks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasks.nvim",
+  "owner": "nobody-famous",
+  "url": "https://github.com/nobody-famous/tasks.nvim"
+}

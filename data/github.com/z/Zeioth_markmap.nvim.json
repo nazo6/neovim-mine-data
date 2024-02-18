@@ -42,18 +42,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 229,
+    "commitCountLastYear": 249,
     "createdAt": "2023-05-24T22:13:57Z",
     "description": "Visualize your Markdown as mindmaps with markmap",
     "isArchived": false,
-    "lastCommit": "2024-02-05T15:15:26Z",
+    "lastCommit": "2024-02-16T19:39:36Z",
     "nameWithOwner": "Zeioth/markmap.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 107,
+    "star": 108,
     "topics": [
+      "neovim-plugin",
+      "neovim-plugins"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Notification"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-02-15T19:36:22Z",
+    "description": "Neovim plugin serves as a wrapper for the `notify-send` command, enabling you to send system notifications from Neovim using `vim.notify()`.",
+    "isArchived": false,
+    "lastCommit": "2024-02-18T08:51:51Z",
+    "nameWithOwner": "Ajnasz/notify-send.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "notifications",
+      "notify-send",
+      "dunst",
+      "fennel"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notify-send.nvim",
+  "owner": "Ajnasz",
+  "url": "https://github.com/Ajnasz/notify-send.nvim"
+}

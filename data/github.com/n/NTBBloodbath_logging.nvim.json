@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Log"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2024-02-12T08:03:11Z",
+    "description": "A very simple and asynchronous logging library for Neovim plugins",
+    "isArchived": false,
+    "lastCommit": "2024-02-12T10:54:17Z",
+    "nameWithOwner": "NTBBloodbath/logging.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "library",
+      "logging",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "logging.nvim",
+  "owner": "NTBBloodbath",
+  "url": "https://github.com/NTBBloodbath/logging.nvim"
+}

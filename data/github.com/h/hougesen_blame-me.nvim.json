@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2023-09-21T21:21:22Z",
+    "description": "A lean git blame plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-02-13T00:26:00Z",
+    "nameWithOwner": "hougesen/blame-me.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "git",
+      "git-blame",
+      "neovim",
+      "neovim-plugin",
+      "vim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blame-me.nvim",
+  "owner": "hougesen",
+  "url": "https://github.com/hougesen/blame-me.nvim"
+}

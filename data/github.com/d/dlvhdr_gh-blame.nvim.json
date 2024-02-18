@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2023-11-25T20:14:13Z",
+    "description": "View the PR blame of the current line",
+    "isArchived": false,
+    "lastCommit": "2024-02-06T09:39:25Z",
+    "nameWithOwner": "dlvhdr/gh-blame.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gh-blame.nvim",
+  "owner": "dlvhdr",
+  "url": "https://github.com/dlvhdr/gh-blame.nvim"
+}

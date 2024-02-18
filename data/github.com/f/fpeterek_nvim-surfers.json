@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-02-13T20:44:09Z",
+    "description": "Subway Surfers gameplay right inside of your favorite editor",
+    "isArchived": false,
+    "lastCommit": "2024-02-13T22:35:54Z",
+    "nameWithOwner": "fpeterek/nvim-surfers",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-surfers",
+  "owner": "fpeterek",
+  "url": "https://github.com/fpeterek/nvim-surfers"
+}

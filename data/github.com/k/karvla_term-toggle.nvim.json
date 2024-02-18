@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-02-13T16:48:14Z",
+    "description": "A plugin for Neovim that let's you toggle the terminal",
+    "isArchived": false,
+    "lastCommit": "2024-02-13T17:06:21Z",
+    "nameWithOwner": "karvla/term-toggle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "term-toggle.nvim",
+  "owner": "karvla",
+  "url": "https://github.com/karvla/term-toggle.nvim"
+}

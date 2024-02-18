@@ -8,30 +8,30 @@
         },
         {
           "level": 2,
-          "name": "Formatter"
+          "name": "LICENSE"
         }
       ],
-      "file": "linter_formatter.md",
+      "file": "comment.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
-    "createdAt": "2024-02-04T17:37:35Z",
-    "description": "A simple code formatter plugin.",
+    "commitCountLastYear": 29,
+    "createdAt": "2024-02-10T14:41:43Z",
+    "description": "NeoVim plugin to add license notices",
     "isArchived": false,
-    "lastCommit": "2024-02-05T16:19:19Z",
-    "nameWithOwner": "p1486/afmt.nvim",
+    "lastCommit": "2024-01-03T05:07:51Z",
+    "nameWithOwner": "kksat/licenses.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "afmt.nvim",
-  "owner": "p1486",
-  "url": "https://github.com/p1486/afmt.nvim"
+  "name": "licenses.nvim",
+  "owner": "kksat",
+  "url": "https://github.com/kksat/licenses.nvim"
 }

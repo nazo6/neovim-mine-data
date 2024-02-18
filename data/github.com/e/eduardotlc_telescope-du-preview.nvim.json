@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "Kitty"
+        },
+        {
+          "level": 5,
+          "name": "Image"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-02-12T18:46:11Z",
+    "description": "Kitty pdf and image preview telescope extension",
+    "isArchived": false,
+    "lastCommit": "2024-02-12T19:56:10Z",
+    "nameWithOwner": "eduardotlc/telescope-du-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-du-preview.nvim",
+  "owner": "eduardotlc",
+  "url": "https://github.com/eduardotlc/telescope-du-preview.nvim"
+}

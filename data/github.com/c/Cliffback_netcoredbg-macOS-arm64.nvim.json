@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-02-15T14:07:21Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-02-15T20:50:44Z",
+    "nameWithOwner": "Cliffback/netcoredbg-macOS-arm64.nvim",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "netcoredbg-macOS-arm64.nvim",
+  "owner": "Cliffback",
+  "url": "https://github.com/Cliffback/netcoredbg-macOS-arm64.nvim"
+}

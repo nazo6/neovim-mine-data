@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Mark"
-        }
       ],
-      "file": "mark.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 28,
     "createdAt": "2023-09-21T14:44:02Z",
     "description": "A new take on vim marks",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-10-11T12:33:38Z",
     "nameWithOwner": "saccarosium/neomarks",
     "primaryLanguage": {

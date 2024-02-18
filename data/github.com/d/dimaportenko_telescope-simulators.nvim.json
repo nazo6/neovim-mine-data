@@ -8,23 +8,19 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
           "name": "OS"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "iOS"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "os.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 1,
     "createdAt": "2023-02-11T20:20:51Z",
     "description": "A telescope.nvim extension to open iOS simulators and Android emulators.",
     "isArchived": false,
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 62,
+    "star": 63,
     "topics": [
     ]
   },

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "impl"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-02-14T05:28:52Z",
+    "description": "Go impl integrated with treesitter to provide interface implementation stubs for desired types",
+    "isArchived": false,
+    "lastCommit": "2024-02-14T06:03:24Z",
+    "nameWithOwner": "venomlab/goimpl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "goimpl.nvim",
+  "owner": "venomlab",
+  "url": "https://github.com/venomlab/goimpl.nvim"
+}

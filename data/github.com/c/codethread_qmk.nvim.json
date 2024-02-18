@@ -8,27 +8,23 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
           "name": "Hardware"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Keyboard"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "hardware.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 42,
+    "commitCountLastYear": 39,
     "createdAt": "2022-12-24T14:48:23Z",
     "description": "Format qmk and zmk keymaps in neovim",
     "isArchived": false,
-    "lastCommit": "2023-10-06T18:00:34Z",
+    "lastCommit": "2024-02-15T21:12:27Z",
     "nameWithOwner": "codethread/qmk.nvim",
     "primaryLanguage": {
       "color": "#000080",

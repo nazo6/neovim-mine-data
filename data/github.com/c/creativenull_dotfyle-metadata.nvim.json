@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Marketplace"
+        }
+      ],
+      "file": "service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2023-07-25T17:41:22Z",
+    "description": "Generate dotfyle metadata for your config",
+    "isArchived": false,
+    "lastCommit": "2024-02-18T00:45:22Z",
+    "nameWithOwner": "creativenull/dotfyle-metadata.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "metadata",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotfyle-metadata.nvim",
+  "owner": "creativenull",
+  "url": "https://github.com/creativenull/dotfyle-metadata.nvim"
+}

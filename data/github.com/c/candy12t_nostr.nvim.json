@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Nostr"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-02-13T10:50:59Z",
+    "description": "nostr Neovim client (WIP)",
+    "isArchived": false,
+    "lastCommit": "2024-02-17T11:27:50Z",
+    "nameWithOwner": "candy12t/nostr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "nostr"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nostr.nvim",
+  "owner": "candy12t",
+  "url": "https://github.com/candy12t/nostr.nvim"
+}

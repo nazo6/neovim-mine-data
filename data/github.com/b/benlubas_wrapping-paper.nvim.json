@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 21,
     "createdAt": "2023-12-25T03:49:55Z",
     "description": "Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery",
     "isArchived": false,
-    "lastCommit": "2023-12-31T18:12:59Z",
+    "lastCommit": "2024-02-17T22:00:47Z",
     "nameWithOwner": "benlubas/wrapping-paper.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 45,
+    "star": 46,
     "topics": [
       "nvim",
       "nvim-plugin"

@@ -56,17 +56,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 5,
     "createdAt": "2021-05-16T15:04:58Z",
     "description": "A neovim plugin allowing you to easily send lines from the current buffer to another kitty terminal",
     "isArchived": false,
-    "lastCommit": "2023-09-17T14:00:04Z",
+    "lastCommit": "2024-02-11T19:11:44Z",
     "nameWithOwner": "jghauser/kitty-runner.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 89,
+    "star": 90,
     "topics": [
       "neovim",
       "plugin",

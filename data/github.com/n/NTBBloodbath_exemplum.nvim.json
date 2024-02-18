@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "keep window"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-02-11T16:01:38Z",
+    "description": "Take your functions and easily refactor them while keeping an eye on the initial implementation",
+    "isArchived": false,
+    "lastCommit": "2024-02-15T12:45:49Z",
+    "nameWithOwner": "NTBBloodbath/exemplum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "exemplum.nvim",
+  "owner": "NTBBloodbath",
+  "url": "https://github.com/NTBBloodbath/exemplum.nvim"
+}

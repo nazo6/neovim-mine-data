@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "Open directory"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-02-14T10:49:54Z",
+    "description": "lua broot nvim integration",
+    "isArchived": false,
+    "lastCommit": "2024-02-16T11:41:43Z",
+    "nameWithOwner": "FrancescElies/broot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "broot.nvim",
+  "owner": "FrancescElies",
+  "url": "https://github.com/FrancescElies/broot.nvim"
+}

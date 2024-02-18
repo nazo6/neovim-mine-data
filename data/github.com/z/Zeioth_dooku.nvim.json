@@ -38,18 +38,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 254,
+    "commitCountLastYear": 266,
     "createdAt": "2023-07-29T02:12:09Z",
     "description": "Code documentation generator for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-01-17T17:10:35Z",
+    "lastCommit": "2024-02-16T23:03:16Z",
     "nameWithOwner": "Zeioth/dooku.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 24,
+    "star": 25,
     "topics": [
+      "neovim-plugin",
+      "neovim-plugins"
     ]
   },
   "domain": "github.com",

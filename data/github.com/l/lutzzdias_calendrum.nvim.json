@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Calendar"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-02-16T03:34:32Z",
+    "description": "A calendar for neovim written in lua",
+    "isArchived": false,
+    "lastCommit": "2024-02-16T07:14:03Z",
+    "nameWithOwner": "lutzzdias/calendrum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "calendrum.nvim",
+  "owner": "lutzzdias",
+  "url": "https://github.com/lutzzdias/calendrum.nvim"
+}

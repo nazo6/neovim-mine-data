@@ -21,20 +21,42 @@
       ],
       "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "(requires Neovim 0.5)"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 14,
     "createdAt": "2024-02-07T13:51:33Z",
     "description": "Populate diagnostics for all projects files, not just the opened ones.",
     "isArchived": false,
-    "lastCommit": "2024-02-10T16:02:57Z",
+    "lastCommit": "2024-02-15T21:40:17Z",
     "nameWithOwner": "artemave/workspace-diagnostics.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 27,
+    "star": 36,
     "topics": [
       "lsp",
       "neovim",

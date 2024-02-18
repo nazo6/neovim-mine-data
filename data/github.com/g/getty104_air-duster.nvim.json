@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        },
+        {
+          "level": 3,
+          "name": "Trim Whitespace"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-02-12T09:51:13Z",
+    "description": "A Neovim plugin for removing trailing white spaces and tabs",
+    "isArchived": false,
+    "lastCommit": "2024-02-12T12:08:23Z",
+    "nameWithOwner": "getty104/air-duster.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "air-duster.nvim",
+  "owner": "getty104",
+  "url": "https://github.com/getty104/air-duster.nvim"
+}

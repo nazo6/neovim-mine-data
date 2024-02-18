@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Progress"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-02-18T03:57:41Z",
+    "description": "Just echo the LSP progress, its that simple",
+    "isArchived": false,
+    "lastCommit": "2024-02-18T04:44:31Z",
+    "nameWithOwner": "deathbeam/lspecho.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lspecho.nvim",
+  "owner": "deathbeam",
+  "url": "https://github.com/deathbeam/lspecho.nvim"
+}

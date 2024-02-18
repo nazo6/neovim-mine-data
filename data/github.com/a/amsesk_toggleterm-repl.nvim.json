@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-02-11T22:22:51Z",
+    "description": "Plugin that adds some functionality to make toggleterm a bit more ergonomic as a repl spawner.",
+    "isArchived": false,
+    "lastCommit": "2024-02-11T22:32:32Z",
+    "nameWithOwner": "amsesk/toggleterm-repl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggleterm-repl.nvim",
+  "owner": "amsesk",
+  "url": "https://github.com/amsesk/toggleterm-repl.nvim"
+}

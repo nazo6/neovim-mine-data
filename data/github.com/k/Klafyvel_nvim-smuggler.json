@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Julia"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-02-16T23:12:13Z",
+    "description": "Send code to your Julia REPL, get diagnostics in return.",
+    "isArchived": false,
+    "lastCommit": "2024-02-16T23:16:04Z",
+    "nameWithOwner": "Klafyvel/nvim-smuggler",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-smuggler",
+  "owner": "Klafyvel",
+  "url": "https://github.com/Klafyvel/nvim-smuggler"
+}

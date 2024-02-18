@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "AI Coding"
-        },
-        {
-          "level": 3,
-          "name": "OpenAI"
-        }
       ],
-      "file": "ai.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 8,
     "createdAt": "2023-03-07T16:36:06Z",
     "description": "Nvim wrapper over chatgpt free web interface",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-03-07T19:53:23Z",
     "nameWithOwner": "sigmaSd/chat.nvim",
     "primaryLanguage": {

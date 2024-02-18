@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Diff"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-02-11T06:37:27Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-02-11T08:52:10Z",
+    "nameWithOwner": "ryutaro-asada/partial-diff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "partial-diff.nvim",
+  "owner": "ryutaro-asada",
+  "url": "https://github.com/ryutaro-asada/partial-diff.nvim"
+}

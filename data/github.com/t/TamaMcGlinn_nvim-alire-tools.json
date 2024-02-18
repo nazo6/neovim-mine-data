@@ -12,7 +12,11 @@
         },
         {
           "level": 3,
-          "name": "Shellscript(bash)"
+          "name": "Ada"
+        },
+        {
+          "level": 4,
+          "name": "Alire"
         }
       ],
       "file": "language-specific.md",
@@ -20,12 +24,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
-    "createdAt": "2024-01-20T01:31:42Z",
-    "description": null,
+    "commitCountLastYear": 3,
+    "createdAt": "2024-02-15T15:26:18Z",
+    "description": "NeoVim plugin to publish alire packages",
     "isArchived": false,
-    "lastCommit": "2024-01-20T21:52:17Z",
-    "nameWithOwner": "carbon-steel/shell_editor.nvim",
+    "lastCommit": "2024-02-15T15:39:39Z",
+    "nameWithOwner": "TamaMcGlinn/nvim-alire-tools",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +39,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "shell_editor.nvim",
-  "owner": "carbon-steel",
-  "url": "https://github.com/carbon-steel/shell_editor.nvim"
+  "name": "nvim-alire-tools",
+  "owner": "TamaMcGlinn",
+  "url": "https://github.com/TamaMcGlinn/nvim-alire-tools"
 }

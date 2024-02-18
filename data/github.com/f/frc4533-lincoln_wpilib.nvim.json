@@ -8,22 +8,18 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
           "name": "Hardware"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Robot"
         },
         {
-          "level": 5,
+          "level": 4,
           "name": "FRC(First robotics competition)"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "hardware.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -38,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
     ]
   },

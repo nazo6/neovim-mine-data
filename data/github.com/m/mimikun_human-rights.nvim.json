@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "CPU/Memory"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-02-15T12:46:35Z",
+    "description": "A neovim plugin to check and display whether your machine have human rights.",
+    "isArchived": false,
+    "lastCommit": "2024-02-16T09:59:58Z",
+    "nameWithOwner": "mimikun/human-rights.nvim",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "human-rights.nvim",
+  "owner": "mimikun",
+  "url": "https://github.com/mimikun/human-rights.nvim"
+}

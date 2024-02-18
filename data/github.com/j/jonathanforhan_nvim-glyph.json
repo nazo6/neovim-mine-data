@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "digraph"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-02-11T21:16:25Z",
+    "description": "telescope integration with digraphs and custom unicode characters",
+    "isArchived": false,
+    "lastCommit": "2024-02-11T23:12:10Z",
+    "nameWithOwner": "jonathanforhan/nvim-glyph",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-glyph",
+  "owner": "jonathanforhan",
+  "url": "https://github.com/jonathanforhan/nvim-glyph"
+}

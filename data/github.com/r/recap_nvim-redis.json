@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Ruby"
+        },
+        {
+          "level": 4,
+          "name": "Redis"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-02-13T09:05:49Z",
+    "description": "Redis plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-02-14T16:31:09Z",
+    "nameWithOwner": "recap/nvim-redis",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugins",
+      "redis"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-redis",
+  "owner": "recap",
+  "url": "https://github.com/recap/nvim-redis"
+}

@@ -8,22 +8,18 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
           "name": "OS"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Linux"
         },
         {
-          "level": 5,
+          "level": 4,
           "name": "darkman"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "os.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -46,7 +42,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 2,
     "createdAt": "2023-01-24T04:20:49Z",
     "description": "A neovim plugin for interfacing with the freedesktop dark mode standard",
     "isArchived": false,

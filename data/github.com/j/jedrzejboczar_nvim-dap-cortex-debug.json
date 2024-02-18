@@ -8,18 +8,14 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
           "name": "Hardware"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Embedded Software"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "hardware.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 17,
     "topics": [
     ]
   },

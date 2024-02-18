@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Elixir"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-02-11T15:04:16Z",
+    "description": "Alternant file commands for elixir projects",
+    "isArchived": false,
+    "lastCommit": "2024-02-11T15:11:35Z",
+    "nameWithOwner": "smpallen99/elixir-projectionist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "elixir-projectionist.nvim",
+  "owner": "smpallen99",
+  "url": "https://github.com/smpallen99/elixir-projectionist.nvim"
+}

@@ -16,18 +16,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1453,
+    "commitCountLastYear": 1509,
     "createdAt": "2023-05-12T18:07:04Z",
-    "description": "A normal neovim distro",
+    "description": "A normal Neovim distro",
     "isArchived": false,
-    "lastCommit": "2024-02-10T00:11:04Z",
+    "lastCommit": "2024-02-18T00:10:17Z",
     "nameWithOwner": "NormalNvim/NormalNvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 229,
+    "star": 237,
     "topics": [
+      "nvim-configs",
+      "nvim",
+      "nvim-config"
     ]
   },
   "domain": "github.com",
