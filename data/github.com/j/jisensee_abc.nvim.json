@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "ABC"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-02-23T21:40:25Z",
+    "description": "Utilities for working with ABC notation in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-02-23T21:47:14Z",
+    "nameWithOwner": "jisensee/abc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "abc.nvim",
+  "owner": "jisensee",
+  "url": "https://github.com/jisensee/abc.nvim"
+}

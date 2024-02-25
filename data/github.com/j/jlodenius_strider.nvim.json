@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Motion"
+          "name": "Convert"
         },
         {
           "level": 3,
-          "name": "Label Jump (Easymotion style)"
+          "name": "Number"
         }
       ],
-      "file": "motion.md",
+      "file": "convert.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 3,
-    "createdAt": "2021-02-07T17:47:54Z",
-    "description": "Neovim motions on speed!",
+    "createdAt": "2024-02-17T20:45:12Z",
+    "description": "Neovim plugin that converts decimal numbers to their binary representation",
     "isArchived": false,
-    "lastCommit": "2023-09-09T18:17:25Z",
-    "nameWithOwner": "phaazon/hop.nvim",
+    "lastCommit": "2024-02-17T21:03:37Z",
+    "nameWithOwner": "jlodenius/strider.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2374,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "hop.nvim",
-  "owner": "phaazon",
-  "url": "https://github.com/phaazon/hop.nvim"
+  "name": "strider.nvim",
+  "owner": "jlodenius",
+  "url": "https://github.com/jlodenius/strider.nvim"
 }

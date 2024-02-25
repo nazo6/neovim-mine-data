@@ -16,18 +16,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 233,
+    "commitCountLastYear": 284,
     "createdAt": "2023-12-12T00:59:30Z",
     "description": "Chat with GitHub Copilot in Neovim",
     "isArchived": false,
-    "lastCommit": "2024-02-18T06:58:56Z",
+    "lastCommit": "2024-02-24T16:08:34Z",
     "nameWithOwner": "CopilotC-Nvim/CopilotChat.nvim",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 276,
+    "star": 327,
     "topics": [
+      "copilot",
+      "copilot-chat",
+      "github",
+      "github-copilot",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Clickup"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-02-18T16:20:02Z",
+    "description": "Small Clickup plugin to fetch users tasks from Clickup",
+    "isArchived": false,
+    "lastCommit": "2024-02-18T16:41:12Z",
+    "nameWithOwner": "mbe-setpoint/clickup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clickup.nvim",
+  "owner": "mbe-setpoint",
+  "url": "https://github.com/mbe-setpoint/clickup.nvim"
+}

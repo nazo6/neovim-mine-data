@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Emoji"
+        },
+        {
+          "level": 3,
+          "name": "Emoji FuzzyFinder"
+        }
+      ],
+      "file": "emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2024-02-23T18:04:25Z",
+    "description": "A plugin to search for and insert emojis right from Neovim 😀",
+    "isArchived": false,
+    "lastCommit": "2024-02-24T12:09:45Z",
+    "nameWithOwner": "Allaman/emoji.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "emoji",
+      "lua",
+      "neovim",
+      "nvim-cmp",
+      "plugin",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "emoji.nvim",
+  "owner": "Allaman",
+  "url": "https://github.com/Allaman/emoji.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2024-02-19T18:54:15Z",
+    "description": "Cabinet is a plugin for Neovim that allows you to manage your buffers in drawers.",
+    "isArchived": false,
+    "lastCommit": "2024-02-22T16:58:40Z",
+    "nameWithOwner": "smilhey/cabinet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+      "multiplexing",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cabinet.nvim",
+  "owner": "smilhey",
+  "url": "https://github.com/smilhey/cabinet.nvim"
+}

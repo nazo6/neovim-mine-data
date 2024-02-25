@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-02-19T01:37:32Z",
+    "description": "qbuf.nvim aims to enhance buffer navigation by channeling the list of open buffers into the quickfix list, thus enabling more efficient buffer management and navigation within Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-02-19T04:00:33Z",
+    "nameWithOwner": "ayoubelmhamdi/qbuf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "qbuf.nvim",
+  "owner": "ayoubelmhamdi",
+  "url": "https://github.com/ayoubelmhamdi/qbuf.nvim"
+}

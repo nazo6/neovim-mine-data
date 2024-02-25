@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "bookmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2024-02-13T10:56:56Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-02-25T08:32:12Z",
+    "nameWithOwner": "kdnk/bookmarks.lua",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "bookmarks",
+      "lua",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bookmarks.lua",
+  "owner": "kdnk",
+  "url": "https://github.com/kdnk/bookmarks-cycle-through.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-02-23T09:27:32Z",
+    "description": "This is my primitive/simple plugin for quick notes creating during my work in neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-02-23T16:01:35Z",
+    "nameWithOwner": "pilarskikt/qnotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qnotes.nvim",
+  "owner": "pilarskikt",
+  "url": "https://github.com/pilarskikt/qnotes.nvim"
+}

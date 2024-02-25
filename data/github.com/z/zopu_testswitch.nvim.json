@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Other Buffer Switcher"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-02-21T15:11:18Z",
+    "description": "Switch between code and associated test file in nvim",
+    "isArchived": false,
+    "lastCommit": "2024-02-21T15:33:19Z",
+    "nameWithOwner": "zopu/testswitch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "testswitch.nvim",
+  "owner": "zopu",
+  "url": "https://github.com/zopu/testswitch.nvim"
+}

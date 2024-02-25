@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Zig"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-02-23T08:44:40Z",
+    "description": "neovim plugin to show diagnostic from zig compiler",
+    "isArchived": false,
+    "lastCommit": "2024-02-24T14:24:28Z",
+    "nameWithOwner": "speed2exe/zig-comp-diag.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zig-comp-diag.nvim",
+  "owner": "speed2exe",
+  "url": "https://github.com/speed2exe/zig-comp-diag.nvim"
+}

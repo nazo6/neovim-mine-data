@@ -16,27 +16,27 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2021-07-09T12:37:02Z",
-    "description": null,
+    "commitCountLastYear": 1,
+    "createdAt": "2024-02-23T13:58:03Z",
+    "description": "Very simple plugin to convert lists into checkboxes in org-mode files",
     "isArchived": false,
-    "lastCommit": "2023-03-27T07:32:40Z",
-    "nameWithOwner": "akinsho/org-bullets.nvim",
+    "lastCommit": "2024-02-23T14:45:39Z",
+    "nameWithOwner": "massix/org-checkbox.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 113,
+    "star": 1,
     "topics": [
-      "orgmode-nvim",
       "neovim",
-      "lua",
+      "neovim-plugin",
       "nvim",
-      "vim"
+      "nvim-orgmode",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "org-bullets.nvim",
-  "owner": "akinsho",
-  "url": "https://github.com/akinsho/org-bullets.nvim"
+  "name": "org-checkbox.nvim",
+  "owner": "massix",
+  "url": "https://github.com/massix/org-checkbox.nvim"
 }

@@ -2,13 +2,19 @@
   "category": [
     {
       "data": [
+      ],
+      "file": "Archived.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
         {
           "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
           "level": 2,
-          "name": "Editing Support"
+          "name": "Note Taking"
         }
       ],
       "file": "README.md",
@@ -16,22 +22,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2021-03-23T18:02:37Z",
-    "description": "Nvim-plugin for doing the opposite of join-line (J) of arguments written in lua.",
-    "isArchived": false,
-    "lastCommit": "2022-04-11T12:16:02Z",
-    "nameWithOwner": "AckslD/nvim-revJ.lua",
+    "commitCountLastYear": 1,
+    "createdAt": "2021-10-17T21:06:15Z",
+    "description": "The power of trees at your fingertips.",
+    "isArchived": true,
+    "lastCommit": "2023-03-22T23:01:11Z",
+    "nameWithOwner": "hadronized/mind.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 108,
+    "star": 700,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "nvim-revJ.lua",
-  "owner": "AckslD",
-  "url": "https://github.com/AckslD/nvim-revJ.lua"
+  "name": "mind.nvim",
+  "owner": "hadronized",
+  "url": "https://github.com/phaazon/mind.nvim"
 }

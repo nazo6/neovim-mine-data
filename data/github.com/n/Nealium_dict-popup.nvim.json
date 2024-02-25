@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Dictionary"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-02-20T00:25:39Z",
+    "description": "A simple Neovim plugin for the Linux command `dict` which shows the definitions in a popup ",
+    "isArchived": false,
+    "lastCommit": "2024-02-21T21:35:04Z",
+    "nameWithOwner": "Nealium/dict-popup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dict-popup.nvim",
+  "owner": "Nealium",
+  "url": "https://github.com/Nealium/dict-popup.nvim"
+}

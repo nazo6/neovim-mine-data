@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 18,
     "createdAt": "2024-02-15T21:49:02Z",
-    "description": null,
+    "description": "Chatblade integration for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-02-17T19:09:24Z",
+    "lastCommit": "2024-02-23T22:28:57Z",
     "nameWithOwner": "cmpadden/chatblade.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,10 @@
     },
     "star": 2,
     "topics": [
+      "chatgpt",
+      "llm",
+      "neovim",
+      "chatblade"
     ]
   },
   "domain": "github.com",

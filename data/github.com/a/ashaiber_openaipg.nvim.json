@@ -8,38 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Mark"
+          "name": "AI Coding"
         },
         {
           "level": 3,
-          "name": "bookmark"
+          "name": "OpenAI"
         }
       ],
-      "file": "mark.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
-    "createdAt": "2024-02-13T10:56:56Z",
-    "description": null,
+    "commitCountLastYear": 3,
+    "createdAt": "2024-02-19T09:21:10Z",
+    "description": "OpenAI Playground",
     "isArchived": false,
-    "lastCommit": "2024-02-18T05:55:03Z",
-    "nameWithOwner": "kdnk/bookmarks-cycle-through.nvim",
+    "lastCommit": "2024-02-19T09:39:18Z",
+    "nameWithOwner": "ashaiber/openaipg.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
     "star": 1,
     "topics": [
-      "bookmarks",
-      "lua",
-      "neovim",
-      "nvim"
     ]
   },
   "domain": "github.com",
-  "name": "bookmarks-cycle-through.nvim",
-  "owner": "kdnk",
-  "url": "https://github.com/kdnk/bookmarks-cycle-through.nvim"
+  "name": "openaipg.nvim",
+  "owner": "ashaiber",
+  "url": "https://github.com/ashaiber/openaipg.nvim"
 }

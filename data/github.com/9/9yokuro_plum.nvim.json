@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-02-23T12:59:08Z",
+    "description": "An extremely minimal plugin manager for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-02-24T02:08:29Z",
+    "nameWithOwner": "9yokuro/plum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plum.nvim",
+  "owner": "9yokuro",
+  "url": "https://github.com/9yokuro/plum.nvim"
+}

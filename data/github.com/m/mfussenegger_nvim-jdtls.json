@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 40,
+    "commitCountLastYear": 42,
     "createdAt": "2020-04-14T14:54:41Z",
     "description": "Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls",
     "isArchived": false,
-    "lastCommit": "2024-02-17T10:54:20Z",
+    "lastCommit": "2024-02-21T11:20:06Z",
     "nameWithOwner": "mfussenegger/nvim-jdtls",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 853,
+    "star": 859,
     "topics": [
       "neovim",
       "lsp-client",

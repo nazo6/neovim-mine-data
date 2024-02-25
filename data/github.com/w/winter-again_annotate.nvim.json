@@ -2,25 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Note Taking"
-        },
-        {
-          "level": 2,
-          "name": "inline note"
-        }
       ],
-      "file": "note-taking.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 60,
+    "commitCountLastYear": 61,
     "createdAt": "2023-06-04T04:07:07Z",
     "description": null,
-    "isArchived": false,
-    "lastCommit": "2024-02-13T19:00:13Z",
+    "isArchived": true,
+    "lastCommit": "2024-02-24T00:53:15Z",
     "nameWithOwner": "winter-again/annotate.nvim",
     "primaryLanguage": {
       "color": "#000080",

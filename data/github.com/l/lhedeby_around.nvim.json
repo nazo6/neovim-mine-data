@@ -4,34 +4,34 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
+          "name": "Select"
         },
         {
           "level": 2,
-          "name": "Pre-configuration"
+          "name": "Around select"
         }
       ],
-      "file": "lsp.md",
+      "file": "search_replace_grep_select.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2021-05-11T23:32:01Z",
+    "commitCountLastYear": 2,
+    "createdAt": "2024-02-19T16:06:15Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2021-05-17T23:25:17Z",
-    "nameWithOwner": "phaazon/poesie.nvim",
+    "lastCommit": "2024-02-19T16:07:29Z",
+    "nameWithOwner": "lhedeby/around.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 17,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "poesie.nvim",
-  "owner": "phaazon",
-  "url": "https://github.com/phaazon/poesie.nvim"
+  "name": "around.nvim",
+  "owner": "lhedeby",
+  "url": "https://github.com/lhedeby/around.nvim"
 }

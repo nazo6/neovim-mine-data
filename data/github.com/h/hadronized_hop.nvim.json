@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Label Jump (Easymotion style)"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2021-02-07T17:47:54Z",
+    "description": "Neovim motions on speed!",
+    "isArchived": false,
+    "lastCommit": "2023-09-09T18:17:25Z",
+    "nameWithOwner": "hadronized/hop.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2367,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hop.nvim",
+  "owner": "hadronized",
+  "url": "https://github.com/phaazon/hop.nvim"
+}

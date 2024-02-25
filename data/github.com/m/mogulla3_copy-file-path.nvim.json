@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "path"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-02-23T11:37:05Z",
+    "description": "A Neovim plugin to copy file path to the clipboard.",
+    "isArchived": false,
+    "lastCommit": "2024-02-24T05:06:39Z",
+    "nameWithOwner": "mogulla3/copy-file-path.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "copy-file-path.nvim",
+  "owner": "mogulla3",
+  "url": "https://github.com/mogulla3/copy-file-path.nvim"
+}
