@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mode"
+        },
+        {
+          "level": 3,
+          "name": "Parinfer"
+        }
+      ],
+      "file": "mode.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2021-08-26T03:42:08Z",
+    "description": "parinfer for Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-08-09T15:30:25Z",
+    "nameWithOwner": "gpanders/nvim-parinfer",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 146,
+    "topics": [
+      "lua",
+      "neovim",
+      "lisp",
+      "fennel",
+      "parinfer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-parinfer",
+  "owner": "gpanders",
+  "url": "https://github.com/gpanders/nvim-parinfer"
+}

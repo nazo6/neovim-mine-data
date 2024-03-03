@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "www.ietf.org"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-02-24T22:16:55Z",
+    "description": "Plugin that allow you to download, cache and read RFC",
+    "isArchived": false,
+    "lastCommit": "2024-02-28T12:50:46Z",
+    "nameWithOwner": "CyberFatherRT/rfc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rfc.nvim",
+  "owner": "CyberFatherRT",
+  "url": "https://github.com/CyberFatherRT/rfc.nvim"
+}

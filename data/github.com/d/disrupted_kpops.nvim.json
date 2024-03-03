@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 45,
+    "commitCountLastYear": 48,
     "createdAt": "2023-10-31T08:39:38Z",
-    "description": null,
+    "description": "Neovim plugin for integrating KPOps",
     "isArchived": false,
-    "lastCommit": "2024-02-07T17:44:38Z",
+    "lastCommit": "2024-02-28T14:43:40Z",
     "nameWithOwner": "disrupted/kpops.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,7 @@
     },
     "star": 2,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

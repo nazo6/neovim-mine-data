@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Date"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-02-27T22:08:19Z",
+    "description": "Neovim plugin for converting between Julian date and epoch timestamp.",
+    "isArchived": false,
+    "lastCommit": "2024-02-27T22:52:23Z",
+    "nameWithOwner": "alexpresthus/julian.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "julian.nvim",
+  "owner": "alexpresthus",
+  "url": "https://github.com/alexpresthus/julian.nvim"
+}

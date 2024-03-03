@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-02-28T04:47:09Z",
+    "description": "A neovim plugin for using Google Gemini APIs",
+    "isArchived": false,
+    "lastCommit": "2024-02-29T07:22:51Z",
+    "nameWithOwner": "meinside/gemini.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gemini.nvim",
+  "owner": "meinside",
+  "url": "https://github.com/meinside/gemini.nvim"
+}

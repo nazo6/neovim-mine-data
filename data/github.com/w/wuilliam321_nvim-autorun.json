@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-02-27T20:21:08Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-02-27T20:20:21Z",
+    "nameWithOwner": "wuilliam321/nvim-autorun",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-autorun",
+  "owner": "wuilliam321",
+  "url": "https://github.com/wuilliam321/nvim-autorun"
+}

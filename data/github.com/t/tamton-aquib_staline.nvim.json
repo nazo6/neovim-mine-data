@@ -30,22 +30,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 23,
     "createdAt": "2021-04-12T06:26:09Z",
-    "description": "A modern lightweight statusline and bufferline plugin for neovim in lua. Mainly uses unicode symbols for showing info.",
+    "description": "A modern lightweight statusline and bufferline plugin for neovim in lua.",
     "isArchived": false,
-    "lastCommit": "2023-11-22T09:30:17Z",
+    "lastCommit": "2024-03-01T16:22:35Z",
     "nameWithOwner": "tamton-aquib/staline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 315,
+    "star": 316,
     "topics": [
       "neovim",
       "statusline",
       "lua",
-      "bufferline"
+      "bufferline",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

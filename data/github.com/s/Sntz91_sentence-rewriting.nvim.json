@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Llama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-02-27T15:42:14Z",
+    "description": "Use LLMs to rewrite sentences within neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-02-29T17:48:40Z",
+    "nameWithOwner": "Sntz91/sentence-rewriting.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sentence-rewriting.nvim",
+  "owner": "Sntz91",
+  "url": "https://github.com/Sntz91/sentence-rewriting.nvim"
+}

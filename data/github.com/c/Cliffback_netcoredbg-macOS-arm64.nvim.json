@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 22,
     "createdAt": "2024-02-15T14:07:21Z",
-    "description": null,
+    "description": "Neovim plugin for getting netcoredbg working on macOS arm64",
     "isArchived": false,
-    "lastCommit": "2024-02-24T10:02:17Z",
+    "lastCommit": "2024-02-29T12:17:43Z",
     "nameWithOwner": "Cliffback/netcoredbg-macOS-arm64.nvim",
     "primaryLanguage": {
       "color": "#89e051",
@@ -36,6 +36,16 @@
     },
     "star": 1,
     "topics": [
+      "apple",
+      "applesilicon",
+      "arm64",
+      "macos",
+      "macos-arm64",
+      "neovim",
+      "neovim-plugin",
+      "netcoredbg",
+      "nvim-dap",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

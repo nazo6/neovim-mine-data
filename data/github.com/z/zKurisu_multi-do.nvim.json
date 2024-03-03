@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Multiple Command"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-02-28T01:29:38Z",
+    "description": "Select multiple file to run vim command",
+    "isArchived": false,
+    "lastCommit": "2024-02-28T13:17:04Z",
+    "nameWithOwner": "zKurisu/multi-do.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "multi-do.nvim",
+  "owner": "zKurisu",
+  "url": "https://github.com/zKurisu/multi-do.nvim"
+}

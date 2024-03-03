@@ -20,24 +20,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 228,
+    "commitCountLastYear": 230,
     "createdAt": "2023-07-13T06:54:44Z",
     "description": "A dark/light theme for Neovim based on the Monokai color palette written in Lua, support for LSP, Treesitter and lots of plugins.",
     "isArchived": false,
-    "lastCommit": "2024-02-15T17:23:30Z",
+    "lastCommit": "2024-03-01T00:58:27Z",
     "nameWithOwner": "polirritmico/monokai-nightasty.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 48,
+    "star": 49,
     "topics": [
       "neovim",
       "neovim-colorscheme",
       "neovim-lua",
       "neovim-plugin",
       "neovim-theme",
-      "tmux-theme"
+      "tmux-theme",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

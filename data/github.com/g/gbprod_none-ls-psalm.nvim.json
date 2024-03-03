@@ -16,18 +16,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2024-02-01T10:00:30Z",
-    "description": " Psalm diagnostics plugin for none-ls.nvim",
+    "description": " Psalm diagnostics source for none-ls.nvim",
     "isArchived": false,
-    "lastCommit": "2024-02-07T08:12:34Z",
+    "lastCommit": "2024-02-28T07:43:46Z",
     "nameWithOwner": "gbprod/none-ls-psalm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "none-ls",
+      "none-ls-sources",
+      "null-ls",
+      "null-ls-sources",
+      "nvim",
+      "nvim-plugin",
+      "php",
+      "psalm"
     ]
   },
   "domain": "github.com",

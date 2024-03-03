@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Templaty"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-02-24T19:15:52Z",
+    "description": "A modern Neovim plugin for Templaty with support for Treesitter",
+    "isArchived": false,
+    "lastCommit": "2024-02-26T16:33:40Z",
+    "nameWithOwner": "samvv/templaty.nvim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "templaty.nvim",
+  "owner": "samvv",
+  "url": "https://github.com/samvv/templaty.nvim"
+}

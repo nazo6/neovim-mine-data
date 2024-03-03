@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        },
+        {
+          "level": 4,
+          "name": "Formatter"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-02-28T23:51:36Z",
+    "description": "Use clang-format on :w on .c/.h files",
+    "isArchived": false,
+    "lastCommit": "2024-02-29T09:39:31Z",
+    "nameWithOwner": "marcosantos98/clang-format.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "clang-format.nvim",
+  "owner": "marcosantos98",
+  "url": "https://github.com/marcosantos98/clang-format.nvim"
+}

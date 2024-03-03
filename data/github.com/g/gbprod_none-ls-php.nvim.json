@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2024-01-29T13:03:03Z",
-    "description": "Native PHP diagnostics plugin for none-ls.nvim",
+    "description": "Native PHP diagnostics source for none-ls.nvim",
     "isArchived": false,
-    "lastCommit": "2024-01-30T07:52:36Z",
+    "lastCommit": "2024-02-28T07:46:30Z",
     "nameWithOwner": "gbprod/none-ls-php.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -34,7 +34,9 @@
       "null-ls",
       "nvim",
       "php",
-      "nvim-plugin"
+      "nvim-plugin",
+      "none-ls-sources",
+      "null-ls-sources"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Boolean"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-02-28T21:00:15Z",
+    "description": "A simple plugin to add toggle boolean behaviour to the <C-a>/<C-x> builtin functionality.",
+    "isArchived": false,
+    "lastCommit": "2024-03-01T18:50:05Z",
+    "nameWithOwner": "polirritmico/simple-boolean-toggle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-boolean-toggle.nvim",
+  "owner": "polirritmico",
+  "url": "https://github.com/polirritmico/simple-boolean-toggle.nvim"
+}

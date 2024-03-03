@@ -20,22 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 75,
-    "createdAt": "2023-09-13T07:40:58Z",
-    "description": ":rose: a comfy neovim colorscheme for cozy morning coding.",
+    "commitCountLastYear": 1,
+    "createdAt": "2023-11-15T10:50:42Z",
+    "description": "Synthwave '84 colorscheme port for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-02-20T11:29:48Z",
-    "nameWithOwner": "CrispyBaccoon/evergarden",
+    "lastCommit": "2024-02-22T21:59:57Z",
+    "nameWithOwner": "samharju/synthweave.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 22,
+    "star": 11,
     "topics": [
+      "neovim-colorscheme",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "evergarden",
-  "owner": "CrispyBaccoon",
-  "url": "https://github.com/crispybaccoon/evergarden"
+  "name": "synthweave.nvim",
+  "owner": "samharju",
+  "url": "https://github.com/samharju/synthweave.nvim"
 }

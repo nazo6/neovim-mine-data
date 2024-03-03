@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme overwrite"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-02-24T19:09:24Z",
+    "description": "Goethe is a NeoVim plugin that allows users to persist changes in their color theme without changing their config. It also provides the ability to override highlight groups when switching between themes.",
+    "isArchived": false,
+    "lastCommit": "2024-03-03T01:41:48Z",
+    "nameWithOwner": "JasonBoyett/Goethe.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "Goethe.nvim",
+  "owner": "JasonBoyett",
+  "url": "https://github.com/JasonBoyett/Goethe.nvim"
+}

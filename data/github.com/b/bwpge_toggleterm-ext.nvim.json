@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-02-29T00:42:04Z",
+    "description": "A Neovim plugin extending toggleterm.nvim through new UI elements, functions, commands, and telescope extensions.",
+    "isArchived": false,
+    "lastCommit": "2024-02-29T01:44:13Z",
+    "nameWithOwner": "bwpge/toggleterm-ext.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggleterm-ext.nvim",
+  "owner": "bwpge",
+  "url": "https://github.com/bwpge/toggleterm-ext.nvim"
+}

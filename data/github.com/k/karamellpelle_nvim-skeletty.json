@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 76,
+    "commitCountLastYear": 81,
     "createdAt": "2023-08-21T17:11:14Z",
     "description": "File templates in Neovim powered by nvim-snippy",
     "isArchived": false,
-    "lastCommit": "2023-12-29T20:52:00Z",
+    "lastCommit": "2024-02-26T18:28:39Z",
     "nameWithOwner": "karamellpelle/nvim-skeletty",
     "primaryLanguage": {
       "color": "#000080",
@@ -31,7 +31,11 @@
       "neovim",
       "skeleton",
       "snippets",
-      "template"
+      "template",
+      "code",
+      "file",
+      "snippy",
+      "nvim-snippy"
     ]
   },
   "domain": "github.com",

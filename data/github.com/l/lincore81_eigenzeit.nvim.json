@@ -8,38 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Mark"
+          "name": "New features"
         },
         {
           "level": 3,
-          "name": "bookmark"
+          "name": "Analytics"
         }
       ],
-      "file": "mark.md",
+      "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 84,
-    "createdAt": "2024-02-13T10:56:56Z",
-    "description": null,
+    "commitCountLastYear": 6,
+    "createdAt": "2024-02-11T10:48:39Z",
+    "description": "An automatic work tracker for neovim",
     "isArchived": false,
-    "lastCommit": "2024-02-25T08:32:12Z",
-    "nameWithOwner": "kdnk/bookmarks.lua",
+    "lastCommit": "2024-02-26T19:47:59Z",
+    "nameWithOwner": "lincore81/eigenzeit.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
     "star": 1,
     "topics": [
-      "bookmarks",
-      "lua",
-      "neovim",
-      "nvim"
     ]
   },
   "domain": "github.com",
-  "name": "bookmarks.lua",
-  "owner": "kdnk",
-  "url": "https://github.com/kdnk/bookmarks-cycle-through.nvim"
+  "name": "eigenzeit.nvim",
+  "owner": "lincore81",
+  "url": "https://github.com/lincore81/zeitraum.nvim"
 }

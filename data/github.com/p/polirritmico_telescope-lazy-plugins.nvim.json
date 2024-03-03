@@ -1,0 +1,63 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 60,
+    "createdAt": "2024-02-04T19:18:48Z",
+    "description": "A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.",
+    "isArchived": false,
+    "lastCommit": "2024-02-28T22:12:19Z",
+    "nameWithOwner": "polirritmico/telescope-lazy-plugins.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "lua",
+      "neovim",
+      "telescope-extension",
+      "nvim",
+      "nvim-plugin",
+      "neovim-plugin",
+      "neovim-lua-plugin",
+      "telescope-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-lazy-plugins.nvim",
+  "owner": "polirritmico",
+  "url": "https://github.com/polirritmico/telescope-lazy-plugins.nvim"
+}

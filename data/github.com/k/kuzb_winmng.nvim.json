@@ -8,24 +8,28 @@
         },
         {
           "level": 2,
-          "name": "New features"
+          "name": "Window"
         },
         {
           "level": 3,
-          "name": "Analytics"
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "swap"
         }
       ],
-      "file": "readme.md",
+      "file": "buffer_window_tab-management.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 2,
-    "createdAt": "2024-02-11T10:48:39Z",
-    "description": "An automatic work tracker for neovim",
+    "createdAt": "2024-02-24T14:36:41Z",
+    "description": "Easily pick or swap windows in Neovim",
     "isArchived": false,
-    "lastCommit": "2024-02-11T10:51:30Z",
-    "nameWithOwner": "lincore81/zeitraum.nvim",
+    "lastCommit": "2024-02-24T16:53:48Z",
+    "nameWithOwner": "kuzb/winmng.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +39,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "zeitraum.nvim",
-  "owner": "lincore81",
-  "url": "https://github.com/lincore81/zeitraum.nvim"
+  "name": "winmng.nvim",
+  "owner": "kuzb",
+  "url": "https://github.com/kuzb/winmng.nvim"
 }

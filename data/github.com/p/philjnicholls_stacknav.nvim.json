@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        },
+        {
+          "level": 4,
+          "name": "Stacktrace"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-02-24T05:47:34Z",
+    "description": "Easily navigate Python stacktrace",
+    "isArchived": false,
+    "lastCommit": "2024-02-24T09:12:06Z",
+    "nameWithOwner": "philjnicholls/stacknav.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stacknav.nvim",
+  "owner": "philjnicholls",
+  "url": "https://github.com/philjnicholls/stacknav.nvim"
+}

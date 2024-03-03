@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "refactor"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-02-27T22:14:05Z",
+    "description": "Treesitter powered js and ts utilities as a Neovim Plugin",
+    "isArchived": false,
+    "lastCommit": "2024-03-02T22:06:27Z",
+    "nameWithOwner": "ianjkaplan/shrub.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "shrub.nvim",
+  "owner": "ianjkaplan",
+  "url": "https://github.com/ianjkaplan/shrub.nvim"
+}

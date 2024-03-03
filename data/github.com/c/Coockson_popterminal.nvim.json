@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-02-25T16:00:12Z",
+    "description": "Neovim terminal plugin",
+    "isArchived": false,
+    "lastCommit": "2024-02-25T16:56:18Z",
+    "nameWithOwner": "Coockson/popterminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "popterminal.nvim",
+  "owner": "Coockson",
+  "url": "https://github.com/Coockson/popterminal.nvim"
+}
