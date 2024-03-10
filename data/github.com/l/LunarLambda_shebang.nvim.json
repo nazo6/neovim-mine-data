@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Shebang"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-03-06T14:49:49Z",
+    "description": "[Mirror] - Automatically insert shebang lines into your scripts",
+    "isArchived": false,
+    "lastCommit": "2024-03-07T07:02:51Z",
+    "nameWithOwner": "LunarLambda/shebang.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "shebang.nvim",
+  "owner": "LunarLambda",
+  "url": "https://github.com/LunarLambda/shebang.nvim"
+}

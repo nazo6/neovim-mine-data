@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 34,
     "createdAt": "2023-01-20T16:28:47Z",
     "description": "A simple AsciiDoc preview while editing AsciiDoc documents in Neovim",
     "isArchived": false,
-    "lastCommit": "2024-02-29T20:21:37Z",
+    "lastCommit": "2024-03-09T17:41:49Z",
     "nameWithOwner": "tigion/nvim-asciidoc-preview",
     "primaryLanguage": {
-      "color": "#f1e05a",
-      "name": "JavaScript"
+      "color": "#000080",
+      "name": "Lua"
     },
-    "star": 14,
+    "star": 15,
     "topics": [
       "lua",
       "neovim",

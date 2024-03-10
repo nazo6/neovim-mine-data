@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Edit History"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2024-03-02T17:38:15Z",
+    "description": "Plugin for Neovim which tracks edit locations",
+    "isArchived": false,
+    "lastCommit": "2024-03-08T17:25:33Z",
+    "nameWithOwner": "bloznelis/before.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 87,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "before.nvim",
+  "owner": "bloznelis",
+  "url": "https://github.com/bloznelis/before.nvim"
+}

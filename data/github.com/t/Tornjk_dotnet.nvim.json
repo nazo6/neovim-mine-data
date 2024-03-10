@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotnet"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-03-07T07:28:04Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-03-08T10:16:37Z",
+    "nameWithOwner": "Tornjk/dotnet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotnet.nvim",
+  "owner": "Tornjk",
+  "url": "https://github.com/Tornjk/dotnet.nvim"
+}

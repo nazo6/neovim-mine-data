@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-03-07T00:06:19Z",
+    "description": "A Neovim plugin that allows you to create zettels for your zettelkasten note taking method quickly with template files.",
+    "isArchived": false,
+    "lastCommit": "2024-03-09T18:25:11Z",
+    "nameWithOwner": "grezxune/zettel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "notes",
+      "notetaking",
+      "nvim",
+      "plugin",
+      "zettel",
+      "zettelkasten"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zettel.nvim",
+  "owner": "grezxune",
+  "url": "https://github.com/grezxune/zettel.nvim"
+}

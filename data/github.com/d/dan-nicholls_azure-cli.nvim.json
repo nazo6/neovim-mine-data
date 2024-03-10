@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Azure"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-03-06T07:58:07Z",
+    "description": "Nvim plugin providing a seamless interface for executing Azure CLI commands directly within the editor.",
+    "isArchived": false,
+    "lastCommit": "2024-03-10T08:22:19Z",
+    "nameWithOwner": "dan-nicholls/azure-cli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "azure-cli.nvim",
+  "owner": "dan-nicholls",
+  "url": "https://github.com/dan-nicholls/azure-cli.nvim"
+}

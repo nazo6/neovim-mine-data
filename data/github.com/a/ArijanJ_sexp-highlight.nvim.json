@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Current block highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-03-02T19:35:36Z",
+    "description": "Highlights the background of s-expressions to help code readability",
+    "isArchived": false,
+    "lastCommit": "2024-03-02T20:21:45Z",
+    "nameWithOwner": "ArijanJ/sexp-highlight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sexp-highlight.nvim",
+  "owner": "ArijanJ",
+  "url": "https://github.com/ArijanJ/sexp-highlight.nvim"
+}

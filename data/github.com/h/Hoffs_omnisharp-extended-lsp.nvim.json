@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 26,
     "createdAt": "2021-09-26T16:47:45Z",
-    "description": "Extended 'textDocument/definition' handler for OmniSharp Neovim LSP",
+    "description": "Extended 'textDocument/definition' handler for OmniSharp Neovim LSP (now also `textDocument/references`, `textDocument/implementation` and source generated files)",
     "isArchived": false,
-    "lastCommit": "2023-12-25T09:32:03Z",
+    "lastCommit": "2024-03-09T14:43:23Z",
     "nameWithOwner": "Hoffs/omnisharp-extended-lsp.nvim",
     "primaryLanguage": {
       "color": "#000080",

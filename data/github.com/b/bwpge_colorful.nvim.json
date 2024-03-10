@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-03-06T00:50:36Z",
+    "description": "A Neovim plugin providing a robust API for manipulating colors and highlight groups.",
+    "isArchived": false,
+    "lastCommit": "2024-03-09T05:37:44Z",
+    "nameWithOwner": "bwpge/colorful.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "colorful.nvim",
+  "owner": "bwpge",
+  "url": "https://github.com/bwpge/colorful.nvim"
+}

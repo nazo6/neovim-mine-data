@@ -34,18 +34,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 29,
     "createdAt": "2023-03-08T06:49:53Z",
     "description": "☀️ A vim plugin for highlighting and navigating through different words in a buffer.",
     "isArchived": false,
-    "lastCommit": "2024-01-12T09:26:29Z",
+    "lastCommit": "2024-03-09T10:25:41Z",
     "nameWithOwner": "Mr-LLLLL/interestingwords.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 32,
+    "star": 34,
     "topics": [
+      "highlighting",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

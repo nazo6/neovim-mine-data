@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "kernel"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-03-04T15:21:58Z",
+    "description": "Simple wrapper for Linux' get_maintainer.pl",
+    "isArchived": false,
+    "lastCommit": "2024-03-04T17:36:52Z",
+    "nameWithOwner": "rbmarliere/get_maintainer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "get_maintainer.nvim",
+  "owner": "rbmarliere",
+  "url": "https://github.com/rbmarliere/get_maintainer.nvim"
+}

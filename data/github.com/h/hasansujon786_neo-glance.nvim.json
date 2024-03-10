@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2024-03-08T09:54:04Z",
+    "description": "Peek, jump and edit across your code in one place powered by LSP. Enhanced & refactored fork of glance.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-03-09T12:59:35Z",
+    "nameWithOwner": "hasansujon786/neo-glance.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neo-glance.nvim",
+  "owner": "hasansujon786",
+  "url": "https://github.com/hasansujon786/neo-glance.nvim"
+}

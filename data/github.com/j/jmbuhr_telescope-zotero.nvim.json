@@ -8,24 +8,24 @@
         },
         {
           "level": 3,
-          "name": "C/C++"
+          "name": "Web"
         },
         {
           "level": 4,
-          "name": "Cmake"
+          "name": "Zotero"
         }
       ],
-      "file": "c_cpp.md",
+      "file": "web-service.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 42,
-    "createdAt": "2023-10-29T00:19:41Z",
-    "description": "cmake-tools implementation for nvim",
+    "commitCountLastYear": 3,
+    "createdAt": "2024-03-08T11:48:29Z",
+    "description": "List references from your local zotero library and add them to a bib file",
     "isArchived": false,
-    "lastCommit": "2023-11-28T03:26:55Z",
-    "nameWithOwner": "XDeme/cmake-kits.nvim",
+    "lastCommit": "2024-03-08T14:11:50Z",
+    "nameWithOwner": "jmbuhr/telescope-zotero.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "cmake-kits.nvim",
-  "owner": "XDeme",
-  "url": "https://github.com/XDeme/cmake-kits.nvim"
+  "name": "telescope-zotero.nvim",
+  "owner": "jmbuhr",
+  "url": "https://github.com/jmbuhr/telescope-zotero.nvim"
 }

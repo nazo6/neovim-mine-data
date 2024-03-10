@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Command style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-03-03T10:51:34Z",
+    "description": "compile like in emacs",
+    "isArchived": false,
+    "lastCommit": "2024-03-03T12:22:12Z",
+    "nameWithOwner": "paulfrische/compile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "compile.nvim",
+  "owner": "paulfrische",
+  "url": "https://github.com/paulfrische/compile.nvim"
+}

@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "Spell"
-        }
       ],
-      "file": "spellcheck.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2023-01-25T22:15:02Z",
     "description": null,
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-01-25T18:20:45Z",
     "nameWithOwner": "Jan9103/download-lang-files.nvim",
     "primaryLanguage": {

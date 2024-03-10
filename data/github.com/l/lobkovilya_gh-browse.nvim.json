@@ -18,7 +18,7 @@
   "data": {
     "commitCountLastYear": 8,
     "createdAt": "2024-03-01T20:37:25Z",
-    "description": "Neovim plugin that allows you to quickly open the GitHub page of the file you're currently editing, directly at the cursor's line.",
+    "description": "Neovim plugin that allows you to quickly open the GitHub page of the file you're currently editing directly at the cursor's line.",
     "isArchived": false,
     "lastCommit": "2024-03-01T21:57:37Z",
     "nameWithOwner": "lobkovilya/gh-browse.nvim",
@@ -28,6 +28,12 @@
     },
     "star": 4,
     "topics": [
+      "browse",
+      "code",
+      "gh",
+      "navigate",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",
