@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Multiple word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-12-08T14:29:32Z",
+    "description": "Highlight words with different colors in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-02-25T12:30:09Z",
+    "nameWithOwner": "dwrdx/mywords.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "highlight",
+      "neovim",
+      "neovim-plugin",
+      "neovim-lua-plugin",
+      "neovim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mywords.nvim",
+  "owner": "dwrdx",
+  "url": "https://github.com/dwrdx/mywords.nvim"
+}

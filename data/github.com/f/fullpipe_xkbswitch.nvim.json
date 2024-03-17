@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Keyboard Layout"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-03-10T00:13:01Z",
+    "description": "neovim plugin for painless keyboard layout switches",
+    "isArchived": false,
+    "lastCommit": "2024-03-10T15:34:16Z",
+    "nameWithOwner": "fullpipe/xkbswitch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "xkbswitch.nvim",
+  "owner": "fullpipe",
+  "url": "https://github.com/fullpipe/xkbswitch.nvim"
+}

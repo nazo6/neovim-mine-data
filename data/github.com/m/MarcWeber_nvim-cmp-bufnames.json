@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "nvim-cmp extension"
+        },
+        {
+          "level": 4,
+          "name": "nvim-cmp sources"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-03-11T17:40:44Z",
+    "description": "buf name completion for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-03-11T21:09:54Z",
+    "nameWithOwner": "MarcWeber/nvim-cmp-bufnames",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp-bufnames",
+  "owner": "MarcWeber",
+  "url": "https://github.com/MarcWeber/nvim-cmp-bufnames"
+}

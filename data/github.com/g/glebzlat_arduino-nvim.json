@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 17,
     "createdAt": "2022-12-25T14:47:09Z",
     "description": "Simple arduino-language-server wrapper for nvim",
     "isArchived": false,
-    "lastCommit": "2023-12-03T13:45:02Z",
-    "nameWithOwner": "glebzlat/Arduino.nvim",
+    "lastCommit": "2024-03-10T14:55:42Z",
+    "nameWithOwner": "glebzlat/arduino-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 26,
+    "star": 27,
     "topics": [
       "neovim",
       "arduino",
@@ -44,7 +44,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "Arduino.nvim",
+  "name": "arduino-nvim",
   "owner": "glebzlat",
   "url": "https://github.com/edKotinsky/ArduinoLSP.nvim"
 }

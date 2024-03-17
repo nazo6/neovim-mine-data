@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Marp"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-03-09T11:34:36Z",
+    "description": "Neovim plugin for previewing markdown presentations using Marp.",
+    "isArchived": false,
+    "lastCommit": "2024-03-10T20:33:21Z",
+    "nameWithOwner": "thmshmm/marp-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "marp-cli",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "marp-preview.nvim",
+  "owner": "thmshmm",
+  "url": "https://github.com/thmshmm/marp-preview.nvim"
+}

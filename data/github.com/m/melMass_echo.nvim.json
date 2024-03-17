@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "event sound"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2024-03-09T12:07:12Z",
+    "description": "🔊 Seamlessly integrate sound into your Neovim workflow",
+    "isArchived": false,
+    "lastCommit": "2024-03-11T12:57:16Z",
+    "nameWithOwner": "melMass/echo.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "rust"
+    ]
+  },
+  "domain": "github.com",
+  "name": "echo.nvim",
+  "owner": "melMass",
+  "url": "https://github.com/melMass/echo.nvim"
+}

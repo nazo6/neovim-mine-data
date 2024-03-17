@@ -1,0 +1,35 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 223,
+    "createdAt": "2024-02-04T20:46:47Z",
+    "description": "Distro agnostic components for your Neovim heirline config",
+    "isArchived": false,
+    "lastCommit": "2024-03-12T22:26:42Z",
+    "nameWithOwner": "Zeioth/heirline-components.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "heirline-components.nvim",
+  "owner": "Zeioth",
+  "url": "https://github.com/Zeioth/heirline-components.nvim"
+}

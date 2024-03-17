@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Convert Word"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-03-09T14:40:07Z",
+    "description": "The neovim plug-in can replace the word under the cursor with its antonym",
+    "isArchived": false,
+    "lastCommit": "2024-03-12T01:20:54Z",
+    "nameWithOwner": "gczcn/antonym.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "antonym.nvim",
+  "owner": "gczcn",
+  "url": "https://github.com/gczcn/antonym.nvim"
+}

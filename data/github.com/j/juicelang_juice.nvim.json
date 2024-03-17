@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Juice"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-03-11T22:54:38Z",
+    "description": "A Neovim plugin for Juice",
+    "isArchived": false,
+    "lastCommit": "2024-03-16T01:53:28Z",
+    "nameWithOwner": "juicelang/juice.nvim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "juice.nvim",
+  "owner": "juicelang",
+  "url": "https://github.com/juicelang/juice.nvim"
+}

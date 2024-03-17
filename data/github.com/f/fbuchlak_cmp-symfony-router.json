@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "PHP"
+        },
+        {
+          "level": 4,
+          "name": "Symfony"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-02-10T22:20:11Z",
+    "description": "Source of symfony routes for nvim-cmp",
+    "isArchived": false,
+    "lastCommit": "2024-02-11T20:23:39Z",
+    "nameWithOwner": "fbuchlak/cmp-symfony-router",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "nvim-cmp",
+      "symfony",
+      "symfony-router"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-symfony-router",
+  "owner": "fbuchlak",
+  "url": "https://github.com/fbuchlak/cmp-symfony-router"
+}

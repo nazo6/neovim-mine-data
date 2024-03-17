@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 27,
     "createdAt": "2024-03-02T17:38:15Z",
-    "description": "Plugin for Neovim which tracks edit locations",
+    "description": "Jump to the last edit in Neovim",
     "isArchived": false,
-    "lastCommit": "2024-03-08T17:25:33Z",
+    "lastCommit": "2024-03-16T11:01:03Z",
     "nameWithOwner": "bloznelis/before.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 87,
+    "star": 90,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

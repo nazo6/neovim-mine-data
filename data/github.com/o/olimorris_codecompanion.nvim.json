@@ -8,18 +8,10 @@
         },
         {
           "level": 2,
-          "name": "OS"
-        },
-        {
-          "level": 3,
-          "name": "Linux"
-        },
-        {
-          "level": 4,
-          "name": "X11"
+          "name": "Chat"
         }
       ],
-      "file": "os.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,7 +22,7 @@
         },
         {
           "level": 2,
-          "name": "Split and Window"
+          "name": "AI"
         }
       ],
       "file": "README.md",
@@ -38,32 +30,30 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
-    "createdAt": "2023-12-15T13:05:57Z",
-    "description": "A display window manager in neovim",
+    "commitCountLastYear": 209,
+    "createdAt": "2023-12-27T17:32:51Z",
+    "description": "✨ A Copilot Chat like experience in Neovim. Supports Anthropic, Ollama and OpenAI",
     "isArchived": false,
-    "lastCommit": "2024-02-26T07:29:12Z",
-    "nameWithOwner": "altermo/nxwm",
+    "lastCommit": "2024-03-15T11:56:19Z",
+    "nameWithOwner": "olimorris/codecompanion.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 146,
+    "star": 21,
     "topics": [
-      "lua",
-      "lua-ffi",
-      "luajit-ffi",
       "neovim",
-      "neovim-lua",
-      "neovim-lua-plugin",
-      "neovim-plugin",
-      "nvim",
-      "nvim-lua",
-      "nvim-plugin"
+      "openai",
+      "nvim-plugin",
+      "anthropic",
+      "ollama",
+      "plugin",
+      "copilot",
+      "copilot-chat"
     ]
   },
   "domain": "github.com",
-  "name": "nxwm",
-  "owner": "altermo",
-  "url": "https://github.com/altermo/nxwm"
+  "name": "codecompanion.nvim",
+  "owner": "olimorris",
+  "url": "https://github.com/olimorris/codecompanion.nvim"
 }

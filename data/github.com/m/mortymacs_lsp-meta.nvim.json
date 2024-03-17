@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Progress"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-03-12T17:37:21Z",
+    "description": "Utilize Neovim LSP to display details about elements",
+    "isArchived": false,
+    "lastCommit": "2024-03-12T21:08:42Z",
+    "nameWithOwner": "mortymacs/lsp-meta.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-meta.nvim",
+  "owner": "mortymacs",
+  "url": "https://github.com/mortymacs/lsp-meta.nvim"
+}

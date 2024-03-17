@@ -17,20 +17,38 @@
       ],
       "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "(requires Neovim 0.5)"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 161,
+    "commitCountLastYear": 162,
     "createdAt": "2023-11-05T02:27:10Z",
     "description": "Garbage collector that stops inactive LSP clients to free RAM",
     "isArchived": false,
-    "lastCommit": "2024-03-09T21:00:11Z",
+    "lastCommit": "2024-03-10T22:05:34Z",
     "nameWithOwner": "Zeioth/garbage-day.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 117,
+    "star": 134,
     "topics": [
     ]
   },
