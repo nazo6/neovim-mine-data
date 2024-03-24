@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "CWD"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-03-19T01:44:39Z",
+    "description": "Virtual working directory for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-03-19T16:23:18Z",
+    "nameWithOwner": "prichrd/vwd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vwd.nvim",
+  "owner": "prichrd",
+  "url": "https://github.com/prichrd/vwd.nvim"
+}

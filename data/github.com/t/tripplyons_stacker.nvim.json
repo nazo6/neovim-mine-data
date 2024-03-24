@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "open"
+        },
+        {
+          "level": 5,
+          "name": "recent file"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-03-21T16:48:04Z",
+    "description": "Quickly access and manage recently used neovim buffers",
+    "isArchived": false,
+    "lastCommit": "2024-03-22T17:28:46Z",
+    "nameWithOwner": "tripplyons/stacker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stacker.nvim",
+  "owner": "tripplyons",
+  "url": "https://github.com/tripplyons/stacker.nvim"
+}

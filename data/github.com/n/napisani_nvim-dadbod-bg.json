@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2024-02-24T21:35:07Z",
+    "description": "a remote neovim plugin for viewing Dadbod query results in a web browser",
+    "isArchived": false,
+    "lastCommit": "2024-03-14T00:39:00Z",
+    "nameWithOwner": "napisani/nvim-dadbod-bg",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 12,
+    "topics": [
+      "dadbod",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dadbod-bg",
+  "owner": "napisani",
+  "url": "https://github.com/napisani/nvim-dadbod-bg"
+}

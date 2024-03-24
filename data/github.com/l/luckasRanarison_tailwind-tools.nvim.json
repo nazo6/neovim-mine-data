@@ -1,0 +1,68 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "CSS"
+        },
+        {
+          "level": 5,
+          "name": "tailwind"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Web Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-03-17T17:43:07Z",
+    "description": "UNOFFICIAL Tailwind CSS integration and tooling for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-03-24T09:02:40Z",
+    "nameWithOwner": "luckasRanarison/tailwind-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 87,
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin",
+      "tailwindcss",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tailwind-tools.nvim",
+  "owner": "luckasRanarison",
+  "url": "https://github.com/luckasRanarison/tailwind-tools.nvim"
+}

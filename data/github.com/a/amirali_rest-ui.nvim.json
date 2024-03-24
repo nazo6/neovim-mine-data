@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-03-22T23:14:26Z",
+    "description": "Simple UI for https://github.com/rest-nvim/rest.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-03-22T23:13:49Z",
+    "nameWithOwner": "amirali/rest-ui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rest-ui.nvim",
+  "owner": "amirali",
+  "url": "https://github.com/amirali/rest-ui.nvim"
+}

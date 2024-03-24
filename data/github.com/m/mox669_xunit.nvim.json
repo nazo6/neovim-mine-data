@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotnet"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-09-17T18:00:02Z",
+    "description": "xUnit testsuite for neovim",
+    "isArchived": false,
+    "lastCommit": "2022-10-03T19:06:35Z",
+    "nameWithOwner": "mox669/xunit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "xunit.nvim",
+  "owner": "mox669",
+  "url": "https://github.com/olekatpyle/xunit.nvim"
+}

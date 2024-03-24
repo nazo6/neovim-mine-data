@@ -4,6 +4,24 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Bars and Lines"
+        },
+        {
+          "level": 3,
+          "name": "Statusline"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Statusline"
         }
       ],
@@ -22,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 33,
+    "star": 38,
     "topics": [
       "neovim-plugin",
       "neovim-plugins"
@@ -31,5 +49,5 @@
   "domain": "github.com",
   "name": "heirline-components.nvim",
   "owner": "Zeioth",
-  "url": "https://github.com/Zeioth/heirline-components.nvim"
+  "url": "https://github.com/zeioth/heirline-components.nvim"
 }

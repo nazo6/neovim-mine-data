@@ -30,18 +30,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 8,
     "createdAt": "2024-03-09T08:55:55Z",
     "description": "Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.",
     "isArchived": false,
-    "lastCommit": "2024-03-13T19:45:00Z",
+    "lastCommit": "2024-03-22T08:22:45Z",
     "nameWithOwner": "altermo/iedit.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10,
+    "star": 11,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim",
+      "iedit",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

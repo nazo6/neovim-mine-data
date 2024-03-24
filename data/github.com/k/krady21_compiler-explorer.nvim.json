@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 11,
     "createdAt": "2021-09-13T14:59:32Z",
     "description": "Run compilers and inspect assembly directly from Neovim with the help of https://godbolt.org",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 123,
+    "star": 125,
     "topics": [
       "assembly",
       "compiler-explorer",

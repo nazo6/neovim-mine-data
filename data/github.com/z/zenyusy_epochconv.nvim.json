@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Date"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-03-16T17:25:39Z",
+    "description": "convert between epoch and datetime",
+    "isArchived": false,
+    "lastCommit": "2024-03-16T17:31:45Z",
+    "nameWithOwner": "zenyusy/epochconv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "epochconv.nvim",
+  "owner": "zenyusy",
+  "url": "https://github.com/zenyusy/epochconv.nvim"
+}

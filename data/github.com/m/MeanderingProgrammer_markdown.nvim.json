@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2024-03-18T04:13:43Z",
+    "description": "Plugin to improve viewing Markdown files in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-03-23T22:03:14Z",
+    "nameWithOwner": "MeanderingProgrammer/markdown.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 70,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "markdown",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown.nvim",
+  "owner": "MeanderingProgrammer",
+  "url": "https://github.com/MeanderingProgrammer/markdown.nvim"
+}

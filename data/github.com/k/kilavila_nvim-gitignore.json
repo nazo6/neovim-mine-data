@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "gitignore"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2024-03-16T02:22:43Z",
+    "description": "Generate gitignore files without leaving Neovim..",
+    "isArchived": false,
+    "lastCommit": "2024-03-18T10:15:25Z",
+    "nameWithOwner": "kilavila/nvim-gitignore",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim-plugin",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gitignore",
+  "owner": "kilavila",
+  "url": "https://github.com/kilavila/nvim-gitignore"
+}

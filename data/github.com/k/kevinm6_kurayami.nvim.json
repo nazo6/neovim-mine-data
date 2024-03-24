@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-12-30T08:03:12Z",
+    "description": "Dark only theme for Neovim with treesitter support",
+    "isArchived": false,
+    "lastCommit": "2024-03-20T11:45:08Z",
+    "nameWithOwner": "kevinm6/kurayami.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "nvim-theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kurayami.nvim",
+  "owner": "kevinm6",
+  "url": "https://github.com/kevinm6/kurayami.nvim"
+}

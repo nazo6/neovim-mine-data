@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme file"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-03-18T09:55:13Z",
+    "description": "Persist neovim color scheme to a file",
+    "isArchived": false,
+    "lastCommit": "2024-03-18T09:58:25Z",
+    "nameWithOwner": "mr55p-dev/color-control.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "color-control.nvim",
+  "owner": "mr55p-dev",
+  "url": "https://github.com/mr55p-dev/color-control.nvim"
+}

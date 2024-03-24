@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Cowsay"
+        },
+        {
+          "level": 4,
+          "name": "Edit Info"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-03-20T12:34:37Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-03-21T15:43:34Z",
+    "nameWithOwner": "idanarye/nvim-days-without",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-days-without",
+  "owner": "idanarye",
+  "url": "https://github.com/idanarye/nvim-days-without"
+}

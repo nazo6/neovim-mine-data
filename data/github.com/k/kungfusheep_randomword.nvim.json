@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Refactoring,Debugging"
+        },
+        {
+          "level": 4,
+          "name": "print debug"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-03-05T02:59:46Z",
+    "description": "A neovim plugin to generate random words for printf debugging ",
+    "isArchived": false,
+    "lastCommit": "2024-03-15T21:48:35Z",
+    "nameWithOwner": "kungfusheep/randomword.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "randomword.nvim",
+  "owner": "kungfusheep",
+  "url": "https://github.com/kungfusheep/randomword.nvim"
+}

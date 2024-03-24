@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        },
+        {
+          "level": 4,
+          "name": "visidata"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Debugging"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-03-19T07:46:10Z",
+    "description": "A plugin for neovim to render pandas dataframes in [nvim-dap][1] using the power of [visidata][2].",
+    "isArchived": false,
+    "lastCommit": "2024-03-19T07:47:57Z",
+    "nameWithOwner": "Willem-J-an/visidata.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "visidata.nvim",
+  "owner": "Willem-J-an",
+  "url": "https://github.com/Willem-J-an/visidata.nvim"
+}

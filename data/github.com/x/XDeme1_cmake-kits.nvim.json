@@ -8,34 +8,34 @@
         },
         {
           "level": 3,
-          "name": "CLI"
+          "name": "C/C++"
         },
         {
           "level": 4,
-          "name": "dotnet"
+          "name": "Cmake"
         }
       ],
-      "file": "cli.md",
+      "file": "c_cpp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2022-09-17T18:00:02Z",
-    "description": "xUnit testsuite for neovim",
+    "commitCountLastYear": 42,
+    "createdAt": "2023-10-29T00:19:41Z",
+    "description": "cmake-tools implementation for nvim",
     "isArchived": false,
-    "lastCommit": "2022-10-03T19:06:35Z",
-    "nameWithOwner": "olekatpyle/xunit.nvim",
+    "lastCommit": "2023-11-28T03:26:55Z",
+    "nameWithOwner": "XDeme1/cmake-kits.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "xunit.nvim",
-  "owner": "olekatpyle",
-  "url": "https://github.com/olekatpyle/xunit.nvim"
+  "name": "cmake-kits.nvim",
+  "owner": "XDeme1",
+  "url": "https://github.com/XDeme/cmake-kits.nvim"
 }

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "CSS"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-03-14T15:43:49Z",
+    "description": "Neovim plugin for css variable autocompletion",
+    "isArchived": false,
+    "lastCommit": "2024-03-20T07:32:30Z",
+    "nameWithOwner": "jdrupal-dev/css-vars.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "css-variables",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "css-vars.nvim",
+  "owner": "jdrupal-dev",
+  "url": "https://github.com/jdrupal-dev/css-vars.nvim"
+}

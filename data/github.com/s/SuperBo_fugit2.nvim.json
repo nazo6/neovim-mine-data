@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 136,
+    "createdAt": "2023-10-13T07:36:33Z",
+    "description": "A porcelain git helper inside Neovim powered by libgit2",
+    "isArchived": false,
+    "lastCommit": "2024-03-23T08:33:21Z",
+    "nameWithOwner": "SuperBo/fugit2.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 168,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "libgit2"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fugit2.nvim",
+  "owner": "SuperBo",
+  "url": "https://github.com/SuperBo/fugit2.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Diagram"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-03-16T22:59:03Z",
+    "description": "Use Diagon within neovim and retain the instructions so they can be modified",
+    "isArchived": false,
+    "lastCommit": "2024-03-19T00:01:57Z",
+    "nameWithOwner": "McKean/diagon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagon.nvim",
+  "owner": "McKean",
+  "url": "https://github.com/McKean/diagon.nvim"
+}

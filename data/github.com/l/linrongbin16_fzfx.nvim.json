@@ -26,23 +26,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 698,
+    "commitCountLastYear": 719,
     "createdAt": "2023-07-26T09:58:20Z",
-    "description": "A fzf fuzzy finder that updates on every user keystroke.",
+    "description": "A Neovim fuzzy finder that updates on every keystroke.",
     "isArchived": false,
-    "lastCommit": "2024-03-17T06:28:25Z",
+    "lastCommit": "2024-03-21T05:37:00Z",
     "nameWithOwner": "linrongbin16/fzfx.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 85,
+    "star": 90,
     "topics": [
       "neovim",
       "neovim-plugin",
       "lua",
-      "plugin",
-      "vim"
+      "plugin"
     ]
   },
   "domain": "github.com",

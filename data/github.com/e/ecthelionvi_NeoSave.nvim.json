@@ -2,24 +2,16 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Save"
-        }
       ],
-      "file": "save_backup.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 85,
+    "commitCountLastYear": 64,
     "createdAt": "2023-03-21T21:55:28Z",
     "description": "Neovim plugin for auto-saving with buffer options and toggle.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-10-05T16:08:31Z",
     "nameWithOwner": "ecthelionvi/NeoSave.nvim",
     "primaryLanguage": {

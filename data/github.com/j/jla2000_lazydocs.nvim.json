@@ -12,7 +12,7 @@
         },
         {
           "level": 4,
-          "name": "Cmake"
+          "name": "Doxygen"
         }
       ],
       "file": "c_cpp.md",
@@ -20,12 +20,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 42,
-    "createdAt": "2023-10-29T00:19:41Z",
-    "description": "cmake-tools implementation for nvim",
+    "commitCountLastYear": 11,
+    "createdAt": "2024-03-20T13:01:40Z",
+    "description": "Neovim plugin that can generate doxygen comments using treesitter",
     "isArchived": false,
-    "lastCommit": "2023-11-28T03:26:55Z",
-    "nameWithOwner": "Fernando-Tagawa/cmake-kits.nvim",
+    "lastCommit": "2024-03-21T13:51:46Z",
+    "nameWithOwner": "jla2000/lazydocs.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "cmake-kits.nvim",
-  "owner": "Fernando-Tagawa",
-  "url": "https://github.com/XDeme/cmake-kits.nvim"
+  "name": "lazydocs.nvim",
+  "owner": "jla2000",
+  "url": "https://github.com/jla2000/lazydocs.nvim"
 }

@@ -2,8 +2,20 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
       ],
-      "file": "Archived.md",
+      "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

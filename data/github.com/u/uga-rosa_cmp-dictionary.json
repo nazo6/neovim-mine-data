@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
-          "name": "Dictionary"
-        }
       ],
-      "file": "readme.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,14 +11,14 @@
     "commitCountLastYear": 47,
     "createdAt": "2021-09-26T08:01:17Z",
     "description": "A dictionary completion source for nvim-cmp",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-03-03T04:03:25Z",
     "nameWithOwner": "uga-rosa/cmp-dictionary",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 230,
+    "star": 231,
     "topics": [
       "nvim-cmp",
       "neovim-plugin",
