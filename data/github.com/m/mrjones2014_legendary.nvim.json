@@ -8,14 +8,14 @@
         },
         {
           "level": 2,
-          "name": "New features"
+          "name": "Multiple Command"
         },
         {
           "level": 3,
           "name": "Command Palette"
         }
       ],
-      "file": "readme.md",
+      "file": "command.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 182,
+    "commitCountLastYear": 154,
     "createdAt": "2022-02-02T14:27:52Z",
     "description": "🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.",
     "isArchived": false,
-    "lastCommit": "2024-03-23T15:19:15Z",
+    "lastCommit": "2024-03-29T15:25:58Z",
     "nameWithOwner": "mrjones2014/legendary.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 969,
+    "star": 973,
     "topics": [
       "neovim",
       "neovim-plugin",

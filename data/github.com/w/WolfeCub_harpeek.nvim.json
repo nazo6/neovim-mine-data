@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-03-26T22:04:39Z",
+    "description": "A simple plugin that allows you to _peek_ at your harpoon/grapple lists.",
+    "isArchived": false,
+    "lastCommit": "2024-03-30T03:12:24Z",
+    "nameWithOwner": "WolfeCub/harpeek.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "harpeek.nvim",
+  "owner": "WolfeCub",
+  "url": "https://github.com/WolfeCub/harpeek.nvim"
+}

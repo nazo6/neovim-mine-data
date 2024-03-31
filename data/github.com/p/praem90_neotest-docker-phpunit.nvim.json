@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "PHP"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-03-26T16:55:07Z",
+    "description": "Nvim plugin for PHPUnit docker adapter for neotest. Its just an extended version of neotest-phpunit",
+    "isArchived": false,
+    "lastCommit": "2024-03-28T05:54:51Z",
+    "nameWithOwner": "praem90/neotest-docker-phpunit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neotest-docker-phpunit.nvim",
+  "owner": "praem90",
+  "url": "https://github.com/praem90/neotest-docker-phpunit.nvim"
+}

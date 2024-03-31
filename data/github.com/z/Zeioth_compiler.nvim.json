@@ -34,20 +34,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1078,
+    "commitCountLastYear": 1093,
     "createdAt": "2023-06-16T04:08:47Z",
     "description": "Neovim compiler for building and running your code without having to configure anything",
     "isArchived": false,
-    "lastCommit": "2024-03-23T03:15:59Z",
+    "lastCommit": "2024-03-27T02:28:36Z",
     "nameWithOwner": "Zeioth/compiler.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 352,
+    "star": 356,
     "topics": [
       "nvim-plugin",
-      "nvim-plugins"
+      "nvim-plugins",
+      "compiler"
     ]
   },
   "domain": "github.com",

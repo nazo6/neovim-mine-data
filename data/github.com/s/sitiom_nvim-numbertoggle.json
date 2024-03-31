@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 5,
     "createdAt": "2022-07-04T10:24:08Z",
     "description": "Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.",
     "isArchived": false,
-    "lastCommit": "2024-02-12T08:54:46Z",
+    "lastCommit": "2024-03-29T08:35:26Z",
     "nameWithOwner": "sitiom/nvim-numbertoggle",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 129,
+    "star": 130,
     "topics": [
       "line-numbers",
       "lua",

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2024-03-23T05:03:08Z",
+    "description": "A buffer list that's always with you,quickly switch buf and prompt unsaved files!",
+    "isArchived": false,
+    "lastCommit": "2024-03-26T03:53:02Z",
+    "nameWithOwner": "0x7a7a/bufpin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufpin.nvim",
+  "owner": "0x7a7a",
+  "url": "https://github.com/0x7a7a/bufpin.nvim"
+}

@@ -16,18 +16,19 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 11,
     "createdAt": "2024-03-22T23:34:13Z",
     "description": "A very minimal start screen for neovim which displays a random quote. ",
     "isArchived": false,
-    "lastCommit": "2024-03-23T11:13:31Z",
+    "lastCommit": "2024-03-25T18:35:18Z",
     "nameWithOwner": "kungfusheep/randomquote.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 4,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

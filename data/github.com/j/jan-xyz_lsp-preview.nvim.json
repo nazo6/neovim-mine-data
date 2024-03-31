@@ -8,38 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Documentation"
+          "name": "LSP"
         },
         {
           "level": 3,
-          "name": "Markdown"
+          "name": "LSP Feature Extension UI"
         },
         {
           "level": 4,
-          "name": "Markdown link"
+          "name": "Code action"
         }
       ],
-      "file": "documentation.md",
+      "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
-    "createdAt": "2023-11-22T09:58:36Z",
-    "description": "My personal wiki plugin for Neovim.",
+    "commitCountLastYear": 41,
+    "createdAt": "2024-03-27T18:20:42Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2023-11-23T11:35:32Z",
-    "nameWithOwner": "RunfengTsui/wiki.nvim",
+    "lastCommit": "2024-03-29T17:19:20Z",
+    "nameWithOwner": "jan-xyz/lsp-preview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "wiki.nvim",
-  "owner": "RunfengTsui",
-  "url": "https://github.com/RunfengTsui/wiki.nvim"
+  "name": "lsp-preview.nvim",
+  "owner": "jan-xyz",
+  "url": "https://github.com/jan-xyz/lsp-preview.nvim"
 }

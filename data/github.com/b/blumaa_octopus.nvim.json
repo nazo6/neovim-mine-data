@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 4,
     "createdAt": "2024-03-06T00:52:32Z",
-    "description": null,
+    "description": "this is a simple and stupid plugin that makes random octupi dance across your IDE.",
     "isArchived": false,
     "lastCommit": "2024-03-21T13:41:13Z",
     "nameWithOwner": "blumaa/octopus.nvim",
@@ -30,8 +30,12 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
+      "neovim",
+      "nvim",
+      "nvim-lua",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

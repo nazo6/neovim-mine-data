@@ -8,34 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Go"
+          "name": "Documentation"
         },
         {
           "level": 3,
-          "name": "implement"
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown checkbox"
         }
       ],
-      "file": "go.md",
+      "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
-    "createdAt": "2024-02-25T11:12:41Z",
+    "commitCountLastYear": 2,
+    "createdAt": "2024-03-27T18:09:42Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-03-11T21:37:12Z",
-    "nameWithOwner": "relardev/go-component-generator.nvim",
+    "lastCommit": "2024-03-27T21:37:15Z",
+    "nameWithOwner": "purrutia/checkbox_toggle.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "go-component-generator.nvim",
-  "owner": "relardev",
-  "url": "https://github.com/relardev/go-component-generator.nvim"
+  "name": "checkbox_toggle.nvim",
+  "owner": "purrutia",
+  "url": "https://github.com/purrutia/checkbox_toggle.nvim"
 }

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PlantUML"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 70,
+    "createdAt": "2023-02-02T02:22:02Z",
+    "description": "Neovim plugin written in Lua for Plant UML",
+    "isArchived": false,
+    "lastCommit": "2024-03-25T13:28:34Z",
+    "nameWithOwner": "orfosys/nvim-soil",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plantuml",
+      "uml"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-soil",
+  "owner": "orfosys",
+  "url": "https://github.com/javio7/nvim-modelizer"
+}

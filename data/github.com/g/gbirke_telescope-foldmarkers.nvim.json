@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-03-24T02:11:40Z",
+    "description": "Quickly jump to your fold markers {{{",
+    "isArchived": false,
+    "lastCommit": "2024-03-24T10:13:10Z",
+    "nameWithOwner": "gbirke/telescope-foldmarkers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-foldmarkers.nvim",
+  "owner": "gbirke",
+  "url": "https://github.com/gbirke/telescope-foldmarkers.nvim"
+}

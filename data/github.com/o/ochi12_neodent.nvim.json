@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Indent"
+        },
+        {
+          "level": 3,
+          "name": "Indent Size"
+        }
+      ],
+      "file": "indent.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-03-25T07:25:25Z",
+    "description": "A Cleaner approach to indenting you buffers based on file extension",
+    "isArchived": false,
+    "lastCommit": "2024-03-25T11:47:22Z",
+    "nameWithOwner": "ochi12/neodent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neodent.nvim",
+  "owner": "ochi12",
+  "url": "https://github.com/ochi12/neodent.nvim"
+}

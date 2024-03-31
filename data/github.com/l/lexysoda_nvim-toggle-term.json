@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-03-24T14:46:16Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-03-25T16:28:53Z",
+    "nameWithOwner": "lexysoda/nvim-toggle-term",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-toggle-term",
+  "owner": "lexysoda",
+  "url": "https://github.com/lexysoda/nvim-toggle-term"
+}

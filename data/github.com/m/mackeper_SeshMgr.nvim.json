@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 76,
+    "createdAt": "2024-03-13T20:07:57Z",
+    "description": "Session management plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-03-29T05:38:22Z",
+    "nameWithOwner": "mackeper/SeshMgr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "SeshMgr.nvim",
+  "owner": "mackeper",
+  "url": "https://github.com/mackeper/SeshMgr.nvim"
+}

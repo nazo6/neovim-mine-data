@@ -38,21 +38,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 169,
+    "commitCountLastYear": 172,
     "createdAt": "2023-11-05T02:27:10Z",
     "description": "Garbage collector that stops inactive LSP clients to free RAM",
     "isArchived": false,
-    "lastCommit": "2024-03-19T16:13:08Z",
+    "lastCommit": "2024-03-26T16:34:50Z",
     "nameWithOwner": "Zeioth/garbage-day.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 171,
+    "star": 190,
     "topics": [
       "nvim-lsp",
       "nvim-plugin",
-      "nvim-plugins"
+      "nvim-plugins",
+      "language-server-protocol"
     ]
   },
   "domain": "github.com",

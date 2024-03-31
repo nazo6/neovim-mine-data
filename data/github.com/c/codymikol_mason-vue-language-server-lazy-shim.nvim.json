@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Framework"
+        },
+        {
+          "level": 5,
+          "name": "Vue"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-03-24T13:40:37Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-03-26T16:22:49Z",
+    "nameWithOwner": "codymikol/mason-vue-language-server-lazy-shim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mason-vue-language-server-lazy-shim.nvim",
+  "owner": "codymikol",
+  "url": "https://github.com/codymikol/mason-vue-language-server-lazy-shim.nvim"
+}

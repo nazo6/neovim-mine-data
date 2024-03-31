@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Java"
+        },
+        {
+          "level": 4,
+          "name": "Maven"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-03-24T10:39:08Z",
+    "description": "Auto-trigger maven compile when static resources are updated.",
+    "isArchived": false,
+    "lastCommit": "2024-03-24T11:00:15Z",
+    "nameWithOwner": "brandishcode/thymeleaf-compile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "thymeleaf-compile.nvim",
+  "owner": "brandishcode",
+  "url": "https://github.com/trabeast/thymeleaf-compile.nvim"
+}

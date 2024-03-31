@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Motion"
+          "name": "AI Coding"
         },
         {
           "level": 3,
-          "name": "Horizontal Move"
+          "name": "Ollama"
         }
       ],
-      "file": "motion.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
-    "createdAt": "2024-02-29T14:58:15Z",
-    "description": null,
+    "commitCountLastYear": 9,
+    "createdAt": "2024-03-25T12:47:06Z",
+    "description": "Neovim plugin - ollama client",
     "isArchived": false,
-    "lastCommit": "2024-03-20T17:21:21Z",
-    "nameWithOwner": "kaiuri/fFtT.nvim",
+    "lastCommit": "2024-03-26T18:55:49Z",
+    "nameWithOwner": "louis-brunet/ollouma.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "fFtT.nvim",
-  "owner": "kaiuri",
-  "url": "https://github.com/kaiuri/fFtT.nvim"
+  "name": "ollouma.nvim",
+  "owner": "louis-brunet",
+  "url": "https://github.com/louis-brunet/ollouma.nvim"
 }

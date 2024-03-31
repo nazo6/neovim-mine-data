@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-02-02T13:24:49Z",
+    "description": "Open terminal in split and execute commands on buffer save",
+    "isArchived": false,
+    "lastCommit": "2024-03-01T11:51:21Z",
+    "nameWithOwner": "catgoose/coderunner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "nvim-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "coderunner.nvim",
+  "owner": "catgoose",
+  "url": "https://github.com/catgoose/coderunner.nvim"
+}

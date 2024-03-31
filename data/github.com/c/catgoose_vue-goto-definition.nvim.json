@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Framework"
+        },
+        {
+          "level": 5,
+          "name": "Vue"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2024-03-16T12:18:40Z",
+    "description": "Improves Volar language server goto definition",
+    "isArchived": false,
+    "lastCommit": "2024-03-26T13:05:02Z",
+    "nameWithOwner": "catgoose/vue-goto-definition.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vue-goto-definition.nvim",
+  "owner": "catgoose",
+  "url": "https://github.com/catgoose/vue-goto-definition.nvim"
+}

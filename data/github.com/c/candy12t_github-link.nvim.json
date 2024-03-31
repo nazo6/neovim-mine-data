@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-03-23T06:20:59Z",
+    "description": "Clipped github link for select line in the currently open file in nvim.",
+    "isArchived": false,
+    "lastCommit": "2024-03-24T05:36:35Z",
+    "nameWithOwner": "candy12t/github-link.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "git",
+      "github",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "github-link.nvim",
+  "owner": "candy12t",
+  "url": "https://github.com/candy12t/github-link.nvim"
+}

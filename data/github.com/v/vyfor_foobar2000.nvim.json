@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-03-25T12:37:50Z",
+    "description": "🎶 A minimal Neovim plugin for interacting with foobar2000.",
+    "isArchived": false,
+    "lastCommit": "2024-03-28T16:48:57Z",
+    "nameWithOwner": "vyfor/foobar2000.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "audio-player",
+      "foobar",
+      "foobar2000",
+      "lua",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "foobar2000.nvim",
+  "owner": "vyfor",
+  "url": "https://github.com/reblast/foobar2000.nvim"
+}

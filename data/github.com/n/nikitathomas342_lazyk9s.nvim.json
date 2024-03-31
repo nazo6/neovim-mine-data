@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-03-25T15:35:34Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-03-25T15:38:42Z",
+    "nameWithOwner": "nikitathomas342/lazyk9s.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazyk9s.nvim",
+  "owner": "nikitathomas342",
+  "url": "https://github.com/nikitathomas342/lazyk9s.nvim"
+}

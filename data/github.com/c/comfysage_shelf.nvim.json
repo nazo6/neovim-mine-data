@@ -8,37 +8,40 @@
         },
         {
           "level": 2,
-          "name": "Command"
+          "name": "Mark"
         },
         {
           "level": 3,
-          "name": "Shell command"
+          "name": "bookmark"
         }
       ],
-      "file": "command.md",
+      "file": "mark.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 57,
-    "createdAt": "2024-03-22T00:02:55Z",
-    "description": "Run shell commands inside a normal NeoVim buffer",
+    "commitCountLastYear": 72,
+    "createdAt": "2023-12-30T13:05:21Z",
+    "description": ":books: a bookmarks manager for chaivim.",
     "isArchived": false,
-    "lastCommit": "2024-03-23T18:33:43Z",
-    "nameWithOwner": "siadat/shell.nvim",
+    "lastCommit": "2024-03-18T12:25:31Z",
+    "nameWithOwner": "comfysage/shelf.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 13,
+    "star": 4,
     "topics": [
       "neovim",
       "neovim-plugin",
-      "shell"
+      "nvim",
+      "nvim-plugin",
+      "chaivim",
+      "nvim-lua"
     ]
   },
   "domain": "github.com",
-  "name": "shell.nvim",
-  "owner": "siadat",
-  "url": "https://github.com/siadat/shell.nvim"
+  "name": "shelf.nvim",
+  "owner": "comfysage",
+  "url": "https://github.com/comfysage/shelf.nvim"
 }

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell command"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 98,
+    "createdAt": "2024-03-22T00:02:55Z",
+    "description": "📜 Improved shell in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2024-03-30T23:48:45Z",
+    "nameWithOwner": "shellpad/shellpad.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "shell",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "shellpad.nvim",
+  "owner": "shellpad",
+  "url": "https://github.com/siadat/shell.nvim"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-03-27T16:01:53Z",
+    "description": "A Neovim plugin that allows asynchronous copying of yanked content into the system clipboard",
+    "isArchived": false,
+    "lastCommit": "2024-03-27T16:59:49Z",
+    "nameWithOwner": "vvvvv/pb-async.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pb-async.nvim",
+  "owner": "vvvvv",
+  "url": "https://github.com/vvvvv/pb-async.nvim"
+}

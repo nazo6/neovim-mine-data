@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotenv"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-03-23T09:09:57Z",
+    "description": "Tiny Neovim plugin for setting env vars",
+    "isArchived": false,
+    "lastCommit": "2024-03-24T17:05:13Z",
+    "nameWithOwner": "petermnhull/nvim-dotenv",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dotenv",
+  "owner": "petermnhull",
+  "url": "https://github.com/petermnhull/nvim-dotenv"
+}

@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 253,
+    "commitCountLastYear": 260,
     "createdAt": "2023-11-01T17:40:49Z",
-    "description": "Neovim plugin to Build, Debug, and Test iOS & macOS applications.",
+    "description": "Neovim plugin to Build, Debug, and Test applications created for Apple devices (iOS, macOS, watchOS, etc.)",
     "isArchived": false,
-    "lastCommit": "2024-03-23T15:40:18Z",
+    "lastCommit": "2024-03-29T01:51:58Z",
     "nameWithOwner": "wojciech-kulik/xcodebuild.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 263,
+    "star": 311,
     "topics": [
       "ios",
       "macos",
@@ -42,7 +42,10 @@
       "nvim",
       "xcode",
       "swift",
-      "ios-swift"
+      "ios-swift",
+      "tvos",
+      "visionos",
+      "watchos"
     ]
   },
   "domain": "github.com",
