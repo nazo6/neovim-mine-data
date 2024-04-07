@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Call Hierarchy"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2024-03-30T18:30:36Z",
+    "description": "Neovim plugin: set of functions to navigate code without LSP.",
+    "isArchived": false,
+    "lastCommit": "2024-04-05T17:31:48Z",
+    "nameWithOwner": "emmanueltouzery/code-compass.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "java",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-compass.nvim",
+  "owner": "emmanueltouzery",
+  "url": "https://github.com/emmanueltouzery/code-compass.nvim"
+}

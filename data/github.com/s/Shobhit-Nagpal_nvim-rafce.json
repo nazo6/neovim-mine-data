@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Framework"
+        },
+        {
+          "level": 5,
+          "name": "React"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-04-01T21:27:35Z",
+    "description": "Neovim plugin to create RAFCE snippets.",
+    "isArchived": false,
+    "lastCommit": "2024-04-02T16:54:03Z",
+    "nameWithOwner": "Shobhit-Nagpal/nvim-rafce",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-rafce",
+  "owner": "Shobhit-Nagpal",
+  "url": "https://github.com/Shobhit-Nagpal/nvim-rafce"
+}

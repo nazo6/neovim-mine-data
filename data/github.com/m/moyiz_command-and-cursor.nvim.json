@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Cursor"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-04-03T19:52:46Z",
+    "description": "Highlight cursor and visual selections in current buffer when entering command mode.",
+    "isArchived": false,
+    "lastCommit": "2024-04-04T12:46:05Z",
+    "nameWithOwner": "moyiz/command-and-cursor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "command-and-cursor.nvim",
+  "owner": "moyiz",
+  "url": "https://github.com/moyiz/command-and-cursor.nvim"
+}

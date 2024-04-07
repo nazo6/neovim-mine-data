@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Toolchain"
+        },
+        {
+          "level": 5,
+          "name": "Task Runner"
+        },
+        {
+          "level": 6,
+          "name": "npm"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-04-02T12:46:33Z",
+    "description": "Telescope.nvim picker to list and run npm scripts",
+    "isArchived": false,
+    "lastCommit": "2024-04-02T12:44:15Z",
+    "nameWithOwner": "ferrgo/telescope-npm-scripts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-npm-scripts.nvim",
+  "owner": "ferrgo",
+  "url": "https://github.com/ferrgo/telescope-npm-scripts.nvim"
+}

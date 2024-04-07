@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "K"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-04-01T04:46:43Z",
+    "description": "A k repl for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-04-01T04:58:01Z",
+    "nameWithOwner": "RKBethke/k.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "k.nvim",
+  "owner": "RKBethke",
+  "url": "https://github.com/RKBethke/k.nvim"
+}

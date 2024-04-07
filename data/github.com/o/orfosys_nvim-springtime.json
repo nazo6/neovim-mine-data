@@ -8,7 +8,11 @@
         },
         {
           "level": 2,
-          "name": "Util wrapper"
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Popup"
         }
       ],
       "file": "neovim-lua-library.md",
@@ -22,11 +26,7 @@
         },
         {
           "level": 2,
-          "name": "UI"
-        },
-        {
-          "level": 3,
-          "name": "Popup"
+          "name": "Util wrapper"
         }
       ],
       "file": "neovim-lua-library.md",
@@ -34,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 69,
+    "commitCountLastYear": 66,
     "createdAt": "2023-02-02T02:13:33Z",
     "description": "Neovim plugin for Spring Initializr written in Lua (WIP)",
     "isArchived": false,
-    "lastCommit": "2024-03-28T18:22:35Z",
+    "lastCommit": "2024-04-06T13:57:58Z",
     "nameWithOwner": "orfosys/nvim-springtime",
     "primaryLanguage": {
       "color": "#000080",
@@ -61,5 +61,5 @@
   "domain": "github.com",
   "name": "nvim-springtime",
   "owner": "orfosys",
-  "url": "https://github.com/javio7/nvim-osfa"
+  "url": "https://github.com/javio7/nvim-popcorn"
 }

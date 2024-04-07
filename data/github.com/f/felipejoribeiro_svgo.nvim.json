@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "SVG"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 60,
+    "createdAt": "2024-03-29T21:26:13Z",
+    "description": "svGO Neovim Plugin: Effortless svg creation and editing directly from your terminal.",
+    "isArchived": false,
+    "lastCommit": "2024-03-30T01:33:18Z",
+    "nameWithOwner": "felipejoribeiro/svgo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "svgo.nvim",
+  "owner": "felipejoribeiro",
+  "url": "https://github.com/felipejoribeiro/svgo.nvim"
+}

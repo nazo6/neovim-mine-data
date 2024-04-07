@@ -16,18 +16,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 40,
+    "commitCountLastYear": 58,
     "createdAt": "2024-02-29T15:52:00Z",
     "description": "Helldivers 2's \"Strategem Hero\" minigame for Neovim. Become a better Helldiver from the comfort of your favorite editor!",
     "isArchived": false,
-    "lastCommit": "2024-03-12T15:44:48Z",
+    "lastCommit": "2024-04-03T00:18:41Z",
     "nameWithOwner": "willothy/strat-hero.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 12,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

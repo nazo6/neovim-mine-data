@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2024-03-31T13:19:05Z",
+    "description": "markdown tools",
+    "isArchived": false,
+    "lastCommit": "2024-04-07T00:51:11Z",
+    "nameWithOwner": "ray-x/mkdn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mkdn.nvim",
+  "owner": "ray-x",
+  "url": "https://github.com/ray-x/mkdn.nvim"
+}

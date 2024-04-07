@@ -1,0 +1,69 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screen Key"
+        },
+        {
+          "level": 4,
+          "name": "Code Image"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 153,
+    "createdAt": "2024-02-13T06:05:34Z",
+    "description": "📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-04-07T09:33:40Z",
+    "nameWithOwner": "mistricky/codesnap.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 356,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "rust",
+      "snapshot",
+      "vim",
+      "code-snapshot",
+      "pretty-snapshot",
+      "graphics"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codesnap.nvim",
+  "owner": "mistricky",
+  "url": "https://github.com/mistricky/codesnap.nvim"
+}

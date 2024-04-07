@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 9,
     "createdAt": "2024-03-02T09:19:09Z",
-    "description": null,
+    "description": "A Neovim plugin for generating Bloc and Cubit boilerplate code.",
     "isArchived": false,
     "lastCommit": "2024-03-03T16:09:50Z",
     "nameWithOwner": "wa11breaker/flutter-bloc.nvim",
@@ -32,6 +32,10 @@
     },
     "star": 3,
     "topics": [
+      "bloc",
+      "cubit",
+      "flutter",
+      "neovim"
     ]
   },
   "domain": "github.com",

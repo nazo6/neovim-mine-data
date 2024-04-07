@@ -16,18 +16,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 89,
+    "commitCountLastYear": 92,
     "createdAt": "2024-03-27T12:59:20Z",
     "description": "A scrollable `watch` alternative for Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-03-31T09:07:03Z",
+    "lastCommit": "2024-04-01T14:51:00Z",
     "nameWithOwner": "Makaze/watch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 13,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

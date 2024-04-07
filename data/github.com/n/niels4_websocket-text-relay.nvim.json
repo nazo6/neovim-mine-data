@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "WebSocket"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-04-05T05:57:32Z",
+    "description": "A Neovim plugin for websocket-text-relay language server. Live coding in your local editor.",
+    "isArchived": false,
+    "lastCommit": "2024-04-07T03:36:34Z",
+    "nameWithOwner": "niels4/websocket-text-relay.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "websocket-text-relay.nvim",
+  "owner": "niels4",
+  "url": "https://github.com/niels4/websocket-text-relay.nvim"
+}

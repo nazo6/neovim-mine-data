@@ -9,6 +9,10 @@
         {
           "level": 2,
           "name": "Highlight"
+        },
+        {
+          "level": 3,
+          "name": "Delimiter"
         }
       ],
       "file": "syntax_highlight.md",
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 106,
+    "commitCountLastYear": 74,
     "createdAt": "2023-01-07T14:26:19Z",
     "description": "Rainbow delimiters for Neovim through Tree-sitter",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 339,
+    "star": 342,
     "topics": [
       "neovim",
       "rainbow",

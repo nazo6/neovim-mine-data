@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CI"
+        },
+        {
+          "level": 4,
+          "name": "Nx"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-03-31T00:26:14Z",
+    "description": "Execute nx test in a terminal buffer inside neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-04-05T21:31:38Z",
+    "nameWithOwner": "andtankian/nxtest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nxtest.nvim",
+  "owner": "andtankian",
+  "url": "https://github.com/andtankian/nxtest.nvim"
+}

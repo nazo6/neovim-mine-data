@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-03-31T11:43:30Z",
+    "description": "Crossplane extension for neovim telescope",
+    "isArchived": false,
+    "lastCommit": "2024-03-31T13:32:07Z",
+    "nameWithOwner": "Piotr1215/telescope-crossplane.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-crossplane.nvim",
+  "owner": "Piotr1215",
+  "url": "https://github.com/Piotr1215/telescope-crossplane.nvim"
+}

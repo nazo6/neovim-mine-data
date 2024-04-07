@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Macro"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2024-03-29T18:26:46Z",
+    "description": "neovim version of dmacro.el, which makes a key macro on-the-fly.",
+    "isArchived": false,
+    "lastCommit": "2024-04-07T08:45:37Z",
+    "nameWithOwner": "tani/dmacro.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dmacro.nvim",
+  "owner": "tani",
+  "url": "https://github.com/tani/dmacro.nvim"
+}

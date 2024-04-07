@@ -24,18 +24,19 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 58,
     "createdAt": "2024-03-27T18:20:42Z",
-    "description": null,
+    "description": "A Neovim plugin that allows previewing of LSP changes.",
     "isArchived": false,
-    "lastCommit": "2024-03-29T17:19:20Z",
+    "lastCommit": "2024-04-06T20:16:34Z",
     "nameWithOwner": "jan-xyz/lsp-preview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 4,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

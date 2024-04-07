@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Screen server"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-03-31T00:00:49Z",
+    "description": "donut.c meets Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-04-02T09:22:56Z",
+    "nameWithOwner": "NStefan002/donut.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "donut",
+      "lua",
+      "luarocks",
+      "neovim-plugin",
+      "screensaver"
+    ]
+  },
+  "domain": "github.com",
+  "name": "donut.nvim",
+  "owner": "NStefan002",
+  "url": "https://github.com/NStefan002/donut.nvim"
+}

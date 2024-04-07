@@ -8,11 +8,11 @@
         },
         {
           "level": 2,
-          "name": "Appearance"
+          "name": "Other Standard Feature Enhancement"
         },
         {
           "level": 3,
-          "name": "Screen position"
+          "name": "Macro"
         }
       ],
       "file": "readme.md",
@@ -21,21 +21,21 @@
   ],
   "data": {
     "commitCountLastYear": 8,
-    "createdAt": "2023-11-25T07:59:55Z",
-    "description": "Improved zz command, putting the line under the cursor at the user-specified percentage of the window.",
+    "createdAt": "2024-03-29T17:59:35Z",
+    "description": "POC of plugin that will be called `nvim-automa` ",
     "isArchived": false,
-    "lastCommit": "2023-11-25T10:14:58Z",
-    "nameWithOwner": "gcanoxl/better-zz.nvim",
+    "lastCommit": "2024-03-31T09:10:12Z",
+    "nameWithOwner": "hrsh7th/nvim-automa-poc",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 13,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "better-zz.nvim",
-  "owner": "gcanoxl",
-  "url": "https://github.com/gcanoxl/better-zz.nvim"
+  "name": "nvim-automa-poc",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/nvim-automa-poc"
 }

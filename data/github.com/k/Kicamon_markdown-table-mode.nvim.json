@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown table"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-03-30T02:54:45Z",
+    "description": "A neovim markdown format plugin like vim-table-mode but write in lua",
+    "isArchived": false,
+    "lastCommit": "2024-04-03T11:10:01Z",
+    "nameWithOwner": "Kicamon/markdown-table-mode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-table-mode.nvim",
+  "owner": "Kicamon",
+  "url": "https://github.com/Kicamon/markdown-table-mode.nvim"
+}

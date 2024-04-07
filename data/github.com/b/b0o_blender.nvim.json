@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "GUI"
+        },
+        {
+          "level": 4,
+          "name": "Blender"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2024-04-05T10:56:30Z",
+    "description": "🔶 Develop Blender Add-ons with Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-04-07T09:48:30Z",
+    "nameWithOwner": "b0o/blender.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "blender",
+      "blender-addon",
+      "blender-python",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blender.nvim",
+  "owner": "b0o",
+  "url": "https://github.com/b0o/blender.nvim"
+}

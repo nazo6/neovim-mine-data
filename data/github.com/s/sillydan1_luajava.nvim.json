@@ -12,7 +12,11 @@
         },
         {
           "level": 3,
-          "name": "Dart, Flutter"
+          "name": "Lua"
+        },
+        {
+          "level": 4,
+          "name": "LuaJava"
         }
       ],
       "file": "language-specific.md",
@@ -21,21 +25,25 @@
   ],
   "data": {
     "commitCountLastYear": 4,
-    "createdAt": "2023-11-30T02:56:56Z",
-    "description": "A simple Neovim plugin that can organize dart consts smartly and automatically",
+    "createdAt": "2024-03-29T09:12:53Z",
+    "description": "Lua definitions for LuaJava for neovim",
     "isArchived": false,
-    "lastCommit": "2023-11-30T06:06:34Z",
-    "nameWithOwner": "gcanoxl/dart-const-organizer.nvim",
+    "lastCommit": "2024-03-29T09:36:47Z",
+    "nameWithOwner": "sillydan1/luajava.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
     "star": 1,
     "topics": [
+      "java",
+      "lua",
+      "luajava",
+      "neovim"
     ]
   },
   "domain": "github.com",
-  "name": "dart-const-organizer.nvim",
-  "owner": "gcanoxl",
-  "url": "https://github.com/gcanoxl/dart-const-organizer.nvim"
+  "name": "luajava.nvim",
+  "owner": "sillydan1",
+  "url": "https://github.com/sillydan1/luajava.nvim"
 }

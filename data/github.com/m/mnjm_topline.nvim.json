@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Tabline"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2024-03-31T12:33:37Z",
+    "description": "Simple and minimal tabline as a replacement to inbuilt one with icon and mouse support",
+    "isArchived": false,
+    "lastCommit": "2024-04-06T15:37:31Z",
+    "nameWithOwner": "mnjm/topline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "topline.nvim",
+  "owner": "mnjm",
+  "url": "https://github.com/mnjm/topline.nvim"
+}

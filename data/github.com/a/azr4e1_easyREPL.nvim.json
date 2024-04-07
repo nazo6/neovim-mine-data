@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2024-04-04T16:06:05Z",
+    "description": "REPL management plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-04-07T01:47:03Z",
+    "nameWithOwner": "azr4e1/easyREPL.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "easyREPL.nvim",
+  "owner": "azr4e1",
+  "url": "https://github.com/azr4e1/easyREPL.nvim"
+}
