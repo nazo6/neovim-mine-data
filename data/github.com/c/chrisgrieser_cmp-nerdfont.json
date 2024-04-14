@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Emoji"
+        }
+      ],
+      "file": "emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2022-10-12T18:50:52Z",
+    "description": "nvim-cmp source for nerdfont icons",
+    "isArchived": false,
+    "lastCommit": "2023-11-22T14:33:25Z",
+    "nameWithOwner": "chrisgrieser/cmp-nerdfont",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+      "nvim-cmp",
+      "nerdfont"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-nerdfont",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/cmp-nerdfont"
+}

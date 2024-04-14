@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Cowsay"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-04-09T06:05:33Z",
+    "description": "I use Neovim (BTW)",
+    "isArchived": false,
+    "lastCommit": "2024-04-10T16:32:27Z",
+    "nameWithOwner": "letieu/btw.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 88,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "btw.nvim",
+  "owner": "letieu",
+  "url": "https://github.com/letieu/btw.nvim"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-04-10T21:15:16Z",
+    "description": "Mouse features on top of nvim-orgmode.",
+    "isArchived": false,
+    "lastCommit": "2024-04-11T02:47:02Z",
+    "nameWithOwner": "chipsenkbeil/org-mouse.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "orgmode-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "org-mouse.nvim",
+  "owner": "chipsenkbeil",
+  "url": "https://github.com/chipsenkbeil/org-mouse.nvim"
+}

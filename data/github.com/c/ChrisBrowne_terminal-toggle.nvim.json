@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-04-09T14:55:18Z",
+    "description": "Simple single terminal toggler",
+    "isArchived": false,
+    "lastCommit": "2024-04-09T19:09:22Z",
+    "nameWithOwner": "ChrisBrowne/terminal-toggle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "terminal-toggle.nvim",
+  "owner": "ChrisBrowne",
+  "url": "https://github.com/ChrisBrowne/terminal-toggle.nvim"
+}

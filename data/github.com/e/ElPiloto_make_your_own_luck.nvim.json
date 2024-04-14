@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-04-08T21:01:29Z",
+    "description": "Tiny and fast plugin to define custom fortunes for your startup screen, make your own luck!",
+    "isArchived": false,
+    "lastCommit": "2024-04-08T22:08:23Z",
+    "nameWithOwner": "ElPiloto/make_your_own_luck.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "make_your_own_luck.nvim",
+  "owner": "ElPiloto",
+  "url": "https://github.com/ElPiloto/make_your_own_luck.nvim"
+}

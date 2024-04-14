@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-04-12T17:55:13Z",
+    "description": "Neovim plugin written in lua for handling simple git tasks",
+    "isArchived": false,
+    "lastCommit": "2024-04-12T18:00:02Z",
+    "nameWithOwner": "GustavEikaas/easy-git.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "easy-git.nvim",
+  "owner": "GustavEikaas",
+  "url": "https://github.com/GustavEikaas/easy-git.nvim"
+}

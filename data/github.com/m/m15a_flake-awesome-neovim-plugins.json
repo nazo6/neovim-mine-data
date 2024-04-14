@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "External"
+        },
+        {
+          "level": 3,
+          "name": "OS-specific"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 99,
+    "createdAt": "2021-12-11T08:13:56Z",
+    "description": "Nix flake of Awesome Neovim plugins",
+    "isArchived": false,
+    "lastCommit": "2024-04-14T12:44:45Z",
+    "nameWithOwner": "m15a/flake-awesome-neovim-plugins",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 32,
+    "topics": [
+      "neovim-plugins",
+      "nix-flake",
+      "flakehub"
+    ]
+  },
+  "domain": "github.com",
+  "name": "flake-awesome-neovim-plugins",
+  "owner": "m15a",
+  "url": "https://github.com/m15a/flake-awesome-neovim-plugins"
+}

@@ -8,34 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Highlight"
+          "name": "LSP"
         },
         {
           "level": 3,
-          "name": "Delimiter"
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hover Doc"
         }
       ],
-      "file": "syntax_highlight.md",
+      "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2024-04-04T12:15:27Z",
+    "commitCountLastYear": 5,
+    "createdAt": "2024-04-09T21:26:57Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-04-04T14:59:05Z",
-    "nameWithOwner": "eliezerlobaton/nvim-ts-rainbow-eliezer",
+    "lastCommit": "2024-04-13T22:01:46Z",
+    "nameWithOwner": "hesom/multihover.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "nvim-ts-rainbow-eliezer",
-  "owner": "eliezerlobaton",
-  "url": "https://github.com/eliezerlobaton/nvim-ts-rainbow-eliezer"
+  "name": "multihover.nvim",
+  "owner": "hesom",
+  "url": "https://github.com/hesom/multihover.nvim"
 }

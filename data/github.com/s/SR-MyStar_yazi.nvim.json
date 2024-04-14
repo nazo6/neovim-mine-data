@@ -8,6 +8,10 @@
         },
         {
           "level": 2,
+          "name": "ranger"
+        },
+        {
+          "level": 3,
           "name": "yazi"
         }
       ],
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 11,
+    "star": 12,
     "topics": [
       "neovim",
       "neovim-plugin",

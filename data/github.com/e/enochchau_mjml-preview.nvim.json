@@ -2,24 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "Javascript/Typescript"
-        },
-        {
-          "level": 4,
-          "name": "Framework"
-        },
-        {
-          "level": 5,
-          "name": "mjml"
-        }
       ],
-      "file": "js_ts.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -27,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-07-30T22:03:46Z",
     "description": "Get a realtime preview of MJML files with Neovim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-12-03T23:18:14Z",
     "nameWithOwner": "enochchau/mjml-preview.nvim",
     "primaryLanguage": {

@@ -2,28 +2,16 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Save"
-        },
-        {
-          "level": 3,
-          "name": "Cursor Position"
-        }
       ],
-      "file": "save_backup.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 5,
     "createdAt": "2023-04-05T18:33:57Z",
     "description": "NeoView is a Neovim plugin that saves and restores views and cursor positions.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-07-23T19:25:53Z",
     "nameWithOwner": "ecthelionvi/NeoView.nvim",
     "primaryLanguage": {

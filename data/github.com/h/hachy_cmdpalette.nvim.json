@@ -8,10 +8,6 @@
         },
         {
           "level": 2,
-          "name": "Multiple Command"
-        },
-        {
-          "level": 3,
           "name": "Command Palette"
         }
       ],
@@ -20,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 4,
     "createdAt": "2023-01-09T02:10:45Z",
     "description": "A Neovim plugin that provides a floating command-line window.",
     "isArchived": false,

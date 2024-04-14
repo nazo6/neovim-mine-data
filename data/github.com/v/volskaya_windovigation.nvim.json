@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 23,
+    "commitCountLastYear": 28,
     "createdAt": "2024-03-23T19:50:10Z",
-    "description": "A plugin for Neovim that lets you switch buffers based on window unique file history like VScode and Evil Emacs, instead of a global buffer list.",
+    "description": "Neovim plugin that lets you switch between buffers based on a window scoped buffer list, like VScode and Evil Emacs, instead of a global buffer list.",
     "isArchived": false,
-    "lastCommit": "2024-03-29T17:21:32Z",
+    "lastCommit": "2024-04-07T17:55:34Z",
     "nameWithOwner": "volskaya/windovigation.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 40,
+    "star": 42,
     "topics": [
     ]
   },

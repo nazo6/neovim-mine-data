@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-04-07T19:55:28Z",
+    "description": "A neovim plugin that allows you to run code in a REPL without ever leaving your buffer.",
+    "isArchived": false,
+    "lastCommit": "2024-04-14T00:14:30Z",
+    "nameWithOwner": "atinylittleshell/comment-repl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "notebook",
+      "repl",
+      "jupyter",
+      "jupyter-notebook",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment-repl.nvim",
+  "owner": "atinylittleshell",
+  "url": "https://github.com/atinylittleshell/comment-repl.nvim"
+}

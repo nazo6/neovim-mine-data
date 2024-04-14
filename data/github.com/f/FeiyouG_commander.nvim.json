@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Multiple Command"
-        },
-        {
-          "level": 3,
-          "name": "Command Palette"
-        }
-      ],
-      "file": "command.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -31,6 +13,20 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Palette"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 343,
+    "star": 347,
     "topics": [
       "lua",
       "neovim",
@@ -58,5 +54,5 @@
   "domain": "github.com",
   "name": "commander.nvim",
   "owner": "FeiyouG",
-  "url": "https://github.com/FeiyouG/command_center.nvim"
+  "url": "https://github.com/FeiyouG/commander.nvim"
 }

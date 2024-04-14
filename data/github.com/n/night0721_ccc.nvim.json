@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder Style"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-04-06T23:26:20Z",
+    "description": "Fork of fm-nvim, Neovim plugin that lets you use ccc and fnf within Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-04-07T00:11:24Z",
+    "nameWithOwner": "night0721/ccc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ccc",
+      "lua",
+      "neovim",
+      "file-manager",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ccc.nvim",
+  "owner": "night0721",
+  "url": "https://github.com/night0721/ccc.nvim"
+}

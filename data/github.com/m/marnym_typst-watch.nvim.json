@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "typst"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-04-11T21:47:13Z",
+    "description": "Start typst watch from Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-04-12T15:18:58Z",
+    "nameWithOwner": "marnym/typst-watch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typst-watch.nvim",
+  "owner": "marnym",
+  "url": "https://github.com/marnym/typst-watch.nvim"
+}

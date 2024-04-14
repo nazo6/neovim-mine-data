@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Cowsay"
+        },
+        {
+          "level": 4,
+          "name": "Message"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-04-11T15:01:39Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-04-11T15:00:35Z",
+    "nameWithOwner": "r-cha/encourage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "encouragement",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "encourage.nvim",
+  "owner": "r-cha",
+  "url": "https://github.com/r-cha/encourage.nvim"
+}

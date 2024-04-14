@@ -20,29 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 85,
-    "createdAt": "2024-03-24T06:57:13Z",
-    "description": "🚀 Discord Rich Presence plugin for Neovim",
+    "commitCountLastYear": 40,
+    "createdAt": "2024-04-06T21:38:00Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-03-30T18:06:15Z",
-    "nameWithOwner": "vyfor/cord.nvim",
+    "lastCommit": "2024-04-11T07:06:48Z",
+    "nameWithOwner": "Dekr0/richpresence.nvim",
     "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
+      "color": "#555555",
+      "name": "C"
     },
-    "star": 7,
+    "star": 1,
     "topics": [
-      "discord",
-      "kotlin",
-      "lua",
-      "neovim",
-      "plugin",
-      "rich-presence",
-      "rpc"
     ]
   },
   "domain": "github.com",
-  "name": "cord.nvim",
-  "owner": "vyfor",
-  "url": "https://github.com/reblast/cord.nvim"
+  "name": "richpresence.nvim",
+  "owner": "Dekr0",
+  "url": "https://github.com/Dekr0/richpresence.nvim"
 }

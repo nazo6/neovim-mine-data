@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell command"
+        },
+        {
+          "level": 4,
+          "name": "execute from buffer"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-04-12T11:00:42Z",
+    "description": "Neovim plugin for executes shell commands from buffer",
+    "isArchived": false,
+    "lastCommit": "2024-04-12T11:34:16Z",
+    "nameWithOwner": "TheK4n/postman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "postman"
+    ]
+  },
+  "domain": "github.com",
+  "name": "postman.nvim",
+  "owner": "TheK4n",
+  "url": "https://github.com/TheK4n/postman.nvim"
+}

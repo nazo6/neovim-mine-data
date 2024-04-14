@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Grep"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-04-10T15:30:44Z",
+    "description": "(WIP) Scope telescope pickers to specific glob patterns.",
+    "isArchived": false,
+    "lastCommit": "2024-04-10T15:29:07Z",
+    "nameWithOwner": "thenbe/telescope-glob.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-glob.nvim",
+  "owner": "thenbe",
+  "url": "https://github.com/thenbe/telescope-glob.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2024-04-06T08:00:02Z",
+    "description": "fork of coffebar/transfer.nvim, focus on simplicity",
+    "isArchived": false,
+    "lastCommit": "2024-04-06T08:39:26Z",
+    "nameWithOwner": "Martins3/rsync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rsync.nvim",
+  "owner": "Martins3",
+  "url": "https://github.com/Martins3/rsync.nvim"
+}

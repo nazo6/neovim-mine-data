@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-04-08T14:28:41Z",
+    "description": "📍Add git-prompt-string to your Neovim statusline!",
+    "isArchived": false,
+    "lastCommit": "2024-04-13T03:14:35Z",
+    "nameWithOwner": "mikesmithgh/git-prompt-string-lualine.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "git",
+      "lua",
+      "lualine",
+      "neovim",
+      "neovim-statusline",
+      "nvim",
+      "statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-prompt-string-lualine.nvim",
+  "owner": "mikesmithgh",
+  "url": "https://github.com/mikesmithgh/git-prompt-string-lualine.nvim"
+}
