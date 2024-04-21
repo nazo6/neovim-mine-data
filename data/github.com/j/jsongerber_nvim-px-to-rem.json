@@ -7,6 +7,24 @@
           "name": "Table of Contents"
         },
         {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Pixel"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
           "level": 3,
           "name": "Javascript/Typescript"
         },
@@ -21,24 +39,6 @@
       ],
       "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Convert"
-        },
-        {
-          "level": 3,
-          "name": "Pixel"
-        }
-      ],
-      "file": "convert.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
@@ -52,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 18,
+    "star": 17,
     "topics": [
       "css",
       "lua",
@@ -66,5 +66,5 @@
   "domain": "github.com",
   "name": "nvim-px-to-rem",
   "owner": "jsongerber",
-  "url": "https://github.com/Jsongerber/nvim-px-to-rem"
+  "url": "https://github.com/jsongerber/nvim-px-to-rem"
 }

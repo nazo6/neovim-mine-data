@@ -16,7 +16,7 @@
         },
         {
           "level": 5,
-          "name": "JSON"
+          "name": "jsdoc"
         }
       ],
       "file": "js_ts.md",
@@ -24,22 +24,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
-    "createdAt": "2024-02-01T21:16:51Z",
-    "description": "A  neovim plugin to convert JSON objects to write Typescript types.",
+    "commitCountLastYear": 8,
+    "createdAt": "2024-04-15T12:26:49Z",
+    "description": "A lightweight plugin to toggle JsDoc checking for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-04-10T02:55:12Z",
-    "nameWithOwner": "Redoxahmii/json-to-ts.nvim",
+    "lastCommit": "2024-04-16T16:53:32Z",
+    "nameWithOwner": "joeldotdias/jsdoc-switch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 2,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim"
     ]
   },
   "domain": "github.com",
-  "name": "json-to-ts.nvim",
-  "owner": "Redoxahmii",
-  "url": "https://github.com/Redoxahmii/json-to-ts.nvim"
+  "name": "jsdoc-switch.nvim",
+  "owner": "joeldotdias",
+  "url": "https://github.com/joeldotdias/jsdoc-switch.nvim"
 }

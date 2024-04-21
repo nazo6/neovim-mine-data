@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 31,
     "createdAt": "2023-06-08T15:33:15Z",
-    "description": "Preview and convert markdown files to PDF in Neovim!",
+    "description": "Convert and preview markdown files to PDF in Neovim!",
     "isArchived": false,
     "lastCommit": "2023-11-30T10:48:08Z",
     "nameWithOwner": "arminveres/md-pdf.nvim",
@@ -30,14 +30,15 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9,
+    "star": 11,
     "topics": [
       "lua",
       "nvim",
       "nvim-plugin",
       "markdown",
       "pdf",
-      "pdf-converter"
+      "pdf-converter",
+      "previewer"
     ]
   },
   "domain": "github.com",

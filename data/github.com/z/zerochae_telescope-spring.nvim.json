@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Java"
+        },
+        {
+          "level": 4,
+          "name": "Spring Boot"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2024-04-18T09:53:10Z",
+    "description": "neovim telescope extension, api endpoint finder in spring or spring-boot project ",
+    "isArchived": false,
+    "lastCommit": "2024-04-21T09:34:38Z",
+    "nameWithOwner": "zerochae/telescope-spring.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-spring.nvim",
+  "owner": "zerochae",
+  "url": "https://github.com/zerochae/telescope-spring.nvim"
+}

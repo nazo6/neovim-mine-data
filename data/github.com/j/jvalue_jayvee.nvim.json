@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Jayvee"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-04-17T08:18:40Z",
+    "description": "Neovim plugin adding support for the jayvee language server",
+    "isArchived": false,
+    "lastCommit": "2024-04-17T14:08:46Z",
+    "nameWithOwner": "jvalue/jayvee.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jayvee.nvim",
+  "owner": "jvalue",
+  "url": "https://github.com/jvalue/jayvee.nvim"
+}

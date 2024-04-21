@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Font"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2023-10-05T10:50:21Z",
+    "description": "A plugins for Neovim to resize the font.",
+    "isArchived": false,
+    "lastCommit": "2024-04-20T18:32:22Z",
+    "nameWithOwner": "hoofcushion/fontresizer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fontresizer.nvim",
+  "owner": "hoofcushion",
+  "url": "https://github.com/abcdefg233/fontresizer.nvim"
+}

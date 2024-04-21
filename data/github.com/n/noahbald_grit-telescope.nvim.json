@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "GritQL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-04-17T01:37:16Z",
+    "description": "Telescope plugin for interacting with Grit",
+    "isArchived": false,
+    "lastCommit": "2024-04-17T01:45:21Z",
+    "nameWithOwner": "noahbald/grit-telescope.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "grit-telescope.nvim",
+  "owner": "noahbald",
+  "url": "https://github.com/noahbald/grit-telescope.nvim"
+}

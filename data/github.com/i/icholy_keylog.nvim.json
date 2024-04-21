@@ -12,7 +12,11 @@
         },
         {
           "level": 3,
-          "name": "Font"
+          "name": "Analytics"
+        },
+        {
+          "level": 4,
+          "name": "Operation Log"
         }
       ],
       "file": "readme.md",
@@ -20,22 +24,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 32,
-    "createdAt": "2023-10-05T10:50:21Z",
-    "description": "A plugins for Neovim to resize the font.",
+    "commitCountLastYear": 10,
+    "createdAt": "2024-04-16T03:48:28Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-02-12T13:59:27Z",
-    "nameWithOwner": "abcdefg233/fontresizer.nvim",
+    "lastCommit": "2024-04-16T13:37:01Z",
+    "nameWithOwner": "icholy/keylog.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "fontresizer.nvim",
-  "owner": "abcdefg233",
-  "url": "https://github.com/abcdefg233/fontresizer.nvim"
+  "name": "keylog.nvim",
+  "owner": "icholy",
+  "url": "https://github.com/icholy/keylog.nvim"
 }

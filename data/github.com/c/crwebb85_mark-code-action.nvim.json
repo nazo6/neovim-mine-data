@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Code action"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-04-16T16:48:05Z",
+    "description": "Adds LSP code action marks so that you can use code actions within macros.",
+    "isArchived": false,
+    "lastCommit": "2024-04-16T23:39:55Z",
+    "nameWithOwner": "crwebb85/mark-code-action.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mark-code-action.nvim",
+  "owner": "crwebb85",
+  "url": "https://github.com/crwebb85/mark-code-action.nvim"
+}

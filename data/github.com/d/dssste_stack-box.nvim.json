@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Notification"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-04-19T02:44:13Z",
+    "description": "Popup notification vscode style",
+    "isArchived": false,
+    "lastCommit": "2024-04-19T06:59:47Z",
+    "nameWithOwner": "dssste/stack-box.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stack-box.nvim",
+  "owner": "dssste",
+  "url": "https://github.com/dssste/stack-box.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-04-19T04:14:27Z",
+    "description": "A small Plugin, to choose custom functions via Telescope and then execute them.",
+    "isArchived": false,
+    "lastCommit": "2024-04-19T04:38:43Z",
+    "nameWithOwner": "Rocco-Gossmann/nvim-taskrunner",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "functions",
+      "lua",
+      "macros",
+      "neovim",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-taskrunner",
+  "owner": "Rocco-Gossmann",
+  "url": "https://github.com/Rocco-Gossmann/nvim-taskrunner"
+}

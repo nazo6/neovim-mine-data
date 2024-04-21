@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-04-13T13:59:02Z",
+    "description": "Replacement for f and F that jumps to words beginning with the searched character instead of all occurrences.",
+    "isArchived": false,
+    "lastCommit": "2024-04-18T19:27:43Z",
+    "nameWithOwner": "Laellekoenig/first.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "first.nvim",
+  "owner": "Laellekoenig",
+  "url": "https://github.com/Laellekoenig/first.nvim"
+}

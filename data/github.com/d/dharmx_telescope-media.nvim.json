@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Viewer"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 69,
+    "createdAt": "2022-02-02T07:01:14Z",
+    "description": "Complete rewrite. Pure Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-08-11T21:45:16Z",
+    "nameWithOwner": "dharmx/telescope-media.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 44,
+    "topics": [
+      "nvim",
+      "telescope",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-media.nvim",
+  "owner": "dharmx",
+  "url": "https://github.com/dharmx/telescope-media.nvim"
+}

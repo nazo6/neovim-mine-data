@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Cursor"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2023-12-03T18:02:16Z",
+    "description": "A plugin for Neovim to rainbow the cursor.",
+    "isArchived": false,
+    "lastCommit": "2024-04-20T18:27:25Z",
+    "nameWithOwner": "hoofcushion/rainbowcursor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rainbowcursor.nvim",
+  "owner": "hoofcushion",
+  "url": "https://github.com/abcdefg233/rainbowcursor.nvim"
+}

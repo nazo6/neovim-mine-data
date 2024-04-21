@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Rename"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-04-17T14:10:46Z",
+    "description": "Neovim plugin for LSP rename function in a centered popup",
+    "isArchived": false,
+    "lastCommit": "2024-04-17T15:19:22Z",
+    "nameWithOwner": "javiorfo/nvim-renamid",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-lsp",
+      "neovim-plugin",
+      "popupwindow",
+      "rename"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-renamid",
+  "owner": "javiorfo",
+  "url": "https://github.com/javiorfo/nvim-renamid"
+}

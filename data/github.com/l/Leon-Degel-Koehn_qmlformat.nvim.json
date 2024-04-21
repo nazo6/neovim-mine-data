@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GUI"
+        },
+        {
+          "level": 2,
+          "name": "QML"
+        }
+      ],
+      "file": "gui.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-04-16T07:37:29Z",
+    "description": "Qmlformat additions for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-04-18T14:13:00Z",
+    "nameWithOwner": "Leon-Degel-Koehn/qmlformat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qmlformat.nvim",
+  "owner": "Leon-Degel-Koehn",
+  "url": "https://github.com/Leon-Degel-Koehn/qmlformat.nvim"
+}

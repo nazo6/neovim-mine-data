@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 198,
+    "commitCountLastYear": 201,
     "createdAt": "2023-11-09T01:53:40Z",
-    "description": "A multiple cursors plugin for Neovim",
+    "description": "A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command",
     "isArchived": false,
-    "lastCommit": "2024-04-09T06:50:46Z",
+    "lastCommit": "2024-04-20T03:28:06Z",
     "nameWithOwner": "brenton-leighton/multiple-cursors.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 97,
+    "star": 111,
     "topics": [
       "neovim"
     ]

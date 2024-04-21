@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-04-15T20:57:19Z",
+    "description": "A simple neovim plugin to manage and jump to marks in files.",
+    "isArchived": false,
+    "lastCommit": "2024-04-17T15:36:15Z",
+    "nameWithOwner": "Laellekoenig/marky-mark.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "marky-mark.nvim",
+  "owner": "Laellekoenig",
+  "url": "https://github.com/Laellekoenig/marky-mark.nvim"
+}

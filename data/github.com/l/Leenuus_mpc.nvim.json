@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-04-19T13:55:00Z",
+    "description": "Play with Neovim... and mpd(Music Play Daemon)",
+    "isArchived": false,
+    "lastCommit": "2024-04-19T13:52:16Z",
+    "nameWithOwner": "Leenuus/mpc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mpc.nvim",
+  "owner": "Leenuus",
+  "url": "https://github.com/Leenuus/mpc.nvim"
+}

@@ -2,12 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Neovim Distribution"
-        }
       ],
-      "file": "neovim-distribution.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -29,14 +25,14 @@
     "commitCountLastYear": 19,
     "createdAt": "2021-03-20T03:01:30Z",
     "description": "A Neovim configuration for the advanced martian hacker",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-10-29T17:36:43Z",
     "nameWithOwner": "doom-neovim/doom-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 999,
+    "star": 1000,
     "topics": [
       "doom-nvim",
       "neovim",

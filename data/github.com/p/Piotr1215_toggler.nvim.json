@@ -8,20 +8,20 @@
         },
         {
           "level": 2,
-          "name": "Config"
+          "name": "Lint"
         }
       ],
-      "file": "neovim-lua-library.md",
+      "file": "linter_formatter.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
-    "createdAt": "2023-12-06T14:43:19Z",
-    "description": "A plugin for Neovim to provide utilities for my other plugins.",
+    "commitCountLastYear": 17,
+    "createdAt": "2024-04-14T12:32:17Z",
+    "description": "Neovim extension to toggle commands to run on events",
     "isArchived": false,
-    "lastCommit": "2024-02-14T08:57:25Z",
-    "nameWithOwner": "abcdefg233/hcutil.nvim",
+    "lastCommit": "2024-04-14T13:09:49Z",
+    "nameWithOwner": "Piotr1215/toggler.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "hcutil.nvim",
-  "owner": "abcdefg233",
-  "url": "https://github.com/abcdefg233/hcutil.nvim"
+  "name": "toggler.nvim",
+  "owner": "Piotr1215",
+  "url": "https://github.com/Piotr1215/toggler.nvim"
 }

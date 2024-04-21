@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "matchparen"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-04-18T02:56:00Z",
+    "description": "NeoVim plugin for jumping to the other end of the current Tree-sitter node",
+    "isArchived": false,
+    "lastCommit": "2024-04-20T22:16:25Z",
+    "nameWithOwner": "yorickpeterse/nvim-tree-pairs",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 62,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tree-pairs",
+  "owner": "yorickpeterse",
+  "url": "https://github.com/yorickpeterse/nvim-tree-pairs"
+}
