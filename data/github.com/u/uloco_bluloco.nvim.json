@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2022-10-11T08:28:31Z",
+    "description": "bluloco theme port for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-03-17T08:48:55Z",
+    "nameWithOwner": "uloco/bluloco.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 230,
+    "topics": [
+      "iterm2",
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-lua",
+      "neovim-theme",
+      "vim",
+      "vim-colorscheme",
+      "vim-theme",
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bluloco.nvim",
+  "owner": "uloco",
+  "url": "https://github.com/uloco/bluloco.nvim"
+}

@@ -22,10 +22,10 @@
   "data": {
     "commitCountLastYear": 1,
     "createdAt": "2024-04-01T23:00:47Z",
-    "description": "🚧 [WIP] Neovim plugin to integrate Composer",
+    "description": "🚧 [WIP] Neovim plugin for common PHP operations and Composer integration",
     "isArchived": false,
     "lastCommit": "2024-04-01T22:59:59Z",
-    "nameWithOwner": "RVxLab/php-composer.nvim",
+    "nameWithOwner": "RVxLab/php.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -39,7 +39,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "php-composer.nvim",
+  "name": "php.nvim",
   "owner": "RVxLab",
   "url": "https://github.com/RVxLab/php-composer.nvim"
 }

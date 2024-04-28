@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2023-07-18T13:58:45Z",
+    "description": "A telescope plug helps you run go test easily.",
+    "isArchived": false,
+    "lastCommit": "2024-04-26T14:26:10Z",
+    "nameWithOwner": "sshelll/telescope-gott.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-gott.nvim",
+  "owner": "sshelll",
+  "url": "https://github.com/sshelll/telescope-gott.nvim"
+}

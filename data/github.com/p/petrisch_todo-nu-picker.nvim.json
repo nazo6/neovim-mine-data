@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-04-26T09:27:05Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-04-26T18:13:04Z",
+    "nameWithOwner": "petrisch/todo-nu-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-nu-picker.nvim",
+  "owner": "petrisch",
+  "url": "https://github.com/petrisch/todo-nu-picker.nvim"
+}

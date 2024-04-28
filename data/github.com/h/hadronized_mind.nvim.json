@@ -2,12 +2,6 @@
   "category": [
     {
       "data": [
-      ],
-      "file": "Archived.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
         {
           "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
@@ -19,6 +13,12 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+      ],
+      "file": "Archived.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
@@ -39,5 +39,5 @@
   "domain": "github.com",
   "name": "mind.nvim",
   "owner": "hadronized",
-  "url": "https://github.com/phaazon/mind.nvim"
+  "url": "https://github.com/hadronized/mind.nvim"
 }

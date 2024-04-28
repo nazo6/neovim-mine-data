@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Colorscheme Creation"
-        }
       ],
-      "file": "neovim-lua-development.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,14 +11,14 @@
     "commitCountLastYear": 0,
     "createdAt": "2017-06-16T14:54:22Z",
     "description": "🎨 Generate and change color-schemes on the fly.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2021-09-09T03:15:02Z",
     "nameWithOwner": "dylanaraps/pywal",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 8056,
+    "star": 8077,
     "topics": [
       "wal",
       "colorscheme",

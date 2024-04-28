@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Profiler"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-04-20T06:02:28Z",
+    "description": "[WIP] Track your neovim keymaps",
+    "isArchived": false,
+    "lastCommit": "2024-04-20T16:37:44Z",
+    "nameWithOwner": "letieu/key-report.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "key-report.nvim",
+  "owner": "letieu",
+  "url": "https://github.com/letieu/key-report.nvim"
+}

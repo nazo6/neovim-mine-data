@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "Framework"
+        },
+        {
+          "level": 5,
+          "name": "Vue"
+        },
+        {
+          "level": 6,
+          "name": "Vleam"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-04-23T11:46:41Z",
+    "description": "Vleam support for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-04-23T12:01:50Z",
+    "nameWithOwner": "vleam/vleam.nvim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vleam.nvim",
+  "owner": "vleam",
+  "url": "https://github.com/vleam/vleam.nvim"
+}

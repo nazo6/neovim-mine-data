@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        },
+        {
+          "level": 4,
+          "name": "README"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-04-23T10:19:34Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-04-24T07:30:07Z",
+    "nameWithOwner": "mimikun/generate-readme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "generate-readme.nvim",
+  "owner": "mimikun",
+  "url": "https://github.com/mimikun/generate-readme.nvim"
+}

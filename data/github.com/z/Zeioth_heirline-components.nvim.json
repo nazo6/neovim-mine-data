@@ -4,6 +4,16 @@
       "data": [
         {
           "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -17,30 +27,20 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Statusline"
-        }
-      ],
-      "file": "statusline.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 244,
+    "commitCountLastYear": 246,
     "createdAt": "2024-02-04T20:46:47Z",
     "description": "Distro agnostic components for your Neovim heirline config",
     "isArchived": false,
-    "lastCommit": "2024-04-02T01:19:00Z",
+    "lastCommit": "2024-04-22T17:29:23Z",
     "nameWithOwner": "Zeioth/heirline-components.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 51,
+    "star": 55,
     "topics": [
       "neovim-plugin",
       "neovim-plugins"
@@ -49,5 +49,5 @@
   "domain": "github.com",
   "name": "heirline-components.nvim",
   "owner": "Zeioth",
-  "url": "https://github.com/zeioth/heirline-components.nvim"
+  "url": "https://github.com/Zeioth/heirline-components.nvim"
 }

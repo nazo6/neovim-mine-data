@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-04-21T16:56:25Z",
+    "description": "Manage and access clipboard history using neovim",
+    "isArchived": false,
+    "lastCommit": "2024-04-22T18:40:43Z",
+    "nameWithOwner": "pthapli/nvim-clipboard",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-clipboard",
+  "owner": "pthapli",
+  "url": "https://github.com/pthapli/nvim-clipboard"
+}

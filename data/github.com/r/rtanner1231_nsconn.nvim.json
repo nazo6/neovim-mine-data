@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Netsuite"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-04-20T18:13:36Z",
+    "description": "Netsuite token profile management and rest service calls",
+    "isArchived": false,
+    "lastCommit": "2024-04-22T20:39:04Z",
+    "nameWithOwner": "rtanner1231/nsconn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "netsuite"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nsconn.nvim",
+  "owner": "rtanner1231",
+  "url": "https://github.com/rtanner1231/nsconn.nvim"
+}

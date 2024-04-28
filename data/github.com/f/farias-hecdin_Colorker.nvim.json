@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "CSS"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-04-21T01:47:00Z",
+    "description": "📌 A plugin that will help you easily identify the colors defined in CSS variables",
+    "isArchived": false,
+    "lastCommit": "2024-04-27T22:34:28Z",
+    "nameWithOwner": "farias-hecdin/Colorker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Colorker.nvim",
+  "owner": "farias-hecdin",
+  "url": "https://github.com/farias-hecdin/Colorker.nvim"
+}

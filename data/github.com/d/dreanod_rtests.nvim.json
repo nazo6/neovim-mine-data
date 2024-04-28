@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "R"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-04-19T13:54:14Z",
+    "description": "Neovim plugin for inline R testing",
+    "isArchived": false,
+    "lastCommit": "2024-04-21T06:55:32Z",
+    "nameWithOwner": "dreanod/rtests.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rtests.nvim",
+  "owner": "dreanod",
+  "url": "https://github.com/dreanod/rtests.nvim"
+}

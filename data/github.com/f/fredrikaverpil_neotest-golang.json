@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Test"
+        }
+      ],
+      "file": "test.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2024-04-15T22:52:29Z",
+    "description": "Neotest adapter for Go",
+    "isArchived": false,
+    "lastCommit": "2024-04-27T08:04:26Z",
+    "nameWithOwner": "fredrikaverpil/neotest-golang",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin",
+      "neotest",
+      "go",
+      "golang",
+      "neotest-adapter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neotest-golang",
+  "owner": "fredrikaverpil",
+  "url": "https://github.com/fredrikaverpil/neotest-golang"
+}

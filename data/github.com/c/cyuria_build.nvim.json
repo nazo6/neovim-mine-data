@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        },
+        {
+          "level": 4,
+          "name": "Cmake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-04-20T09:09:07Z",
+    "description": "A neovim plugin written in lua to automatically detect your current workspace's build system and set makeprg accordingly",
+    "isArchived": false,
+    "lastCommit": "2024-04-20T10:09:40Z",
+    "nameWithOwner": "cyuria/build.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "build.nvim",
+  "owner": "cyuria",
+  "url": "https://github.com/cyuria/build.nvim"
+}
