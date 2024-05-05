@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        },
+        {
+          "level": 2,
+          "name": "Line Number"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-04-30T09:28:35Z",
+    "description": "Copy source code with line numbers",
+    "isArchived": false,
+    "lastCommit": "2024-05-05T01:52:02Z",
+    "nameWithOwner": "akiyosi/copysource.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copysource.nvim",
+  "owner": "akiyosi",
+  "url": "https://github.com/akiyosi/copysource.nvim"
+}

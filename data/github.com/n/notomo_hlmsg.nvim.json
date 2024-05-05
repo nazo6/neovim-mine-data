@@ -8,19 +8,15 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Message"
         }
       ],
-      "file": "readme.md",
+      "file": "message_notification.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 2,
     "createdAt": "2022-09-05T14:01:00Z",
     "description": "Neovim plugin to get highlighted message history",
     "isArchived": false,

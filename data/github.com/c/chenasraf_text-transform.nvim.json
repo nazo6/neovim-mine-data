@@ -20,18 +20,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 58,
+    "commitCountLastYear": 96,
     "createdAt": "2023-05-14T22:22:23Z",
-    "description": "Common text transformers for nvim - switch between camelCase, PascalCase, snake_case, and more!",
+    "description": "Common text transformers for neovim - switch between camelCase, PascalCase, snake_case, and more!",
     "isArchived": false,
-    "lastCommit": "2023-05-18T06:40:11Z",
+    "lastCommit": "2024-05-04T08:36:27Z",
     "nameWithOwner": "chenasraf/text-transform.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 10,
     "topics": [
+      "camel",
+      "case",
+      "neovim",
+      "pascal",
+      "replace",
+      "snake",
+      "text",
+      "transform"
     ]
   },
   "domain": "github.com",

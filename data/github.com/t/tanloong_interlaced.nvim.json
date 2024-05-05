@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
-          "name": "Split / Join"
+          "name": "[Split / Join](./split_join.md)"
         }
       ],
-      "file": "readme.md",
+      "file": "split_join.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,11 +30,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 17,
     "createdAt": "2023-08-09T20:22:27Z",
     "description": "Neovim plugin for aligning bilingual parallel texts",
     "isArchived": false,
-    "lastCommit": "2024-02-07T14:23:21Z",
+    "lastCommit": "2024-04-29T19:32:37Z",
     "nameWithOwner": "tanloong/interlaced.nvim",
     "primaryLanguage": {
       "color": "#000080",

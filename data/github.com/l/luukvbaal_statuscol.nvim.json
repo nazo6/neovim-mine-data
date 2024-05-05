@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "Appearance"
+          "name": "View"
         },
         {
           "level": 3,
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 22,
     "createdAt": "2022-11-21T12:04:24Z",
     "description": "Status column plugin that provides a configurable 'statuscolumn' and click handlers.",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 436,
+    "star": 439,
     "topics": [
       "lua",
       "neovim",

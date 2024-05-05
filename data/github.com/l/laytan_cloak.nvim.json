@@ -7,15 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "New features"
-        },
-        {
           "level": 3,
           "name": "Security"
         }
       ],
-      "file": "readme.md",
+      "file": "security.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 307,
+    "star": 309,
     "topics": [
     ]
   },

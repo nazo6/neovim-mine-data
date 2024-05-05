@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Security"
+        },
+        {
+          "level": 4,
+          "name": "Secrets"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-05-01T09:39:09Z",
+    "description": "doppler integration into neovim",
+    "isArchived": false,
+    "lastCommit": "2024-05-03T18:43:56Z",
+    "nameWithOwner": "conneroisu/doppler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "doppler.nvim",
+  "owner": "conneroisu",
+  "url": "https://github.com/conneroisu/doppler.nvim"
+}

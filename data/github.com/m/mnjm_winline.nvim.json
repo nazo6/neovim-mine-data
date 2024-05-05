@@ -8,23 +8,19 @@
         },
         {
           "level": 2,
-          "name": "Appearance"
-        },
-        {
-          "level": 3,
           "name": "winbar"
         }
       ],
-      "file": "readme.md",
+      "file": "winbar.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 12,
     "createdAt": "2024-04-07T04:54:29Z",
     "description": "Minimal winbar plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2024-04-26T08:01:02Z",
+    "lastCommit": "2024-04-28T10:38:29Z",
     "nameWithOwner": "mnjm/winline.nvim",
     "primaryLanguage": {
       "color": "#000080",

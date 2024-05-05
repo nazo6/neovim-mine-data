@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 4,
+          "name": "Guitar"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-04-30T14:20:21Z",
+    "description": "A neovim plugin to aid in writing guitar tablature.",
+    "isArchived": false,
+    "lastCommit": "2024-05-01T20:53:57Z",
+    "nameWithOwner": "mikemehl/guitar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "guitar.nvim",
+  "owner": "mikemehl",
+  "url": "https://github.com/mikemehl/guitar.nvim"
+}

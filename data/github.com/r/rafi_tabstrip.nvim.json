@@ -8,19 +8,15 @@
         },
         {
           "level": 2,
-          "name": "Appearance"
-        },
-        {
-          "level": 3,
           "name": "Tabline"
         }
       ],
-      "file": "readme.md",
+      "file": "tabline.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 1,
     "createdAt": "2023-04-01T08:36:43Z",
     "description": "Unobtrusive tabline for Neovim.",
     "isArchived": false,

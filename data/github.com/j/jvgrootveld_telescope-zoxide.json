@@ -8,14 +8,14 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
+          "name": "Directory"
         },
         {
           "level": 3,
           "name": "cd(change directory)"
         }
       ],
-      "file": "readme.md",
+      "file": "directory.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 269,
+    "star": 273,
     "topics": [
       "lua",
       "neovim",

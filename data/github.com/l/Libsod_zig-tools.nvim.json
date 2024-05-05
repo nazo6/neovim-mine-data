@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Zig"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-05-01T09:13:08Z",
+    "description": "Improve your Zig experience in Neovim! A plugin that provides integration with the Zig development tools ",
+    "isArchived": false,
+    "lastCommit": "2024-05-03T07:25:13Z",
+    "nameWithOwner": "Libsod/zig-tools.nvim",
+    "primaryLanguage": {
+      "color": "#7e7eff",
+      "name": "Nix"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "zig",
+      "nix",
+      "nvim",
+      "nvim-plugin",
+      "plugin",
+      "ziglang"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zig-tools.nvim",
+  "owner": "Libsod",
+  "url": "https://github.com/Libsod/zig-tools.nvim"
+}

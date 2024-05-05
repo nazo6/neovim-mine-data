@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Macro"
         }
       ],
-      "file": "readme.md",
+      "file": "macro.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 30,
     "createdAt": "2023-04-22T00:34:26Z",
     "description": "Neovim plugin that simplifies macros, enhancing productivity with harmony.",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 371,
+    "star": 373,
     "topics": [
       "lua",
       "macros",

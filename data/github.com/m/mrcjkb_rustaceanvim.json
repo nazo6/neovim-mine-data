@@ -4,18 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Programing Language / Framework"
-        },
-        {
-          "level": 3,
           "name": "Rust"
         }
       ],
-      "file": "language-specific.md",
+      "file": "rust.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 455,
+    "commitCountLastYear": 460,
     "createdAt": "2021-05-11T06:39:38Z",
     "description": "Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
     "isArchived": false,
-    "lastCommit": "2024-04-26T17:08:25Z",
+    "lastCommit": "2024-05-04T13:27:03Z",
     "nameWithOwner": "mrcjkb/rustaceanvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 988,
+    "star": 1008,
     "topics": [
       "dap",
       "debug-adapter-protocol",

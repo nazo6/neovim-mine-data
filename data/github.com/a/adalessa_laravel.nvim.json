@@ -4,27 +4,23 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Programing Language / Framework"
-        },
-        {
-          "level": 3,
           "name": "PHP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Laravel"
         }
       ],
-      "file": "language-specific.md",
+      "file": "php.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 75,
+    "commitCountLastYear": 69,
     "createdAt": "2022-08-17T17:38:53Z",
     "description": "Plugin for Nvim to work with laravel projects.",
     "isArchived": false,
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 197,
+    "star": 202,
     "topics": [
     ]
   },

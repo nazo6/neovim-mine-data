@@ -8,19 +8,19 @@
         },
         {
           "level": 2,
-          "name": "New features"
+          "name": "Readable Assistant"
         },
         {
           "level": 3,
           "name": "Human-readable"
         }
       ],
-      "file": "readme.md",
+      "file": "readable-assistant.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 1,
     "createdAt": "2023-02-03T12:49:42Z",
     "description": "A Neovim plugin for displaying the components of a URL in a human-readable way",
     "isArchived": false,

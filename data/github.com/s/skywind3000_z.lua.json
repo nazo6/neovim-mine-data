@@ -8,33 +8,29 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
+          "name": "Directory"
         },
         {
           "level": 3,
-          "name": "cd(change directory)"
-        },
-        {
-          "level": 4,
           "name": "z"
         }
       ],
-      "file": "readme.md",
+      "file": "directory.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 20,
     "createdAt": "2018-03-21T12:04:38Z",
     "description": ":zap: A new cd command that helps you navigate faster by learning your habits.",
     "isArchived": false,
-    "lastCommit": "2024-04-20T12:38:20Z",
+    "lastCommit": "2024-04-30T09:16:36Z",
     "nameWithOwner": "skywind3000/z.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2918,
+    "star": 2921,
     "topics": [
       "autojump",
       "bash",

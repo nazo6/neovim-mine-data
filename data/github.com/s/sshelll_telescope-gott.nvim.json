@@ -20,19 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 22,
     "createdAt": "2023-07-18T13:58:45Z",
     "description": "A telescope plug helps you run go test easily.",
     "isArchived": false,
-    "lastCommit": "2024-04-26T14:26:10Z",
+    "lastCommit": "2024-04-30T10:03:01Z",
     "nameWithOwner": "sshelll/telescope-gott.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 8,
     "topics": [
-      "neovim-plugin"
+      "neovim-plugin",
+      "golang",
+      "testing"
     ]
   },
   "domain": "github.com",

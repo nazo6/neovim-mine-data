@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-03T17:42:25Z",
+    "description": "[MIRROR] Fuzzy pickers to open files, switch buffers and execute ex-commands",
+    "isArchived": false,
+    "lastCommit": "2024-05-03T17:37:02Z",
+    "nameWithOwner": "adigitoleo/quark.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "fzf-interface",
+      "neovim",
+      "floating-window"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quark.nvim",
+  "owner": "adigitoleo",
+  "url": "https://github.com/adigitoleo/quark.nvim"
+}

@@ -8,14 +8,18 @@
         },
         {
           "level": 2,
-          "name": "New features"
+          "name": "Hardware"
         },
         {
           "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
           "name": "Keyboard Layout"
         }
       ],
-      "file": "readme.md",
+      "file": "hardware.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

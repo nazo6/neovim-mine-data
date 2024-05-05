@@ -8,23 +8,19 @@
         },
         {
           "level": 2,
-          "name": "Appearance"
-        },
-        {
-          "level": 3,
           "name": "Tabline"
         }
       ],
-      "file": "readme.md",
+      "file": "tabline.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 22,
     "createdAt": "2024-04-05T22:23:23Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-04-11T11:25:05Z",
+    "lastCommit": "2024-04-30T10:45:37Z",
     "nameWithOwner": "TeddyRandby/taboo.nvim",
     "primaryLanguage": {
       "color": "#000080",

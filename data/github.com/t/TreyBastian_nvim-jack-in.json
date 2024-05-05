@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-04-30T22:14:13Z",
+    "description": "Neovim plugin for cider-jack-in",
+    "isArchived": false,
+    "lastCommit": "2024-05-02T10:30:38Z",
+    "nameWithOwner": "TreyBastian/nvim-jack-in",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jack-in",
+  "owner": "TreyBastian",
+  "url": "https://github.com/treybastian/nvim-jack-in"
+}

@@ -8,14 +8,14 @@
         },
         {
           "level": 2,
-          "name": "New features"
+          "name": "VS Code features"
         },
         {
           "level": 3,
           "name": "Devcontainer"
         }
       ],
-      "file": "readme.md",
+      "file": "vscode-features.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 493,
+    "star": 499,
     "topics": [
       "containers",
       "devcontainer",

@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
-          "name": "Split / Join"
+          "name": "[Split / Join](./split_join.md)"
         }
       ],
-      "file": "readme.md",
+      "file": "split_join.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 54,
+    "commitCountLastYear": 48,
     "createdAt": "2022-11-11T12:09:43Z",
     "description": "Neovim plugin for splitting/joining blocks of code",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 832,
+    "star": 865,
     "topics": [
       "neovim",
       "neovim-plugin",

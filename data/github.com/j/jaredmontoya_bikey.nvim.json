@@ -8,23 +8,27 @@
         },
         {
           "level": 2,
-          "name": "New features"
+          "name": "Hardware"
         },
         {
           "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
           "name": "Keyboard Layout"
         }
       ],
-      "file": "readme.md",
+      "file": "hardware.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 6,
     "createdAt": "2024-02-22T17:38:11Z",
     "description": "Automatic keyboard layout switcher for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-02-29T13:22:15Z",
+    "lastCommit": "2024-04-28T17:19:15Z",
     "nameWithOwner": "jaredmontoya/bikey.nvim",
     "primaryLanguage": {
       "color": "#000080",

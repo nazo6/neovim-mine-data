@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Go"
+          "name": "Lua"
         },
         {
           "level": 3,
-          "name": "Test"
+          "name": "LSP"
         }
       ],
-      "file": "go.md",
+      "file": "lua.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
-    "createdAt": "2024-04-10T15:48:07Z",
-    "description": "A lightweight plugin for go dev experience.",
+    "commitCountLastYear": 1,
+    "createdAt": "2024-04-30T05:34:44Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-04-24T13:50:52Z",
-    "nameWithOwner": "Aryonal/gou.nvim",
+    "lastCommit": "2024-04-30T05:34:08Z",
+    "nameWithOwner": "AbaoFromCUG/luals.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "gou.nvim",
-  "owner": "Aryonal",
-  "url": "https://github.com/Aryonal/gou.nvim"
+  "name": "luals.nvim",
+  "owner": "AbaoFromCUG",
+  "url": "https://github.com/AbaoFromCUG/luals.nvim"
 }

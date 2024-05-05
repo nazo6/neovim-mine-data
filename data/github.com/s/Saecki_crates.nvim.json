@@ -4,18 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Programing Language / Framework"
-        },
-        {
-          "level": 3,
           "name": "Rust"
         }
       ],
-      "file": "language-specific.md",
+      "file": "rust.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 107,
+    "commitCountLastYear": 105,
     "createdAt": "2021-08-24T17:13:20Z",
     "description": "A neovim plugin that helps managing crates.io dependencies",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 763,
+    "star": 766,
     "topics": [
       "crates-io",
       "cargo",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Rails"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-04-30T12:59:42Z",
+    "description": "A plugin to perform go to definition  in rails erb and slim templates",
+    "isArchived": false,
+    "lastCommit": "2024-04-30T21:53:52Z",
+    "nameWithOwner": "mactunechy/rails-view-component-gd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rails-view-component-gd.nvim",
+  "owner": "mactunechy",
+  "url": "https://github.com/mactunechy/rails-view-component-gd.nvim"
+}

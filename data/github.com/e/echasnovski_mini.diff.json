@@ -8,29 +8,25 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
-          "name": "Diff"
+          "name": "[Diff](./diff.md)"
         }
       ],
-      "file": "readme.md",
+      "file": "diff.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 14,
     "createdAt": "2024-03-28T16:13:36Z",
     "description": "Work with diff hunks. Part of 'mini.nvim' library. ",
     "isArchived": false,
-    "lastCommit": "2024-04-13T08:31:49Z",
+    "lastCommit": "2024-05-04T13:50:17Z",
     "nameWithOwner": "echasnovski/mini.diff",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 45,
+    "star": 46,
     "topics": [
     ]
   },

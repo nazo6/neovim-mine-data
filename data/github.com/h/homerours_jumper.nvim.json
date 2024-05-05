@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2024-01-07T22:29:19Z",
+    "description": "A Neovim plugin for jumping to files and folders.",
+    "isArchived": false,
+    "lastCommit": "2024-05-02T08:03:22Z",
+    "nameWithOwner": "homerours/jumper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "jump",
+      "neovim",
+      "telescope",
+      "z",
+      "fzf"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jumper.nvim",
+  "owner": "homerours",
+  "url": "https://github.com/homerours/jumper.nvim"
+}

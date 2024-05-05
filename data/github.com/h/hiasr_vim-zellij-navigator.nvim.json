@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Zellij"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-05-02T21:33:17Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-05-02T21:55:55Z",
+    "nameWithOwner": "hiasr/vim-zellij-navigator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vim-zellij-navigator.nvim",
+  "owner": "hiasr",
+  "url": "https://github.com/hiasr/vim-zellij-navigator.nvim"
+}

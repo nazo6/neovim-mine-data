@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Discord"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-04-27T18:33:29Z",
+    "description": "Discord Rich Presence for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-05-03T10:28:01Z",
+    "nameWithOwner": "mistweaverco/discord.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "discord",
+      "discord-rpc",
+      "discord-rpc-client",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "neovim-plugins",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "discord.nvim",
+  "owner": "mistweaverco",
+  "url": "https://github.com/mistweaverco/discord.nvim"
+}

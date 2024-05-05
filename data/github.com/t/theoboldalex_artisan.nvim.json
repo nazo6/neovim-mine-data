@@ -4,22 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Programing Language / Framework"
-        },
-        {
-          "level": 3,
           "name": "PHP"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Laravel"
         }
       ],
-      "file": "language-specific.md",
+      "file": "php.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

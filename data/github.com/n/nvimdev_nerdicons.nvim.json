@@ -8,19 +8,15 @@
         },
         {
           "level": 2,
-          "name": "New features"
-        },
-        {
-          "level": 3,
           "name": "Font"
         }
       ],
-      "file": "readme.md",
+      "file": "font_emoji.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2023-03-07T12:20:26Z",
     "description": "get the nerdfont icons inside neovim ",
     "isArchived": false,
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 47,
+    "star": 48,
     "topics": [
     ]
   },

@@ -8,14 +8,14 @@
         },
         {
           "level": 2,
-          "name": "New features"
+          "name": "UI"
         },
         {
           "level": 3,
           "name": "Notification"
         }
       ],
-      "file": "readme.md",
+      "file": "neovim-lua-library.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -26,14 +26,10 @@
         },
         {
           "level": 2,
-          "name": "UI"
-        },
-        {
-          "level": 3,
           "name": "Notification"
         }
       ],
-      "file": "neovim-lua-library.md",
+      "file": "message_notification.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -62,7 +58,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2760,
+    "star": 2776,
     "topics": [
       "neovim",
       "nvim"

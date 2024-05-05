@@ -20,18 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 8,
     "createdAt": "2024-04-25T02:29:47Z",
     "description": "A simple plugin for displaying marks in the sign column",
     "isArchived": false,
-    "lastCommit": "2024-04-25T05:19:21Z",
+    "lastCommit": "2024-04-30T03:45:25Z",
     "nameWithOwner": "vanaigr/mark-signs.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

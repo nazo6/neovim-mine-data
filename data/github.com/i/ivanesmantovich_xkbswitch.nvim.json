@@ -8,19 +8,23 @@
         },
         {
           "level": 2,
-          "name": "New features"
+          "name": "Hardware"
         },
         {
           "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
           "name": "Keyboard Layout"
         }
       ],
-      "file": "readme.md",
+      "file": "hardware.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 9,
     "createdAt": "2023-02-17T23:14:36Z",
     "description": "Smart automatic keyboard layout switching in 110 LOC",
     "isArchived": false,
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 45,
+    "star": 46,
     "topics": [
     ]
   },

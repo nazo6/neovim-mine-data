@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-04-28T05:27:42Z",
+    "description": "Floating preview windows for nvim-tree",
+    "isArchived": false,
+    "lastCommit": "2024-04-29T04:18:40Z",
+    "nameWithOwner": "b0o/nvim-tree-preview.lua",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tree-preview.lua",
+  "owner": "b0o",
+  "url": "https://github.com/b0o/nvim-tree-preview.lua"
+}

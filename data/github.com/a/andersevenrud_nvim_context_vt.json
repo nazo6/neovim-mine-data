@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Coding"
-        },
-        {
-          "level": 3,
-          "name": "Reading assistant feature"
-        }
-      ],
-      "file": "readme.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -31,6 +13,24 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Readable Assistant"
+        },
+        {
+          "level": 3,
+          "name": "Reading assistant feature"
+        }
+      ],
+      "file": "readable-assistant.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 352,
+    "star": 355,
     "topics": [
       "lua",
       "neovim",
@@ -58,5 +58,5 @@
   "domain": "github.com",
   "name": "nvim_context_vt",
   "owner": "andersevenrud",
-  "url": "https://github.com/haringsrob/nvim_context_vt"
+  "url": "https://github.com/andersevenrud/nvim_context_vt"
 }

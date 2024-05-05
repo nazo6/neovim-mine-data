@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Motion"
+          "name": "Go"
         },
         {
           "level": 3,
-          "name": "Label Jump (Easymotion style)"
+          "name": "Test"
         }
       ],
-      "file": "motion.md",
+      "file": "go.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2023-08-31T17:14:54Z",
-    "description": "Neovim plugin to jump to any location with few keystrokes",
+    "commitCountLastYear": 6,
+    "createdAt": "2024-04-27T04:46:56Z",
+    "description": "Neovim plugin to run golang tests",
     "isArchived": false,
-    "lastCommit": "2023-05-18T17:55:58Z",
-    "nameWithOwner": "madyanov/svart.nvim",
+    "lastCommit": "2024-04-27T14:57:34Z",
+    "nameWithOwner": "vcraescu/gotest.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "svart.nvim",
-  "owner": "madyanov",
-  "url": "https://github.com/madyanov/svart.nvim"
+  "name": "gotest.nvim",
+  "owner": "vcraescu",
+  "url": "https://github.com/vcraescu/gotest.nvim"
 }

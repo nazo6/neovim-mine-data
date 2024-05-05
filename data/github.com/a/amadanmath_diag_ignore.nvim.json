@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Annotation"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-05-01T13:17:14Z",
+    "description": "NeoVim plugin to automate adding annotations to disable diagnostic messages on the current line",
+    "isArchived": false,
+    "lastCommit": "2024-05-04T09:15:47Z",
+    "nameWithOwner": "amadanmath/diag_ignore.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diag_ignore.nvim",
+  "owner": "amadanmath",
+  "url": "https://github.com/amadanmath/diag_ignore.nvim"
+}

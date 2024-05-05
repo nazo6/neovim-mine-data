@@ -8,18 +8,14 @@
         },
         {
           "level": 2,
-          "name": "New features"
-        },
-        {
-          "level": 3,
           "name": "Hex"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Hex Editor"
         }
       ],
-      "file": "readme.md",
+      "file": "hex.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 167,
+    "star": 169,
     "topics": [
       "neovim-plugin"
     ]

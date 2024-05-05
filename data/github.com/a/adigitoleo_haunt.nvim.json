@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2024-04-28T15:29:00Z",
+    "description": "[MIRROR] Floating windows for terminals, man pages and help buffers",
+    "isArchived": false,
+    "lastCommit": "2024-05-03T12:52:29Z",
+    "nameWithOwner": "adigitoleo/haunt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "floating-window",
+      "neovim",
+      "documentation-browser",
+      "neovim-terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "haunt.nvim",
+  "owner": "adigitoleo",
+  "url": "https://github.com/adigitoleo/haunt.nvim"
+}

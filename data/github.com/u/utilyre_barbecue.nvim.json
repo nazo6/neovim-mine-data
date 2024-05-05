@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Appearance"
-        },
-        {
-          "level": 3,
           "name": "winbar"
         }
       ],
-      "file": "readme.md",
+      "file": "winbar.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 2,
     "createdAt": "2022-07-14T10:40:43Z",
     "description": "A VS Code like winbar for Neovim",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 679,
+    "star": 689,
     "topics": [
       "lua",
       "neovim",

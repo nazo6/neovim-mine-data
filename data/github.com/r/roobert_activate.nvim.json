@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "New features"
-        },
-        {
-          "level": 3,
           "name": "Market place"
         }
       ],
-      "file": "readme.md",
+      "file": "plugin-manager.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 179,
+    "commitCountLastYear": 184,
     "createdAt": "2023-09-06T21:22:57Z",
     "description": "🚀 Activate is a plugin installation system for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-04-26T12:05:10Z",
+    "lastCommit": "2024-05-04T18:03:39Z",
     "nameWithOwner": "roobert/activate.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 86,
+    "star": 87,
     "topics": [
     ]
   },

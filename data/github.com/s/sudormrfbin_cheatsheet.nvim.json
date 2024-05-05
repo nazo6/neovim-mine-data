@@ -8,6 +8,10 @@
         },
         {
           "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
           "name": "CheatSheet"
         }
       ],
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 633,
+    "star": 635,
     "topics": [
       "nvim",
       "cheatsheet",

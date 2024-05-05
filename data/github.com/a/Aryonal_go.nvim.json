@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-04-10T15:48:07Z",
+    "description": "A toy plugin for go.",
+    "isArchived": false,
+    "lastCommit": "2024-05-02T09:57:43Z",
+    "nameWithOwner": "Aryonal/go.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go.nvim",
+  "owner": "Aryonal",
+  "url": "https://github.com/Aryonal/gou.nvim"
+}

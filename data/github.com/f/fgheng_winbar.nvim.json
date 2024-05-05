@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Appearance"
-        },
-        {
-          "level": 3,
           "name": "winbar"
         }
       ],
-      "file": "readme.md",
+      "file": "winbar.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 109,
+    "star": 110,
     "topics": [
       "neovim",
       "winbar",
