@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        },
+        {
+          "level": 2,
+          "name": "Line Number"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-05-10T05:01:36Z",
+    "description": "A tiny tool provides Copy Code Reference.",
+    "isArchived": false,
+    "lastCommit": "2024-05-10T10:56:51Z",
+    "nameWithOwner": "yuchanns/ccr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "code-reference",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ccr.nvim",
+  "owner": "yuchanns",
+  "url": "https://github.com/yuchanns/ccr.nvim"
+}

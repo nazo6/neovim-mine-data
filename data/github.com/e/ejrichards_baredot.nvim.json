@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git environment variable"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-09T04:44:16Z",
+    "description": "Neovim plugin to automatically adjust `git` env vars when syncing dotfiles using the \"bare git repo\" method",
+    "isArchived": false,
+    "lastCommit": "2024-05-09T05:00:24Z",
+    "nameWithOwner": "ejrichards/baredot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "baredot.nvim",
+  "owner": "ejrichards",
+  "url": "https://github.com/ejrichards/baredot.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "[Split / Join](./split_join.md)"
+        }
+      ],
+      "file": "split_join.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-05-08T19:20:55Z",
+    "description": "A Neovim plugin for joining lines that belong to the same paragraph",
+    "isArchived": false,
+    "lastCommit": "2024-05-08T20:41:29Z",
+    "nameWithOwner": "jakeru/join.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "join.nvim",
+  "owner": "jakeru",
+  "url": "https://github.com/jakeru/join.nvim"
+}

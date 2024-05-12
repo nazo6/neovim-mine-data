@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Filer"
-        },
-        {
-          "level": 2,
-          "name": "ranger"
-        },
-        {
-          "level": 3,
-          "name": "yazi"
-        }
       ],
-      "file": "filer.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 31,
     "createdAt": "2024-01-07T09:16:08Z",
     "description": "A Neovim plugin for Yazi",
-    "isArchived": false,
-    "lastCommit": "2024-03-13T13:20:12Z",
+    "isArchived": true,
+    "lastCommit": "2024-05-10T12:28:43Z",
     "nameWithOwner": "SR-MyStar/yazi.nvim",
     "primaryLanguage": {
       "color": "#000080",

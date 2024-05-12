@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2023-02-06T20:55:35Z",
+    "description": "A cheatsheet plugin for neovim with bundled cheatsheets for the editor, multiple vim plugins, nerd-fonts, regex, etc. with a Telescope fuzzy finder interface !",
+    "isArchived": false,
+    "lastCommit": "2023-08-06T21:06:14Z",
+    "nameWithOwner": "doctorfree/cheatsheet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cheatsheet.nvim",
+  "owner": "doctorfree",
+  "url": "https://github.com/doctorfree/cheatsheet.nvim"
+}

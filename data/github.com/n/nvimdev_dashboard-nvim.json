@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "Startup"
+          "name": "Startup(DashBoard)"
         }
       ],
       "file": "startup.md",
@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 58,
+    "commitCountLastYear": 60,
     "createdAt": "2020-06-07T07:00:58Z",
     "description": "vim dashboard",
     "isArchived": false,
-    "lastCommit": "2024-04-29T10:20:22Z",
+    "lastCommit": "2024-05-05T11:03:19Z",
     "nameWithOwner": "nvimdev/dashboard-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2056,
+    "star": 2075,
     "topics": [
       "dashboard",
       "neovim",

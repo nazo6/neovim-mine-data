@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 45,
+    "commitCountLastYear": 43,
     "createdAt": "2021-11-21T01:01:11Z",
     "description": "A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim",
     "isArchived": false,
     "lastCommit": "2024-04-22T08:14:27Z",
-    "nameWithOwner": "renerocksai/telekasten.nvim",
+    "nameWithOwner": "nvim-telekasten/telekasten.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1234,
+    "star": 1239,
     "topics": [
       "lua",
       "neovim",
@@ -49,6 +49,6 @@
   },
   "domain": "github.com",
   "name": "telekasten.nvim",
-  "owner": "renerocksai",
+  "owner": "nvim-telekasten",
   "url": "https://github.com/renerocksai/telekasten.nvim"
 }

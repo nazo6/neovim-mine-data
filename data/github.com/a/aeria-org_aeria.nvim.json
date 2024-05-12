@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Aeria"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-05-05T21:10:15Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-05-06T06:22:03Z",
+    "nameWithOwner": "aeria-org/aeria.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "aeria.nvim",
+  "owner": "aeria-org",
+  "url": "https://github.com/aeria-org/aeria.nvim"
+}

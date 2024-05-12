@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-05-10T14:11:57Z",
+    "description": "Opinionated mappings for the bepo layout in Lua, remapping hjkl to tsrn instead of ctsr.",
+    "isArchived": false,
+    "lastCommit": "2024-05-10T14:16:22Z",
+    "nameWithOwner": "lthms/bepo-tsrn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "bepo",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bepo-tsrn.nvim",
+  "owner": "lthms",
+  "url": "https://github.com/lthms/bepo-tsrn.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2024-05-04T09:33:14Z",
+    "description": "a small http/rest client plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-05-11T18:39:59Z",
+    "nameWithOwner": "lima1909/resty.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "resty.nvim",
+  "owner": "lima1909",
+  "url": "https://github.com/lima1909/resty.nvim"
+}

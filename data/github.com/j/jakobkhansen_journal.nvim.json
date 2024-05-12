@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 74,
+    "createdAt": "2024-04-06T21:48:04Z",
+    "description": "🖋️ Highly extensible journaling system for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-05-11T20:10:15Z",
+    "nameWithOwner": "jakobkhansen/journal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "journal",
+      "lua",
+      "neovim",
+      "neovim-plugins",
+      "nvim",
+      "nvim-lua",
+      "vim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "journal.nvim",
+  "owner": "jakobkhansen",
+  "url": "https://github.com/jakobkhansen/journal.nvim"
+}

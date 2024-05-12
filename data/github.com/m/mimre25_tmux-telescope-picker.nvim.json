@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-09T13:02:00Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-05-09T13:05:22Z",
+    "nameWithOwner": "mimre25/tmux-telescope-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-telescope-picker.nvim",
+  "owner": "mimre25",
+  "url": "https://github.com/mimre25/tmux-telescope-picker.nvim"
+}

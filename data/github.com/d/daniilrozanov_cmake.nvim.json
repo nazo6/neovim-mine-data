@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "C/C++"
+        },
+        {
+          "level": 4,
+          "name": "Cmake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2024-03-06T20:13:58Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-05-10T23:33:56Z",
+    "nameWithOwner": "daniilrozanov/cmake.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "cmake",
+      "nvim-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmake.nvim",
+  "owner": "daniilrozanov",
+  "url": "https://github.com/daniilrozanov/cmake.nvim"
+}

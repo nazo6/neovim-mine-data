@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "subfiles"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-07T19:39:17Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-05-07T19:39:47Z",
+    "nameWithOwner": "thornoar/nvim-subfiles",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-subfiles",
+  "owner": "thornoar",
+  "url": "https://github.com/thornoar/nvim-subfiles"
+}

@@ -11,12 +11,12 @@
           "name": "AI Completion"
         }
       ],
-      "file": "completion.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 55,
+    "commitCountLastYear": 46,
     "createdAt": "2023-05-07T09:26:41Z",
     "description": "LLM powered development for Neovim",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 552,
+    "star": 564,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "Startup"
+          "name": "Startup(DashBoard)"
         }
       ],
       "file": "startup.md",
@@ -30,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 18,
     "createdAt": "2021-09-01T23:35:47Z",
     "description": "a lua powered greeter like vim-startify / dashboard-nvim",
     "isArchived": false,
@@ -40,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1629,
+    "star": 1639,
     "topics": [
       "neovim",
       "vim-startify",

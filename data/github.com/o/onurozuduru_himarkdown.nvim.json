@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown header"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-05-07T23:49:49Z",
+    "description": "A plugin to decorate markdown files",
+    "isArchived": false,
+    "lastCommit": "2024-05-11T10:34:36Z",
+    "nameWithOwner": "onurozuduru/himarkdown.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "himarkdown.nvim",
+  "owner": "onurozuduru",
+  "url": "https://github.com/onurozuduru/himarkdown.nvim"
+}

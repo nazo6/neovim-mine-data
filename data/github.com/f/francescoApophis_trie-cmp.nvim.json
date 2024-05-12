@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-09T20:30:07Z",
+    "description": "Text Completion through a Trie (Prefix Tree) in Lua.",
+    "isArchived": false,
+    "lastCommit": "2024-05-09T20:39:29Z",
+    "nameWithOwner": "francescoApophis/trie-cmp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "trie-cmp.nvim",
+  "owner": "francescoApophis",
+  "url": "https://github.com/francescoApophis/trie-cmp.nvim"
+}
