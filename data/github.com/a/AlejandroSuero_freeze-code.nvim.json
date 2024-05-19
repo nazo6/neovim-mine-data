@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screen Key"
+        },
+        {
+          "level": 4,
+          "name": "Code Image"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2024-05-12T03:09:23Z",
+    "description": "Take a code screenshot using freeze by https://charm.sh/",
+    "isArchived": false,
+    "lastCommit": "2024-05-15T01:14:24Z",
+    "nameWithOwner": "AlejandroSuero/freeze-code.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "charm",
+      "charmbracelet",
+      "freeze",
+      "golang",
+      "neovim",
+      "neovim-plugin",
+      "open-source",
+      "plenary",
+      "plugin",
+      "code"
+    ]
+  },
+  "domain": "github.com",
+  "name": "freeze-code.nvim",
+  "owner": "AlejandroSuero",
+  "url": "https://github.com/AlejandroSuero/freeze-code.nvim"
+}

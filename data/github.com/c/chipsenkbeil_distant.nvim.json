@@ -34,21 +34,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 35,
+    "commitCountLastYear": 36,
     "createdAt": "2021-08-01T03:48:05Z",
     "description": "🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧",
     "isArchived": false,
-    "lastCommit": "2024-01-10T00:17:02Z",
+    "lastCommit": "2024-05-16T02:17:29Z",
     "nameWithOwner": "chipsenkbeil/distant.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1094,
+    "star": 1099,
     "topics": [
       "neovim",
       "remote-development",
-      "lua"
+      "lua",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-05-15T22:54:23Z",
+    "description": "Quickly jump between buffers",
+    "isArchived": false,
+    "lastCommit": "2024-05-16T20:16:33Z",
+    "nameWithOwner": "VoxelPrismatic/rabbit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "motion",
+      "neovim-plugin",
+      "utility",
+      "workflow"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rabbit.nvim",
+  "owner": "VoxelPrismatic",
+  "url": "https://github.com/VoxelPrismatic/rabbit.nvim"
+}

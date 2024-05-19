@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ripgrep"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-05-11T21:57:22Z",
+    "description": "Telescope pickers with direct access to all ripgrep features.",
+    "isArchived": false,
+    "lastCommit": "2024-05-12T10:57:12Z",
+    "nameWithOwner": "BlankTiger/telescope-rg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-rg.nvim",
+  "owner": "BlankTiger",
+  "url": "https://github.com/BlankTiger/telescope-rg.nvim"
+}

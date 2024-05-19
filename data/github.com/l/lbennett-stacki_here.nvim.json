@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "split"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-05-13T23:05:14Z",
+    "description": "`:vsp` or `:sp` relative to the current buffer",
+    "isArchived": false,
+    "lastCommit": "2024-05-13T23:28:58Z",
+    "nameWithOwner": "lbennett-stacki/here.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "here.nvim",
+  "owner": "lbennett-stacki",
+  "url": "https://github.com/lbennett-stacki/here.nvim"
+}

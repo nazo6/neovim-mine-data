@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Lua"
+          "name": "AI Coding"
         },
         {
           "level": 3,
-          "name": "LSP"
+          "name": "LLM"
         }
       ],
-      "file": "lua.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2024-04-30T05:34:44Z",
-    "description": null,
+    "commitCountLastYear": 9,
+    "createdAt": "2024-05-13T04:45:45Z",
+    "description": "No frills LLM-assisted programming",
     "isArchived": false,
-    "lastCommit": "2024-05-10T18:59:26Z",
-    "nameWithOwner": "AbaoFromCUG/luals.nvim",
+    "lastCommit": "2024-05-18T06:00:22Z",
+    "nameWithOwner": "melbaldove/llm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 6,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "luals.nvim",
-  "owner": "AbaoFromCUG",
-  "url": "https://github.com/AbaoFromCUG/luals.nvim"
+  "name": "llm.nvim",
+  "owner": "melbaldove",
+  "url": "https://github.com/melbaldove/llm.nvim"
 }

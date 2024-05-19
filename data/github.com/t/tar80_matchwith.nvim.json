@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 11,
     "createdAt": "2024-04-07T06:51:00Z",
-    "description": null,
+    "description": "Simpler matchparen and matchit",
     "isArchived": false,
-    "lastCommit": "2024-04-22T12:33:16Z",
+    "lastCommit": "2024-05-17T13:03:20Z",
     "nameWithOwner": "tar80/matchwith.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,7 @@
     },
     "star": 1,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

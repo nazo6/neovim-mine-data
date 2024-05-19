@@ -16,21 +16,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 64,
+    "commitCountLastYear": 108,
     "createdAt": "2024-04-29T20:22:08Z",
-    "description": "Tracker is a feature-rich plugin for Neovim aimed at providing comprehensive tracking and analysis of developer activities within the editor.",
+    "description": "Data analityics and dashboards about your perfomance inside neovim? yeah",
     "isArchived": false,
-    "lastCommit": "2024-05-12T00:44:48Z",
+    "lastCommit": "2024-05-19T05:41:28Z",
     "nameWithOwner": "GuiC0506/Tracker.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8,
+    "star": 11,
     "topics": [
       "lua",
       "nvim",
-      "nvim-plugin"
+      "nvim-plugin",
+      "analytics",
+      "tracking",
+      "neovim",
+      "nvim-lua"
     ]
   },
   "domain": "github.com",

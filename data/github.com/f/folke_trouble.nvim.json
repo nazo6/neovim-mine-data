@@ -42,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 73,
+    "commitCountLastYear": 75,
     "createdAt": "2021-04-21T22:12:24Z",
     "description": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
     "isArchived": false,
-    "lastCommit": "2024-03-29T06:22:45Z",
+    "lastCommit": "2024-05-19T07:23:30Z",
     "nameWithOwner": "folke/trouble.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4784,
+    "star": 4815,
     "topics": [
       "neovim",
       "neovim-plugin",

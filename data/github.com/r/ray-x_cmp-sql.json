@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-05-15T14:35:06Z",
+    "description": "SQL keywords for cmp",
+    "isArchived": false,
+    "lastCommit": "2024-05-16T06:55:50Z",
+    "nameWithOwner": "ray-x/cmp-sql",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "nvim-cmp",
+      "psql",
+      "sql"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-sql",
+  "owner": "ray-x",
+  "url": "https://github.com/ray-x/cmp-sql"
+}

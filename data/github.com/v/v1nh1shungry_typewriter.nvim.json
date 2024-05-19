@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Type sound"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-05-16T18:38:43Z",
+    "description": "Play typewriter sound in Neovim!",
+    "isArchived": false,
+    "lastCommit": "2024-05-18T06:35:25Z",
+    "nameWithOwner": "v1nh1shungry/typewriter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typewriter.nvim",
+  "owner": "v1nh1shungry",
+  "url": "https://github.com/v1nh1shungry/typewriter.nvim"
+}

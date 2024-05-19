@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-05-11T07:27:08Z",
+    "description": "Neovim JSON Schema Visualizer Plugin",
+    "isArchived": false,
+    "lastCommit": "2024-05-16T04:46:38Z",
+    "nameWithOwner": "alainrk/jsonviz.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jsonviz.nvim",
+  "owner": "alainrk",
+  "url": "https://github.com/alainrk/jsonviz.nvim"
+}

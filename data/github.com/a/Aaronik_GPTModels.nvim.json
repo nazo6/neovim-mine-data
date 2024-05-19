@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 117,
+    "createdAt": "2024-03-26T19:57:22Z",
+    "description": "GPTModels - a stable, clean, multi model, window based LLM AI plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-05-17T21:52:42Z",
+    "nameWithOwner": "Aaronik/GPTModels.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "ai",
+      "llm",
+      "neovim",
+      "plugin",
+      "nvim",
+      "nvim-plugin",
+      "ollama",
+      "openai",
+      "chatgpt"
+    ]
+  },
+  "domain": "github.com",
+  "name": "GPTModels.nvim",
+  "owner": "Aaronik",
+  "url": "https://github.com/Aaronik/GPTModels.nvim"
+}

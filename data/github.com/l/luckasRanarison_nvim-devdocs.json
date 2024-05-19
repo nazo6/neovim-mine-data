@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "Web"
-        },
-        {
-          "level": 4,
-          "name": "DevDocs"
-        }
       ],
-      "file": "web-service.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -37,14 +25,14 @@
     "commitCountLastYear": 80,
     "createdAt": "2023-08-06T04:56:32Z",
     "description": "Neovim DevDocs integration",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-04-11T13:56:53Z",
     "nameWithOwner": "luckasRanarison/nvim-devdocs",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 253,
+    "star": 255,
     "topics": [
       "devdocs",
       "neovim",

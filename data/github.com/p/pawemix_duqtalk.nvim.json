@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "DuckDuckGo"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-05-13T20:01:37Z",
+    "description": "Chat through DuckDuckGo AI inside Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-05-15T23:37:14Z",
+    "nameWithOwner": "pawemix/duqtalk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "duckduckgo",
+      "genai-chatbot",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "duqtalk.nvim",
+  "owner": "pawemix",
+  "url": "https://github.com/pawemix/duqtalk.nvim"
+}

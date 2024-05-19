@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Mapping stat"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2024-05-12T04:59:45Z",
+    "description": "Keep track of your keymaps",
+    "isArchived": false,
+    "lastCommit": "2024-05-18T20:52:15Z",
+    "nameWithOwner": "dougrocha/keytrack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keytrack.nvim",
+  "owner": "dougrocha",
+  "url": "https://github.com/dougrocha/keytrack.nvim"
+}

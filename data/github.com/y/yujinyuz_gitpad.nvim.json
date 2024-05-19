@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-04-22T14:42:14Z",
+    "description": "minimal neovim plugin for taking down notes for git projects, branch, etc.",
+    "isArchived": false,
+    "lastCommit": "2024-05-15T03:24:01Z",
+    "nameWithOwner": "yujinyuz/gitpad.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "note-taking"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitpad.nvim",
+  "owner": "yujinyuz",
+  "url": "https://github.com/yujinyuz/gitpad.nvim"
+}

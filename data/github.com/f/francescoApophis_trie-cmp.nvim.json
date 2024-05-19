@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 10,
     "createdAt": "2024-05-09T20:30:07Z",
     "description": "Text Completion through a Trie (Prefix Tree) in Lua.",
     "isArchived": false,
-    "lastCommit": "2024-05-09T20:39:29Z",
+    "lastCommit": "2024-05-13T02:38:16Z",
     "nameWithOwner": "francescoApophis/trie-cmp.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -36,6 +36,10 @@
     },
     "star": 1,
     "topics": [
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua"
     ]
   },
   "domain": "github.com",

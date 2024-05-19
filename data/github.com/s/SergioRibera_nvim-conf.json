@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Config"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2021-11-02T21:44:42Z",
+    "description": "Save your frecuent configs on external file",
+    "isArchived": false,
+    "lastCommit": "2023-12-31T07:30:48Z",
+    "nameWithOwner": "SergioRibera/nvim-conf",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-config",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-conf",
+  "owner": "SergioRibera",
+  "url": "https://github.com/SergioRibera/nvim-conf"
+}

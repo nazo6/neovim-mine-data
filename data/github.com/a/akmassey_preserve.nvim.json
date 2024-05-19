@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Save"
+        },
+        {
+          "level": 3,
+          "name": "Cursor Position"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-05-11T20:34:16Z",
+    "description": "Neovim plugin to preserve cursor position when reformatting",
+    "isArchived": false,
+    "lastCommit": "2024-05-11T23:15:10Z",
+    "nameWithOwner": "akmassey/preserve.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "preserve.nvim",
+  "owner": "akmassey",
+  "url": "https://github.com/akmassey/preserve.nvim"
+}

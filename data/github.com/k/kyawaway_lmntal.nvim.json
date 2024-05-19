@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Kind"
+          "name": "LMNtal"
         }
       ],
       "file": "language-specific.md",
@@ -20,24 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2023-04-14T00:40:44Z",
-    "description": "📀 | Kind programming language plugin for Neovim",
+    "commitCountLastYear": 4,
+    "createdAt": "2024-05-16T02:20:03Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2023-04-14T01:43:36Z",
-    "nameWithOwner": "HigherOrderCO/Kind.nvim",
+    "lastCommit": "2024-05-16T03:52:46Z",
+    "nameWithOwner": "kyawaway/lmntal.nvim",
     "primaryLanguage": {
-      "color": "#1e4aec",
-      "name": "Scheme"
+      "color": "#000080",
+      "name": "Lua"
     },
-    "star": 4,
+    "star": 1,
     "topics": [
-      "kind",
-      "language"
     ]
   },
   "domain": "github.com",
-  "name": "Kind.nvim",
-  "owner": "HigherOrderCO",
-  "url": "https://github.com/HigherOrderCO/Kind.nvim"
+  "name": "lmntal.nvim",
+  "owner": "kyawaway",
+  "url": "https://github.com/kyawaway/lmntal.nvim"
 }

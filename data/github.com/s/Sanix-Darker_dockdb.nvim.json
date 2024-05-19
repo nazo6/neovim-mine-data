@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2024-05-13T04:32:43Z",
+    "description": "Bind your Database Container to Nvim and run queries from your code editor, zero dependency needed.",
+    "isArchived": false,
+    "lastCommit": "2024-05-13T19:31:25Z",
+    "nameWithOwner": "Sanix-Darker/dockdb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "database",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "postgresql",
+      "sql"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dockdb.nvim",
+  "owner": "Sanix-Darker",
+  "url": "https://github.com/Sanix-Darker/dockdb.nvim"
+}

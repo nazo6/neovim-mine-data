@@ -7,21 +7,21 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Pomodoro"
+          "level": 3,
+          "name": "Code outline"
         }
       ],
-      "file": "concentration.md",
+      "file": "code-outline.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
-    "createdAt": "2023-06-18T00:30:57Z",
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-16T03:09:38Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2023-09-08T03:48:39Z",
-    "nameWithOwner": "rafael-almeida/pomodoro.nvim",
+    "lastCommit": "2024-05-16T03:10:07Z",
+    "nameWithOwner": "jeroldhu/symbols-outline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "pomodoro.nvim",
-  "owner": "rafael-almeida",
-  "url": "https://github.com/rafael-almeida/pomodoro.nvim"
+  "name": "symbols-outline.nvim",
+  "owner": "jeroldhu",
+  "url": "https://github.com/jeroldhu/symbols-outline.nvim"
 }

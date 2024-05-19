@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "flatpak"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-05-13T03:21:41Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-05-13T03:27:45Z",
+    "nameWithOwner": "CleoMenezesJr/flatpak-builder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "flatpak-builder.nvim",
+  "owner": "CleoMenezesJr",
+  "url": "https://github.com/CleoMenezesJr/flatpak-builder.nvim"
+}
