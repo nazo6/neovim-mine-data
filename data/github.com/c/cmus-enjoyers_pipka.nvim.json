@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "LSP, DAP, linter, formatter"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-05-23T14:42:25Z",
+    "description": "mason.nvim replacement",
+    "isArchived": false,
+    "lastCommit": "2024-05-25T12:19:49Z",
+    "nameWithOwner": "cmus-enjoyers/pipka.nvim",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pipka.nvim",
+  "owner": "cmus-enjoyers",
+  "url": "https://github.com/cmus-enjoyers/pipka.nvim"
+}

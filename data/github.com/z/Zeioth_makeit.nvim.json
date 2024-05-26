@@ -34,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 67,
+    "commitCountLastYear": 69,
     "createdAt": "2023-08-28T09:27:20Z",
     "description": "Neovim Makefile plugin",
     "isArchived": false,
-    "lastCommit": "2024-03-09T21:00:22Z",
+    "lastCommit": "2024-05-24T16:57:15Z",
     "nameWithOwner": "Zeioth/makeit.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -49,7 +49,10 @@
       "neovim-plugin",
       "neovim-plugins",
       "make",
-      "makefile"
+      "makefile",
+      "nvim-plugin",
+      "nvim-plugins",
+      "compiler"
     ]
   },
   "domain": "github.com",

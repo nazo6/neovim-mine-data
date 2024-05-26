@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-05-19T14:31:19Z",
+    "description": "compile and run code for any (supported) language in a new tmux pane",
+    "isArchived": false,
+    "lastCommit": "2024-05-26T03:12:16Z",
+    "nameWithOwner": "karshPrime/tmux-compile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-compile.nvim",
+  "owner": "karshPrime",
+  "url": "https://github.com/karshPrime/tmux-compile.nvim"
+}

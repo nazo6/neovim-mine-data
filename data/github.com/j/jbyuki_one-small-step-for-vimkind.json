@@ -30,23 +30,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 18,
     "createdAt": "2021-03-23T08:49:30Z",
     "description": "Debug adapter for Neovim plugins",
     "isArchived": false,
-    "lastCommit": "2024-04-25T21:10:06Z",
+    "lastCommit": "2024-05-23T16:45:33Z",
     "nameWithOwner": "jbyuki/one-small-step-for-vimkind",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 349,
+    "star": 357,
     "topics": [
       "nvim",
       "nvim-dap",
       "lua",
       "neovim",
-      "dap-server"
+      "dap-server",
+      "debugging"
     ]
   },
   "domain": "github.com",

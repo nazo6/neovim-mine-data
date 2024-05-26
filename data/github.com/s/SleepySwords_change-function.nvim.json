@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Coding"
+        },
+        {
+          "level": 3,
+          "name": "Function Arguments"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-05-22T05:00:07Z",
+    "description": "Changing function arguments order in Neovim!",
+    "isArchived": false,
+    "lastCommit": "2024-05-22T05:02:52Z",
+    "nameWithOwner": "SleepySwords/change-function.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "nvim-lsp",
+      "nvim-treesitter",
+      "refactoring-tools"
+    ]
+  },
+  "domain": "github.com",
+  "name": "change-function.nvim",
+  "owner": "SleepySwords",
+  "url": "https://github.com/SleepySwords/change-function.nvim"
+}

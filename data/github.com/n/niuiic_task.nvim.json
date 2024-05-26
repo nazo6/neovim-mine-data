@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-05-21T08:33:53Z",
+    "description": "Task manager for neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-05-23T08:42:52Z",
+    "nameWithOwner": "niuiic/task.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "plugin",
+      "task-manager"
+    ]
+  },
+  "domain": "github.com",
+  "name": "task.nvim",
+  "owner": "niuiic",
+  "url": "https://github.com/niuiic/task.nvim"
+}

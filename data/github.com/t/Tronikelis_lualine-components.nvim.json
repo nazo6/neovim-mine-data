@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-05-19T10:48:34Z",
+    "description": "My custom lualine components",
+    "isArchived": false,
+    "lastCommit": "2024-05-21T05:35:41Z",
+    "nameWithOwner": "Tronikelis/lualine-components.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lualine-components.nvim",
+  "owner": "Tronikelis",
+  "url": "https://github.com/Tronikelis/lualine-components.nvim"
+}

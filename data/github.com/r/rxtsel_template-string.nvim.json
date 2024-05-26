@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "string"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-22T23:16:56Z",
+    "description": "A simple Neovim plugin for efficiently handling template strings in JavaScript, TypeScript and JSX/TSX files.",
+    "isArchived": false,
+    "lastCommit": "2024-05-22T23:13:35Z",
+    "nameWithOwner": "rxtsel/template-string.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "javascript",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "react",
+      "template-strings",
+      "typescript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "template-string.nvim",
+  "owner": "rxtsel",
+  "url": "https://github.com/rxtsel/template-string.nvim"
+}

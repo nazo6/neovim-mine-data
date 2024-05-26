@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-05-23T19:36:11Z",
+    "description": "Neovim plugin to assist work with CSV files",
+    "isArchived": false,
+    "lastCommit": "2024-05-26T09:00:35Z",
+    "nameWithOwner": "emmanueltouzery/decisive.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "decisive.nvim",
+  "owner": "emmanueltouzery",
+  "url": "https://github.com/emmanueltouzery/decisive.nvim"
+}

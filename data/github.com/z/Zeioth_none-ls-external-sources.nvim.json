@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "null-ls fork"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2024-05-21T22:20:01Z",
+    "description": "All external sources not natively supported by none-ls",
+    "isArchived": false,
+    "lastCommit": "2024-05-22T02:22:55Z",
+    "nameWithOwner": "Zeioth/none-ls-external-sources.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "none-ls",
+      "none-ls-plugin",
+      "none-ls-sources",
+      "nvim",
+      "nvim-plugin",
+      "source",
+      "sources"
+    ]
+  },
+  "domain": "github.com",
+  "name": "none-ls-external-sources.nvim",
+  "owner": "Zeioth",
+  "url": "https://github.com/Zeioth/none-ls-external-sources.nvim"
+}

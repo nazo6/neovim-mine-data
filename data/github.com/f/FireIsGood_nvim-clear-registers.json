@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        },
+        {
+          "level": 2,
+          "name": "Edit Register"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-05-18T08:42:25Z",
+    "description": "A very simple plugin to clear your registers",
+    "isArchived": false,
+    "lastCommit": "2024-05-18T20:56:59Z",
+    "nameWithOwner": "FireIsGood/nvim-clear-registers",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-clear-registers",
+  "owner": "FireIsGood",
+  "url": "https://github.com/FireIsGood/nvim-clear-registers"
+}

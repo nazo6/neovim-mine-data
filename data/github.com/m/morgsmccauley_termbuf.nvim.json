@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-05-23T03:57:42Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-05-23T04:33:25Z",
+    "nameWithOwner": "morgsmccauley/termbuf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "termbuf.nvim",
+  "owner": "morgsmccauley",
+  "url": "https://github.com/morgsmccauley/termbuf.nvim"
+}

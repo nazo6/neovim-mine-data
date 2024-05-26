@@ -34,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 14,
     "createdAt": "2023-10-21T01:52:45Z",
     "description": "Simple and highly configurable terminal plugin for neovim.",
     "isArchived": false,
-    "lastCommit": "2024-05-11T04:35:29Z",
+    "lastCommit": "2024-05-24T03:08:21Z",
     "nameWithOwner": "niuiic/terminal.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -46,6 +46,9 @@
     },
     "star": 18,
     "topics": [
+      "neovim",
+      "plugin",
+      "ternimal"
     ]
   },
   "domain": "github.com",

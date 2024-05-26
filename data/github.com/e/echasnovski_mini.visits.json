@@ -28,11 +28,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 8,
     "createdAt": "2023-11-28T13:41:34Z",
     "description": "Track and reuse file system visits. Part of 'mini.nvim' library. ",
     "isArchived": false,
-    "lastCommit": "2024-04-11T08:27:26Z",
+    "lastCommit": "2024-05-25T14:07:14Z",
     "nameWithOwner": "echasnovski/mini.visits",
     "primaryLanguage": {
       "color": "#000080",
@@ -40,6 +40,10 @@
     },
     "star": 13,
     "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Colorscheme"
-        },
-        {
-          "level": 3,
-          "name": "Tree-sitter Supported Colorscheme"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Colorscheme"
         },
         {
@@ -35,6 +17,24 @@
       ],
       "file": "colorscheme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 217,
+    "star": 218,
     "topics": [
       "neovim",
       "everblush",
@@ -64,5 +64,5 @@
   "domain": "github.com",
   "name": "nvim",
   "owner": "Everblush",
-  "url": "https://github.com/Everblush/nvim"
+  "url": "https://github.com/Everblush/everblush.nvim"
 }

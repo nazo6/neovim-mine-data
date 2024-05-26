@@ -16,18 +16,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 17,
     "createdAt": "2024-03-28T16:13:36Z",
     "description": "Work with diff hunks. Part of 'mini.nvim' library. ",
     "isArchived": false,
-    "lastCommit": "2024-05-04T13:50:17Z",
+    "lastCommit": "2024-05-25T14:07:10Z",
     "nameWithOwner": "echasnovski/mini.diff",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 47,
+    "star": 48,
     "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

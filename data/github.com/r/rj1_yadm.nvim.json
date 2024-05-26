@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotfiles"
+        },
+        {
+          "level": 5,
+          "name": "yadm"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-18T17:44:17Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-05-18T17:43:28Z",
+    "nameWithOwner": "rj1/yadm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yadm.nvim",
+  "owner": "rj1",
+  "url": "https://github.com/rj1/yadm.nvim"
+}

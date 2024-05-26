@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Syntax"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 64,
+    "createdAt": "2024-05-23T22:49:31Z",
+    "description": "A neovim plugin to make your code more readable through syntax abstractions to hide unnecessary words or patterns. These set patterns will only show up when your cursor is hovering over the line containing the abstraction.",
+    "isArchived": false,
+    "lastCommit": "2024-05-26T10:16:07Z",
+    "nameWithOwner": "RyanBlaney/syntax-tract.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "syntax-tract.nvim",
+  "owner": "RyanBlaney",
+  "url": "https://github.com/RyanBlaney/syntax-tract.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2024-05-20T10:19:15Z",
+    "description": "a delightful mostly grayscale colorscheme thats soft on the eyes, and supports heaps of plugins",
+    "isArchived": false,
+    "lastCommit": "2024-05-26T05:16:26Z",
+    "nameWithOwner": "slugbyte/lackluster.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lackluster.nvim",
+  "owner": "slugbyte",
+  "url": "https://github.com/slugbyte/lackluster.nvim"
+}

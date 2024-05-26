@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-05-22T02:50:44Z",
+    "description": "A flexible snippet system using Neovim's new snippet api.",
+    "isArchived": false,
+    "lastCommit": "2024-05-22T10:39:39Z",
+    "nameWithOwner": "guilherme-puida/tesoura.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tesoura.nvim",
+  "owner": "guilherme-puida",
+  "url": "https://github.com/guilherme-puida/tesoura.nvim"
+}

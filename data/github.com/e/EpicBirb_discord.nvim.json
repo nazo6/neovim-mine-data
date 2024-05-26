@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Discord"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-05-20T17:00:04Z",
+    "description": "minimalist discord rich presence for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-05-23T14:38:35Z",
+    "nameWithOwner": "EpicBirb/discord.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "discord.nvim",
+  "owner": "EpicBirb",
+  "url": "https://github.com/EpicBirb/discord.nvim"
+}

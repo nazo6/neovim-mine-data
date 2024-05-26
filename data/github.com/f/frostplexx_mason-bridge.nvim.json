@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 16,
     "createdAt": "2024-05-07T17:05:23Z",
     "description": "Automatically register linters and formatters installed in mason.nvim",
     "isArchived": false,
-    "lastCommit": "2024-05-14T13:55:00Z",
+    "lastCommit": "2024-05-23T08:07:12Z",
     "nameWithOwner": "frostplexx/mason-bridge.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 26,
+    "star": 28,
     "topics": [
       "formatter",
       "linter",

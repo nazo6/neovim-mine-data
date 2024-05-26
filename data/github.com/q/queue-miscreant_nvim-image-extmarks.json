@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Viewer"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-05-22T09:57:26Z",
+    "description": "Reimplementation of vim-graphical-preview",
+    "isArchived": false,
+    "lastCommit": "2024-05-22T09:55:44Z",
+    "nameWithOwner": "queue-miscreant/nvim-image-extmarks",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-image-extmarks",
+  "owner": "queue-miscreant",
+  "url": "https://github.com/queue-miscreant/nvim-image-test"
+}

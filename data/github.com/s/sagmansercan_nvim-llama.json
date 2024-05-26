@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Llama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-05-24T10:19:10Z",
+    "description": "Code explainer using local models via ollama",
+    "isArchived": false,
+    "lastCommit": "2024-05-24T20:02:34Z",
+    "nameWithOwner": "sagmansercan/nvim-llama",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-llama",
+  "owner": "sagmansercan",
+  "url": "https://github.com/sagmansercan/nvim-llama"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-05-19T17:10:52Z",
+    "description": "cmus neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2024-05-21T10:18:39Z",
+    "nameWithOwner": "cmus-enjoyers/cmus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmus.nvim",
+  "owner": "cmus-enjoyers",
+  "url": "https://github.com/cmus-enjoyers/cmus.nvim"
+}

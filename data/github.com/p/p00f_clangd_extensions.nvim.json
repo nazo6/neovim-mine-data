@@ -7,7 +7,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "C/C++"
         }
       ],
@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 36,
+    "commitCountLastYear": 35,
     "createdAt": "2022-02-05T09:45:43Z",
     "description": "Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 428,
+    "star": 431,
     "topics": [
       "neovim",
       "clangd",

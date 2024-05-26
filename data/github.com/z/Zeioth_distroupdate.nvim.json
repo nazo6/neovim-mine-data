@@ -34,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 158,
+    "commitCountLastYear": 163,
     "createdAt": "2024-01-23T16:34:38Z",
     "description": "Neovim plugin to update your current distro from its github remote",
     "isArchived": false,
-    "lastCommit": "2024-04-14T14:04:00Z",
+    "lastCommit": "2024-05-24T16:43:52Z",
     "nameWithOwner": "Zeioth/distroupdate.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -47,7 +47,12 @@
     "star": 6,
     "topics": [
       "neovim-plugin",
-      "neovim-plugins"
+      "neovim-plugins",
+      "hot-reload",
+      "nvim-plugin",
+      "nvim-plugins",
+      "update",
+      "updater"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 4,
+          "name": "string"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2024-05-22T15:40:03Z",
+    "description": "access html / css language features while editing template strings in webcomponents",
+    "isArchived": false,
+    "lastCommit": "2024-05-23T18:59:56Z",
+    "nameWithOwner": "aaaaargZombies/webcomponent-template-editor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "webcomponent-template-editor.nvim",
+  "owner": "aaaaargZombies",
+  "url": "https://github.com/aaaaargZombies/webcomponent-template-editor.nvim"
+}

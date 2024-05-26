@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Improve Mappings"
+        },
+        {
+          "level": 3,
+          "name": "CapsLock"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-21T06:35:54Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-05-21T08:27:03Z",
+    "nameWithOwner": "oskarmeyenburg/nvim-caps-lock",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-caps-lock",
+  "owner": "oskarmeyenburg",
+  "url": "https://github.com/oskarmeyenburg/nvim-caps-lock"
+}
