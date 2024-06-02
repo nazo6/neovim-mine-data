@@ -11,6 +11,10 @@
           "name": "Music"
         },
         {
+          "level": 3,
+          "name": "Tidal"
+        },
+        {
           "level": 4,
           "name": "MIDI"
         }
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10,
+    "star": 11,
     "topics": [
       "lilypond",
       "lua",

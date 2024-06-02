@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Eno"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-05-29T00:37:54Z",
+    "description": "A Neovim plugin for editing Eno files.",
+    "isArchived": false,
+    "lastCommit": "2024-05-29T00:46:04Z",
+    "nameWithOwner": "fawni/eno.nvim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "eno.nvim",
+  "owner": "fawni",
+  "url": "https://github.com/fawni/eno.nvim"
+}

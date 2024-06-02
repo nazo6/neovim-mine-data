@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 8,
     "createdAt": "2022-11-05T17:35:03Z",
-    "description": "Neovim plugin for share the exact position where your cursor in code is",
+    "description": "neovim plugin to share the filename and line where your cursor in code is",
     "isArchived": false,
-    "lastCommit": "2023-09-22T03:40:29Z",
+    "lastCommit": "2024-06-01T02:58:16Z",
     "nameWithOwner": "diegoulloao/nvim-file-location",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 13,
     "topics": [
       "nvim",
       "plugin",

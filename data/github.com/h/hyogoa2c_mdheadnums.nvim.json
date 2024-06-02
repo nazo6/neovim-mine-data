@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown header"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-05-26T22:43:43Z",
+    "description": "neovim plugin for markdown headding numbering",
+    "isArchived": false,
+    "lastCommit": "2024-05-27T09:55:52Z",
+    "nameWithOwner": "hyogoa2c/mdheadnums.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdheadnums.nvim",
+  "owner": "hyogoa2c",
+  "url": "https://github.com/hyogoa2c/mdheadnums.nvim"
+}

@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Editing support"
-        },
-        {
-          "level": 3,
-          "name": "Select Edit"
-        }
       ],
-      "file": "readme.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -37,14 +25,14 @@
     "commitCountLastYear": 161,
     "createdAt": "2023-07-17T09:47:19Z",
     "description": "First select, then edit. A helix/kakoune-like editing in neovim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-10-27T08:03:12Z",
     "nameWithOwner": "00sapo/visual.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 176,
+    "star": 177,
     "topics": [
     ]
   },

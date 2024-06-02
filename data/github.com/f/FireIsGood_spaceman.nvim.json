@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 69,
+    "createdAt": "2024-05-27T09:03:42Z",
+    "description": "A simple, declarative workspace finder",
+    "isArchived": false,
+    "lastCommit": "2024-05-30T23:02:03Z",
+    "nameWithOwner": "FireIsGood/spaceman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "nvim-plugin",
+      "neovim-plugin",
+      "project"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spaceman.nvim",
+  "owner": "FireIsGood",
+  "url": "https://github.com/FireIsGood/spaceman.nvim"
+}

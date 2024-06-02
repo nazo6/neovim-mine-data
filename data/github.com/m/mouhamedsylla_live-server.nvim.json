@@ -8,24 +8,28 @@
         },
         {
           "level": 3,
-          "name": "Web"
+          "name": "Javascript/Typescript"
         },
         {
           "level": 4,
-          "name": "Discord"
+          "name": "HTML"
+        },
+        {
+          "level": 5,
+          "name": "live server"
         }
       ],
-      "file": "web-service.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 57,
-    "createdAt": "2024-04-06T21:38:00Z",
+    "commitCountLastYear": 2,
+    "createdAt": "2024-05-24T06:48:51Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-04-23T05:49:40Z",
-    "nameWithOwner": "Dekr0/richpresence.nvim",
+    "lastCommit": "2024-05-26T19:42:52Z",
+    "nameWithOwner": "mouhamedsylla/live-server.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +39,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "richpresence.nvim",
-  "owner": "Dekr0",
-  "url": "https://github.com/Dekr0/richpresence.nvim"
+  "name": "live-server.nvim",
+  "owner": "mouhamedsylla",
+  "url": "https://github.com/mouhamedsylla/live-server.nvim"
 }

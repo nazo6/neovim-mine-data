@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 70,
+    "commitCountLastYear": 80,
     "createdAt": "2023-12-30T15:20:58Z",
     "description": "Speed up log creation. Create various kinds of language-specific log statements, such as logs of variables, assertions, or time-measuring.",
     "isArchived": false,
-    "lastCommit": "2024-05-20T11:32:23Z",
+    "lastCommit": "2024-06-01T15:24:20Z",
     "nameWithOwner": "chrisgrieser/nvim-chainsaw",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 81,
+    "star": 84,
     "topics": [
       "log-statements",
       "logging",

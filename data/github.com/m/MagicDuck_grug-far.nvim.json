@@ -13,20 +13,34 @@
       ],
       "file": "plugin-manager.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 232,
+    "commitCountLastYear": 250,
     "createdAt": "2024-04-28T18:15:17Z",
     "description": "Find And Replace plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2024-05-26T04:46:50Z",
+    "lastCommit": "2024-06-02T04:49:14Z",
     "nameWithOwner": "MagicDuck/grug-far.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 89,
+    "star": 107,
     "topics": [
     ]
   },

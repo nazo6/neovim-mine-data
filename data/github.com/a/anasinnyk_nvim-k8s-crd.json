@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-05-29T13:21:55Z",
+    "description": "Neovim plugin designed to synchronize Kubernetes Custom Resource Definitions (CRDs) with your Neovim setup",
+    "isArchived": false,
+    "lastCommit": "2024-05-29T15:43:44Z",
+    "nameWithOwner": "anasinnyk/nvim-k8s-crd",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-k8s-crd",
+  "owner": "anasinnyk",
+  "url": "https://github.com/anasinnyk/nvim-k8s-crd"
+}

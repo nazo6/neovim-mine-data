@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "VS Code features"
+        },
+        {
+          "level": 3,
+          "name": "Collaborative Editing"
+        }
+      ],
+      "file": "vscode-features.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-26T12:18:57Z",
+    "description": "Pair programming plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-05-31T15:30:45Z",
+    "nameWithOwner": "skeletony007/pair.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pair.nvim",
+  "owner": "skeletony007",
+  "url": "https://github.com/skeletony007/pair.nvim"
+}

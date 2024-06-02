@@ -24,26 +24,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 33,
-    "createdAt": "2024-03-27T10:34:31Z",
-    "description": "A wrapper for charm's freeze cli tool for usage in neovim",
+    "commitCountLastYear": 19,
+    "createdAt": "2024-05-29T15:21:14Z",
+    "description": "Charm's \"freeze\" CLI as a neovim plugin",
     "isArchived": false,
-    "lastCommit": "2024-04-25T10:55:56Z",
-    "nameWithOwner": "isabelroses/charm-freeze.nvim",
+    "lastCommit": "2024-06-01T23:01:00Z",
+    "nameWithOwner": "ndom91/freeze.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 45,
+    "star": 6,
     "topics": [
+      "charm",
+      "freeze",
       "neovim",
-      "neovim-plugin",
-      "nvim",
-      "nvim-plugin"
+      "screenshot"
     ]
   },
   "domain": "github.com",
-  "name": "charm-freeze.nvim",
-  "owner": "isabelroses",
-  "url": "https://github.com/isabelroses/charm-freeze.nvim"
+  "name": "freeze.nvim",
+  "owner": "ndom91",
+  "url": "https://github.com/ndom91/freeze.nvim"
 }

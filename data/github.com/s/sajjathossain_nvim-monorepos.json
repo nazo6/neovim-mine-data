@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 90,
+    "commitCountLastYear": 99,
     "createdAt": "2023-11-01T15:02:10Z",
-    "description": "simple telescope project switcher for monorepos",
+    "description": "simple telescope file finder for monorepos",
     "isArchived": false,
-    "lastCommit": "2023-11-02T14:20:41Z",
+    "lastCommit": "2024-06-01T19:11:44Z",
     "nameWithOwner": "sajjathossain/nvim-monorepos",
     "primaryLanguage": {
       "color": "#000080",
@@ -34,7 +34,13 @@
     "topics": [
       "nvim-lua",
       "nvim-plugin",
-      "telescope-plugin"
+      "telescope-plugin",
+      "telescope",
+      "lua",
+      "monorepo",
+      "neovim",
+      "neovim-",
+      "nvim"
     ]
   },
   "domain": "github.com",

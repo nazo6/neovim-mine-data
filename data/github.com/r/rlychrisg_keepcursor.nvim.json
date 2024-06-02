@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor position"
+        }
+      ],
+      "file": "cursor.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-05-30T00:34:27Z",
+    "description": "A simply Neovim plugin to toggle cursor top, bottom and middle autocmds",
+    "isArchived": false,
+    "lastCommit": "2024-05-30T01:02:27Z",
+    "nameWithOwner": "rlychrisg/keepcursor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "keepcursor.nvim",
+  "owner": "rlychrisg",
+  "url": "https://github.com/rlychrisg/keepcursor.nvim"
+}

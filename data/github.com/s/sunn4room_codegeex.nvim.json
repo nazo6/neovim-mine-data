@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Codegeex"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-05-31T08:42:44Z",
+    "description": "Neovim plugin for CodegeeX v3",
+    "isArchived": false,
+    "lastCommit": "2024-05-31T14:02:38Z",
+    "nameWithOwner": "sunn4room/codegeex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "codegeex",
+      "nvim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codegeex.nvim",
+  "owner": "sunn4room",
+  "url": "https://github.com/sunn4room/codegeex.nvim"
+}

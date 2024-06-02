@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        },
+        {
+          "level": 4,
+          "name": "Window Manager"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-05-27T01:48:29Z",
+    "description": "window-management.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-05-27T01:47:43Z",
+    "nameWithOwner": "brandoncc/window-management.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "window-management.nvim",
+  "owner": "brandoncc",
+  "url": "https://github.com/brandoncc/window-management.nvim"
+}

@@ -2,8 +2,24 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown code block"
+        }
       ],
-      "file": "Archived.md",
+      "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -11,7 +27,7 @@
     "commitCountLastYear": 24,
     "createdAt": "2024-05-11T14:20:11Z",
     "description": null,
-    "isArchived": true,
+    "isArchived": false,
     "lastCommit": "2024-05-20T04:47:04Z",
     "nameWithOwner": "denstiny/styledoc.nvim",
     "primaryLanguage": {

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "Generator"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 64,
+    "createdAt": "2024-05-25T02:48:41Z",
+    "description": "Tools to help generate things you want to generate in Go.",
+    "isArchived": false,
+    "lastCommit": "2024-06-02T05:30:25Z",
+    "nameWithOwner": "cszczepaniak/go-tools.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go-tools.nvim",
+  "owner": "cszczepaniak",
+  "url": "https://github.com/cszczepaniak/go-tools.nvim"
+}

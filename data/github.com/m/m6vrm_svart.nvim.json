@@ -4,16 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Search"
-        }
-      ],
-      "file": "search_replace_grep_select.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -26,6 +16,16 @@
         }
       ],
       "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Search"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -40,12 +40,12 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
   "name": "svart.nvim",
   "owner": "m6vrm",
-  "url": "https://github.com/m6vrm/svart.nvim"
+  "url": "https://github.com/madyanov/svart.nvim"
 }

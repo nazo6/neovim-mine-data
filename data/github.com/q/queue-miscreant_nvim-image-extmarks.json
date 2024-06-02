@@ -20,15 +20,15 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 26,
     "createdAt": "2024-05-22T09:57:26Z",
-    "description": "Reimplementation of vim-graphical-preview",
+    "description": "Sixel extmarks for neovim",
     "isArchived": false,
-    "lastCommit": "2024-05-22T09:55:44Z",
+    "lastCommit": "2024-05-31T05:55:07Z",
     "nameWithOwner": "queue-miscreant/nvim-image-extmarks",
     "primaryLanguage": {
-      "color": "#3572A5",
-      "name": "Python"
+      "color": "#000080",
+      "name": "Lua"
     },
     "star": 1,
     "topics": [

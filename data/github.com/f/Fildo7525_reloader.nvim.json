@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Clang"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2023-08-05T18:16:19Z",
+    "description": "Easy setup of C++ projects",
+    "isArchived": false,
+    "lastCommit": "2024-05-26T17:42:38Z",
+    "nameWithOwner": "Fildo7525/reloader.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "clangd",
+      "cpp",
+      "lsp",
+      "nvim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "reloader.nvim",
+  "owner": "Fildo7525",
+  "url": "https://github.com/Fildo7525/reloader.nvim"
+}

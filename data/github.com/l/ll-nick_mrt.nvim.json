@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-05-31T10:31:03Z",
+    "description": "The MRT neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2024-05-31T10:39:19Z",
+    "nameWithOwner": "ll-nick/mrt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mrt.nvim",
+  "owner": "ll-nick",
+  "url": "https://github.com/ll-nick/mrt.nvim"
+}
