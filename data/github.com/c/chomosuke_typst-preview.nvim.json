@@ -7,15 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Javascript/Typescript"
-        },
-        {
-          "level": 4,
+          "level": 2,
           "name": "Toolchain"
         },
         {
-          "level": 5,
+          "level": 3,
           "name": "Typst preview"
         }
       ],
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 64,
+    "commitCountLastYear": 65,
     "createdAt": "2023-11-01T08:15:49Z",
     "description": "Low latency typst preview for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-05-12T15:32:36Z",
+    "lastCommit": "2024-06-07T17:01:19Z",
     "nameWithOwner": "chomosuke/typst-preview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 185,
+    "star": 193,
     "topics": [
       "lua",
       "neovim",

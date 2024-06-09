@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 12,
     "createdAt": "2024-05-24T16:12:07Z",
     "description": "cmp and gf on Laravel/Livewire components",
     "isArchived": false,
-    "lastCommit": "2024-05-24T16:43:17Z",
+    "lastCommit": "2024-06-06T13:13:39Z",
     "nameWithOwner": "RicardoRamirezR/lali-components.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 7,
     "topics": [
+      "neovim-plugin",
+      "laravel",
+      "livewire"
     ]
   },
   "domain": "github.com",

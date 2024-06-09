@@ -8,11 +8,7 @@
         },
         {
           "level": 2,
-          "name": "Config file style"
-        },
-        {
-          "level": 3,
-          "name": "Lua"
+          "name": "Command style"
         }
       ],
       "file": "task-runner.md",
@@ -20,27 +16,27 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 42,
-    "createdAt": "2023-10-10T06:13:21Z",
-    "description": "compile commands mappings ez",
+    "commitCountLastYear": 9,
+    "createdAt": "2024-06-04T12:13:47Z",
+    "description": "Execute make (or any shell command) without blocking Neovim and output to QuickFix",
     "isArchived": false,
-    "lastCommit": "2023-12-23T20:24:00Z",
-    "nameWithOwner": "s3dman/rundi.nvim",
+    "lastCommit": "2024-06-05T07:43:13Z",
+    "nameWithOwner": "sakhnik/make-async.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
     "star": 1,
     "topics": [
-      "lua",
-      "nvim",
+      "asynchronous",
+      "make",
       "neovim",
-      "neovim-plugin",
-      "vim"
+      "quickfix",
+      "shell"
     ]
   },
   "domain": "github.com",
-  "name": "rundi.nvim",
-  "owner": "s3dman",
-  "url": "https://github.com/s3dman/rundi.nvim"
+  "name": "make-async.nvim",
+  "owner": "sakhnik",
+  "url": "https://github.com/sakhnik/make-async.nvim"
 }

@@ -7,15 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Javascript/Typescript"
-        },
-        {
-          "level": 4,
+          "level": 2,
           "name": "CSS"
         },
         {
-          "level": 5,
+          "level": 3,
           "name": "tailwind"
         }
       ],
@@ -24,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 340,
+    "commitCountLastYear": 210,
     "createdAt": "2023-05-14T10:15:11Z",
     "description": "Deliberate.nvim adds a sub-mode for Neovim to manipulate HTML syntax & Tailwind CSS Classes.",
     "isArchived": false,

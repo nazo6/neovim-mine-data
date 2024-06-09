@@ -38,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 19,
     "createdAt": "2023-04-19T13:31:20Z",
-    "description": "🎨 Convenient plugin to switch between themes installed in neovim through a menu.",
+    "description": "A colorscheme picker with live preview and persistence for neovim ✨",
     "isArchived": false,
-    "lastCommit": "2023-11-19T14:03:40Z",
+    "lastCommit": "2024-06-06T15:29:11Z",
     "nameWithOwner": "zaldih/themery.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -51,11 +51,9 @@
     "star": 128,
     "topics": [
       "colorscheme",
-      "lua",
       "neovim",
-      "plugin",
-      "theme",
-      "hacktoberfest"
+      "live-preview",
+      "picker"
     ]
   },
   "domain": "github.com",

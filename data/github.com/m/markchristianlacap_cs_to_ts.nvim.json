@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "C#"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-06-06T09:21:41Z",
+    "description": "Converts C# class to Typescript interface or enum (WIP)",
+    "isArchived": false,
+    "lastCommit": "2024-06-07T10:10:03Z",
+    "nameWithOwner": "markchristianlacap/cs_to_ts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cs_to_ts.nvim",
+  "owner": "markchristianlacap",
+  "url": "https://github.com/markchristianlacap/cs_to_ts.nvim"
+}

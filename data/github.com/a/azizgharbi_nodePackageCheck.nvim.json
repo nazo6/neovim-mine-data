@@ -7,19 +7,15 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Javascript/Typescript"
-        },
-        {
-          "level": 4,
+          "level": 2,
           "name": "Toolchain"
         },
         {
-          "level": 5,
+          "level": 3,
           "name": "Task Runner"
         },
         {
-          "level": 6,
+          "level": 4,
           "name": "npm"
         }
       ],
@@ -28,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 1,
     "createdAt": "2023-03-05T19:23:05Z",
     "description": "A plugin for Neovim that allows you to check updates and versions of your node packages from within Neovim.",
     "isArchived": false,

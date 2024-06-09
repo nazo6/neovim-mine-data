@@ -13,20 +13,34 @@
       ],
       "file": "snippet_template.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Snippet"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2024-05-22T02:50:44Z",
     "description": "A flexible snippet system using Neovim's new snippet api.",
     "isArchived": false,
-    "lastCommit": "2024-05-22T10:39:39Z",
+    "lastCommit": "2024-06-04T19:55:29Z",
     "nameWithOwner": "guilherme-puida/tesoura.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 21,
     "topics": [
       "neovim-plugin"
     ]

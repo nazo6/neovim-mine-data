@@ -4,34 +4,34 @@
       "data": [
         {
           "level": 1,
-          "name": "Keymap"
+          "name": "Note Taking"
         },
         {
           "level": 2,
-          "name": "Mapping search"
+          "name": "etc"
         }
       ],
-      "file": "mapping.md",
+      "file": "note-taking.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2022-10-14T14:40:10Z",
+    "commitCountLastYear": 1,
+    "createdAt": "2024-06-06T18:43:01Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2022-10-14T15:21:12Z",
-    "nameWithOwner": "CharliePlate/whichkey-ft.nvim",
+    "lastCommit": "2024-06-06T18:49:35Z",
+    "nameWithOwner": "neninja/nvim-dailypong",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "whichkey-ft.nvim",
-  "owner": "CharliePlate",
-  "url": "https://github.com/CharliePlate/whichkey-ft.nvim"
+  "name": "nvim-dailypong",
+  "owner": "neninja",
+  "url": "https://github.com/neninja/nvim-dailypong"
 }

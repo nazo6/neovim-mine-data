@@ -2,12 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 3,
-          "name": "map function utiliy"
-        }
       ],
-      "file": "backup-list.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -29,7 +25,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2021-08-27T08:00:42Z",
     "description": "🗺 A better way to create key mappings in Neovim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-02-24T00:33:30Z",
     "nameWithOwner": "b0o/mapx.nvim",
     "primaryLanguage": {

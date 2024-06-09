@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "resize"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-06-06T00:10:45Z",
+    "description": "Make a responsively-sized blank window when your nvim is too wide",
+    "isArchived": false,
+    "lastCommit": "2024-06-06T00:17:47Z",
+    "nameWithOwner": "unawarez/nvim-winpolicy",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-winpolicy",
+  "owner": "unawarez",
+  "url": "https://github.com/unawarez/nvim-winpolicy"
+}

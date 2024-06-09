@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-06-05T15:53:45Z",
+    "description": "Show the lyrics of the song Spotify playing inside your best editor ever!",
+    "isArchived": false,
+    "lastCommit": "2024-06-06T05:59:29Z",
+    "nameWithOwner": "v1nh1shungry/lyricify.nvim",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lyricify.nvim",
+  "owner": "v1nh1shungry",
+  "url": "https://github.com/v1nh1shungry/lyricify.nvim"
+}

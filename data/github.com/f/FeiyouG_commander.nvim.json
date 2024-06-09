@@ -4,20 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Command Palette"
-        }
-      ],
-      "file": "command.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -27,20 +13,34 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Palette"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 36,
+    "commitCountLastYear": 38,
     "createdAt": "2022-04-06T19:15:18Z",
     "description": "Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope",
     "isArchived": false,
-    "lastCommit": "2024-04-27T22:18:21Z",
+    "lastCommit": "2024-06-08T03:15:27Z",
     "nameWithOwner": "FeiyouG/commander.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 357,
+    "star": 359,
     "topics": [
       "lua",
       "neovim",
@@ -54,5 +54,5 @@
   "domain": "github.com",
   "name": "commander.nvim",
   "owner": "FeiyouG",
-  "url": "https://github.com/FeiyouG/command_center.nvim"
+  "url": "https://github.com/FeiyouG/commander.nvim"
 }

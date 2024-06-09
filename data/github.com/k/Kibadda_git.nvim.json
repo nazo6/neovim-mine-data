@@ -5,10 +5,6 @@
         {
           "level": 1,
           "name": "Git"
-        },
-        {
-          "level": 2,
-          "name": "lazygit"
         }
       ],
       "file": "git-github.md",
@@ -16,12 +12,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2022-09-24T17:21:49Z",
-    "description": "Lazygit inside Neovim",
+    "commitCountLastYear": 14,
+    "createdAt": "2024-06-07T11:56:06Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2022-11-10T22:57:04Z",
-    "nameWithOwner": "lostl1ght/nvim-lazygit",
+    "lastCommit": "2024-06-07T13:29:28Z",
+    "nameWithOwner": "Kibadda/git.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +27,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "nvim-lazygit",
-  "owner": "lostl1ght",
-  "url": "https://github.com/lostl1ght/nvim-lazygit"
+  "name": "git.nvim",
+  "owner": "Kibadda",
+  "url": "https://github.com/Kibadda/git.nvim"
 }

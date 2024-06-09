@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "make"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-06-01T02:43:28Z",
+    "description": "Nvim plugin to make running and building your projects easier",
+    "isArchived": false,
+    "lastCommit": "2024-06-02T00:07:08Z",
+    "nameWithOwner": "l3k4n/justmake.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "justmake.nvim",
+  "owner": "l3k4n",
+  "url": "https://github.com/l3k4n/justmake.nvim"
+}

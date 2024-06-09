@@ -7,11 +7,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Javascript/Typescript"
-        },
-        {
-          "level": 4,
+          "level": 2,
           "name": "HTML"
         }
       ],
@@ -20,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 0,
     "createdAt": "2023-05-02T20:46:44Z",
     "description": "Create html + css + lua apps with neovim as 'browser'",
     "isArchived": false,

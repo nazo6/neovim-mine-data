@@ -3,11 +3,19 @@
     {
       "data": [
         {
-          "level": 4,
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
           "name": "LSP Installer"
         }
       ],
-      "file": "backup-list.md",
+      "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {

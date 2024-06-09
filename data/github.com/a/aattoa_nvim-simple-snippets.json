@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-06-02T14:57:53Z",
+    "description": "A tiny snippet management plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-06-06T14:12:02Z",
+    "nameWithOwner": "aattoa/nvim-simple-snippets",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-simple-snippets",
+  "owner": "aattoa",
+  "url": "https://github.com/aattoa/nvim-simple-snippets"
+}

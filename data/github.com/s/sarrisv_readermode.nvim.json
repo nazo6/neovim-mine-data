@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor position"
+        }
+      ],
+      "file": "cursor.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-06-03T13:57:22Z",
+    "description": "Simple nvim plugin for keeping your cursor centered",
+    "isArchived": false,
+    "lastCommit": "2024-06-04T14:51:21Z",
+    "nameWithOwner": "sarrisv/readermode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "readermode.nvim",
+  "owner": "sarrisv",
+  "url": "https://github.com/sarrisv/readermode.nvim"
+}
