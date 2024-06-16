@@ -4,34 +4,34 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Music"
+          "name": "Test"
         }
       ],
-      "file": "toy.md",
+      "file": "test.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 3,
-    "createdAt": "2023-06-23T13:50:27Z",
-    "description": "Play your favorite music inside neovim",
+    "createdAt": "2024-06-10T12:55:08Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2023-07-02T10:48:13Z",
-    "nameWithOwner": "pogyomo/harmony.nvim",
+    "lastCommit": "2024-06-12T20:08:42Z",
+    "nameWithOwner": "AdeAttwood/spec.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "harmony.nvim",
-  "owner": "pogyomo",
-  "url": "https://github.com/pogyomo/harmony.nvim"
+  "name": "spec.nvim",
+  "owner": "AdeAttwood",
+  "url": "https://github.com/AdeAttwood/spec.nvim"
 }

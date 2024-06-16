@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI"
+        },
+        {
+          "level": 4,
+          "name": "log"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-06-12T18:29:49Z",
+    "description": "Clean GitHub Copilot telemetry logs from your lsp.log",
+    "isArchived": false,
+    "lastCommit": "2024-06-14T11:57:30Z",
+    "nameWithOwner": "bissakov/copilot-telemetry-log-clean.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copilot-telemetry-log-clean.nvim",
+  "owner": "bissakov",
+  "url": "https://github.com/bissakov/copilot-telemetry-log-clean.nvim"
+}

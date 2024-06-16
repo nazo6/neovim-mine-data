@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "C/C++"
+          "name": "Framework"
         },
         {
           "level": 3,
-          "name": "GCC"
+          "name": "Angular"
         }
       ],
-      "file": "c_cpp.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
-    "createdAt": "2024-01-11T21:17:37Z",
-    "description": "A small neovim plugin to compile and run C code after save",
+    "commitCountLastYear": 3,
+    "createdAt": "2024-06-14T10:43:53Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-01-19T21:11:21Z",
-    "nameWithOwner": "eoBattisti/autocrun.nvim",
+    "lastCommit": "2024-06-14T11:03:24Z",
+    "nameWithOwner": "ergoproxy623/nvim-angular-selectors",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "autocrun.nvim",
-  "owner": "eoBattisti",
-  "url": "https://github.com/eoBattisti/autocrun.nvim"
+  "name": "nvim-angular-selectors",
+  "owner": "ergoproxy623",
+  "url": "https://github.com/ergoproxy623/nvim-angular-selectors"
 }

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "resize"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2024-06-10T17:57:37Z",
+    "description": "A neovim plugin which provide apis for resizing window as we expected",
+    "isArchived": false,
+    "lastCommit": "2024-06-12T11:36:06Z",
+    "nameWithOwner": "pogyomo/winresize.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "winresize.nvim",
+  "owner": "pogyomo",
+  "url": "https://github.com/pogyomo/winresize.nvim"
+}

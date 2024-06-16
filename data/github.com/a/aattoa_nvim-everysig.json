@@ -24,18 +24,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 15,
     "createdAt": "2024-06-03T18:16:02Z",
-    "description": "An alternate signature help request handler for neovim.",
+    "description": "An alternate signature help request handler for neovim",
     "isArchived": false,
-    "lastCommit": "2024-06-04T08:13:23Z",
+    "lastCommit": "2024-06-11T12:03:24Z",
     "nameWithOwner": "aattoa/nvim-everysig",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
+      "lsp",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "signature-help"
     ]
   },
   "domain": "github.com",

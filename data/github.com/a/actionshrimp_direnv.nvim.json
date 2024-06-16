@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "direnv"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-06-12T14:46:53Z",
+    "description": "Direnv support for nvim",
+    "isArchived": false,
+    "lastCommit": "2024-06-13T20:40:33Z",
+    "nameWithOwner": "actionshrimp/direnv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "direnv.nvim",
+  "owner": "actionshrimp",
+  "url": "https://github.com/actionshrimp/direnv.nvim"
+}

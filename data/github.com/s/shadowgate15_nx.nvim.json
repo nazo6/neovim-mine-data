@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CI"
+        },
+        {
+          "level": 4,
+          "name": "Nx"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-08T13:24:32Z",
+    "description": "Neovim plugin to add support for NX workspaces to various plugins",
+    "isArchived": false,
+    "lastCommit": "2024-06-10T13:48:56Z",
+    "nameWithOwner": "shadowgate15/nx.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nx.nvim",
+  "owner": "shadowgate15",
+  "url": "https://github.com/shadowgate15/nx.nvim"
+}

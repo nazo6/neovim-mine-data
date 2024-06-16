@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Nix"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2023-03-15T03:04:01Z",
+    "description": "Reimplementation of https://github.com/jwiegley/nix-update-el for Neovim using Treesitter",
+    "isArchived": false,
+    "lastCommit": "2024-06-10T09:17:24Z",
+    "nameWithOwner": "reo101/nix-update.nvim",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 10,
+    "topics": [
+      "fennel-lang",
+      "neovim-plugin",
+      "nix"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nix-update.nvim",
+  "owner": "reo101",
+  "url": "https://github.com/reo101/nix-update.nvim"
+}

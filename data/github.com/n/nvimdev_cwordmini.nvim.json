@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Word Motion"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-06-08T05:13:31Z",
+    "description": "neovim highlight all cursor words in buffer",
+    "isArchived": false,
+    "lastCommit": "2024-06-08T12:54:49Z",
+    "nameWithOwner": "nvimdev/cwordmini.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cwordmini.nvim",
+  "owner": "nvimdev",
+  "url": "https://github.com/nvimdev/cwordmini.nvim"
+}

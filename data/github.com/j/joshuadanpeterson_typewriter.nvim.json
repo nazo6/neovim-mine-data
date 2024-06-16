@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Motion Label"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 79,
+    "createdAt": "2024-05-25T02:44:21Z",
+    "description": "A Neovim plugin that emulates a typewriter, keeping the cursor centered on the screen for a focused writing experience.",
+    "isArchived": false,
+    "lastCommit": "2024-06-16T05:59:48Z",
+    "nameWithOwner": "joshuadanpeterson/typewriter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "cursor",
+      "focus-mode",
+      "neovim",
+      "neovim-plugin",
+      "zen"
+    ]
+  },
+  "domain": "github.com",
+  "name": "typewriter.nvim",
+  "owner": "joshuadanpeterson",
+  "url": "https://github.com/joshuadanpeterson/typewriter.nvim"
+}

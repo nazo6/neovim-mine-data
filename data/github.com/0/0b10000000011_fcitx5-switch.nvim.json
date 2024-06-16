@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        },
+        {
+          "level": 4,
+          "name": "Fcitx"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-12T15:57:05Z",
+    "description": "A Neovim plugin for automatically activate/inactivate Fcitx5",
+    "isArchived": false,
+    "lastCommit": "2024-02-16T17:37:30Z",
+    "nameWithOwner": "0b10000000011/fcitx5-switch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fcitx5-switch.nvim",
+  "owner": "0b10000000011",
+  "url": "https://github.com/SR-MyStar/fcitx5-switch.nvim"
+}

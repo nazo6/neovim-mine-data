@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "toc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-06-13T12:44:14Z",
+    "description": "Generate inteligent customisable markdown TOC with affordances for emojis and relative file paths.",
+    "isArchived": false,
+    "lastCommit": "2024-06-15T08:39:31Z",
+    "nameWithOwner": "ChuufMaster/markdown-toc",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "github",
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugin",
+      "toc-generator"
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-toc",
+  "owner": "ChuufMaster",
+  "url": "https://github.com/ChuufMaster/markdown-toc"
+}

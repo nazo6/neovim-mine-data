@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Cowsay"
+        },
+        {
+          "level": 4,
+          "name": "Ninjas Facts"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-06-13T07:46:02Z",
+    "description": "A simple fact fetcher for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2024-06-15T09:00:52Z",
+    "nameWithOwner": "notelgnis/fetchfact.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fetchfact.nvim",
+  "owner": "notelgnis",
+  "url": "https://github.com/notelgnis/fetchfact.nvim"
+}
