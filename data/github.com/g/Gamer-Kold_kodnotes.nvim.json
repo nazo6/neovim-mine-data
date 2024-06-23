@@ -16,19 +16,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2023-11-20T11:10:18Z",
-    "description": "minimalistic note taking using NeoVim",
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-20T14:38:13Z",
+    "description": "dead simple note taking system",
     "isArchived": false,
-    "lastCommit": "2023-11-23T12:25:49Z",
-    "nameWithOwner": "MagnumTrader/NeoNotes.nvim",
-    "primaryLanguage": null,
+    "lastCommit": "2024-06-20T14:47:49Z",
+    "nameWithOwner": "Gamer-Kold/kodnotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
     "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "NeoNotes.nvim",
-  "owner": "MagnumTrader",
-  "url": "https://github.com/MagnumTrader/neonotes.nvim"
+  "name": "kodnotes.nvim",
+  "owner": "Gamer-Kold",
+  "url": "https://github.com/Gamer-Kold/kodnotes.nvim"
 }

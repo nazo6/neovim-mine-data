@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "AI Coding"
+          "name": "Editing support"
         },
         {
           "level": 3,
-          "name": "Ollama"
+          "name": "Insert"
         }
       ],
-      "file": "ai.md",
+      "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 43,
-    "createdAt": "2023-12-19T08:37:46Z",
-    "description": null,
+    "commitCountLastYear": 6,
+    "createdAt": "2024-06-19T15:24:18Z",
+    "description": "nvim-smartchr is a single-character expansion plugin for Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-06-13T22:29:32Z",
-    "nameWithOwner": "slimslenderslacks/nvim-docker-ai",
+    "lastCommit": "2024-06-19T18:47:22Z",
+    "nameWithOwner": "enoatu/nvim-smartchr",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 3,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "nvim-docker-ai",
-  "owner": "slimslenderslacks",
-  "url": "https://github.com/slimslenderslacks/nvim-docker-ai"
+  "name": "nvim-smartchr",
+  "owner": "enoatu",
+  "url": "https://github.com/enoatu/nvim-smartchr"
 }

@@ -8,30 +8,30 @@
         },
         {
           "level": 2,
-          "name": "PHP"
+          "name": "insert pairs"
         }
       ],
-      "file": "php.md",
+      "file": "auto-insert.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
-    "createdAt": "2023-09-06T01:28:37Z",
-    "description": "latte.nvim - Brew Up Beautiful PHP Latte Templates in Neovim",
+    "commitCountLastYear": 25,
+    "createdAt": "2024-06-16T20:32:03Z",
+    "description": "dumb autopairs for neovim written in lua",
     "isArchived": false,
-    "lastCommit": "2023-09-06T20:06:43Z",
-    "nameWithOwner": "whleucka/latte.nvim",
+    "lastCommit": "2024-06-19T20:14:12Z",
+    "nameWithOwner": "mgnsk/dumb-autopairs.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "latte.nvim",
-  "owner": "whleucka",
-  "url": "https://github.com/whleucka/latte.nvim"
+  "name": "dumb-autopairs.nvim",
+  "owner": "mgnsk",
+  "url": "https://github.com/mgnsk/dumb-autopairs.nvim"
 }

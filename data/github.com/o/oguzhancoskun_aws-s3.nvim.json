@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "AWS"
+        },
+        {
+          "level": 5,
+          "name": "S3"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-06-21T20:29:04Z",
+    "description": "AWS S3 File Edit Instanly, Upload New or Edit Existing Remote Object",
+    "isArchived": false,
+    "lastCommit": "2024-06-21T20:57:56Z",
+    "nameWithOwner": "oguzhancoskun/aws-s3.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "aws-s3.nvim",
+  "owner": "oguzhancoskun",
+  "url": "https://github.com/oguzhancoskun/aws-s3.nvim"
+}

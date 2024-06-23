@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Syntax"
+          "name": "LSP"
         },
         {
           "level": 3,
-          "name": "Colorscheme switcher"
+          "name": "LSP timeout"
         }
       ],
-      "file": "syntax_highlight.md",
+      "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
-    "createdAt": "2023-08-21T08:49:49Z",
-    "description": null,
+    "commitCountLastYear": 6,
+    "createdAt": "2024-06-17T02:06:44Z",
+    "description": "Feedback on slow and failed LSP requests ",
     "isArchived": false,
-    "lastCommit": "2024-06-13T11:13:55Z",
-    "nameWithOwner": "andrew-george/telescope-themes",
+    "lastCommit": "2024-06-17T16:12:44Z",
+    "nameWithOwner": "d-vim/lsp-feedback.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 28,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "telescope-themes",
-  "owner": "andrew-george",
-  "url": "https://github.com/andrew-george/telescope-themes"
+  "name": "lsp-feedback.nvim",
+  "owner": "d-vim",
+  "url": "https://github.com/d-vim/lsp-feedback.nvim"
 }

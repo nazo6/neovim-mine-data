@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "PHP"
+        }
+      ],
+      "file": "php.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-04-01T23:00:47Z",
+    "description": "🚧 [WIP] Neovim plugin for Composer",
+    "isArchived": false,
+    "lastCommit": "2024-06-21T07:01:05Z",
+    "nameWithOwner": "RVxLab/composer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "composer",
+      "neovim",
+      "neovim-plugin",
+      "php"
+    ]
+  },
+  "domain": "github.com",
+  "name": "composer.nvim",
+  "owner": "RVxLab",
+  "url": "https://github.com/RVxLab/php-composer.nvim"
+}

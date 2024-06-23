@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 400,
+    "commitCountLastYear": 416,
     "createdAt": "2023-01-13T10:30:53Z",
     "description": "GitHub workflow for automatically generating Luarocks releases from tags and running busted tests",
     "isArchived": false,
-    "lastCommit": "2024-06-07T05:41:38Z",
+    "lastCommit": "2024-06-23T05:31:50Z",
     "nameWithOwner": "nvim-neorocks/luarocks-tag-release",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 41,
+    "star": 42,
     "topics": [
       "automation",
       "busted",

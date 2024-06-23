@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "quit"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-06-16T05:03:59Z",
+    "description": "Make :q close the current buffer, or all of Neovim if the current buffer is the last one.",
+    "isArchived": false,
+    "lastCommit": "2024-06-16T22:08:53Z",
+    "nameWithOwner": "Dillonb/betterquit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "betterquit.nvim",
+  "owner": "Dillonb",
+  "url": "https://github.com/Dillonb/betterquit.nvim"
+}

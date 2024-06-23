@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-18T07:22:43Z",
+    "description": "Auto close quickfix by timer",
+    "isArchived": false,
+    "lastCommit": "2024-06-18T07:26:43Z",
+    "nameWithOwner": "mei28/qfc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qfc.nvim",
+  "owner": "mei28",
+  "url": "https://github.com/mei28/qfc.nvim"
+}

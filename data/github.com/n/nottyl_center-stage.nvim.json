@@ -8,30 +8,32 @@
         },
         {
           "level": 2,
-          "name": "Comment out"
+          "name": "Cursor position"
         }
       ],
-      "file": "comment.md",
+      "file": "cursor.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 3,
-    "createdAt": "2024-06-13T19:03:05Z",
-    "description": "An nvim plugin tool for comentng out code",
+    "createdAt": "2024-06-15T05:15:08Z",
+    "description": "Keep your cursor vertically centered in Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-06-13T20:36:28Z",
-    "nameWithOwner": "BarriosXJavier/nvim-comment-toggle",
+    "lastCommit": "2024-06-15T17:06:45Z",
+    "nameWithOwner": "nottyl/center-stage.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "nvim-comment-toggle",
-  "owner": "BarriosXJavier",
-  "url": "https://github.com/BarriosXJavier/nvim-comment-toggle"
+  "name": "center-stage.nvim",
+  "owner": "nottyl",
+  "url": "https://github.com/nottyl/center-stage.nvim"
 }

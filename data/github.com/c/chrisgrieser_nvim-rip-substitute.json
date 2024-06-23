@@ -12,17 +12,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 108,
+    "commitCountLastYear": 135,
     "createdAt": "2024-06-04T19:27:56Z",
     "description": "A modern substitute for vim's :substitute using ripgrep.",
     "isArchived": false,
-    "lastCommit": "2024-06-15T11:10:40Z",
+    "lastCommit": "2024-06-22T13:50:05Z",
     "nameWithOwner": "chrisgrieser/nvim-rip-substitute",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 13,
     "topics": [
       "nvim",
       "nvim-plugin",

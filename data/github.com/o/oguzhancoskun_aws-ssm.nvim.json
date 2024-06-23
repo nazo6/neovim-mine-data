@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 41,
     "createdAt": "2024-06-13T23:28:29Z",
-    "description": "`aws-ssm.nvim` is a Lua module for NeoVim or Vim that facilitates adding parameters to AWS Systems Manager Parameter Store.",
+    "description": "AWS SSM Parameter Store Plugin for Vim/NeoVim",
     "isArchived": false,
-    "lastCommit": "2024-06-14T22:43:14Z",
+    "lastCommit": "2024-06-21T20:46:18Z",
     "nameWithOwner": "oguzhancoskun/aws-ssm.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -36,6 +36,12 @@
     },
     "star": 2,
     "topics": [
+      "aws",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "vim-plugin"
     ]
   },
   "domain": "github.com",

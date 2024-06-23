@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PlantUML"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-15T18:16:30Z",
+    "description": "PlantUML rendering",
+    "isArchived": false,
+    "lastCommit": "2024-06-15T18:22:07Z",
+    "nameWithOwner": "bryangrimes/plantuml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plantuml.nvim",
+  "owner": "bryangrimes",
+  "url": "https://github.com/bryangrimes/plantuml.nvim"
+}

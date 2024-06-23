@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "sudo"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-20T09:30:26Z",
+    "description": "A neovim plugin to seamlessly edit files that require superuser access",
+    "isArchived": false,
+    "lastCommit": "2024-06-20T09:31:40Z",
+    "nameWithOwner": "Grafcube/suedit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "doas",
+      "doasedit",
+      "lua",
+      "neovim",
+      "nvim",
+      "plugin",
+      "su",
+      "sudo",
+      "sudoedit",
+      "run0"
+    ]
+  },
+  "domain": "github.com",
+  "name": "suedit.nvim",
+  "owner": "Grafcube",
+  "url": "https://github.com/Grafcube/suedit.nvim"
+}

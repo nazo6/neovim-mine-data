@@ -8,14 +8,14 @@
         },
         {
           "level": 2,
-          "name": "CSS"
+          "name": "Convert"
         },
         {
           "level": 3,
-          "name": "pixel size"
+          "name": "Pixel"
         }
       ],
-      "file": "js_ts.md",
+      "file": "convert.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -26,14 +26,14 @@
         },
         {
           "level": 2,
-          "name": "Convert"
+          "name": "CSS"
         },
         {
           "level": 3,
-          "name": "Pixel"
+          "name": "pixel size"
         }
       ],
-      "file": "convert.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -62,5 +62,5 @@
   "domain": "github.com",
   "name": "nvim-px-to-rem",
   "owner": "jsongerber",
-  "url": "https://github.com/Jsongerber/nvim-px-to-rem"
+  "url": "https://github.com/jsongerber/nvim-px-to-rem"
 }

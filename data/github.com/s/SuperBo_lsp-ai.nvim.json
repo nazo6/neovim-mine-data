@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "lsp-ai"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-15T09:44:32Z",
+    "description": "LSP-AI plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-06-17T06:13:55Z",
+    "nameWithOwner": "SuperBo/lsp-ai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-ai.nvim",
+  "owner": "SuperBo",
+  "url": "https://github.com/SuperBo/lsp-ai.nvim"
+}

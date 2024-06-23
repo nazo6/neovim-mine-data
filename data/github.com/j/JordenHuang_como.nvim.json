@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 15,
     "createdAt": "2024-06-12T07:28:25Z",
     "description": "A neovim plugin that create a buffer for compilation results",
     "isArchived": false,
-    "lastCommit": "2024-06-14T14:21:38Z",
+    "lastCommit": "2024-06-21T09:35:34Z",
     "nameWithOwner": "JordenHuang/como.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,9 @@
     },
     "star": 1,
     "topics": [
+      "compilation",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

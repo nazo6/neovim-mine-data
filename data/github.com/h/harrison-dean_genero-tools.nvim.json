@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Genero"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-06-15T22:48:43Z",
+    "description": "A Neovim plugin to provide some LSP-like functionalities for the Genero language by FourJs",
+    "isArchived": false,
+    "lastCommit": "2024-06-19T23:13:02Z",
+    "nameWithOwner": "harrison-dean/genero-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "genero-tools.nvim",
+  "owner": "harrison-dean",
+  "url": "https://github.com/harrison-dean/genero-tools.nvim"
+}

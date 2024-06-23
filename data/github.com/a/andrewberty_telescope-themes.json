@@ -4,38 +4,38 @@
       "data": [
         {
           "level": 1,
-          "name": "Keymap"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Improve Mappings"
+          "name": "Syntax"
         },
         {
           "level": 3,
-          "name": "CapsLock"
+          "name": "Colorscheme switcher"
         }
       ],
-      "file": "mapping.md",
+      "file": "syntax_highlight.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2024-05-21T06:35:54Z",
+    "commitCountLastYear": 32,
+    "createdAt": "2023-08-21T08:49:49Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-05-21T08:27:03Z",
-    "nameWithOwner": "oskarmeyenburg/nvim-caps-lock",
+    "lastCommit": "2024-06-20T07:59:32Z",
+    "nameWithOwner": "andrewberty/telescope-themes",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 28,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "nvim-caps-lock",
-  "owner": "oskarmeyenburg",
-  "url": "https://github.com/oskarmeyenburg/nvim-caps-lock"
+  "name": "telescope-themes",
+  "owner": "andrewberty",
+  "url": "https://github.com/andrew-george/telescope-themes"
 }

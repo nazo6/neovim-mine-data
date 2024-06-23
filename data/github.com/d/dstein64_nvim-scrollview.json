@@ -34,22 +34,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 192,
+    "commitCountLastYear": 190,
     "createdAt": "2020-12-10T01:51:20Z",
     "description": "A Neovim plugin that displays interactive vertical scrollbars and signs.",
     "isArchived": false,
-    "lastCommit": "2024-06-13T23:24:22Z",
+    "lastCommit": "2024-06-21T17:43:00Z",
     "nameWithOwner": "dstein64/nvim-scrollview",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 514,
+    "star": 515,
     "topics": [
       "neovim",
       "scrollbar",
-      "scrollview",
-      "vimscript"
+      "scrollview"
     ]
   },
   "domain": "github.com",

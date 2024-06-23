@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-06-17T13:57:52Z",
+    "description": "a small ui lib for neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-06-17T14:12:29Z",
+    "nameWithOwner": "comfysage/yosu.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yosu.nvim",
+  "owner": "comfysage",
+  "url": "https://github.com/comfysage/yosu.nvim"
+}

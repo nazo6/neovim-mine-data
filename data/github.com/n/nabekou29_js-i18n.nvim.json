@@ -24,18 +24,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 15,
     "createdAt": "2024-06-05T14:48:17Z",
-    "description": "a Neovim plugin for the JavaScript library i18next",
+    "description": "A Neovim plugin for the JavaScript library i18next",
     "isArchived": false,
-    "lastCommit": "2024-06-12T12:24:48Z",
+    "lastCommit": "2024-06-22T18:05:41Z",
     "nameWithOwner": "nabekou29/js-i18n.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

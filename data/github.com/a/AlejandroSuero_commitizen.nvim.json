@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-06-16T20:14:09Z",
+    "description": "Neovim plugin that emulates commitizen CLI tool to keep those commits following the conventional commit rules",
+    "isArchived": false,
+    "lastCommit": "2024-06-18T10:36:23Z",
+    "nameWithOwner": "AlejandroSuero/commitizen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commitizen.nvim",
+  "owner": "AlejandroSuero",
+  "url": "https://github.com/AlejandroSuero/commitizen.nvim"
+}

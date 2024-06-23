@@ -38,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 15,
     "createdAt": "2023-04-19T13:31:20Z",
     "description": "A colorscheme picker with live preview and persistence for neovim ✨",
     "isArchived": false,
@@ -48,12 +48,16 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 129,
+    "star": 130,
     "topics": [
       "colorscheme",
       "neovim",
       "live-preview",
-      "picker"
+      "picker",
+      "neovim-config",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-theme"
     ]
   },
   "domain": "github.com",
