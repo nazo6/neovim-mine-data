@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        }
+      ],
+      "file": "cursor.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-25T03:32:14Z",
+    "description": "Keep track of cursor movements by briefly illuminating the cursor line and colum",
+    "isArchived": false,
+    "lastCommit": "2024-06-27T09:53:35Z",
+    "nameWithOwner": "rlychrisg/cursorshine.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cursorshine.nvim",
+  "owner": "rlychrisg",
+  "url": "https://github.com/rlychrisg/cursorshine.nvim"
+}

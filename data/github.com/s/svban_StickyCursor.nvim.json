@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor position"
+        }
+      ],
+      "file": "cursor.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-28T18:21:09Z",
+    "description": "Don't center the scrollview while switching buffers in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-06-28T18:29:45Z",
+    "nameWithOwner": "svban/StickyCursor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "StickyCursor.nvim",
+  "owner": "svban",
+  "url": "https://github.com/svban/StickyCursor.nvim"
+}

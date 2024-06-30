@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Background"
+        }
+      ],
+      "file": "background.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-22T09:25:08Z",
+    "description": "Transprent vim backgrounds",
+    "isArchived": false,
+    "lastCommit": "2024-06-22T09:31:09Z",
+    "nameWithOwner": "tribela/transparent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "transparent.nvim",
+  "owner": "tribela",
+  "url": "https://github.com/tribela/transparent.nvim"
+}

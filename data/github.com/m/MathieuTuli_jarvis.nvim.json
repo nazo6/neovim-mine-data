@@ -8,20 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Mark"
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Llama"
         }
       ],
-      "file": "mark.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 1,
-    "createdAt": "2024-04-17T21:34:13Z",
+    "createdAt": "2024-06-28T19:47:30Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-04-17T22:49:47Z",
-    "nameWithOwner": "brunobmello25/project-marks.nvim",
+    "lastCommit": "2024-06-28T20:01:06Z",
+    "nameWithOwner": "MathieuTuli/jarvis.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "project-marks.nvim",
-  "owner": "brunobmello25",
-  "url": "https://github.com/brunobmello25/project-marks.nvim"
+  "name": "jarvis.nvim",
+  "owner": "MathieuTuli",
+  "url": "https://github.com/MathieuTuli/jarvis.nvim"
 }

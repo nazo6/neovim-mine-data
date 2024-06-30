@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 13,
     "createdAt": "2020-11-15T11:18:37Z",
     "description": "An extension for nvim-dap, providing default configurations for python and methods to debug individual test methods or classes.",
     "isArchived": false,
-    "lastCommit": "2024-06-03T18:36:12Z",
+    "lastCommit": "2024-06-26T15:11:49Z",
     "nameWithOwner": "mfussenegger/nvim-dap-python",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 480,
+    "star": 485,
     "topics": [
       "neovim",
       "nvim-dap",

@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-06-26T19:50:42Z",
+    "description": "A statusline plugin written in lua made for blitz.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-06-28T21:26:03Z",
+    "nameWithOwner": "richardhbtz/blitzline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blitzline.nvim",
+  "owner": "richardhbtz",
+  "url": "https://github.com/richardhbtz/blitzline.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-22T04:01:13Z",
+    "description": "Plugin for creating daily notes with neovim",
+    "isArchived": false,
+    "lastCommit": "2024-06-22T04:07:33Z",
+    "nameWithOwner": "VVoruganti/today.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "today.nvim",
+  "owner": "VVoruganti",
+  "url": "https://github.com/VVoruganti/today.nvim"
+}

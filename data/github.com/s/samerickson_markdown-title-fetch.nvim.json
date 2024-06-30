@@ -8,28 +8,28 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
+          "name": "Documentation"
         },
         {
           "level": 3,
-          "name": "IME"
+          "name": "Markdown"
         },
         {
           "level": 4,
-          "name": "Fcitx"
+          "name": "Markdown link"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2024-01-12T15:57:05Z",
-    "description": "A Neovim plugin for automatically activate/inactivate Fcitx5",
+    "commitCountLastYear": 9,
+    "createdAt": "2024-06-25T03:33:09Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-02-16T17:37:30Z",
-    "nameWithOwner": "0b10000000011/fcitx5-switch.nvim",
+    "lastCommit": "2024-06-25T05:13:38Z",
+    "nameWithOwner": "samerickson/markdown-title-fetch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -39,7 +39,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "fcitx5-switch.nvim",
-  "owner": "0b10000000011",
-  "url": "https://github.com/SR-MyStar/fcitx5-switch.nvim"
+  "name": "markdown-title-fetch.nvim",
+  "owner": "samerickson",
+  "url": "https://github.com/samerickson/markdown-title-fetch.nvim"
 }

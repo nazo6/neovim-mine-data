@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-06-24T01:08:18Z",
+    "description": "Devtools",
+    "isArchived": false,
+    "lastCommit": "2024-06-26T01:46:13Z",
+    "nameWithOwner": "muhfaris/devtools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "developer-tools",
+      "devtools"
+    ]
+  },
+  "domain": "github.com",
+  "name": "devtools.nvim",
+  "owner": "muhfaris",
+  "url": "https://github.com/muhfaris/devtools.nvim"
+}

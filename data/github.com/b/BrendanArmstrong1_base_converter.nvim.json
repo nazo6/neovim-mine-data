@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Convert Word"
+          "name": "Number"
         }
       ],
       "file": "convert.md",
@@ -20,22 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2024-01-17T14:44:52Z",
-    "description": "Super-simple neovim plugin for cycling through antonyms/words related to word under cursor",
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-22T20:42:36Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-01-17T14:50:54Z",
-    "nameWithOwner": "0b10000000011/antonym.nvim",
+    "lastCommit": "2024-06-23T13:15:42Z",
+    "nameWithOwner": "BrendanArmstrong1/base_converter.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 0,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "antonym.nvim",
-  "owner": "0b10000000011",
-  "url": "https://github.com/SR-MyStar/antonym.nvim"
+  "name": "base_converter.nvim",
+  "owner": "BrendanArmstrong1",
+  "url": "https://github.com/BrendanArmstrong1/base_converter.nvim"
 }

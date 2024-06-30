@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screen Key (Show Typing key)"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-06-28T07:33:16Z",
+    "description": "Simulate typing in real time without pase, or pausing on paragraph or lines",
+    "isArchived": false,
+    "lastCommit": "2024-06-28T10:12:59Z",
+    "nameWithOwner": "Piotr1215/typeit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "presentation"
+    ]
+  },
+  "domain": "github.com",
+  "name": "typeit.nvim",
+  "owner": "Piotr1215",
+  "url": "https://github.com/Piotr1215/typeit.nvim"
+}

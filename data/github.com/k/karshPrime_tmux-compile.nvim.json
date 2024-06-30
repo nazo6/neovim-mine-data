@@ -38,18 +38,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 35,
     "createdAt": "2024-05-19T14:31:19Z",
-    "description": "effortlessly compile and run code for any language in tmux",
+    "description": "Neovim plugin to compile and run programs in TMUX panes/window",
     "isArchived": false,
-    "lastCommit": "2024-06-21T10:25:41Z",
+    "lastCommit": "2024-06-28T05:47:45Z",
     "nameWithOwner": "karshPrime/tmux-compile.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 6,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "tmux"
     ]
   },
   "domain": "github.com",

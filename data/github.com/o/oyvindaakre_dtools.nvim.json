@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Debug"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-06-26T06:59:30Z",
+    "description": "My develop and debug tools",
+    "isArchived": false,
+    "lastCommit": "2024-06-28T20:43:00Z",
+    "nameWithOwner": "oyvindaakre/dtools.nvim",
+    "primaryLanguage": {
+      "color": "#f34b7d",
+      "name": "C++"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dtools.nvim",
+  "owner": "oyvindaakre",
+  "url": "https://github.com/oyvindaakre/dtools.nvim"
+}

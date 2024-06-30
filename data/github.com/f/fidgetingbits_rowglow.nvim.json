@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Jump number"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-25T02:42:51Z",
+    "description": "Neovim plugin for highlighting statuscolumn row numbers",
+    "isArchived": false,
+    "lastCommit": "2024-06-25T02:43:50Z",
+    "nameWithOwner": "fidgetingbits/rowglow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rowglow.nvim",
+  "owner": "fidgetingbits",
+  "url": "https://github.com/fidgetingbits/rowglow.nvim"
+}

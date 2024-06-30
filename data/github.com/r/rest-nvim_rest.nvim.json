@@ -20,25 +20,13 @@
     },
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Net"
-        },
-        {
-          "level": 3,
-          "name": "REST"
-        }
       ],
-      "file": "neovim-lua-library.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 285,
+    "commitCountLastYear": 284,
     "createdAt": "2021-05-05T22:56:10Z",
     "description": "A fast Neovim http client written in Lua",
     "isArchived": true,
@@ -48,7 +36,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1358,
+    "star": 1355,
     "topics": [
       "neovim",
       "lua",

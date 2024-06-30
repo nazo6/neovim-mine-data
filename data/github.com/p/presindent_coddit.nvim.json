@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2024-06-21T10:38:05Z",
+    "description": "Neovim Plugin to Use LLMs to Code",
+    "isArchived": false,
+    "lastCommit": "2024-06-28T12:04:48Z",
+    "nameWithOwner": "presindent/coddit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "coddit.nvim",
+  "owner": "presindent",
+  "url": "https://github.com/presindent/coddit.nvim"
+}

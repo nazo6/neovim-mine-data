@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Lua"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-06-25T14:18:39Z",
+    "description": "Experimental markdown preview for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-06-28T16:37:42Z",
+    "nameWithOwner": "OXY2DEV/markview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 338,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markview.nvim",
+  "owner": "OXY2DEV",
+  "url": "https://github.com/OXY2DEV/markview.nvim"
+}

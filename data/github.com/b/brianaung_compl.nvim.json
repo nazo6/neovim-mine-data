@@ -24,12 +24,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 45,
+    "commitCountLastYear": 52,
     "createdAt": "2024-06-01T10:52:25Z",
-    "description": "Code auto-completion for Neovim.",
+    "description": "Code completion for Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-06-19T13:15:56Z",
-    "nameWithOwner": "brianaung/autocompl.nvim",
+    "lastCommit": "2024-06-29T14:25:26Z",
+    "nameWithOwner": "brianaung/compl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -42,7 +42,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "autocompl.nvim",
+  "name": "compl.nvim",
   "owner": "brianaung",
   "url": "https://github.com/brianaung/autocompl.nvim"
 }

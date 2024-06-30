@@ -2,8 +2,20 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Dictionary"
+        }
       ],
-      "file": "Archived.md",
+      "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

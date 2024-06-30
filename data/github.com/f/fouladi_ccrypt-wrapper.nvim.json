@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Security"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-06-22T09:24:30Z",
+    "description": "A Neovim plugin to encrypt and decrypt buffers with ccrypt.",
+    "isArchived": false,
+    "lastCommit": "2024-06-26T10:11:12Z",
+    "nameWithOwner": "fouladi/ccrypt-wrapper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ccrypt-wrapper.nvim",
+  "owner": "fouladi",
+  "url": "https://github.com/fouladi/ccrypt-wrapper.nvim"
+}

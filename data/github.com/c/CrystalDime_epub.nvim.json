@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "EPUB"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-06-27T18:48:32Z",
+    "description": "A neovim plugin to view epubs",
+    "isArchived": false,
+    "lastCommit": "2024-06-28T19:34:03Z",
+    "nameWithOwner": "CrystalDime/epub.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "epub.nvim",
+  "owner": "CrystalDime",
+  "url": "https://github.com/CrystalDime/epub.nvim"
+}
