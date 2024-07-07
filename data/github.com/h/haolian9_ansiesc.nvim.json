@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "ANSI Colorize"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-07-03T13:12:18Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-07-05T01:29:59Z",
+    "nameWithOwner": "haolian9/ansiesc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ansiesc.nvim",
+  "owner": "haolian9",
+  "url": "https://github.com/haolian9/ansiesc.nvim"
+}

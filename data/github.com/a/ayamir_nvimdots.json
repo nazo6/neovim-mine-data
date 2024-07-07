@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Preconfigured Configuration"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 266,
+    "createdAt": "2021-06-19T04:03:23Z",
+    "description": "A well configured and structured Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-07-02T01:52:53Z",
+    "nameWithOwner": "ayamir/nvimdots",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2828,
+    "topics": [
+      "dotfiles",
+      "editor",
+      "ide",
+      "neovim-config",
+      "neovim-configuration",
+      "neovim-dotfiles",
+      "neovim-lua",
+      "neovim-setup",
+      "nvim",
+      "nvim-configs"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvimdots",
+  "owner": "ayamir",
+  "url": "https://github.com/ayamir/nvimdots"
+}

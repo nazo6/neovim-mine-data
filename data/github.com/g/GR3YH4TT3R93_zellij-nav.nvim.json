@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Zellij"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-07-05T04:52:36Z",
+    "description": "a Neovim plugin to help navigate betweeen Zellij panes as well as create new ones!",
+    "isArchived": false,
+    "lastCommit": "2024-07-07T08:53:50Z",
+    "nameWithOwner": "GR3YH4TT3R93/zellij-nav.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "zellij",
+      "zellij-nav"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zellij-nav.nvim",
+  "owner": "GR3YH4TT3R93",
+  "url": "https://github.com/GR3YH4TT3R93/zellij-nav.nvim"
+}

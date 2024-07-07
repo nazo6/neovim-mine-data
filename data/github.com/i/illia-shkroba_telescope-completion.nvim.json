@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Standard Completion"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-06-30T10:06:00Z",
+    "description": "Pick Insert mode completion with Telescope",
+    "isArchived": false,
+    "lastCommit": "2024-06-30T19:04:26Z",
+    "nameWithOwner": "illia-shkroba/telescope-completion.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "completion",
+      "fuzzy-search",
+      "nvim",
+      "nvim-plugin",
+      "telescope",
+      "telescope-extension",
+      "telescope-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-completion.nvim",
+  "owner": "illia-shkroba",
+  "url": "https://github.com/illia-shkroba/telescope-completion.nvim"
+}

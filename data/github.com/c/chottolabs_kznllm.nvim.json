@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Convert"
+          "name": "AI Coding"
         },
         {
           "level": 3,
-          "name": "Convert Word"
+          "name": "OpenAI"
         }
       ],
-      "file": "convert.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2024-01-17T14:44:52Z",
-    "description": "Super-simple neovim plugin for cycling through antonyms/words related to word under cursor",
+    "commitCountLastYear": 21,
+    "createdAt": "2024-06-30T22:48:41Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-01-17T14:50:54Z",
-    "nameWithOwner": "0x00000403/antonym.nvim",
+    "lastCommit": "2024-07-04T08:11:25Z",
+    "nameWithOwner": "chottolabs/kznllm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "antonym.nvim",
-  "owner": "0x00000403",
-  "url": "https://github.com/SR-MyStar/antonym.nvim"
+  "name": "kznllm.nvim",
+  "owner": "chottolabs",
+  "url": "https://github.com/chottolabs/kznllm.nvim"
 }

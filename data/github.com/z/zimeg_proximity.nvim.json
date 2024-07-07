@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Other Buffer Switcher"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-06-30T04:43:14Z",
+    "description": "find the nearest matching file fast",
+    "isArchived": false,
+    "lastCommit": "2024-06-30T06:25:21Z",
+    "nameWithOwner": "zimeg/proximity.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "proximity.nvim",
+  "owner": "zimeg",
+  "url": "https://github.com/zimeg/proximity.nvim"
+}

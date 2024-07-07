@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "textDocument"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-06-29T12:15:17Z",
+    "description": "The missing Neovim LSP modules",
+    "isArchived": false,
+    "lastCommit": "2024-07-01T04:13:58Z",
+    "nameWithOwner": "luckasRanarison/lsp-extras.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-extras.nvim",
+  "owner": "luckasRanarison",
+  "url": "https://github.com/luckasRanarison/lsp-extras.nvim"
+}

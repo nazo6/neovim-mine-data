@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion support"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-07-04T19:48:08Z",
+    "description": "Icons for your nvim-cmp completions",
+    "isArchived": false,
+    "lastCommit": "2024-07-06T18:48:29Z",
+    "nameWithOwner": "tranzystorekk/cmp-minikind.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-minikind.nvim",
+  "owner": "tranzystorekk",
+  "url": "https://github.com/tranzystorekk/cmp-minikind.nvim"
+}

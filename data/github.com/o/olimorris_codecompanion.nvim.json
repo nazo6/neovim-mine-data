@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 346,
+    "commitCountLastYear": 367,
     "createdAt": "2023-12-27T17:32:51Z",
     "description": "✨ A Copilot Chat experience in Neovim. Supports Anthropic, Ollama and OpenAI LLMs",
     "isArchived": false,
-    "lastCommit": "2024-06-29T06:37:57Z",
+    "lastCommit": "2024-07-06T21:45:09Z",
     "nameWithOwner": "olimorris/codecompanion.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 159,
+    "star": 173,
     "topics": [
       "neovim",
       "openai",
@@ -49,7 +49,8 @@
       "ollama",
       "plugin",
       "copilot",
-      "copilot-chat"
+      "copilot-chat",
+      "claude"
     ]
   },
   "domain": "github.com",

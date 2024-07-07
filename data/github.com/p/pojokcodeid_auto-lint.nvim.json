@@ -4,34 +4,34 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Obsidian"
+          "name": "Lint"
         }
       ],
-      "file": "note-taking.md",
+      "file": "linter_formatter.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 388,
-    "createdAt": "2024-01-28T18:15:22Z",
+    "commitCountLastYear": 4,
+    "createdAt": "2024-07-04T13:36:15Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-01-27T00:26:40Z",
-    "nameWithOwner": "NextPi/obsidian.nvim",
+    "lastCommit": "2024-07-04T22:55:57Z",
+    "nameWithOwner": "pojokcodeid/auto-lint.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "obsidian.nvim",
-  "owner": "NextPi",
-  "url": "https://github.com/NextPi/obsidian.nvim"
+  "name": "auto-lint.nvim",
+  "owner": "pojokcodeid",
+  "url": "https://github.com/pojokcodeid/auto-lint.nvim"
 }

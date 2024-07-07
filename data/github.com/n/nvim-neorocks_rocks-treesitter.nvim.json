@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 77,
+    "commitCountLastYear": 82,
     "createdAt": "2024-03-14T12:37:02Z",
     "description": "A WIP \"just works\" tree-sitter setup for rocks.nvim!",
     "isArchived": false,
-    "lastCommit": "2024-06-29T14:19:38Z",
+    "lastCommit": "2024-07-02T20:30:53Z",
     "nameWithOwner": "nvim-neorocks/rocks-treesitter.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -35,7 +35,8 @@
       "neovim",
       "rocks",
       "tree-sitter",
-      "treesitter"
+      "treesitter",
+      "rocks-nvim"
     ]
   },
   "domain": "github.com",

@@ -16,12 +16,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 6,
     "createdAt": "2023-06-01T16:47:35Z",
-    "description": "🐙 GithubUtils.nvim - simple utils for working with Github inside Neovim",
+    "description": "🐙 ndoo.nvim - simple utils for working with Github, Bitbucket and GitLab inside Neovim.",
     "isArchived": false,
-    "lastCommit": "2023-10-17T20:40:27Z",
-    "nameWithOwner": "mistweaverco/githubutils.nvim",
+    "lastCommit": "2024-07-05T17:02:45Z",
+    "nameWithOwner": "mistweaverco/ndoo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -37,7 +37,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "githubutils.nvim",
+  "name": "ndoo.nvim",
   "owner": "mistweaverco",
   "url": "https://github.com/mistweaverco/githubutils.nvim"
 }

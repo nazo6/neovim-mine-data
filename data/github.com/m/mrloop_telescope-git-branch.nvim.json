@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git switch"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-07-05T11:40:31Z",
+    "description": "Find which files and preview what changes have been made on your branch",
+    "isArchived": false,
+    "lastCommit": "2024-07-05T15:20:09Z",
+    "nameWithOwner": "mrloop/telescope-git-branch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "feature-branch",
+      "git",
+      "lua",
+      "neovim",
+      "nvim",
+      "telescope-extension",
+      "telescope-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-git-branch.nvim",
+  "owner": "mrloop",
+  "url": "https://github.com/mrloop/telescope-git-branch.nvim"
+}

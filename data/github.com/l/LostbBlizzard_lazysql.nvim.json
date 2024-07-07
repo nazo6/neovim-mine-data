@@ -8,20 +8,20 @@
         },
         {
           "level": 2,
-          "name": "Test"
+          "name": "Database"
         }
       ],
-      "file": "test.md",
+      "file": "db.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2024-02-08T21:35:24Z",
-    "description": "A small plugin for neovim to help the Test Driven Development flow by displaying the TDD cycle step.",
+    "commitCountLastYear": 6,
+    "createdAt": "2024-06-30T02:08:35Z",
+    "description": "Plugin for calling lazysql from within neovim.",
     "isArchived": false,
-    "lastCommit": "2024-02-08T22:35:37Z",
-    "nameWithOwner": "maggflor/nvim-tdd",
+    "lastCommit": "2024-06-30T02:31:07Z",
+    "nameWithOwner": "LostbBlizzard/lazysql.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "nvim-tdd",
-  "owner": "maggflor",
-  "url": "https://github.com/maggflor/nvim-tdd"
+  "name": "lazysql.nvim",
+  "owner": "LostbBlizzard",
+  "url": "https://github.com/LostbBlizzard/lazysql.nvim"
 }

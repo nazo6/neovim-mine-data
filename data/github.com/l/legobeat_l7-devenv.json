@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Preconfigured Configuration"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 349,
+    "createdAt": "2024-06-03T05:18:22Z",
+    "description": "Secure terminal-based IDE for local JS development",
+    "isArchived": false,
+    "lastCommit": "2024-07-07T08:19:46Z",
+    "nameWithOwner": "legobeat/l7-devenv",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 8,
+    "topics": [
+      "neovim",
+      "neovim-dotfiles",
+      "nodejs",
+      "rootless-containers"
+    ]
+  },
+  "domain": "github.com",
+  "name": "l7-devenv",
+  "owner": "legobeat",
+  "url": "https://github.com/legobeat/l7-devenv"
+}

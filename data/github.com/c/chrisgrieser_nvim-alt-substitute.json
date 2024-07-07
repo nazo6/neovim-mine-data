@@ -2,12 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Replace"
-        }
       ],
-      "file": "search_replace_grep_select.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -29,7 +25,7 @@
     "commitCountLastYear": 26,
     "createdAt": "2023-04-06T06:53:47Z",
     "description": "A substitute of vim's :substitute that uses lua patterns instead of vim regex. Supports incremental preview.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-06-04T20:38:44Z",
     "nameWithOwner": "chrisgrieser/nvim-alt-substitute",
     "primaryLanguage": {

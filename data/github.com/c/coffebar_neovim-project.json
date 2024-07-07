@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 77,
+    "commitCountLastYear": 79,
     "createdAt": "2023-09-17T11:47:03Z",
-    "description": "Neovim project manager maintains your recent project history and uses Telescope to select from autosaved sessions.",
+    "description": "Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope. ",
     "isArchived": false,
-    "lastCommit": "2024-05-29T10:02:47Z",
+    "lastCommit": "2024-07-04T16:19:39Z",
     "nameWithOwner": "coffebar/neovim-project",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 157,
+    "star": 158,
     "topics": [
       "lua",
       "neovim",

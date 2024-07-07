@@ -4,6 +4,16 @@
       "data": [
         {
           "level": 1,
+          "name": "Bufferline"
+        }
+      ],
+      "file": "bufferline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -17,20 +27,10 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Bufferline"
-        }
-      ],
-      "file": "bufferline.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 94,
+    "commitCountLastYear": 67,
     "createdAt": "2021-04-29T21:36:25Z",
     "description": ":nose: A Neovim bufferline for people with addictive personalities",
     "isArchived": false,
@@ -40,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 519,
+    "star": 524,
     "topics": [
       "neovim",
       "neovim-plugin",
@@ -54,5 +54,5 @@
   "domain": "github.com",
   "name": "nvim-cokeline",
   "owner": "willothy",
-  "url": "https://github.com/willothy/nvim-cokeline"
+  "url": "https://github.com/noib3/cokeline.nvim"
 }

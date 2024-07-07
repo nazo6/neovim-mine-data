@@ -2,31 +2,23 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Neovim Lua Development"
-        }
       ],
-      "file": "neovim-lua-development.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 161,
+    "commitCountLastYear": 164,
     "createdAt": "2021-05-19T13:21:14Z",
     "description": "💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.",
-    "isArchived": false,
-    "lastCommit": "2024-06-04T08:48:11Z",
+    "isArchived": true,
+    "lastCommit": "2024-07-06T10:05:06Z",
     "nameWithOwner": "folke/neodev.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2017,
+    "star": 2018,
     "topics": [
       "neovim",
       "neovim-plugin",

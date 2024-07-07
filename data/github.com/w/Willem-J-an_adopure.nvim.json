@@ -12,11 +12,11 @@
         },
         {
           "level": 3,
-          "name": "IME"
+          "name": "Cloud"
         },
         {
           "level": 4,
-          "name": "Fcitx"
+          "name": "Azure"
         }
       ],
       "file": "integration-apps.md",
@@ -24,22 +24,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2024-01-12T15:57:05Z",
-    "description": "A Neovim plugin for automatically activate/inactivate Fcitx5",
+    "commitCountLastYear": 34,
+    "createdAt": "2024-03-31T16:51:38Z",
+    "description": "Neovim plugin providing an opinionated workflow to interact with Azure DevOps Pull Requests.",
     "isArchived": false,
-    "lastCommit": "2024-02-16T17:37:30Z",
-    "nameWithOwner": "0x00000403/fcitx5-switch.nvim",
+    "lastCommit": "2024-06-25T09:08:08Z",
+    "nameWithOwner": "Willem-J-an/adopure.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 14,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "fcitx5-switch.nvim",
-  "owner": "0x00000403",
-  "url": "https://github.com/SR-MyStar/fcitx5-switch.nvim"
+  "name": "adopure.nvim",
+  "owner": "Willem-J-an",
+  "url": "https://github.com/Willem-J-an/adopure.nvim"
 }

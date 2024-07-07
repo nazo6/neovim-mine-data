@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-06-29T04:36:31Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-07-02T19:36:16Z",
+    "nameWithOwner": "kdheepak/nvim-dap-julia",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-julia",
+  "owner": "kdheepak",
+  "url": "https://github.com/kdheepak/nvim-dap-julia"
+}
