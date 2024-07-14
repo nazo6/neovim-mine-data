@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 12,
     "createdAt": "2024-06-24T01:08:18Z",
-    "description": "Devtools",
+    "description": "Devtools.nvim - The swiss army knife for developers.",
     "isArchived": false,
-    "lastCommit": "2024-07-07T04:33:42Z",
+    "lastCommit": "2024-07-10T00:17:00Z",
     "nameWithOwner": "muhfaris/devtools.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -37,7 +37,9 @@
       "nvim",
       "nvim-plugin",
       "developer-tools",
-      "devtools"
+      "devtools",
+      "json",
+      "tools"
     ]
   },
   "domain": "github.com",

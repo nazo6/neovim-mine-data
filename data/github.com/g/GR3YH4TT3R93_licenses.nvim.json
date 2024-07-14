@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        },
+        {
+          "level": 3,
+          "name": "Comment Header"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-07-12T21:22:01Z",
+    "description": "A neovim plugin for easily writing license files and inserting license headers.",
+    "isArchived": false,
+    "lastCommit": "2024-01-03T05:07:51Z",
+    "nameWithOwner": "GR3YH4TT3R93/licenses.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "licenses.nvim",
+  "owner": "GR3YH4TT3R93",
+  "url": "https://github.com/GR3YH4TT3R93/licenses.nvim"
+}

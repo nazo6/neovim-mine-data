@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Shell"
+        },
+        {
+          "level": 4,
+          "name": "bash"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-07-07T23:50:32Z",
+    "description": "Read from a .bash_history file, open a window with the contents, calls back with the user's selection.",
+    "isArchived": false,
+    "lastCommit": "2024-07-09T01:15:55Z",
+    "nameWithOwner": "Porter/bash_history.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bash_history.nvim",
+  "owner": "Porter",
+  "url": "https://github.com/Porter/bash_history.nvim"
+}

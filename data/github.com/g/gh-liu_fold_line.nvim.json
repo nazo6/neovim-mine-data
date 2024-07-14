@@ -13,20 +13,38 @@
       ],
       "file": "fold.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Formatting"
+        },
+        {
+          "level": 3,
+          "name": "Indent"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 41,
     "createdAt": "2024-06-21T23:21:29Z",
     "description": "Lines, not for indentation, but for folding.",
     "isArchived": false,
-    "lastCommit": "2024-07-07T05:45:52Z",
+    "lastCommit": "2024-07-14T00:56:12Z",
     "nameWithOwner": "gh-liu/fold_line.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 18,
     "topics": [
     ]
   },

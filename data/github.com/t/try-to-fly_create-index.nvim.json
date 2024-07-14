@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 3,
+          "name": "index.js"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-07-09T05:45:26Z",
+    "description": "automatically generates index files (`index.ts` or `index.js`)",
+    "isArchived": false,
+    "lastCommit": "2024-07-11T01:49:04Z",
+    "nameWithOwner": "try-to-fly/create-index.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "create-index.nvim",
+  "owner": "try-to-fly",
+  "url": "https://github.com/try-to-fly/create-index.nvim"
+}

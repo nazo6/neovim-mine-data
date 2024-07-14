@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screenshot"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-07-11T20:34:38Z",
+    "description": "Take code screenshots with freeze straight from Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-11T20:43:08Z",
+    "nameWithOwner": "TymekDev/freeze.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "freeze.nvim",
+  "owner": "TymekDev",
+  "url": "https://github.com/TymekDev/freeze.nvim"
+}

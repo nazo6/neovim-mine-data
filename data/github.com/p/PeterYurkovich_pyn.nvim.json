@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-07-09T00:43:35Z",
+    "description": "Some simple Obsidian.md inspired functions which can enable the usage of a vault in an environment where Obsidian isn't available in",
+    "isArchived": false,
+    "lastCommit": "2024-07-10T12:07:20Z",
+    "nameWithOwner": "PeterYurkovich/pyn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pyn.nvim",
+  "owner": "PeterYurkovich",
+  "url": "https://github.com/PeterYurkovich/pyn.nvim"
+}

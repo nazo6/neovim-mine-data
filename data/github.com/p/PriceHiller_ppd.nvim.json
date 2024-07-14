@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Convert"
+          "name": "Directory"
         },
         {
           "level": 3,
-          "name": "Convert Word"
+          "name": "cd(change directory)"
         }
       ],
-      "file": "convert.md",
+      "file": "directory.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 1,
-    "createdAt": "2024-01-17T14:44:52Z",
-    "description": "Super-simple neovim plugin for cycling through antonyms/words related to word under cursor",
+    "createdAt": "2024-07-06T11:10:13Z",
+    "description": "Pushd & Popd Implementation for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-01-17T14:50:54Z",
-    "nameWithOwner": "0xNahida/antonym.nvim",
+    "lastCommit": "2024-07-06T11:17:55Z",
+    "nameWithOwner": "PriceHiller/ppd.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "antonym.nvim",
-  "owner": "0xNahida",
-  "url": "https://github.com/SR-MyStar/antonym.nvim"
+  "name": "ppd.nvim",
+  "owner": "PriceHiller",
+  "url": "https://github.com/PriceHiller/ppd.nvim"
 }

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-07-07T17:45:45Z",
+    "description": "A lualine component for grapple.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-07-08T15:26:41Z",
+    "nameWithOwner": "will-lynas/grapple-line.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "grapple-line.nvim",
+  "owner": "will-lynas",
+  "url": "https://github.com/will-lynas/grapple-line.nvim"
+}

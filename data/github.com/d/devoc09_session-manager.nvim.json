@@ -1,0 +1,35 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-07-06T14:09:28Z",
+    "description": "Tiny plugin that manage session of neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-06T21:22:58Z",
+    "nameWithOwner": "devoc09/session-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "session-manager.nvim",
+  "owner": "devoc09",
+  "url": "https://github.com/devoc09/session-manager.nvim"
+}

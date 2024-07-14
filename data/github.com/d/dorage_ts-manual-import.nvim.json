@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 3,
+          "name": "import"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-07-11T05:52:19Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-07-14T10:11:29Z",
+    "nameWithOwner": "dorage/ts-manual-import.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ts-manual-import.nvim",
+  "owner": "dorage",
+  "url": "https://github.com/dorage/ts-manual-import.nvim"
+}

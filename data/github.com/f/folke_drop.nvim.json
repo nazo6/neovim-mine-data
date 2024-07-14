@@ -4,29 +4,29 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
           "name": "Screen server"
         }
       ],
-      "file": "toy.md",
+      "file": "animation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 18,
     "createdAt": "2022-10-28T17:14:40Z",
     "description": "🍁 Fun little plugin that can be used as a screensaver and on your dashboard",
     "isArchived": false,
-    "lastCommit": "2024-07-07T07:25:37Z",
+    "lastCommit": "2024-07-13T16:09:33Z",
     "nameWithOwner": "folke/drop.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 205,
+    "star": 213,
     "topics": [
       "neovim",
       "neovim-plugin"

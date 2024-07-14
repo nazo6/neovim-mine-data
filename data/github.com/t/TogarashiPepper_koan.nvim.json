@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Koan"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-07-06T00:10:49Z",
+    "description": "Neovim plugin for koan syntax highlighting",
+    "isArchived": false,
+    "lastCommit": "2024-07-06T04:33:40Z",
+    "nameWithOwner": "TogarashiPepper/koan.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "koan.nvim",
+  "owner": "TogarashiPepper",
+  "url": "https://github.com/TogarashiPepper/koan.nvim"
+}

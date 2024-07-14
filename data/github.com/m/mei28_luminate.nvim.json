@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Cursor Jump highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2023-10-23T12:18:43Z",
+    "description": "🌟 Highlight yanked, pasted, and undone/redone text in Neovim with a splash of color.",
+    "isArchived": false,
+    "lastCommit": "2024-07-14T06:41:18Z",
+    "nameWithOwner": "mei28/luminate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "luminate.nvim",
+  "owner": "mei28",
+  "url": "https://github.com/mei28/luminate.nvim"
+}

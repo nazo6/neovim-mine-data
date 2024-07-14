@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-07-12T05:37:04Z",
+    "description": "Simple find and replace plugin for nvim.",
+    "isArchived": false,
+    "lastCommit": "2024-07-12T06:41:47Z",
+    "nameWithOwner": "bbbkbc/find-replace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "find-and-replace",
+      "nvim",
+      "plugin",
+      "refactor"
+    ]
+  },
+  "domain": "github.com",
+  "name": "find-replace.nvim",
+  "owner": "bbbkbc",
+  "url": "https://github.com/bbbkbc/find-replace.nvim"
+}

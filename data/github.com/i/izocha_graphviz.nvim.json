@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Graphviz"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-07-11T18:02:02Z",
+    "description": "Minmal neovim plugin for graphviz",
+    "isArchived": false,
+    "lastCommit": "2024-07-11T19:18:46Z",
+    "nameWithOwner": "izocha/graphviz.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "graphviz.nvim",
+  "owner": "izocha",
+  "url": "https://github.com/izocha/graphviz.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "TUI"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2024-07-07T01:51:52Z",
+    "description": "A Neovim plugin that provides integration between the editor and TUI apps",
+    "isArchived": false,
+    "lastCommit": "2024-07-14T03:04:03Z",
+    "nameWithOwner": "samsze0/tui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tui.nvim",
+  "owner": "samsze0",
+  "url": "https://github.com/samsze0/tui.nvim"
+}

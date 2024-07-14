@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2024-07-06T05:15:51Z",
+    "description": "A lua based status line for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-13T09:52:19Z",
+    "nameWithOwner": "abhilash26/zenline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "nvim-plugin",
+      "statusline",
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zenline.nvim",
+  "owner": "abhilash26",
+  "url": "https://github.com/abhilash26/zenline.nvim"
+}

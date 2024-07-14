@@ -9,6 +9,10 @@
         {
           "level": 2,
           "name": "Macro"
+        },
+        {
+          "level": 3,
+          "name": "Automatic macro"
         }
       ],
       "file": "macro.md",
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 65,
+    "star": 66,
     "topics": [
       "neovim",
       "neovim-plugin",

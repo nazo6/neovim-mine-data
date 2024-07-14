@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Code action"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2024-07-12T12:06:53Z",
+    "description": "Efficient plugin designed to optimize code actions in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-14T09:59:37Z",
+    "nameWithOwner": "Chaitanyabsprip/fastaction.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fastaction.nvim",
+  "owner": "Chaitanyabsprip",
+  "url": "https://github.com/Chaitanyabsprip/fastaction.nvim"
+}

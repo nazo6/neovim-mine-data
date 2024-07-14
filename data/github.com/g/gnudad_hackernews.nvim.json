@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "HackerNews"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-07-07T23:51:32Z",
+    "description": "Browse Hacker News in Neovim (WIP)",
+    "isArchived": false,
+    "lastCommit": "2024-07-08T16:39:08Z",
+    "nameWithOwner": "gnudad/hackernews.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hackernews.nvim",
+  "owner": "gnudad",
+  "url": "https://github.com/gnudad/hackernews.nvim"
+}
