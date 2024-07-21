@@ -48,7 +48,7 @@
   "data": {
     "commitCountLastYear": 22,
     "createdAt": "2024-02-07T13:51:33Z",
-    "description": "Populate diagnostics for all projects files, not just the opened ones.",
+    "description": "Populate diagnostics for _all_ projects files, not just opened ones.",
     "isArchived": false,
     "lastCommit": "2024-06-14T21:00:25Z",
     "nameWithOwner": "artemave/workspace-diagnostics.nvim",
@@ -56,7 +56,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 109,
+    "star": 112,
     "topics": [
       "lsp",
       "neovim",

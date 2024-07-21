@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-07-20T19:37:55Z",
+    "description": "💃 Dance with Intelligence in Your Code. Minuet AI integrates with nvim-cmp, offering AI based completion from popular LLMs including OpenAI, Gemini, Claude, and more.",
+    "isArchived": false,
+    "lastCommit": "2024-07-21T03:50:41Z",
+    "nameWithOwner": "milanglacier/minuet-ai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "minuet-ai.nvim",
+  "owner": "milanglacier",
+  "url": "https://github.com/milanglacier/minuet-ai.nvim"
+}

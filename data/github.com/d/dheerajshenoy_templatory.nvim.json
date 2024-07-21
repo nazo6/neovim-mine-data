@@ -18,7 +18,7 @@
   "data": {
     "commitCountLastYear": 16,
     "createdAt": "2024-05-23T18:42:15Z",
-    "description": "A neovim plugin for managing and using file templates",
+    "description": "A neovim plugin for creating and using file skeletons or templates.",
     "isArchived": false,
     "lastCommit": "2024-06-08T16:31:05Z",
     "nameWithOwner": "dheerajshenoy/templatory.nvim",
@@ -26,8 +26,12 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "template-engine"
     ]
   },
   "domain": "github.com",

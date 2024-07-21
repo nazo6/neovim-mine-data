@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "quit"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-07-15T18:14:11Z",
+    "description": "Close Neovim buffers, windows, or exit Vim with the same single keypress.",
+    "isArchived": false,
+    "lastCommit": "2024-07-17T17:34:26Z",
+    "nameWithOwner": "psjay/buffer-closer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffer-closer.nvim",
+  "owner": "psjay",
+  "url": "https://github.com/psjay/buffer-closer.nvim"
+}

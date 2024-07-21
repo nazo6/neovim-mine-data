@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Maven"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-07-16T19:38:47Z",
+    "description": "This Neovim plugin, Java Maven Test, integrates with telescope.nvim and nvim-treesitter to facilitate interactive fuzzy searching and execution of Java tests within a class.",
+    "isArchived": false,
+    "lastCommit": "2024-07-20T11:12:33Z",
+    "nameWithOwner": "jkeresman01/java-maven-test.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "java",
+      "linux",
+      "maven",
+      "mvn",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "test",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-maven-test.nvim",
+  "owner": "jkeresman01",
+  "url": "https://github.com/jkeresman01/java-maven-test.nvim"
+}

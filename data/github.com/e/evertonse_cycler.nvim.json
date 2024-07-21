@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Boolean"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-07-18T03:01:30Z",
+    "description": "Simplest change falso to true neovim plugin. Similar to crtl+a crtl+x in vim but with custom cycles you define.",
+    "isArchived": false,
+    "lastCommit": "2024-07-18T03:12:55Z",
+    "nameWithOwner": "evertonse/cycler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cycler.nvim",
+  "owner": "evertonse",
+  "url": "https://github.com/evertonse/cycler.nvim"
+}

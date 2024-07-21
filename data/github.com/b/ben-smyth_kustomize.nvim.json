@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-07-18T15:53:52Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-07-18T15:53:54Z",
+    "nameWithOwner": "ben-smyth/kustomize.nvim",
+    "primaryLanguage": null,
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kustomize.nvim",
+  "owner": "ben-smyth",
+  "url": "https://github.com/ben-smyth/kustomize.nvim"
+}

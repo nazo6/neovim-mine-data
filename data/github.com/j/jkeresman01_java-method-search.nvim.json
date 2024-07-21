@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "method"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-07-14T12:07:38Z",
+    "description": "This Neovim plugin integrates with telescope.nvim and nvim-treesitter to enable interactive fuzzy finding and navigation through Java methods within a file.",
+    "isArchived": false,
+    "lastCommit": "2024-07-20T11:15:36Z",
+    "nameWithOwner": "jkeresman01/java-method-search.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "java",
+      "linux",
+      "nvim",
+      "nvim-plugin",
+      "vim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-method-search.nvim",
+  "owner": "jkeresman01",
+  "url": "https://github.com/jkeresman01/java-method-search.nvim"
+}

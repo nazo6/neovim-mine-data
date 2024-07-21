@@ -2,25 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Util pack"
-        }
       ],
-      "file": "util-pack.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 57,
+    "commitCountLastYear": 63,
     "createdAt": "2024-01-02T05:22:17Z",
     "description": "some nvim tools",
-    "isArchived": false,
-    "lastCommit": "2024-07-08T15:42:59Z",
+    "isArchived": true,
+    "lastCommit": "2024-07-16T15:06:40Z",
     "nameWithOwner": "Kicamon/tool.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Svelte"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2024-07-15T00:03:35Z",
+    "description": "Easily create new Sveltekit routes with a single command.",
+    "isArchived": false,
+    "lastCommit": "2024-07-19T12:57:15Z",
+    "nameWithOwner": "jamesblckwell/nvimkit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvimkit.nvim",
+  "owner": "jamesblckwell",
+  "url": "https://github.com/jamesblckwell/nvimkit.nvim"
+}

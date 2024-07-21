@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-07-16T13:42:40Z",
+    "description": "Simple Code Runner for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-19T16:56:17Z",
+    "nameWithOwner": "HE7086/code-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-runner.nvim",
+  "owner": "HE7086",
+  "url": "https://github.com/HE7086/code-runner.nvim"
+}

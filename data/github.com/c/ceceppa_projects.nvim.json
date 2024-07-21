@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-07-19T09:12:56Z",
+    "description": "A simple plugin manager for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-19T12:41:19Z",
+    "nameWithOwner": "ceceppa/projects.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "projects.nvim",
+  "owner": "ceceppa",
+  "url": "https://github.com/ceceppa/projects.nvim"
+}

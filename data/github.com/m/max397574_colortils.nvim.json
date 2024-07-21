@@ -4,20 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Color"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -27,6 +13,20 @@
       ],
       "file": "neovim-lua-development.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Color"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -40,12 +40,12 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 364,
+    "star": 366,
     "topics": [
     ]
   },
   "domain": "github.com",
   "name": "colortils.nvim",
   "owner": "max397574",
-  "url": "https://github.com/nvim-colortils/colortils.nvim"
+  "url": "https://github.com/max397574/colortils.nvim"
 }

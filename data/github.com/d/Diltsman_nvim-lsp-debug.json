@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Log"
+        },
+        {
+          "level": 4,
+          "name": "Debug"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-07-16T02:58:43Z",
+    "description": "A test Neovim plugin to debug some LSP issues",
+    "isArchived": false,
+    "lastCommit": "2024-07-16T03:03:56Z",
+    "nameWithOwner": "Diltsman/nvim-lsp-debug",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsp-debug",
+  "owner": "Diltsman",
+  "url": "https://github.com/Diltsman/nvim-lsp-debug"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-07-14T02:39:29Z",
+    "description": "Neovim plugin for various kubernetes related  functions.",
+    "isArchived": false,
+    "lastCommit": "2024-07-17T04:27:59Z",
+    "nameWithOwner": "mimparat132/kube.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kube.nvim",
+  "owner": "mimparat132",
+  "url": "https://github.com/mimparat132/kube.nvim"
+}

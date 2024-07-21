@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown link"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-07-18T09:11:48Z",
+    "description": "LIttle helper for selecting files for markdown notes",
+    "isArchived": false,
+    "lastCommit": "2024-07-18T19:48:38Z",
+    "nameWithOwner": "Praczet/markdown-links.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-links.nvim",
+  "owner": "Praczet",
+  "url": "https://github.com/Praczet/markdown-links.nvim"
+}

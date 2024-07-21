@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-07-18T19:36:11Z",
+    "description": "Small plugin to help staging, unstaging, discarding, commiting and pushing file with git.",
+    "isArchived": false,
+    "lastCommit": "2024-07-21T02:29:11Z",
+    "nameWithOwner": "DannickBedard/githelper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "git",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "githelper.nvim",
+  "owner": "DannickBedard",
+  "url": "https://github.com/DannickBedard/githelper.nvim"
+}

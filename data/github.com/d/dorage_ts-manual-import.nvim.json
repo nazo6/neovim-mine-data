@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 32,
     "createdAt": "2024-07-11T05:52:19Z",
-    "description": null,
+    "description": "Automate adding import statement without LSP for Typescript/Javascript",
     "isArchived": false,
-    "lastCommit": "2024-07-14T10:11:29Z",
+    "lastCommit": "2024-07-14T14:05:36Z",
     "nameWithOwner": "dorage/ts-manual-import.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,11 @@
     },
     "star": 1,
     "topics": [
+      "javascript",
+      "neovim",
+      "nvim",
+      "snippet",
+      "typescript"
     ]
   },
   "domain": "github.com",

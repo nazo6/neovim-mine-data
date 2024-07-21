@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 3,
+          "name": "string"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-07-15T11:40:26Z",
+    "description": "automatically turn string into template string in javascript",
+    "isArchived": false,
+    "lastCommit": "2024-07-15T12:08:08Z",
+    "nameWithOwner": "HSMF/autotemplate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "autotemplate.nvim",
+  "owner": "HSMF",
+  "url": "https://github.com/HSMF/autotemplate.nvim"
+}

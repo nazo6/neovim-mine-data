@@ -8,20 +8,20 @@
         },
         {
           "level": 2,
-          "name": "Columnline"
+          "name": "Alarm"
         }
       ],
-      "file": "cursorline_columnline.md",
+      "file": "concentration.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2023-11-29T19:39:54Z",
-    "description": "A colour column setter for nvim.",
+    "commitCountLastYear": 2,
+    "createdAt": "2024-07-18T13:27:24Z",
+    "description": "An nvim plugin that reminds you to drink water",
     "isArchived": false,
-    "lastCommit": "2023-11-29T19:50:45Z",
-    "nameWithOwner": "MaggieLostKeys/nvim-ccutil",
+    "lastCommit": "2024-07-18T18:07:00Z",
+    "nameWithOwner": "steventhorne/nvim-waterme",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "nvim-ccutil",
-  "owner": "MaggieLostKeys",
-  "url": "https://github.com/MaggieLostKeys/nvim-ccutil"
+  "name": "nvim-waterme",
+  "owner": "steventhorne",
+  "url": "https://github.com/steventhorne/nvim-waterme"
 }

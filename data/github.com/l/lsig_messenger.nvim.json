@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2024-06-15T20:29:43Z",
+    "description": "Reveal the commit message under the cursor - Written in Lua",
+    "isArchived": false,
+    "lastCommit": "2024-07-18T09:07:08Z",
+    "nameWithOwner": "lsig/messenger.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "messenger.nvim",
+  "owner": "lsig",
+  "url": "https://github.com/lsig/messenger.nvim"
+}

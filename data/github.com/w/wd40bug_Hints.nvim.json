@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Mapping search"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-07-15T20:43:56Z",
+    "description": "Get hints for your Neovim keybindings",
+    "isArchived": false,
+    "lastCommit": "2024-07-16T01:04:31Z",
+    "nameWithOwner": "wd40bug/Hints.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Hints.nvim",
+  "owner": "wd40bug",
+  "url": "https://github.com/wd40bug/Hints.nvim"
+}

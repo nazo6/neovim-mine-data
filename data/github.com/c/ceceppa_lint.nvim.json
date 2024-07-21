@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Lint"
+        },
+        {
+          "level": 4,
+          "name": "eslint"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-07-17T12:44:38Z",
+    "description": "A simple eslint runner for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-19T11:04:10Z",
+    "nameWithOwner": "ceceppa/lint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lint.nvim",
+  "owner": "ceceppa",
+  "url": "https://github.com/ceceppa/lint.nvim"
+}
