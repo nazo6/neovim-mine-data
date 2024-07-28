@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "LLM"
+          "name": "Multi LLM"
         }
       ],
       "file": "ai.md",
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 29,
     "createdAt": "2024-05-13T04:45:45Z",
     "description": "No frills LLM-assisted programming",
     "isArchived": false,
-    "lastCommit": "2024-07-08T05:59:39Z",
+    "lastCommit": "2024-07-24T10:35:57Z",
     "nameWithOwner": "melbaldove/llm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 182,
+    "star": 195,
     "topics": [
     ]
   },

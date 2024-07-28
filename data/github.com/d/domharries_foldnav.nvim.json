@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2024-07-02T15:49:00Z",
+    "description": "Fast vertical navigation in Neovim using folds",
+    "isArchived": false,
+    "lastCommit": "2024-07-22T17:04:25Z",
+    "nameWithOwner": "domharries/foldnav.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "foldnav.nvim",
+  "owner": "domharries",
+  "url": "https://github.com/domharries/foldnav.nvim"
+}

@@ -4,28 +4,24 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Filer"
         },
         {
           "level": 2,
-          "name": "git commit"
-        },
-        {
-          "level": 3,
-          "name": "prefix"
+          "name": "FuzzyFinder Style"
         }
       ],
-      "file": "git-github.md",
+      "file": "filer.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 3,
-    "createdAt": "2024-06-26T21:37:53Z",
+    "createdAt": "2024-07-21T11:33:46Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-07-11T12:33:33Z",
-    "nameWithOwner": "StanlsSlav/conventional-commits.nvim",
+    "lastCommit": "2024-07-21T11:42:43Z",
+    "nameWithOwner": "youguanxinqing/find-file.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "conventional-commits.nvim",
-  "owner": "StanlsSlav",
-  "url": "https://github.com/StanlsSlav/conventional-commits.nvim"
+  "name": "find-file.nvim",
+  "owner": "youguanxinqing",
+  "url": "https://github.com/youguanxinqing/find-file.nvim"
 }

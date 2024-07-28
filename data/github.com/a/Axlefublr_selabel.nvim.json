@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-07-24T02:04:22Z",
+    "description": "Neovim plugin that replaces vim.ui.select with a vscode-like floating window next to the cursor",
+    "isArchived": false,
+    "lastCommit": "2024-07-26T10:00:43Z",
+    "nameWithOwner": "Axlefublr/selabel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "selabel.nvim",
+  "owner": "Axlefublr",
+  "url": "https://github.com/Axlefublr/selabel.nvim"
+}

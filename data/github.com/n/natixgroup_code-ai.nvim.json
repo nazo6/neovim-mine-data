@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 75,
+    "createdAt": "2024-07-22T17:52:59Z",
+    "description": "A Neovim plugin powered by Google Gemini and ChatGPT",
+    "isArchived": false,
+    "lastCommit": "2024-07-25T19:26:54Z",
+    "nameWithOwner": "natixgroup/code-ai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "copilot-chat",
+      "gemini-api",
+      "neovim-plugin",
+      "openai-api"
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-ai.nvim",
+  "owner": "natixgroup",
+  "url": "https://github.com/natixgroup/code-ai.nvim"
+}

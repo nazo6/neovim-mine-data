@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-07-21T15:00:40Z",
+    "description": "Neovim plugin for browsing webpages like normal files",
+    "isArchived": false,
+    "lastCommit": "2024-07-22T20:12:25Z",
+    "nameWithOwner": "ridulfo/browse.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "browse.nvim",
+  "owner": "ridulfo",
+  "url": "https://github.com/ridulfo/browse.nvim"
+}

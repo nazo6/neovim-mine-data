@@ -13,20 +13,34 @@
       ],
       "file": "test.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Test"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 91,
+    "commitCountLastYear": 103,
     "createdAt": "2024-06-16T15:42:48Z",
-    "description": "Quicktest helps you run your code tests efficiently with live feedback",
+    "description": "Run your tests in split window or popup with live feedback",
     "isArchived": false,
-    "lastCommit": "2024-07-19T19:12:58Z",
+    "lastCommit": "2024-07-28T07:38:18Z",
     "nameWithOwner": "quolpr/quicktest.nvim",
     "primaryLanguage": {
       "color": "#f34b7d",
       "name": "C++"
     },
-    "star": 38,
+    "star": 45,
     "topics": [
       "go",
       "golang",

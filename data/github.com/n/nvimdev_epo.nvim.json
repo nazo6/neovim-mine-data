@@ -2,24 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Auto Completion"
-        },
-        {
-          "level": 3,
-          "name": "Auto Completion Plugin"
-        },
-        {
-          "level": 4,
-          "name": "Made in Lua"
-        }
       ],
-      "file": "completion.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -41,14 +25,14 @@
     "commitCountLastYear": 104,
     "createdAt": "2023-10-17T00:27:47Z",
     "description": "A blazing fast and minimal neovim autocompletion",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-06-05T06:42:28Z",
     "nameWithOwner": "nvimdev/epo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 133,
+    "star": 131,
     "topics": [
     ]
   },

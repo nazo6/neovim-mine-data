@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Jujutsu(jj)"
+        },
+        {
+          "level": 2,
+          "name": "diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2024-07-19T07:29:03Z",
+    "description": "A tool for splitting diffs in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-27T13:16:13Z",
+    "nameWithOwner": "julienvincent/hunk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 53,
+    "topics": [
+      "diff",
+      "git",
+      "jujutsu",
+      "neovim",
+      "nvim",
+      "vcs"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hunk.nvim",
+  "owner": "julienvincent",
+  "url": "https://github.com/julienvincent/hunk.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "OCaml"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-07-26T02:34:02Z",
+    "description": "neovim plugin for mlx",
+    "isArchived": false,
+    "lastCommit": "2024-07-27T14:12:54Z",
+    "nameWithOwner": "ocaml-mlx/ocaml_mlx.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ocaml_mlx.nvim",
+  "owner": "ocaml-mlx",
+  "url": "https://github.com/ocaml-mlx/ocaml_mlx.nvim"
+}

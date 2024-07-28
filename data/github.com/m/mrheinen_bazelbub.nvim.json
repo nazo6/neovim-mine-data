@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Bazel"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-07-24T17:51:36Z",
+    "description": "A simple neovim plugin to run bazel test and bazel build",
+    "isArchived": false,
+    "lastCommit": "2024-07-24T18:14:11Z",
+    "nameWithOwner": "mrheinen/bazelbub.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "bazel",
+      "development",
+      "ide",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bazelbub.nvim",
+  "owner": "mrheinen",
+  "url": "https://github.com/mrheinen/bazelbub.nvim"
+}

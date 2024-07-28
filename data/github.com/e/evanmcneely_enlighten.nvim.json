@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 83,
+    "createdAt": "2024-07-21T17:26:06Z",
+    "description": "Turn Neovim into an AI code editor",
+    "isArchived": false,
+    "lastCommit": "2024-07-27T00:02:01Z",
+    "nameWithOwner": "evanmcneely/enlighten.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "enlighten.nvim",
+  "owner": "evanmcneely",
+  "url": "https://github.com/evanmcneely/enlighten.nvim"
+}

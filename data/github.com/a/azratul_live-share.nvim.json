@@ -20,22 +20,27 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 6,
     "createdAt": "2024-07-18T01:08:44Z",
     "description": "Creates a \"Live Share\" server in Neovim, similar to the Visual Studio Code Live Share functionality ",
     "isArchived": false,
-    "lastCommit": "2024-07-20T20:58:44Z",
+    "lastCommit": "2024-07-24T16:06:53Z",
     "nameWithOwner": "azratul/live-share.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 15,
+    "star": 17,
     "topics": [
       "live-coding",
       "live-share",
       "neovim",
-      "pair-programming"
+      "pair-programming",
+      "code-sharing",
+      "collaboration",
+      "developer-tools",
+      "plugin",
+      "nvim"
     ]
   },
   "domain": "github.com",
