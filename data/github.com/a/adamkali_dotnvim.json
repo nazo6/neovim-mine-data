@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "C#"
+        },
+        {
+          "level": 4,
+          "name": ".NET"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2024-07-23T16:41:05Z",
+    "description": "A plugin for dotnet development because i really dislike the tooling in neovim for dotnet",
+    "isArchived": false,
+    "lastCommit": "2024-08-02T01:07:55Z",
+    "nameWithOwner": "adamkali/dotnvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "dotnet",
+      "dotnet-framework",
+      "neovim-plugin",
+      "web-development"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotnvim",
+  "owner": "adamkali",
+  "url": "https://github.com/adamkali/dotnvim"
+}

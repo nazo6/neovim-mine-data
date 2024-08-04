@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Other Buffer Switcher"
+          "name": "Buffer Selector"
         }
       ],
       "file": "buffer_window_tab-management.md",
@@ -20,26 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2021-04-05T18:07:42Z",
-    "description": "Jump easily between related files.",
+    "commitCountLastYear": 34,
+    "createdAt": "2024-07-27T22:04:17Z",
+    "description": "Efficient targetted menu built for fast buffer navigation",
     "isArchived": false,
-    "lastCommit": "2021-04-25T16:39:56Z",
-    "nameWithOwner": "micmine/jumpwire.nvim",
+    "lastCommit": "2024-07-30T23:29:35Z",
+    "nameWithOwner": "leath-dub/snipe.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19,
+    "star": 108,
     "topics": [
-      "lua",
-      "neovim",
-      "nvim-lua",
-      "nvim-plugin"
+      "neovim-lua-plugin",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "jumpwire.nvim",
-  "owner": "micmine",
-  "url": "https://github.com/micmine/jumpwire.nvim"
+  "name": "snipe.nvim",
+  "owner": "leath-dub",
+  "url": "https://github.com/leath-dub/snipe.nvim"
 }

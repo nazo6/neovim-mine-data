@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Nix"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-07-27T09:34:54Z",
+    "description": "Auto populate rev attributes for fetchFromGitHub",
+    "isArchived": false,
+    "lastCommit": "2024-07-28T06:31:03Z",
+    "nameWithOwner": "redxtech/nix-reaver.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nix-reaver.nvim",
+  "owner": "redxtech",
+  "url": "https://github.com/redxtech/nix-reaver.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "HTML"
+        },
+        {
+          "level": 3,
+          "name": "live server"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2024-07-29T12:23:13Z",
+    "description": "A simple luv-based development server with live reloading for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-08-01T16:35:30Z",
+    "nameWithOwner": "hat0uma/prelive.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "live-server",
+      "live-reload"
+    ]
+  },
+  "domain": "github.com",
+  "name": "prelive.nvim",
+  "owner": "hat0uma",
+  "url": "https://github.com/hat0uma/prelive.nvim"
+}

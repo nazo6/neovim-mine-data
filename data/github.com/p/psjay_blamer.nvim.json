@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-07-17T16:05:55Z",
+    "description": "Neovim plugin for displaying Git blame information in vim-fugitive style with some enhancements.",
+    "isArchived": false,
+    "lastCommit": "2024-07-27T11:22:46Z",
+    "nameWithOwner": "psjay/blamer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blamer.nvim",
+  "owner": "psjay",
+  "url": "https://github.com/psjay/blamer.nvim"
+}

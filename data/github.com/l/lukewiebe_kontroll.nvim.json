@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
+          "name": "LED"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-07-26T15:24:22Z",
+    "description": "Switch ZSA keyboard colors when Neovim switches modes",
+    "isArchived": false,
+    "lastCommit": "2024-07-29T00:03:32Z",
+    "nameWithOwner": "lukewiebe/kontroll.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kontroll.nvim",
+  "owner": "lukewiebe",
+  "url": "https://github.com/lukewiebe/kontroll.nvim"
+}

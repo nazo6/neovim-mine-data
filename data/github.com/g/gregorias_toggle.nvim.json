@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Set Option"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 58,
+    "createdAt": "2023-12-27T10:15:06Z",
+    "description": "A Neovim plugin for toggling options.",
+    "isArchived": false,
+    "lastCommit": "2024-07-28T07:56:38Z",
+    "nameWithOwner": "gregorias/toggle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggle.nvim",
+  "owner": "gregorias",
+  "url": "https://github.com/gregorias/toggle.nvim"
+}

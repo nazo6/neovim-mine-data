@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 60,
+    "createdAt": "2024-07-30T15:44:30Z",
+    "description": "A Lua plugin for Neovim that helps manage breakpoints, create advanced breakpoints using vim.ui.input, and display breakpoint properties as virtual text with nvim-dap.",
+    "isArchived": false,
+    "lastCommit": "2024-08-01T11:16:56Z",
+    "nameWithOwner": "Carcuis/dap-breakpoints.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dap-breakpoints.nvim",
+  "owner": "Carcuis",
+  "url": "https://github.com/Carcuis/dap-breakpoints.nvim"
+}

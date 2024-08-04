@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Unreal"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-07-10T05:27:59Z",
+    "description": "Unreal project support for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-29T21:55:19Z",
+    "nameWithOwner": "zaucy/uproject.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "unreal-engine"
+    ]
+  },
+  "domain": "github.com",
+  "name": "uproject.nvim",
+  "owner": "zaucy",
+  "url": "https://github.com/zaucy/uproject.nvim"
+}

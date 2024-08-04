@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Current word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-07-30T04:06:10Z",
+    "description": "💎 Blink-Bang-Word-Light is a Neovim plugin that highlights the word under the cursor throughout the buffer. ",
+    "isArchived": false,
+    "lastCommit": "2024-07-30T11:28:07Z",
+    "nameWithOwner": "mei28/blink-bang-word-light.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-bang-word-light.nvim",
+  "owner": "mei28",
+  "url": "https://github.com/mei28/blink-bang-word-light.nvim"
+}

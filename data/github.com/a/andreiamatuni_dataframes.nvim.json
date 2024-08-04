@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "pydoc"
+        },
+        {
+          "level": 4,
+          "name": "Pandas"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-07-28T17:02:55Z",
+    "description": "Render Pandas DataFrames as tables while debugging in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-07-31T22:41:02Z",
+    "nameWithOwner": "andreiamatuni/dataframes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "pandas",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dataframes.nvim",
+  "owner": "andreiamatuni",
+  "url": "https://github.com/andreiamatuni/dataframes.nvim"
+}

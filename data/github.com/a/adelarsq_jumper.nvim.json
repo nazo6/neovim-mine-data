@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "jumplist"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-07-31T13:32:25Z",
+    "description": "A simple Neovim plugin to jump between files",
+    "isArchived": false,
+    "lastCommit": "2024-08-03T21:16:41Z",
+    "nameWithOwner": "adelarsq/jumper.nvim",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 1,
+    "topics": [
+      "fennel",
+      "file-navigation",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jumper.nvim",
+  "owner": "adelarsq",
+  "url": "https://github.com/adelarsq/jumper.nvim"
+}

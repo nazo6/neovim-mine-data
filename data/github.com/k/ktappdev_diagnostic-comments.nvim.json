@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        },
+        {
+          "level": 3,
+          "name": "Diagnostic Comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-07-28T12:19:46Z",
+    "description": "A lightweight Neovim plugin that easy to share your code to llm for fixes, the errors are displayed as comments above the actual error",
+    "isArchived": false,
+    "lastCommit": "2024-07-31T03:13:00Z",
+    "nameWithOwner": "ktappdev/diagnostic-comments.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagnostic-comments.nvim",
+  "owner": "ktappdev",
+  "url": "https://github.com/ktappdev/diagnostic-comments.nvim"
+}

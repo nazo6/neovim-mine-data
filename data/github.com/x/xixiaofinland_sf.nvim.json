@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Salesforce"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 630,
+    "createdAt": "2024-01-03T18:32:44Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-07-28T18:47:42Z",
+    "nameWithOwner": "xixiaofinland/sf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sf.nvim",
+  "owner": "xixiaofinland",
+  "url": "https://github.com/xixiaofinland/sf.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project Template"
+        },
+        {
+          "level": 4,
+          "name": "Project Local Config"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-07-31T09:44:58Z",
+    "description": "The missing plugin for running project specific configuration in neovim!",
+    "isArchived": false,
+    "lastCommit": "2024-08-02T08:52:21Z",
+    "nameWithOwner": "brymer-meneses/project-config.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "project-config.nvim",
+  "owner": "brymer-meneses",
+  "url": "https://github.com/brymer-meneses/project-config.nvim"
+}

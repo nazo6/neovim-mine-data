@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Directory"
+        },
+        {
+          "level": 3,
+          "name": "CWD"
+        }
+      ],
+      "file": "directory.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2024-07-27T23:22:54Z",
+    "description": "Sync neovim cwd with shell cwd",
+    "isArchived": false,
+    "lastCommit": "2024-07-29T14:48:48Z",
+    "nameWithOwner": "lukasx999/syncwd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "syncwd.nvim",
+  "owner": "lukasx999",
+  "url": "https://github.com/lukasx999/syncwd.nvim"
+}

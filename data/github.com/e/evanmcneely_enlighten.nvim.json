@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 83,
+    "commitCountLastYear": 95,
     "createdAt": "2024-07-21T17:26:06Z",
     "description": "Turn Neovim into an AI code editor",
     "isArchived": false,
-    "lastCommit": "2024-07-27T00:02:01Z",
+    "lastCommit": "2024-08-03T16:27:19Z",
     "nameWithOwner": "evanmcneely/enlighten.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,13 @@
     },
     "star": 1,
     "topics": [
+      "ai",
+      "ai-chat",
+      "ai-code-generation",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "openai"
     ]
   },
   "domain": "github.com",

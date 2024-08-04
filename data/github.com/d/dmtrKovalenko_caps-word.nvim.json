@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Improve Mappings"
+        },
+        {
+          "level": 3,
+          "name": "CapsLock"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-07-29T17:10:54Z",
+    "description": "Much better way to type SCREAMING_SNAKE_CASE words aka constants ",
+    "isArchived": false,
+    "lastCommit": "2024-07-31T17:38:38Z",
+    "nameWithOwner": "dmtrKovalenko/caps-word.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "caps-word.nvim",
+  "owner": "dmtrKovalenko",
+  "url": "https://github.com/dmtrKovalenko/caps-word.nvim"
+}

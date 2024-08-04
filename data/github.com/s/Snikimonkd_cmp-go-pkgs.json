@@ -8,40 +8,40 @@
         },
         {
           "level": 2,
-          "name": "Plugin Manager"
+          "name": "Go"
         },
         {
           "level": 3,
-          "name": "Add runtime path (vim-plug like)"
+          "name": "packages"
         }
       ],
-      "file": "plugin-manager.md",
+      "file": "go.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
-    "createdAt": "2024-06-27T11:28:04Z",
-    "description": "Utilities for lazy.nvim plugin manager",
+    "commitCountLastYear": 7,
+    "createdAt": "2024-01-07T14:35:18Z",
+    "description": "nvim-cmp source for golang packages path.",
     "isArchived": false,
-    "lastCommit": "2024-06-27T15:28:33Z",
-    "nameWithOwner": "Std-Enigma/lazy-helper.nvim",
+    "lastCommit": "2024-06-26T20:46:50Z",
+    "nameWithOwner": "Snikimonkd/cmp-go-pkgs",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 7,
     "topics": [
+      "lua",
       "neovim",
       "neovim-plugin",
       "nvim",
       "nvim-plugin",
-      "package-manager",
-      "plugin-manager"
+      "nvim-cmp"
     ]
   },
   "domain": "github.com",
-  "name": "lazy-helper.nvim",
-  "owner": "Std-Enigma",
-  "url": "https://github.com/Std-Enigma/lazy-helper.nvim"
+  "name": "cmp-go-pkgs",
+  "owner": "Snikimonkd",
+  "url": "https://github.com/Snikimonkd/cmp-go-pkgs"
 }

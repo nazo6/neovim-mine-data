@@ -17,20 +17,34 @@
       ],
       "file": "neovim-lua-library.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Lua Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 142,
+    "commitCountLastYear": 148,
     "createdAt": "2024-02-03T20:36:39Z",
-    "description": "Turning neovim into a hypermedia client",
+    "description": "An html renderer for neovim plugin UIs",
     "isArchived": false,
-    "lastCommit": "2024-07-27T02:07:51Z",
+    "lastCommit": "2024-08-02T18:54:26Z",
     "nameWithOwner": "CWood-sdf/banana.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 79,
+    "star": 85,
     "topics": [
       "neovim-plugin"
     ]

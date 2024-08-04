@@ -2,43 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Mark"
-        },
-        {
-          "level": 3,
-          "name": "etc"
-        }
       ],
-      "file": "mark.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Marks"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 77,
+    "commitCountLastYear": 81,
     "createdAt": "2024-03-16T20:24:13Z",
     "description": "Harpoon info for any statusline",
-    "isArchived": false,
-    "lastCommit": "2024-04-30T08:45:59Z",
+    "isArchived": true,
+    "lastCommit": "2024-07-28T17:08:04Z",
     "nameWithOwner": "abeldekat/harpoonline",
     "primaryLanguage": {
       "color": "#000080",

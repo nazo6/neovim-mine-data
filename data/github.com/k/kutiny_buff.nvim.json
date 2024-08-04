@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-07-28T15:40:13Z",
+    "description": "You want to view all opened buffers? Here's how you can achieve that!",
+    "isArchived": false,
+    "lastCommit": "2024-07-29T00:52:10Z",
+    "nameWithOwner": "kutiny/buff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buff.nvim",
+  "owner": "kutiny",
+  "url": "https://github.com/kutiny/buff.nvim"
+}

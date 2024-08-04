@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Query"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-07-28T22:30:35Z",
+    "description": "Dynamic notes with dynomark queries for markdown, similar to obsidian's dataview",
+    "isArchived": false,
+    "lastCommit": "2024-08-04T00:19:32Z",
+    "nameWithOwner": "k-lar/dynomark.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "markdown",
+      "neovim-plugin",
+      "query-language"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dynomark.nvim",
+  "owner": "k-lar",
+  "url": "https://github.com/k-lar/dynomark.nvim"
+}
