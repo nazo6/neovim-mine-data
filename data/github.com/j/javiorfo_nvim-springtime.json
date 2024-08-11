@@ -8,7 +8,11 @@
         },
         {
           "level": 2,
-          "name": "Util wrapper"
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Popup"
         }
       ],
       "file": "neovim-lua-library.md",
@@ -22,11 +26,7 @@
         },
         {
           "level": 2,
-          "name": "UI"
-        },
-        {
-          "level": 3,
-          "name": "Popup"
+          "name": "Util wrapper"
         }
       ],
       "file": "neovim-lua-library.md",
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 27,
+    "star": 28,
     "topics": [
       "neovim",
       "neovim-plugin",
@@ -61,5 +61,5 @@
   "domain": "github.com",
   "name": "nvim-springtime",
   "owner": "javiorfo",
-  "url": "https://github.com/javio7/nvim-osfa"
+  "url": "https://github.com/javio7/nvim-popcorn"
 }

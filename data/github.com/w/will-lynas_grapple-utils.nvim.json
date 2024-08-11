@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-08-03T00:20:39Z",
+    "description": "A collection of utility functions for grapple.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-08-06T11:26:57Z",
+    "nameWithOwner": "will-lynas/grapple-utils.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "grapple-utils.nvim",
+  "owner": "will-lynas",
+  "url": "https://github.com/will-lynas/grapple-utils.nvim"
+}

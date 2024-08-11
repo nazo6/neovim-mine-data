@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Treesitter"
+        },
+        {
+          "level": 3,
+          "name": "Installer"
+        }
+      ],
+      "file": "treesitter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1218,
+    "createdAt": "2024-08-09T11:16:18Z",
+    "description": "Treesitter parser manager for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-08-10T11:57:34Z",
+    "nameWithOwner": "lewis6991/ts-install.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ts-install.nvim",
+  "owner": "lewis6991",
+  "url": "https://github.com/lewis6991/ts-install.nvim"
+}

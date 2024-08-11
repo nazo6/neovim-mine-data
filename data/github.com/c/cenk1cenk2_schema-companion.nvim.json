@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 56,
+    "createdAt": "2024-08-07T19:32:46Z",
+    "description": "yaml-companion.nvim reloaded with custom matchers, Kubernetes and Kubernetes CRD definitions.",
+    "isArchived": false,
+    "lastCommit": "2024-08-08T12:25:26Z",
+    "nameWithOwner": "cenk1cenk2/schema-companion.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "nvim-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "schema-companion.nvim",
+  "owner": "cenk1cenk2",
+  "url": "https://github.com/cenk1cenk2/yaml-companion.nvim"
+}

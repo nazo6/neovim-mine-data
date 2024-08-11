@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 102,
+    "commitCountLastYear": 104,
     "createdAt": "2024-02-21T00:00:03Z",
-    "description": "🎨 Illustrate is a lua plugin for neovim that lets you quickly create, search and open vector files in Inkscape or Adobe Illustrator from within neovim.",
+    "description": "🎨 Illustrate is a lua plugin for neovim that lets you quickly create, search and open vector files (in software such Inkscape, Adobe Illustrator, or Affinity Designer 2) from within neovim.",
     "isArchived": false,
-    "lastCommit": "2024-04-05T22:37:53Z",
+    "lastCommit": "2024-08-06T17:30:30Z",
     "nameWithOwner": "rpapallas/illustrate.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 11,
+    "star": 12,
     "topics": [
       "adobe-illustrator",
       "inkscape",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Timer"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2024-07-31T20:17:30Z",
+    "description": "pendulum is a simple timer plugin for Neovim designed to assist competitive programmers or coders in general who wants to practice coding for interviews.",
+    "isArchived": false,
+    "lastCommit": "2024-08-10T21:27:02Z",
+    "nameWithOwner": "SunnyTamang/pendulum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "neovim-plugin-lua",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pendulum.nvim",
+  "owner": "SunnyTamang",
+  "url": "https://github.com/SunnyTamang/pendulum.nvim"
+}

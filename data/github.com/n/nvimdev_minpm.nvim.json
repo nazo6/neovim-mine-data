@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-08-04T06:40:26Z",
+    "description": "minimal neovim plugin management",
+    "isArchived": false,
+    "lastCommit": "2024-08-11T06:03:22Z",
+    "nameWithOwner": "nvimdev/minpm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "minpm.nvim",
+  "owner": "nvimdev",
+  "url": "https://github.com/nvimdev/minpm.nvim"
+}

@@ -20,21 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 48,
     "createdAt": "2023-08-12T14:36:11Z",
-    "description": "Quickly mark and switch between files in neovim",
+    "description": "Quickly mark and switch between files",
     "isArchived": false,
-    "lastCommit": "2023-12-23T18:40:20Z",
+    "lastCommit": "2024-08-09T12:05:38Z",
     "nameWithOwner": "jmattaa/quickmark.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 12,
     "topics": [
       "lua",
       "neovim",
-      "nvim"
+      "nvim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

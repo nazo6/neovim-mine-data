@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "j/k"
+        },
+        {
+          "level": 4,
+          "name": "Scrolling"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-08-05T03:56:15Z",
+    "description": "Neovim plugin to dynamically adjust the scrolloff setting",
+    "isArchived": false,
+    "lastCommit": "2024-08-07T20:35:28Z",
+    "nameWithOwner": "tonymajestro/smart-scrolloff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-scrolloff.nvim",
+  "owner": "tonymajestro",
+  "url": "https://github.com/tonymajestro/smart-scrolloff.nvim"
+}

@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "LSP"
+          "name": "Music"
         },
         {
           "level": 3,
-          "name": "LSP Feature Extension UI"
+          "name": "Apple music"
         }
       ],
-      "file": "lsp.md",
+      "file": "music.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2021-02-14T05:19:57Z",
-    "description": "The neovim language-server-client UI",
+    "commitCountLastYear": 51,
+    "createdAt": "2024-08-04T08:53:00Z",
+    "description": "Controls and a status updates for media players on MacOS.",
     "isArchived": false,
-    "lastCommit": "2022-12-06T20:57:02Z",
-    "nameWithOwner": "kkharji/lspsaga.nvim",
+    "lastCommit": "2024-08-05T17:24:56Z",
+    "nameWithOwner": "Vilos92/media-controls.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 411,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "lspsaga.nvim",
-  "owner": "kkharji",
-  "url": "https://github.com/kkharji/lspsaga.nvim"
+  "name": "media-controls.nvim",
+  "owner": "Vilos92",
+  "url": "https://github.com/Vilos92/media-controls.nvim"
 }

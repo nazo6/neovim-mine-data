@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 149,
+    "createdAt": "2024-05-30T18:37:17Z",
+    "description": "care.nvim - Completion And Recommendation Engine for Neovim - WIP",
+    "isArchived": false,
+    "lastCommit": "2024-08-10T15:03:53Z",
+    "nameWithOwner": "max397574/care.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "care.nvim",
+  "owner": "max397574",
+  "url": "https://github.com/max397574/care.nvim"
+}

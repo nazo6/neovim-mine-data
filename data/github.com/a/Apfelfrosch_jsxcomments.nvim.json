@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 3,
+          "name": "Jsx"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-08-04T20:02:01Z",
+    "description": "Comment out jsx / tsx lines",
+    "isArchived": false,
+    "lastCommit": "2024-08-04T20:48:08Z",
+    "nameWithOwner": "Apfelfrosch/jsxcomments.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jsxcomments.nvim",
+  "owner": "Apfelfrosch",
+  "url": "https://github.com/Apfelfrosch/jsxcomments.nvim"
+}

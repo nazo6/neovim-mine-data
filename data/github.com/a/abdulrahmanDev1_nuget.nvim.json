@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotnet"
+        },
+        {
+          "level": 5,
+          "name": "Nuget"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-08-07T21:16:43Z",
+    "description": "NuGet Gallery for neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-08-08T15:09:58Z",
+    "nameWithOwner": "abdulrahmanDev1/nuget.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "dotnet",
+      "nuget",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nuget.nvim",
+  "owner": "abdulrahmanDev1",
+  "url": "https://github.com/abdulrahmanDev1/nuget.nvim"
+}

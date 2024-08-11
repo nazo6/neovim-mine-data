@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Terminal"
-        },
-        {
-          "level": 3,
-          "name": "Terminal Enhancement"
-        }
       ],
-      "file": "terminal.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 5,
     "createdAt": "2023-11-13T11:44:12Z",
     "description": null,
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-02-06T09:50:33Z",
     "nameWithOwner": "Kibadda/terminal.nvim",
     "primaryLanguage": {

@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "AI Coding"
-        },
-        {
-          "level": 3,
-          "name": "Codegeex"
-        }
       ],
-      "file": "ai.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 9,
     "createdAt": "2024-05-31T08:42:44Z",
     "description": "Neovim plugin for CodegeeX v3",
-    "isArchived": false,
-    "lastCommit": "2024-06-11T22:52:12Z",
+    "isArchived": true,
+    "lastCommit": "2024-08-08T23:35:21Z",
     "nameWithOwner": "sunn4room/codegeex.nvim",
     "primaryLanguage": {
       "color": "#000080",
