@@ -1,0 +1,59 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Keybinding"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2024-08-06T20:41:10Z",
+    "description": "Overloaded ; and , keys in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-08-16T09:40:44Z",
+    "nameWithOwner": "mawkler/demicolon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "demicolon.nvim",
+  "owner": "mawkler",
+  "url": "https://github.com/mawkler/demicolon.nvim"
+}

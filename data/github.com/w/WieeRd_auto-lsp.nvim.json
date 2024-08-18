@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pre-configuration"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2024-08-16T16:03:43Z",
+    "description": "Automatically detect and setup language servers that are available on your system.",
+    "isArchived": false,
+    "lastCommit": "2024-08-17T15:18:58Z",
+    "nameWithOwner": "WieeRd/auto-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "language-server",
+      "lsp",
+      "lspconfig",
+      "lua",
+      "neovim",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-lsp.nvim",
+  "owner": "WieeRd",
+  "url": "https://github.com/WieeRd/auto-lsp.nvim"
+}

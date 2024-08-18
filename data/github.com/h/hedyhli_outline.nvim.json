@@ -4,20 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "Code outline"
-        }
-      ],
-      "file": "code-outline.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -31,20 +17,34 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Code outline"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 398,
+    "commitCountLastYear": 404,
     "createdAt": "2023-10-31T12:14:07Z",
     "description": "Code outline sidebar powered by LSP. Significantly enhanced & refactored fork of symbols-outline.nvim. ",
     "isArchived": false,
-    "lastCommit": "2024-07-05T12:55:03Z",
+    "lastCommit": "2024-08-13T04:48:16Z",
     "nameWithOwner": "hedyhli/outline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 525,
+    "star": 537,
     "topics": [
       "lsp",
       "lua",
@@ -56,5 +56,5 @@
   "domain": "github.com",
   "name": "outline.nvim",
   "owner": "hedyhli",
-  "url": "https://github.com/hedyhli/symbols-outline.nvim"
+  "url": "https://github.com/hedyhli/outline.nvim"
 }

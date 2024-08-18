@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        },
+        {
+          "level": 3,
+          "name": "co authored"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-08-11T12:57:24Z",
+    "description": "telescope-co-author.nvim is a plugin for telescope.nvim that provides a picker for selecting co-authors for your git commits.",
+    "isArchived": false,
+    "lastCommit": "2024-08-11T16:51:41Z",
+    "nameWithOwner": "Penpen7/telescope-co-author.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-co-author.nvim",
+  "owner": "Penpen7",
+  "url": "https://github.com/Penpen7/telescope-co-author.nvim"
+}

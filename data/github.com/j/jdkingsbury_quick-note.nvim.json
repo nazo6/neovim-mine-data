@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-08-15T02:02:46Z",
+    "description": "Create Quick Notes",
+    "isArchived": false,
+    "lastCommit": "2024-08-18T05:17:11Z",
+    "nameWithOwner": "jdkingsbury/quick-note.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "quick-note.nvim",
+  "owner": "jdkingsbury",
+  "url": "https://github.com/jdkingsbury/quick-note.nvim"
+}

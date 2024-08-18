@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Linear.app"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-08-13T16:52:45Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-08-14T16:59:20Z",
+    "nameWithOwner": "mvaldes14/linear.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "linear.nvim",
+  "owner": "mvaldes14",
+  "url": "https://github.com/mvaldes14/linear.nvim"
+}

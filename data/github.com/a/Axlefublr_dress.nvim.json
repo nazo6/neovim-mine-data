@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-08-13T13:13:55Z",
+    "description": "Like `dressing.nvim`, but only `vim.ui.input` (with some improvements)",
+    "isArchived": false,
+    "lastCommit": "2024-08-14T08:00:05Z",
+    "nameWithOwner": "Axlefublr/dress.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dress.nvim",
+  "owner": "Axlefublr",
+  "url": "https://github.com/Axlefublr/dress.nvim"
+}

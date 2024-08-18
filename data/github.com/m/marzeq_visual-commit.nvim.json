@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-08-14T14:24:28Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-08-15T10:20:34Z",
+    "nameWithOwner": "marzeq/visual-commit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "visual-commit.nvim",
+  "owner": "marzeq",
+  "url": "https://github.com/marzeq/visual-commit.nvim"
+}

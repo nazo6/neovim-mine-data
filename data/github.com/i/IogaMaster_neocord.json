@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Web"
+        },
+        {
+          "level": 4,
+          "name": "Discord"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 74,
+    "createdAt": "2023-09-29T22:30:47Z",
+    "description": "Discord Rich Presence for Neovim (Fork of presence.nvim)",
+    "isArchived": false,
+    "lastCommit": "2024-04-24T01:49:39Z",
+    "nameWithOwner": "IogaMaster/neocord",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 71,
+    "topics": [
+      "discord",
+      "flake",
+      "lua",
+      "neovim",
+      "nix",
+      "rich-presence",
+      "discord-rpc",
+      "hacktoberfest",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neocord",
+  "owner": "IogaMaster",
+  "url": "https://github.com/IogaMaster/neocord"
+}

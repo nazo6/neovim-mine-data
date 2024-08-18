@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-08-16T20:03:46Z",
+    "description": "Build, run, and test your projects with 2 keystrokes",
+    "isArchived": false,
+    "lastCommit": "2024-08-18T04:33:12Z",
+    "nameWithOwner": "badumbatish/brt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "brt.nvim",
+  "owner": "badumbatish",
+  "url": "https://github.com/badumbatish/brt.nvim"
+}

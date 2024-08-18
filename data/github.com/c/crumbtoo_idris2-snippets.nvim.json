@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Idris2"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-08-09T06:06:20Z",
+    "description": "A collection of luasnip snippets for Idris 2.",
+    "isArchived": false,
+    "lastCommit": "2024-08-09T06:27:34Z",
+    "nameWithOwner": "crumbtoo/idris2-snippets.nvim",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "idris2-snippets.nvim",
+  "owner": "crumbtoo",
+  "url": "https://github.com/crumbtoo/idris2-snippets.nvim"
+}

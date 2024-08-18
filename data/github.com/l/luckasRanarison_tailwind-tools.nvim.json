@@ -38,23 +38,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 51,
+    "commitCountLastYear": 69,
     "createdAt": "2024-03-17T17:43:07Z",
-    "description": "An UNOFFICIAL Tailwind CSS integration and tooling for Neovim",
+    "description": "An unofficial Tailwind CSS integration and tooling for Neovim",
     "isArchived": false,
-    "lastCommit": "2024-08-05T07:40:41Z",
+    "lastCommit": "2024-08-17T10:31:25Z",
     "nameWithOwner": "luckasRanarison/tailwind-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 268,
+    "star": 306,
     "topics": [
       "lsp",
       "neovim",
       "neovim-plugin",
       "tailwindcss",
-      "treesitter"
+      "treesitter",
+      "javascript",
+      "lua"
     ]
   },
   "domain": "github.com",

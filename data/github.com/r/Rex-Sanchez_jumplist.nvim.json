@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "jumplist"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2024-08-13T18:24:22Z",
+    "description": "jumplist plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-08-14T00:47:32Z",
+    "nameWithOwner": "Rex-Sanchez/jumplist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jumplist.nvim",
+  "owner": "Rex-Sanchez",
+  "url": "https://github.com/Rex-Sanchez/jumplist.nvim"
+}

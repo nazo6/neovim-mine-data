@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "AsciiDoc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-08-14T20:39:24Z",
+    "description": "Neovim plugin for tree-sitter-asciidoc grammar",
+    "isArchived": false,
+    "lastCommit": "2024-08-14T20:38:53Z",
+    "nameWithOwner": "cpkio/nvim-treesitter-asciidoc",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-treesitter-asciidoc",
+  "owner": "cpkio",
+  "url": "https://github.com/cpkio/nvim-treesitter-asciidoc"
+}

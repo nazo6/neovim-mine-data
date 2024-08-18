@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Number"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-08-08T17:11:57Z",
+    "description": "a neovim plugin to quickly toggle features that make it easier for an observer to understand what you are doing.",
+    "isArchived": false,
+    "lastCommit": "2024-08-08T18:24:24Z",
+    "nameWithOwner": "redxtech/sharing.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sharing.nvim",
+  "owner": "redxtech",
+  "url": "https://github.com/redxtech/sharing.nvim"
+}

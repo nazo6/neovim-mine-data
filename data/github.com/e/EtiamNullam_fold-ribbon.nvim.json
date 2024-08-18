@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2023-03-14T01:42:02Z",
+    "description": "Display depth of folds at a glance in statuscolumn",
+    "isArchived": false,
+    "lastCommit": "2024-07-29T20:05:51Z",
+    "nameWithOwner": "EtiamNullam/fold-ribbon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "fold",
+      "nvim-plugin",
+      "folds",
+      "nvim-lua",
+      "statuscolumn"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fold-ribbon.nvim",
+  "owner": "EtiamNullam",
+  "url": "https://github.com/EtiamNullam/fold-ribbon.nvim"
+}

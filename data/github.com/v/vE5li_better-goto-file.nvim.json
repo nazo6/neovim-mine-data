@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Jump number"
+          "name": "Go to File"
         }
       ],
       "file": "jump.md",
@@ -20,12 +20,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2024-06-25T02:42:51Z",
-    "description": "Neovim plugin for highlighting statuscolumn row numbers",
+    "commitCountLastYear": 6,
+    "createdAt": "2024-08-16T08:31:54Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-06-25T02:43:50Z",
-    "nameWithOwner": "fidgetingbits/rowglow.nvim",
+    "lastCommit": "2024-08-16T11:00:03Z",
+    "nameWithOwner": "vE5li/better-goto-file.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "rowglow.nvim",
-  "owner": "fidgetingbits",
-  "url": "https://github.com/fidgetingbits/rowglow.nvim"
+  "name": "better-goto-file.nvim",
+  "owner": "vE5li",
+  "url": "https://github.com/vE5li/better-goto-file.nvim"
 }

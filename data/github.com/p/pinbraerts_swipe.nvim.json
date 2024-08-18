@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-08-11T19:04:51Z",
+    "description": "jump between buffers on horizontal swipes",
+    "isArchived": false,
+    "lastCommit": "2024-08-13T18:29:52Z",
+    "nameWithOwner": "pinbraerts/swipe.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "horizontal-scrolling",
+      "lua",
+      "mousewheel",
+      "neovim",
+      "neovim-plugin",
+      "scrolling"
+    ]
+  },
+  "domain": "github.com",
+  "name": "swipe.nvim",
+  "owner": "pinbraerts",
+  "url": "https://github.com/pinbraerts/swipe.nvim"
+}

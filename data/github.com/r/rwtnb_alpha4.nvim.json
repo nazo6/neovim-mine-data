@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2024-08-11T00:02:08Z",
+    "description": "Alpha4 is an AI-powered programming assistant for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-08-12T01:45:31Z",
+    "nameWithOwner": "rwtnb/alpha4.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "alpha4.nvim",
+  "owner": "rwtnb",
+  "url": "https://github.com/rwtnb/alpha4.nvim"
+}

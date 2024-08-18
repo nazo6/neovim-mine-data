@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Annotation"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-08-12T03:32:45Z",
+    "description": "nvim plugin to annotate files with thoughts",
+    "isArchived": false,
+    "lastCommit": "2024-08-16T21:00:42Z",
+    "nameWithOwner": "nhomble/thought-flow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "thought-flow.nvim",
+  "owner": "nhomble",
+  "url": "https://github.com/nhomble/thought-flow.nvim"
+}

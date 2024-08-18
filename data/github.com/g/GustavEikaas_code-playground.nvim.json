@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Auto detect style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-08-13T15:30:17Z",
+    "description": "Code playground for neovim inspired by typescript playground",
+    "isArchived": false,
+    "lastCommit": "2024-08-16T14:35:43Z",
+    "nameWithOwner": "GustavEikaas/code-playground.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "coderunner",
+      "neovim",
+      "neovim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-playground.nvim",
+  "owner": "GustavEikaas",
+  "url": "https://github.com/GustavEikaas/code-playground.nvim"
+}
