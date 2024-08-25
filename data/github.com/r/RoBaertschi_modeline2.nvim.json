@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "View"
+        },
+        {
+          "level": 3,
+          "name": "modeline"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-08-20T09:03:17Z",
+    "description": "Vim modeline but better",
+    "isArchived": false,
+    "lastCommit": "2024-08-23T05:19:00Z",
+    "nameWithOwner": "RoBaertschi/modeline2.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "modeline2.nvim",
+  "owner": "RoBaertschi",
+  "url": "https://github.com/RoBaertschi/modeline2.nvim"
+}

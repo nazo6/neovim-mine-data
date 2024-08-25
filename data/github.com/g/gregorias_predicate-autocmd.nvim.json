@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "autocmd"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-08-20T06:28:40Z",
+    "description": "Neovim Lua utility for predicate-based autocmds.",
+    "isArchived": false,
+    "lastCommit": "2024-08-20T06:44:01Z",
+    "nameWithOwner": "gregorias/predicate-autocmd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "predicate-autocmd.nvim",
+  "owner": "gregorias",
+  "url": "https://github.com/gregorias/predicate-autocmd.nvim"
+}

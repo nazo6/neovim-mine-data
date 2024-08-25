@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        },
+        {
+          "level": 4,
+          "name": "Test file"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-08-23T19:02:45Z",
+    "description": "Simple neovim plugin for Go developers to move from file to test file and back",
+    "isArchived": false,
+    "lastCommit": "2024-08-23T19:15:27Z",
+    "nameWithOwner": "tscolari/goalt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "goalt.nvim",
+  "owner": "tscolari",
+  "url": "https://github.com/tscolari/goalt.nvim"
+}

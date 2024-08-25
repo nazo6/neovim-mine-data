@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 37,
     "createdAt": "2024-07-28T19:30:48Z",
     "description": "A better version of Neovim's colorcolumn",
     "isArchived": false,
-    "lastCommit": "2024-08-02T15:49:22Z",
+    "lastCommit": "2024-08-20T13:54:32Z",
     "nameWithOwner": "parmeniong/neocolumn.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -33,11 +33,11 @@
       "neovim-lua-plugin",
       "neovim-plugin",
       "neovim-plugins",
-      "neovm",
       "nvim",
       "nvim-lua",
       "nvim-plugin",
-      "nvim-plugins"
+      "nvim-plugins",
+      "diagnostics"
     ]
   },
   "domain": "github.com",

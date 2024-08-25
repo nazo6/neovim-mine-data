@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Definition, Reference"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-08-21T18:39:00Z",
+    "description": "Jump to next/previous LSP reference in the current buffer with ]r/[r",
+    "isArchived": false,
+    "lastCommit": "2024-08-23T14:41:35Z",
+    "nameWithOwner": "mawkler/refjump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lsp",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "refjump.nvim",
+  "owner": "mawkler",
+  "url": "https://github.com/mawkler/refjump.nvim"
+}

@@ -16,12 +16,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 28,
     "createdAt": "2024-07-07T18:31:40Z",
     "description": "Callback utility module in lua to control higher-order async callback functions in NeoVim. Lua port of async npm library, adjusted",
     "isArchived": false,
-    "lastCommit": "2024-07-15T16:31:58Z",
-    "nameWithOwner": "izelnakri/callback.nvim",
+    "lastCommit": "2024-08-23T18:09:48Z",
+    "nameWithOwner": "izelnakri/async.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "callback.nvim",
+  "name": "async.nvim",
   "owner": "izelnakri",
   "url": "https://github.com/izelnakri/callback.nvim"
 }

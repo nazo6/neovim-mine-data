@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Yank"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-08-20T15:15:51Z",
+    "description": "🪆 Copy the path of deeply nested keys from JSON/YAML files",
+    "isArchived": false,
+    "lastCommit": "2024-08-22T20:26:04Z",
+    "nameWithOwner": "olrtg/nvim-copy-deep-path",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-copy-deep-path",
+  "owner": "olrtg",
+  "url": "https://github.com/olrtg/nvim-copy-deep-path"
+}

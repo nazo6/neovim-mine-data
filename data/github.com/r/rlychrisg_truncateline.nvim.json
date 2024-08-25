@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "View"
+        },
+        {
+          "level": 3,
+          "name": "Wrap line"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2024-08-18T04:14:37Z",
+    "description": "A customisable way to avoid getting lost by truncating long lines in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-08-21T19:59:58Z",
+    "nameWithOwner": "rlychrisg/truncateline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "truncateline.nvim",
+  "owner": "rlychrisg",
+  "url": "https://github.com/rlychrisg/truncateline.nvim"
+}

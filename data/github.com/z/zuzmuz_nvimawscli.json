@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "AWS"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2024-04-23T19:40:00Z",
+    "description": "A plugin to manage aws cli from inside neovim",
+    "isArchived": false,
+    "lastCommit": "2024-08-22T16:41:38Z",
+    "nameWithOwner": "zuzmuz/nvimawscli",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "aws",
+      "aws-cl",
+      "aws-ec2",
+      "cli",
+      "neo",
+      "neovim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvimawscli",
+  "owner": "zuzmuz",
+  "url": "https://github.com/zuzmuz/nvimawscli"
+}

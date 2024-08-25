@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-08-17T19:10:42Z",
+    "description": "a folding wrapper",
+    "isArchived": false,
+    "lastCommit": "2024-08-17T19:11:36Z",
+    "nameWithOwner": "kevinliao852/nvim-folding",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-folding",
+  "owner": "kevinliao852",
+  "url": "https://github.com/kevinliao852/nvim-folding"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-08-19T10:53:01Z",
+    "description": "🚧 A plugin for avante.nvim that provides vendor support for AWS bedrock.",
+    "isArchived": false,
+    "lastCommit": "2024-08-22T03:27:48Z",
+    "nameWithOwner": "yuchanns/avante_bedrock.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "avante_bedrock.nvim",
+  "owner": "yuchanns",
+  "url": "https://github.com/yuchanns/avante_bedrock.nvim"
+}

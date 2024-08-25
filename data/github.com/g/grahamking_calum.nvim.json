@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-08-17T00:27:49Z",
+    "description": "Integrate `llm` with neovim",
+    "isArchived": false,
+    "lastCommit": "2024-08-18T19:33:13Z",
+    "nameWithOwner": "grahamking/calum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "calum.nvim",
+  "owner": "grahamking",
+  "url": "https://github.com/grahamking/calum.nvim"
+}

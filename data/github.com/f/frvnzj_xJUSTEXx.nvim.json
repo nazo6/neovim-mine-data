@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-08-18T08:36:18Z",
+    "description": "Write, compile and stay edge with xJUSTEXx",
+    "isArchived": false,
+    "lastCommit": "2024-08-21T12:11:37Z",
+    "nameWithOwner": "frvnzj/xJUSTEXx.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "just",
+      "justfile",
+      "latex",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "xJUSTEXx.nvim",
+  "owner": "frvnzj",
+  "url": "https://github.com/frvnzj/xJUSTEXx.nvim"
+}

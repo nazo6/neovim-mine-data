@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Nuke"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-08-17T22:14:07Z",
+    "description": "A Neovim plugin for seamless integration with Nuke, allowing you to execute Python/BlinkScript code in Nuke directly from your Neovim editor.",
+    "isArchived": false,
+    "lastCommit": "2024-08-17T22:10:39Z",
+    "nameWithOwner": "sisoe24/nuketools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "execute-python",
+      "neovim",
+      "nuke",
+      "nvim",
+      "thefoundry"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nuketools.nvim",
+  "owner": "sisoe24",
+  "url": "https://github.com/sisoe24/nuketools.nvim"
+}

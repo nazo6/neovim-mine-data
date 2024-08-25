@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Omnivore"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git pull"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-08-19T12:24:14Z",
+    "description": "small nvim plugin that informs you whether a specified repo is in or out of sync with its remote",
+    "isArchived": false,
+    "lastCommit": "2024-08-19T16:28:41Z",
+    "nameWithOwner": "rgibbons-dev/gitsync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitsync.nvim",
+  "owner": "rgibbons-dev",
+  "url": "https://github.com/rgibbons-dev/gitsync.nvim"
+}

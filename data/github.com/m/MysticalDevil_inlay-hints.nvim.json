@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 21,
     "createdAt": "2023-11-18T04:07:28Z",
     "description": "A plugin to simplify enabling neovim inlay hints(neovim 0.10+).",
     "isArchived": false,
-    "lastCommit": "2024-08-18T05:37:52Z",
+    "lastCommit": "2024-08-23T09:32:23Z",
     "nameWithOwner": "MysticalDevil/inlay-hints.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 47,
+    "star": 49,
     "topics": [
       "inlay-hints",
       "lsp",
