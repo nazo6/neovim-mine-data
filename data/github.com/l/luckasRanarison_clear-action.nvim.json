@@ -2,24 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "LSP Feature Extension UI"
-        },
-        {
-          "level": 4,
-          "name": "Code action"
-        }
       ],
-      "file": "lsp.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -52,7 +36,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 114,
+    "star": 115,
     "topics": [
       "code-action",
       "lsp",

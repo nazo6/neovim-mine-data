@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-08-29T10:47:30Z",
+    "description": "quick running code with float window",
+    "isArchived": false,
+    "lastCommit": "2024-08-29T10:47:46Z",
+    "nameWithOwner": "Kicamon/running.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "running.nvim",
+  "owner": "Kicamon",
+  "url": "https://github.com/Kicamon/running.nvim"
+}

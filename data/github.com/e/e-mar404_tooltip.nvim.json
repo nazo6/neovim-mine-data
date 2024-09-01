@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "Popup"
+        }
+      ],
+      "file": "buffer_window_tab-management.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2024-08-26T14:57:01Z",
+    "description": "tooltip to display output of files",
+    "isArchived": false,
+    "lastCommit": "2024-09-01T01:28:30Z",
+    "nameWithOwner": "e-mar404/tooltip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tooltip.nvim",
+  "owner": "e-mar404",
+  "url": "https://github.com/e-mar404/tooltip.nvim"
+}

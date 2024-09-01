@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Codegeex"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-08-29T08:46:37Z",
+    "description": "nvim-cmp source for CodeGeeX.",
+    "isArchived": false,
+    "lastCommit": "2024-09-01T08:26:52Z",
+    "nameWithOwner": "sunn4room/nvim-cmp-codegeex",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "codegeex",
+      "neovim",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp-codegeex",
+  "owner": "sunn4room",
+  "url": "https://github.com/sunn4room/nvim-cmp-codegeex"
+}

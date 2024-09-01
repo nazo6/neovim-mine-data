@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-08-24T04:57:41Z",
+    "description": "Use jq in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-08-26T11:50:39Z",
+    "nameWithOwner": "TravisYeah/jq.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jq.nvim",
+  "owner": "TravisYeah",
+  "url": "https://github.com/TravisYeah/jq.nvim"
+}

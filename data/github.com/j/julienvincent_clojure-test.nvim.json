@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Clojure"
+        },
+        {
+          "level": 4,
+          "name": "test"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2024-06-12T23:32:23Z",
+    "description": "Run clojure tests directly from neovim",
+    "isArchived": false,
+    "lastCommit": "2024-08-29T20:09:42Z",
+    "nameWithOwner": "julienvincent/clojure-test.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "clojure",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "test"
+    ]
+  },
+  "domain": "github.com",
+  "name": "clojure-test.nvim",
+  "owner": "julienvincent",
+  "url": "https://github.com/julienvincent/clojure-test.nvim"
+}

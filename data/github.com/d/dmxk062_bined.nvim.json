@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hex"
+        },
+        {
+          "level": 3,
+          "name": "Hex Editor"
+        }
+      ],
+      "file": "hex.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-08-24T15:00:36Z",
+    "description": "turn Neovim into a hex editor",
+    "isArchived": false,
+    "lastCommit": "2024-08-24T18:43:55Z",
+    "nameWithOwner": "dmxk062/bined.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bined.nvim",
+  "owner": "dmxk062",
+  "url": "https://github.com/dmxk062/bined.nvim"
+}

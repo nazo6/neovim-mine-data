@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown checkbox"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-08-27T09:22:19Z",
+    "description": "WIP",
+    "isArchived": false,
+    "lastCommit": "2024-08-27T09:23:03Z",
+    "nameWithOwner": "otavioschwanck/markdown-todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-todo.nvim",
+  "owner": "otavioschwanck",
+  "url": "https://github.com/otavioschwanck/markdown-todo.nvim"
+}

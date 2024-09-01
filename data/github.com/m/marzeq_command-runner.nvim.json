@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Command style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2024-08-28T20:43:02Z",
+    "description": "a neovim plugin that simplifies command running and speeds up your workflow",
+    "isArchived": false,
+    "lastCommit": "2024-08-31T07:01:50Z",
+    "nameWithOwner": "marzeq/command-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "command-runner.nvim",
+  "owner": "marzeq",
+  "url": "https://github.com/marzeq/command-runner.nvim"
+}

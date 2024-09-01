@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Remote Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -25,34 +39,20 @@
       ],
       "file": "buffer_window_tab-management.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Remote Development"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 20,
     "createdAt": "2023-03-28T23:15:55Z",
     "description": "Explore, edit, and develop on a remote machine via SSHFS with Neovim",
     "isArchived": false,
-    "lastCommit": "2024-06-11T14:50:30Z",
+    "lastCommit": "2024-08-29T03:24:16Z",
     "nameWithOwner": "nosduco/remote-sshfs.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 161,
+    "star": 168,
     "topics": [
       "lua",
       "neovim",
@@ -66,5 +66,5 @@
   "domain": "github.com",
   "name": "remote-sshfs.nvim",
   "owner": "nosduco",
-  "url": "https://github.com/NOSDuco/remote-sshfs.nvim"
+  "url": "https://github.com/nosduco/remote-sshfs.nvim"
 }

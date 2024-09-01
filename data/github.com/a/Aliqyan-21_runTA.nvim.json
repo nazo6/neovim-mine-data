@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Auto detect style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2024-08-31T10:07:30Z",
+    "description": "An advanced and easy to use and configurable code runner for neovim!",
+    "isArchived": false,
+    "lastCommit": "2024-08-31T22:18:09Z",
+    "nameWithOwner": "Aliqyan-21/runTA.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "coderun",
+      "coderunner",
+      "lua",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "runTA.nvim",
+  "owner": "Aliqyan-21",
+  "url": "https://github.com/Aliqyan-21/runTA.nvim"
+}

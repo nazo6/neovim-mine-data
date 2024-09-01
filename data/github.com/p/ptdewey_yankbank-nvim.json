@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 60,
+    "commitCountLastYear": 76,
     "createdAt": "2024-03-14T23:12:23Z",
-    "description": "Neovim plugin improving access to recent yank history",
+    "description": "Neovim plugin improving access to clipboard history",
     "isArchived": false,
-    "lastCommit": "2024-08-25T01:22:55Z",
+    "lastCommit": "2024-08-31T21:13:46Z",
     "nameWithOwner": "ptdewey/yankbank-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 52,
+    "star": 96,
     "topics": [
       "lua",
       "neovim",

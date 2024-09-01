@@ -4,24 +4,24 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Keymap"
         },
         {
-          "level": 2,
-          "name": "git diff"
+          "level": 3,
+          "name": "map function utiliy"
         }
       ],
-      "file": "git-github.md",
+      "file": "mapping.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2024-07-01T13:29:16Z",
+    "commitCountLastYear": 1,
+    "createdAt": "2024-08-30T16:57:16Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2022-03-22T14:16:20Z",
-    "nameWithOwner": "grbovae5/diff-therapy.nvim",
+    "lastCommit": "2024-08-30T16:59:16Z",
+    "nameWithOwner": "phanen/m.m.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "diff-therapy.nvim",
-  "owner": "grbovae5",
-  "url": "https://github.com/grbovae5/diff-therapy.nvim"
+  "name": "m.m.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/m.m.nvim"
 }

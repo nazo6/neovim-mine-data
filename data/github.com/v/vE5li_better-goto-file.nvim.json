@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 17,
     "createdAt": "2024-08-16T08:31:54Z",
-    "description": null,
+    "description": "A Neovim plugin for improving the goto file command",
     "isArchived": false,
-    "lastCommit": "2024-08-19T08:32:48Z",
+    "lastCommit": "2024-08-30T12:59:25Z",
     "nameWithOwner": "vE5li/better-goto-file.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,9 @@
     },
     "star": 1,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

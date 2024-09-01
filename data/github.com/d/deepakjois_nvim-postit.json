@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-08-29T11:21:48Z",
+    "description": "capture post-it like notes with nvim",
+    "isArchived": false,
+    "lastCommit": "2024-08-29T14:48:15Z",
+    "nameWithOwner": "deepakjois/nvim-postit",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-postit",
+  "owner": "deepakjois",
+  "url": "https://github.com/deepakjois/nvim-postit"
+}

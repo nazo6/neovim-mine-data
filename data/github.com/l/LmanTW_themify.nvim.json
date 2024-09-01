@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2024-08-24T13:55:35Z",
+    "description": " A colorscheme manager and switcher designed for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-08-31T15:09:56Z",
+    "nameWithOwner": "LmanTW/themify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "colorscheme",
+      "manager",
+      "neovim",
+      "neovim-plugin",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "themify.nvim",
+  "owner": "LmanTW",
+  "url": "https://github.com/LmanTW/themify.nvim"
+}

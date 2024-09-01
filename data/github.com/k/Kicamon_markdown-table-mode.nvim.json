@@ -44,7 +44,7 @@
   "data": {
     "commitCountLastYear": 22,
     "createdAt": "2024-03-30T02:54:45Z",
-    "description": "A neovim markdown format plugin like vim-table-mode but write in lua",
+    "description": "A lightweight markdown format plugin like vim-table-mode but write in lua",
     "isArchived": false,
     "lastCommit": "2024-08-19T16:39:30Z",
     "nameWithOwner": "Kicamon/markdown-table-mode.nvim",
@@ -52,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 34,
+    "star": 40,
     "topics": [
       "markdown",
       "nvim",

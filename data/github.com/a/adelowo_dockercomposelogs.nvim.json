@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Docker"
+        },
+        {
+          "level": 5,
+          "name": "Docker Compose"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-08-25T20:53:42Z",
+    "description": "Telescope extension that allows you view docker compose  logs right inside neovim",
+    "isArchived": false,
+    "lastCommit": "2024-08-26T20:49:45Z",
+    "nameWithOwner": "adelowo/dockercomposelogs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dockercomposelogs.nvim",
+  "owner": "adelowo",
+  "url": "https://github.com/adelowo/dockercomposelogs.nvim"
+}
