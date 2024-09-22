@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 68,
+    "createdAt": "2024-09-01T19:39:04Z",
+    "description": "Snippets for nvim",
+    "isArchived": false,
+    "lastCommit": "2024-07-10T19:35:38Z",
+    "nameWithOwner": "pianoboy71/nvim-snippets",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-snippets",
+  "owner": "pianoboy71",
+  "url": "https://github.com/pianoboy71/nvim-snippets"
+}

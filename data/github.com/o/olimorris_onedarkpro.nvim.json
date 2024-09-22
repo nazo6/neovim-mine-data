@@ -38,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 67,
+    "commitCountLastYear": 66,
     "createdAt": "2021-04-07T17:22:14Z",
     "description": "🎨 Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with variants",
     "isArchived": false,
@@ -48,16 +48,18 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 767,
+    "star": 774,
     "topics": [
       "neovim",
       "theme",
       "onedark",
-      "lua",
       "nvim",
       "onedarkpro",
       "colorscheme",
-      "onelight"
+      "onelight",
+      "dark-theme",
+      "light-theme",
+      "neovim-colorscheme"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Android"
+        },
+        {
+          "level": 4,
+          "name": "adb"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-09-20T06:10:55Z",
+    "description": "A neovim plugin execute `adb shell dumpsys `",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T06:11:16Z",
+    "nameWithOwner": "JefferyBoy/adb_dumpsys.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "adb_dumpsys.nvim",
+  "owner": "JefferyBoy",
+  "url": "https://github.com/JefferyBoy/adb_dumpsys.nvim"
+}

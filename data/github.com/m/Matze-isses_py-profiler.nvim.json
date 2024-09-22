@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Python"
+        },
+        {
+          "level": 4,
+          "name": "Profiler"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-09-20T13:31:56Z",
+    "description": "Python Profile that can be used through the neovim lua api. ",
+    "isArchived": false,
+    "lastCommit": "2024-09-21T06:02:29Z",
+    "nameWithOwner": "Matze-isses/py-profiler.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "py-profiler.nvim",
+  "owner": "Matze-isses",
+  "url": "https://github.com/Matze-isses/py-profiler.nvim"
+}

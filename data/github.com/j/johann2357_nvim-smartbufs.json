@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Bufferline"
         }
       ],
@@ -25,7 +29,7 @@
           "name": "Buffer Selector"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "buffer.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {

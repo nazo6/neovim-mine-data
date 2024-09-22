@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2024-09-13T11:21:31Z",
+    "description": "Neovim Buffer Time Tracker with SQLite3",
+    "isArchived": false,
+    "lastCommit": "2024-09-18T14:24:33Z",
+    "nameWithOwner": "vsinagl/codetracker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codetracker.nvim",
+  "owner": "vsinagl",
+  "url": "https://github.com/vsinagl/codetracker.nvim"
+}

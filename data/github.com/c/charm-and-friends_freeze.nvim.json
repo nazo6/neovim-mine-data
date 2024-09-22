@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screen Key (Show Typing key)"
+        },
+        {
+          "level": 4,
+          "name": "Code Image"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 58,
+    "createdAt": "2024-03-27T10:34:31Z",
+    "description": "A wrapper for charm's freeze cli tool for usage in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-09-06T14:19:13Z",
+    "nameWithOwner": "charm-and-friends/freeze.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 63,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "freeze.nvim",
+  "owner": "charm-and-friends",
+  "url": "https://github.com/isabelroses/charm-freeze.nvim"
+}

@@ -15,12 +15,12 @@
           "name": "Buffer Management"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "buffer.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 20,
     "createdAt": "2021-07-06T20:29:00Z",
     "description": "Neovim plugin for locking a buffer to a window",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 240,
+    "star": 243,
     "topics": [
       "neovim",
       "neovim-plugin",

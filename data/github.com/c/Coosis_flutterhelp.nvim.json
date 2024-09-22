@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Dart, Flutter"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2024-09-19T13:29:31Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-09-20T16:33:58Z",
+    "nameWithOwner": "Coosis/flutterhelp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "flutterhelp.nvim",
+  "owner": "Coosis",
+  "url": "https://github.com/Coosis/flutterhelp.nvim"
+}

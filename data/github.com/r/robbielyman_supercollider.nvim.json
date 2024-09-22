@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2023-01-22T18:12:26Z",
+    "description": "neovim plugin for supercollider",
+    "isArchived": false,
+    "lastCommit": "2023-04-21T00:49:11Z",
+    "nameWithOwner": "robbielyman/supercollider.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "supercollider.nvim",
+  "owner": "robbielyman",
+  "url": "https://github.com/ryleelyman/supercollider.nvim"
+}

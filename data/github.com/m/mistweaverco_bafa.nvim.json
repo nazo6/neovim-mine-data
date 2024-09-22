@@ -15,16 +15,16 @@
           "name": "Buffer Selector"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "buffer.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 18,
     "createdAt": "2023-10-07T21:09:03Z",
-    "description": "Minimal BufExplorer alternative.",
+    "description": "A minimal BufExplorer alternative for lazy people for your favorite editor.",
     "isArchived": false,
-    "lastCommit": "2024-07-09T18:44:42Z",
+    "lastCommit": "2024-09-01T21:26:25Z",
     "nameWithOwner": "mistweaverco/bafa.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,10 @@
     },
     "star": 2,
     "topics": [
+      "buffer-management",
+      "navigation",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

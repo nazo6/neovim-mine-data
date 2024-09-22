@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        },
+        {
+          "level": 3,
+          "name": "Cursor Style"
+        }
+      ],
+      "file": "cursor.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2024-09-05T19:27:24Z",
+    "description": "This is a plugin that helps out seeing in which mode you are. It will change colour of the cursor and/or background based on the values that you provide. It also can colour a column for you (I still have no clue why people do that tho)",
+    "isArchived": false,
+    "lastCommit": "2024-09-07T12:50:00Z",
+    "nameWithOwner": "kosior3kt/mode-colors.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mode-colors.nvim",
+  "owner": "kosior3kt",
+  "url": "https://github.com/kosior3kt/mode-colors.nvim"
+}

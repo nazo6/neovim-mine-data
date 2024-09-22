@@ -11,7 +11,7 @@
           "name": "Tab"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "tab.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 38,
+    "commitCountLastYear": 41,
     "createdAt": "2021-09-24T03:48:51Z",
     "description": "A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!",
     "isArchived": false,
-    "lastCommit": "2024-07-31T08:47:35Z",
+    "lastCommit": "2024-09-16T06:48:35Z",
     "nameWithOwner": "nanozuki/tabby.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 568,
+    "star": 581,
     "topics": [
       "neovim",
       "neovim-plugin",

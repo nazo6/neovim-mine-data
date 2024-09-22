@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Bufferline"
+        },
+        {
+          "level": 3,
+          "name": "Vertical"
+        }
+      ],
+      "file": "bufferline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-09-19T12:20:14Z",
+    "description": "manage buffers as vertical (column) views",
+    "isArchived": false,
+    "lastCommit": "2024-09-21T00:44:11Z",
+    "nameWithOwner": "shabaraba/pile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pile.nvim",
+  "owner": "shabaraba",
+  "url": "https://github.com/shabaraba/pile.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "AWS"
+        },
+        {
+          "level": 5,
+          "name": "SAM"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-09-15T12:10:29Z",
+    "description": "Neovim Plugin to manage AWS Sam to improve the workflow",
+    "isArchived": false,
+    "lastCommit": "2024-09-22T09:10:54Z",
+    "nameWithOwner": "divagueame/aws-sam.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "aws-sam.nvim",
+  "owner": "divagueame",
+  "url": "https://github.com/divagueame/aws-sam.nvim"
+}

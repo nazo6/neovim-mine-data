@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "yank highlight"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-09-15T17:04:17Z",
+    "description": "Neovim plugin yanked text highlighter",
+    "isArchived": false,
+    "lastCommit": "2024-09-15T17:34:38Z",
+    "nameWithOwner": "DeamonDev/yank-highlighter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "text-highlighting"
+    ]
+  },
+  "domain": "github.com",
+  "name": "yank-highlighter.nvim",
+  "owner": "DeamonDev",
+  "url": "https://github.com/DeamonDev/yank-highlighter.nvim"
+}

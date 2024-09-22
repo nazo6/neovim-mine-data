@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Task Runner"
+        },
+        {
+          "level": 4,
+          "name": "pnpm"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2024-09-14T09:06:37Z",
+    "description": "A Neovim plugin to show versions as diagnostics for PNPM catalog: field.",
+    "isArchived": false,
+    "lastCommit": "2024-09-16T20:04:52Z",
+    "nameWithOwner": "ryoppippi/nvim-pnpm-catalog-lens",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "neovim-plugin",
+      "pnpm",
+      "pnpm-workspace"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pnpm-catalog-lens",
+  "owner": "ryoppippi",
+  "url": "https://github.com/ryoppippi/nvim-pnpm-catalog-lens"
+}

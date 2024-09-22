@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-09-20T16:09:24Z",
+    "description": "The fastest, most lightweight, minimal and super easy buffer manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T20:26:53Z",
+    "nameWithOwner": "EL-MASTOR/bufferlist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "buffer",
+      "buffer-manager",
+      "buffers",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-buffers",
+      "nvim-lua",
+      "list-switch-save-delete-buffers"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferlist.nvim",
+  "owner": "EL-MASTOR",
+  "url": "https://github.com/EL-MASTOR/bufferlist.nvim"
+}

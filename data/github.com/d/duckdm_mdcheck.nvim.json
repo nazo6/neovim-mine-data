@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown checkbox"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-09-16T06:39:34Z",
+    "description": "A neovim plugin to toggle, checking/unchecking, creating and removing markdown checkboxes",
+    "isArchived": false,
+    "lastCommit": "2024-09-16T08:04:40Z",
+    "nameWithOwner": "duckdm/mdcheck.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "checkbox",
+      "markdown",
+      "md",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdcheck.nvim",
+  "owner": "duckdm",
+  "url": "https://github.com/duckdm/mdcheck.nvim"
+}

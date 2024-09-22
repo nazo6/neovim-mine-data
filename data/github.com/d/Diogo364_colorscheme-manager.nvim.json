@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-09-06T18:44:30Z",
+    "description": "Custom plugin to manager neovim visuals.",
+    "isArchived": false,
+    "lastCommit": "2024-09-09T12:08:36Z",
+    "nameWithOwner": "Diogo364/colorscheme-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "color-scheme",
+      "neovim",
+      "lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "colorscheme-manager.nvim",
+  "owner": "Diogo364",
+  "url": "https://github.com/Diogo364/colorscheme-manager.nvim"
+}

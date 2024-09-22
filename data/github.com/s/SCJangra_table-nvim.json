@@ -21,21 +21,43 @@
       ],
       "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Markdown and LaTeX"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 39,
+    "commitCountLastYear": 55,
     "createdAt": "2024-06-29T16:24:00Z",
-    "description": null,
+    "description": "A markdown table editor for Neovim that formats the table as you type.",
     "isArchived": false,
-    "lastCommit": "2024-08-31T14:44:37Z",
+    "lastCommit": "2024-09-09T19:55:09Z",
     "nameWithOwner": "SCJangra/table-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 11,
     "topics": [
+      "markdown",
+      "markdown-tables",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -38,18 +38,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 33,
     "createdAt": "2021-03-27T20:45:17Z",
     "description": "Smooth scrolling neovim plugin written in lua",
     "isArchived": false,
-    "lastCommit": "2024-08-01T18:45:05Z",
+    "lastCommit": "2024-09-07T12:58:21Z",
     "nameWithOwner": "karb94/neoscroll.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1397,
+    "star": 1419,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "neovim-plugins",
+      "scrolling"
     ]
   },
   "domain": "github.com",

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Yank"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
           "name": "Register Selector"
         }
       ],
@@ -30,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 12,
     "createdAt": "2021-08-15T20:15:08Z",
     "description": "Clipboard manager neovim plugin with telescope integration",
     "isArchived": false,
-    "lastCommit": "2024-06-01T18:00:47Z",
+    "lastCommit": "2024-09-10T00:13:46Z",
     "nameWithOwner": "AckslD/nvim-neoclip.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 965,
+    "star": 983,
     "topics": [
     ]
   },

@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Syntax"
-        },
-        {
-          "level": 3,
-          "name": "Colorscheme switcher"
-        }
       ],
-      "file": "syntax_highlight.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-11-30T05:22:19Z",
     "description": "Change colorscheme in Neovim by modifying a file",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-12-01T01:33:36Z",
     "nameWithOwner": "eriedaberrie/colorscheme-file.nvim",
     "primaryLanguage": {

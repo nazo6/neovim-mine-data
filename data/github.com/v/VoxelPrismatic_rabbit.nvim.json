@@ -15,22 +15,22 @@
           "name": "Buffer Selector"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "buffer.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 51,
+    "commitCountLastYear": 52,
     "createdAt": "2024-05-15T22:54:23Z",
     "description": "Quickly jump between buffers",
     "isArchived": false,
-    "lastCommit": "2024-06-30T12:08:00Z",
+    "lastCommit": "2024-09-21T17:26:40Z",
     "nameWithOwner": "VoxelPrismatic/rabbit.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 50,
+    "star": 55,
     "topics": [
       "motion",
       "neovim-plugin",

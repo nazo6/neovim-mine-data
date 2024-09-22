@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Usage Report"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-09-20T16:37:51Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-09-20T17:09:56Z",
+    "nameWithOwner": "michaperki/nvim-plugin-tracker",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-plugin-tracker",
+  "owner": "michaperki",
+  "url": "https://github.com/michaperki/nvim-plugin-tracker"
+}

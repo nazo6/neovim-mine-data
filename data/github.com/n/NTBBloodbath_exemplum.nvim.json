@@ -19,23 +19,26 @@
           "name": "keep window"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "window.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 44,
     "createdAt": "2024-02-11T16:01:38Z",
-    "description": "Take your functions and easily refactor them while keeping an eye on the initial implementation",
+    "description": "Seamlessly refactor code chunks within your projects while keeping an eye on the initial implementation",
     "isArchived": false,
-    "lastCommit": "2024-02-15T12:45:49Z",
+    "lastCommit": "2024-09-03T05:15:18Z",
     "nameWithOwner": "NTBBloodbath/exemplum.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 13,
     "topics": [
+      "neovim",
+      "refactoring-tools",
+      "tree-sitter"
     ]
   },
   "domain": "github.com",

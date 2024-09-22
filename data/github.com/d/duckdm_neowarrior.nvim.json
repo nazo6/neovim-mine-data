@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        },
+        {
+          "level": 3,
+          "name": "Taskwarrior"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 72,
+    "createdAt": "2024-09-07T14:53:10Z",
+    "description": "A neovim wrapper/plugin to use taskwarrior inside neovim",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T13:42:31Z",
+    "nameWithOwner": "duckdm/neowarrior.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "task",
+      "task-manager",
+      "tasks",
+      "taskwarrior"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neowarrior.nvim",
+  "owner": "duckdm",
+  "url": "https://github.com/duckdm/neowarrior.nvim"
+}

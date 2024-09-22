@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "sudo"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-09-20T17:36:31Z",
+    "description": "Read and Write files as root in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T20:25:45Z",
+    "nameWithOwner": "denialofsandwich/sudo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sudo.nvim",
+  "owner": "denialofsandwich",
+  "url": "https://github.com/denialofsandwich/sudo.nvim"
+}

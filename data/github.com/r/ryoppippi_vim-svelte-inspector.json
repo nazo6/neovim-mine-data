@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Svelte"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2023-10-18T13:08:19Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-09-02T09:56:22Z",
+    "nameWithOwner": "ryoppippi/vim-svelte-inspector",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin",
+      "svelte",
+      "svetlekit",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vim-svelte-inspector",
+  "owner": "ryoppippi",
+  "url": "https://github.com/ryoppippi/vim-svelte-inspector"
+}

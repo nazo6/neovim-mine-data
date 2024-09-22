@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Paste"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Paste"
+        },
+        {
+          "level": 3,
           "name": "Cyclic paste"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 15,
     "createdAt": "2022-05-31T04:57:51Z",
     "description": "The yank/paste enhancement plugin for neovim.",
     "isArchived": false,
-    "lastCommit": "2024-03-21T14:35:19Z",
+    "lastCommit": "2024-09-14T00:39:25Z",
     "nameWithOwner": "hrsh7th/nvim-pasta",
     "primaryLanguage": {
       "color": "#000080",

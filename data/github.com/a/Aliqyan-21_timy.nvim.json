@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Clock"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-08-31T05:17:10Z",
+    "description": "A neovim plugin that shows current time - made just for learning purposes",
+    "isArchived": false,
+    "lastCommit": "2024-08-31T05:37:17Z",
+    "nameWithOwner": "Aliqyan-21/timy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "timy.nvim",
+  "owner": "Aliqyan-21",
+  "url": "https://github.com/Aliqyan-21/timy.nvim"
+}

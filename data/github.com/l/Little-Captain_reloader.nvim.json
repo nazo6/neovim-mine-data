@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Reload Configuration"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-09-06T05:34:43Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-09-06T05:35:04Z",
+    "nameWithOwner": "Little-Captain/reloader.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "reloader.nvim",
+  "owner": "Little-Captain",
+  "url": "https://github.com/Little-Captain/reloader.nvim"
+}

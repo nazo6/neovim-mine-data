@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Yank"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
           "name": "Register Selector"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 6,
     "createdAt": "2021-02-11T21:33:23Z",
     "description": "📑 Neovim plugin to preview the contents of the registers",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 599,
+    "star": 601,
     "topics": [
       "neovim",
       "nvim",

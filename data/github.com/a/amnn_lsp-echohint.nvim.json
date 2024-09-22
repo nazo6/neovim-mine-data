@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hint"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2024-09-01T21:22:37Z",
+    "description": "Plugin for displaying the inlay hints for the current line in the echo area.",
+    "isArchived": false,
+    "lastCommit": "2024-09-14T16:25:24Z",
+    "nameWithOwner": "amnn/lsp-echohint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-echohint.nvim",
+  "owner": "amnn",
+  "url": "https://github.com/amnn/lsp-echohint.nvim"
+}

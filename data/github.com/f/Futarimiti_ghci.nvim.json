@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Haskell"
+        },
+        {
+          "level": 4,
+          "name": "GHCi"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-09-09T16:11:34Z",
+    "description": "GHCi within editor",
+    "isArchived": false,
+    "lastCommit": "2024-09-18T18:01:47Z",
+    "nameWithOwner": "Futarimiti/ghci.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ghci",
+      "haskell",
+      "neovim",
+      "repl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ghci.nvim",
+  "owner": "Futarimiti",
+  "url": "https://github.com/Futarimiti/ghci.nvim"
+}

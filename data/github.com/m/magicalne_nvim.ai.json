@@ -20,18 +20,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 47,
+    "commitCountLastYear": 86,
     "createdAt": "2024-08-22T22:49:03Z",
-    "description": null,
+    "description": "Inspired by Zed AI, it allows you to chat with your buffers, insert code with an inline assistant, and leverage various LLM providers for context-aware AI assistance.",
     "isArchived": false,
-    "lastCommit": "2024-09-01T04:34:16Z",
+    "lastCommit": "2024-09-16T12:52:46Z",
     "nameWithOwner": "magicalne/nvim.ai",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 90,
+    "star": 107,
     "topics": [
+      "copilot",
+      "llm",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

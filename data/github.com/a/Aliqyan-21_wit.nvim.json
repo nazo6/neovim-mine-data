@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2024-09-02T16:51:56Z",
+    "description": "Plugin that allows you to perform web searches directly from within neovim!",
+    "isArchived": false,
+    "lastCommit": "2024-09-17T21:17:46Z",
+    "nameWithOwner": "Aliqyan-21/wit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 44,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "plugin",
+      "search",
+      "web"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wit.nvim",
+  "owner": "Aliqyan-21",
+  "url": "https://github.com/Aliqyan-21/wit.nvim"
+}

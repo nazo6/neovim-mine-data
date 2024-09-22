@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Adobe"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-09-16T15:30:49Z",
+    "description": "Plugin to sync from and to local AEM instance running on localhost:4502",
+    "isArchived": false,
+    "lastCommit": "2024-09-16T15:40:45Z",
+    "nameWithOwner": "Tylopilus/sync-aem.nvim",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sync-aem.nvim",
+  "owner": "Tylopilus",
+  "url": "https://github.com/Tylopilus/sync-aem.nvim"
+}

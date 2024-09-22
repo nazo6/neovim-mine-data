@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Terraform"
+        },
+        {
+          "level": 5,
+          "name": "atmos"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-09-19T15:35:25Z",
+    "description": "🚀 A lightweight, user-friendly Neovim plugin for easily navigating and managing Atmos stacks and components.",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T17:41:38Z",
+    "nameWithOwner": "RoseSecurity/atmos.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "atmos",
+      "cloud",
+      "neovim",
+      "terraform",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "atmos.nvim",
+  "owner": "RoseSecurity",
+  "url": "https://github.com/RoseSecurity/atmos.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-09-16T12:58:00Z",
+    "description": "Create scratch buffers in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-09-16T17:37:20Z",
+    "nameWithOwner": "cenk1cenk2/scratch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratch.nvim",
+  "owner": "cenk1cenk2",
+  "url": "https://github.com/cenk1cenk2/scratch.nvim"
+}

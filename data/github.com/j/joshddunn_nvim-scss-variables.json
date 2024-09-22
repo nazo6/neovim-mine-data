@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CSS"
+        },
+        {
+          "level": 3,
+          "name": "SCSS"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-09-20T19:28:30Z",
+    "description": "Replace hex colors with scss variables",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T20:56:55Z",
+    "nameWithOwner": "joshddunn/nvim-scss-variables",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-scss-variables",
+  "owner": "joshddunn",
+  "url": "https://github.com/joshddunn/nvim-scss-variables"
+}

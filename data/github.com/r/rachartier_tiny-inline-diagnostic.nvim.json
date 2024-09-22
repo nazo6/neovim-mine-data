@@ -42,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 174,
+    "commitCountLastYear": 184,
     "createdAt": "2024-06-29T14:13:21Z",
     "description": "A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.",
     "isArchived": false,
-    "lastCommit": "2024-08-30T18:39:07Z",
+    "lastCommit": "2024-09-17T14:12:08Z",
     "nameWithOwner": "rachartier/tiny-inline-diagnostic.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 228,
+    "star": 266,
     "topics": [
       "neovim-plugin",
       "lua",

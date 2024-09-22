@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "E2"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-09-06T04:51:09Z",
+    "description": "Neovim plugin for the educational programming language E2 and its intermediate representation.",
+    "isArchived": false,
+    "lastCommit": "2024-09-06T06:14:37Z",
+    "nameWithOwner": "mrdgo/e2.nvim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "e2.nvim",
+  "owner": "mrdgo",
+  "url": "https://github.com/mrdgo/e2.nvim"
+}

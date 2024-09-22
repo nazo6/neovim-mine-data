@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Racket"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-09-19T16:01:56Z",
+    "description": "Highlight code coverage for Racket and Racket-derived languages",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T21:47:43Z",
+    "nameWithOwner": "gordoncyu/racket-cover.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "racket-cover.nvim",
+  "owner": "gordoncyu",
+  "url": "https://github.com/gordoncyu/racket-cover.nvim"
+}

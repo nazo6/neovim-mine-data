@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        },
+        {
+          "level": 3,
+          "name": "Trim Whitespace"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-09-20T17:17:19Z",
+    "description": "Remove trailing whitespace",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T17:29:42Z",
+    "nameWithOwner": "joshddunn/nvim-remove-trailing-whitespace",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-remove-trailing-whitespace",
+  "owner": "joshddunn",
+  "url": "https://github.com/joshddunn/nvim-remove-trailing-whitespace"
+}

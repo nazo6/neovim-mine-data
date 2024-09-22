@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "curl"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-09-16T16:56:13Z",
+    "description": "A plugin to open files in Neovim via HTTP requests.",
+    "isArchived": false,
+    "lastCommit": "2024-09-17T06:21:49Z",
+    "nameWithOwner": "nabekou29/open-by-http.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-by-http.nvim",
+  "owner": "nabekou29",
+  "url": "https://github.com/nabekou29/open-by-http.nvim"
+}

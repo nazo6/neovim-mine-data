@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Bufferline"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 47,
+    "commitCountLastYear": 44,
     "createdAt": "2020-05-07T11:12:17Z",
     "description": "A snazzy bufferline for Neovim",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3397,
+    "star": 3434,
     "topics": [
       "neovim-plugin",
       "bufferline",

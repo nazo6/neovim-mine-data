@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-09-07T11:07:03Z",
+    "description": "A simple/functional automated plugin to chat with local LLMs ",
+    "isArchived": false,
+    "lastCommit": "2024-09-12T08:20:13Z",
+    "nameWithOwner": "Dan7h3x/chatter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ai",
+      "llm",
+      "neovim",
+      "neovim-config",
+      "neovim-plugin",
+      "ollama"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chatter.nvim",
+  "owner": "Dan7h3x",
+  "url": "https://github.com/Dan7h3x/chatter.nvim"
+}

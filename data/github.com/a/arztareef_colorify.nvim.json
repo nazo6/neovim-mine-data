@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorizer"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-09-14T09:19:41Z",
+    "description": "NvChad's colorizer",
+    "isArchived": false,
+    "lastCommit": "2024-09-15T16:08:37Z",
+    "nameWithOwner": "arztareef/colorify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "colorify.nvim",
+  "owner": "arztareef",
+  "url": "https://github.com/arztareef/colorify.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "tgpt"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-09-12T22:59:14Z",
+    "description": "AI Chatbots in Neovim without needing API keys",
+    "isArchived": false,
+    "lastCommit": "2024-09-17T16:52:15Z",
+    "nameWithOwner": "RayenMnif/tgpt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tgpt.nvim",
+  "owner": "RayenMnif",
+  "url": "https://github.com/RayenMnif/tgpt.nvim"
+}

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Bufferline"
         }
       ],
@@ -12,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 13,
     "createdAt": "2022-10-01T21:37:47Z",
     "description": "Neovim plugin for working with buffers, windows, and tabs",
     "isArchived": false,

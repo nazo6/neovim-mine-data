@@ -15,7 +15,7 @@
           "name": "Buffer Selector"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "buffer.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 11,
     "createdAt": "2022-06-13T16:20:09Z",
     "description": "A buffer switcher in the spirit of dirvish or vinegar.",
     "isArchived": false,
-    "lastCommit": "2024-08-08T21:08:59Z",
+    "lastCommit": "2024-09-13T16:20:24Z",
     "nameWithOwner": "mong8se/buffish.nvim",
     "primaryLanguage": {
       "color": "#000080",

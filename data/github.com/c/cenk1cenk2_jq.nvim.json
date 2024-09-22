@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2024-09-13T13:58:53Z",
+    "description": "Run jq and variants like yq or gojq in an interactive window in Neovim and process the current buffer.",
+    "isArchived": false,
+    "lastCommit": "2024-09-15T16:25:36Z",
+    "nameWithOwner": "cenk1cenk2/jq.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jq.nvim",
+  "owner": "cenk1cenk2",
+  "url": "https://github.com/cenk1cenk2/jq.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "Speech"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 63,
+    "createdAt": "2024-09-01T12:37:42Z",
+    "description": "Speech to LateX in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-09-16T12:57:51Z",
+    "nameWithOwner": "wazizian/voicetex.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "voicetex.nvim",
+  "owner": "wazizian",
+  "url": "https://github.com/wazizian/voicetex.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-09-02T08:08:03Z",
+    "description": "A simple link to the Git UI from nvim",
+    "isArchived": false,
+    "lastCommit": "2024-09-05T07:06:43Z",
+    "nameWithOwner": "avano/simple-gitlink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-gitlink.nvim",
+  "owner": "avano",
+  "url": "https://github.com/avano/simple-gitlink.nvim"
+}

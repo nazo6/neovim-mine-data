@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal mode"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-09-20T03:04:46Z",
+    "description": "Stay in terminal normal mode when swich terminal buffer in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T03:06:41Z",
+    "nameWithOwner": "JefferyBoy/stay_mode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stay_mode.nvim",
+  "owner": "JefferyBoy",
+  "url": "https://github.com/JefferyBoy/stay_mode.nvim"
+}

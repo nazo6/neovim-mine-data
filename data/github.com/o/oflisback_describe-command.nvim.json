@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-09-14T20:57:27Z",
+    "description": "Describe what to do in neovim and have OpenAI figure out a command to accomplish it",
+    "isArchived": false,
+    "lastCommit": "2024-09-15T13:20:50Z",
+    "nameWithOwner": "oflisback/describe-command.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "describe-command.nvim",
+  "owner": "oflisback",
+  "url": "https://github.com/oflisback/describe-command.nvim"
+}

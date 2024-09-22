@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 8,
     "createdAt": "2024-08-03T20:26:27Z",
-    "description": null,
+    "description": "Neovim plugin for running tests in Java projects",
     "isArchived": false,
     "lastCommit": "2024-08-05T18:40:26Z",
     "nameWithOwner": "tvntvn13/java-test-util.nvim",
@@ -32,6 +32,10 @@
     },
     "star": 1,
     "topics": [
+      "java",
+      "lua",
+      "neovim-plugin",
+      "neovim"
     ]
   },
   "domain": "github.com",

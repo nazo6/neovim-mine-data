@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Paste"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Paste"
+        },
+        {
+          "level": 3,
           "name": "Cyclic paste"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 36,
     "createdAt": "2022-03-01T12:40:46Z",
     "description": "Improved Yank and Put functionalities for Neovim",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 845,
+    "star": 855,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 182,
+    "commitCountLastYear": 207,
     "createdAt": "2024-05-04T09:33:14Z",
-    "description": " An easy to use Rest Client plugin for neovim written in LUA",
+    "description": " An easy to use HTTP-Rest-Client plugin for neovim written in LUA",
     "isArchived": false,
-    "lastCommit": "2024-08-31T13:40:10Z",
+    "lastCommit": "2024-09-20T18:15:07Z",
     "nameWithOwner": "lima1909/resty.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 8,
     "topics": [
+      "lua",
+      "neovim-plugin",
+      "http-client"
     ]
   },
   "domain": "github.com",

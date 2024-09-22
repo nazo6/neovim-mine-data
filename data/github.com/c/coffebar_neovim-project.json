@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 80,
+    "commitCountLastYear": 67,
     "createdAt": "2023-09-17T11:47:03Z",
-    "description": "Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope. ",
+    "description": "Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope or fzf-lua.. ",
     "isArchived": false,
-    "lastCommit": "2024-07-08T09:00:32Z",
+    "lastCommit": "2024-09-13T09:39:51Z",
     "nameWithOwner": "coffebar/neovim-project",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 179,
+    "star": 184,
     "topics": [
       "lua",
       "neovim",

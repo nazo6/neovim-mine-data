@@ -15,12 +15,12 @@
           "name": "Window Management"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "window.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 71,
+    "commitCountLastYear": 70,
     "createdAt": "2023-05-30T21:09:04Z",
     "description": "Easily create and manage predefined window layouts, bringing a new edge to your workflow",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 811,
+    "star": 829,
     "topics": [
       "neovim",
       "neovim-plugin",

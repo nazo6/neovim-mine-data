@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Bufferline"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 27,
+    "commitCountLastYear": 23,
     "createdAt": "2023-07-10T15:05:38Z",
     "description": "A simple, fancy tabline for Neovim.",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 77,
+    "star": 78,
     "topics": [
       "nvim",
       "awesome-neovim",

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Directory"
+        },
+        {
+          "level": 3,
+          "name": "z"
+        }
+      ],
+      "file": "directory.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-09-07T18:30:01Z",
+    "description": "Use `z` in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-09-07T18:32:09Z",
+    "nameWithOwner": "PriceHiller/z.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "z.nvim",
+  "owner": "PriceHiller",
+  "url": "https://github.com/PriceHiller/z.nvim"
+}

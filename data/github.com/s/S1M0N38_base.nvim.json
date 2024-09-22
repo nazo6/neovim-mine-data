@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua Development"
+        },
+        {
+          "level": 3,
+          "name": "Plugin Template"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 107,
+    "createdAt": "2024-01-10T21:58:43Z",
+    "description": "A template for Neovim plugin 🛠️",
+    "isArchived": false,
+    "lastCommit": "2024-09-21T15:41:47Z",
+    "nameWithOwner": "S1M0N38/base.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 49,
+    "topics": [
+      "neovim",
+      "nvim-plugin",
+      "template"
+    ]
+  },
+  "domain": "github.com",
+  "name": "base.nvim",
+  "owner": "S1M0N38",
+  "url": "https://github.com/S1M0N38/my-awesome-plugin.nvim"
+}

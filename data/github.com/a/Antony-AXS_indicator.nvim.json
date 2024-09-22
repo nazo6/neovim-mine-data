@@ -19,16 +19,16 @@
           "name": "Window Number"
         }
       ],
-      "file": "buffer_window_tab-management.md",
+      "file": "window.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 92,
+    "commitCountLastYear": 95,
     "createdAt": "2024-08-17T05:30:39Z",
     "description": "a neovim plugin for window indication.",
     "isArchived": false,
-    "lastCommit": "2024-09-01T09:59:43Z",
+    "lastCommit": "2024-09-02T11:32:24Z",
     "nameWithOwner": "Antony-AXS/indicator.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -43,7 +43,8 @@
       "nvim-lua",
       "neovim-config",
       "neovim-tab",
-      "neovim-window"
+      "neovim-window",
+      "vim"
     ]
   },
   "domain": "github.com",

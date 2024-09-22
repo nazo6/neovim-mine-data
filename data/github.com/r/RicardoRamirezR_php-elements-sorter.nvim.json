@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "PHP"
+        },
+        {
+          "level": 3,
+          "name": "Element sort"
+        }
+      ],
+      "file": "php.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-09-13T22:25:30Z",
+    "description": "The PHP Elements Sorter is a Neovim plugin that automatically sorts various PHP  elements within a buffer, such as namespace uses, traits, constants, and  properties. It can also remove unused imports and add spacing between  elements with different visibility modifiers.",
+    "isArchived": false,
+    "lastCommit": "2024-09-13T22:56:19Z",
+    "nameWithOwner": "RicardoRamirezR/php-elements-sorter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "php"
+    ]
+  },
+  "domain": "github.com",
+  "name": "php-elements-sorter.nvim",
+  "owner": "RicardoRamirezR",
+  "url": "https://github.com/RicardoRamirezR/php-elements-sorter.nvim"
+}

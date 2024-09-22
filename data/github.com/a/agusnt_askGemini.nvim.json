@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-09-06T12:39:42Z",
+    "description": "A Neovim Plugin to ask things to Gemini",
+    "isArchived": false,
+    "lastCommit": "2024-09-06T14:26:34Z",
+    "nameWithOwner": "agusnt/askGemini.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "askGemini.nvim",
+  "owner": "agusnt",
+  "url": "https://github.com/agusnt/askGemini.nvim"
+}

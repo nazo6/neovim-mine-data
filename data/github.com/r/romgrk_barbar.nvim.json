@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Bufferline"
         }
       ],
@@ -34,13 +38,13 @@
     "createdAt": "2020-10-22T10:32:07Z",
     "description": "The neovim tabline plugin.",
     "isArchived": false,
-    "lastCommit": "2024-08-13T19:14:07Z",
+    "lastCommit": "2024-09-18T21:58:44Z",
     "nameWithOwner": "romgrk/barbar.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2225,
+    "star": 2245,
     "topics": [
       "neovim",
       "neovim-plugin",

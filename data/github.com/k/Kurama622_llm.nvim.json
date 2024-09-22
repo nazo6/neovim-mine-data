@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "AI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -17,45 +31,35 @@
       ],
       "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "AI"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 59,
     "createdAt": "2024-08-17T14:08:38Z",
-    "description": "Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT).",
+    "description": "Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi).",
     "isArchived": false,
-    "lastCommit": "2024-08-31T04:27:09Z",
+    "lastCommit": "2024-09-22T09:42:29Z",
     "nameWithOwner": "Kurama622/llm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 9,
     "topics": [
       "chatgpt",
       "llm",
       "neovim",
       "neovim-plugin",
       "nvim",
-      "nvim-lua"
+      "nvim-lua",
+      "chatglm",
+      "glm",
+      "gpt",
+      "kimi"
     ]
   },
   "domain": "github.com",
   "name": "llm.nvim",
   "owner": "Kurama622",
-  "url": "https://github.com/StubbornVegeta/llm.nvim"
+  "url": "https://github.com/Kurama622/llm.nvim"
 }

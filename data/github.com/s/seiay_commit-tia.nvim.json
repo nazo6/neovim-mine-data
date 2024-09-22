@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        },
+        {
+          "level": 3,
+          "name": "pre-commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-09-08T00:36:12Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-09-10T14:09:18Z",
+    "nameWithOwner": "seiay/commit-tia.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commit-tia.nvim",
+  "owner": "seiay",
+  "url": "https://github.com/seiay/commit-tia.nvim"
+}

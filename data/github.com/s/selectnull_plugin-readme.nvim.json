@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Open README"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-09-13T09:24:06Z",
+    "description": "Lists Neovim plugins (installed by Lazy.nvim) and shows README files.",
+    "isArchived": false,
+    "lastCommit": "2024-09-13T19:25:09Z",
+    "nameWithOwner": "selectnull/plugin-readme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "plugin-readme.nvim",
+  "owner": "selectnull",
+  "url": "https://github.com/selectnull/plugin-readme.nvim"
+}

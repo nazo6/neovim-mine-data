@@ -20,24 +20,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 28,
     "createdAt": "2024-08-25T23:22:29Z",
     "description": "A Drawer plugin for Neovim. AKA \"persistent split\" / \"persistent window\".",
     "isArchived": false,
-    "lastCommit": "2024-09-01T01:57:45Z",
+    "lastCommit": "2024-09-21T13:41:03Z",
     "nameWithOwner": "mikew/nvim-drawer",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 21,
     "topics": [
       "drawer",
       "neovim-plugin",
       "nvim-plugin",
       "persistent",
       "split",
-      "window"
+      "window",
+      "neovim",
+      "nvim"
     ]
   },
   "domain": "github.com",

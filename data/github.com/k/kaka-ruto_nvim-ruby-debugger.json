@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Debug"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-09-06T12:34:17Z",
+    "description": "Debug Ruby and Rails applications on Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-09-08T21:02:07Z",
+    "nameWithOwner": "kaka-ruto/nvim-ruby-debugger",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ruby-debugger",
+  "owner": "kaka-ruto",
+  "url": "https://github.com/kaka-ruto/nvim-ruby-debugger"
+}

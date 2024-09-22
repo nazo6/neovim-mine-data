@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 12,
     "createdAt": "2024-05-02T18:44:48Z",
     "description": "📌 This plugin allows you to easily identify the value of a CSS variable from any other files.",
     "isArchived": false,
-    "lastCommit": "2024-08-29T23:13:43Z",
+    "lastCommit": "2024-09-12T00:09:28Z",
     "nameWithOwner": "farias-hecdin/CSSVarViewer",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 0,
+    "star": 1,
     "topics": [
       "lua",
       "nvim-plugin"

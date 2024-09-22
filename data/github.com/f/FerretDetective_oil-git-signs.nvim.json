@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2024-09-14T08:43:01Z",
+    "description": "Add git information about your files when working with oil.nvim.",
+    "isArchived": false,
+    "lastCommit": "2024-09-20T20:07:41Z",
+    "nameWithOwner": "FerretDetective/oil-git-signs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "git",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "oil-git-signs.nvim",
+  "owner": "FerretDetective",
+  "url": "https://github.com/FerretDetective/oil-git-signs.nvim"
+}

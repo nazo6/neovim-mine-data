@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "[Diff](./diff.md)"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-09-06T03:26:28Z",
+    "description": "Extention for codecompanion to enhance inline feature using mini.diff",
+    "isArchived": false,
+    "lastCommit": "2024-09-06T19:58:18Z",
+    "nameWithOwner": "bassamsdata/llmdiff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "llmdiff.nvim",
+  "owner": "bassamsdata",
+  "url": "https://github.com/bassamsdata/llmdiff.nvim"
+}
