@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        },
+        {
+          "level": 3,
+          "name": "prefix"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-10-17T14:57:41Z",
+    "description": "A Neovim plugin that aims to make conventional commits easier to use.",
+    "isArchived": false,
+    "lastCommit": "2024-10-21T07:27:24Z",
+    "nameWithOwner": "ViiEx/gcmh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gcmh.nvim",
+  "owner": "ViiEx",
+  "url": "https://github.com/ViiEx/gcmh.nvim"
+}

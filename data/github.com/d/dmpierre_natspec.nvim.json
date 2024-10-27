@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Solidity"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-10-12T11:40:25Z",
+    "description": "A small nvim utility for generating solidity natspec",
+    "isArchived": false,
+    "lastCommit": "2024-10-12T11:49:34Z",
+    "nameWithOwner": "dmpierre/natspec.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "natspec.nvim",
+  "owner": "dmpierre",
+  "url": "https://github.com/dmpierre/natspec.nvim"
+}

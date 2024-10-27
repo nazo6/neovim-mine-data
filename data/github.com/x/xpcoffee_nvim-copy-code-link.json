@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Copy with line info"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-10-07T22:38:06Z",
+    "description": "Neovim utility to copy the link to a remote repository",
+    "isArchived": false,
+    "lastCommit": "2024-10-07T22:42:33Z",
+    "nameWithOwner": "xpcoffee/nvim-copy-code-link",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-copy-code-link",
+  "owner": "xpcoffee",
+  "url": "https://github.com/xpcoffee/nvim-copy-code-link"
+}

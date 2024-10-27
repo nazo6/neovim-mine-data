@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-10-12T21:02:09Z",
+    "description": "A neovim plugin for developers working with multiple git commit standards",
+    "isArchived": false,
+    "lastCommit": "2024-10-17T12:16:42Z",
+    "nameWithOwner": "joseph-pq/committer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "git",
+      "gitmoji",
+      "neovim",
+      "neovim-plugin",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "committer.nvim",
+  "owner": "joseph-pq",
+  "url": "https://github.com/JosephPenaQuino/committer.nvim"
+}

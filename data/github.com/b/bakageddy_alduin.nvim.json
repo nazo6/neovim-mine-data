@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2024-01-15T19:20:15Z",
+    "description": "A Stupid Implementation of Alduin Colorscheme for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-01-27T13:47:40Z",
+    "nameWithOwner": "bakageddy/alduin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "alduin.nvim",
+  "owner": "bakageddy",
+  "url": "https://github.com/bakageddy/alduin.nvim"
+}

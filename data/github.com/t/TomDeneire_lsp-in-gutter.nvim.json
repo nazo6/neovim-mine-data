@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-09-27T07:09:05Z",
+    "description": "Display Neovim LSP diagnostics in gutter",
+    "isArchived": false,
+    "lastCommit": "2024-10-23T12:14:57Z",
+    "nameWithOwner": "TomDeneire/lsp-in-gutter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lsp",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-in-gutter.nvim",
+  "owner": "TomDeneire",
+  "url": "https://github.com/TomDeneire/lsp-in-gutter.nvim"
+}

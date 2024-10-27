@@ -34,23 +34,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 44,
     "createdAt": "2024-04-11T20:43:32Z",
     "description": "Track time spent coding in Neovim",
     "isArchived": false,
-    "lastCommit": "2024-09-17T00:40:12Z",
+    "lastCommit": "2024-10-20T23:30:46Z",
     "nameWithOwner": "ptdewey/pendulum-nvim",
     "primaryLanguage": {
       "color": "#00ADD8",
       "name": "Go"
     },
-    "star": 33,
+    "star": 63,
     "topics": [
       "neovim",
       "neovim-lua",
       "neovim-plugin",
       "golang",
-      "lua"
+      "lua",
+      "hacktoberfest"
     ]
   },
   "domain": "github.com",

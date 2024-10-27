@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "conceal"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 149,
+    "createdAt": "2024-09-25T05:06:44Z",
+    "description": "More powerful conceal for latex code with nevoid",
+    "isArchived": false,
+    "lastCommit": "2024-10-15T07:15:48Z",
+    "nameWithOwner": "dirichy/latex_concealer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "latex_concealer.nvim",
+  "owner": "dirichy",
+  "url": "https://github.com/dirichy/latex_concealer.nvim"
+}

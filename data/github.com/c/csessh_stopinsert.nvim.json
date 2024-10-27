@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Insert"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-10-05T10:54:34Z",
+    "description": "Do you often find yourself caught off guard idling in Insert mode instead of escaping to Normal mode like a true Vim user? Let this help you train yourself out of the bad habit. It also boots you out of Insert mode after certain amount of seconds of inactivity",
+    "isArchived": false,
+    "lastCommit": "2024-10-08T02:46:02Z",
+    "nameWithOwner": "csessh/stopinsert.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "stopinsert.nvim",
+  "owner": "csessh",
+  "url": "https://github.com/csessh/stopinsert.nvim"
+}

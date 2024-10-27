@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-10-21T07:48:30Z",
+    "description": "A minimal Neovim plugin to show and copy JSON paths of elements under your cursor using jq-compatible syntax",
+    "isArchived": false,
+    "lastCommit": "2024-10-23T13:02:08Z",
+    "nameWithOwner": "philippdrebes/jsonpath.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "jq",
+      "json",
+      "jsonpath",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jsonpath.nvim",
+  "owner": "philippdrebes",
+  "url": "https://github.com/philippdrebes/jsonpath.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-09-24T11:32:44Z",
+    "description": "JSON Path Picker is a Neovim plugin that allows users to easily navigate and copy content from specific paths in JSON files.",
+    "isArchived": false,
+    "lastCommit": "2024-09-27T02:24:30Z",
+    "nameWithOwner": "try-to-fly/json-path-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "json-path-picker.nvim",
+  "owner": "try-to-fly",
+  "url": "https://github.com/try-to-fly/json-path-picker.nvim"
+}

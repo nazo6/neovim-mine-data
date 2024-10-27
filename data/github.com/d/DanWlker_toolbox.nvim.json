@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2024-10-08T15:03:32Z",
+    "description": "A toolbox for neovim to put your custom neovim functions, all invokable from vim.ui.select!",
+    "isArchived": false,
+    "lastCommit": "2024-10-24T14:29:38Z",
+    "nameWithOwner": "DanWlker/toolbox.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 72,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toolbox.nvim",
+  "owner": "DanWlker",
+  "url": "https://github.com/DanWlker/toolbox.nvim"
+}

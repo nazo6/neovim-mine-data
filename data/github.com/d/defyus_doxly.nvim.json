@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "GPG"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-10-25T17:03:20Z",
+    "description": "Doxly.nvim provides GPG encryption with Base64 encoding. Securely encrypt your text with a password and get a single-line Base64 output that's easy to share and use.",
+    "isArchived": false,
+    "lastCommit": "2024-10-25T23:43:53Z",
+    "nameWithOwner": "defyus/doxly.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "doxly.nvim",
+  "owner": "defyus",
+  "url": "https://github.com/defyus/doxly.nvim"
+}

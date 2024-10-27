@@ -7,8 +7,12 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
         },
         {
           "level": 4,
@@ -20,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 74,
+    "commitCountLastYear": 25,
     "createdAt": "2023-09-29T22:30:47Z",
     "description": "Discord Rich Presence for Neovim (Fork of presence.nvim)",
     "isArchived": false,
-    "lastCommit": "2024-04-24T01:49:39Z",
+    "lastCommit": "2024-10-19T20:32:43Z",
     "nameWithOwner": "IogaMaster/neocord",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 83,
+    "star": 105,
     "topics": [
       "discord",
       "flake",

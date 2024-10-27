@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Pet"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-09-23T14:51:26Z",
+    "description": "a goose that rains terror on your vim IDE",
+    "isArchived": false,
+    "lastCommit": "2024-09-25T18:11:46Z",
+    "nameWithOwner": "The-Silent-One/goose.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "goose.nvim",
+  "owner": "The-Silent-One",
+  "url": "https://github.com/The-Silent-One/goose.nvim"
+}

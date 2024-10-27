@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2023-02-22T02:07:15Z",
+    "description": "Small neovim plugin to let me move horizontally as I please",
+    "isArchived": false,
+    "lastCommit": "2023-03-24T20:56:49Z",
+    "nameWithOwner": "shaneish/oatjump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "oatjump.nvim",
+  "owner": "shaneish",
+  "url": "https://github.com/UnsafeOats/oatjump.nvim"
+}

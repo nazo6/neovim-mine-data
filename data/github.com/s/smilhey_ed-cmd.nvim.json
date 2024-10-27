@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2024-10-19T14:52:08Z",
+    "description": "Neovim editable commandline ",
+    "isArchived": false,
+    "lastCommit": "2024-10-24T19:28:33Z",
+    "nameWithOwner": "smilhey/ed-cmd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ed-cmd.nvim",
+  "owner": "smilhey",
+  "url": "https://github.com/smilhey/ed-cmd.nvim"
+}

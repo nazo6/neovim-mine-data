@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-10-16T14:16:09Z",
+    "description": "Ripgrep source for blink.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-10-25T12:27:42Z",
+    "nameWithOwner": "niuiic/blink-cmp-rg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-rg.nvim",
+  "owner": "niuiic",
+  "url": "https://github.com/niuiic/blink-cmp-rg.nvim"
+}

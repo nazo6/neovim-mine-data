@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-09-27T14:41:42Z",
+    "description": "Neovim plugin for note taking and memorizing.",
+    "isArchived": false,
+    "lastCommit": "2024-10-08T06:24:50Z",
+    "nameWithOwner": "harukz/zanki.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zanki.nvim",
+  "owner": "harukz",
+  "url": "https://github.com/harukz/zanki.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Zed"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-09-28T12:28:15Z",
+    "description": "Neovim plugin to export active buffers to Zed",
+    "isArchived": false,
+    "lastCommit": "2024-09-28T17:57:40Z",
+    "nameWithOwner": "kogakure/export-to-zed.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "zed"
+    ]
+  },
+  "domain": "github.com",
+  "name": "export-to-zed.nvim",
+  "owner": "kogakure",
+  "url": "https://github.com/kogakure/export-to-zed.nvim"
+}

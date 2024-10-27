@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Annotation"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-10-24T02:38:05Z",
+    "description": "A Neovim plugin that allows you to add rich-formatted annotations to your code without using comments.",
+    "isArchived": false,
+    "lastCommit": "2024-10-24T05:03:24Z",
+    "nameWithOwner": "Sahas-Ananth/code_annotate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "code_annotate.nvim",
+  "owner": "Sahas-Ananth",
+  "url": "https://github.com/Sahas-Ananth/code_annotate.nvim"
+}

@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 6,
     "createdAt": "2024-09-04T13:33:20Z",
-    "description": null,
+    "description": "Blazingly fast action runner for NeoVim",
     "isArchived": false,
-    "lastCommit": "2024-09-05T15:18:57Z",
+    "lastCommit": "2024-10-15T13:56:54Z",
     "nameWithOwner": "Seba244c/run.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,9 @@
     },
     "star": 1,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "pydoc"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "venv"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 56,
+    "commitCountLastYear": 49,
     "createdAt": "2023-02-26T16:43:30Z",
     "description": "Allows selection of python virtual environment from within neovim",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 437,
+    "star": 464,
     "topics": [
     ]
   },

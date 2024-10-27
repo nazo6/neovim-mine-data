@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Indent"
+        },
+        {
+          "level": 3,
+          "name": "Indent Size"
+        }
+      ],
+      "file": "indent.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-10-06T16:10:12Z",
+    "description": "Indents your code with increased spacing per nested indent",
+    "isArchived": false,
+    "lastCommit": "2024-10-23T16:11:21Z",
+    "nameWithOwner": "suwuako/fibonaccindent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fibonaccindent.nvim",
+  "owner": "suwuako",
+  "url": "https://github.com/suwuako/fibonaccindent.nvim"
+}

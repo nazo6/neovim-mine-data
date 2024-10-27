@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Clojure"
+        },
+        {
+          "level": 4,
+          "name": "format"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-09-23T01:08:51Z",
+    "description": "Cljfmt based indentation function for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2024-10-07T20:14:40Z",
+    "nameWithOwner": "raystubbs/nvim-cljfmt-indents",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cljfmt-indents",
+  "owner": "raystubbs",
+  "url": "https://github.com/raystubbs/nvim-cljfmt-indents"
+}

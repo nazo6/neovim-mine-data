@@ -2,24 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "LSP Feature Extension UI"
-        },
-        {
-          "level": 4,
-          "name": "Code action"
-        }
       ],
-      "file": "lsp.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -27,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-08-10T20:31:33Z",
     "description": "WIP! Code Actions picker for telescope.nvim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-09-24T20:02:45Z",
     "nameWithOwner": "nyarthan/telescope-code-actions.nvim",
     "primaryLanguage": {

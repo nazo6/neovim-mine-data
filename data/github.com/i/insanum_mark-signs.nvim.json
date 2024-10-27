@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "sign"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-09-30T00:46:36Z",
+    "description": "View marks in the sign column.",
+    "isArchived": false,
+    "lastCommit": "2024-09-30T00:56:01Z",
+    "nameWithOwner": "insanum/mark-signs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mark-signs.nvim",
+  "owner": "insanum",
+  "url": "https://github.com/insanum/mark-signs.nvim"
+}

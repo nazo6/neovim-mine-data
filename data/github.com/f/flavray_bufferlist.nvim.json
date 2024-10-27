@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-10-11T11:23:11Z",
+    "description": "Bare-bones Neovim plugin to easily select a buffer.",
+    "isArchived": false,
+    "lastCommit": "2024-10-15T00:58:18Z",
+    "nameWithOwner": "flavray/bufferlist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferlist.nvim",
+  "owner": "flavray",
+  "url": "https://github.com/flavray/bufferlist.nvim"
+}

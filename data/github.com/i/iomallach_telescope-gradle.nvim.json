@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Gradle"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-10-12T08:26:06Z",
+    "description": "Simple telescope extension to pick gradle tasks and run them via built-in terminal",
+    "isArchived": false,
+    "lastCommit": "2024-10-12T10:02:03Z",
+    "nameWithOwner": "iomallach/telescope-gradle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-gradle.nvim",
+  "owner": "iomallach",
+  "url": "https://github.com/iomallach/telescope-gradle.nvim"
+}

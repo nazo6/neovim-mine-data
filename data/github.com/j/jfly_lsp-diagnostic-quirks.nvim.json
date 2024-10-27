@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hint"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-09-22T16:12:41Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-09-22T16:12:10Z",
+    "nameWithOwner": "jfly/lsp-diagnostic-quirks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-diagnostic-quirks.nvim",
+  "owner": "jfly",
+  "url": "https://github.com/jfly/lsp-diagnostic-quirks.nvim"
+}

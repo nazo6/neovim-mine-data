@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "pydoc"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "venv"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 6,
     "createdAt": "2023-10-20T13:20:31Z",
     "description": "Automatically handle Python virtualenvs for LSP",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
       "lsp",
       "lspconfig",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Snyk Code"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-10-04T18:18:05Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-10-05T21:14:14Z",
+    "nameWithOwner": "VinceDeslo/vulny.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vulny.nvim",
+  "owner": "VinceDeslo",
+  "url": "https://github.com/VinceDeslo/vulny.nvim"
+}

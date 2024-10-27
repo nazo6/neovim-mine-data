@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Number"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-10-12T15:27:19Z",
+    "description": "Toggle between relative and absolute line numbers based on mode",
+    "isArchived": false,
+    "lastCommit": "2024-10-12T15:41:36Z",
+    "nameWithOwner": "iiixio/nvim-dynamiclinenumbers",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dynamiclinenumbers",
+  "owner": "iiixio",
+  "url": "https://github.com/iiixio/nvim-dynamiclinenumbers"
+}

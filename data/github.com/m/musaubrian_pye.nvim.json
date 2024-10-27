@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "pydoc"
+        },
+        {
+          "level": 3,
+          "name": "venv"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-09-23T17:05:04Z",
+    "description": "python environments",
+    "isArchived": false,
+    "lastCommit": "2024-10-17T11:36:12Z",
+    "nameWithOwner": "musaubrian/pye.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pye.nvim",
+  "owner": "musaubrian",
+  "url": "https://github.com/musaubrian/pye.nvim"
+}

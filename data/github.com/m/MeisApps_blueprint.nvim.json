@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project Template"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-10-21T00:46:16Z",
+    "description": ":blue_book: Project manager and generator from templates for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-10-23T10:38:17Z",
+    "nameWithOwner": "MeisApps/blueprint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blueprint.nvim",
+  "owner": "MeisApps",
+  "url": "https://github.com/MeisApps/blueprint.nvim"
+}

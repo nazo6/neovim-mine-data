@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Signature Help"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-10-03T09:50:30Z",
+    "description": "A little (smart maybe) lsp signature helper for neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-10-09T07:26:38Z",
+    "nameWithOwner": "Dan7h3x/signup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "signup.nvim",
+  "owner": "Dan7h3x",
+  "url": "https://github.com/Dan7h3x/signup.nvim"
+}

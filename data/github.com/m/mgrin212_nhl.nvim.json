@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Sports"
+        },
+        {
+          "level": 3,
+          "name": "NHL"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-10-09T14:00:45Z",
+    "description": "View live NHL scores in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-10-11T17:10:25Z",
+    "nameWithOwner": "mgrin212/nhl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nhl.nvim",
+  "owner": "mgrin212",
+  "url": "https://github.com/mgrin212/nhl.nvim"
+}

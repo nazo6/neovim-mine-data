@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Other Buffer Switcher"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-10-02T19:08:50Z",
+    "description": "same folder, file cycle: Neovim plugin for quick cycling between related files within the same folder, such as code, templates, stylesheets, and test files.",
+    "isArchived": false,
+    "lastCommit": "2024-10-07T01:26:08Z",
+    "nameWithOwner": "ruhendrawan/same-folder-file-cycle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "same-folder-file-cycle.nvim",
+  "owner": "ruhendrawan",
+  "url": "https://github.com/ruhendrawan/same-folder-file-cycle.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screen Key (Show Typing key)"
+        },
+        {
+          "level": 4,
+          "name": "Code Image"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-09-27T12:07:05Z",
+    "description": "freeze wrapper for taking screenshots inside of neovim",
+    "isArchived": false,
+    "lastCommit": "2024-09-28T01:59:32Z",
+    "nameWithOwner": "jkellogg01/freeze.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "freeze.nvim",
+  "owner": "jkellogg01",
+  "url": "https://github.com/jkellogg01/freeze.nvim"
+}

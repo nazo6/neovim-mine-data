@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "JetBrains"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-09-22T10:24:33Z",
+    "description": "nvim plugin to run shell files in a specific directory for JetBrain application.",
+    "isArchived": false,
+    "lastCommit": "2024-09-22T12:11:29Z",
+    "nameWithOwner": "hisasann/run-storm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "run-storm.nvim",
+  "owner": "hisasann",
+  "url": "https://github.com/hisasann/run-storm.nvim"
+}

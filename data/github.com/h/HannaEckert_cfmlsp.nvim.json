@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "CFML"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-10-03T07:36:36Z",
+    "description": "Hacky cfml lsp adapter for nvim, written in lua.",
+    "isArchived": false,
+    "lastCommit": "2024-10-03T22:16:58Z",
+    "nameWithOwner": "HannaEckert/cfmlsp.nvim",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cfmlsp.nvim",
+  "owner": "HannaEckert",
+  "url": "https://github.com/HannaEckert/cfmlsp.nvim"
+}

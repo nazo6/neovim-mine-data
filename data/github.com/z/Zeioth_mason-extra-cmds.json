@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "LSP, DAP, linter, formatter"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2024-03-10T18:15:46Z",
+    "description": "Provides the command :MasonUpdateAll",
+    "isArchived": false,
+    "lastCommit": "2024-10-09T11:40:42Z",
+    "nameWithOwner": "Zeioth/mason-extra-cmds",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "nvim-plugin",
+      "nvim-plugins",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mason-extra-cmds",
+  "owner": "Zeioth",
+  "url": "https://github.com/Zeioth/mason-extra-cmds"
+}

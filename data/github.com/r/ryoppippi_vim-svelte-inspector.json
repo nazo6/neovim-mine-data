@@ -20,9 +20,9 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 2,
     "createdAt": "2023-10-18T13:08:19Z",
-    "description": null,
+    "description": "Use Svelte Inspector in Vim/Neovim!",
     "isArchived": false,
     "lastCommit": "2024-09-02T09:56:22Z",
     "nameWithOwner": "ryoppippi/vim-svelte-inspector",
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 8,
     "topics": [
       "neovim-plugin",
       "nvim-plugin",

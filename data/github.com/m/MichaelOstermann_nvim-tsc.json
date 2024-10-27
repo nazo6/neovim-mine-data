@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "tsc(TypeScript compiler)"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-10-13T12:33:56Z",
+    "description": "A Neovim plugin to interact with the TypeScript compiler (tsc)",
+    "isArchived": false,
+    "lastCommit": "2024-10-15T19:54:23Z",
+    "nameWithOwner": "MichaelOstermann/nvim-tsc",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "typescript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tsc",
+  "owner": "MichaelOstermann",
+  "url": "https://github.com/MichaelOstermann/nvim-tsc"
+}

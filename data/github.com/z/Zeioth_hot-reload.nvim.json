@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "Reload Configuration"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2024-09-15T18:58:53Z",
+    "description": "Reload your neovim config on the fly! It works with any lua file.",
+    "isArchived": false,
+    "lastCommit": "2024-10-09T23:15:44Z",
+    "nameWithOwner": "Zeioth/hot-reload.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+      "config",
+      "configuration",
+      "hot",
+      "load",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim-plugin",
+      "nvim-plugins",
+      "reload",
+      "hot-reload"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hot-reload.nvim",
+  "owner": "Zeioth",
+  "url": "https://github.com/Zeioth/hot-reload.nvim"
+}

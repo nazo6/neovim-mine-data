@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "HL7"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-10-24T19:59:25Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-10-24T23:22:18Z",
+    "nameWithOwner": "hamaluik/hl7-hud.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hl7-hud.nvim",
+  "owner": "hamaluik",
+  "url": "https://github.com/hamaluik/hl7-hud.nvim"
+}

@@ -8,14 +8,14 @@
         },
         {
           "level": 2,
-          "name": "Convert"
+          "name": "CSS"
         },
         {
           "level": 3,
-          "name": "Pixel"
+          "name": "pixel size"
         }
       ],
-      "file": "convert.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -26,19 +26,19 @@
         },
         {
           "level": 2,
-          "name": "CSS"
+          "name": "Convert"
         },
         {
           "level": 3,
-          "name": "pixel size"
+          "name": "Pixel"
         }
       ],
-      "file": "js_ts.md",
+      "file": "convert.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 33,
+    "commitCountLastYear": 13,
     "createdAt": "2023-10-25T21:25:43Z",
     "description": "A Neovim plugin written in lua to convert px to rem as you type. It also provide commands and keymaps to convert px to rem and a virtual text to visualize your rem values.",
     "isArchived": false,
@@ -62,5 +62,5 @@
   "domain": "github.com",
   "name": "nvim-px-to-rem",
   "owner": "jsongerber",
-  "url": "https://github.com/jsongerber/nvim-px-to-rem"
+  "url": "https://github.com/Jsongerber/nvim-px-to-rem"
 }

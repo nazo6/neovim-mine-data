@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-09-26T07:38:59Z",
+    "description": "On-demand AI integration for Neovim. Send, replace, and prompt code with ease.",
+    "isArchived": false,
+    "lastCommit": "2024-09-27T03:50:03Z",
+    "nameWithOwner": "KroneCorylus/InvokeAI.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "InvokeAI.nvim",
+  "owner": "KroneCorylus",
+  "url": "https://github.com/KroneCorylus/InvokeAI.nvim"
+}

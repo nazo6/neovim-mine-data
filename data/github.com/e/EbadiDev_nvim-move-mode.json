@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Line Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-10-14T08:14:05Z",
+    "description": "A Neovim plugin that allows you to move lines and selections up and down, similar to Visual Studio Code's Alt+↑/↓ functionality.",
+    "isArchived": false,
+    "lastCommit": "2024-10-14T08:21:06Z",
+    "nameWithOwner": "EbadiDev/nvim-move-mode",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-move-mode",
+  "owner": "EbadiDev",
+  "url": "https://github.com/EbadiDev/nvim-move-mode"
+}

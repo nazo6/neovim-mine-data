@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CSS"
+        },
+        {
+          "level": 3,
+          "name": "SCSS"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-10-24T12:34:12Z",
+    "description": "A plugin for Neovim that generates an SCSS skeleton based on allocated HTML code.",
+    "isArchived": false,
+    "lastCommit": "2024-10-24T15:12:32Z",
+    "nameWithOwner": "mr-scrpt/html-to-scss-skelet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "html-to-scss-skelet.nvim",
+  "owner": "mr-scrpt",
+  "url": "https://github.com/mr-scrpt/html-to-scss-skelet.nvim"
+}

@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Language specific"
         },
         {
@@ -35,20 +17,38 @@
       ],
       "file": "language-specific.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "(requires Neovim 0.5)"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 148,
+    "commitCountLastYear": 143,
     "createdAt": "2022-10-15T14:18:38Z",
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "isArchived": false,
-    "lastCommit": "2024-09-22T00:25:38Z",
+    "lastCommit": "2024-10-27T00:21:58Z",
     "nameWithOwner": "mrcjkb/haskell-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 453,
+    "star": 472,
     "topics": [
       "haskell",
       "lsp",
@@ -65,5 +65,5 @@
   "domain": "github.com",
   "name": "haskell-tools.nvim",
   "owner": "mrcjkb",
-  "url": "https://github.com/mrcjkb/haskell-tools.nvim"
+  "url": "https://github.com/MrcJkb/haskell-tools.nvim"
 }

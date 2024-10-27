@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "pydoc"
+        },
+        {
+          "level": 3,
+          "name": "Kedro"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-10-24T04:22:20Z",
+    "description": "Neovim plugin for working with Kedro.",
+    "isArchived": false,
+    "lastCommit": "2024-10-27T03:42:09Z",
+    "nameWithOwner": "galenseilis/nvim-kedro",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-kedro",
+  "owner": "galenseilis",
+  "url": "https://github.com/galenseilis/nvim-kedro"
+}

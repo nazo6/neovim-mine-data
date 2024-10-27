@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Search"
+        },
+        {
+          "level": 2,
+          "name": "Window local search"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-10-20T12:32:54Z",
+    "description": "A window local search neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2024-10-24T14:17:14Z",
+    "nameWithOwner": "xiaoqixian/winlocal-search.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "winlocal-search.nvim",
+  "owner": "xiaoqixian",
+  "url": "https://github.com/xiaoqixian/winlocal-search.nvim"
+}

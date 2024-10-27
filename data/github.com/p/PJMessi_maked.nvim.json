@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Makefile"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-10-03T02:42:59Z",
+    "description": "Simple neovim plugin to browse through Makefile commands and execute them.",
+    "isArchived": false,
+    "lastCommit": "2024-10-03T10:47:40Z",
+    "nameWithOwner": "PJMessi/maked.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "maked.nvim",
+  "owner": "PJMessi",
+  "url": "https://github.com/PJMessi/maked.nvim"
+}

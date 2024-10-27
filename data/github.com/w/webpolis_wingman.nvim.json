@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2024-10-19T21:36:10Z",
+    "description": "Enhance your Neovim experience with AI-powered coding assistance. Seamlessly integrate a Large Language Model into your workflow for smarter, context-aware code suggestions and improvements",
+    "isArchived": false,
+    "lastCommit": "2024-10-25T16:16:34Z",
+    "nameWithOwner": "webpolis/wingman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "code",
+      "coding",
+      "coding-assistant",
+      "copilot",
+      "ide",
+      "llm",
+      "neovim",
+      "openai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wingman.nvim",
+  "owner": "webpolis",
+  "url": "https://github.com/webpolis/wingman.nvim"
+}

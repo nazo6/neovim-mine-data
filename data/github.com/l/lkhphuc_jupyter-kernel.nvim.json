@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "pydoc"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Jupyter"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2023-02-24T00:03:07Z",
     "description": "Get (IPython) Jupyter kernel completion suggestions and object inspection into Neovim.",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 75,
+    "star": 76,
     "topics": [
       "ipython",
       "jupyter",

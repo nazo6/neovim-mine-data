@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Kotlin"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2024-10-08T19:15:57Z",
+    "description": "Neovim plugin providing LuaSnip snippets for Kotlin and for an opinionated selection of Kotlin libraries",
+    "isArchived": false,
+    "lastCommit": "2024-10-21T22:24:12Z",
+    "nameWithOwner": "franckrasolo/luasnip4k.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "http4k",
+      "kotlin",
+      "lua",
+      "luasnip",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "luasnip4k.nvim",
+  "owner": "franckrasolo",
+  "url": "https://github.com/franckrasolo/luasnip4k.nvim"
+}

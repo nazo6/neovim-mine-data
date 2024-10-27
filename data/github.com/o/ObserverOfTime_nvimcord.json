@@ -7,8 +7,12 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
         },
         {
           "level": 4,
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 18,
+    "star": 19,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-09-25T06:27:39Z",
+    "description": "A plugin for Neovim for jumping between open buffers",
+    "isArchived": false,
+    "lastCommit": "2024-09-28T08:34:53Z",
+    "nameWithOwner": "johanneswolfgruber/switcher.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "switcher.nvim",
+  "owner": "johanneswolfgruber",
+  "url": "https://github.com/johanneswolfgruber/switcher.nvim"
+}

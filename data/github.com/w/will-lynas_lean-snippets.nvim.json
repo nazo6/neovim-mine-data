@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Lean"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-10-08T13:24:29Z",
+    "description": "📐 Neovim snippets for Lean",
+    "isArchived": false,
+    "lastCommit": "2024-10-10T22:31:16Z",
+    "nameWithOwner": "will-lynas/lean-snippets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lean",
+      "luasnip",
+      "neovim",
+      "nvim",
+      "snippets"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lean-snippets.nvim",
+  "owner": "will-lynas",
+  "url": "https://github.com/will-lynas/lean-snippets.nvim"
+}

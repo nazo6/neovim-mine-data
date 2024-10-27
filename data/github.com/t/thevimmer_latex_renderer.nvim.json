@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "Preview"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-09-22T06:23:44Z",
+    "description": "renders latex inside nvim as images",
+    "isArchived": false,
+    "lastCommit": "2024-09-22T14:40:13Z",
+    "nameWithOwner": "thevimmer/latex_renderer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "latex_renderer.nvim",
+  "owner": "thevimmer",
+  "url": "https://github.com/thevimmer/latex_renderer.nvim"
+}

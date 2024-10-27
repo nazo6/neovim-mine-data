@@ -12,11 +12,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 47,
     "createdAt": "2024-09-19T13:18:28Z",
-    "description": "Work In Progress - Slowly being updated",
+    "description": "Streamline your Git workflow in Neovim. Effortlessly commit, push, and generate AI-powered commit messages with OpenAI or Gemini.",
     "isArchived": false,
-    "lastCommit": "2024-09-20T14:45:10Z",
+    "lastCommit": "2024-09-28T12:46:29Z",
     "nameWithOwner": "goncaloalves/gitglide.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -24,6 +24,8 @@
     },
     "star": 1,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

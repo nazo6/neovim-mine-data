@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Pull Request"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2024-10-01T20:41:27Z",
+    "description": "Mai Pull Request is a Neovim plugin that helps you generate commit messages and pull requests directly from your Neovim editor.",
+    "isArchived": false,
+    "lastCommit": "2024-10-16T06:19:00Z",
+    "nameWithOwner": "ryanvu/mai_pr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "openai-api"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mai_pr.nvim",
+  "owner": "ryanvu",
+  "url": "https://github.com/ryanvu/mai_pr.nvim"
+}

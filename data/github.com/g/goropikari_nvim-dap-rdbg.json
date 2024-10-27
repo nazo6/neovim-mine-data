@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-09-23T07:18:44Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-10-09T17:03:43Z",
+    "nameWithOwner": "goropikari/nvim-dap-rdbg",
+    "primaryLanguage": {
+      "color": "#701516",
+      "name": "Ruby"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-rdbg",
+  "owner": "goropikari",
+  "url": "https://github.com/goropikari/nvim-dap-rdbg"
+}

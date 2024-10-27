@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-09-23T15:25:55Z",
+    "description": "A simple UI that can be used to ergonomically control the \"exception breakpoints\" feature of the debugger adapter protocol",
+    "isArchived": false,
+    "lastCommit": "2024-09-23T18:54:29Z",
+    "nameWithOwner": "lucaSartore/nvim-dap-exception-breakpoints",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "debugging",
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "nvim-dap",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-exception-breakpoints",
+  "owner": "lucaSartore",
+  "url": "https://github.com/lucaSartore/nvim-dap-exception-breakpoints"
+}

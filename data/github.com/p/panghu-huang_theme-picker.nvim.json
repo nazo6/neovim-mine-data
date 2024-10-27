@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-09-22T01:11:09Z",
+    "description": "A theme selection plugin for Neovim that allows users to easily choose and apply different color schemes.",
+    "isArchived": false,
+    "lastCommit": "2024-09-22T01:18:18Z",
+    "nameWithOwner": "panghu-huang/theme-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "colorscheme-previewer",
+      "nvim-plugin",
+      "theme-switcher",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "theme-picker.nvim",
+  "owner": "panghu-huang",
+  "url": "https://github.com/panghu-huang/theme-picker.nvim"
+}

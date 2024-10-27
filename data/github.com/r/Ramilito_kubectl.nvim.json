@@ -20,19 +20,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 431,
+    "commitCountLastYear": 553,
     "createdAt": "2024-05-10T09:15:53Z",
-    "description": null,
+    "description": "⎈ Streamline your Kubernetes management within Neovim—control and monitor your cluster seamlessly, all without leaving your coding environment.",
     "isArchived": false,
-    "lastCommit": "2024-09-22T09:26:01Z",
+    "lastCommit": "2024-10-27T06:15:28Z",
     "nameWithOwner": "Ramilito/kubectl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 168,
+    "star": 307,
     "topics": [
-      "neovim-plugin"
+      "neovim-plugin",
+      "kubernetes"
     ]
   },
   "domain": "github.com",

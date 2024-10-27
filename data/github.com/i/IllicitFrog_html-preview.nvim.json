@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "HTML"
+        },
+        {
+          "level": 3,
+          "name": "live server"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2024-09-26T19:58:39Z",
+    "description": "Html live preview for neovim v0.9 or greater.",
+    "isArchived": false,
+    "lastCommit": "2024-09-30T22:08:34Z",
+    "nameWithOwner": "IllicitFrog/html-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "html-preview.nvim",
+  "owner": "IllicitFrog",
+  "url": "https://github.com/IllicitFrog/html-preview.nvim"
+}

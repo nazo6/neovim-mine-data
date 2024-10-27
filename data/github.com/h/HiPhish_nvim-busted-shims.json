@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Testing"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-09-12T22:35:33Z",
+    "description": "(Mirror) Minimal command-line adapters to facilitate writing Neovim plugins tests using the busted Lua test framework.",
+    "isArchived": false,
+    "lastCommit": "2024-09-22T21:42:47Z",
+    "nameWithOwner": "HiPhish/nvim-busted-shims",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-busted-shims",
+  "owner": "HiPhish",
+  "url": "https://github.com/HiPhish/nvim-busted-shims"
+}

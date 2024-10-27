@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-10-23T22:43:38Z",
+    "description": "A plugin that helps you jump between files paths in your sibling tmux pane.",
+    "isArchived": false,
+    "lastCommit": "2024-10-26T14:45:31Z",
+    "nameWithOwner": "canova/tmux-file-jump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "fzf-lua",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "telescope",
+      "tmux"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-file-jump.nvim",
+  "owner": "canova",
+  "url": "https://github.com/canova/tmux-jump.nvim"
+}

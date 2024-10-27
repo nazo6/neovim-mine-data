@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "insert pairs"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-09-23T04:15:08Z",
+    "description": "Auto pairs plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-09-23T04:11:00Z",
+    "nameWithOwner": "cjcarrick/pairs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pairs.nvim",
+  "owner": "cjcarrick",
+  "url": "https://github.com/cjcarrick/pairs.nvim"
+}

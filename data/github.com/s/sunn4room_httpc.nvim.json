@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "HTTP"
+        },
+        {
+          "level": 4,
+          "name": "Request"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2024-09-24T16:29:31Z",
+    "description": "This neovim plugin just do one thing: send http request under cursor and return the http response to you.",
+    "isArchived": false,
+    "lastCommit": "2024-09-27T03:57:47Z",
+    "nameWithOwner": "sunn4room/httpc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "http-client",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "httpc.nvim",
+  "owner": "sunn4room",
+  "url": "https://github.com/sunn4room/httpc.nvim"
+}

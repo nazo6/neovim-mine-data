@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "eslint"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-10-23T06:16:59Z",
+    "description": "An ESLint plugin for Neovim, using VSCode ESLint LSP and native nvim LSP client",
+    "isArchived": false,
+    "lastCommit": "2024-10-26T20:06:17Z",
+    "nameWithOwner": "esmuellert/nvim-eslint",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "eslint",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-eslint",
+  "owner": "esmuellert",
+  "url": "https://github.com/esmuellert/nvim-eslint"
+}

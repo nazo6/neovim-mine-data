@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-10-10T11:51:30Z",
+    "description": "A little (smart maybe) terminal plugin for neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-10-12T11:59:47Z",
+    "nameWithOwner": "Dan7h3x/neaterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "terminal",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neaterm.nvim",
+  "owner": "Dan7h3x",
+  "url": "https://github.com/Dan7h3x/neaterm.nvim"
+}

@@ -20,21 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 298,
+    "commitCountLastYear": 252,
     "createdAt": "2023-10-21T01:37:42Z",
     "description": "Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
     "isArchived": false,
-    "lastCommit": "2024-09-15T03:59:58Z",
+    "lastCommit": "2024-10-22T14:56:44Z",
     "nameWithOwner": "jellydn/hurl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 153,
+    "star": 157,
     "topics": [
       "hurl",
       "neovim",
-      "neovim-plugin"
+      "neovim-plugin",
+      "hacktoberfest"
     ]
   },
   "domain": "github.com",

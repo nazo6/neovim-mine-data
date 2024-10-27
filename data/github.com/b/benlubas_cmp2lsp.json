@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "nvim-cmp extension"
+        },
+        {
+          "level": 4,
+          "name": "nvim-cmp sources"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-10-05T02:35:15Z",
+    "description": "use nvim-cmp sources as if they were native LSP sources (mostly)",
+    "isArchived": false,
+    "lastCommit": "2024-10-09T13:45:08Z",
+    "nameWithOwner": "benlubas/cmp2lsp",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp2lsp",
+  "owner": "benlubas",
+  "url": "https://github.com/benlubas/cmp2lsp"
+}

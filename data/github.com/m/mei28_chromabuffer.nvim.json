@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Bufferline"
+        }
+      ],
+      "file": "bufferline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-10-02T07:30:44Z",
+    "description": "✨ ChromaBuffer is a Neovim plugin that provides dynamic color codes based on the currently set colorscheme.",
+    "isArchived": false,
+    "lastCommit": "2024-10-02T07:33:08Z",
+    "nameWithOwner": "mei28/chromabuffer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "nvim-plugin",
+      "nvim-plugins",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chromabuffer.nvim",
+  "owner": "mei28",
+  "url": "https://github.com/mei28/chromabuffer.nvim"
+}

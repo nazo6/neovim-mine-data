@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-10-15T08:32:49Z",
+    "description": ":zap: fast, typo-resistant, fuzzy, simplistic LSP auto-completion plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-10-17T07:50:37Z",
+    "nameWithOwner": "hanspinckaers/zap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zap.nvim",
+  "owner": "hanspinckaers",
+  "url": "https://github.com/hanspinckaers/zap.nvim"
+}

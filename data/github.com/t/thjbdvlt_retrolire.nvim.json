@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Book"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-10-11T17:25:49Z",
+    "description": "neovim plugin for retrolire bibliography manager",
+    "isArchived": false,
+    "lastCommit": "2024-10-13T15:24:18Z",
+    "nameWithOwner": "thjbdvlt/retrolire.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "bibliography",
+      "bibliography-management",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "retrolire.nvim",
+  "owner": "thjbdvlt",
+  "url": "https://github.com/thjbdvlt/retrolire.nvim"
+}

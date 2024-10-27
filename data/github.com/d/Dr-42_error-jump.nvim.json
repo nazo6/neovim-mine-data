@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 16,
     "createdAt": "2023-11-20T19:38:39Z",
     "description": "Gives basic functionality for error messages with format filename:line:column",
     "isArchived": false,
-    "lastCommit": "2024-02-09T11:11:47Z",
+    "lastCommit": "2024-10-05T23:24:56Z",
     "nameWithOwner": "Dr-42/error-jump.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 8,
     "topics": [
+      "lua",
+      "neovim-plugin",
+      "compilation-mode"
     ]
   },
   "domain": "github.com",

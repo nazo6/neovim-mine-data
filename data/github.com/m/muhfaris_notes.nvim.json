@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2024-10-18T01:09:26Z",
+    "description": "Note Taking (Notes) for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-10-25T11:48:28Z",
+    "nameWithOwner": "muhfaris/notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "note-taking",
+      "notes",
+      "simple-notes"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes.nvim",
+  "owner": "muhfaris",
+  "url": "https://github.com/muhfaris/notes.nvim"
+}

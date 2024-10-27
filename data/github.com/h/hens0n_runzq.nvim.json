@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Zed"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-10-05T00:46:03Z",
+    "description": "Run zq query in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-10-05T00:47:00Z",
+    "nameWithOwner": "hens0n/runzq.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "runzq.nvim",
+  "owner": "hens0n",
+  "url": "https://github.com/hens0n/runzq.nvim"
+}

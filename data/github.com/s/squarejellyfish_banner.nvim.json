@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup screen (DashBoard)"
+        },
+        {
+          "level": 3,
+          "name": "Logo"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-10-03T06:24:45Z",
+    "description": "A light weight neovim greeter less than 200 lines.",
+    "isArchived": false,
+    "lastCommit": "2024-10-03T16:15:03Z",
+    "nameWithOwner": "squarejellyfish/banner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "banner.nvim",
+  "owner": "squarejellyfish",
+  "url": "https://github.com/squarejellyfish/banner.nvim"
+}

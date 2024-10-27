@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Window Manager (Desktop Manager)"
+        },
+        {
+          "level": 5,
+          "name": "Hyprland"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-09-30T20:37:05Z",
+    "description": "Easier Foreign-Language writing with Neovim+Hyprland",
+    "isArchived": false,
+    "lastCommit": "2024-10-02T19:25:46Z",
+    "nameWithOwner": "rgarber11/hyprland-keymap-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hyprland-keymap-picker.nvim",
+  "owner": "rgarber11",
+  "url": "https://github.com/rgarber11/hyprland-keymap-picker.nvim"
+}

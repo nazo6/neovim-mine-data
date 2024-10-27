@@ -20,13 +20,16 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2024-07-18T15:53:52Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-07-18T15:53:54Z",
+    "lastCommit": "2024-10-05T07:53:40Z",
     "nameWithOwner": "ben-smyth/kustomize.nvim",
-    "primaryLanguage": null,
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
     "star": 0,
     "topics": [
     ]

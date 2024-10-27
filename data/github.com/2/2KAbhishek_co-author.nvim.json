@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 9,
     "createdAt": "2022-12-21T04:26:18Z",
     "description": "Quickly add co-authors to commits 💻🪄",
     "isArchived": false,
@@ -53,7 +53,8 @@
       "pairing",
       "plugin",
       "utility",
-      "vim"
+      "vim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

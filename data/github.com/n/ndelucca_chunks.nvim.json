@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-10-12T03:25:41Z",
+    "description": "Create personalized chunks of text to paste directly in your buffers. ",
+    "isArchived": false,
+    "lastCommit": "2024-10-15T03:25:54Z",
+    "nameWithOwner": "ndelucca/chunks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chunks.nvim",
+  "owner": "ndelucca",
+  "url": "https://github.com/ndelucca/chunks.nvim"
+}

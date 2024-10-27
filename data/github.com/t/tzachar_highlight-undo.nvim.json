@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 8,
     "createdAt": "2023-06-08T09:39:22Z",
-    "description": "Highlight changed text after Undo / Redo operations",
+    "description": "Highlight changed text after any text changing operation",
     "isArchived": false,
-    "lastCommit": "2024-05-06T08:03:21Z",
+    "lastCommit": "2024-10-20T12:12:23Z",
     "nameWithOwner": "tzachar/highlight-undo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 275,
+    "star": 285,
     "topics": [
       "lua",
       "neovim",

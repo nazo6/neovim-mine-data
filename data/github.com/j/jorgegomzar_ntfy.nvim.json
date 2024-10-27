@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "ntfy"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-10-25T09:25:19Z",
+    "description": "Subscribe to NTFY topics inside of Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-10-26T14:31:18Z",
+    "nameWithOwner": "jorgegomzar/ntfy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ntfy.nvim",
+  "owner": "jorgegomzar",
+  "url": "https://github.com/jorgegomzar/ntfy.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-10-15T10:37:11Z",
+    "description": "Random color schemes in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2024-10-15T11:44:06Z",
+    "nameWithOwner": "jdtron/randomcs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "randomcs.nvim",
+  "owner": "jdtron",
+  "url": "https://github.com/jdtron/randomcs.nvim"
+}

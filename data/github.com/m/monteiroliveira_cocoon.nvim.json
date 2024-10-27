@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-09-30T00:07:22Z",
+    "description": "Float \"terminal\" focused on executing scripts inside nvim",
+    "isArchived": false,
+    "lastCommit": "2024-10-04T02:55:02Z",
+    "nameWithOwner": "monteiroliveira/cocoon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cocoon.nvim",
+  "owner": "monteiroliveira",
+  "url": "https://github.com/monteiroliveira/cocoon.nvim"
+}

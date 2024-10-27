@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-10-14T06:39:21Z",
+    "description": "Display Spotify data inside Neovim!",
+    "isArchived": false,
+    "lastCommit": "2024-10-18T03:35:19Z",
+    "nameWithOwner": "externalhost0/spotty.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "spotify-api",
+      "spotify-web-api"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spotty.nvim",
+  "owner": "externalhost0",
+  "url": "https://github.com/externalhost0/spotty.nvim"
+}

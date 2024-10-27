@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Apple II"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2024-09-21T16:05:15Z",
+    "description": "Apple II cross development for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-10-19T12:53:30Z",
+    "nameWithOwner": "dfgordon/nvim-a2-pack",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "apple2",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-a2-pack",
+  "owner": "dfgordon",
+  "url": "https://github.com/dfgordon/nvim-a2-pack"
+}

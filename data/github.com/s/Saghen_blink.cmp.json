@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 280,
+    "createdAt": "2024-07-31T01:56:33Z",
+    "description": "Performant, batteries-included completion plugin for Neovim ",
+    "isArchived": false,
+    "lastCommit": "2024-10-26T01:54:02Z",
+    "nameWithOwner": "Saghen/blink.cmp",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 867,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink.cmp",
+  "owner": "Saghen",
+  "url": "https://github.com/Saghen/blink.cmp"
+}

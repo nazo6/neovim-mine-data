@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Number"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-10-17T04:58:08Z",
+    "description": "A Neovim plugin that automatically hides line numbers when entering terminal mode and restores them when leaving.",
+    "isArchived": false,
+    "lastCommit": "2024-10-17T05:13:11Z",
+    "nameWithOwner": "Sayyidalijufri/termlinehide.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "termlinehide.nvim",
+  "owner": "Sayyidalijufri",
+  "url": "https://github.com/Sayyidalijufri/termlinehide.nvim"
+}

@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Web"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Outline"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 11,
     "createdAt": "2023-10-10T17:17:20Z",
     "description": "Neovim plugin for Outline",
     "isArchived": false,

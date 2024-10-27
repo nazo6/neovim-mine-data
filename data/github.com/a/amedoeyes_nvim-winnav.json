@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Window Manager (Desktop Manager)"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-10-24T04:16:19Z",
+    "description": "Simple plugin to seamlessly navigate between Neovim windows and your window manager.",
+    "isArchived": false,
+    "lastCommit": "2024-10-25T19:57:33Z",
+    "nameWithOwner": "amedoeyes/nvim-winnav",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-winnav",
+  "owner": "amedoeyes",
+  "url": "https://github.com/amedoeyes/nvim-winnav"
+}

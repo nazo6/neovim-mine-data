@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Copy with line info"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-10-05T18:41:02Z",
+    "description": "Copy code lines in a way that is more helpful to humans. Coping will have the repo, branch, line numbers, file and copied code in markdown format. ",
+    "isArchived": false,
+    "lastCommit": "2024-10-25T05:09:41Z",
+    "nameWithOwner": "h-cow/nvim-cow-copy-lines",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cow-copy-lines",
+  "owner": "h-cow",
+  "url": "https://github.com/h-cow/nvim-cow-copy-lines"
+}

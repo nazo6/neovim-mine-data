@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown table"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2024-09-28T16:08:31Z",
+    "description": "Smallish plugin to format markdown tables in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-05-27T21:16:09Z",
+    "nameWithOwner": "nuhakala/nvim-simple-tables",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-simple-tables",
+  "owner": "nuhakala",
+  "url": "https://github.com/nuhakala/nvim-simple-tables"
+}

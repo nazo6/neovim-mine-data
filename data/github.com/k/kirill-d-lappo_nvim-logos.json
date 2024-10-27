@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup screen (DashBoard)"
+        },
+        {
+          "level": 3,
+          "name": "Logo"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-10-01T14:42:16Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-10-13T17:40:25Z",
+    "nameWithOwner": "kirill-d-lappo/nvim-logos",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-logos",
+  "owner": "kirill-d-lappo",
+  "url": "https://github.com/kirill-d-lappo/nvim-logos"
+}

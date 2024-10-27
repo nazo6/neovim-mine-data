@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Indent"
+        },
+        {
+          "level": 3,
+          "name": "indentkeys"
+        }
+      ],
+      "file": "indent.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-11-06T12:41:28Z",
+    "description": "Dynamically set `indentkeys` using tree-sitter for neovim.",
+    "isArchived": false,
+    "lastCommit": "2022-11-13T04:27:40Z",
+    "nameWithOwner": "yioneko/nvim-dinkeys",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dinkeys",
+  "owner": "yioneko",
+  "url": "https://github.com/yioneko/nvim-dinkeys"
+}

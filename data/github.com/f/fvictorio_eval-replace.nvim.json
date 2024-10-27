@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Eval"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-09-22T10:38:32Z",
+    "description": "NeoVim plugin to replace some text with the result of evaluating it",
+    "isArchived": false,
+    "lastCommit": "2024-09-22T10:38:42Z",
+    "nameWithOwner": "fvictorio/eval-replace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "eval-replace.nvim",
+  "owner": "fvictorio",
+  "url": "https://github.com/fvictorio/eval-replace.nvim"
+}
