@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-10-31T02:44:42Z",
+    "description": "Lua + AI = ???",
+    "isArchived": false,
+    "lastCommit": "2024-10-31T02:44:21Z",
+    "nameWithOwner": "tjdevries/luai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 39,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "luai.nvim",
+  "owner": "tjdevries",
+  "url": "https://github.com/tjdevries/luai.nvim"
+}

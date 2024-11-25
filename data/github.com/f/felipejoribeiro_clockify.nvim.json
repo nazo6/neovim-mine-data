@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Clockify"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-11-05T03:09:03Z",
+    "description": "Clockify integration for neovim. Track your time now with simple steps.",
+    "isArchived": false,
+    "lastCommit": "2024-11-05T03:07:42Z",
+    "nameWithOwner": "felipejoribeiro/clockify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clockify.nvim",
+  "owner": "felipejoribeiro",
+  "url": "https://github.com/felipejoribeiro/clockify.nvim"
+}

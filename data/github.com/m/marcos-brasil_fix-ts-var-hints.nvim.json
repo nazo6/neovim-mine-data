@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 3,
+          "name": "Type"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-10-26T10:38:47Z",
+    "description": "force show inlay hints for variable declarations",
+    "isArchived": false,
+    "lastCommit": "2024-10-28T18:42:59Z",
+    "nameWithOwner": "marcos-brasil/fix-ts-var-hints.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fix-ts-var-hints.nvim",
+  "owner": "marcos-brasil",
+  "url": "https://github.com/marcos-brasil/fix-ts-var-hints.nvim"
+}

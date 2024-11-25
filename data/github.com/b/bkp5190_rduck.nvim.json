@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Pet"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-11-14T22:22:23Z",
+    "description": "\"Rubber Ducky\" Neovim Plugin",
+    "isArchived": false,
+    "lastCommit": "2024-11-15T04:16:07Z",
+    "nameWithOwner": "bkp5190/rduck.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rduck.nvim",
+  "owner": "bkp5190",
+  "url": "https://github.com/bkp5190/rduck.nvim"
+}

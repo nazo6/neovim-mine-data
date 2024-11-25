@@ -1,0 +1,63 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 2,
+          "name": "exercism"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Competitive Programming"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2024-11-14T03:54:21Z",
+    "description": "Exercism Meets Neovim 💪🧠",
+    "isArchived": false,
+    "lastCommit": "2024-11-22T15:06:13Z",
+    "nameWithOwner": "2KAbhishek/exercism.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "exercism",
+      "language",
+      "learning",
+      "neovim",
+      "plugins",
+      "practice",
+      "programming",
+      "workflow"
+    ]
+  },
+  "domain": "github.com",
+  "name": "exercism.nvim",
+  "owner": "2KAbhishek",
+  "url": "https://github.com/2KAbhishek/exercism.nvim"
+}

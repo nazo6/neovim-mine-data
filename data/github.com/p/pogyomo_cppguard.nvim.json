@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 26,
     "createdAt": "2024-07-10T17:51:30Z",
-    "description": "A neovim plugin which generates proper include guard for C++",
+    "description": "A neovim plugin which generates proper include guard for C/C++",
     "isArchived": false,
-    "lastCommit": "2024-10-21T10:03:16Z",
+    "lastCommit": "2024-11-15T14:19:36Z",
     "nameWithOwner": "pogyomo/cppguard.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 13,
     "topics": [
       "cpp",
       "neovim-plugin"

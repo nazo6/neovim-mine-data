@@ -2,35 +2,23 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Configuration File"
-        },
-        {
-          "level": 3,
-          "name": "JSON"
-        }
       ],
-      "file": "configration-file.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2022-12-01T20:04:33Z",
     "description": "Interact with jq in NeoVim, using interactive buffers",
-    "isArchived": false,
-    "lastCommit": "2022-12-01T20:41:00Z",
+    "isArchived": true,
+    "lastCommit": "2024-11-08T01:54:31Z",
     "nameWithOwner": "jrop/jq.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 6,
     "topics": [
       "jq",
       "neovim",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "layout"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-11-07T21:41:04Z",
+    "description": "Neovim plugin for programatically setup window layouts ",
+    "isArchived": false,
+    "lastCommit": "2024-11-13T17:43:39Z",
+    "nameWithOwner": "DrKGD/pragma.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pragma.nvim",
+  "owner": "DrKGD",
+  "url": "https://github.com/DrKGD/pragma.nvim"
+}

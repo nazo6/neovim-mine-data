@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2024-11-10T02:18:41Z",
+    "description": "A plugin that makes avante.nvim more convenient. Provides a statusline component and provider setting function with priority.",
+    "isArchived": false,
+    "lastCommit": "2024-11-17T04:54:06Z",
+    "nameWithOwner": "takeshiD/avante-status.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "avante-status.nvim",
+  "owner": "takeshiD",
+  "url": "https://github.com/takeshiD/avante-status.nvim"
+}

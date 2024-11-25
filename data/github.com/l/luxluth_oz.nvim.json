@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "OZ"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2024-03-21T14:09:48Z",
+    "description": "A plugin for the oz progrmming language",
+    "isArchived": false,
+    "lastCommit": "2024-04-30T00:45:13Z",
+    "nameWithOwner": "luxluth/oz.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin",
+      "oz-language"
+    ]
+  },
+  "domain": "github.com",
+  "name": "oz.nvim",
+  "owner": "luxluth",
+  "url": "https://github.com/luxluth/oz.nvim"
+}

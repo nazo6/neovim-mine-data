@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-10-30T00:13:08Z",
+    "description": "Lua built taskpaper plugin.",
+    "isArchived": false,
+    "lastCommit": "2024-10-30T21:12:27Z",
+    "nameWithOwner": "Robertullrey/nvim-taskpaper",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-taskpaper",
+  "owner": "Robertullrey",
+  "url": "https://github.com/Robertullrey/nvim-taskpaper"
+}

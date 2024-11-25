@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-11-03T21:47:35Z",
+    "description": "Copilot source provider for blink.cmp",
+    "isArchived": false,
+    "lastCommit": "2024-11-05T12:11:06Z",
+    "nameWithOwner": "Nikutsuki/bcp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bcp.nvim",
+  "owner": "Nikutsuki",
+  "url": "https://github.com/Nikutsuki/bcp.nvim"
+}

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Religion"
+        },
+        {
+          "level": 3,
+          "name": "Judaism"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-11-19T01:35:11Z",
+    "description": "NeoVim plugin to practice Lectio Divina",
+    "isArchived": false,
+    "lastCommit": "2024-11-19T02:05:45Z",
+    "nameWithOwner": "ngorden/lectio.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "bible",
+      "catholic",
+      "catholicism",
+      "christianity",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lectio.nvim",
+  "owner": "ngorden",
+  "url": "https://github.com/ngorden/lectio.nvim"
+}

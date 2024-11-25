@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "OpenAI"
+          "name": "OpenAI(ChatGPT)"
         }
       ],
       "file": "ai.md",
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 367,
+    "commitCountLastYear": 310,
     "createdAt": "2023-06-18T13:55:46Z",
     "description": "Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 826,
+    "star": 890,
     "topics": [
       "copilot",
       "neovim",

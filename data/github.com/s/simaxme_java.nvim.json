@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -17,24 +31,10 @@
       ],
       "file": "java.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Programming Languages Support"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 13,
     "createdAt": "2023-11-07T19:22:54Z",
     "description": "A neovim plugin to move and rename java files and do other things.",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 22,
+    "star": 23,
     "topics": [
       "neovim",
       "java",
@@ -56,5 +56,5 @@
   "domain": "github.com",
   "name": "java.nvim",
   "owner": "simaxme",
-  "url": "https://github.com/simaxme/java-rename.nvim"
+  "url": "https://github.com/simaxme/java.nvim"
 }

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PlantUML"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-11-11T15:55:14Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-14T18:37:03Z",
+    "nameWithOwner": "goropikari/plantuml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plantuml.nvim",
+  "owner": "goropikari",
+  "url": "https://github.com/goropikari/plantuml.nvim"
+}

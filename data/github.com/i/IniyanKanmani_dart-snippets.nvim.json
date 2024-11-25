@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Dart, Flutter"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2024-11-08T16:15:20Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-23T13:36:10Z",
+    "nameWithOwner": "IniyanKanmani/dart-snippets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dart-snippets.nvim",
+  "owner": "IniyanKanmani",
+  "url": "https://github.com/IniyanKanmani/dart-snippets.nvim"
+}

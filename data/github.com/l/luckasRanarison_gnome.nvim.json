@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Window Manager (Desktop Manager)"
+        },
+        {
+          "level": 5,
+          "name": "gnome"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-11-09T19:18:31Z",
+    "description": "GNOME shell + Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-11-10T17:42:37Z",
+    "nameWithOwner": "luckasRanarison/gnome.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "gjs",
+      "gnome",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "gnome-shell"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gnome.nvim",
+  "owner": "luckasRanarison",
+  "url": "https://github.com/luckasRanarison/gnome.nvim"
+}

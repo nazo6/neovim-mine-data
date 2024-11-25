@@ -28,17 +28,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1078,
+    "commitCountLastYear": 1345,
     "createdAt": "2024-07-24T10:30:05Z",
-    "description": "A Live Preview Plugin for Neovim that allows you to view Markdown or HTML (along with CSS, JavaScript) files in a web browser with live updates.",
+    "description": "A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc files in a web browser with live updates.",
     "isArchived": false,
-    "lastCommit": "2024-10-27T06:30:39Z",
+    "lastCommit": "2024-11-21T06:25:57Z",
     "nameWithOwner": "brianhuster/live-preview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 60,
+    "star": 74,
     "topics": [
       "neovim-plugin",
       "lua",
@@ -48,7 +48,8 @@
       "live-preview",
       "live-server",
       "markdown",
-      "markdown-it"
+      "markdown-it",
+      "nvim"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-10-28T04:00:55Z",
+    "description": "OpenAI support for chatty-ai",
+    "isArchived": false,
+    "lastCommit": "2024-10-28T23:41:04Z",
+    "nameWithOwner": "justinhj/chatty-ai-service-openai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chatty-ai-service-openai.nvim",
+  "owner": "justinhj",
+  "url": "https://github.com/justinhj/chatty-ai-service-openai.nvim"
+}

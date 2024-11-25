@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Debug"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-11-16T19:08:50Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-24T20:28:46Z",
+    "nameWithOwner": "omagdy7/dbgln.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dbgln.nvim",
+  "owner": "omagdy7",
+  "url": "https://github.com/omagdy7/dbgln.nvim"
+}

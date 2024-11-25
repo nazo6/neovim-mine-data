@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        },
+        {
+          "level": 4,
+          "name": "ibus"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-10-30T07:24:56Z",
+    "description": "Switch IM engine automatically when you leave insert mode, helping you input in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-10-30T07:23:26Z",
+    "nameWithOwner": "lumynou5/ibus-switcher.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ibus-switcher.nvim",
+  "owner": "lumynou5",
+  "url": "https://github.com/lumynou5/ibus-switcher.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Large file"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-11-09T07:56:37Z",
+    "description": "Detect big files and disable features like LSP and TreeSitter to improve performance, with per-filetype size limit support.",
+    "isArchived": false,
+    "lastCommit": "2024-11-09T08:11:40Z",
+    "nameWithOwner": "ouuan/nvim-bigfile",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-bigfile",
+  "owner": "ouuan",
+  "url": "https://github.com/ouuan/nvim-bigfile"
+}

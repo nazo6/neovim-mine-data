@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Current word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2024-11-09T19:34:47Z",
+    "description": "✨Highlight the parentheses around the cursor for NeoVim.",
+    "isArchived": false,
+    "lastCommit": "2024-11-14T10:37:29Z",
+    "nameWithOwner": "utubo/hlpairs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hlpairs.nvim",
+  "owner": "utubo",
+  "url": "https://github.com/utubo/hlpairs.nvim"
+}

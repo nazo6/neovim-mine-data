@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "OpenAI"
+          "name": "OpenAI(ChatGPT)"
         }
       ],
       "file": "ai.md",
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 36,
+    "commitCountLastYear": 35,
     "createdAt": "2022-12-10T17:27:28Z",
     "description": "ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3746,
+    "star": 3792,
     "topics": [
       "chatgpt",
       "nvim-plugin",

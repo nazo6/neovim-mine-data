@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        },
+        {
+          "level": 4,
+          "name": "Timewarrior"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-11-20T22:27:57Z",
+    "description": "Timewarrior plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-11-20T22:26:35Z",
+    "nameWithOwner": "gallois/timewarrior.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "timewarrior.nvim",
+  "owner": "gallois",
+  "url": "https://github.com/gallois/timewarrior.nvim"
+}

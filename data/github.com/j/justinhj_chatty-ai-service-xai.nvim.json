@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Llama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-11-10T17:19:36Z",
+    "description": "Chatty-AI Service implementation for xAI's Grok API",
+    "isArchived": false,
+    "lastCommit": "2024-11-10T18:24:00Z",
+    "nameWithOwner": "justinhj/chatty-ai-service-xai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chatty-ai-service-xai.nvim",
+  "owner": "justinhj",
+  "url": "https://github.com/justinhj/chatty-ai-service-xai.nvim"
+}

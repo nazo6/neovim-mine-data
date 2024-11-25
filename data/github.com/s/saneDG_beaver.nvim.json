@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2024-11-08T22:05:53Z",
+    "description": "neovim plugin for inspecting and previewing log files",
+    "isArchived": false,
+    "lastCommit": "2024-11-22T14:49:56Z",
+    "nameWithOwner": "saneDG/beaver.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "beaver.nvim",
+  "owner": "saneDG",
+  "url": "https://github.com/saneDG/beaver.nvim"
+}

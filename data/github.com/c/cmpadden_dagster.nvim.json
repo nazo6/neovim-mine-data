@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Dagster"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-11-18T22:13:21Z",
+    "description": "Control the Dagster orchestrator directly from Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-11-22T20:07:56Z",
+    "nameWithOwner": "cmpadden/dagster.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "dagster",
+      "data",
+      "neovim",
+      "plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dagster.nvim",
+  "owner": "cmpadden",
+  "url": "https://github.com/cmpadden/dagster.nvim"
+}

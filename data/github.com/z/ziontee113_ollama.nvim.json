@@ -2,28 +2,16 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "AI Coding"
-        },
-        {
-          "level": 3,
-          "name": "Llama"
-        }
       ],
-      "file": "ai.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 0,
     "createdAt": "2023-11-02T09:39:47Z",
     "description": "Neovim Plugin to interact with Ollama API 🦙",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-11-07T23:22:15Z",
     "nameWithOwner": "ziontee113/ollama.nvim",
     "primaryLanguage": {

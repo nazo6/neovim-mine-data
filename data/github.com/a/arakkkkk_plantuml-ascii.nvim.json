@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PlantUML"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-11-23T13:14:36Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-23T14:23:24Z",
+    "nameWithOwner": "arakkkkk/plantuml-ascii.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "plantuml",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "plantuml-ascii.nvim",
+  "owner": "arakkkkk",
+  "url": "https://github.com/arakkkkk/plantuml-ascii.nvim"
+}

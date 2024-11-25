@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 39,
+    "commitCountLastYear": 45,
     "createdAt": "2024-10-14T20:52:16Z",
     "description": "This plugin wraps around the tmux-toggle-popup plugin to provide a interface to create tmux popup windows in neovim.",
     "isArchived": false,
-    "lastCommit": "2024-10-26T21:47:02Z",
+    "lastCommit": "2024-11-11T20:33:03Z",
     "nameWithOwner": "cenk1cenk2/tmux-toggle-popup.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 6,
     "topics": [
       "nvim-plugin",
       "neovim-plugin"

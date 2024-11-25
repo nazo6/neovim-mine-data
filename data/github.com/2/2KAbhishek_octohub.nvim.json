@@ -4,16 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "GitHub"
-        }
-      ],
-      "file": "git-github.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -27,20 +17,30 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 126,
+    "commitCountLastYear": 135,
     "createdAt": "2024-09-26T05:07:45Z",
     "description": "All Your GitHub repos and more in Neovim 🐙🛠️",
     "isArchived": false,
-    "lastCommit": "2024-10-24T17:16:13Z",
+    "lastCommit": "2024-11-22T14:24:03Z",
     "nameWithOwner": "2KAbhishek/octohub.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 58,
+    "star": 64,
     "topics": [
       "github",
       "maintainer",
@@ -56,5 +56,5 @@
   "domain": "github.com",
   "name": "octohub.nvim",
   "owner": "2KAbhishek",
-  "url": "https://github.com/2kabhishek/octohub.nvim"
+  "url": "https://github.com/2KAbhishek/octohub.nvim"
 }

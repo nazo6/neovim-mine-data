@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Cargo"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-11-21T03:39:39Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-22T00:28:44Z",
+    "nameWithOwner": "washanhanzi/cargo-appraiser.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cargo-appraiser.nvim",
+  "owner": "washanhanzi",
+  "url": "https://github.com/washanhanzi/cargo-appraiser.nvim"
+}

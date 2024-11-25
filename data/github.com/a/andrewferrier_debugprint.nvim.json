@@ -38,24 +38,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 390,
+    "commitCountLastYear": 432,
     "createdAt": "2022-08-08T12:18:22Z",
     "description": "Debugging in NeoVim the print() way!",
     "isArchived": false,
-    "lastCommit": "2024-10-26T22:24:51Z",
+    "lastCommit": "2024-11-24T14:00:15Z",
     "nameWithOwner": "andrewferrier/debugprint.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 321,
+    "star": 356,
     "topics": [
       "lua",
       "neovim",
       "neovim-plugin",
       "neovim-plugins",
       "nvim",
-      "debugging"
+      "debugging",
+      "debugging-tool",
+      "print"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2024-10-26T03:28:32Z",
+    "description": "Stack your harpoons right here. Switch branches with peace of mind.",
+    "isArchived": false,
+    "lastCommit": "2024-11-05T16:12:45Z",
+    "nameWithOwner": "tjapit/poonstack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "harpoon",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "stackmap"
+    ]
+  },
+  "domain": "github.com",
+  "name": "poonstack.nvim",
+  "owner": "tjapit",
+  "url": "https://github.com/tjapit/poonstack.nvim"
+}

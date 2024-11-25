@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer info"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-11-07T20:58:54Z",
+    "description": "🙋 Excuse me. Where am I?",
+    "isArchived": false,
+    "lastCommit": "2024-11-22T16:45:31Z",
+    "nameWithOwner": "addisonbeck/where-am-i.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "nix-friendly"
+    ]
+  },
+  "domain": "github.com",
+  "name": "where-am-i.nvim",
+  "owner": "addisonbeck",
+  "url": "https://github.com/addisonbeck/where-am-i.nvim"
+}

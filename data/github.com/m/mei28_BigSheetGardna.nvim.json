@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Large file"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-11-08T07:16:51Z",
+    "description": "🛡️ BigSheetGardna detects large files on the fly, automatically disabling certain resource-intensive features to keep Neovim snappy and responsive.",
+    "isArchived": false,
+    "lastCommit": "2024-11-13T01:21:45Z",
+    "nameWithOwner": "mei28/BigSheetGardna.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim-plugin",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "BigSheetGardna.nvim",
+  "owner": "mei28",
+  "url": "https://github.com/mei28/BigSheetGardna.nvim"
+}

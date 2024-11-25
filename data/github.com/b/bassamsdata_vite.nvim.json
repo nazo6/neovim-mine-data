@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Task Runner"
+        },
+        {
+          "level": 4,
+          "name": "Vite"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-11-10T05:39:31Z",
+    "description": "Vite is a neovim plugin for quickly switching between buffers & symbols",
+    "isArchived": false,
+    "lastCommit": "2024-11-16T02:26:07Z",
+    "nameWithOwner": "bassamsdata/vite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vite.nvim",
+  "owner": "bassamsdata",
+  "url": "https://github.com/bassamsdata/vite.nvim"
+}

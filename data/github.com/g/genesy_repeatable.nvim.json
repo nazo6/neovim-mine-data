@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Improve Mappings"
+        },
+        {
+          "level": 3,
+          "name": "Repeatable"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-10-27T15:26:17Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-10-27T18:02:51Z",
+    "nameWithOwner": "genesy/repeatable.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "repeatable.nvim",
+  "owner": "genesy",
+  "url": "https://github.com/genesy/repeatable.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Religion"
+        },
+        {
+          "level": 3,
+          "name": "Judaism"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-01-04T07:46:04Z",
+    "description": "Islamic prayer time for neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-01-07T22:59:28Z",
+    "nameWithOwner": "awesomegeek/prayertime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "islamic-prayer-times",
+      "neovim-plugin",
+      "prayertimes",
+      "salat-timings"
+    ]
+  },
+  "domain": "github.com",
+  "name": "prayertime.nvim",
+  "owner": "awesomegeek",
+  "url": "https://github.com/awesomegeek/prayertime.nvim"
+}

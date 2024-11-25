@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-11-15T06:57:48Z",
+    "description": "Call rsync to synchronize files from git status to the server",
+    "isArchived": false,
+    "lastCommit": "2024-11-15T09:00:33Z",
+    "nameWithOwner": "Meursau1T/rsync-git.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rsync-git.nvim",
+  "owner": "Meursau1T",
+  "url": "https://github.com/Meursau1T/rsync-git.nvim"
+}

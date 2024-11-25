@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Security"
+        },
+        {
+          "level": 4,
+          "name": "Encrypt"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-11-19T22:00:11Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-19T22:11:22Z",
+    "nameWithOwner": "MrMichou/nvim-hiera.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-hiera.nvim",
+  "owner": "MrMichou",
+  "url": "https://github.com/MrMichou/nvim-hiera.nvim"
+}

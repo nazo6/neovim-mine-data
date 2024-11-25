@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-10-25T16:29:15Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-04T07:44:48Z",
+    "nameWithOwner": "giuxtaposition/blink-cmp-copilot",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-copilot",
+  "owner": "giuxtaposition",
+  "url": "https://github.com/giuxtaposition/blink-cmp-copilot"
+}

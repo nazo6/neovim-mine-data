@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Code action"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-10-26T00:19:14Z",
+    "description": "Register code actions to be run automatically on file save, based on file patterns.",
+    "isArchived": false,
+    "lastCommit": "2024-11-12T13:31:52Z",
+    "nameWithOwner": "fnune/codeactions-on-save.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codeactions-on-save.nvim",
+  "owner": "fnune",
+  "url": "https://github.com/fnune/codeactions-on-save.nvim"
+}

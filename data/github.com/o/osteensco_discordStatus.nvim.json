@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
+        },
+        {
+          "level": 4,
+          "name": "Discord"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-11-08T22:57:28Z",
+    "description": "Automagically set your discord status when you open neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-11-17T15:02:11Z",
+    "nameWithOwner": "osteensco/discordStatus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "discordStatus.nvim",
+  "owner": "osteensco",
+  "url": "https://github.com/osteensco/discordStatus.nvim"
+}

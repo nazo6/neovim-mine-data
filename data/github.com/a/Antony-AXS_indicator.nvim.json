@@ -24,26 +24,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 111,
+    "commitCountLastYear": 168,
     "createdAt": "2024-08-17T05:30:39Z",
-    "description": "a neovim plugin for window indication.",
+    "description": "A Neovim plugin for seamless window navigation.",
     "isArchived": false,
-    "lastCommit": "2024-10-26T20:29:47Z",
+    "lastCommit": "2024-11-22T12:07:15Z",
     "nameWithOwner": "Antony-AXS/indicator.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
       "lua",
       "neovim",
       "neovim-plugin",
       "nvim",
       "nvim-lua",
-      "neovim-config",
-      "neovim-tab",
-      "neovim-window",
       "vim"
     ]
   },

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Cargo"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-11-06T19:36:51Z",
+    "description": "Neov",
+    "isArchived": false,
+    "lastCommit": "2024-11-06T19:43:16Z",
+    "nameWithOwner": "paulusminus/cargo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cargo.nvim",
+  "owner": "paulusminus",
+  "url": "https://github.com/paulusminus/cargo.nvim"
+}

@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "OpenAI"
+          "name": "OpenAI(ChatGPT)"
         }
       ],
       "file": "ai.md",
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 7,
     "createdAt": "2022-12-21T23:51:53Z",
     "description": "AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#199f4b",
       "name": "Vim Script"
     },
-    "star": 466,
+    "star": 469,
     "topics": [
       "code-generation",
       "neovim",

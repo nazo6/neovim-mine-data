@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 34,
     "createdAt": "2024-05-26T20:09:16Z",
     "description": "Neovim plugin that extends functionality of mark-motions.",
     "isArchived": false,
-    "lastCommit": "2024-10-26T12:37:52Z",
+    "lastCommit": "2024-11-24T21:39:40Z",
     "nameWithOwner": "nkey-ops/extended-marks.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,10 @@
     },
     "star": 3,
     "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

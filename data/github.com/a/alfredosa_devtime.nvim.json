@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-11-15T19:03:40Z",
+    "description": "Devtime.nvim helps you track Language usage in neovim as well as file edit time. :wq",
+    "isArchived": false,
+    "lastCommit": "2024-11-18T18:45:19Z",
+    "nameWithOwner": "alfredosa/devtime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "devtime.nvim",
+  "owner": "alfredosa",
+  "url": "https://github.com/alfredosa/devtime.nvim"
+}

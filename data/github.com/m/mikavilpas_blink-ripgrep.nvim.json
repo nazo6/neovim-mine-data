@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 77,
+    "createdAt": "2024-11-03T09:32:37Z",
+    "description": "Ripgrep source for blink.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-11-24T19:52:07Z",
+    "nameWithOwner": "mikavilpas/blink-ripgrep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-ripgrep.nvim",
+  "owner": "mikavilpas",
+  "url": "https://github.com/mikavilpas/blink-ripgrep.nvim"
+}

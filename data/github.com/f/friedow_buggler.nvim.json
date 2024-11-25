@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-11-20T17:30:44Z",
+    "description": "Toggle neovim terminal buffers with a single keystroke.",
+    "isArchived": false,
+    "lastCommit": "2024-11-20T17:40:54Z",
+    "nameWithOwner": "friedow/buggler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "terminal",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buggler.nvim",
+  "owner": "friedow",
+  "url": "https://github.com/friedow/buggler.nvim"
+}

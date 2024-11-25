@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-11-20T12:59:49Z",
+    "description": "Tiny plugin for toggling floating terminals and windows, inspired by toggleterm.nvim",
+    "isArchived": false,
+    "lastCommit": "2024-11-23T23:19:12Z",
+    "nameWithOwner": "ingur/floatty.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floatty.nvim",
+  "owner": "ingur",
+  "url": "https://github.com/ingur/floatty.nvim"
+}

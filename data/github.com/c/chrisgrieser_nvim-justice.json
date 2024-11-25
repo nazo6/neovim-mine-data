@@ -1,0 +1,63 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "make"
+        },
+        {
+          "level": 5,
+          "name": "just"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Code Runner"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2024-11-18T14:27:43Z",
+    "description": "Lightweight integration of `just` in nvim.",
+    "isArchived": false,
+    "lastCommit": "2024-11-24T18:33:02Z",
+    "nameWithOwner": "chrisgrieser/nvim-justice",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "just",
+      "justfile",
+      "nvim-plugin",
+      "task-runner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-justice",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/nvim-justice"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ssh"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 48,
+    "createdAt": "2024-08-13T21:52:24Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-10-18T05:50:43Z",
+    "nameWithOwner": "espr3ss0Roast/remote-ssh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "remote-ssh.nvim",
+  "owner": "espr3ss0Roast",
+  "url": "https://github.com/ihersom/remote-ssh.nvim"
+}

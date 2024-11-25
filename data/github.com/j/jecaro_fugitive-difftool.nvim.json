@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-11-14T20:02:58Z",
+    "description": "Diff branches in neovim with fugitive",
+    "isArchived": false,
+    "lastCommit": "2024-11-15T21:11:21Z",
+    "nameWithOwner": "jecaro/fugitive-difftool.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+      "fugitive",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fugitive-difftool.nvim",
+  "owner": "jecaro",
+  "url": "https://github.com/jecaro/fugitive-difftool.nvim"
+}

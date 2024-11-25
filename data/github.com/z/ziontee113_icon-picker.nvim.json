@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Emoji"
-        },
-        {
-          "level": 3,
-          "name": "Emoji FuzzyFinder"
-        }
       ],
-      "file": "font_emoji.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -37,14 +25,14 @@
     "commitCountLastYear": 6,
     "createdAt": "2022-06-20T08:16:55Z",
     "description": "This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-01-03T22:35:19Z",
     "nameWithOwner": "ziontee113/icon-picker.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 314,
+    "star": 315,
     "topics": [
       "emoji",
       "lua",

@@ -38,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 0,
     "createdAt": "2023-09-22T10:05:27Z",
     "description": "Start/stop LSP servers upon demand; keeps RAM usage low",
     "isArchived": false,
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 213,
+    "star": 217,
     "topics": [
       "lsp",
       "neovim-plugin",

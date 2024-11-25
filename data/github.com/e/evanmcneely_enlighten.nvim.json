@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "OpenAI"
+          "name": "OpenAI(ChatGPT)"
         }
       ],
       "file": "ai.md",
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 142,
+    "commitCountLastYear": 143,
     "createdAt": "2024-07-21T17:26:06Z",
     "description": "Turn Neovim into an AI code editor",
     "isArchived": false,
-    "lastCommit": "2024-09-11T04:08:39Z",
+    "lastCommit": "2024-11-11T21:52:17Z",
     "nameWithOwner": "evanmcneely/enlighten.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10,
+    "star": 14,
     "topics": [
       "ai",
       "ai-chat",

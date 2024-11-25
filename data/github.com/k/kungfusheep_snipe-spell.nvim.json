@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Spell"
+        },
+        {
+          "level": 4,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-11-18T17:28:29Z",
+    "description": "A neovim plugin which uses snipe to drive the built in spellchecker. ",
+    "isArchived": false,
+    "lastCommit": "2024-11-18T17:29:44Z",
+    "nameWithOwner": "kungfusheep/snipe-spell.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snipe-spell.nvim",
+  "owner": "kungfusheep",
+  "url": "https://github.com/kungfusheep/snipe-spell.nvim"
+}

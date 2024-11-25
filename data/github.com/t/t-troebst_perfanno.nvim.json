@@ -34,18 +34,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 6,
     "createdAt": "2022-02-08T00:22:32Z",
-    "description": "NeoVim lua plugin that annotates source code with profiling information from perf or other profilers",
+    "description": "NeoVim lua plugin that annotates source code with profiling information from perf, LuaJIT, or other profilers.",
     "isArchived": false,
-    "lastCommit": "2023-06-21T03:54:16Z",
+    "lastCommit": "2024-11-25T00:46:36Z",
     "nameWithOwner": "t-troebst/perfanno.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 203,
+    "star": 248,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "profiling"
     ]
   },
   "domain": "github.com",

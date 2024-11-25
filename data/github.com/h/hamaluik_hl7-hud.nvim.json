@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Protocol"
-        },
-        {
-          "level": 3,
-          "name": "HL7"
-        }
       ],
-      "file": "protocol.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 6,
     "createdAt": "2024-10-24T19:59:25Z",
     "description": null,
-    "isArchived": false,
-    "lastCommit": "2024-10-24T23:22:18Z",
+    "isArchived": true,
+    "lastCommit": "2024-11-01T18:52:14Z",
     "nameWithOwner": "hamaluik/hl7-hud.nvim",
     "primaryLanguage": {
       "color": "#dea584",

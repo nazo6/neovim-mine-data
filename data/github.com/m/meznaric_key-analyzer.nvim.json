@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Show assigned"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-11-03T01:17:13Z",
+    "description": "Helping you find free keybinds in vim",
+    "isArchived": false,
+    "lastCommit": "2024-11-03T10:53:19Z",
+    "nameWithOwner": "meznaric/key-analyzer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 153,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "key-analyzer.nvim",
+  "owner": "meznaric",
+  "url": "https://github.com/meznaric/key-analyzer.nvim"
+}

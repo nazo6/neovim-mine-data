@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Lua Development"
-        },
-        {
-          "level": 3,
-          "name": "Plugin Template"
-        }
-      ],
-      "file": "neovim-lua-development.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -35,20 +17,38 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua Development"
+        },
+        {
+          "level": 3,
+          "name": "Plugin Template"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 36,
     "createdAt": "2024-09-15T00:49:34Z",
     "description": "Ready to go Neovim template 🏗️✈️",
     "isArchived": false,
-    "lastCommit": "2024-10-16T09:38:32Z",
+    "lastCommit": "2024-11-22T15:03:19Z",
     "nameWithOwner": "2KAbhishek/template.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 9,
     "topics": [
       "community",
       "neovim",
@@ -62,5 +62,5 @@
   "domain": "github.com",
   "name": "template.nvim",
   "owner": "2KAbhishek",
-  "url": "https://github.com/2kabhishek/template.nvim"
+  "url": "https://github.com/2KAbhishek/template.nvim"
 }

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Dash"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-11-22T18:25:05Z",
+    "description": "Distinguish between the infamous en and em dashes",
+    "isArchived": false,
+    "lastCommit": "2024-11-24T23:19:14Z",
+    "nameWithOwner": "mvllow/supplement.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "supplement.nvim",
+  "owner": "mvllow",
+  "url": "https://github.com/mvllow/supplement.nvim"
+}

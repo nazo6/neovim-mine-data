@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-11-05T02:20:52Z",
+    "description": "An LSP server to provide completion for luasnip snippets",
+    "isArchived": false,
+    "lastCommit": "2024-11-17T21:09:34Z",
+    "nameWithOwner": "crwebb85/luasnip-lsp-server.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "luasnip-lsp-server.nvim",
+  "owner": "crwebb85",
+  "url": "https://github.com/crwebb85/luasnip-lsp-server.nvim"
+}

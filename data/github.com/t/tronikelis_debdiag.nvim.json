@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-10-10T17:25:00Z",
+    "description": "Simple debounced insert mode diagnostics for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-10-22T14:47:31Z",
+    "nameWithOwner": "tronikelis/debdiag.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "debdiag.nvim",
+  "owner": "tronikelis",
+  "url": "https://github.com/Tronikelis/debdiag.nvim"
+}

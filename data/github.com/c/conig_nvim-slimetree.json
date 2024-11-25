@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2024-10-26T02:31:46Z",
+    "description": "Treesitter based code execution for jpalardy/vim-slime",
+    "isArchived": false,
+    "lastCommit": "2024-11-22T02:41:01Z",
+    "nameWithOwner": "conig/nvim-slimetree",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-slimetree",
+  "owner": "conig",
+  "url": "https://github.com/conig/nvim-slimetree"
+}

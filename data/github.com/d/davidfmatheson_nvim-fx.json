@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        },
+        {
+          "level": 4,
+          "name": "fx"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-11-23T16:02:05Z",
+    "description": "NeoVim plugin for the fx json viewer",
+    "isArchived": false,
+    "lastCommit": "2024-11-23T23:39:30Z",
+    "nameWithOwner": "davidfmatheson/nvim-fx",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-fx",
+  "owner": "davidfmatheson",
+  "url": "https://github.com/davidfmatheson/nvim-fx"
+}

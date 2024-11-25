@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-11-18T11:54:17Z",
+    "description": "Minimalistic plugin for saving/loading neovim sessions.",
+    "isArchived": false,
+    "lastCommit": "2024-11-23T19:25:43Z",
+    "nameWithOwner": "sebszyller/sesh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sesh.nvim",
+  "owner": "sebszyller",
+  "url": "https://github.com/sebszyller/sesh.nvim"
+}

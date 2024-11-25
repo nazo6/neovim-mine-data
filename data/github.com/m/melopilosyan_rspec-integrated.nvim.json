@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 48,
+    "commitCountLastYear": 57,
     "createdAt": "2022-10-25T20:20:35Z",
-    "description": "Run RSpec tests. View failure messages as diagnostic entries in Neovim",
+    "description": "Run RSpec tests in Neovim. View failures as diagnostic entries,  quickfix list, or debug in terminal.",
     "isArchived": false,
-    "lastCommit": "2024-10-19T02:55:56Z",
+    "lastCommit": "2024-11-18T20:16:50Z",
     "nameWithOwner": "melopilosyan/rspec-integrated.nvim",
     "primaryLanguage": {
       "color": "#000080",

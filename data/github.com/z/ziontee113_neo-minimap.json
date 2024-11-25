@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Appearance"
-        },
-        {
-          "level": 3,
-          "name": "Minimap"
-        }
       ],
-      "file": "appearance.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-10-13T04:26:55Z",
     "description": "Plugin for Neovim that lets you create your own \"minimap\" from Treesitter Queries or Vim Regex.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-04-01T18:36:24Z",
     "nameWithOwner": "ziontee113/neo-minimap",
     "primaryLanguage": {

@@ -17,20 +17,38 @@
       ],
       "file": "neovim-lua-library.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Web Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 287,
+    "commitCountLastYear": 309,
     "createdAt": "2024-05-04T09:33:14Z",
-    "description": "A fast and easy-to-use HTTP-Rest-Client plugin for neovim, completely written in LUA.",
+    "description": "A fast and easy-to-use HTTP-Rest-Client plugin for Neovim, completely written in LUA.",
     "isArchived": false,
-    "lastCommit": "2024-10-24T18:42:18Z",
+    "lastCommit": "2024-11-22T12:55:55Z",
     "nameWithOwner": "lima1909/resty.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 28,
+    "star": 37,
     "topics": [
       "lua",
       "neovim-plugin",

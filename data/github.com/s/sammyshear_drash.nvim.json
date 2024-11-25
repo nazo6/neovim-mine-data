@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Religion"
+        },
+        {
+          "level": 3,
+          "name": "Judaism"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2024-11-17T08:21:58Z",
+    "description": "drash.nvim is a neovim plugin to help you write a drash without leaving Neovim by leveraging the Sefaria API.",
+    "isArchived": false,
+    "lastCommit": "2024-11-21T04:45:03Z",
+    "nameWithOwner": "sammyshear/drash.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "sefaria",
+      "sefaria-api"
+    ]
+  },
+  "domain": "github.com",
+  "name": "drash.nvim",
+  "owner": "sammyshear",
+  "url": "https://github.com/sammyshear/drash.nvim"
+}

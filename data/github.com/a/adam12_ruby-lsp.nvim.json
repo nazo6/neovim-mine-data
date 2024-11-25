@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-11-20T10:16:52Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-21T21:01:49Z",
+    "nameWithOwner": "adam12/ruby-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ruby-lsp.nvim",
+  "owner": "adam12",
+  "url": "https://github.com/adam12/ruby-lsp.nvim"
+}

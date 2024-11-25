@@ -1,0 +1,57 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "lua.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Lua Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-10-15T20:28:52Z",
+    "description": "A handy scratch pad / REPL / debug console for Lua development and Neovim exploration",
+    "isArchived": false,
+    "lastCommit": "2024-11-15T17:28:45Z",
+    "nameWithOwner": "YaroSpace/lua-console.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 39,
+    "topics": [
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-console.nvim",
+  "owner": "YaroSpace",
+  "url": "https://github.com/YaroSpace/lua-console.nvim"
+}

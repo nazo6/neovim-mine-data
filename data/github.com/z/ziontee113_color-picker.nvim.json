@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Color Creation"
-        }
       ],
-      "file": "neovim-lua-development.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -33,14 +25,14 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-06-26T22:11:43Z",
     "description": "A powerful Neovim plugin that lets users choose & modify RGB/HSL/HEX colors. ",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-05-21T22:06:21Z",
     "nameWithOwner": "ziontee113/color-picker.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 282,
+    "star": 283,
     "topics": [
       "color",
       "color-picker",

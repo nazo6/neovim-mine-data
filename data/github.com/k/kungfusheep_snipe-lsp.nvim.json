@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-11-14T21:24:26Z",
+    "description": "A neovim plugin which uses snipe to navigate lsp symbols",
+    "isArchived": false,
+    "lastCommit": "2024-11-25T01:47:35Z",
+    "nameWithOwner": "kungfusheep/snipe-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snipe-lsp.nvim",
+  "owner": "kungfusheep",
+  "url": "https://github.com/kungfusheep/snipe-lsp.nvim"
+}

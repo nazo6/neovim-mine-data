@@ -2,28 +2,16 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "CSS"
-        },
-        {
-          "level": 3,
-          "name": "tailwind"
-        }
       ],
-      "file": "js_ts.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2023-05-14T10:15:11Z",
     "description": "Deliberate.nvim adds a sub-mode for Neovim to manipulate HTML syntax & Tailwind CSS Classes.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-11-18T17:59:55Z",
     "nameWithOwner": "ziontee113/deliberate.nvim",
     "primaryLanguage": {

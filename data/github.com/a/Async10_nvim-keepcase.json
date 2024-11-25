@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-10-27T18:30:26Z",
+    "description": "Simple search and replace while preserving the original case",
+    "isArchived": false,
+    "lastCommit": "2024-11-02T21:12:11Z",
+    "nameWithOwner": "Async10/nvim-keepcase",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "case-preserving",
+      "search-and-replace"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-keepcase",
+  "owner": "Async10",
+  "url": "https://github.com/Async10/nvim-keepcase"
+}

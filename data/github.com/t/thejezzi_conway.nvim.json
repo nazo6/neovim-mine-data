@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2024-11-08T15:09:37Z",
+    "description": "John Conways Game of Life for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-11-10T22:46:24Z",
+    "nameWithOwner": "thejezzi/conway.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "conway.nvim",
+  "owner": "thejezzi",
+  "url": "https://github.com/thejezzi/conway.nvim"
+}

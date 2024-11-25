@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "for CLI"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-11-18T11:30:30Z",
+    "description": "nvim plugin that automatically ensures the presence of all nvim prerequesites, like executables, nvim & lua version, ...",
+    "isArchived": false,
+    "lastCommit": "2024-11-18T13:13:46Z",
+    "nameWithOwner": "onexbash/prereq.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "prereq.nvim",
+  "owner": "onexbash",
+  "url": "https://github.com/onexbash/prereq.nvim"
+}

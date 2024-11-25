@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "Preview"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2024-09-26T15:24:54Z",
+    "description": "A Neovim plugin for inline LaTeX equation previews in Markdown.",
+    "isArchived": false,
+    "lastCommit": "2024-11-06T11:30:37Z",
+    "nameWithOwner": "Thiago4532/mdmath.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 74,
+    "topics": [
+      "lua",
+      "markdown",
+      "markdown-previewer",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdmath.nvim",
+  "owner": "Thiago4532",
+  "url": "https://github.com/Thiago4532/mdmath.nvim"
+}

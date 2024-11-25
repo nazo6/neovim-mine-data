@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "CMake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 56,
+    "createdAt": "2024-11-01T18:29:00Z",
+    "description": "Simple NeoVim plugin for CMake/CTest integration",
+    "isArchived": false,
+    "lastCommit": "2024-11-23T22:47:53Z",
+    "nameWithOwner": "marc0x71/cmake-simple.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmake-simple.nvim",
+  "owner": "marc0x71",
+  "url": "https://github.com/marc0x71/cmake-simple.nvim"
+}

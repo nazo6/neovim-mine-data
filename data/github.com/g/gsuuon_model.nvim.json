@@ -4,24 +4,6 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "AI Coding"
-        },
-        {
-          "level": 3,
-          "name": "OpenAI"
-        }
-      ],
-      "file": "ai.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -31,20 +13,38 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 292,
+    "commitCountLastYear": 188,
     "createdAt": "2023-04-16T04:18:10Z",
     "description": "Neovim plugin for interacting with LLM's and building editor integrated prompts.",
     "isArchived": false,
-    "lastCommit": "2024-10-23T00:12:28Z",
+    "lastCommit": "2024-11-13T17:21:03Z",
     "nameWithOwner": "gsuuon/model.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 330,
+    "star": 337,
     "topics": [
       "chatgpt",
       "neovim-plugin",
@@ -61,5 +61,5 @@
   "domain": "github.com",
   "name": "model.nvim",
   "owner": "gsuuon",
-  "url": "https://github.com/gsuuon/llm.nvim"
+  "url": "https://github.com/gsuuon/model.nvim"
 }

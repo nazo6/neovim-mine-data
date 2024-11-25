@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "OpenAI"
+          "name": "OpenAI(ChatGPT)"
         }
       ],
       "file": "ai.md",
@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 33,
     "createdAt": "2024-10-19T21:36:10Z",
     "description": "Enhance your Neovim experience with AI-powered coding assistance. Seamlessly integrate a Large Language Model into your workflow for smarter, context-aware code suggestions and improvements",
     "isArchived": false,
-    "lastCommit": "2024-10-25T16:16:34Z",
+    "lastCommit": "2024-10-30T13:01:55Z",
     "nameWithOwner": "webpolis/wingman.nvim",
     "primaryLanguage": {
       "color": "#000080",

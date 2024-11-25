@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Note Taking"
-        },
-        {
-          "level": 2,
-          "name": "Dendron"
-        }
       ],
-      "file": "note-taking.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-08-10T18:23:38Z",
     "description": "Dendron in neovim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-12-15T15:54:39Z",
     "nameWithOwner": "namjul/dendron.nvim",
     "primaryLanguage": {

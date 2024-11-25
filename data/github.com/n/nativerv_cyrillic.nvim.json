@@ -4,22 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
+          "name": "Keymap"
         },
         {
           "level": 2,
-          "name": "Hardware"
+          "name": "Improve Mappings"
         },
         {
           "level": 3,
-          "name": "Keyboard"
-        },
-        {
-          "level": 4,
-          "name": "Keyboard Layout"
+          "name": "Cyrillic"
         }
       ],
-      "file": "hardware.md",
+      "file": "mapping.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -34,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 6,
     "topics": [
       "i18n",
       "language-support",

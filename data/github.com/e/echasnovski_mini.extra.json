@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util wrapper"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2023-11-02T10:04:43Z",
+    "description": "Extra 'mini.nvim' functionality. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2024-11-08T10:04:10Z",
+    "nameWithOwner": "echasnovski/mini.extra",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.extra",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.extra"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-11-17T19:42:31Z",
+    "description": "A todoist integration with neovim using the sync api. Includes pro features of todoist including reminder support",
+    "isArchived": false,
+    "lastCommit": "2024-11-17T22:02:18Z",
+    "nameWithOwner": "adam-coates/todoist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todoist.nvim",
+  "owner": "adam-coates",
+  "url": "https://github.com/adam-coates/todoist.nvim"
+}

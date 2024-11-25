@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Aider"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2024-10-30T08:23:49Z",
+    "description": "Aider helpers in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-11-01T13:38:02Z",
+    "nameWithOwner": "ddzero2c/aider.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "aider",
+      "neovim-plugin",
+      "chatgpt",
+      "claude",
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "aider.nvim",
+  "owner": "ddzero2c",
+  "url": "https://github.com/ddzero2c/aider.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Infra"
+        },
+        {
+          "level": 4,
+          "name": "OpenFGA"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-11-15T16:31:48Z",
+    "description": "Neovim plugin for OpenFGA modeling language support",
+    "isArchived": false,
+    "lastCommit": "2024-11-18T16:51:55Z",
+    "nameWithOwner": "hedengran/fga.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fga.nvim",
+  "owner": "hedengran",
+  "url": "https://github.com/hedengran/fga.nvim"
+}

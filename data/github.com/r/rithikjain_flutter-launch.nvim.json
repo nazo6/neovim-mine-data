@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Dart, Flutter"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-11-10T07:20:12Z",
+    "description": "A neovim plugin that supports attaching to flutter and performing basic reloads",
+    "isArchived": false,
+    "lastCommit": "2024-11-20T06:53:30Z",
+    "nameWithOwner": "rithikjain/flutter-launch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "flutter-launch.nvim",
+  "owner": "rithikjain",
+  "url": "https://github.com/rithikjain/flutter-launch.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Template Engine"
+        },
+        {
+          "level": 3,
+          "name": "Jinja"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-11-21T13:46:04Z",
+    "description": "This plugin aims to offer an easy way to use the Jinja2 template engine in Neovim. It utilizes the lupa engine, providing a straightforward method to integrate Lupa into Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-11-21T13:48:02Z",
+    "nameWithOwner": "you-n-g/jinja-engine.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "jinja",
+      "neovim",
+      "neovim-plugin",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jinja-engine.nvim",
+  "owner": "you-n-g",
+  "url": "https://github.com/you-n-g/jinja-engine.nvim"
+}

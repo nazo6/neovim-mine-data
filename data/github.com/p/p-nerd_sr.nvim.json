@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-11-21T20:22:15Z",
+    "description": "Telescope-powered multi-file search & replace plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-11-22T06:31:29Z",
+    "nameWithOwner": "p-nerd/sr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sr.nvim",
+  "owner": "p-nerd",
+  "url": "https://github.com/p-nerd/sr.nvim"
+}

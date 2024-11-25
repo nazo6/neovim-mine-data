@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Improve Mappings"
+        },
+        {
+          "level": 3,
+          "name": "Cyrillic"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-11-17T09:02:47Z",
+    "description": "Adds Cyrillic support to NeoVim",
+    "isArchived": false,
+    "lastCommit": "2024-11-17T09:48:58Z",
+    "nameWithOwner": "eojysele/cyrillic-keymaps.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "cyrillic",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cyrillic-keymaps.nvim",
+  "owner": "eojysele",
+  "url": "https://github.com/eojysele/cyrillic-keymaps.nvim"
+}

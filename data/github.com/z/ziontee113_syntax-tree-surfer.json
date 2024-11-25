@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Motion"
-        },
-        {
-          "level": 3,
-          "name": "Vertical Move"
-        }
       ],
-      "file": "motion.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -41,7 +29,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-04-13T01:11:59Z",
     "description": "A plugin for Neovim that helps you surf through your document and move elements around using the nvim-treesitter API.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-10-06T14:27:32Z",
     "nameWithOwner": "ziontee113/syntax-tree-surfer",
     "primaryLanguage": {

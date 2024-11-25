@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotfiles"
+        },
+        {
+          "level": 5,
+          "name": "stow"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-11-12T23:51:15Z",
+    "description": "Plugin to manage GNU Stow from within neovim",
+    "isArchived": false,
+    "lastCommit": "2024-11-15T21:01:23Z",
+    "nameWithOwner": "stephansama/stow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "gnu-stow",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "stow"
+    ]
+  },
+  "domain": "github.com",
+  "name": "stow.nvim",
+  "owner": "stephansama",
+  "url": "https://github.com/stephansama/stow.nvim"
+}
