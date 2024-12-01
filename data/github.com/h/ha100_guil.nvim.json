@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Other Editor"
+        },
+        {
+          "level": 4,
+          "name": "Xcode"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-11-29T13:08:50Z",
+    "description": "Xcode style header creator for nvim",
+    "isArchived": false,
+    "lastCommit": "2024-11-30T10:15:32Z",
+    "nameWithOwner": "ha100/guil.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "guil.nvim",
+  "owner": "ha100",
+  "url": "https://github.com/ha100/guil.nvim"
+}

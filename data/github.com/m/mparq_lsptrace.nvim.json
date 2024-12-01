@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "lsptrace"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-11-29T11:52:54Z",
+    "description": "Neovim plugin to view lsptrace files",
+    "isArchived": false,
+    "lastCommit": "2024-11-30T09:05:33Z",
+    "nameWithOwner": "mparq/lsptrace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsptrace.nvim",
+  "owner": "mparq",
+  "url": "https://github.com/mparq/lsptrace.nvim"
+}

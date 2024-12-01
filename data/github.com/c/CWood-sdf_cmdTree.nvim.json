@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-03-07T04:39:41Z",
+    "description": "Declaratively make your neovim user commands",
+    "isArchived": false,
+    "lastCommit": "2024-11-22T22:41:24Z",
+    "nameWithOwner": "CWood-sdf/cmdTree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmdTree.nvim",
+  "owner": "CWood-sdf",
+  "url": "https://github.com/CWood-sdf/cmdTree.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Zen Mode"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-11-25T17:31:06Z",
+    "description": "Nvim Plugin: FocusHere allows the highlight to only work on the code or text fragment you want to focus on.",
+    "isArchived": false,
+    "lastCommit": "2024-11-25T21:01:03Z",
+    "nameWithOwner": "kelvinauta/focushere.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "focushere.nvim",
+  "owner": "kelvinauta",
+  "url": "https://github.com/kelvinauta/focushere.nvim"
+}

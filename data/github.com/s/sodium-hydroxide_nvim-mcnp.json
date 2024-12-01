@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "MCNP"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-11-26T19:43:40Z",
+    "description": "MCNP Plugin for Vim",
+    "isArchived": false,
+    "lastCommit": "2024-11-26T20:11:50Z",
+    "nameWithOwner": "sodium-hydroxide/nvim-mcnp",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mcnp",
+  "owner": "sodium-hydroxide",
+  "url": "https://github.com/sodium-hydroxide/nvim-mcnp"
+}

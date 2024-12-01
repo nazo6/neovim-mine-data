@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Lint"
+        },
+        {
+          "level": 4,
+          "name": "OXC"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-11-25T18:14:54Z",
+    "description": "oxlint LSP server plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-11-26T06:09:43Z",
+    "nameWithOwner": "soulsam480/nvim-oxlint",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lazyvim",
+      "neovim",
+      "oxc",
+      "oxlint"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-oxlint",
+  "owner": "soulsam480",
+  "url": "https://github.com/soulsam480/nvim-oxlint"
+}

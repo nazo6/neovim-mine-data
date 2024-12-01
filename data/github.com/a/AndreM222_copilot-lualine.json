@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2023-11-28T13:47:07Z",
+    "description": "This is a component which makes a status icon for copilot.lua",
+    "isArchived": false,
+    "lastCommit": "2024-09-03T14:58:07Z",
+    "nameWithOwner": "AndreM222/copilot-lualine",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 63,
+    "topics": [
+      "component",
+      "lua",
+      "lualine",
+      "neovim-lua",
+      "neovim-plugin",
+      "neovim-statusline",
+      "nvim",
+      "statusline",
+      "copilot",
+      "copilot-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "copilot-lualine",
+  "owner": "AndreM222",
+  "url": "https://github.com/AndreM222/copilot-lualine"
+}

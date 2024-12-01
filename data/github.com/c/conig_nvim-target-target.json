@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "R"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-11-29T00:01:09Z",
+    "description": "Helper functions for working in targets in R",
+    "isArchived": false,
+    "lastCommit": "2024-11-30T03:25:46Z",
+    "nameWithOwner": "conig/nvim-target-target",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-target-target",
+  "owner": "conig",
+  "url": "https://github.com/conig/nvim-target-target"
+}

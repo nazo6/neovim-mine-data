@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-11-28T16:28:56Z",
+    "description": "Use luagit2 to realize a :Git in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-11-29T04:37:43Z",
+    "nameWithOwner": "Freed-Wu/git2.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "libgit2",
+      "lua",
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "git2.nvim",
+  "owner": "Freed-Wu",
+  "url": "https://github.com/Freed-Wu/git2.nvim"
+}

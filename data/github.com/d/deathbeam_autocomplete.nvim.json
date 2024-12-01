@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 140,
+    "commitCountLastYear": 144,
     "createdAt": "2024-02-16T21:12:59Z",
     "description": "Very simple and minimal autocompletion for cmdline and buffer using LSP and Tree-sitter with signature help",
     "isArchived": false,
-    "lastCommit": "2024-11-22T08:31:44Z",
+    "lastCommit": "2024-11-30T12:09:52Z",
     "nameWithOwner": "deathbeam/autocomplete.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 46,
+    "star": 53,
     "topics": [
       "neovim",
       "neovim-plugin",

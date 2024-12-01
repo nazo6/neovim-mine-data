@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 102,
+    "commitCountLastYear": 113,
     "createdAt": "2024-09-12T05:23:37Z",
     "description": "A plugin for building and updating neovim from source within neovim.",
     "isArchived": false,
-    "lastCommit": "2024-11-12T18:33:01Z",
+    "lastCommit": "2024-11-29T06:43:02Z",
     "nameWithOwner": "rootiest/nvim-updater.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 7,
     "topics": [
       "neovim",
       "neovim-plugin"

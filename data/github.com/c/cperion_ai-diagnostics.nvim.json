@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 138,
+    "createdAt": "2024-11-26T11:11:51Z",
+    "description": "AI friendly LSP diagnostics in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-11-27T14:02:02Z",
+    "nameWithOwner": "cperion/ai-diagnostics.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ai-diagnostics.nvim",
+  "owner": "cperion",
+  "url": "https://github.com/cperion/ai-diagnostics.nvim"
+}

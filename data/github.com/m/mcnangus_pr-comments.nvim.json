@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Pull Request"
+        },
+        {
+          "level": 3,
+          "name": "Pull Request Comment"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-11-27T03:50:39Z",
+    "description": "Use lsp_lines to load pr comments into neovim using vim quickfix list and diagnostics",
+    "isArchived": false,
+    "lastCommit": "2024-11-29T02:35:49Z",
+    "nameWithOwner": "mcnangus/pr-comments.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pr-comments.nvim",
+  "owner": "mcnangus",
+  "url": "https://github.com/mcnangus/pr-comments.nvim"
+}

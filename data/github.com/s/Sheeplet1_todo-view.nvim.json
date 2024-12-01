@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-11-26T07:09:29Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-27T06:50:04Z",
+    "nameWithOwner": "Sheeplet1/todo-view.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-view.nvim",
+  "owner": "Sheeplet1",
+  "url": "https://github.com/Sheeplet1/todo-view.nvim"
+}

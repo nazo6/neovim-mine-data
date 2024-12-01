@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Clingo"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-11-25T23:19:49Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-29T00:37:16Z",
+    "nameWithOwner": "rkaminsk/clingo-syntax.nvim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clingo-syntax.nvim",
+  "owner": "rkaminsk",
+  "url": "https://github.com/rkaminsk/clingo-syntax.nvim"
+}

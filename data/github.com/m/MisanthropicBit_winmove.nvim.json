@@ -24,22 +24,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 40,
     "createdAt": "2023-08-05T07:54:25Z",
-    "description": "A plugin that makes it easy to rearrange windows",
+    "description": "A neovim plugin that makes it easy to move, swap, and resize windows",
     "isArchived": false,
-    "lastCommit": "2024-11-21T13:36:27Z",
+    "lastCommit": "2024-11-29T15:03:48Z",
     "nameWithOwner": "MisanthropicBit/winmove.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 5,
     "topics": [
       "move",
       "neovim",
       "resize",
-      "window"
+      "window",
+      "swap",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
