@@ -8,30 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Calculation"
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
         }
       ],
-      "file": "calculation.md",
+      "file": "db.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 33,
-    "createdAt": "2024-11-06T09:14:46Z",
-    "description": "calculator for neovim",
+    "commitCountLastYear": 9,
+    "createdAt": "2024-11-30T21:05:23Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-11-26T08:14:04Z",
-    "nameWithOwner": "amizrah1/jir_calc.nvim",
+    "lastCommit": "2024-12-03T12:16:48Z",
+    "nameWithOwner": "OleJoik/squeel.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "jir_calc.nvim",
-  "owner": "amizrah1",
-  "url": "https://github.com/amizrah1/jir_calc.nvim"
+  "name": "squeel.nvim",
+  "owner": "OleJoik",
+  "url": "https://github.com/OleJoik/squeel.nvim"
 }

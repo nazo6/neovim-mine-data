@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Debug"
+          "name": "Animation"
         },
         {
           "level": 3,
-          "name": "REPL"
+          "name": "Snow effect"
         }
       ],
-      "file": "debugger_repl.md",
+      "file": "animation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2022-10-10T08:19:38Z",
-    "description": "Neovim Plugin to introduce a REPL that executes code in blocks by comments",
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-01T14:26:29Z",
+    "description": "❄️Let the snow fall in your editor❄️",
     "isArchived": false,
-    "lastCommit": "2022-10-10T09:07:57Z",
-    "nameWithOwner": "aoi-iter/brepl.nvim",
+    "lastCommit": "2024-12-02T01:43:32Z",
+    "nameWithOwner": "OJII3/snowfall.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "brepl.nvim",
-  "owner": "aoi-iter",
-  "url": "https://github.com/aoi-iter/brepl.nvim"
+  "name": "snowfall.nvim",
+  "owner": "OJII3",
+  "url": "https://github.com/OJII3/snowfall.nvim"
 }

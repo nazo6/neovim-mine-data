@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util wrapper"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-12-03T21:18:11Z",
+    "description": "Helper module for Neovim Lua development",
+    "isArchived": false,
+    "lastCommit": "2024-12-07T01:16:16Z",
+    "nameWithOwner": "Allaman/toolbox.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "development",
+      "helper",
+      "lua",
+      "module",
+      "neovim",
+      "utility"
+    ]
+  },
+  "domain": "github.com",
+  "name": "toolbox.nvim",
+  "owner": "Allaman",
+  "url": "https://github.com/Allaman/utils.nvim"
+}

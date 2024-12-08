@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2024-02-23T07:05:28Z",
+    "description": "collama.nvim is a Neovim plugin that leverages Ollama to provide source code completion capabilities similar to GitHub Copilot.",
+    "isArchived": false,
+    "lastCommit": "2024-11-05T13:15:12Z",
+    "nameWithOwner": "yuys13/collama.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "collama.nvim",
+  "owner": "yuys13",
+  "url": "https://github.com/yuys13/collama.nvim"
+}

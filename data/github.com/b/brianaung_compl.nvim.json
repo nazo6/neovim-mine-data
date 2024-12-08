@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Completion"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -24,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 50,
+    "commitCountLastYear": 52,
     "createdAt": "2024-06-01T10:52:25Z",
     "description": "Async code auto-completion for Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-11-27T12:06:10Z",
+    "lastCommit": "2024-12-07T07:24:54Z",
     "nameWithOwner": "brianaung/compl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19,
+    "star": 21,
     "topics": [
       "autocompletion",
       "neovim",
@@ -44,5 +58,5 @@
   "domain": "github.com",
   "name": "compl.nvim",
   "owner": "brianaung",
-  "url": "https://github.com/brianaung/autocompl.nvim"
+  "url": "https://github.com/brianaung/compl.nvim"
 }

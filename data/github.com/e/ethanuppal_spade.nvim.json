@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Spade"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2024-12-01T19:16:07Z",
+    "description": "Syntax highlighting, LSP, and autoformatting for Spade in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-07T00:08:17Z",
+    "nameWithOwner": "ethanuppal/spade.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin",
+      "spade",
+      "syntax-highlighting",
+      "autoformat"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spade.nvim",
+  "owner": "ethanuppal",
+  "url": "https://github.com/ethanuppal/spade.nvim"
+}

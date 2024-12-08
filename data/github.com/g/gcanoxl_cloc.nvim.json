@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Search"
+        },
+        {
+          "level": 2,
+          "name": "Line Count"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2024-06-14T11:35:27Z",
+    "description": "A Neovim plugin that counts how many lines of code a project contains and provides intuitive API.",
+    "isArchived": false,
+    "lastCommit": "2024-12-05T22:17:24Z",
+    "nameWithOwner": "gcanoxl/cloc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cloc.nvim",
+  "owner": "gcanoxl",
+  "url": "https://github.com/gcanoxl/cloc.nvim"
+}

@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 76,
     "createdAt": "2023-08-31T22:00:06Z",
-    "description": "Ollero is a nvim plugin for integrating `ollama` with neovim locally",
+    "description": "Ollero is a nvim plugin for integrating Ollama with neovim locally",
     "isArchived": false,
     "lastCommit": "2024-09-30T20:32:18Z",
     "nameWithOwner": "marco-souza/ollero.nvim",
@@ -37,7 +37,8 @@
       "neovim",
       "neovim-plugin",
       "nvim",
-      "ollama"
+      "ollama",
+      "ai"
     ]
   },
   "domain": "github.com",

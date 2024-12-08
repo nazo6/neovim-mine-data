@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Highlight"
+        },
+        {
+          "level": 3,
+          "name": "Whitespace"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-12-03T06:07:35Z",
+    "description": "whitespace highlight for nvim",
+    "isArchived": false,
+    "lastCommit": "2024-12-06T06:14:39Z",
+    "nameWithOwner": "aidancz/whitespace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "whitespace.nvim",
+  "owner": "aidancz",
+  "url": "https://github.com/aidancz/whitespace.nvim"
+}

@@ -30,19 +30,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 93,
+    "commitCountLastYear": 95,
     "createdAt": "2020-05-29T13:37:01Z",
-    "description": "lua `fork` of vim-web-devicons for neovim",
+    "description": "Provides Nerd Font icons (glyphs) for use by neovim plugins",
     "isArchived": false,
-    "lastCommit": "2024-11-30T00:05:37Z",
+    "lastCommit": "2024-12-07T05:00:58Z",
     "nameWithOwner": "nvim-tree/nvim-web-devicons",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2123,
+    "star": 2131,
     "topics": [
-      "nerd-fonts"
+      "nerd-fonts",
+      "icons",
+      "lua",
+      "neovim",
+      "neovim-plugins"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-02T14:07:24Z",
+    "description": "Pretty Todos for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-02T23:30:02Z",
+    "nameWithOwner": "KasperJSdeVries/plan.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plan.nvim",
+  "owner": "KasperJSdeVries",
+  "url": "https://github.com/KasperJSdeVries/plan.nvim"
+}

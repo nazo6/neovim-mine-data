@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Calculation"
-        }
       ],
-      "file": "calculation.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-12-14T06:23:23Z",
     "description": "Neovim plugin to convert numberical base of selection or current word",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-11-03T18:15:55Z",
     "nameWithOwner": "trmckay/based.nvim",
     "primaryLanguage": {

@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-11-30T02:23:54Z",
+    "description": "A session manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2024-11-30T02:45:51Z",
+    "nameWithOwner": "xuanyuwang/session-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "session-manager.nvim",
+  "owner": "xuanyuwang",
+  "url": "https://github.com/xuanyuwang/session-manager.nvim"
+}

@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
+          "name": "PHP"
         },
         {
           "level": 3,
-          "name": "Number"
+          "name": "Slim"
         }
       ],
-      "file": "readme.md",
+      "file": "php.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 2,
-    "createdAt": "2024-10-12T15:27:19Z",
-    "description": "Toggle between relative and absolute line numbers based on mode",
+    "createdAt": "2024-12-03T22:10:11Z",
+    "description": "a ugly plugin for nvim and Slim4",
     "isArchived": false,
-    "lastCommit": "2024-10-12T15:41:36Z",
-    "nameWithOwner": "iiixio/nvim-dynamiclinenumbers",
+    "lastCommit": "2024-12-03T22:11:36Z",
+    "nameWithOwner": "ajmacias/slim4-telescope.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "nvim-dynamiclinenumbers",
-  "owner": "iiixio",
-  "url": "https://github.com/iiixio/nvim-dynamiclinenumbers"
+  "name": "slim4-telescope.nvim",
+  "owner": "ajmacias",
+  "url": "https://github.com/ajmacias/slim4-telescope.nvim"
 }

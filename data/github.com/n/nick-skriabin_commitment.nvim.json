@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        },
+        {
+          "level": 3,
+          "name": "commit reminder"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2024-12-07T11:35:11Z",
+    "description": "Never forget to commit ever again.",
+    "isArchived": false,
+    "lastCommit": "2024-12-08T00:06:53Z",
+    "nameWithOwner": "nick-skriabin/commitment.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commitment.nvim",
+  "owner": "nick-skriabin",
+  "url": "https://github.com/nick-skriabin/commitment.nvim"
+}

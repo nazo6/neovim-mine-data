@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "focus"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2017-09-23T15:44:04Z",
+    "description": "blinds.nvim emphasizes the current window by shading the non-active windows",
+    "isArchived": false,
+    "lastCommit": "2024-11-25T06:18:35Z",
+    "nameWithOwner": "jceb/blinds.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "plugin",
+      "gui",
+      "focus",
+      "nvim",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blinds.nvim",
+  "owner": "jceb",
+  "url": "https://github.com/jceb/blinds.nvim"
+}

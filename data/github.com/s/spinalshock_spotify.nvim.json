@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-12-01T19:30:11Z",
+    "description": "Plugin to control Spotify within NeoVim on MacOS",
+    "isArchived": false,
+    "lastCommit": "2024-12-01T22:40:01Z",
+    "nameWithOwner": "spinalshock/spotify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "awesome-neovim",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "spotify"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spotify.nvim",
+  "owner": "spinalshock",
+  "url": "https://github.com/spinalshock/spotify.nvim"
+}

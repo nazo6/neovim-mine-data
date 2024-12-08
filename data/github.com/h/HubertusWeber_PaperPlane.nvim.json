@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-12-02T17:39:19Z",
+    "description": "A lightweight Neovim plugin that lets you soar straight to the PDF version of your current file.",
+    "isArchived": false,
+    "lastCommit": "2024-12-05T12:35:37Z",
+    "nameWithOwner": "HubertusWeber/PaperPlane.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "PaperPlane.nvim",
+  "owner": "HubertusWeber",
+  "url": "https://github.com/HubertusWeber/PaperPlane.nvim"
+}

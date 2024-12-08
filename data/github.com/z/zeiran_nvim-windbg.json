@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Windows"
+        },
+        {
+          "level": 4,
+          "name": "windbg"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-03T20:57:31Z",
+    "description": "hard mode debugging",
+    "isArchived": false,
+    "lastCommit": "2024-12-03T21:09:51Z",
+    "nameWithOwner": "zeiran/nvim-windbg",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-windbg",
+  "owner": "zeiran",
+  "url": "https://github.com/zeiran/nvim-windbg"
+}

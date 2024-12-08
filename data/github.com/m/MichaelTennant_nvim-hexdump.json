@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hex"
+        }
+      ],
+      "file": "hex.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-12-02T15:04:01Z",
+    "description": "A neovim plug-in for patching binaries using xxd to convert the binary to a hexdump and back.",
+    "isArchived": false,
+    "lastCommit": "2024-12-03T14:17:32Z",
+    "nameWithOwner": "MichaelTennant/nvim-hexdump",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-hexdump",
+  "owner": "MichaelTennant",
+  "url": "https://github.com/MichaelTennant/nvim-hexdump"
+}

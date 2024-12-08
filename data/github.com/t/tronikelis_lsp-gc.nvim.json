@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Disable/Enable"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-11-30T14:05:37Z",
+    "description": "Simple plugin to stop lsp clients on inactive nvim instances",
+    "isArchived": false,
+    "lastCommit": "2024-11-30T14:05:47Z",
+    "nameWithOwner": "tronikelis/lsp-gc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-gc.nvim",
+  "owner": "tronikelis",
+  "url": "https://github.com/tronikelis/lsp-gc.nvim"
+}

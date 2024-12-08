@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-12-05T22:27:22Z",
+    "description": "Neovim plugin to execute individual JS/TS tests with jest",
+    "isArchived": false,
+    "lastCommit": "2024-12-05T23:03:09Z",
+    "nameWithOwner": "sashankr98/nvim-jester",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jester",
+  "owner": "sashankr98",
+  "url": "https://github.com/sashankr98/nvim-jester"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "WezTerm"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-11-30T07:20:22Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-11-30T12:21:02Z",
+    "nameWithOwner": "kedarmd/nvim-wez-navigator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-wez-navigator.nvim",
+  "owner": "kedarmd",
+  "url": "https://github.com/kedarmd/nvim-wez-navigator.nvim"
+}

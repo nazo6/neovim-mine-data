@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Swift"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-11-30T13:36:19Z",
+    "description": "A plugin to help me with frequent refactorings of Swift code.",
+    "isArchived": false,
+    "lastCommit": "2024-12-07T22:08:46Z",
+    "nameWithOwner": "ha100/thor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "thor.nvim",
+  "owner": "ha100",
+  "url": "https://github.com/ha100/thor.nvim"
+}
