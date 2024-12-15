@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-12-11T21:07:30Z",
+    "description": "Neovim (NvChad optimized) keybinding search and customization with Telescope and integrations.",
+    "isArchived": false,
+    "lastCommit": "2024-12-11T22:05:36Z",
+    "nameWithOwner": "anongecko/keywhiz.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keywhiz.nvim",
+  "owner": "anongecko",
+  "url": "https://github.com/anongecko/keywhiz.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Noti"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-11T18:53:59Z",
+    "description": "The neovim plugin that makes the editing process of noti layout files more pleasant.",
+    "isArchived": false,
+    "lastCommit": "2024-12-11T20:25:49Z",
+    "nameWithOwner": "noti-rs/noti.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "noti.nvim",
+  "owner": "noti-rs",
+  "url": "https://github.com/noti-rs/noti.nvim"
+}

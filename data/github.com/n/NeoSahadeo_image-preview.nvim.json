@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Viewer"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-12-09T17:34:58Z",
+    "description": "An image preview for nvim-tree that uses feh.",
+    "isArchived": false,
+    "lastCommit": "2024-12-09T17:37:26Z",
+    "nameWithOwner": "NeoSahadeo/image-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "image-preview.nvim",
+  "owner": "NeoSahadeo",
+  "url": "https://github.com/NeoSahadeo/image-preview.nvim"
+}

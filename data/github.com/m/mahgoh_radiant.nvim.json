@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Radiant"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-07T23:08:11Z",
+    "description": "Radiant language support for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-07T23:52:30Z",
+    "nameWithOwner": "mahgoh/radiant.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "radiant.nvim",
+  "owner": "mahgoh",
+  "url": "https://github.com/mahgoh/radiant.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screenshot"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-12-09T09:20:56Z",
+    "description": "NeoVim plugin for creating beautiful screenshots of your code using goshot",
+    "isArchived": false,
+    "lastCommit": "2024-12-09T09:43:46Z",
+    "nameWithOwner": "watzon/goshot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "carbon-now-sh",
+      "golang",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "screenshot",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "goshot.nvim",
+  "owner": "watzon",
+  "url": "https://github.com/watzon/goshot.nvim"
+}

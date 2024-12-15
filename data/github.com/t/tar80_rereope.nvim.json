@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Operator"
+        },
+        {
+          "level": 3,
+          "name": "Replace"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-13T10:50:14Z",
+    "description": "Replace with register operator",
+    "isArchived": false,
+    "lastCommit": "2024-12-14T09:38:15Z",
+    "nameWithOwner": "tar80/rereope.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rereope.nvim",
+  "owner": "tar80",
+  "url": "https://github.com/tar80/rereope.nvim"
+}

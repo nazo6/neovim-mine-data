@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-12-12T07:44:39Z",
+    "description": "drop-in replacement for builtin f/F t/T",
+    "isArchived": false,
+    "lastCommit": "2024-12-12T12:57:20Z",
+    "nameWithOwner": "aidancz/tT.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tT.nvim",
+  "owner": "aidancz",
+  "url": "https://github.com/aidancz/tT.nvim"
+}

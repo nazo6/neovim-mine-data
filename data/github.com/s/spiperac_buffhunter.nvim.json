@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-12-07T01:42:36Z",
+    "description": "Minimal neovim plugin for buffer listing and switching",
+    "isArchived": false,
+    "lastCommit": "2024-12-08T00:40:55Z",
+    "nameWithOwner": "spiperac/buffhunter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-buffers",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffhunter.nvim",
+  "owner": "spiperac",
+  "url": "https://github.com/spiperac/buffhunter.nvim"
+}

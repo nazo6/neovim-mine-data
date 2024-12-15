@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 27,
+    "commitCountLastYear": 28,
     "createdAt": "2024-11-30T12:08:53Z",
     "description": "🔒 A simple neovim plugin that allows the user to temporarily lock the paste register to \"0, and use 'd', 'c', 'x', and 's' motions while keeping the most recent yanked content easily accessible.",
     "isArchived": false,
-    "lastCommit": "2024-11-30T20:43:31Z",
+    "lastCommit": "2024-12-11T22:44:13Z",
     "nameWithOwner": "daltongd/yanklock.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 13,
+    "star": 14,
     "topics": [
       "nvim",
       "nvim-lua",

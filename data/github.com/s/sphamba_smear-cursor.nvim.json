@@ -20,18 +20,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 154,
+    "commitCountLastYear": 165,
     "createdAt": "2024-11-15T10:13:12Z",
     "description": "🌠 Neovim plugin to animate the cursor with a smear effect in all terminals",
     "isArchived": false,
-    "lastCommit": "2024-12-07T18:28:08Z",
+    "lastCommit": "2024-12-14T09:27:53Z",
     "nameWithOwner": "sphamba/smear-cursor.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 470,
+    "star": 515,
     "topics": [
+      "animation",
+      "cursor",
+      "interface",
+      "neovim",
+      "plugin",
+      "smooth",
+      "smooth-scrolling",
+      "ui"
     ]
   },
   "domain": "github.com",

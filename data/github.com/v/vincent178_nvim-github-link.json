@@ -21,7 +21,7 @@
     "description": "GithubLink is a Neovim plugin that generates Github links for the current line or selection in your code.",
     "isArchived": false,
     "lastCommit": "2024-09-12T11:35:20Z",
-    "nameWithOwner": "vincent178/nvim-github-linker",
+    "nameWithOwner": "vincent178/nvim-github-link",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -34,7 +34,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "nvim-github-linker",
+  "name": "nvim-github-link",
   "owner": "vincent178",
   "url": "https://github.com/vincent178/nvim-github-linker"
 }

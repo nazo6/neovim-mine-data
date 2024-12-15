@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-12-10T09:45:02Z",
+    "description": "A Neovim library for getting validated data from users.",
+    "isArchived": false,
+    "lastCommit": "2024-12-10T10:53:58Z",
+    "nameWithOwner": "vi013t/input.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "input.nvim",
+  "owner": "vi013t",
+  "url": "https://github.com/vi013t/input.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Insert"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-13T04:10:28Z",
+    "description": "insert newline/space without entering insert mode",
+    "isArchived": false,
+    "lastCommit": "2024-12-13T04:37:58Z",
+    "nameWithOwner": "aidancz/lfsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lfsp.nvim",
+  "owner": "aidancz",
+  "url": "https://github.com/aidancz/lfsp.nvim"
+}

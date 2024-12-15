@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 566,
+    "commitCountLastYear": 578,
     "createdAt": "2024-06-03T05:18:22Z",
     "description": "Secure terminal-based IDE for local JS development",
     "isArchived": false,
-    "lastCommit": "2024-11-03T09:03:14Z",
+    "lastCommit": "2024-12-14T06:10:00Z",
     "nameWithOwner": "legobeat/l7-devenv",
     "primaryLanguage": {
       "color": "#f1e05a",
@@ -31,7 +31,11 @@
       "neovim",
       "neovim-dotfiles",
       "nodejs",
-      "rootless-containers"
+      "rootless-containers",
+      "developer-experience",
+      "lsp",
+      "security",
+      "security-tools"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-12-12T04:19:49Z",
+    "description": "A flexible, customizable terminal toggle plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-12-12T12:24:00Z",
+    "nameWithOwner": "sajibt/flexterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "flexterm.nvim",
+  "owner": "sajibt",
+  "url": "https://github.com/sajibt/flexterm.nvim"
+}

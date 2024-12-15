@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "WebSocket"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2024-12-13T07:29:15Z",
+    "description": "Basic websocket support in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-14T06:51:26Z",
+    "nameWithOwner": "livinglogic-nl/ws.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ws.nvim",
+  "owner": "livinglogic-nl",
+  "url": "https://github.com/livinglogic-nl/ws.nvim"
+}

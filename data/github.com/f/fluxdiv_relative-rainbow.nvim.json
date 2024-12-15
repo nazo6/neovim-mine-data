@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Number"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-12-11T20:27:51Z",
+    "description": "Visual hints of relative distances from your cursor",
+    "isArchived": false,
+    "lastCommit": "2024-12-13T19:33:30Z",
+    "nameWithOwner": "fluxdiv/relative-rainbow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "relative-rainbow.nvim",
+  "owner": "fluxdiv",
+  "url": "https://github.com/fluxdiv/relative-rainbow.nvim"
+}

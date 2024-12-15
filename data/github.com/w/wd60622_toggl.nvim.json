@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-11T11:27:16Z",
+    "description": "Time tracking from neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-11T11:25:53Z",
+    "nameWithOwner": "wd60622/toggl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggl.nvim",
+  "owner": "wd60622",
+  "url": "https://github.com/wd60622/toggl.nvim"
+}

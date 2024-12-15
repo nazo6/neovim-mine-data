@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-10T18:31:10Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-12-10T19:27:31Z",
+    "nameWithOwner": "allcentury/telescope_csearch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-config",
+      "neovim-plugin",
+      "search",
+      "telescope",
+      "telescope-plugin",
+      "codesearch"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope_csearch.nvim",
+  "owner": "allcentury",
+  "url": "https://github.com/allcentury/telescope_csearch.nvim"
+}

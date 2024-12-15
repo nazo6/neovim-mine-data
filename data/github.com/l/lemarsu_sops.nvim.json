@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Security"
+        },
+        {
+          "level": 4,
+          "name": "Secrets"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-12-08T19:57:17Z",
+    "description": "plugin to allow you to edit encrypted sops file directly from the comfort of neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-08T19:56:09Z",
+    "nameWithOwner": "lemarsu/sops.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sops.nvim",
+  "owner": "lemarsu",
+  "url": "https://github.com/lemarsu/sops.nvim"
+}

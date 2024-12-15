@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Refactoring,Debugging"
+        },
+        {
+          "level": 4,
+          "name": "print debug"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 150,
+    "createdAt": "2024-10-16T14:43:38Z",
+    "description": "Neovim plugin to quickly insert log statements and capture log output",
+    "isArchived": false,
+    "lastCommit": "2024-12-12T01:19:02Z",
+    "nameWithOwner": "Goose97/timber.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 95,
+    "topics": [
+      "neovim-plugin",
+      "debugging",
+      "debugging-tool",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "timber.nvim",
+  "owner": "Goose97",
+  "url": "https://github.com/Goose97/timber.nvim"
+}

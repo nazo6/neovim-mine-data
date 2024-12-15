@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "Neovim doc"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-12-11T08:05:33Z",
+    "description": "Yet another plugin to open the official doc from help in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-12T05:52:21Z",
+    "nameWithOwner": "delphinus/open-official-doc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-official-doc.nvim",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/open-official-doc.nvim"
+}

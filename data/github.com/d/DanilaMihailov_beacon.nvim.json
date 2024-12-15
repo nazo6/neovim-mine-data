@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2020-06-23T14:15:07Z",
+    "description": "Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is",
+    "isArchived": false,
+    "lastCommit": "2024-06-25T05:56:04Z",
+    "nameWithOwner": "DanilaMihailov/beacon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 391,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "beacon.nvim",
+  "owner": "DanilaMihailov",
+  "url": "https://github.com/DanilaMihailov/beacon.nvim"
+}
