@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Azure"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-12-14T21:21:44Z",
+    "description": "Neovim wrapper for the Azure CLI",
+    "isArchived": false,
+    "lastCommit": "2024-12-15T17:32:26Z",
+    "nameWithOwner": "zachbuchli/azcli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "azcli.nvim",
+  "owner": "zachbuchli",
+  "url": "https://github.com/zachbuchli/azcli.nvim"
+}

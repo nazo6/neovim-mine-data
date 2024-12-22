@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2024-12-20T00:09:30Z",
+    "description": "A (basic) neovim gemini client",
+    "isArchived": false,
+    "lastCommit": "2024-12-22T07:35:52Z",
+    "nameWithOwner": "Euro20179/nvim-gemini",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "gemini",
+      "gemini-client",
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gemini",
+  "owner": "Euro20179",
+  "url": "https://github.com/Euro20179/nvim-gemini"
+}

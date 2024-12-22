@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Rust"
+          "name": "AI Coding"
         },
         {
           "level": 3,
-          "name": "Debug"
+          "name": "Aider"
         }
       ],
-      "file": "rust.md",
+      "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2024-11-16T19:08:50Z",
-    "description": null,
+    "commitCountLastYear": 6,
+    "createdAt": "2024-12-15T06:53:26Z",
+    "description": "Aider neovim plugin",
     "isArchived": false,
-    "lastCommit": "2024-11-24T20:28:46Z",
-    "nameWithOwner": "omagdy7/dbgln.nvim",
+    "lastCommit": "2024-12-21T08:22:42Z",
+    "nameWithOwner": "kentchiu/aider.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "dbgln.nvim",
-  "owner": "omagdy7",
-  "url": "https://github.com/omagdy7/dbgln.nvim"
+  "name": "aider.nvim",
+  "owner": "kentchiu",
+  "url": "https://github.com/kentchiu/aider.nvim"
 }

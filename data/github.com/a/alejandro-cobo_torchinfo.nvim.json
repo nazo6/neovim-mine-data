@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "pydoc"
+        },
+        {
+          "level": 3,
+          "name": "Pytorch"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-12-19T18:52:11Z",
+    "description": "Show information about Pytorch modules inside Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-12-21T15:58:31Z",
+    "nameWithOwner": "alejandro-cobo/torchinfo.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "torchinfo.nvim",
+  "owner": "alejandro-cobo",
+  "url": "https://github.com/alejandro-cobo/torchinfo.nvim"
+}

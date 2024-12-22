@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-12-18T02:35:00Z",
+    "description": "A simple Kanban board plugin for Neovim to manage tasks in a TODO.md file.",
+    "isArchived": false,
+    "lastCommit": "2024-12-18T04:37:11Z",
+    "nameWithOwner": "balinux/nvim-kanban-board",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "kanban",
+      "lua",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-kanban-board",
+  "owner": "balinux",
+  "url": "https://github.com/balinux/nvim-kanban-board"
+}

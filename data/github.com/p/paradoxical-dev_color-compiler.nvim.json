@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorsheme Compiler"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-12-17T03:19:16Z",
+    "description": "A simple utility to precompile your current theme to increase startup times",
+    "isArchived": false,
+    "lastCommit": "2024-12-19T07:20:26Z",
+    "nameWithOwner": "paradoxical-dev/color-compiler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "color-compiler.nvim",
+  "owner": "paradoxical-dev",
+  "url": "https://github.com/paradoxical-dev/color-compiler.nvim"
+}

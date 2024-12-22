@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Line count"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-12-19T11:48:43Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-12-20T09:18:41Z",
+    "nameWithOwner": "EyzeCOLD/nvim-function-linecount",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-function-linecount",
+  "owner": "EyzeCOLD",
+  "url": "https://github.com/EyzeCOLD/nvim-function-linecount"
+}

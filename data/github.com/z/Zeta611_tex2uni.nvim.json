@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Unicode character"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-16T03:31:29Z",
+    "description": "TeX-to-Unicode conversion in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-16T04:13:58Z",
+    "nameWithOwner": "Zeta611/tex2uni.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tex2uni.nvim",
+  "owner": "Zeta611",
+  "url": "https://github.com/Zeta611/tex2uni.nvim"
+}

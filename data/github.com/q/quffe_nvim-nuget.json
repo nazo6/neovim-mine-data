@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotnet"
+        },
+        {
+          "level": 5,
+          "name": "Nuget"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-12-13T04:53:56Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-12-15T07:35:09Z",
+    "nameWithOwner": "quffe/nvim-nuget",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-nuget",
+  "owner": "quffe",
+  "url": "https://github.com/quffe/nvim-nuget"
+}

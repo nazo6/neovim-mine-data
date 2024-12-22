@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "close"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-16T03:51:45Z",
+    "description": "A Neovim plugin for precise window management, featuring directional closing.",
+    "isArchived": false,
+    "lastCommit": "2024-12-21T02:51:39Z",
+    "nameWithOwner": "tomxkay/pane-surgeon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pane-surgeon.nvim",
+  "owner": "tomxkay",
+  "url": "https://github.com/tomxkay/pane-surgeon.nvim"
+}

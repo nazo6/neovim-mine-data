@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2024-12-18T17:57:25Z",
+    "description": "Neovim + Ollama",
+    "isArchived": false,
+    "lastCommit": "2024-12-20T20:35:06Z",
+    "nameWithOwner": "hmunye/echo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "echo.nvim",
+  "owner": "hmunye",
+  "url": "https://github.com/hmunye/echo.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Auto generate colorscheme"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2024-12-17T06:48:02Z",
+    "description": "Plugin to complement walltheme tool",
+    "isArchived": false,
+    "lastCommit": "2024-12-18T03:26:21Z",
+    "nameWithOwner": "JoseMM2002/walltheme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "colorscheme",
+      "colorscheme-generator",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "walltheme.nvim",
+  "owner": "JoseMM2002",
+  "url": "https://github.com/JoseMM2002/walltheme.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Svelte"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-12-12T17:07:43Z",
+    "description": "Jump inbetween related files in sveltekit.",
+    "isArchived": false,
+    "lastCommit": "2024-12-16T18:07:04Z",
+    "nameWithOwner": "rossvold/sveltekit_motions.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sveltekit_motions.nvim",
+  "owner": "rossvold",
+  "url": "https://github.com/theIbraDev/sveltekit_motions.nvim"
+}

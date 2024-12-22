@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "File Header"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-12-15T21:34:31Z",
+    "description": "Instruct LLM to change selected text with comments in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-16T09:25:29Z",
+    "nameWithOwner": "verdigris12/auctor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "auctor.nvim",
+  "owner": "verdigris12",
+  "url": "https://github.com/verdigris12/auctor.nvim"
+}

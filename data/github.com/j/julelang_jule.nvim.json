@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Jule"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2024-12-15T16:20:33Z",
+    "description": "Official Jule extension for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-17T20:18:41Z",
+    "nameWithOwner": "julelang/jule.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "jule",
+      "julelang",
+      "neovim",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jule.nvim",
+  "owner": "julelang",
+  "url": "https://github.com/julelang/jule.nvim"
+}

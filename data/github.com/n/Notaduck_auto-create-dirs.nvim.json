@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Save"
+        },
+        {
+          "level": 3,
+          "name": "Create directory"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-12-16T21:09:05Z",
+    "description": "auto create directories in nvim",
+    "isArchived": false,
+    "lastCommit": "2024-12-20T19:31:40Z",
+    "nameWithOwner": "Notaduck/auto-create-dirs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-create-dirs.nvim",
+  "owner": "Notaduck",
+  "url": "https://github.com/Notaduck/auto-create-dirs.nvim"
+}

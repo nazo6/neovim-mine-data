@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 125,
+    "commitCountLastYear": 144,
     "createdAt": "2024-11-16T04:42:19Z",
     "description": "the (eventually) infinitely extensible markdown note-taking work environment that you can have in Neovim without having to ever leave the comfort of markdown.",
     "isArchived": false,
-    "lastCommit": "2024-12-04T23:32:17Z",
-    "nameWithOwner": "clpi/word.lua",
+    "lastCommit": "2024-12-20T07:15:16Z",
+    "nameWithOwner": "clpi/down.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 13,
+    "star": 14,
     "topics": [
       "markdown",
       "md",
@@ -34,14 +34,14 @@
       "neovim-plugin",
       "notes",
       "nvim",
-      "nvim-plugin",
       "org",
       "org-mode",
-      "zettelkasten"
+      "zettelkasten",
+      "obsidian"
     ]
   },
   "domain": "github.com",
-  "name": "word.lua",
+  "name": "down.lua",
   "owner": "clpi",
   "url": "https://github.com/clpi/word.lua"
 }

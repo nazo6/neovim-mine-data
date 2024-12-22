@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Keymap"
+        },
+        {
+          "level": 2,
+          "name": "Escape"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2022-03-18T23:05:07Z",
+    "description": "Escape from insert mode, terminal mode & more without delay",
+    "isArchived": false,
+    "lastCommit": "2024-07-05T21:12:00Z",
+    "nameWithOwner": "TheBlob42/houdini.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "houdini.nvim",
+  "owner": "TheBlob42",
+  "url": "https://github.com/TheBlob42/houdini.nvim"
+}

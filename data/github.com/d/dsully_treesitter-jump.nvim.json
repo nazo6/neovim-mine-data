@@ -8,34 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Comment out"
+          "name": "Jump"
         },
         {
           "level": 3,
-          "name": "Comment Header"
+          "name": "Treesitter Node"
         }
       ],
-      "file": "comment.md",
+      "file": "jump.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2022-08-15T15:40:19Z",
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-20T20:19:05Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2022-08-16T14:46:56Z",
-    "nameWithOwner": "HeCodes2Much/header.nvim",
+    "lastCommit": "2024-12-20T20:35:43Z",
+    "nameWithOwner": "dsully/treesitter-jump.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 2,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "header.nvim",
-  "owner": "HeCodes2Much",
-  "url": "https://github.com/The-Repo-Club/header.nvim"
+  "name": "treesitter-jump.nvim",
+  "owner": "dsully",
+  "url": "https://github.com/dsully/treesitter-jump.nvim"
 }

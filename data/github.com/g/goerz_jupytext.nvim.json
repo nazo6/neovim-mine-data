@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "pydoc"
+        },
+        {
+          "level": 3,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-12-14T18:13:55Z",
+    "description": "Neovim plugin for editing Jupyter ipynb files via jupytext",
+    "isArchived": false,
+    "lastCommit": "2024-12-20T21:48:55Z",
+    "nameWithOwner": "goerz/jupytext.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "ipynb",
+      "jupyter",
+      "jupytext",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jupytext.nvim",
+  "owner": "goerz",
+  "url": "https://github.com/goerz/jupytext.nvim"
+}
