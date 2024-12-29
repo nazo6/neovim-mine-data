@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-12-24T12:32:58Z",
+    "description": "Basic floating terminal for Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-24T12:31:57Z",
+    "nameWithOwner": "benbrackenbury/floating-terminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floating-terminal.nvim",
+  "owner": "benbrackenbury",
+  "url": "https://github.com/benbrackenbury/floating-terminal.nvim"
+}

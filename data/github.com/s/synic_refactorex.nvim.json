@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Elixir"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-12-26T21:36:58Z",
+    "description": "Neovim plugin for RefactorEx",
+    "isArchived": false,
+    "lastCommit": "2024-12-28T13:08:20Z",
+    "nameWithOwner": "synic/refactorex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "refactorex.nvim",
+  "owner": "synic",
+  "url": "https://github.com/synic/refactorex.nvim"
+}

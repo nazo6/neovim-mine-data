@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-12-24T07:57:46Z",
+    "description": "simple useless floating terminal in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-24T07:58:48Z",
+    "nameWithOwner": "seolman/floatterminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floatterminal.nvim",
+  "owner": "seolman",
+  "url": "https://github.com/seolman/floatterminal.nvim"
+}

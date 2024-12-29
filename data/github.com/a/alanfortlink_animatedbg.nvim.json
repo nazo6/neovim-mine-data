@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "extmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2024-12-26T22:23:36Z",
+    "description": "Animate neovim's buffer with extmarks and highlights.",
+    "isArchived": false,
+    "lastCommit": "2024-12-29T03:53:15Z",
+    "nameWithOwner": "alanfortlink/animatedbg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 44,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "animatedbg.nvim",
+  "owner": "alanfortlink",
+  "url": "https://github.com/alanfortlink/animatedbg.nvim"
+}

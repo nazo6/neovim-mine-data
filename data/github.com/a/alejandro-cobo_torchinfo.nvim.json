@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 12,
     "createdAt": "2024-12-19T18:52:11Z",
     "description": "Show information about Pytorch modules inside Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-12-21T15:58:31Z",
+    "lastCommit": "2024-12-22T21:31:53Z",
     "nameWithOwner": "alejandro-cobo/torchinfo.nvim",
     "primaryLanguage": {
       "color": "#3572A5",
@@ -32,6 +32,11 @@
     },
     "star": 1,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "pytorch"
     ]
   },
   "domain": "github.com",

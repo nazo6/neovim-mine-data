@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-12-27T04:01:27Z",
+    "description": "A statusline for neovim, for my own use case",
+    "isArchived": false,
+    "lastCommit": "2024-12-27T19:16:16Z",
+    "nameWithOwner": "aroario2003/neostatus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neostatus.nvim",
+  "owner": "aroario2003",
+  "url": "https://github.com/aroario2003/neostatus.nvim"
+}

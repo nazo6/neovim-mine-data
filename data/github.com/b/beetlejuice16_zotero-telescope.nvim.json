@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Zotero"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-12-21T13:56:42Z",
+    "description": "Search through your zotero library with telescope",
+    "isArchived": false,
+    "lastCommit": "2024-12-27T20:16:51Z",
+    "nameWithOwner": "beetlejuice16/zotero-telescope.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zotero-telescope.nvim",
+  "owner": "beetlejuice16",
+  "url": "https://github.com/beetlejuice16/zotero-telescope.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-12-24T18:25:28Z",
+    "description": "Neovim + Ollama",
+    "isArchived": false,
+    "lastCommit": "2024-12-29T04:48:22Z",
+    "nameWithOwner": "hmunye/llama.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "llama.nvim",
+  "owner": "hmunye",
+  "url": "https://github.com/hmunye/llama.nvim"
+}

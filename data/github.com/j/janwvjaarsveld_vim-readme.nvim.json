@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Open README"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-21T23:06:45Z",
+    "description": "Retrieve the README.md file for a (n)vim package and display it in a new buffer",
+    "isArchived": false,
+    "lastCommit": "2024-12-22T15:51:59Z",
+    "nameWithOwner": "janwvjaarsveld/vim-readme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vim-readme.nvim",
+  "owner": "janwvjaarsveld",
+  "url": "https://github.com/janwvjaarsveld/vim-readme.nvim"
+}

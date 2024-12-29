@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Language server"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-12-26T14:07:57Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-12-26T14:14:22Z",
+    "nameWithOwner": "kbwo/testing-ls.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "testing-ls.nvim",
+  "owner": "kbwo",
+  "url": "https://github.com/kbwo/testing-ls.nvim"
+}

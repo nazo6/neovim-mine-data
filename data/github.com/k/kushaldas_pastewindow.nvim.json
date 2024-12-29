@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-12-22T09:15:41Z",
+    "description": "To send visual selection to a predefined window",
+    "isArchived": false,
+    "lastCommit": "2024-12-22T10:53:23Z",
+    "nameWithOwner": "kushaldas/pastewindow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pastewindow.nvim",
+  "owner": "kushaldas",
+  "url": "https://github.com/kushaldas/pastewindow.nvim"
+}

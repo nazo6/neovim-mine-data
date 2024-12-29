@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "CheatSheet"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-12-25T11:07:29Z",
+    "description": "A Neovim plugin that provides quick access to programming language cheatsheets from cheat.sh directly within your editor.",
+    "isArchived": false,
+    "lastCommit": "2024-12-25T14:22:43Z",
+    "nameWithOwner": "danitrap/cheatsh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cheatsh.nvim",
+  "owner": "danitrap",
+  "url": "https://github.com/danitrap/cheatsh.nvim"
+}

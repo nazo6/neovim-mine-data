@@ -4,14 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
+          "name": "Configuration"
         },
         {
           "level": 2,
-          "name": "Norminette"
+          "name": "42"
         }
       ],
-      "file": "c_cpp.md",
+      "file": "language-specific.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 21,
+    "star": 24,
     "topics": [
       "42school",
       "neovim",

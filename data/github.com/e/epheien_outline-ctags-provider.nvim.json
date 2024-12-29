@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ctags"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2024-12-24T10:03:04Z",
+    "description": "An outline.nvim external provider for universal ctags",
+    "isArchived": false,
+    "lastCommit": "2024-12-27T03:22:18Z",
+    "nameWithOwner": "epheien/outline-ctags-provider.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "outline-ctags-provider.nvim",
+  "owner": "epheien",
+  "url": "https://github.com/epheien/outline-ctags-provider.nvim"
+}

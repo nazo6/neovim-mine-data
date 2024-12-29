@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Rails"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-12-23T20:31:41Z",
+    "description": "A lightweight Neovim plugin that adds a :Rails command for easy access to your favorite Rails tasks.",
+    "isArchived": false,
+    "lastCommit": "2024-12-23T20:34:21Z",
+    "nameWithOwner": "DJARUUN/rails.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rails.nvim",
+  "owner": "DJARUUN",
+  "url": "https://github.com/DJARUUN/rails.nvim"
+}

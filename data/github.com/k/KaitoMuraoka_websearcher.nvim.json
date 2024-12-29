@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-12-23T06:14:00Z",
+    "description": "Enable web searches from Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-23T06:51:03Z",
+    "nameWithOwner": "KaitoMuraoka/websearcher.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "websearcher.nvim",
+  "owner": "KaitoMuraoka",
+  "url": "https://github.com/KaitoMuraoka/websearcher.nvim"
+}

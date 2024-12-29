@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "MQL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-12-23T16:17:01Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-12-26T11:56:39Z",
+    "nameWithOwner": "riodelphino/mql-compile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mql-compile.nvim",
+  "owner": "riodelphino",
+  "url": "https://github.com/riodelphino/mql-compile.nvim"
+}

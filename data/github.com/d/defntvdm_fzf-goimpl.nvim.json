@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "impl"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-12-25T20:50:43Z",
+    "description": "Simple goimpl neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2024-12-25T20:51:06Z",
+    "nameWithOwner": "defntvdm/fzf-goimpl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-goimpl.nvim",
+  "owner": "defntvdm",
+  "url": "https://github.com/defntvdm/fzf-goimpl.nvim"
+}

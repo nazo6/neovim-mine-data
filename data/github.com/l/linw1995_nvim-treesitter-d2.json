@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "D2"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-12-25T08:35:17Z",
+    "description": "A nvim-treesitter plugin for d2 lang.",
+    "isArchived": false,
+    "lastCommit": "2024-12-25T13:31:36Z",
+    "nameWithOwner": "linw1995/nvim-treesitter-d2",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin",
+      "nvim-treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-treesitter-d2",
+  "owner": "linw1995",
+  "url": "https://github.com/linw1995/nvim-treesitter-d2"
+}

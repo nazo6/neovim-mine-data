@@ -8,11 +8,11 @@
         },
         {
           "level": 2,
-          "name": "AI Coding"
+          "name": "Integration"
         },
         {
           "level": 3,
-          "name": "OpenAI(ChatGPT)"
+          "name": "Linkup"
         }
       ],
       "file": "ai.md",
@@ -20,26 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 339,
-    "createdAt": "2024-03-17T13:52:59Z",
-    "description": "Minimalistic LLM plugin for Neovim.",
+    "commitCountLastYear": 11,
+    "createdAt": "2024-12-21T12:03:55Z",
+    "description": "Integrate the Linkup API directly in Neovim",
     "isArchived": false,
-    "lastCommit": "2024-12-22T00:22:18Z",
-    "nameWithOwner": "sudo-burger/m0.nvim",
+    "lastCommit": "2024-12-22T22:14:57Z",
+    "nameWithOwner": "cjumel/linkup.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 0,
+    "star": 1,
     "topics": [
-      "anthropic",
-      "llm",
-      "neovim-plugin",
-      "openai"
     ]
   },
   "domain": "github.com",
-  "name": "m0.nvim",
-  "owner": "sudo-burger",
-  "url": "https://github.com/sudo-burger/m0.nvim"
+  "name": "linkup.nvim",
+  "owner": "cjumel",
+  "url": "https://github.com/cjumel/linkup.nvim"
 }

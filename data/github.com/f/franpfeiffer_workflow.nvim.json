@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Ascii"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-23T23:03:22Z",
+    "description": "workflow.nvim us an plugin to create and manage ASCII diagrams directly in neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-24T01:37:27Z",
+    "nameWithOwner": "franpfeiffer/workflow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "workflow.nvim",
+  "owner": "franpfeiffer",
+  "url": "https://github.com/franpfeiffer/workflow.nvim"
+}

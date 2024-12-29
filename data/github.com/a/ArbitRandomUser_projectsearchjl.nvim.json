@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Julia"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-12-27T14:04:41Z",
+    "description": "a neovim plugin to search through a julia project's source files from nvim",
+    "isArchived": false,
+    "lastCommit": "2024-12-28T13:31:29Z",
+    "nameWithOwner": "ArbitRandomUser/projectsearchjl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "projectsearchjl.nvim",
+  "owner": "ArbitRandomUser",
+  "url": "https://github.com/ArbitRandomUser/projectsearchjl.nvim"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "BitBucket"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-23T21:25:18Z",
+    "description": "A fully featured Bitbucket integration for performing code reviews in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2024-12-24T20:42:50Z",
+    "nameWithOwner": "TheChessDev/bb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bb.nvim",
+  "owner": "TheChessDev",
+  "url": "https://github.com/TheChessDev/bb.nvim"
+}

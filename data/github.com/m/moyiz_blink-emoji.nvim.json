@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-25T09:48:14Z",
+    "description": "Emoji source for blink.cmp.",
+    "isArchived": false,
+    "lastCommit": "2024-12-25T10:16:36Z",
+    "nameWithOwner": "moyiz/blink-emoji.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "emoji",
+      "emoji-picker",
+      "neovim",
+      "neovim-plugin",
+      "nvim-lua",
+      "nvim-plugin",
+      "blink-cmp",
+      "nvim-blink"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-emoji.nvim",
+  "owner": "moyiz",
+  "url": "https://github.com/moyiz/blink-emoji.nvim"
+}

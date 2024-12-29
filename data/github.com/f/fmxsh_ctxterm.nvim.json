@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Toolchain"
+          "name": "Terminal"
         },
         {
           "level": 3,
-          "name": "JSON"
+          "name": "Terminal Enhancement"
         }
       ],
-      "file": "js_ts.md",
+      "file": "terminal.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 45,
-    "createdAt": "2024-02-01T21:16:51Z",
-    "description": "A  neovim plugin to convert JSON objects to write types.",
+    "commitCountLastYear": 9,
+    "createdAt": "2024-12-21T21:34:42Z",
+    "description": "Lightweight terminal manager for Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-11-25T05:06:18Z",
-    "nameWithOwner": "Redoxahmii/json-to-types.nvim",
+    "lastCommit": "2024-12-23T16:00:51Z",
+    "nameWithOwner": "fmxsh/ctxterm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 27,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "json-to-types.nvim",
-  "owner": "Redoxahmii",
-  "url": "https://github.com/Redoxahmii/json-to-ts.nvim"
+  "name": "ctxterm.nvim",
+  "owner": "fmxsh",
+  "url": "https://github.com/mtkld/ctxterm.nvim"
 }

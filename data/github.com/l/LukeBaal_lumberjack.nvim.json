@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-27T15:30:15Z",
+    "description": "Neovim plugin to highlight logs depending on their log level",
+    "isArchived": false,
+    "lastCommit": "2024-12-27T16:34:33Z",
+    "nameWithOwner": "LukeBaal/lumberjack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "logs",
+      "lua",
+      "neovim",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lumberjack.nvim",
+  "owner": "LukeBaal",
+  "url": "https://github.com/LukeBaal/lumberjack.nvim"
+}

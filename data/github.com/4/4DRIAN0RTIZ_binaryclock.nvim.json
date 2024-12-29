@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Clock"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-26T20:25:46Z",
+    "description": "A Neovim plugin that displays the time in binary.",
+    "isArchived": false,
+    "lastCommit": "2024-12-26T21:12:11Z",
+    "nameWithOwner": "4DRIAN0RTIZ/binaryclock.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "binaryclock.nvim",
+  "owner": "4DRIAN0RTIZ",
+  "url": "https://github.com/4DRIAN0RTIZ/binaryclock.nvim"
+}

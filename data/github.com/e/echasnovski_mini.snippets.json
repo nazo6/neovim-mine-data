@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-12-23T13:17:15Z",
+    "description": "Manage and expand snippets. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2024-12-26T16:14:16Z",
+    "nameWithOwner": "echasnovski/mini.snippets",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.snippets",
+  "owner": "echasnovski",
+  "url": "https://github.com/echasnovski/mini.snippets"
+}

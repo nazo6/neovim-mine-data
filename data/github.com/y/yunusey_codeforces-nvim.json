@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Codeforce"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-01-26T14:16:00Z",
+    "description": "A fast and lightweight Neovim plugin for seamless Codeforces problem solving and testing—right from your editor.",
+    "isArchived": false,
+    "lastCommit": "2024-12-24T04:14:45Z",
+    "nameWithOwner": "yunusey/codeforces-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codeforces-nvim",
+  "owner": "yunusey",
+  "url": "https://github.com/yunusey/codeforces-nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Buffer"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-12-27T08:36:35Z",
+    "description": "A simple neovim plugin to create a command to copy all active buffers to the clipboard, with filenames, for LLM context convenience.",
+    "isArchived": false,
+    "lastCommit": "2024-12-27T09:24:09Z",
+    "nameWithOwner": "hesiod-au/bufclip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufclip.nvim",
+  "owner": "hesiod-au",
+  "url": "https://github.com/hesiod-au/bufclip.nvim"
+}

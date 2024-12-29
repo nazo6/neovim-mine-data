@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "use tmux"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-23T11:46:35Z",
+    "description": "Neovim plugin for efficient command running",
+    "isArchived": false,
+    "lastCommit": "2024-12-28T00:11:43Z",
+    "nameWithOwner": "bestie/paneity.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "paneity.nvim",
+  "owner": "bestie",
+  "url": "https://github.com/bestie/paneity.nvim"
+}

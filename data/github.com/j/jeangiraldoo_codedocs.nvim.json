@@ -20,22 +20,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 38,
+    "commitCountLastYear": 94,
     "createdAt": "2024-12-12T00:37:36Z",
     "description": "Autogenerate documentation strings for multiple languages based on function signatures",
     "isArchived": false,
-    "lastCommit": "2024-12-22T03:06:51Z",
+    "lastCommit": "2024-12-29T03:27:35Z",
     "nameWithOwner": "jeangiraldoo/codedocs.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 6,
     "topics": [
       "neovim",
       "lua",
       "neovim-plugin",
-      "nvim"
+      "nvim",
+      "docs-generator"
     ]
   },
   "domain": "github.com",

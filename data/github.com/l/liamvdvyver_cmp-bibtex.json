@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "BiBTex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-09-17T23:18:32Z",
+    "description": "Bibtex completion source for nvim-cmp.",
+    "isArchived": false,
+    "lastCommit": "2024-04-19T06:29:01Z",
+    "nameWithOwner": "liamvdvyver/cmp-bibtex",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-bibtex",
+  "owner": "liamvdvyver",
+  "url": "https://github.com/liamvdvyver/cmp-bibtex"
+}

@@ -7,35 +7,35 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "CLI"
+          "level": 2,
+          "name": "Language"
         },
         {
-          "level": 4,
-          "name": "ssh"
+          "level": 3,
+          "name": "Japanese"
         }
       ],
-      "file": "cli.md",
+      "file": "neovim-lua-library.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2024-11-17T14:28:40Z",
+    "commitCountLastYear": 5,
+    "createdAt": "2024-12-24T13:22:19Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-11-21T20:12:59Z",
-    "nameWithOwner": "ismaarino/mirror.nvim",
+    "lastCommit": "2024-12-24T13:42:39Z",
+    "nameWithOwner": "atusy/budoux.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 4,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "mirror.nvim",
-  "owner": "ismaarino",
-  "url": "https://github.com/ismaarino/mirror.nvim"
+  "name": "budoux.lua",
+  "owner": "atusy",
+  "url": "https://github.com/atusy/budoux.lua"
 }
