@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2024-12-28T19:27:54Z",
+    "description": "A CSV file formatter for Neovim, written in Lua",
+    "isArchived": false,
+    "lastCommit": "2024-12-28T19:28:50Z",
+    "nameWithOwner": "dave-kennedy/casava.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "casava.nvim",
+  "owner": "dave-kennedy",
+  "url": "https://github.com/dave-kennedy/casava.nvim"
+}

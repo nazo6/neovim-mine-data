@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "Emacs style"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-01-04T11:57:16Z",
+    "description": "dired + fp",
+    "isArchived": false,
+    "lastCommit": "2025-01-05T09:16:39Z",
+    "nameWithOwner": "nvimdev/dired.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dired.nvim",
+  "owner": "nvimdev",
+  "url": "https://github.com/nvimdev/dired.nvim"
+}

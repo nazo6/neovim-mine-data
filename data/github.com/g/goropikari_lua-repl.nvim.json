@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "lua.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-01-02T06:00:52Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-04T12:12:30Z",
+    "nameWithOwner": "goropikari/lua-repl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-repl.nvim",
+  "owner": "goropikari",
+  "url": "https://github.com/goropikari/lua-repl.nvim"
+}

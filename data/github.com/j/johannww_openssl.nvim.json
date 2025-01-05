@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "OpenSSL"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2024-12-29T01:04:00Z",
+    "description": "A basic neovim plugin for getting information",
+    "isArchived": false,
+    "lastCommit": "2024-12-30T17:41:20Z",
+    "nameWithOwner": "johannww/openssl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "openssl.nvim",
+  "owner": "johannww",
+  "url": "https://github.com/johannww/openssl.nvim"
+}

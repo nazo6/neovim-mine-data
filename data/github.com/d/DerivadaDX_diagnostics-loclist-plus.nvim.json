@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-01T16:08:42Z",
+    "description": "A Neovim plugin that provides an enhanced location list for diagnostics",
+    "isArchived": false,
+    "lastCommit": "2025-01-02T01:42:06Z",
+    "nameWithOwner": "DerivadaDX/diagnostics-loclist-plus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagnostics-loclist-plus.nvim",
+  "owner": "DerivadaDX",
+  "url": "https://github.com/DerivadaDX/diagnostics-loclist-plus.nvim"
+}

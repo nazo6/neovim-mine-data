@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-02T10:45:20Z",
+    "description": "Use Neovim as a quick terminal UI ",
+    "isArchived": false,
+    "lastCommit": "2025-01-02T10:52:25Z",
+    "nameWithOwner": "splondike/nvim-tui",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tui",
+  "owner": "splondike",
+  "url": "https://github.com/splondike/nvim-tui"
+}

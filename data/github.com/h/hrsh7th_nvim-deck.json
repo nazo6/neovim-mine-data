@@ -1,0 +1,35 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 125,
+    "createdAt": "2024-11-16T02:19:15Z",
+    "description": "nvim-deck: A plugin to display, filter, and choose from lists of items.",
+    "isArchived": false,
+    "lastCommit": "2025-01-04T10:32:54Z",
+    "nameWithOwner": "hrsh7th/nvim-deck",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 36,
+    "topics": [
+      "neovim-plugin",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-deck",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/nvim-deck"
+}

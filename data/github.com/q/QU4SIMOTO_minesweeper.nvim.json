@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Mine Sweeper"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-12-30T14:15:38Z",
+    "description": "Neovim plugin to play minesweeper",
+    "isArchived": false,
+    "lastCommit": "2025-01-03T16:38:25Z",
+    "nameWithOwner": "QU4SIMOTO/minesweeper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "minesweeper.nvim",
+  "owner": "QU4SIMOTO",
+  "url": "https://github.com/QU4SIMOTO/minesweeper.nvim"
+}

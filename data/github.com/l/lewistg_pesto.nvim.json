@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Bazel"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-12-31T04:13:12Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-05T00:58:45Z",
+    "nameWithOwner": "lewistg/pesto.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pesto.nvim",
+  "owner": "lewistg",
+  "url": "https://github.com/lewistg/pesto.nvim"
+}

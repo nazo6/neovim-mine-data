@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "nvim-cmp extension"
+        },
+        {
+          "level": 4,
+          "name": "nvim-cmp sources"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-01T15:38:31Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-01T17:19:53Z",
+    "nameWithOwner": "CraziestOwl/cmp-env.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-env.nvim",
+  "owner": "CraziestOwl",
+  "url": "https://github.com/CraziestOwl/cmp-env.nvim"
+}

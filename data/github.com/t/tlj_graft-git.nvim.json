@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "submodule"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-12-28T14:16:22Z",
+    "description": "⚙️ Git engine for minimal Neovim plugin handler graft.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-01-03T14:49:56Z",
+    "nameWithOwner": "tlj/graft-git.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "graft-git.nvim",
+  "owner": "tlj",
+  "url": "https://github.com/tlj/graft-git.nvim"
+}

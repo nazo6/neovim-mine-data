@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Animation"
+        },
+        {
+          "level": 3,
+          "name": "Type sound"
+        }
+      ],
+      "file": "animation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2024-12-19T19:31:58Z",
+    "description": "\"Why is neovim making strange noises?\"",
+    "isArchived": false,
+    "lastCommit": "2025-01-05T01:00:34Z",
+    "nameWithOwner": "EggbertFluffle/beepboop.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 54,
+    "topics": [
+      "audio-player",
+      "fun",
+      "neovim-plugin",
+      "novelty"
+    ]
+  },
+  "domain": "github.com",
+  "name": "beepboop.nvim",
+  "owner": "EggbertFluffle",
+  "url": "https://github.com/EggbertFluffle/beepboop.nvim"
+}

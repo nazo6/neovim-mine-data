@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "JSON"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-11-19T22:30:31Z",
+    "description": "JSON plugin for Neovim, forked from https://github.com/rxi/json.lua",
+    "isArchived": false,
+    "lastCommit": "2022-11-24T20:40:28Z",
+    "nameWithOwner": "cs-t1/json.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "json.nvim",
+  "owner": "cs-t1",
+  "url": "https://github.com/Sup3Legacy/json.nvim"
+}

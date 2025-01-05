@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder Style"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2024-12-31T11:32:42Z",
+    "description": "A file browser for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-03T13:52:16Z",
+    "nameWithOwner": "grecodavide/file_browser.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "file_browser.nvim",
+  "owner": "grecodavide",
+  "url": "https://github.com/grecodavide/file_browser.nvim"
+}

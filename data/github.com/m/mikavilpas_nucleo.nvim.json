@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2024-12-30T16:02:51Z",
+    "description": "Integration of the Helix editor's nucleo fuzzy finder algorithm for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-03T19:01:47Z",
+    "nameWithOwner": "mikavilpas/nucleo.nvim",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nucleo.nvim",
+  "owner": "mikavilpas",
+  "url": "https://github.com/mikavilpas/nucleo.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "World of Warcraft"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-12-28T16:18:44Z",
+    "description": "World of Warcraft API definitions for LuaLS LSP in Neovim",
+    "isArchived": false,
+    "lastCommit": "2024-12-28T16:36:14Z",
+    "nameWithOwner": "Tyrannican/warcraft-api.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "warcraft-api.nvim",
+  "owner": "Tyrannican",
+  "url": "https://github.com/Tyrannican/warcraft-api.nvim"
+}

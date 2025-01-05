@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-03T03:20:44Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-03T03:25:20Z",
+    "nameWithOwner": "sally-sandwich/llm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "llm.nvim",
+  "owner": "sally-sandwich",
+  "url": "https://github.com/sally-sandwich/llm.nvim"
+}

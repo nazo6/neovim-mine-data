@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "View"
+        },
+        {
+          "level": 3,
+          "name": "listchars"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-12-28T05:12:06Z",
+    "description": "Neovim plugin to convert gaps in selected text into a sequence of horizontal ellipsis.",
+    "isArchived": false,
+    "lastCommit": "2024-12-28T11:10:51Z",
+    "nameWithOwner": "rseichter/ellipsis.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ellipsis.nvim",
+  "owner": "rseichter",
+  "url": "https://github.com/rseichter/ellipsis.nvim"
+}

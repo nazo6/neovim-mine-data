@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Command style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-12-31T06:12:57Z",
+    "description": "Small plugin to support running your custom build commands from neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-02T15:32:45Z",
+    "nameWithOwner": "castlele/build.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "build.nvim",
+  "owner": "castlele",
+  "url": "https://github.com/castlele/build.nvim"
+}

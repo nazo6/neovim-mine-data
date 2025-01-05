@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Cowsay"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-01-02T22:10:12Z",
+    "description": "Need a pep talk while programming with NeoVim? This is the plugin for you!",
+    "isArchived": false,
+    "lastCommit": "2025-01-03T22:48:49Z",
+    "nameWithOwner": "michaelstrefeler/peptalk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "peptalk.nvim",
+  "owner": "michaelstrefeler",
+  "url": "https://github.com/michaelstrefeler/peptalk.nvim"
+}

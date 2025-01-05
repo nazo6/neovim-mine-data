@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "move"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2024-12-10T05:22:23Z",
+    "description": "Neovim window mover that ignores side windows",
+    "isArchived": false,
+    "lastCommit": "2025-01-05T07:53:16Z",
+    "nameWithOwner": "ycdzj/win-mover.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "win-mover.nvim",
+  "owner": "ycdzj",
+  "url": "https://github.com/ycdzj/win-mover.nvim"
+}

@@ -36,7 +36,7 @@
   "data": {
     "commitCountLastYear": 29,
     "createdAt": "2023-06-03T10:33:31Z",
-    "description": "Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with tmux, telescope, fzf-lua, aider-chat integration, and native dot repeat.",
+    "description": "Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with aider-chat integration, and native dot repeat.",
     "isArchived": false,
     "lastCommit": "2024-12-23T04:58:44Z",
     "nameWithOwner": "milanglacier/yarepl.nvim",
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 112,
+    "star": 111,
     "topics": [
       "neovim",
       "neovim-plugin",

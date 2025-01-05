@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Select"
+        },
+        {
+          "level": 2,
+          "name": "Region info"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-12-30T22:31:41Z",
+    "description": "Neovim plugin to sum columns of numbers or durations",
+    "isArchived": false,
+    "lastCommit": "2025-01-03T22:18:30Z",
+    "nameWithOwner": "gadkadosh/vimsum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vimsum.nvim",
+  "owner": "gadkadosh",
+  "url": "https://github.com/gadkadosh/vimsum.nvim"
+}

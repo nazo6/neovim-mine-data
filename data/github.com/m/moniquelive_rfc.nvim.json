@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "RFC"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-11-28T21:00:06Z",
+    "description": "RFC browser for nvim written in Lua",
+    "isArchived": false,
+    "lastCommit": "2024-12-30T23:13:38Z",
+    "nameWithOwner": "moniquelive/rfc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rfc.nvim",
+  "owner": "moniquelive",
+  "url": "https://github.com/moniquelive/rfc.nvim"
+}

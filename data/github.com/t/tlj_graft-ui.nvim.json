@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "submodule"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2024-12-30T17:24:05Z",
+    "description": "🖥️ A simple UI for the graft.nvim Neovim plugin handler",
+    "isArchived": false,
+    "lastCommit": "2025-01-02T11:46:29Z",
+    "nameWithOwner": "tlj/graft-ui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "graft-ui.nvim",
+  "owner": "tlj",
+  "url": "https://github.com/tlj/graft-ui.nvim"
+}

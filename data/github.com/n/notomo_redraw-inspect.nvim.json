@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "redraw"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-02T12:12:48Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-02T12:11:04Z",
+    "nameWithOwner": "notomo/redraw-inspect.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "redraw-inspect.nvim",
+  "owner": "notomo",
+  "url": "https://github.com/notomo/redraw-inspect.nvim"
+}

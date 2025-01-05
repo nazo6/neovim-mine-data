@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Internal comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-01-02T23:14:00Z",
+    "description": "Neovim plugin that adds virtual lines BEFORE line 1",
+    "isArchived": false,
+    "lastCommit": "2025-01-03T20:07:27Z",
+    "nameWithOwner": "nullromo/go-up.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go-up.nvim",
+  "owner": "nullromo",
+  "url": "https://github.com/nullromo/go-up.nvim"
+}

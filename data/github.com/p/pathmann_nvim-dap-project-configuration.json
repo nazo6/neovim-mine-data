@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2024-11-15T14:09:17Z",
+    "description": "neovim plugin which acts as configuration provider for nvim-dap and prelaunch task runner on a per-project basis in pure lua",
+    "isArchived": false,
+    "lastCommit": "2024-12-20T08:13:11Z",
+    "nameWithOwner": "pathmann/nvim-dap-project-configuration",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-dap",
+      "debugging"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-project-configuration",
+  "owner": "pathmann",
+  "url": "https://github.com/pathmann/nvim-dap-project-configuration"
+}

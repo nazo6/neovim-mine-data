@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        },
+        {
+          "level": 3,
+          "name": "Trim Whitespace"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2023-09-24T20:10:01Z",
+    "description": "Mark whitespace such as tabs, spaces, and trailing whitespace in Neovim",
+    "isArchived": false,
+    "lastCommit": "2023-10-03T02:40:58Z",
+    "nameWithOwner": "amarz45/nvim-markspace",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-markspace",
+  "owner": "amarz45",
+  "url": "https://github.com/amarakon/nvim-markspace"
+}

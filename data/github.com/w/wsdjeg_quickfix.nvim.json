@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-01-01T12:34:59Z",
+    "description": "general key bindings for quickfix window",
+    "isArchived": false,
+    "lastCommit": "2025-01-02T01:58:51Z",
+    "nameWithOwner": "wsdjeg/quickfix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quickfix.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/quickfix.nvim"
+}

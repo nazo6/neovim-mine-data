@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "fortran"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-12-28T21:20:28Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-12-30T16:38:02Z",
+    "nameWithOwner": "gustav-jansen/nvim-fortran-snippets",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-fortran-snippets",
+  "owner": "gustav-jansen",
+  "url": "https://github.com/gustav-jansen/nvim-fortran-snippets"
+}

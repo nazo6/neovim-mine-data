@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "incc"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-01-02T14:10:35Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-04T08:42:28Z",
+    "nameWithOwner": "DominikOcsofszki/lsp-incc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-incc.nvim",
+  "owner": "DominikOcsofszki",
+  "url": "https://github.com/DominikOcsofszki/lsp-incc.nvim"
+}

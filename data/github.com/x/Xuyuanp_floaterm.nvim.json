@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-01T12:28:48Z",
+    "description": "Neovim floating terminal(s)",
+    "isArchived": false,
+    "lastCommit": "2025-01-03T02:05:04Z",
+    "nameWithOwner": "Xuyuanp/floaterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floaterm.nvim",
+  "owner": "Xuyuanp",
+  "url": "https://github.com/Xuyuanp/floaterm.nvim"
+}

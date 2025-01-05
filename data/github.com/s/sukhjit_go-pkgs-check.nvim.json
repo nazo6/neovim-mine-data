@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "packages"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2024-12-31T02:25:48Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2024-12-31T03:21:17Z",
+    "nameWithOwner": "sukhjit/go-pkgs-check.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go-pkgs-check.nvim",
+  "owner": "sukhjit",
+  "url": "https://github.com/sukhjit/go-pkgs-check.nvim"
+}
