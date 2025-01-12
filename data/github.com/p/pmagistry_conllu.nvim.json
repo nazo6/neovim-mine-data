@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "CoNLL-U"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-06T22:13:49Z",
+    "description": "neovim plugin to edit conllu files (relies on my tree-sitter-conllu grammar)",
+    "isArchived": false,
+    "lastCommit": "2025-01-07T17:44:48Z",
+    "nameWithOwner": "pmagistry/conllu.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "conllu.nvim",
+  "owner": "pmagistry",
+  "url": "https://github.com/pmagistry/conllu.nvim"
+}

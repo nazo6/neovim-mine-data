@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Adobe"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-08T05:54:53Z",
+    "description": "Execute scripts for Adobe apps from within Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-08T17:34:47Z",
+    "nameWithOwner": "joshbduncan/esrunner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "esrunner.nvim",
+  "owner": "joshbduncan",
+  "url": "https://github.com/joshbduncan/esrunner.nvim"
+}

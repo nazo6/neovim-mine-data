@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CI"
+        },
+        {
+          "level": 3,
+          "name": "GLPI"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2025-01-06T13:37:23Z",
+    "description": "Access GLPI direclty throught nvim",
+    "isArchived": false,
+    "lastCommit": "2025-01-10T09:40:00Z",
+    "nameWithOwner": "TheoSarrazin/glpi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "glpi.nvim",
+  "owner": "TheoSarrazin",
+  "url": "https://github.com/TheoSarrazin/glpi.nvim"
+}

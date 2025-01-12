@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-01-05T20:40:43Z",
+    "description": "My custom statusbar, turned into a plugin",
+    "isArchived": false,
+    "lastCommit": "2025-01-05T22:56:37Z",
+    "nameWithOwner": "harryvince/statusbar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "statusbar.nvim",
+  "owner": "harryvince",
+  "url": "https://github.com/harryvince/statusbar.nvim"
+}

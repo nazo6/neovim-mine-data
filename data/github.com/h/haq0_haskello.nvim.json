@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Haskell"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-01-07T23:23:18Z",
+    "description": "haskell formatting done right",
+    "isArchived": false,
+    "lastCommit": "2025-01-07T23:51:29Z",
+    "nameWithOwner": "haq0/haskello.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "haskello.nvim",
+  "owner": "haq0",
+  "url": "https://github.com/haq0/haskello.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-06T19:55:31Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-07T01:48:17Z",
+    "nameWithOwner": "garrettkrohn/pyrun.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pyrun.nvim",
+  "owner": "garrettkrohn",
+  "url": "https://github.com/garrettkrohn/pyrun.nvim"
+}

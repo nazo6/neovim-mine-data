@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util pack"
+        }
+      ],
+      "file": "util-pack.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-01-08T05:46:27Z",
+    "description": "lightweight neovim code runner plugin that works with Snacks.terminal",
+    "isArchived": false,
+    "lastCommit": "2025-01-08T16:25:11Z",
+    "nameWithOwner": "dchae/canter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "canter.nvim",
+  "owner": "dchae",
+  "url": "https://github.com/dchae/canter.nvim"
+}

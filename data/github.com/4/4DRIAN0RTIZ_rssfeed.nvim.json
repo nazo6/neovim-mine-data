@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "RSS"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-04T18:20:05Z",
+    "description": "A simple RSS Feed for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-04T18:33:18Z",
+    "nameWithOwner": "4DRIAN0RTIZ/rssfeed.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rssfeed.nvim",
+  "owner": "4DRIAN0RTIZ",
+  "url": "https://github.com/4DRIAN0RTIZ/rssfeed.nvim"
+}

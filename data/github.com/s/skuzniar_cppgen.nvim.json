@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 77,
+    "createdAt": "2023-11-27T00:42:46Z",
+    "description": "Neovim C++ code generator",
+    "isArchived": false,
+    "lastCommit": "2025-01-11T18:56:30Z",
+    "nameWithOwner": "skuzniar/cppgen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cppgen.nvim",
+  "owner": "skuzniar",
+  "url": "https://github.com/skuzniar/nvim-cppgen"
+}

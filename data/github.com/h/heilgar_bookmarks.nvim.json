@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "bookmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-06T02:52:50Z",
+    "description": "A Neovim plugin for managing line bookmarks with Telescope integration and SQLite storage. Mark, organize, and quickly navigate between important locations in your codebase.",
+    "isArchived": false,
+    "lastCommit": "2025-01-06T07:21:56Z",
+    "nameWithOwner": "heilgar/bookmarks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "bookmarks",
+      "bookmarks-manager",
+      "extension",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bookmarks.nvim",
+  "owner": "heilgar",
+  "url": "https://github.com/heilgar/bookmarks.nvim"
+}

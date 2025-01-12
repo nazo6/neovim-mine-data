@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-04T10:08:35Z",
+    "description": "A lualine component to show snipe buffers",
+    "isArchived": false,
+    "lastCommit": "2025-01-04T12:56:15Z",
+    "nameWithOwner": "nicholasxjy/snipe-lualine-files.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snipe-lualine-files.nvim",
+  "owner": "nicholasxjy",
+  "url": "https://github.com/nicholasxjy/snipe-lualine-files.nvim"
+}

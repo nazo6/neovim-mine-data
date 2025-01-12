@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
+        },
+        {
+          "level": 4,
+          "name": "Discord"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-01-05T15:37:29Z",
+    "description": "My own discord RPC (rich presence) for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-06T07:26:49Z",
+    "nameWithOwner": "kiselevart/nvim-discord-rpc",
+    "primaryLanguage": {
+      "color": "#f34b7d",
+      "name": "C++"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-discord-rpc",
+  "owner": "kiselevart",
+  "url": "https://github.com/kiselevart/nvim-discord-rpc"
+}

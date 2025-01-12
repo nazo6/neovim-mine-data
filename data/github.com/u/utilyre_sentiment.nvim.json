@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Editing support"
-        },
-        {
-          "level": 3,
-          "name": "matchparen"
-        }
       ],
-      "file": "readme.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -37,7 +25,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2023-02-10T12:56:47Z",
     "description": "Enhanced matchparen.vim plugin for Neovim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-05-26T13:56:40Z",
     "nameWithOwner": "utilyre/sentiment.nvim",
     "primaryLanguage": {

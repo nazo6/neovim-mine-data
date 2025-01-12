@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "CCSDS"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-05T22:32:53Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-06T15:30:40Z",
+    "nameWithOwner": "rogueWookie/ccsds-hdr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ccsds-hdr.nvim",
+  "owner": "rogueWookie",
+  "url": "https://github.com/rogueWookie/ccsds-hdr.nvim"
+}

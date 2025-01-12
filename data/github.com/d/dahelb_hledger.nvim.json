@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Accounting tool"
+        },
+        {
+          "level": 5,
+          "name": "hledger"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-01-08T20:16:26Z",
+    "description": "Neovim plugin for the plaintext accounting tool.",
+    "isArchived": false,
+    "lastCommit": "2025-01-08T20:17:02Z",
+    "nameWithOwner": "dahelb/hledger.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hledger.nvim",
+  "owner": "dahelb",
+  "url": "https://github.com/davidhelbig/hledger.nvim"
+}

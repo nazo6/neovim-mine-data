@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "sort"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-01-04T19:04:56Z",
+    "description": "Simple plugin to sort code units using treesitter",
+    "isArchived": false,
+    "lastCommit": "2025-01-10T20:43:05Z",
+    "nameWithOwner": "maxbol/treesorter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "treesorter.nvim",
+  "owner": "maxbol",
+  "url": "https://github.com/maxbol/treesorter.nvim"
+}

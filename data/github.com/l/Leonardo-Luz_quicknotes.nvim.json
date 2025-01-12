@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-01-04T04:54:46Z",
+    "description": "A Neovim Plugin for Quick Note-Taking",
+    "isArchived": false,
+    "lastCommit": "2025-01-10T21:32:14Z",
+    "nameWithOwner": "Leonardo-Luz/quicknotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "quicknotes.nvim",
+  "owner": "Leonardo-Luz",
+  "url": "https://github.com/Leonardo-Luz/quicknotes.nvim"
+}

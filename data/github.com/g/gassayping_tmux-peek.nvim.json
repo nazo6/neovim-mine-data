@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-01-06T18:20:20Z",
+    "description": "Quickly access a tmux window without leaving neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-11T07:44:15Z",
+    "nameWithOwner": "gassayping/tmux-peek.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "tmux"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-peek.nvim",
+  "owner": "gassayping",
+  "url": "https://github.com/gassayping/tmux-peek.nvim"
+}

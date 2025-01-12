@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "View"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-01-08T12:21:17Z",
+    "description": "Format your text in the shape of a donut! 🍩 (Inside your favorite editor)",
+    "isArchived": false,
+    "lastCommit": "2025-01-11T17:19:51Z",
+    "nameWithOwner": "NStefan002/donutlify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "donut",
+      "fun",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "donutlify.nvim",
+  "owner": "NStefan002",
+  "url": "https://github.com/NStefan002/donutlify.nvim"
+}

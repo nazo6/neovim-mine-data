@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "ID"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-01-04T06:53:42Z",
+    "description": "Adds a UUID to the front matter section of a markdown file.",
+    "isArchived": false,
+    "lastCommit": "2025-01-05T05:45:03Z",
+    "nameWithOwner": "scossar/markdown-fileid.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-fileid.nvim",
+  "owner": "scossar",
+  "url": "https://github.com/scossar/markdown-fileid.nvim"
+}

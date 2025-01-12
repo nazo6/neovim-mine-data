@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "import"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-01-10T15:24:45Z",
+    "description": "go import source for blink.cmp",
+    "isArchived": false,
+    "lastCommit": "2025-01-10T17:38:52Z",
+    "nameWithOwner": "edte/blink-go-import.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-go-import.nvim",
+  "owner": "edte",
+  "url": "https://github.com/edte/blink-go-import.nvim"
+}

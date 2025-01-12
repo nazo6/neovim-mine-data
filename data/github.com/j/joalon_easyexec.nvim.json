@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Command style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-06T19:47:00Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-07T08:10:30Z",
+    "nameWithOwner": "joalon/easyexec.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "easyexec.nvim",
+  "owner": "joalon",
+  "url": "https://github.com/joalon/easyexec.nvim"
+}

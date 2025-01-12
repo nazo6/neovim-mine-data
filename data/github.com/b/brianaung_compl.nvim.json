@@ -40,7 +40,7 @@
   "data": {
     "commitCountLastYear": 60,
     "createdAt": "2024-06-01T10:52:25Z",
-    "description": "Async code auto-completion for Neovim.",
+    "description": "A lightweight, native-first completion experience for Neovim.",
     "isArchived": false,
     "lastCommit": "2024-12-30T13:42:11Z",
     "nameWithOwner": "brianaung/compl.nvim",
@@ -50,9 +50,10 @@
     },
     "star": 31,
     "topics": [
-      "autocompletion",
       "neovim",
-      "neovim-plugin"
+      "neovim-plugin",
+      "autocomplete",
+      "completion"
     ]
   },
   "domain": "github.com",

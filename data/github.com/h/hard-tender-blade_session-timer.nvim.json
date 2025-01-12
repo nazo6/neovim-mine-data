@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-01-04T12:52:29Z",
+    "description": "Simple and tiny nvim plugin to help separate working time into session to avoid head overflow.",
+    "isArchived": false,
+    "lastCommit": "2025-01-04T15:11:19Z",
+    "nameWithOwner": "hard-tender-blade/session-timer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "session-timer.nvim",
+  "owner": "hard-tender-blade",
+  "url": "https://github.com/hard-tender-blade/session-timer.nvim"
+}

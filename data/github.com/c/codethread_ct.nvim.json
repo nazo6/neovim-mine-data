@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Type"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-01-06T15:39:53Z",
+    "description": "neovim type builders",
+    "isArchived": false,
+    "lastCommit": "2025-01-10T16:45:09Z",
+    "nameWithOwner": "codethread/ct.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ct.nvim",
+  "owner": "codethread",
+  "url": "https://github.com/codethread/ct.nvim"
+}

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        },
+        {
+          "level": 4,
+          "name": "mods"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-01-09T19:28:42Z",
+    "description": "Plugin to integrate mods with neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-09T23:23:13Z",
+    "nameWithOwner": "ntawileh/mods.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "charmbracelet-mods"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mods.nvim",
+  "owner": "ntawileh",
+  "url": "https://github.com/ntawileh/mods.nvim"
+}

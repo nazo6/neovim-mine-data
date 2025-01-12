@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 21,
     "createdAt": "2024-11-09T05:02:06Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-11-12T17:04:27Z",
+    "lastCommit": "2025-01-05T21:17:20Z",
     "nameWithOwner": "jrop/u.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,11 @@
     },
     "star": 23,
     "topics": [
+      "library",
+      "neovim",
+      "neovim-plugin",
+      "range",
+      "utility"
     ]
   },
   "domain": "github.com",

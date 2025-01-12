@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Completion"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2022-11-02T19:02:07Z",
+    "description": "neovim's completion core library.",
+    "isArchived": false,
+    "lastCommit": "2025-01-11T09:11:55Z",
+    "nameWithOwner": "hrsh7th/nvim-cmp-kit",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmp-kit",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/nvim-cmp-kit"
+}

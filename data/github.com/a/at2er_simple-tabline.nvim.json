@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tabline"
+        }
+      ],
+      "file": "tabline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-01-04T08:14:30Z",
+    "description": "A simple tabline for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-04T09:59:17Z",
+    "nameWithOwner": "at2er/simple-tabline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-tabline.nvim",
+  "owner": "at2er",
+  "url": "https://github.com/at2er/simple-tabline.nvim"
+}

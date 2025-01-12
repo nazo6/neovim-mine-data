@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Cargo"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-10T18:50:15Z",
+    "description": "A Neovim plugin for viewing expanded Rust.",
+    "isArchived": false,
+    "lastCommit": "2025-01-10T20:21:11Z",
+    "nameWithOwner": "johnsaigle/cargo-expand.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cargo-expand.nvim",
+  "owner": "johnsaigle",
+  "url": "https://github.com/johnsaigle/cargo-expand.nvim"
+}

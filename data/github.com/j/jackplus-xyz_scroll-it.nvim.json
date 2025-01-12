@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "j/k"
+        },
+        {
+          "level": 4,
+          "name": "Scrolling"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-01-05T04:55:17Z",
+    "description": "A Neovim plugin that displays long documents continuously across multiple windows.",
+    "isArchived": false,
+    "lastCommit": "2025-01-07T22:34:12Z",
+    "nameWithOwner": "jackplus-xyz/scroll-it.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "scroll-it.nvim",
+  "owner": "jackplus-xyz",
+  "url": "https://github.com/jackplus-xyz/scroll-it.nvim"
+}
