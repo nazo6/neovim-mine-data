@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 73,
+    "createdAt": "2025-01-19T12:20:59Z",
+    "description": "A blazing-fast asynchronous in-process server providing word and path completion.",
+    "isArchived": false,
+    "lastCommit": "2025-01-25T07:45:39Z",
+    "nameWithOwner": "nvimdev/phoenix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "phoenix.nvim",
+  "owner": "nvimdev",
+  "url": "https://github.com/nvimdev/phoenix.nvim"
+}

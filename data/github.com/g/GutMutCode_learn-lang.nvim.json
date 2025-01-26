@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Study"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-17T15:30:25Z",
+    "description": "Translate text, Check pronunciation to learn language in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-01-17T15:59:00Z",
+    "nameWithOwner": "GutMutCode/learn-lang.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "learn-lang.nvim",
+  "owner": "GutMutCode",
+  "url": "https://github.com/GutMutCode/learn-lang.nvim"
+}

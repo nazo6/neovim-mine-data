@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PlantUML"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-20T20:14:15Z",
+    "description": "Integrated Plant UML diagram viewer and file exporter for Neovim. Leverages auto-reload to enable seamless diagram development.",
+    "isArchived": false,
+    "lastCommit": "2025-01-20T21:18:48Z",
+    "nameWithOwner": "SebastiaanBooman/botanist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "diagrams",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plantuml",
+      "uml"
+    ]
+  },
+  "domain": "github.com",
+  "name": "botanist.nvim",
+  "owner": "SebastiaanBooman",
+  "url": "https://github.com/SebastiaanBooman/botanist.nvim"
+}

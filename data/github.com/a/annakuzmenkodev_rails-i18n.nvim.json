@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Rails"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-01-24T19:18:48Z",
+    "description": "Helps you go to and create missing translations",
+    "isArchived": false,
+    "lastCommit": "2025-01-24T21:30:54Z",
+    "nameWithOwner": "annakuzmenkodev/rails-i18n.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rails-i18n.nvim",
+  "owner": "annakuzmenkodev",
+  "url": "https://github.com/annakuzmenkodev/rails-i18n.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Wiki"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-23T14:26:23Z",
+    "description": "A minimalist neovim plugin to add wiki features to Markdown documents",
+    "isArchived": false,
+    "lastCommit": "2025-01-23T14:43:31Z",
+    "nameWithOwner": "jmtd/nvim-microwiki",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "markdown",
+      "neovim-plugin",
+      "wiki"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-microwiki",
+  "owner": "jmtd",
+  "url": "https://github.com/jmtd/nvim-microwiki"
+}

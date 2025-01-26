@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Market place"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-01-18T11:29:22Z",
+    "description": "Search through Neovimcraft.com's curated list of neovim plugins, using telescope.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-01-23T19:30:22Z",
+    "nameWithOwner": "janwvjaarsveld/neovimcraft.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neovimcraft.nvim",
+  "owner": "janwvjaarsveld",
+  "url": "https://github.com/janwvjaarsveld/neovimcraft.nvim"
+}

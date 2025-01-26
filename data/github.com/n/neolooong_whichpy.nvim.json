@@ -30,18 +30,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 49,
+    "commitCountLastYear": 54,
     "createdAt": "2024-05-09T23:56:46Z",
     "description": "Python interpreter selector for Neovim. Switch interpreters without restarting LSP.",
     "isArchived": false,
-    "lastCommit": "2025-01-12T10:07:41Z",
+    "lastCommit": "2025-01-22T16:28:24Z",
     "nameWithOwner": "neolooong/whichpy.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 24,
+    "star": 26,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim"
     ]
   },
   "domain": "github.com",

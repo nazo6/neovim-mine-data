@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-01-20T21:49:40Z",
+    "description": "I NeoVim puglin to help journalling",
+    "isArchived": false,
+    "lastCommit": "2025-01-21T00:21:10Z",
+    "nameWithOwner": "Nate96/journal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "journal.nvim",
+  "owner": "Nate96",
+  "url": "https://github.com/Nate96/journal.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Notification"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-01-19T03:08:56Z",
+    "description": "GitHub Notifications for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-20T03:14:18Z",
+    "nameWithOwner": "jfgordon2/gh-notifications.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gh-notifications.nvim",
+  "owner": "jfgordon2",
+  "url": "https://github.com/jfgordon2/gh-notifications.nvim"
+}

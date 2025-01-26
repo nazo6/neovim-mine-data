@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-01-11T17:45:16Z",
+    "description": "Seamless navigation between Neovim splits and tmux panes",
+    "isArchived": false,
+    "lastCommit": "2025-01-12T14:20:31Z",
+    "nameWithOwner": "anoopkcn/split-jump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim",
+      "tmux",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "split-jump.nvim",
+  "owner": "anoopkcn",
+  "url": "https://github.com/anoopkcn/split-jump.nvim"
+}

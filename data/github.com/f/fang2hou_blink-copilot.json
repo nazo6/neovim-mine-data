@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2025-01-21T16:49:10Z",
+    "description": "⚙️ Configurable GitHub Copilot blink.cmp source",
+    "isArchived": false,
+    "lastCommit": "2025-01-25T08:55:21Z",
+    "nameWithOwner": "fang2hou/blink-copilot",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+      "blink",
+      "blink-cmp",
+      "copilot",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-copilot",
+  "owner": "fang2hou",
+  "url": "https://github.com/fang2hou/blink-copilot"
+}

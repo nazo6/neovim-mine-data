@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Image"
-        },
-        {
-          "level": 3,
-          "name": "Ascii"
-        }
       ],
-      "file": "image.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 4,
     "createdAt": "2023-03-09T12:12:29Z",
     "description": "📸 Neovim plugin to take screenshots of your Neovim session.",
-    "isArchived": false,
-    "lastCommit": "2024-04-22T01:14:19Z",
+    "isArchived": true,
+    "lastCommit": "2025-01-18T19:28:06Z",
     "nameWithOwner": "mikesmithgh/render.nvim",
     "primaryLanguage": {
       "color": "#000080",

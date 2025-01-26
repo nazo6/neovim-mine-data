@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-01-15T22:14:57Z",
+    "description": "Effortlessly format and beautify embedded SQL code within your Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-01-17T21:21:24Z",
+    "nameWithOwner": "sergei-durkin/sql-formatter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sql-formatter.nvim",
+  "owner": "sergei-durkin",
+  "url": "https://github.com/sergei-durkin/sql-formatter.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "resize"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-01-17T06:04:46Z",
+    "description": "Humane commands and APIs for resizing nvim windows.",
+    "isArchived": false,
+    "lastCommit": "2025-01-18T11:20:07Z",
+    "nameWithOwner": "Kaiser-Yang/win-resizer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "win-resizer.nvim",
+  "owner": "Kaiser-Yang",
+  "url": "https://github.com/Kaiser-Yang/win-resizer.nvim"
+}

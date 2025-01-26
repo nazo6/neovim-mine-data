@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ntpy"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-01-19T06:48:10Z",
+    "description": "Neovim client for ntpy",
+    "isArchived": false,
+    "lastCommit": "2025-01-25T12:27:11Z",
+    "nameWithOwner": "jbyuki/ntpy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ntpy.nvim",
+  "owner": "jbyuki",
+  "url": "https://github.com/jbyuki/ntpy.nvim"
+}

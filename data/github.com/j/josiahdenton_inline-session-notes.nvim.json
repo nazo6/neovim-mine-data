@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Internal comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-01-13T11:49:30Z",
+    "description": "virtual text notes that live for as long as the nvim session",
+    "isArchived": false,
+    "lastCommit": "2025-01-15T04:21:33Z",
+    "nameWithOwner": "josiahdenton/inline-session-notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "inline-session-notes.nvim",
+  "owner": "josiahdenton",
+  "url": "https://github.com/josiahdenton/inline-session-notes.nvim"
+}

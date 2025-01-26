@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        },
+        {
+          "level": 3,
+          "name": "prefix(conventional-commits)"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-01-19T08:04:50Z",
+    "description": "Neovim plugin for Cocli 🌱",
+    "isArchived": false,
+    "lastCommit": "2025-01-22T18:03:22Z",
+    "nameWithOwner": "andostronaut/cocli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua-script",
+      "neovim",
+      "neovim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cocli.nvim",
+  "owner": "andostronaut",
+  "url": "https://github.com/andostronaut/cocli.nvim"
+}

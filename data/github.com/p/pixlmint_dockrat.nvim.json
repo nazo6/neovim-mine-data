@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Docker"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-01-14T22:27:53Z",
+    "description": "A fugitive inspired neovim plugin written in lua for docker",
+    "isArchived": false,
+    "lastCommit": "2025-01-11T13:56:23Z",
+    "nameWithOwner": "pixlmint/dockrat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dockrat.nvim",
+  "owner": "pixlmint",
+  "url": "https://github.com/pixlmint/dockrat.nvim"
+}

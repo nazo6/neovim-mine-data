@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-14T19:28:53Z",
+    "description": "Blazing-fast file management for Neovim—no file explorer required. Create, delete, and manage files effortlessly with intuitive shortcuts.",
+    "isArchived": false,
+    "lastCommit": "2025-01-14T23:59:04Z",
+    "nameWithOwner": "sam-sly/quickfiles.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quickfiles.nvim",
+  "owner": "sam-sly",
+  "url": "https://github.com/sam-sly/quickfiles.nvim"
+}

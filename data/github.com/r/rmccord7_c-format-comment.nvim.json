@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Comment"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-20T18:32:46Z",
+    "description": "A Neovim plugin to format c comments.",
+    "isArchived": false,
+    "lastCommit": "2025-01-21T00:31:25Z",
+    "nameWithOwner": "rmccord7/c-format-comment.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "c-format-comment.nvim",
+  "owner": "rmccord7",
+  "url": "https://github.com/rmccord7/c-format-comment.nvim"
+}

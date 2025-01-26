@@ -8,6 +8,10 @@
         },
         {
           "level": 2,
+          "name": "Key"
+        },
+        {
+          "level": 3,
           "name": "Escape"
         }
       ],
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 38,
+    "star": 40,
     "topics": [
       "lua",
       "neovim"

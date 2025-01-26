@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 43,
+    "commitCountLastYear": 46,
     "createdAt": "2024-10-21T16:48:23Z",
     "description": "a spelling auto correct plugin for Neovim including over 20k entries",
     "isArchived": false,
-    "lastCommit": "2025-01-11T19:26:01Z",
+    "lastCommit": "2025-01-16T01:47:03Z",
     "nameWithOwner": "ck-zhang/mistake.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,8 @@
     },
     "star": 46,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

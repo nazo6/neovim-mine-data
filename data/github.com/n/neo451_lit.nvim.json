@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-01-20T09:03:57Z",
+    "description": "(experimental) Neovim package manager, minimal, literal",
+    "isArchived": false,
+    "lastCommit": "2025-01-26T04:28:34Z",
+    "nameWithOwner": "neo451/lit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lit.nvim",
+  "owner": "neo451",
+  "url": "https://github.com/neo451/lit.nvim"
+}

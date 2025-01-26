@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Roblox studio"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-16T15:14:02Z",
+    "description": "A Neovim plugin that wraps around Rojo CLI commands.",
+    "isArchived": false,
+    "lastCommit": "2025-01-16T15:21:29Z",
+    "nameWithOwner": "ShouxTech/rojo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rojo.nvim",
+  "owner": "ShouxTech",
+  "url": "https://github.com/ShouxTech/rojo.nvim"
+}

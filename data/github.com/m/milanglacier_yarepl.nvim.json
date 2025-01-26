@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 39,
     "createdAt": "2023-06-03T10:33:31Z",
-    "description": "Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, project-level configs, working with aider-chat integration, and native dot repeat.",
+    "description": "All-in-one REPL and TUI App management tool. Offering flexible interaction paradigms, project-level configs, aider-chat integration, and native dot-repeat.",
     "isArchived": false,
-    "lastCommit": "2025-01-11T05:50:12Z",
+    "lastCommit": "2025-01-22T03:56:07Z",
     "nameWithOwner": "milanglacier/yarepl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 115,
+    "star": 130,
     "topics": [
       "neovim",
       "neovim-plugin",

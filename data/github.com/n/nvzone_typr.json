@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Typing"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 77,
+    "createdAt": "2024-10-29T10:26:44Z",
+    "description": "Most Beautiful Typing practice plugin for Neovim with dashboard",
+    "isArchived": false,
+    "lastCommit": "2025-01-25T15:04:48Z",
+    "nameWithOwner": "nvzone/typr",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 745,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typr",
+  "owner": "nvzone",
+  "url": "https://github.com/nvzone/typr"
+}

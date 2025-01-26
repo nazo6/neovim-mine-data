@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Zen Mode"
+        },
+        {
+          "level": 3,
+          "name": "Focus Mode"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 56,
+    "createdAt": "2025-01-16T05:29:39Z",
+    "description": "A Neovim plugin to focus in on selected code by folding all unhighlighted code, and allow for quick grepping based on cursor position.",
+    "isArchived": false,
+    "lastCommit": "2025-01-25T01:30:27Z",
+    "nameWithOwner": "itsamayo/microscope.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "microscope.nvim",
+  "owner": "itsamayo",
+  "url": "https://github.com/itsamayo/microscope.nvim"
+}

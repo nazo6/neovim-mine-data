@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-01-22T00:07:20Z",
+    "description": "Quickly move between your chosen files, per project",
+    "isArchived": false,
+    "lastCommit": "2025-01-26T01:26:54Z",
+    "nameWithOwner": "dangooddd/chosen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chosen.nvim",
+  "owner": "dangooddd",
+  "url": "https://github.com/dangooddd/chosen.nvim"
+}

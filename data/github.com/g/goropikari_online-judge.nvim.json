@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 2,
+          "name": "AtCoder"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 98,
+    "createdAt": "2025-01-13T06:49:54Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-24T11:06:02Z",
+    "nameWithOwner": "goropikari/online-judge.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "online-judge.nvim",
+  "owner": "goropikari",
+  "url": "https://github.com/goropikari/online-judge.nvim"
+}

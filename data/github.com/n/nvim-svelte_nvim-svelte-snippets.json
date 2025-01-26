@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Svelte"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-01-22T01:01:15Z",
+    "description": "Snippets for Svelte and SvelteKit for Neovim powered by Luasnip",
+    "isArchived": false,
+    "lastCommit": "2025-01-22T04:55:02Z",
+    "nameWithOwner": "nvim-svelte/nvim-svelte-snippets",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-svelte-snippets",
+  "owner": "nvim-svelte",
+  "url": "https://github.com/nvim-svelte/nvim-svelte-snippets"
+}

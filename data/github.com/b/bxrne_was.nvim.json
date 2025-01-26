@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Directory comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-01-15T19:20:38Z",
+    "description": "Neovim plugin to solve \"What was I doing here\" when moving between dirs",
+    "isArchived": false,
+    "lastCommit": "2025-01-16T01:02:51Z",
+    "nameWithOwner": "bxrne/was.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "was.nvim",
+  "owner": "bxrne",
+  "url": "https://github.com/bxrne/was.nvim"
+}

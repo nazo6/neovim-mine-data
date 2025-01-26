@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PlantUML"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-01-18T22:39:47Z",
+    "description": "A realtime rederer for plantuml Diagrams",
+    "isArchived": false,
+    "lastCommit": "2025-01-23T19:46:36Z",
+    "nameWithOwner": "Maduki-tech/nvim-plantuml",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plantuml",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-plantuml",
+  "owner": "Maduki-tech",
+  "url": "https://github.com/Maduki-tech/nvim-plantuml"
+}

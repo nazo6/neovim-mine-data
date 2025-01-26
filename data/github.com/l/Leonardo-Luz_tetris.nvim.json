@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Tetris"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-01-11T14:04:58Z",
+    "description": "A Neovim Plugin that provides a playable text-based Tetris game.",
+    "isArchived": false,
+    "lastCommit": "2025-01-15T13:53:40Z",
+    "nameWithOwner": "Leonardo-Luz/tetris.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tetris.nvim",
+  "owner": "Leonardo-Luz",
+  "url": "https://github.com/Leonardo-Luz/tetris.nvim"
+}

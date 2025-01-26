@@ -2,12 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Statusline"
-        }
       ],
-      "file": "statusline.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,17 +26,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 33,
+    "commitCountLastYear": 35,
     "createdAt": "2023-02-16T04:13:18Z",
     "description": "A minimal, stylish and customizable statusline, statuscolumn, and winbar for Neovim",
-    "isArchived": false,
-    "lastCommit": "2024-11-13T03:07:16Z",
+    "isArchived": true,
+    "lastCommit": "2025-01-24T07:39:15Z",
     "nameWithOwner": "freddiehaddad/feline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 331,
+    "star": 330,
     "topics": [
       "neovim",
       "neovim-lua",

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "Graphql"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-01-13T15:09:33Z",
+    "description": "Interactive Graphql client for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-15T10:18:16Z",
+    "nameWithOwner": "letieu/graphql.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "graphql",
+      "neovim",
+      "neovim-plugin",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "graphql.nvim",
+  "owner": "letieu",
+  "url": "https://github.com/letieu/graphql.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-19T21:01:03Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-19T23:35:32Z",
+    "nameWithOwner": "NikolaiLyssogor/sink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sink.nvim",
+  "owner": "NikolaiLyssogor",
+  "url": "https://github.com/NikolaiLyssogor/sink.nvim"
+}

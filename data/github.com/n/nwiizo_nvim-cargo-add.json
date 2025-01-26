@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Cargo"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-13T15:26:19Z",
+    "description": "A Neovim plugin written in Rust that provides commands for managing Cargo dependencies directly from your editor.",
+    "isArchived": false,
+    "lastCommit": "2025-01-14T00:33:52Z",
+    "nameWithOwner": "nwiizo/nvim-cargo-add",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cargo-add",
+  "owner": "nwiizo",
+  "url": "https://github.com/nwiizo/nvim-cargo-add"
+}

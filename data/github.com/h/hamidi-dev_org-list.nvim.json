@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-19T09:02:48Z",
+    "description": "Neovim plugin to toggle between different kinds of lists.",
+    "isArchived": false,
+    "lastCommit": "2025-01-19T10:37:36Z",
+    "nameWithOwner": "hamidi-dev/org-list.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "markdown",
+      "neovim",
+      "orgmode-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "org-list.nvim",
+  "owner": "hamidi-dev",
+  "url": "https://github.com/hamidi-dev/org-list.nvim"
+}

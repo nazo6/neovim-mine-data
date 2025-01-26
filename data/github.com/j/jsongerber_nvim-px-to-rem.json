@@ -38,9 +38,9 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 13,
     "createdAt": "2023-10-25T21:25:43Z",
-    "description": "A Neovim plugin written in lua to convert px to rem as you type. It also provide commands and keymaps to convert px to rem and a virtual text to visualize your rem values.",
+    "description": "A Neovim plugin written in lua to convert px to rem as you type. It also provide commands to convert px to rem and a virtual text to visualize your rem values.",
     "isArchived": false,
     "lastCommit": "2024-12-23T16:30:32Z",
     "nameWithOwner": "jsongerber/nvim-px-to-rem",

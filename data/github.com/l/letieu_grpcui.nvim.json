@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "GRPC"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-01-18T10:21:50Z",
+    "description": "Interactive gRPC client for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-19T08:11:26Z",
+    "nameWithOwner": "letieu/grpcui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "grpc",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "grpcui.nvim",
+  "owner": "letieu",
+  "url": "https://github.com/letieu/grpcui.nvim"
+}

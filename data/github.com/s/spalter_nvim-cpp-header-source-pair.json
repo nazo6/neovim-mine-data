@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Header"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-01-16T13:23:59Z",
+    "description": "A simple plugin to always open header files along side source files for C/C++ projects.",
+    "isArchived": false,
+    "lastCommit": "2025-01-16T14:19:54Z",
+    "nameWithOwner": "spalter/nvim-cpp-header-source-pair",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cpp-header-source-pair",
+  "owner": "spalter",
+  "url": "https://github.com/spalter/nvim-cpp-header-source-pair"
+}

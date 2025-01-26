@@ -1,0 +1,59 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "[Diff](./diff.md)"
+        },
+        {
+          "level": 3,
+          "name": "Match"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-01-11T22:50:40Z",
+    "description": "A tiny Neovim plugin to highlight text matching the current selection in visual mode 💫",
+    "isArchived": false,
+    "lastCommit": "2025-01-20T13:56:09Z",
+    "nameWithOwner": "wurli/visimatch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 41,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "visimatch.nvim",
+  "owner": "wurli",
+  "url": "https://github.com/wurli/visimatch.nvim"
+}

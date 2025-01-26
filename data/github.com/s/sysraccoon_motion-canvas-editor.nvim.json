@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-01-17T10:02:04Z",
+    "description": "Create code animations interactively inside neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-19T20:18:19Z",
+    "nameWithOwner": "sysraccoon/motion-canvas-editor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "motion-canvas",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "motion-canvas-editor.nvim",
+  "owner": "sysraccoon",
+  "url": "https://github.com/sysraccoon/motion-canvas-editor.nvim"
+}

@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 15,
     "createdAt": "2024-12-19T11:48:43Z",
-    "description": null,
+    "description": "Small plugin to help the NeoVim users of 42 schools with following the Norm",
     "isArchived": false,
-    "lastCommit": "2025-01-06T11:15:37Z",
+    "lastCommit": "2025-01-15T07:39:44Z",
     "nameWithOwner": "EyzeCOLD/nvim-function-linecount",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,12 @@
     },
     "star": 3,
     "topics": [
+      "42",
+      "42-school",
+      "42school",
+      "c",
+      "hivehelsinki",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

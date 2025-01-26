@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Bazel"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2025-01-12T17:40:24Z",
+    "description": "An overseer.nvim template provider for Bazel.",
+    "isArchived": false,
+    "lastCommit": "2025-01-19T09:42:54Z",
+    "nameWithOwner": "glindstedt/obazel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "bazel",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "obazel.nvim",
+  "owner": "glindstedt",
+  "url": "https://github.com/glindstedt/obazel.nvim"
+}

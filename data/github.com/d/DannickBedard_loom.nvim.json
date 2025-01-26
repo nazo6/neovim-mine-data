@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-01-18T17:36:55Z",
+    "description": "Effortlessly manage projects in Neovim with loom.nvim.",
+    "isArchived": false,
+    "lastCommit": "2025-01-21T13:14:18Z",
+    "nameWithOwner": "DannickBedard/loom.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "noevim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "loom.nvim",
+  "owner": "DannickBedard",
+  "url": "https://github.com/DannickBedard/loom.nvim"
+}

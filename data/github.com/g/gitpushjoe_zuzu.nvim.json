@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-01-21T03:05:24Z",
+    "description": "Neovim build system plugin",
+    "isArchived": false,
+    "lastCommit": "2025-01-23T19:31:12Z",
+    "nameWithOwner": "gitpushjoe/zuzu.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 56,
+    "topics": [
+      "build-tool",
+      "commands",
+      "lua",
+      "neovim",
+      "plugin",
+      "macos",
+      "windows"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zuzu.nvim",
+  "owner": "gitpushjoe",
+  "url": "https://github.com/gitpushjoe/zuzu.nvim"
+}

@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-01-21T23:22:22Z",
+    "description": "Plugin to get lsp name on lualine plugin",
+    "isArchived": false,
+    "lastCommit": "2025-01-21T23:55:58Z",
+    "nameWithOwner": "Crionigy/lsp-client-name.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-client-name.nvim",
+  "owner": "Crionigy",
+  "url": "https://github.com/Crionigy/lsp-client-name.nvim"
+}

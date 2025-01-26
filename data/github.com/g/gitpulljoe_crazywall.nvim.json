@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "split file"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 77,
+    "createdAt": "2025-01-10T16:29:26Z",
+    "description": "Neovim wrapper for the crazywall CLI tool",
+    "isArchived": false,
+    "lastCommit": "2025-01-13T02:59:17Z",
+    "nameWithOwner": "gitpulljoe/crazywall.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+      "neovim",
+      "notes",
+      "notetaking",
+      "obsidian",
+      "refactoring",
+      "zettelkasten"
+    ]
+  },
+  "domain": "github.com",
+  "name": "crazywall.nvim",
+  "owner": "gitpulljoe",
+  "url": "https://github.com/gitpulljoe/crazywall.nvim"
+}

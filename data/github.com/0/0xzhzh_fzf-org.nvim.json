@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-01-24T23:29:17Z",
+    "description": "Use fzf-lua to browse nvim-orgmode",
+    "isArchived": false,
+    "lastCommit": "2025-01-26T06:22:45Z",
+    "nameWithOwner": "0xzhzh/fzf-org.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "fzf-lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "orgmode-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-org.nvim",
+  "owner": "0xzhzh",
+  "url": "https://github.com/0xzhzh/fzf-org.nvim"
+}

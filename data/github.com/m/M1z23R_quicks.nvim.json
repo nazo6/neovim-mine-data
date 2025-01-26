@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Debug"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2025-01-18T00:32:58Z",
+    "description": "Neovim plugin for quickly running or debugging js/golang and quick git commands.",
+    "isArchived": false,
+    "lastCommit": "2025-01-21T22:15:17Z",
+    "nameWithOwner": "M1z23R/quicks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "quicks.nvim",
+  "owner": "M1z23R",
+  "url": "https://github.com/M1z23R/quicks.nvim"
+}

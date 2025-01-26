@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 110,
+    "createdAt": "2024-12-31T12:24:45Z",
+    "description": "Neovim Kubernetes plugin, manage your Kubernetes resources like a buffer",
+    "isArchived": false,
+    "lastCommit": "2025-01-24T11:13:31Z",
+    "nameWithOwner": "kezhenxu94/kube.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "kubernetes",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kube.nvim",
+  "owner": "kezhenxu94",
+  "url": "https://github.com/kezhenxu94/kube.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Viewer"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2025-01-16T15:27:46Z",
+    "description": "Manage previews for all filetypes in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-24T16:10:16Z",
+    "nameWithOwner": "SylvanFranklin/omni-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "omni-preview.nvim",
+  "owner": "SylvanFranklin",
+  "url": "https://github.com/SylvanFranklin/omni-preview.nvim"
+}

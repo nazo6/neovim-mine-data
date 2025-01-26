@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Patch"
+        }
+      ],
+      "file": "util-pack.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-01-21T16:18:54Z",
+    "description": "keep cursor at fixed visual line of window",
+    "isArchived": false,
+    "lastCommit": "2025-01-24T13:53:50Z",
+    "nameWithOwner": "trkwyk/scrollfix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scrollfix.nvim",
+  "owner": "trkwyk",
+  "url": "https://github.com/trkwyk/scrollfix.nvim"
+}

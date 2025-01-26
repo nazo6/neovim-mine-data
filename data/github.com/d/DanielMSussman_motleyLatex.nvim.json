@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-01-19T13:38:02Z",
+    "description": "Generate tcolorbox code blocks using your beautiful neovim styling",
+    "isArchived": false,
+    "lastCommit": "2025-01-20T19:39:10Z",
+    "nameWithOwner": "DanielMSussman/motleyLatex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "motleyLatex.nvim",
+  "owner": "DanielMSussman",
+  "url": "https://github.com/DanielMSussman/motleyLatex.nvim"
+}

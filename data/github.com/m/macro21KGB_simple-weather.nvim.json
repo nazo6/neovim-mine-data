@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Weather"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-19T18:02:03Z",
+    "description": "simple weather plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-20T15:03:54Z",
+    "nameWithOwner": "macro21KGB/simple-weather.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-weather.nvim",
+  "owner": "macro21KGB",
+  "url": "https://github.com/macro21KGB/simple-weather.nvim"
+}

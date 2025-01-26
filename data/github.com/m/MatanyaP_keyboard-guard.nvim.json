@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
+          "name": "Keyboard Layout"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-01-13T18:58:33Z",
+    "description": "A Neovim plugin that prevents unintended actions when typing in non-English keyboard layouts.",
+    "isArchived": false,
+    "lastCommit": "2025-01-23T08:12:05Z",
+    "nameWithOwner": "MatanyaP/keyboard-guard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "keyboard",
+      "keyboard-layout",
+      "neovim",
+      "neovim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "keyboard-guard.nvim",
+  "owner": "MatanyaP",
+  "url": "https://github.com/MatanyaP/keyboard-guard.nvim"
+}

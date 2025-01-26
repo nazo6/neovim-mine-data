@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorizer"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2025-01-19T15:01:11Z",
+    "description": "A coloring plugin",
+    "isArchived": false,
+    "lastCommit": "2025-01-19T18:32:53Z",
+    "nameWithOwner": "UnaTried/colors.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "colors.nvim",
+  "owner": "UnaTried",
+  "url": "https://github.com/UnaTried/colors.nvim"
+}

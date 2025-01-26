@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-13T20:11:27Z",
+    "description": "Neovim Jest Terminal",
+    "isArchived": false,
+    "lastCommit": "2025-01-13T20:31:48Z",
+    "nameWithOwner": "schillermann/nvim-jest-terminal",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jest-terminal",
+  "owner": "schillermann",
+  "url": "https://github.com/schillermann/nvim-jest-terminal"
+}

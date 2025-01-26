@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Other Editor"
+        },
+        {
+          "level": 4,
+          "name": "VS Code"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-12T13:40:59Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-12T13:32:28Z",
+    "nameWithOwner": "mark-ng/Code.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Code.nvim",
+  "owner": "mark-ng",
+  "url": "https://github.com/mark-ng/Code.nvim"
+}

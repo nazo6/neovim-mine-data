@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Dictionary"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-23T04:52:25Z",
+    "description": "A neovim popup dictionary plugin to show definitions in a floating window",
+    "isArchived": false,
+    "lastCommit": "2025-01-23T04:55:16Z",
+    "nameWithOwner": "okaydouglas/popup-dictionary.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "popup-dictionary.nvim",
+  "owner": "okaydouglas",
+  "url": "https://github.com/okaydouglas/popup-dictionary.nvim"
+}

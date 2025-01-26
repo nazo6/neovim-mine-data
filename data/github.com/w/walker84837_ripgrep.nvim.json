@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ripgrep"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-01-22T06:38:22Z",
+    "description": "Easy and intuitive ripgrep search plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-01-22T14:28:38Z",
+    "nameWithOwner": "walker84837/ripgrep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ripgrep.nvim",
+  "owner": "walker84837",
+  "url": "https://github.com/walker84837/ripgrep.nvim"
+}

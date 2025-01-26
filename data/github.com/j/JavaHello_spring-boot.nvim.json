@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Spring Boot"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2024-04-12T05:55:25Z",
+    "description": "Neovim + Spring Boot LS",
+    "isArchived": false,
+    "lastCommit": "2025-01-14T01:34:36Z",
+    "nameWithOwner": "JavaHello/spring-boot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+      "jdtls",
+      "neovim",
+      "spring-boot",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spring-boot.nvim",
+  "owner": "JavaHello",
+  "url": "https://github.com/JavaHello/spring-boot.nvim"
+}

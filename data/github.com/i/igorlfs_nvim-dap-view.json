@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 86,
+    "createdAt": "2024-11-02T05:09:04Z",
+    "description": "Visualize debugging sessions in neovim!",
+    "isArchived": false,
+    "lastCommit": "2025-01-23T03:37:03Z",
+    "nameWithOwner": "igorlfs/nvim-dap-view",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 187,
+    "topics": [
+      "debugging",
+      "lua",
+      "nvim",
+      "nvim-dap",
+      "nvim-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-view",
+  "owner": "igorlfs",
+  "url": "https://github.com/igorlfs/nvim-dap-view"
+}

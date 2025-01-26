@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ssh"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2025-01-16T12:24:57Z",
+    "description": "ssh connections manager for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-01-19T06:31:54Z",
+    "nameWithOwner": "epheien/conn-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "conn-manager.nvim",
+  "owner": "epheien",
+  "url": "https://github.com/epheien/conn-manager.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-14T16:51:33Z",
+    "description": "Highlight specific line ranges, generate GitHub permalink.",
+    "isArchived": false,
+    "lastCommit": "2025-01-17T22:46:31Z",
+    "nameWithOwner": "johnsaigle/github-permalink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "github",
+      "neovim",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "github-permalink.nvim",
+  "owner": "johnsaigle",
+  "url": "https://github.com/johnsaigle/github-permalink.nvim"
+}

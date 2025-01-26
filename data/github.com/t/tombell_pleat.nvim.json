@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2024-12-31T23:08:30Z",
+    "description": "Optionated fold plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-24T23:36:56Z",
+    "nameWithOwner": "tombell/pleat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pleat.nvim",
+  "owner": "tombell",
+  "url": "https://github.com/tombell/pleat.nvim"
+}

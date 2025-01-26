@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 57,
+    "createdAt": "2024-12-29T11:06:23Z",
+    "description": "OpenAI chat completion request (JSON) ⇋ markdown & sent requests",
+    "isArchived": false,
+    "lastCommit": "2025-01-13T12:04:54Z",
+    "nameWithOwner": "S1M0N38/chatml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chatml.nvim",
+  "owner": "S1M0N38",
+  "url": "https://github.com/S1M0N38/chatml.nvim"
+}

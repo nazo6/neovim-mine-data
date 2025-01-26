@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-01-19T09:14:59Z",
+    "description": "A simple neovim plugin to ease out lengthy vim.cmds for regex based text editing",
+    "isArchived": false,
+    "lastCommit": "2025-01-19T13:35:05Z",
+    "nameWithOwner": "Chamal1120/easyedit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "regex"
+    ]
+  },
+  "domain": "github.com",
+  "name": "easyedit.nvim",
+  "owner": "Chamal1120",
+  "url": "https://github.com/Chamal1120/easyedit.nvim"
+}

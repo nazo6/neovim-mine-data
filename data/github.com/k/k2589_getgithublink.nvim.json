@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-16T21:43:26Z",
+    "description": "Get url link to code on github for lines selected in nvim ",
+    "isArchived": false,
+    "lastCommit": "2025-01-16T22:48:16Z",
+    "nameWithOwner": "k2589/getgithublink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "getgithublink.nvim",
+  "owner": "k2589",
+  "url": "https://github.com/k2589/getgithublink.nvim"
+}

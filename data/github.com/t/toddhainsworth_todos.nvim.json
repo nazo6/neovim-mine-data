@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-20T11:42:11Z",
+    "description": "Neovim plugin that provides a UI to keep track of your TODOs",
+    "isArchived": false,
+    "lastCommit": "2025-01-20T11:41:34Z",
+    "nameWithOwner": "toddhainsworth/todos.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todos.nvim",
+  "owner": "toddhainsworth",
+  "url": "https://github.com/toddhainsworth/todos.nvim"
+}

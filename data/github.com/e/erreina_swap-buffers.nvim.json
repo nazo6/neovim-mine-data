@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "swap"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-01-15T20:05:02Z",
+    "description": "Lua plugin to swap buffers easily between split windows without changing the window layout",
+    "isArchived": false,
+    "lastCommit": "2025-01-15T21:41:31Z",
+    "nameWithOwner": "erreina/swap-buffers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "swap-buffers.nvim",
+  "owner": "erreina",
+  "url": "https://github.com/erreina/swap-buffers.nvim"
+}

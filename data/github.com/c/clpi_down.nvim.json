@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 177,
+    "createdAt": "2024-11-16T04:42:19Z",
+    "description": "the (eventually) infinitely extensible markdown note-taking work environment that you can have in Neovim without having to ever leave the comfort of markdown.",
+    "isArchived": false,
+    "lastCommit": "2025-01-18T12:16:44Z",
+    "nameWithOwner": "clpi/down.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "notes",
+      "nvim",
+      "org",
+      "org-mode",
+      "zettelkasten",
+      "obsidian",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "down.nvim",
+  "owner": "clpi",
+  "url": "https://github.com/clpi/word.lua"
+}

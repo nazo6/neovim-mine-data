@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2023-12-21T07:29:55Z",
+    "description": "Nvim Read–Eval–Print Loop (REPL) plugin for data science workflow",
+    "isArchived": false,
+    "lastCommit": "2025-01-23T09:58:41Z",
+    "nameWithOwner": "matarina/pyrola.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pyrola.nvim",
+  "owner": "matarina",
+  "url": "https://github.com/matarina/nvim_ds_repl"
+}

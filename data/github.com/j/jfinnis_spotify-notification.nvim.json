@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-01-11T16:30:08Z",
+    "description": "Pop up a notification in Neovim when a new song plays in Spotify.",
+    "isArchived": false,
+    "lastCommit": "2025-01-13T02:52:11Z",
+    "nameWithOwner": "jfinnis/spotify-notification.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spotify-notification.nvim",
+  "owner": "jfinnis",
+  "url": "https://github.com/jfinnis/spotify-notification.nvim"
+}

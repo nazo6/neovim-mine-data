@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Joke"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-01-15T16:11:41Z",
+    "description": "Recreation of the YouAreAnIdiot trojan in NeoVim.",
+    "isArchived": false,
+    "lastCommit": "2025-01-16T01:54:44Z",
+    "nameWithOwner": "GitMarkedDan/you-are-an-idiot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "you-are-an-idiot.nvim",
+  "owner": "GitMarkedDan",
+  "url": "https://github.com/GitMarkedDan/you-are-an-idiot.nvim"
+}
