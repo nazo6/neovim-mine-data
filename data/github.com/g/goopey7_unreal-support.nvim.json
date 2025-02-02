@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Game Engine"
-        },
-        {
-          "level": 3,
-          "name": "Unreal"
-        }
       ],
-      "file": "game-engine.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 2,
     "createdAt": "2024-01-10T12:14:36Z",
     "description": "Use Neovim for Unreal Engine Development on Windows/Linux",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-02-09T01:30:43Z",
     "nameWithOwner": "goopey7/unreal-support.nvim",
     "primaryLanguage": {

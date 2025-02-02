@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "lifetime"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 89,
+    "createdAt": "2024-10-16T19:28:48Z",
+    "description": "Visualize Ownership and Lifetimes in Rust",
+    "isArchived": false,
+    "lastCommit": "2025-02-01T01:26:45Z",
+    "nameWithOwner": "cordx56/rustowl",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 326,
+    "topics": [
+      "lifetime",
+      "ownership",
+      "rust",
+      "visualization"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rustowl",
+  "owner": "cordx56",
+  "url": "https://github.com/cordx56/rustowl"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-25T10:36:25Z",
+    "description": "Running rsync on save in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-25T10:55:22Z",
+    "nameWithOwner": "yimuchen/rsync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rsync.nvim",
+  "owner": "yimuchen",
+  "url": "https://github.com/yimuchen/rsync.nvim"
+}

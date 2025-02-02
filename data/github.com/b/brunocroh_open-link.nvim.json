@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "url open"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-01-26T21:00:02Z",
+    "description": "A simple Neovim plugin to open selected text as URLs in the browser.",
+    "isArchived": false,
+    "lastCommit": "2025-01-29T23:07:09Z",
+    "nameWithOwner": "brunocroh/open-link.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-link.nvim",
+  "owner": "brunocroh",
+  "url": "https://github.com/brunocroh/open-link.nvim"
+}

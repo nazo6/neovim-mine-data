@@ -20,12 +20,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 4,
     "createdAt": "2025-01-23T04:52:25Z",
     "description": "A neovim popup dictionary plugin to show definitions in a floating window",
     "isArchived": false,
-    "lastCommit": "2025-01-23T04:55:16Z",
-    "nameWithOwner": "okaydouglas/popup-dictionary.nvim",
+    "lastCommit": "2025-01-27T04:49:14Z",
+    "nameWithOwner": "okaydouglas/dictionary.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "popup-dictionary.nvim",
+  "name": "dictionary.nvim",
   "owner": "okaydouglas",
   "url": "https://github.com/okaydouglas/popup-dictionary.nvim"
 }

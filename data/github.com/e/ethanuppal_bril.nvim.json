@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Bril"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-30T16:03:44Z",
+    "description": "Bril for Neovim | LSP + simple wrapper around sampsyo/bril/bril-vim",
+    "isArchived": false,
+    "lastCommit": "2025-01-31T19:25:46Z",
+    "nameWithOwner": "ethanuppal/bril.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "bril",
+      "lsp",
+      "neovim",
+      "plugin",
+      "syntax-highlighting"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bril.nvim",
+  "owner": "ethanuppal",
+  "url": "https://github.com/ethanuppal/bril.nvim"
+}

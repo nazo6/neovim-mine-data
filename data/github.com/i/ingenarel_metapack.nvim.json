@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "LSP, DAP, linter, formatter"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-01-29T18:02:40Z",
+    "description": "a meta package manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-31T10:42:29Z",
+    "nameWithOwner": "ingenarel/metapack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "metapack.nvim",
+  "owner": "ingenarel",
+  "url": "https://github.com/ingenarel/metapack.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-01-27T22:15:58Z",
+    "description": "Plugin for neovim for launching terminal buffers as repls with accompying interaction functions.",
+    "isArchived": false,
+    "lastCommit": "2025-01-28T14:40:50Z",
+    "nameWithOwner": "human-d3v/term-repl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "term-repl.nvim",
+  "owner": "human-d3v",
+  "url": "https://github.com/human-d3v/term-repl.nvim"
+}

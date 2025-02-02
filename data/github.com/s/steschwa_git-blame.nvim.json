@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-01-27T20:10:17Z",
+    "description": "Neovim plugin for displaying Git blame information in a floating window",
+    "isArchived": false,
+    "lastCommit": "2025-01-28T17:29:47Z",
+    "nameWithOwner": "steschwa/git-blame.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-blame.nvim",
+  "owner": "steschwa",
+  "url": "https://github.com/steschwa/git-blame.nvim"
+}

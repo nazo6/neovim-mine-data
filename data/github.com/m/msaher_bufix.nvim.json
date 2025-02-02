@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Error"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 269,
+    "createdAt": "2025-01-28T08:59:53Z",
+    "description": "Jump through `:terminal`'s errors (or any other buffer).",
+    "isArchived": false,
+    "lastCommit": "2025-01-28T09:46:31Z",
+    "nameWithOwner": "msaher/bufix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufix.nvim",
+  "owner": "msaher",
+  "url": "https://github.com/msaher/bufix.nvim"
+}

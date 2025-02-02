@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-01-26T14:21:42Z",
+    "description": "A small neovim plugin for working with the integrated terminal.",
+    "isArchived": false,
+    "lastCommit": "2025-01-27T19:52:32Z",
+    "nameWithOwner": "J-Me-2307/terminalis.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "terminalis.nvim",
+  "owner": "J-Me-2307",
+  "url": "https://github.com/J-Me-2307/terminalis.nvim"
+}

@@ -42,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 99,
+    "commitCountLastYear": 108,
     "createdAt": "2023-09-21T14:38:06Z",
     "description": "Add inline-comments to ignore rules, or lookup rule documentation online.",
     "isArchived": false,
-    "lastCommit": "2025-01-03T00:51:39Z",
+    "lastCommit": "2025-02-01T12:01:55Z",
     "nameWithOwner": "chrisgrieser/nvim-rulebook",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 79,
+    "star": 80,
     "topics": [
       "linter-plugin",
       "nvim-plugin",

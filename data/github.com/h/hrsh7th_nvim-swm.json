@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Switcher"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-01-31T05:29:57Z",
+    "description": "Smart window movement in neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-02-01T05:56:24Z",
+    "nameWithOwner": "hrsh7th/nvim-swm",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-swm",
+  "owner": "hrsh7th",
+  "url": "https://github.com/hrsh7th/nvim-swm"
+}

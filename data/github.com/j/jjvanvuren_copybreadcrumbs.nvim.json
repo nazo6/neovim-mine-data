@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "test"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-30T10:30:44Z",
+    "description": "Neovim plugin for copying Python breadcrumbs",
+    "isArchived": false,
+    "lastCommit": "2025-01-31T02:05:30Z",
+    "nameWithOwner": "jjvanvuren/copybreadcrumbs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copybreadcrumbs.nvim",
+  "owner": "jjvanvuren",
+  "url": "https://github.com/jjvanvuren/copybreadcrumbs.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "C#"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-01-28T21:38:22Z",
+    "description": "Neovim plugin written in Lua for generating workspace diagnostics for .Net projects in Neovim. Supports C#",
+    "isArchived": false,
+    "lastCommit": "2025-02-01T07:39:28Z",
+    "nameWithOwner": "bosvik/roslyn-diagnostics.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "dotnet",
+      "neovim",
+      "neovim-plugin",
+      "roslyn"
+    ]
+  },
+  "domain": "github.com",
+  "name": "roslyn-diagnostics.nvim",
+  "owner": "bosvik",
+  "url": "https://github.com/bosvik/roslyn-diagnostics.nvim"
+}

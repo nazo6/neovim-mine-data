@@ -7,25 +7,21 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "CLI"
-        },
-        {
-          "level": 4,
-          "name": "dotnet"
+          "level": 2,
+          "name": "Util pack"
         }
       ],
-      "file": "cli.md",
+      "file": "util-pack.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
-    "createdAt": "2025-01-13T02:26:03Z",
+    "commitCountLastYear": 6,
+    "createdAt": "2025-01-27T05:05:16Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-01-25T10:17:40Z",
-    "nameWithOwner": "cantti/fzf-dotnet.nvim",
+    "lastCommit": "2025-01-31T05:47:39Z",
+    "nameWithOwner": "hasansujon786/snacks-file-browser.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "fzf-dotnet.nvim",
-  "owner": "cantti",
-  "url": "https://github.com/cantti/fzf-dotnet.nvim"
+  "name": "snacks-file-browser.nvim",
+  "owner": "hasansujon786",
+  "url": "https://github.com/hasansujon786/snacks-file-browser.nvim"
 }

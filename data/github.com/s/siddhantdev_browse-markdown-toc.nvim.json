@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "toc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-01-29T00:22:22Z",
+    "description": "A simple neovim plugin which lets you browse the TOC of a markdown file.",
+    "isArchived": false,
+    "lastCommit": "2025-01-29T08:32:01Z",
+    "nameWithOwner": "siddhantdev/browse-markdown-toc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "browse-markdown-toc.nvim",
+  "owner": "siddhantdev",
+  "url": "https://github.com/siddhantdev/browse-markdown-toc.nvim"
+}

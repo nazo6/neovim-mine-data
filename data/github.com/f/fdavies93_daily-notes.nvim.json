@@ -16,23 +16,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 37,
     "createdAt": "2024-11-22T14:29:23Z",
-    "description": "An nvim plugin to enable creating daily and weekly notes.",
+    "description": "An nvim plugin to enable creating periodic notes.",
     "isArchived": false,
-    "lastCommit": "2025-01-18T16:39:28Z",
+    "lastCommit": "2025-01-30T22:42:58Z",
     "nameWithOwner": "fdavies93/daily-notes.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 8,
     "topics": [
       "daily-notes",
       "neovim",
       "neovim-plugin",
       "notes",
-      "nvim-plugin"
+      "nvim-plugin",
+      "journal"
     ]
   },
   "domain": "github.com",

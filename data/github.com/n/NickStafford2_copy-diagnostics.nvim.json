@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2025-01-30T09:23:10Z",
+    "description": " A very simple Neovim plugin for copying diagnostics from the current line to the clipboard. ",
+    "isArchived": false,
+    "lastCommit": "2025-01-30T17:18:02Z",
+    "nameWithOwner": "NickStafford2/copy-diagnostics.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copy-diagnostics.nvim",
+  "owner": "NickStafford2",
+  "url": "https://github.com/NickStafford2/copy-diagnostics.nvim"
+}

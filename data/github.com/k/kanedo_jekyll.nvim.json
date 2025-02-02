@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Jekyll"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-01-28T12:25:26Z",
+    "description": "Neovim Plugin for Creating Jekyll Posts",
+    "isArchived": false,
+    "lastCommit": "2025-01-30T10:09:59Z",
+    "nameWithOwner": "kanedo/jekyll.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jekyll.nvim",
+  "owner": "kanedo",
+  "url": "https://github.com/kanedo/jekyll.nvim"
+}

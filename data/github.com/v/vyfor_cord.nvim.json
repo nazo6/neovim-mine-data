@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
+        },
+        {
+          "level": 4,
+          "name": "Discord"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 960,
+    "createdAt": "2024-04-07T15:20:39Z",
+    "description": "🚀 Discord Rich Presence for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-31T19:28:35Z",
+    "nameWithOwner": "vyfor/cord.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 250,
+    "topics": [
+      "discord",
+      "lua",
+      "neovim",
+      "plugin",
+      "rich-presence",
+      "rpc",
+      "rust",
+      "nvim",
+      "cord",
+      "discord-rich-presence"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cord.nvim",
+  "owner": "vyfor",
+  "url": "https://github.com/vyfor/cord.nvim"
+}

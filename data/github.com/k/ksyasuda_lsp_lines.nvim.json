@@ -2,24 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "LSP Feature Extension UI"
-        },
-        {
-          "level": 4,
-          "name": "Diagnostics"
-        }
       ],
-      "file": "lsp.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -27,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-02-15T06:35:40Z",
     "description": "Just a github clone of lsp_lines.nvim https://git.sr.ht/~whynothugo/lsp_lines.nvim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-11-01T02:23:17Z",
     "nameWithOwner": "ksyasuda/lsp_lines.nvim",
     "primaryLanguage": {

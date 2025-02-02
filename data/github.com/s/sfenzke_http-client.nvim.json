@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "HTTP"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-01-28T20:57:58Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-02T01:38:02Z",
+    "nameWithOwner": "sfenzke/http-client.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "http-client.nvim",
+  "owner": "sfenzke",
+  "url": "https://github.com/sfenzke/http-client.nvim"
+}

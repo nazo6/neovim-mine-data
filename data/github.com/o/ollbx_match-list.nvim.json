@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Search"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-01-28T15:02:18Z",
+    "description": "Checks buffer contents against regular expressions and creates a navigable list of matches.",
+    "isArchived": false,
+    "lastCommit": "2025-01-31T16:07:34Z",
+    "nameWithOwner": "ollbx/match-list.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "match-list.nvim",
+  "owner": "ollbx",
+  "url": "https://github.com/ollbx/match-list.nvim"
+}

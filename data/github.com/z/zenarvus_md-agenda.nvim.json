@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-01-31T21:11:15Z",
+    "description": "A Markdown task and time management plugin for NeoVim, insipred by Emacs.",
+    "isArchived": false,
+    "lastCommit": "2025-02-02T09:44:52Z",
+    "nameWithOwner": "zenarvus/md-agenda.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "getting-things-done",
+      "habit-tracking",
+      "neovim",
+      "productivity",
+      "project-management"
+    ]
+  },
+  "domain": "github.com",
+  "name": "md-agenda.nvim",
+  "owner": "zenarvus",
+  "url": "https://github.com/zenarvus/md-agenda.nvim"
+}

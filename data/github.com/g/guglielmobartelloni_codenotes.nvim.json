@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2024-12-31T11:45:15Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-01-27T11:29:34Z",
+    "nameWithOwner": "guglielmobartelloni/codenotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codenotes.nvim",
+  "owner": "guglielmobartelloni",
+  "url": "https://github.com/guglielmobartelloni/neatnotes.nvim"
+}

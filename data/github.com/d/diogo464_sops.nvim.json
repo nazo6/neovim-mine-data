@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Security"
+        },
+        {
+          "level": 4,
+          "name": "Secrets"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-01-30T21:56:06Z",
+    "description": "SOPS integration with neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-30T22:06:23Z",
+    "nameWithOwner": "diogo464/sops.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "sops"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sops.nvim",
+  "owner": "diogo464",
+  "url": "https://github.com/diogo464/sops.nvim"
+}

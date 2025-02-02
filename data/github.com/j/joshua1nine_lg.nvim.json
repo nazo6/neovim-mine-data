@@ -4,34 +4,34 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Git"
         },
         {
           "level": 2,
-          "name": "etc"
+          "name": "lazygit"
         }
       ],
-      "file": "note-taking.md",
+      "file": "git-github.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
-    "createdAt": "2024-12-31T11:45:15Z",
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-25T19:35:08Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-01-02T21:00:12Z",
-    "nameWithOwner": "guglielmobartelloni/neatnotes.nvim",
+    "lastCommit": "2025-01-25T20:10:52Z",
+    "nameWithOwner": "joshua1nine/lg.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "neatnotes.nvim",
-  "owner": "guglielmobartelloni",
-  "url": "https://github.com/guglielmobartelloni/neatnotes.nvim"
+  "name": "lg.nvim",
+  "owner": "joshua1nine",
+  "url": "https://github.com/joshua1nine/lg.nvim"
 }

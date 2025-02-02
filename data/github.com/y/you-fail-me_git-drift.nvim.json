@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-01-30T15:16:36Z",
+    "description": "Track divergence from git upstream in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-01T18:51:53Z",
+    "nameWithOwner": "you-fail-me/git-drift.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-drift.nvim",
+  "owner": "you-fail-me",
+  "url": "https://github.com/you-fail-me/git-drift.nvim"
+}

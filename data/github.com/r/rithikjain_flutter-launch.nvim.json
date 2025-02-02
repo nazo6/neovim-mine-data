@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 7,
     "createdAt": "2024-11-10T07:20:12Z",
     "description": "A neovim plugin that supports attaching to flutter and performing basic reloads",
     "isArchived": false,
-    "lastCommit": "2024-11-20T06:53:30Z",
+    "lastCommit": "2025-02-01T10:20:09Z",
     "nameWithOwner": "rithikjain/flutter-launch.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,9 @@
     },
     "star": 1,
     "topics": [
+      "flutter",
+      "neovim",
+      "plugin"
     ]
   },
   "domain": "github.com",

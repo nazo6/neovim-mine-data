@@ -8,38 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Window"
+          "name": "Toolchain"
         },
         {
           "level": 3,
-          "name": "Window Management"
-        },
-        {
-          "level": 4,
-          "name": "focus"
+          "name": "tsc(TypeScript compiler)"
         }
       ],
-      "file": "window.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 7,
-    "createdAt": "2024-05-29T17:54:33Z",
-    "description": "Dims inactive windows, leaves the active one untouched.",
+    "createdAt": "2025-01-25T23:36:03Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2024-06-04T01:46:42Z",
-    "nameWithOwner": "JuanBaut/eclipse.nvim",
+    "lastCommit": "2025-01-28T16:42:19Z",
+    "nameWithOwner": "jpwallace22/typelens.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 5,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "eclipse.nvim",
-  "owner": "JuanBaut",
-  "url": "https://github.com/JuanBaut/eclipse.nvim"
+  "name": "typelens.nvim",
+  "owner": "jpwallace22",
+  "url": "https://github.com/jpwallace22/typelens.nvim"
 }

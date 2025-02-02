@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "darkman"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-01-29T21:11:32Z",
+    "description": "A neovim plugin for interfacing with the freedesktop dark mode standard dark-mode, neovim, neovim-golang, neovim-plugin, night-mode, theme-switcher",
+    "isArchived": false,
+    "lastCommit": "2025-01-29T21:11:33Z",
+    "nameWithOwner": "dimwitteddisc/darkman.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 122,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "darkman.nvim",
+  "owner": "dimwitteddisc",
+  "url": "https://github.com/dimwitteddisc/darkman.nvim"
+}

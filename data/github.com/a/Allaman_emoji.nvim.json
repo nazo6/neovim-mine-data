@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 124,
     "createdAt": "2024-02-23T18:04:25Z",
-    "description": "A plugin to search for and insert emojis/kaomojis right from Neovim 😀",
+    "description": "A plugin to search for and insert emojis/kaomojis, with auto-completion support, right from Neovim 😀",
     "isArchived": false,
     "lastCommit": "2025-01-15T23:25:22Z",
     "nameWithOwner": "Allaman/emoji.nvim",
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 75,
+    "star": 76,
     "topics": [
       "emoji",
       "lua",

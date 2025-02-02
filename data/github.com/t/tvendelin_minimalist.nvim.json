@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Zen Mode"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-01-30T18:27:55Z",
+    "description": "Creates a single centered window, and hides the rest (Zen-mode)",
+    "isArchived": false,
+    "lastCommit": "2025-01-30T18:24:26Z",
+    "nameWithOwner": "tvendelin/minimalist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "minimalist.nvim",
+  "owner": "tvendelin",
+  "url": "https://github.com/tvendelin/minimalist.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-01-31T22:26:52Z",
+    "description": "A journaling system that self extracts data from your notes.",
+    "isArchived": false,
+    "lastCommit": "2025-02-01T22:19:06Z",
+    "nameWithOwner": "nilszeilon/lumen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lumen.nvim",
+  "owner": "nilszeilon",
+  "url": "https://github.com/nilszeilon/lumen.nvim"
+}

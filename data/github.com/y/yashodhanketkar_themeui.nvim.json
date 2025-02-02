@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-01-27T15:58:09Z",
+    "description": "Dynamic theme selector for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-01-31T13:37:45Z",
+    "nameWithOwner": "yashodhanketkar/themeui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "themeui.nvim",
+  "owner": "yashodhanketkar",
+  "url": "https://github.com/yashodhanketkar/themeui.nvim"
+}
