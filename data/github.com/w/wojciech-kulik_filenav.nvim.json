@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-02-08T16:09:24Z",
+    "description": "Neovim plugin providing a simple way to navigate between visited files similar to the browser's back and forward buttons.",
+    "isArchived": false,
+    "lastCommit": "2025-02-08T21:07:33Z",
+    "nameWithOwner": "wojciech-kulik/filenav.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "filenav.nvim",
+  "owner": "wojciech-kulik",
+  "url": "https://github.com/wojciech-kulik/filenav.nvim"
+}

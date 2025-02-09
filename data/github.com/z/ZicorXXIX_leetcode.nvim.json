@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 2,
+          "name": "LeetCode"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-07T12:13:48Z",
+    "description": "Practice Leetcode on Nvim",
+    "isArchived": false,
+    "lastCommit": "2025-02-07T19:35:01Z",
+    "nameWithOwner": "ZicorXXIX/leetcode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "leetcode.nvim",
+  "owner": "ZicorXXIX",
+  "url": "https://github.com/ZicorXXIX/leetcode.nvim"
+}

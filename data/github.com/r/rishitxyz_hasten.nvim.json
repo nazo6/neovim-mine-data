@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2024-01-27T22:17:41Z",
+    "description": "Quickly switch your open buffers with custom keybinds on fly.",
+    "isArchived": false,
+    "lastCommit": "2024-02-17T19:22:42Z",
+    "nameWithOwner": "rishitxyz/hasten.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "buffer",
+      "neovim-plugin",
+      "nvim-buffers"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hasten.nvim",
+  "owner": "rishitxyz",
+  "url": "https://github.com/genzyy/hasten.nvim"
+}

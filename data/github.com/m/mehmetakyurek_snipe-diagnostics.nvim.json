@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-02-03T06:22:20Z",
+    "description": "navigate buffer diagnostics using snipe",
+    "isArchived": false,
+    "lastCommit": "2025-02-03T07:09:39Z",
+    "nameWithOwner": "mehmetakyurek/snipe-diagnostics.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snipe-diagnostics.nvim",
+  "owner": "mehmetakyurek",
+  "url": "https://github.com/mehmetakyurek/snipe-diagnostics.nvim"
+}

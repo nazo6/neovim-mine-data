@@ -16,23 +16,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 73,
     "createdAt": "2025-01-31T21:11:15Z",
-    "description": "A Markdown task and time management plugin for NeoVim, insipred by Emacs.",
+    "description": "Markdown time and task management plugin for NeoVim, inspired by org-agenda.",
     "isArchived": false,
-    "lastCommit": "2025-02-02T09:44:52Z",
+    "lastCommit": "2025-02-09T09:22:50Z",
     "nameWithOwner": "zenarvus/md-agenda.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 7,
     "topics": [
       "getting-things-done",
       "habit-tracking",
       "neovim",
       "productivity",
-      "project-management"
+      "project-management",
+      "org-agr"
     ]
   },
   "domain": "github.com",

@@ -24,15 +24,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 6,
     "createdAt": "2025-01-19T06:29:00Z",
-    "description": "Markdown todo list format that allows you to go super saiyan",
+    "description": "Markdown todo list format that lets you go super saiyan",
     "isArchived": false,
-    "lastCommit": "2025-01-19T07:02:54Z",
+    "lastCommit": "2025-02-03T07:36:41Z",
     "nameWithOwner": "TheNickMonaco/powerlevel.nvim",
-    "primaryLanguage": null,
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
     "star": 1,
     "topics": [
+      "ascii-animation",
+      "ascii-art",
+      "lua",
+      "markdown",
+      "neovim",
+      "plugin",
+      "todolist"
     ]
   },
   "domain": "github.com",

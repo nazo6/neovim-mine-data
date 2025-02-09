@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-02-03T23:11:44Z",
+    "description": "A try of plugin for Neovim to manage templates",
+    "isArchived": false,
+    "lastCommit": "2025-02-05T00:10:36Z",
+    "nameWithOwner": "yebt/stencil.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stencil.nvim",
+  "owner": "yebt",
+  "url": "https://github.com/yebt/stencil.nvim"
+}

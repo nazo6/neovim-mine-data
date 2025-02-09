@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-02-03T23:20:46Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-08T23:56:03Z",
+    "nameWithOwner": "tkachenkosi/mbuffers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mbuffers.nvim",
+  "owner": "tkachenkosi",
+  "url": "https://github.com/tkachenkosi/mbuffers.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Dart, Flutter"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-02-01T15:46:15Z",
+    "description": "A neovim plugin to provide helpers for flutter freezed package",
+    "isArchived": false,
+    "lastCommit": "2025-02-01T20:05:48Z",
+    "nameWithOwner": "rithikjain/flutter-freezed.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "flutter",
+      "freezed",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "flutter-freezed.nvim",
+  "owner": "rithikjain",
+  "url": "https://github.com/rithikjain/flutter-freezed.nvim"
+}

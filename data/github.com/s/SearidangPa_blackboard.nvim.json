@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2025-02-03T01:42:16Z",
+    "description": "View, Preview marks with context",
+    "isArchived": false,
+    "lastCommit": "2025-02-05T22:36:25Z",
+    "nameWithOwner": "SearidangPa/blackboard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim-plugin",
+      "lua",
+      "nvim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blackboard.nvim",
+  "owner": "SearidangPa",
+  "url": "https://github.com/SearidangPa/blackboard.nvim"
+}

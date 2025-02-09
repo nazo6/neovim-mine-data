@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-02-01T23:20:10Z",
+    "description": "A lightweight and easy-to-use Jest runner plugin for Neovim, enabling seamless test execution directly from the editor.",
+    "isArchived": false,
+    "lastCommit": "2025-02-03T01:20:51Z",
+    "nameWithOwner": "nicolasgandrade/jest-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "jest",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jest-runner.nvim",
+  "owner": "nicolasgandrade",
+  "url": "https://github.com/nicolasgandrade/jest-runner.nvim"
+}

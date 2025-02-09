@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-02-02T01:30:34Z",
+    "description": "Statistics for NeoVim usage",
+    "isArchived": false,
+    "lastCommit": "2025-02-05T23:41:18Z",
+    "nameWithOwner": "lnus/stalker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "stalker.nvim",
+  "owner": "lnus",
+  "url": "https://github.com/lnus/stalker.nvim"
+}

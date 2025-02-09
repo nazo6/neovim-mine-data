@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Odoo"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-06T19:46:32Z",
+    "description": "Neovim client for odoo-ls LSP",
+    "isArchived": false,
+    "lastCommit": "2025-02-07T07:51:24Z",
+    "nameWithOwner": "Whenrow/odoo-ls.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "odoo-ls.nvim",
+  "owner": "Whenrow",
+  "url": "https://github.com/Whenrow/odoo-ls.nvim"
+}

@@ -20,18 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 54,
     "createdAt": "2025-01-29T18:02:40Z",
-    "description": "a meta package manager for neovim",
+    "description": "a meta package manager for neovim that manages lsp, formatter, linter, and any package you can think of",
     "isArchived": false,
-    "lastCommit": "2025-01-31T10:42:29Z",
+    "lastCommit": "2025-02-09T08:06:46Z",
     "nameWithOwner": "ingenarel/metapack.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
+      "meta-package-manager",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "package-manager",
+      "neovim-package-manger"
     ]
   },
   "domain": "github.com",

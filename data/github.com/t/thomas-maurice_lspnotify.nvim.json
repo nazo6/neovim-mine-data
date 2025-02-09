@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Progress"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-04T08:12:52Z",
+    "description": "LSP notify plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-04T08:14:39Z",
+    "nameWithOwner": "thomas-maurice/lspnotify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lspnotify.nvim",
+  "owner": "thomas-maurice",
+  "url": "https://github.com/thomas-maurice/lspnotify.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Columnline"
+        }
+      ],
+      "file": "cursorline_columnline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-02-07T11:53:27Z",
+    "description": "A Neovim plugin to show the colour column when needed.",
+    "isArchived": false,
+    "lastCommit": "2025-02-08T07:12:14Z",
+    "nameWithOwner": "hankertrix/nerd_column.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "colorcolumn",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim",
+      "nvim-plugin",
+      "nvim-plugins",
+      "smartcolumn"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nerd_column.nvim",
+  "owner": "hankertrix",
+  "url": "https://github.com/hankertrix/nerd_column.nvim"
+}

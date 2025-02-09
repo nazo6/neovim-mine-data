@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tabline"
+        }
+      ],
+      "file": "tabline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-02-08T03:53:53Z",
+    "description": "Tabber is a neovim plugin for tabs",
+    "isArchived": false,
+    "lastCommit": "2025-02-09T07:44:35Z",
+    "nameWithOwner": "daodejing/tabber.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tabber.nvim",
+  "owner": "daodejing",
+  "url": "https://github.com/daodejing/tabber.nvim"
+}

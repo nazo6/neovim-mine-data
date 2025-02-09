@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Elixir"
+        },
+        {
+          "level": 4,
+          "name": "REPL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-04T23:15:08Z",
+    "description": "Interact with an IEx terminal inside neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-04T23:21:34Z",
+    "nameWithOwner": "victor23k/iex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "iex.nvim",
+  "owner": "victor23k",
+  "url": "https://github.com/victor23k/iex.nvim"
+}

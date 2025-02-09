@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-02-04T15:45:56Z",
+    "description": "a plugin to flat json object and display it.",
+    "isArchived": false,
+    "lastCommit": "2025-02-05T17:20:07Z",
+    "nameWithOwner": "virakkhun/flatjson.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "flatjson.nvim",
+  "owner": "virakkhun",
+  "url": "https://github.com/virakkhun/flatjson.nvim"
+}

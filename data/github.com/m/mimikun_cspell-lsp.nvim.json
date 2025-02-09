@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Spell"
+        },
+        {
+          "level": 4,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-06T13:08:44Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-06T13:08:31Z",
+    "nameWithOwner": "mimikun/cspell-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cspell-lsp.nvim",
+  "owner": "mimikun",
+  "url": "https://github.com/mimikun/cspell-lsp.nvim"
+}

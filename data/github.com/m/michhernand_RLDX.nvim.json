@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Contacts"
+        }
+      ],
+      "file": "office-tools.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2025-02-05T05:55:16Z",
+    "description": "Contact management and autocomplete system for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-02-08T00:24:54Z",
+    "nameWithOwner": "michhernand/RLDX.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin",
+      "orgmode-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "RLDX.nvim",
+  "owner": "michhernand",
+  "url": "https://github.com/michhernand/rolodex.nvim"
+}

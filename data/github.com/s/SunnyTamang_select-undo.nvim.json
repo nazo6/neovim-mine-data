@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Undo"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2024-07-13T12:47:07Z",
+    "description": "undo specific lines or partial selections without affecting the rest of the file",
+    "isArchived": false,
+    "lastCommit": "2025-02-08T09:27:22Z",
+    "nameWithOwner": "SunnyTamang/select-undo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 60,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "select-undo.nvim",
+  "owner": "SunnyTamang",
+  "url": "https://github.com/SunnyTamang/select-undo.nvim"
+}

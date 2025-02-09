@@ -52,17 +52,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2021-06-13T10:53:53Z",
     "description": "Region selection with hints on the AST nodes of a document powered by treesitter",
     "isArchived": false,
-    "lastCommit": "2024-10-03T14:40:07Z",
+    "lastCommit": "2025-02-09T08:40:09Z",
     "nameWithOwner": "mfussenegger/nvim-treehopper",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 440,
+    "star": 441,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Viewer"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2025-01-18T00:30:01Z",
+    "description": "a neovim plugin for viewing images",
+    "isArchived": false,
+    "lastCommit": "2025-02-09T03:55:32Z",
+    "nameWithOwner": "Skardyy/neo-img",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 31,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neo-img",
+  "owner": "Skardyy",
+  "url": "https://github.com/Skardyy/neo-img"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-02-06T09:08:38Z",
+    "description": "A simple Neovim plugin for managing and synchronizing notes.",
+    "isArchived": false,
+    "lastCommit": "2025-02-08T12:09:52Z",
+    "nameWithOwner": "aniaan/notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes.nvim",
+  "owner": "aniaan",
+  "url": "https://github.com/aniaan/notes.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Definition"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2025-02-05T15:52:18Z",
+    "description": "🚁 Automatically updated documentation and information about code symbols in a split window",
+    "isArchived": false,
+    "lastCommit": "2023-09-09T10:11:56Z",
+    "nameWithOwner": "byzf/hoversplit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hoversplit.nvim",
+  "owner": "byzf",
+  "url": "https://github.com/byzf/hoversplit.nvim"
+}

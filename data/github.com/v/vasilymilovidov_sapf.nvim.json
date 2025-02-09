@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "sapf"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-02-01T06:32:02Z",
+    "description": "nvim plugin for sapf",
+    "isArchived": false,
+    "lastCommit": "2025-02-01T11:58:54Z",
+    "nameWithOwner": "vasilymilovidov/sapf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sapf.nvim",
+  "owner": "vasilymilovidov",
+  "url": "https://github.com/vasilymilovidov/sapf.nvim"
+}

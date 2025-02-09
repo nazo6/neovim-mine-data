@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        },
+        {
+          "level": 3,
+          "name": "Comment Header"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-02-01T10:29:42Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-08T07:20:18Z",
+    "nameWithOwner": "mtsiakkas/headers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "headers.nvim",
+  "owner": "mtsiakkas",
+  "url": "https://github.com/mtsiakkas/headers.nvim"
+}

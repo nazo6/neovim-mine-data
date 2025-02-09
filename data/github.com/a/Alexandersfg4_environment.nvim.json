@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Environment Variable"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-05T06:30:19Z",
+    "description": "A Neovim plugin for managing environment variables with project-specific overrides and persistence.",
+    "isArchived": false,
+    "lastCommit": "2025-02-05T06:34:19Z",
+    "nameWithOwner": "Alexandersfg4/environment.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "environment.nvim",
+  "owner": "Alexandersfg4",
+  "url": "https://github.com/Alexandersfg4/environment.nvim"
+}

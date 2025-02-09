@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "GUI"
+        },
+        {
+          "level": 4,
+          "name": "Stata"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2024-01-29T01:28:57Z",
+    "description": "Neovim plugin that sends code in the current buffer to Stata GUI",
+    "isArchived": false,
+    "lastCommit": "2024-01-29T19:16:38Z",
+    "nameWithOwner": "jinvim/do-stata.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "do-stata.nvim",
+  "owner": "jinvim",
+  "url": "https://github.com/leerauljin/do-stata.nvim"
+}
