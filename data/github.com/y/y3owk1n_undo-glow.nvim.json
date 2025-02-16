@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Undo"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-02-14T14:43:06Z",
+    "description": "Make your undo and redo in neovim glows.",
+    "isArchived": false,
+    "lastCommit": "2025-02-14T15:34:50Z",
+    "nameWithOwner": "y3owk1n/undo-glow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "undo-glow.nvim",
+  "owner": "y3owk1n",
+  "url": "https://github.com/y3owk1n/undo-glow.nvim"
+}

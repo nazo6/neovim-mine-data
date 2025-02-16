@@ -20,19 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 35,
     "createdAt": "2025-01-18T00:30:01Z",
-    "description": "a neovim plugin for viewing images",
+    "description": "cross platform image viewer for neovim",
     "isArchived": false,
-    "lastCommit": "2025-02-09T03:55:32Z",
+    "lastCommit": "2025-02-09T17:57:59Z",
     "nameWithOwner": "Skardyy/neo-img",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 31,
+    "star": 55,
     "topics": [
-      "neovim-plugin"
+      "neovim-plugin",
+      "image-viewer",
+      "neovim"
     ]
   },
   "domain": "github.com",

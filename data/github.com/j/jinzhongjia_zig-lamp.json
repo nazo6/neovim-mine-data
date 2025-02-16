@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Zig"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 57,
+    "createdAt": "2025-02-06T05:05:07Z",
+    "description": "Improve the zig experience in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-16T08:07:19Z",
+    "nameWithOwner": "jinzhongjia/zig-lamp",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "zig",
+      "zig-library",
+      "zig-package",
+      "ziglang"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zig-lamp",
+  "owner": "jinzhongjia",
+  "url": "https://github.com/jinzhongjia/zig-lamp"
+}

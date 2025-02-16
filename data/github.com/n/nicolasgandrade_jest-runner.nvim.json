@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 10,
     "createdAt": "2025-02-01T23:20:10Z",
     "description": "A lightweight and easy-to-use Jest runner plugin for Neovim, enabling seamless test execution directly from the editor.",
     "isArchived": false,
-    "lastCommit": "2025-02-03T01:20:51Z",
+    "lastCommit": "2025-02-09T23:00:01Z",
     "nameWithOwner": "nicolasgandrade/jest-runner.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -34,7 +34,12 @@
     "topics": [
       "jest",
       "lua",
-      "neovim"
+      "neovim",
+      "lazy",
+      "lazyvim",
+      "lvim",
+      "vim",
+      "vim-plugin"
     ]
   },
   "domain": "github.com",

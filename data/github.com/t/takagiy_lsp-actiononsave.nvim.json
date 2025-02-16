@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Code action"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-02-12T05:26:01Z",
+    "description": "NeoVim Lua plugin that performs LSP code actions and code formatting when saving files",
+    "isArchived": false,
+    "lastCommit": "2025-02-15T14:50:27Z",
+    "nameWithOwner": "takagiy/lsp-actiononsave.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-actiononsave.nvim",
+  "owner": "takagiy",
+  "url": "https://github.com/takagiy/lsp-actiononsave.nvim"
+}

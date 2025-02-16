@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 9,
     "createdAt": "2025-02-03T15:46:10Z",
-    "description": null,
+    "description": "Adds lint results from cargo clippy to neovim's built-in diagnostics.",
     "isArchived": false,
-    "lastCommit": "2025-02-05T21:42:48Z",
+    "lastCommit": "2025-02-11T20:25:32Z",
     "nameWithOwner": "johnsaigle/clippy.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,11 @@
     },
     "star": 1,
     "topics": [
+      "cargo",
+      "clippy",
+      "neovim",
+      "rust",
+      "static-analysis"
     ]
   },
   "domain": "github.com",

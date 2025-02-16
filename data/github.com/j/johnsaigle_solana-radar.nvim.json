@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Solana"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-02-10T21:28:58Z",
+    "description": "A Neovim plugin that integrates the Radar solana scanner with built-in diagnostics.",
+    "isArchived": false,
+    "lastCommit": "2025-02-11T14:41:36Z",
+    "nameWithOwner": "johnsaigle/solana-radar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "solana-radar.nvim",
+  "owner": "johnsaigle",
+  "url": "https://github.com/johnsaigle/solana-radar.nvim"
+}

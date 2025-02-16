@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Blockchain"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-16T07:15:23Z",
+    "description": "Human-readable names to blockchain addresses",
+    "isArchived": false,
+    "lastCommit": "2025-02-16T07:13:34Z",
+    "nameWithOwner": "neanvo/buben.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "blockchain",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "open-source"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buben.nvim",
+  "owner": "neanvo",
+  "url": "https://github.com/neanvo/buben.nvim"
+}

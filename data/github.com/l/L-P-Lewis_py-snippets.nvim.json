@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-12T21:12:15Z",
+    "description": "Simple plugin for running python code snippets in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-12T21:09:59Z",
+    "nameWithOwner": "L-P-Lewis/py-snippets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "py-snippets.nvim",
+  "owner": "L-P-Lewis",
+  "url": "https://github.com/L-P-Lewis/py-snippets.nvim"
+}

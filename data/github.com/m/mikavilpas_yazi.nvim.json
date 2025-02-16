@@ -17,20 +17,34 @@
       ],
       "file": "filer.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "File Explorer"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 642,
+    "commitCountLastYear": 660,
     "createdAt": "2024-02-25T13:33:19Z",
     "description": "A Neovim Plugin for the yazi terminal file manager",
     "isArchived": false,
-    "lastCommit": "2025-02-07T19:45:29Z",
+    "lastCommit": "2025-02-15T19:59:56Z",
     "nameWithOwner": "mikavilpas/yazi.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 761,
+    "star": 777,
     "topics": [
       "neovim",
       "plugin",

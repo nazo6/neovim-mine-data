@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 26,
     "createdAt": "2025-01-28T20:57:58Z",
-    "description": null,
+    "description": "A non blocking http library for use inside Neovim",
     "isArchived": false,
-    "lastCommit": "2025-02-07T20:57:39Z",
+    "lastCommit": "2025-02-15T01:21:55Z",
     "nameWithOwner": "sfenzke/http-client.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 6,
     "topics": [
+      "http-client",
+      "library",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

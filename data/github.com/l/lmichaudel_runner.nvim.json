@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "CMake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2023-07-31T17:19:34Z",
+    "description": "A custom task runner for CMake",
+    "isArchived": false,
+    "lastCommit": "2023-08-01T13:57:19Z",
+    "nameWithOwner": "lmichaudel/runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "runner.nvim",
+  "owner": "lmichaudel",
+  "url": "https://github.com/Carbone13/runner.nvim"
+}

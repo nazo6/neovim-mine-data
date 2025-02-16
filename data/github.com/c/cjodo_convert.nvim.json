@@ -38,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 136,
+    "commitCountLastYear": 141,
     "createdAt": "2024-04-23T18:21:02Z",
     "description": "A plugin to do unit conversions for you.",
     "isArchived": false,
-    "lastCommit": "2025-02-09T04:22:52Z",
+    "lastCommit": "2025-02-10T06:30:09Z",
     "nameWithOwner": "cjodo/convert.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -53,7 +53,8 @@
       "css",
       "lua",
       "nvim",
-      "nvim-plugin"
+      "nvim-plugin",
+      "webdev"
     ]
   },
   "domain": "github.com",

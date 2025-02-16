@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Zeppelin"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-02-14T07:57:22Z",
+    "description": "A Neovim plugin that allows users to interact with Apache Zeppelin notebooks directly from Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-02-14T08:00:38Z",
+    "nameWithOwner": "mihneamanolache/zeppelin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zeppelin.nvim",
+  "owner": "mihneamanolache",
+  "url": "https://github.com/mihneamanolache/zeppelin.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-13T21:53:11Z",
+    "description": "An extension for nvim-dap that seamlessly integrates the Go debugger (Delve) with Bazel-built projects",
+    "isArchived": false,
+    "lastCommit": "2025-02-14T22:44:22Z",
+    "nameWithOwner": "VanyaDNDZ/nvim-dap-bazel-go",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-bazel-go",
+  "owner": "VanyaDNDZ",
+  "url": "https://github.com/VanyaDNDZ/nvim-dap-bazel-go"
+}

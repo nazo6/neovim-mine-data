@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "open"
+        },
+        {
+          "level": 5,
+          "name": "recent file"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 58,
+    "createdAt": "2025-02-10T16:45:32Z",
+    "description": "A lightweight Neovim plugin for quickly navigating buffers",
+    "isArchived": false,
+    "lastCommit": "2025-02-12T20:46:29Z",
+    "nameWithOwner": "lukeb06/history.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "history.nvim",
+  "owner": "lukeb06",
+  "url": "https://github.com/lukeb06/history.nvim"
+}

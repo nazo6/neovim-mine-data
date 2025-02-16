@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Nix"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-02-11T23:14:43Z",
+    "description": "Neovim automated hash update plugin for Nix",
+    "isArchived": false,
+    "lastCommit": "2025-02-14T12:59:36Z",
+    "nameWithOwner": "pete3n/nix-prefetch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nix-prefetch.nvim",
+  "owner": "pete3n",
+  "url": "https://github.com/pete3n/nix-prefetch.nvim"
+}

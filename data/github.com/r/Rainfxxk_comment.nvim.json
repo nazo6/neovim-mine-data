@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-02-13T18:42:05Z",
+    "description": "conveniently add and delete comment in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-16T08:44:24Z",
+    "nameWithOwner": "Rainfxxk/comment.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment.nvim",
+  "owner": "Rainfxxk",
+  "url": "https://github.com/Rainfxxk/comment.nvim"
+}

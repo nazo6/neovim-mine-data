@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "htop"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-02-13T06:13:25Z",
+    "description": "quick htop lookup from nvim",
+    "isArchived": false,
+    "lastCommit": "2025-02-13T18:09:20Z",
+    "nameWithOwner": "idossha/htop.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "htop.nvim",
+  "owner": "idossha",
+  "url": "https://github.com/idossha/htop.nvim"
+}

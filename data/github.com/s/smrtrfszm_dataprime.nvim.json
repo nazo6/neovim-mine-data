@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Coralogix dataprime"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-02-14T01:45:15Z",
+    "description": "Coralogix's dataprime language support for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-16T03:03:35Z",
+    "nameWithOwner": "smrtrfszm/dataprime.nvim",
+    "primaryLanguage": {
+      "color": "#1e4aec",
+      "name": "Scheme"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dataprime.nvim",
+  "owner": "smrtrfszm",
+  "url": "https://github.com/smrtrfszm/dataprime.nvim"
+}

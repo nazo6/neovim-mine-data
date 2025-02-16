@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "UI"
-        },
-        {
-          "level": 3,
-          "name": "vim.ui.select/vim.ui.input"
-        }
       ],
-      "file": "neovim-lua-library.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,17 +22,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 31,
     "createdAt": "2021-12-03T01:43:51Z",
     "description": "Neovim plugin to improve the default vim.ui interfaces",
-    "isArchived": false,
-    "lastCommit": "2025-01-25T06:54:12Z",
+    "isArchived": true,
+    "lastCommit": "2025-02-12T17:34:01Z",
     "nameWithOwner": "stevearc/dressing.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1971,
+    "star": 1973,
     "topics": [
       "neovim",
       "nvim",

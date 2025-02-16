@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "pydoc"
+        },
+        {
+          "level": 3,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-14T09:43:40Z",
+    "description": "work with notebooks within nvim",
+    "isArchived": false,
+    "lastCommit": "2025-02-14T09:48:59Z",
+    "nameWithOwner": "idossha/jupyter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jupyter.nvim",
+  "owner": "idossha",
+  "url": "https://github.com/idossha/jupyter.nvim"
+}

@@ -8,23 +8,23 @@
         },
         {
           "level": 2,
-          "name": "Syntax"
+          "name": "Convert"
         },
         {
           "level": 3,
-          "name": "Current word highlight"
+          "name": "Convert Word"
         }
       ],
-      "file": "syntax_highlight.md",
+      "file": "convert.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 11,
     "createdAt": "2025-02-07T12:57:46Z",
     "description": "A Neovim plugin to quickly switch the word under the cursor to its opposite word.",
     "isArchived": false,
-    "lastCommit": "2025-02-08T23:00:14Z",
+    "lastCommit": "2025-02-11T09:46:14Z",
     "nameWithOwner": "tigion/nvim-opposites",
     "primaryLanguage": {
       "color": "#000080",

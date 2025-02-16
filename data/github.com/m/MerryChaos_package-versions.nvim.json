@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Task Runner"
+        },
+        {
+          "level": 4,
+          "name": "npm"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-02-08T12:47:39Z",
+    "description": "Simple Neovim plugin to show latest versions in package.json.",
+    "isArchived": false,
+    "lastCommit": "2025-02-08T16:22:49Z",
+    "nameWithOwner": "MerryChaos/package-versions.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "npmjs",
+      "nvim",
+      "nvim-plugin",
+      "package-json"
+    ]
+  },
+  "domain": "github.com",
+  "name": "package-versions.nvim",
+  "owner": "MerryChaos",
+  "url": "https://github.com/MerryChaos/package-versions.nvim"
+}

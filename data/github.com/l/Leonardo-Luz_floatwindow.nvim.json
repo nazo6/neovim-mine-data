@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Window"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-12-23T22:33:09Z",
+    "description": "A Neovim plugin for simplified floating window creation.",
+    "isArchived": false,
+    "lastCommit": "2025-01-10T21:32:01Z",
+    "nameWithOwner": "Leonardo-Luz/floatwindow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floatwindow.nvim",
+  "owner": "Leonardo-Luz",
+  "url": "https://github.com/leonardo-luz/floatwindow.nvim"
+}

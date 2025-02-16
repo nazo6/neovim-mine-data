@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Linux kernel development"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-02-10T22:15:49Z",
+    "description": "Create https://elixir.bootlin.com/linux links from Neovim ",
+    "isArchived": false,
+    "lastCommit": "2025-02-13T17:46:30Z",
+    "nameWithOwner": "ldelossa/kbrowse.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kbrowse.nvim",
+  "owner": "ldelossa",
+  "url": "https://github.com/ldelossa/kbrowse.nvim"
+}

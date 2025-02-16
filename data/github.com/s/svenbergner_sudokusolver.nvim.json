@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Sudoku"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-02-10T16:01:57Z",
+    "description": "A sudoku solver plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-14T17:00:25Z",
+    "nameWithOwner": "svenbergner/sudokusolver.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sudokusolver.nvim",
+  "owner": "svenbergner",
+  "url": "https://github.com/svenbergner/sudokusolver.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-02-08T21:14:21Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-08T22:54:56Z",
+    "nameWithOwner": "yimuchen/tmux-repl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-repl.nvim",
+  "owner": "yimuchen",
+  "url": "https://github.com/yimuchen/tmux-repl.nvim"
+}

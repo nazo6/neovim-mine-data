@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-02-09T18:56:15Z",
+    "description": "Quickdraw access to your custom commands",
+    "isArchived": false,
+    "lastCommit": "2025-02-09T19:00:58Z",
+    "nameWithOwner": "edlandm/holster.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "holster.nvim",
+  "owner": "edlandm",
+  "url": "https://github.com/edlandm/holster.nvim"
+}

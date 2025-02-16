@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-10T23:23:39Z",
+    "description": "A simple find-or-create Telescope extension",
+    "isArchived": false,
+    "lastCommit": "2025-02-11T13:52:43Z",
+    "nameWithOwner": "micku/telescope-pkm-find-or-create.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-pkm-find-or-create.nvim",
+  "owner": "micku",
+  "url": "https://github.com/micku/telescope-pkm-find-or-create.nvim"
+}

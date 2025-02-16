@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "DevTools"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-02-13T11:28:36Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-14T07:46:36Z",
+    "nameWithOwner": "lucamot/chrome-dev-console.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chrome-dev-console.nvim",
+  "owner": "lucamot",
+  "url": "https://github.com/lucamot/chrome-dev-console.nvim"
+}

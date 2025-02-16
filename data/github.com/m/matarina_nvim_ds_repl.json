@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-02-13T09:44:28Z",
+    "description": "A highly customized REPL plugin that is only suitable for my own use.",
+    "isArchived": false,
+    "lastCommit": "2025-02-14T10:08:18Z",
+    "nameWithOwner": "matarina/nvim_ds_repl",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim_ds_repl",
+  "owner": "matarina",
+  "url": "https://github.com/matarina/nvim_ds_repl"
+}

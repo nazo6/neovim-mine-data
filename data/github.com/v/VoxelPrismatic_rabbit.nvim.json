@@ -20,22 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 54,
+    "commitCountLastYear": 60,
     "createdAt": "2024-05-15T22:54:23Z",
-    "description": "Quickly jump between buffers",
+    "description": "Jump between buffers faster than ever before",
     "isArchived": false,
-    "lastCommit": "2025-02-07T15:52:41Z",
+    "lastCommit": "2025-02-13T14:51:53Z",
     "nameWithOwner": "VoxelPrismatic/rabbit.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 57,
+    "star": 62,
     "topics": [
       "motion",
       "neovim-plugin",
       "utility",
-      "workflow"
+      "workflow",
+      "neovim",
+      "split-and-window"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "url open"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-14T19:35:49Z",
+    "description": "A Neovim plugin that allows you to open URLs based on regex patterns",
+    "isArchived": false,
+    "lastCommit": "2025-02-15T18:55:13Z",
+    "nameWithOwner": "b0lle/open-url-by-regex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-url-by-regex.nvim",
+  "owner": "b0lle",
+  "url": "https://github.com/b0lle/open-url-by-regex.nvim"
+}

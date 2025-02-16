@@ -34,18 +34,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 175,
+    "commitCountLastYear": 191,
     "createdAt": "2024-07-20T19:37:55Z",
     "description": "💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Codestral, and more.",
     "isArchived": false,
-    "lastCommit": "2025-02-06T04:47:14Z",
+    "lastCommit": "2025-02-16T05:35:43Z",
     "nameWithOwner": "milanglacier/minuet-ai.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 280,
+    "star": 316,
     "topics": [
+      "ai",
+      "code-completion",
+      "llm",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
