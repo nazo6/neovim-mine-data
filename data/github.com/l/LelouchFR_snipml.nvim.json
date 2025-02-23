@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Emmet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-02-19T23:06:07Z",
+    "description": "Tag language shortcuts for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-20T11:05:12Z",
+    "nameWithOwner": "LelouchFR/snipml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snipml.nvim",
+  "owner": "LelouchFR",
+  "url": "https://github.com/LelouchFR/snipml.nvim"
+}

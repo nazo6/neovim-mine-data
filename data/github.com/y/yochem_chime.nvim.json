@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-02-19T11:06:30Z",
+    "description": ":vertical_traffic_light: Diagnostics in the echo / message area",
+    "isArchived": false,
+    "lastCommit": "2025-02-21T13:07:04Z",
+    "nameWithOwner": "yochem/chime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "diagnostics",
+      "lua",
+      "neovim",
+      "nvim",
+      "package",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chime.nvim",
+  "owner": "yochem",
+  "url": "https://github.com/yochem/chime.nvim"
+}

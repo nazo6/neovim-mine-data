@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Animation"
+        },
+        {
+          "level": 3,
+          "name": "Type sound"
+        }
+      ],
+      "file": "animation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 75,
+    "createdAt": "2025-01-15T18:50:25Z",
+    "description": "A plugin that adds 8-bit sound effects to Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-02-16T21:36:57Z",
+    "nameWithOwner": "jackplus-xyz/player-one.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 69,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "player-one.nvim",
+  "owner": "jackplus-xyz",
+  "url": "https://github.com/jackplus-xyz/player-one.nvim"
+}

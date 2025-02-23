@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "packages"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2025-02-15T21:17:23Z",
+    "description": "Fuzzy search Go std lib packages and project packages",
+    "isArchived": false,
+    "lastCommit": "2025-02-23T09:20:28Z",
+    "nameWithOwner": "fredrikaverpil/godoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 46,
+    "topics": [
+      "go",
+      "golang",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "godoc.nvim",
+  "owner": "fredrikaverpil",
+  "url": "https://github.com/fredrikaverpil/godoc.nvim"
+}

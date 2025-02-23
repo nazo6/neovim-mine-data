@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-02-21T16:55:48Z",
+    "description": "a simple persistent notes plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-21T21:55:13Z",
+    "nameWithOwner": "jakebark/notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes.nvim",
+  "owner": "jakebark",
+  "url": "https://github.com/jakebark/notes.nvim"
+}

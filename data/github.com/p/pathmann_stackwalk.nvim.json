@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Core dump"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-17T14:27:31Z",
+    "description": "neovim plugin to view the stack and other information of crashdumps",
+    "isArchived": false,
+    "lastCommit": "2025-02-17T15:33:19Z",
+    "nameWithOwner": "pathmann/stackwalk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "breakpad",
+      "crashdump",
+      "debugging",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "stackwalk.nvim",
+  "owner": "pathmann",
+  "url": "https://github.com/pathmann/stackwalk.nvim"
+}

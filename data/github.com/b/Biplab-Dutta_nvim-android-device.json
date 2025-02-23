@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Android"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-02-17T15:58:37Z",
+    "description": "A minimal nvim plugin that displays connected android device's model name in lualine. Developed for flutter devs.",
+    "isArchived": false,
+    "lastCommit": "2025-02-17T17:25:10Z",
+    "nameWithOwner": "Biplab-Dutta/nvim-android-device",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-android-device",
+  "owner": "Biplab-Dutta",
+  "url": "https://github.com/Biplab-Dutta/nvim-android-device"
+}

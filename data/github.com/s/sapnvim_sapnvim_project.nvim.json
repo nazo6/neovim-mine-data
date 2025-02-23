@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-02-19T04:03:39Z",
+    "description": "This plugin adds a project management function to nvim, which allows you to jump between saved projects.",
+    "isArchived": false,
+    "lastCommit": "2025-02-23T09:45:29Z",
+    "nameWithOwner": "sapnvim/sapnvim_project.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sapnvim_project.nvim",
+  "owner": "sapnvim",
+  "url": "https://github.com/sapnvim/sapnvim_project.nvim"
+}

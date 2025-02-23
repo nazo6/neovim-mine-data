@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-02-17T14:40:05Z",
+    "description": "A batteries 🔋 included dressing.nvim 👗 and nvim-notify ⚡ replacement ♻️.",
+    "isArchived": false,
+    "lastCommit": "2025-02-18T17:31:29Z",
+    "nameWithOwner": "mistweaverco/uzuri.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "notification",
+      "notifications"
+    ]
+  },
+  "domain": "github.com",
+  "name": "uzuri.nvim",
+  "owner": "mistweaverco",
+  "url": "https://github.com/mistweaverco/uzuri.nvim"
+}

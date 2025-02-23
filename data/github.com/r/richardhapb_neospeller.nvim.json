@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Spell"
+        },
+        {
+          "level": 4,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-02-18T04:34:24Z",
+    "description": "Neovim plugin for checking spelling in code comments with AI",
+    "isArchived": false,
+    "lastCommit": "2025-02-18T04:42:43Z",
+    "nameWithOwner": "richardhapb/neospeller.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neospeller.nvim",
+  "owner": "richardhapb",
+  "url": "https://github.com/richardhapb/neospeller.nvim"
+}

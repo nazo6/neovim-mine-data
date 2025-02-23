@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Screen server"
+        }
+      ],
+      "file": "animation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-18T19:15:15Z",
+    "description": "Matrix Effect is a Neovim plugin that simulates the iconic falling green characters from The Matrix. It leverages Neovim’s floating windows, timers, and highlight APIs to create a dynamic, full-screen animation.",
+    "isArchived": false,
+    "lastCommit": "2025-02-20T16:49:28Z",
+    "nameWithOwner": "chanand/matrixeffect.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "matrixeffect.nvim",
+  "owner": "chanand",
+  "url": "https://github.com/chanand/matrixeffect.nvim"
+}

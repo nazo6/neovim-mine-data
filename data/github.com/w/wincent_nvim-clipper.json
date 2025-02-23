@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "System Clipboard"
+        },
+        {
+          "level": 4,
+          "name": "Clipper"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-15T14:00:39Z",
+    "description": "Clipper integration for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-17T10:03:31Z",
+    "nameWithOwner": "wincent/nvim-clipper",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-clipper",
+  "owner": "wincent",
+  "url": "https://github.com/wincent/nvim-clipper"
+}

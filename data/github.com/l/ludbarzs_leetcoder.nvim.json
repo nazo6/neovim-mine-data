@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 2,
+          "name": "LeetCode"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-19T10:30:41Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-19T12:44:07Z",
+    "nameWithOwner": "ludbarzs/leetcoder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "leetcoder.nvim",
+  "owner": "ludbarzs",
+  "url": "https://github.com/ludbarzs/leetcoder.nvim"
+}

@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 398,
+    "commitCountLastYear": 409,
     "createdAt": "2024-06-24T19:56:21Z",
     "description": "A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.",
     "isArchived": false,
-    "lastCommit": "2025-02-15T14:44:51Z",
+    "lastCommit": "2025-02-21T17:16:10Z",
     "nameWithOwner": "mistweaverco/kulala.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 848,
+    "star": 879,
     "topics": [
       "graphql-client",
       "neovim-plugin",
@@ -58,7 +58,8 @@
       "lua",
       "neovim",
       "nvim",
-      "nvim-plugin"
+      "nvim-plugin",
+      "grpc"
     ]
   },
   "domain": "github.com",

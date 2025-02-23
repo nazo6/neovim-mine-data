@@ -8,35 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Terminal"
+          "name": "Directory"
         },
         {
           "level": 3,
-          "name": "Command"
+          "name": "zoxide"
         }
       ],
-      "file": "terminal.md",
+      "file": "directory.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2023-05-19T15:03:27Z",
-    "description": "Call nvim commands and lua functions from your terminal",
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-16T13:33:33Z",
+    "description": "neovim wrapper over zoxide",
     "isArchived": false,
-    "lastCommit": "2024-01-15T23:16:29Z",
-    "nameWithOwner": "FredeEB/alias.nvim",
+    "lastCommit": "2025-02-18T11:41:25Z",
+    "nameWithOwner": "alfaix/nvim-zoxide",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8,
+    "star": 2,
     "topics": [
-      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "alias.nvim",
-  "owner": "FredeEB",
-  "url": "https://github.com/FredeEB/alias.nvim"
+  "name": "nvim-zoxide",
+  "owner": "alfaix",
+  "url": "https://github.com/alfaix/nvim-zoxide"
 }

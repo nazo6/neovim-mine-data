@@ -8,34 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Calculation"
+          "name": "LSP"
         },
         {
           "level": 3,
-          "name": "Time"
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
         }
       ],
-      "file": "calculation.md",
+      "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
-    "createdAt": "2025-02-06T07:52:18Z",
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-15T18:45:45Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-02-13T09:37:35Z",
-    "nameWithOwner": "Ask-786/time-calculator.nvim",
+    "lastCommit": "2025-02-15T18:46:06Z",
+    "nameWithOwner": "nikita-voronoy/native-diag.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "time-calculator.nvim",
-  "owner": "Ask-786",
-  "url": "https://github.com/Ask-786/time-calculator.nvim"
+  "name": "native-diag.nvim",
+  "owner": "nikita-voronoy",
+  "url": "https://github.com/nikita-voronoy/native-diag.nvim"
 }

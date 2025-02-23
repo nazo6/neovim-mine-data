@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-02-16T21:29:02Z",
+    "description": "A SQL transpiler for Neovim built on sqlglot.",
+    "isArchived": false,
+    "lastCommit": "2025-02-18T18:01:53Z",
+    "nameWithOwner": "mportdata/squealer.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "squealer.nvim",
+  "owner": "mportdata",
+  "url": "https://github.com/mportdata/squealer.nvim"
+}

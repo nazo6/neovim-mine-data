@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git conflict"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-02-16T20:41:30Z",
+    "description": "Resolve conflicts and highlighting them in style.",
+    "isArchived": false,
+    "lastCommit": "2025-02-21T11:30:33Z",
+    "nameWithOwner": "isaksamsten/conflicting.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "conflicting.nvim",
+  "owner": "isaksamsten",
+  "url": "https://github.com/isaksamsten/conflicting.nvim"
+}

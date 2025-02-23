@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "SARIF"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-02-21T14:10:38Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-23T05:00:17Z",
+    "nameWithOwner": "nifey/sarif.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sarif.nvim",
+  "owner": "nifey",
+  "url": "https://github.com/nifey/sarif.nvim"
+}

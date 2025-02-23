@@ -4,24 +4,24 @@
       "data": [
         {
           "level": 1,
-          "name": "Table of Contents"
+          "name": "Note Taking"
         },
         {
           "level": 2,
-          "name": "Log"
+          "name": "ToDo"
         }
       ],
-      "file": "neovim-lua-library.md",
+      "file": "note-taking.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2025-02-13T11:57:29Z",
+    "commitCountLastYear": 12,
+    "createdAt": "2025-01-02T07:50:12Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-02-13T13:08:57Z",
-    "nameWithOwner": "vijaysenapathi/nvim-debug-tools",
+    "lastCommit": "2025-01-02T07:58:11Z",
+    "nameWithOwner": "NilsEckerle/simple-todo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "nvim-debug-tools",
-  "owner": "vijaysenapathi",
-  "url": "https://github.com/vijaysenapathi/nvim-debug-tools"
+  "name": "simple-todo.nvim",
+  "owner": "NilsEckerle",
+  "url": "https://github.com/N1lsE/simple-todo.nvim"
 }

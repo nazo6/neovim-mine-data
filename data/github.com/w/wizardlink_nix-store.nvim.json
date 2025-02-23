@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Nix"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-18T07:19:00Z",
+    "description": "neovim plugin that adds interfaces to get nix store paths.",
+    "isArchived": false,
+    "lastCommit": "2025-02-19T01:05:38Z",
+    "nameWithOwner": "wizardlink/nix-store.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nix",
+      "nixos",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nix-store.nvim",
+  "owner": "wizardlink",
+  "url": "https://github.com/wizardlink/nix-store.nvim"
+}

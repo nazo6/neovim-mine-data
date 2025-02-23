@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2024-09-23T16:29:17Z",
+    "description": "Expand your neovim sense with small UI components",
+    "isArchived": false,
+    "lastCommit": "2025-02-20T10:41:00Z",
+    "nameWithOwner": "boltlessengineer/sense.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sense.nvim",
+  "owner": "boltlessengineer",
+  "url": "https://github.com/boltlessengineer/sense.nvim"
+}

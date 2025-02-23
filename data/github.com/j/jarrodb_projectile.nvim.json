@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-15T16:10:36Z",
+    "description": "nvim projectile (like emacs)",
+    "isArchived": false,
+    "lastCommit": "2025-02-16T01:04:13Z",
+    "nameWithOwner": "jarrodb/projectile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "projectile.nvim",
+  "owner": "jarrodb",
+  "url": "https://github.com/jarrodb/projectile.nvim"
+}

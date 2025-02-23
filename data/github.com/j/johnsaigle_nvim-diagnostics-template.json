@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-16T15:01:30Z",
+    "description": "Starting point for taking any tool that outputs JSON and converting it into Neovim diagnostic messages.",
+    "isArchived": false,
+    "lastCommit": "2025-02-18T21:21:48Z",
+    "nameWithOwner": "johnsaigle/nvim-diagnostics-template",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "diagnos",
+      "neovim",
+      "neovim-plugin",
+      "static-analysis"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-diagnostics-template",
+  "owner": "johnsaigle",
+  "url": "https://github.com/johnsaigle/nvim-diagnostics-template"
+}

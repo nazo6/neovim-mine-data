@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-21T12:43:38Z",
+    "description": "Neovim plugin that provides floating terminals and a picker",
+    "isArchived": false,
+    "lastCommit": "2025-02-22T17:06:24Z",
+    "nameWithOwner": "dawsers/floaterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floaterm.nvim",
+  "owner": "dawsers",
+  "url": "https://github.com/dawsers/floaterm.nvim"
+}

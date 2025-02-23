@@ -4,24 +4,24 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Study"
+          "name": "Log"
         }
       ],
-      "file": "toy.md",
+      "file": "neovim-lua-library.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 3,
-    "createdAt": "2025-01-17T15:30:25Z",
-    "description": "Translate text, Check pronunciation to learn language in Neovim.",
+    "createdAt": "2025-02-13T11:57:29Z",
+    "description": null,
     "isArchived": false,
-    "lastCommit": "2025-01-17T15:59:00Z",
-    "nameWithOwner": "GutMutCode/learn-lang.nvim",
+    "lastCommit": "2025-02-13T13:08:57Z",
+    "nameWithOwner": "g3eky/debug-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "learn-lang.nvim",
-  "owner": "GutMutCode",
-  "url": "https://github.com/GutMutCode/learn-lang.nvim"
+  "name": "debug-tools.nvim",
+  "owner": "g3eky",
+  "url": "https://github.com/vijaysenapathi/nvim-debug-tools"
 }

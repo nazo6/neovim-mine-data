@@ -34,20 +34,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 188,
+    "commitCountLastYear": 235,
     "createdAt": "2025-01-11T20:14:20Z",
-    "description": "A code repository indexing tool to supercharge your LLM completion experience.",
+    "description": "A code repository indexing tool to supercharge your LLM experience.",
     "isArchived": false,
-    "lastCommit": "2025-02-11T15:49:10Z",
+    "lastCommit": "2025-02-23T09:43:56Z",
     "nameWithOwner": "Davidyz/VectorCode",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 86,
+    "star": 96,
     "topics": [
       "neovim-plugin",
-      "retrieval-augmented"
+      "retrieval-augmented",
+      "embeddings",
+      "rag"
     ]
   },
   "domain": "github.com",

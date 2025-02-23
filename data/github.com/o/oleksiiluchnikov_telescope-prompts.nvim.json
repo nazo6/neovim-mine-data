@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Tabl]letieu/graphql.nvim of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-18T16:54:52Z",
+    "description": "A Telescope extension for managing and using AI prompts in Neovim. Browse your collection of prompt files with fuzzy-finding capabilities and execute them with your favorite AI commands or plugins.",
+    "isArchived": false,
+    "lastCommit": "2025-02-18T16:57:01Z",
+    "nameWithOwner": "oleksiiluchnikov/telescope-prompts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ai",
+      "neovim-plugin",
+      "nvim",
+      "prompt-engineering",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-prompts.nvim",
+  "owner": "oleksiiluchnikov",
+  "url": "https://github.com/oleksiiluchnikov/telescope-prompts.nvim"
+}

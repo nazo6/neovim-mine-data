@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-02-19T04:28:25Z",
+    "description": "Super simple floating \"ui.input\" for NeoVim.",
+    "isArchived": false,
+    "lastCommit": "2025-02-19T06:56:21Z",
+    "nameWithOwner": "erikbloodshed/floating-input.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floating-input.nvim",
+  "owner": "erikbloodshed",
+  "url": "https://github.com/erikbloodshed/floating-input.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Root Detector"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-02-19T15:50:36Z",
+    "description": "cd project root automatically",
+    "isArchived": false,
+    "lastCommit": "2025-02-22T16:06:52Z",
+    "nameWithOwner": "wsdjeg/rooter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rooter.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/rooter.nvim"
+}
