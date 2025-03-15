@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-27T03:26:58Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-27T09:06:30Z",
+    "nameWithOwner": "FastTrackAudio/nvim-scaffolder",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-scaffolder",
+  "owner": "FastTrackAudio",
+  "url": "https://github.com/FastTrackAudio/nvim-scaffolder"
+}

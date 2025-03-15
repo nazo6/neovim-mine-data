@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Palette"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-03-01T08:17:20Z",
+    "description": "A neovim extanstion for applaying commands that you don't want shortcuts for. ",
+    "isArchived": false,
+    "lastCommit": "2025-03-04T20:46:43Z",
+    "nameWithOwner": "AxelGard/cmdwin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmdwin.nvim",
+  "owner": "AxelGard",
+  "url": "https://github.com/AxelGard/cmdwin.nvim"
+}

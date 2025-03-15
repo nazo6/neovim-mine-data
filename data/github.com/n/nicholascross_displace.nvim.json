@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Switcher"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-02-22T02:48:00Z",
+    "description": "Neovim window navigator - jump to a numbered window",
+    "isArchived": false,
+    "lastCommit": "2025-03-01T07:01:30Z",
+    "nameWithOwner": "nicholascross/displace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "displace.nvim",
+  "owner": "nicholascross",
+  "url": "https://github.com/nicholascross/displace.nvim"
+}

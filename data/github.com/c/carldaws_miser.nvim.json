@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "mise"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-02-22T01:04:44Z",
+    "description": "Neovim plugin that manages development tools using Mise",
+    "isArchived": false,
+    "lastCommit": "2025-02-25T23:00:25Z",
+    "nameWithOwner": "carldaws/miser.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "miser.nvim",
+  "owner": "carldaws",
+  "url": "https://github.com/carldaws/miser.nvim"
+}

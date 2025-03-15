@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Pull Request"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-03-05T18:36:55Z",
+    "description": "Create a templated pull request description your colleagues will love",
+    "isArchived": false,
+    "lastCommit": "2025-03-10T07:16:24Z",
+    "nameWithOwner": "mjveilleux/pr-description.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pr-description.nvim",
+  "owner": "mjveilleux",
+  "url": "https://github.com/mjveilleux/pr-description.nvim"
+}

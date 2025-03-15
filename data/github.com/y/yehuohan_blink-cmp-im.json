@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-03-08T09:27:47Z",
+    "description": "Input Method source for blink.cmp",
+    "isArchived": false,
+    "lastCommit": "2025-03-08T09:55:56Z",
+    "nameWithOwner": "yehuohan/blink-cmp-im",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "blink-cmp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-im",
+  "owner": "yehuohan",
+  "url": "https://github.com/yehuohan/blink-cmp-im"
+}

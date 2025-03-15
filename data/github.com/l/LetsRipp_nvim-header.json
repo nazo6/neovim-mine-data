@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        },
+        {
+          "level": 3,
+          "name": "Comment Header"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2025-03-12T12:57:06Z",
+    "description": "generates a header for your file",
+    "isArchived": false,
+    "lastCommit": "2025-03-14T09:55:37Z",
+    "nameWithOwner": "LetsRipp/nvim-header",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-header",
+  "owner": "LetsRipp",
+  "url": "https://github.com/LetsRipp/nvim-header"
+}

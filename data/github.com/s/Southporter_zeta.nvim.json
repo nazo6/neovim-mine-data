@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Edit Prediction"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-02-27T16:05:54Z",
+    "description": "Zeta edit predictions for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-27T16:18:30Z",
+    "nameWithOwner": "Southporter/zeta.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zeta.nvim",
+  "owner": "Southporter",
+  "url": "https://github.com/Southporter/zeta.nvim"
+}

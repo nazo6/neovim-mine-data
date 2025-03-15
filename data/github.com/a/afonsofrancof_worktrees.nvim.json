@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-03-10T21:07:26Z",
+    "description": "worktrees.nvim makes it easy to create, delete, and switch between Git worktrees directly from Neovim. ",
+    "isArchived": false,
+    "lastCommit": "2025-03-11T16:49:29Z",
+    "nameWithOwner": "afonsofrancof/worktrees.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "worktrees.nvim",
+  "owner": "afonsofrancof",
+  "url": "https://github.com/afonsofrancof/worktrees.nvim"
+}

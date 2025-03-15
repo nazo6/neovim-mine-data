@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Security"
+        },
+        {
+          "level": 4,
+          "name": "Secrets"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-02-22T22:51:46Z",
+    "description": "Set Neovim options to edit pass(1) files securely",
+    "isArchived": false,
+    "lastCommit": "2025-03-05T18:22:10Z",
+    "nameWithOwner": "BB223/redact_pass.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "redact_pass.nvim",
+  "owner": "BB223",
+  "url": "https://github.com/BB223/redact_pass.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-03-02T04:13:52Z",
+    "description": "simple floating terminal plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-05T15:05:08Z",
+    "nameWithOwner": "wsdjeg/terminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "terminal.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/terminal.nvim"
+}

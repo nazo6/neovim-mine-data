@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Tabl]letieu/graphql.nvim of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-03-03T22:32:49Z",
+    "description": "Copilot like code completion for a local Ollama server or GrokAPI",
+    "isArchived": false,
+    "lastCommit": "2025-03-14T05:25:33Z",
+    "nameWithOwner": "haydenkz/nvim-wingman",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "grok",
+      "ollama"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-wingman",
+  "owner": "haydenkz",
+  "url": "https://github.com/haydenzeller/nvim-wingman"
+}

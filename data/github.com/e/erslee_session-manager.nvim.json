@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-03-05T20:46:52Z",
+    "description": "Nvim simple session manager plugin",
+    "isArchived": false,
+    "lastCommit": "2025-03-12T19:34:55Z",
+    "nameWithOwner": "erslee/session-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "session-manager.nvim",
+  "owner": "erslee",
+  "url": "https://github.com/erslee/session-manager.nvim"
+}

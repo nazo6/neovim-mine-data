@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 37,
     "createdAt": "2025-02-19T04:03:39Z",
     "description": "This plugin adds a project management function to nvim, which allows you to jump between saved projects.",
     "isArchived": false,
-    "lastCommit": "2025-02-23T09:45:29Z",
+    "lastCommit": "2025-03-04T10:31:32Z",
     "nameWithOwner": "sapnvim/sapnvim_project.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -33,7 +33,10 @@
     "star": 2,
     "topics": [
       "lua",
-      "nvim"
+      "nvim",
+      "neovim",
+      "neovim-config",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Unity"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-10T15:15:56Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-11T16:10:58Z",
+    "nameWithOwner": "Erifirin/unity-dap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "unity-dap.nvim",
+  "owner": "Erifirin",
+  "url": "https://github.com/Erifirin/unity-dap.nvim"
+}

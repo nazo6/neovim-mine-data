@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-02-21T17:13:31Z",
+    "description": "Todolist Plugin",
+    "isArchived": false,
+    "lastCommit": "2025-03-08T17:52:07Z",
+    "nameWithOwner": "yamazhen/todolist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todolist.nvim",
+  "owner": "yamazhen",
+  "url": "https://github.com/yamazhen/zhenlist.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pre-configuration"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-03-12T13:43:03Z",
+    "description": "A Neovim plugin that automatically sets up language servers based on available executables",
+    "isArchived": false,
+    "lastCommit": "2025-03-13T19:41:01Z",
+    "nameWithOwner": "Massolari/lsp-auto-setup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "vim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-auto-setup.nvim",
+  "owner": "Massolari",
+  "url": "https://github.com/Massolari/lsp-auto-setup.nvim"
+}

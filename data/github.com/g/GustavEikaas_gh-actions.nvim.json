@@ -2,25 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "GitHub"
-        },
-        {
-          "level": 2,
-          "name": "Actions"
-        }
       ],
-      "file": "git-github.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 20,
     "createdAt": "2024-08-17T17:51:39Z",
     "description": "Run and watch github actions directly from within neovim",
-    "isArchived": false,
-    "lastCommit": "2024-08-19T05:53:49Z",
+    "isArchived": true,
+    "lastCommit": "2025-03-07T19:24:25Z",
     "nameWithOwner": "GustavEikaas/gh-actions.nvim",
     "primaryLanguage": {
       "color": "#000080",

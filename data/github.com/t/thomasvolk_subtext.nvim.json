@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-01T13:28:04Z",
+    "description": "neovim plugin for subtext notes",
+    "isArchived": false,
+    "lastCommit": "2025-03-04T18:03:16Z",
+    "nameWithOwner": "thomasvolk/subtext.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "subtext.nvim",
+  "owner": "thomasvolk",
+  "url": "https://github.com/thomasvolk/subtext.nvim"
+}

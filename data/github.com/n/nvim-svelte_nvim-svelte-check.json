@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Svelte"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 104,
+    "createdAt": "2024-06-16T16:03:51Z",
+    "description": "A very simple tool to run the svelte-check tool and pipe the results into neovims quick fix interface.",
+    "isArchived": false,
+    "lastCommit": "2025-03-10T18:54:41Z",
+    "nameWithOwner": "nvim-svelte/nvim-svelte-check",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-svelte-check",
+  "owner": "nvim-svelte",
+  "url": "https://github.com/StephenGunn/sveltecheck.nvim"
+}

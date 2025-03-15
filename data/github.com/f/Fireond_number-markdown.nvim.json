@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown header"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-02-24T12:14:49Z",
+    "description": "Simple Neovim plugin to number markdown headers.",
+    "isArchived": false,
+    "lastCommit": "2025-02-27T06:26:43Z",
+    "nameWithOwner": "Fireond/number-markdown.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "number-markdown.nvim",
+  "owner": "Fireond",
+  "url": "https://github.com/Fireond/number-markdown.nvim"
+}

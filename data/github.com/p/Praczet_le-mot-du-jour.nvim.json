@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Study"
+        },
+        {
+          "level": 3,
+          "name": "French"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-03-05T09:03:20Z",
+    "description": "Simple neovim plugin to display random French in Dashboard",
+    "isArchived": false,
+    "lastCommit": "2025-03-05T14:28:03Z",
+    "nameWithOwner": "Praczet/le-mot-du-jour.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "le-mot-du-jour.nvim",
+  "owner": "Praczet",
+  "url": "https://github.com/Praczet/le-mot-du-jour.nvim"
+}

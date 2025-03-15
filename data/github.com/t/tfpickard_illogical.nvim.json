@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Boolean"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-03-12T18:55:21Z",
+    "description": "Toggle things like true/false, 0/1, up/down, tabs/spaces so quickly it might just toggle your mind.",
+    "isArchived": false,
+    "lastCommit": "2025-03-13T18:50:28Z",
+    "nameWithOwner": "tfpickard/illogical.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim",
+      "plugin",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "illogical.nvim",
+  "owner": "tfpickard",
+  "url": "https://github.com/tfpickard/illogical.nvim"
+}

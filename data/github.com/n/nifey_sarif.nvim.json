@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 21,
     "createdAt": "2025-02-21T14:10:38Z",
-    "description": null,
+    "description": "A Neovim plugin for viewing SARIF formatted static analysis results.",
     "isArchived": false,
-    "lastCommit": "2025-02-23T05:00:17Z",
+    "lastCommit": "2025-03-12T17:26:27Z",
     "nameWithOwner": "nifey/sarif.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,8 @@
     },
     "star": 1,
     "topics": [
+      "neovim-plugin",
+      "sarif-viewer"
     ]
   },
   "domain": "github.com",

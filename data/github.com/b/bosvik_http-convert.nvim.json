@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        },
+        {
+          "level": 4,
+          "name": ".http / .rest file"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-23T22:12:14Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-23T22:42:12Z",
+    "nameWithOwner": "bosvik/http-convert.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "http-convert.nvim",
+  "owner": "bosvik",
+  "url": "https://github.com/bosvik/http-convert.nvim"
+}

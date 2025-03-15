@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "R"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2025-03-08T23:07:03Z",
+    "description": "A Neovim wrapper for the Ark R kernel",
+    "isArchived": false,
+    "lastCommit": "2025-03-12T18:00:25Z",
+    "nameWithOwner": "wurli/ark.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "ark",
+      "jupyter",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "r"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ark.nvim",
+  "owner": "wurli",
+  "url": "https://github.com/wurli/ark.nvim"
+}

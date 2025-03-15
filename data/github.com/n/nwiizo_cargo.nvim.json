@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 49,
     "createdAt": "2025-01-14T01:26:21Z",
     "description": "A Neovim plugin that provides seamless integration with Rust's Cargo commands. Execute Cargo commands directly from Neovim with a floating window interface.",
     "isArchived": false,
-    "lastCommit": "2025-02-22T08:21:24Z",
+    "lastCommit": "2025-03-06T11:54:40Z",
     "nameWithOwner": "nwiizo/cargo.nvim",
     "primaryLanguage": {
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 68,
+    "star": 70,
     "topics": [
       "lua",
       "neovim",

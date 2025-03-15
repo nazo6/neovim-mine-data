@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-02-25T14:30:15Z",
+    "description": "notes.nvim it's a neovim plugin for working with markdown notes.",
+    "isArchived": false,
+    "lastCommit": "2025-02-25T17:03:24Z",
+    "nameWithOwner": "cynumini/notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "markdown",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "notes"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes.nvim",
+  "owner": "cynumini",
+  "url": "https://github.com/cynumini/notes.nvim"
+}

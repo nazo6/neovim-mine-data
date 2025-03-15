@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Copy with line info"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-03-04T02:28:58Z",
+    "description": "lil extension to handle file contexts & dump them to clipboard so its easier to work with ais",
+    "isArchived": false,
+    "lastCommit": "2025-03-06T23:11:27Z",
+    "nameWithOwner": "Andrew-Pynch/nvim-ctx-dump",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ctx-dump",
+  "owner": "Andrew-Pynch",
+  "url": "https://github.com/Andrew-Pynch/nvim-ctx-dump"
+}

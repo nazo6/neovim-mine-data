@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-03-04T18:19:31Z",
+    "description": "Simple time logging app",
+    "isArchived": false,
+    "lastCommit": "2025-03-05T08:30:00Z",
+    "nameWithOwner": "mraspaud/timelog.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "timelog.nvim",
+  "owner": "mraspaud",
+  "url": "https://github.com/mraspaud/timelog.nvim"
+}

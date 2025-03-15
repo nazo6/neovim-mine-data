@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "pydoc"
+        },
+        {
+          "level": 3,
+          "name": "uv"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-03-09T15:50:18Z",
+    "description": "uv functionality available in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-13T12:55:50Z",
+    "nameWithOwner": "benomahony/uv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "uv.nvim",
+  "owner": "benomahony",
+  "url": "https://github.com/benomahony/uv.nvim"
+}

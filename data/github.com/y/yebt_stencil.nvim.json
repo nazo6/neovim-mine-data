@@ -16,18 +16,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 18,
     "createdAt": "2025-02-03T23:11:44Z",
-    "description": "A try of plugin for Neovim to manage templates",
+    "description": "🖋️ A minimalist and extensible plugin attempt to manage sketches and templates in neovim",
     "isArchived": false,
-    "lastCommit": "2025-02-05T00:10:36Z",
+    "lastCommit": "2025-03-12T22:46:17Z",
     "nameWithOwner": "yebt/stencil.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 5,
     "topics": [
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "neovim-plugin-template",
+      "neovim-plugins",
+      "neovim",
+      "neovim-template"
     ]
   },
   "domain": "github.com",

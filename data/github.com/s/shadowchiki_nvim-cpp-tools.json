@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 23,
     "createdAt": "2025-02-16T12:45:02Z",
-    "description": null,
+    "description": "Plugin for Nvim to give funcionalities witch is not included in Clangd like, Remove Unused includes, Generate a .cpp from .hpp",
     "isArchived": false,
-    "lastCommit": "2025-02-23T09:45:39Z",
+    "lastCommit": "2025-03-01T20:44:15Z",
     "nameWithOwner": "shadowchiki/nvim-cpp-tools",
     "primaryLanguage": {
       "color": "#000080",
@@ -36,6 +36,9 @@
     },
     "star": 1,
     "topics": [
+      "cpp",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

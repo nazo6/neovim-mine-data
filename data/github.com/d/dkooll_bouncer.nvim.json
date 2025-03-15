@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 88,
+    "commitCountLastYear": 121,
     "createdAt": "2024-11-09T15:02:02Z",
-    "description": null,
+    "description": "neovim plugin that simplifies switching between local paths and registry sources for terraform modules",
     "isArchived": false,
-    "lastCommit": "2025-01-27T12:15:14Z",
+    "lastCommit": "2025-03-14T10:06:33Z",
     "nameWithOwner": "dkooll/bouncer.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -36,6 +36,7 @@
     },
     "star": 1,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

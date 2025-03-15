@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Other Editor"
+        },
+        {
+          "level": 4,
+          "name": "VS Code"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-03-09T15:17:00Z",
+    "description": "Shadow Play is a powerful editor synchronization plugin that enables real-time state synchronization between Cursor/VSCode and Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-03-14T17:58:48Z",
+    "nameWithOwner": "zqqqqz2000/shadow-play.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "shadow-play.nvim",
+  "owner": "zqqqqz2000",
+  "url": "https://github.com/zqqqqz2000/shadow-play.nvim"
+}

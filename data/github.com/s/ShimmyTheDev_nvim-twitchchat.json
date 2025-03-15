@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Twitch"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-02-25T13:13:53Z",
+    "description": "Plugin that displays twitch chat in the neovim editor",
+    "isArchived": false,
+    "lastCommit": "2025-02-25T15:43:41Z",
+    "nameWithOwner": "ShimmyTheDev/nvim-twitchchat",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "chat",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "twitch",
+      "twitchchat",
+      "twitchtv"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-twitchchat",
+  "owner": "ShimmyTheDev",
+  "url": "https://github.com/ShimmyTheDev/nvim-twitchchat"
+}

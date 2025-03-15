@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Mapping"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2024-12-27T15:31:22Z",
+    "description": "A lightweight Neovim plugin for managing multiple terminal instances with key bindings.",
+    "isArchived": false,
+    "lastCommit": "2025-03-11T06:28:51Z",
+    "nameWithOwner": "Axot017/multiterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "multiterm.nvim",
+  "owner": "Axot017",
+  "url": "https://github.com/Axot017/multiterm.nvim"
+}

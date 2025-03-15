@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2022-06-22T20:04:36Z",
+    "description": "Neovim plugin to read, write and post articles on dev.to",
+    "isArchived": false,
+    "lastCommit": "2025-03-14T17:56:21Z",
+    "nameWithOwner": "Massolari/devto.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "forem",
+      "neovim",
+      "plugin",
+      "vim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "devto.nvim",
+  "owner": "Massolari",
+  "url": "https://github.com/Massolari/forem.nvim"
+}

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-02-26T17:46:22Z",
+    "description": "Automatically apply patches to plugins installed through lazy.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-02-26T17:43:51Z",
+    "nameWithOwner": "one-d-wide/lazy-patcher.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "git",
+      "lua",
+      "neovim",
+      "patch",
+      "patcher",
+      "plugin",
+      "repository"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazy-patcher.nvim",
+  "owner": "one-d-wide",
+  "url": "https://github.com/one-d-wide/lazy-patcher.nvim"
+}

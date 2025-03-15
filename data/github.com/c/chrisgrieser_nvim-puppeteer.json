@@ -30,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 52,
+    "commitCountLastYear": 40,
     "createdAt": "2023-09-18T12:48:34Z",
     "description": "Automatically convert strings to f-strings or template strings and back.",
     "isArchived": false,
@@ -40,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 61,
+    "star": 62,
     "topics": [
       "f-strings",
       "nvim-plugin",

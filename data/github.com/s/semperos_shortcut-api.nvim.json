@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Shortcut"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-02-26T14:16:38Z",
+    "description": "Shortcut Integration for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-26T14:25:03Z",
+    "nameWithOwner": "semperos/shortcut-api.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "project-management",
+      "shortcut"
+    ]
+  },
+  "domain": "github.com",
+  "name": "shortcut-api.nvim",
+  "owner": "semperos",
+  "url": "https://github.com/semperos/shortcut-api.nvim"
+}

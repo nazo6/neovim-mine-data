@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ctags"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-02-22T00:20:02Z",
+    "description": "Jump to definitions WITHOUT tags, all in Lua. That's it.",
+    "isArchived": false,
+    "lastCommit": "2025-02-22T23:16:05Z",
+    "nameWithOwner": "francescoApophis/my_ctags.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "my_ctags.nvim",
+  "owner": "francescoApophis",
+  "url": "https://github.com/francescoApophis/my_ctags.nvim"
+}

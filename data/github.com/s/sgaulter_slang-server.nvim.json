@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Slang"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-08T15:43:52Z",
+    "description": "Neovim frontend for enhanced features of the Slang SV language server",
+    "isArchived": false,
+    "lastCommit": "2025-03-10T13:24:30Z",
+    "nameWithOwner": "sgaulter/slang-server.nvim",
+    "primaryLanguage": null,
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "slang-server.nvim",
+  "owner": "sgaulter",
+  "url": "https://github.com/sgaulter/slang-server.nvim"
+}

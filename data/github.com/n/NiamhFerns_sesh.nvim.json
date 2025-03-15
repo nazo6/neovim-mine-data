@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2023-04-23T03:56:58Z",
+    "description": "Sweet and simple session management extension plugin that works alongside project.nvim with telescope integration.",
+    "isArchived": false,
+    "lastCommit": "2023-04-24T23:13:49Z",
+    "nameWithOwner": "NiamhFerns/sesh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "lua",
+      "neovim",
+      "project-management",
+      "sessions",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sesh.nvim",
+  "owner": "NiamhFerns",
+  "url": "https://github.com/NiamhFerns/sesh.nvim"
+}

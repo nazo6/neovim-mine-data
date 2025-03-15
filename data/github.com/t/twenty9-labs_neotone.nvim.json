@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        },
+        {
+          "level": 4,
+          "name": "Theme"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-03-10T21:57:03Z",
+    "description": "Tune your Neovim to the perfect tone—light or dark, system-synced or manual. For macOS.",
+    "isArchived": false,
+    "lastCommit": "2025-03-11T09:00:31Z",
+    "nameWithOwner": "twenty9-labs/neotone.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neotone.nvim",
+  "owner": "twenty9-labs",
+  "url": "https://github.com/twenty9-labs/neotone.nvim"
+}

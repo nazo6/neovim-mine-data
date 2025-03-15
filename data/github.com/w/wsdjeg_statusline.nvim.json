@@ -1,0 +1,34 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-02-19T14:07:06Z",
+    "description": "module statusline plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-02T15:05:27Z",
+    "nameWithOwner": "wsdjeg/statusline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "statusline.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/statusline.nvim"
+}

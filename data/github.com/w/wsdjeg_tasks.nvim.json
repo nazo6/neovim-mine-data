@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "TOML"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-03-01T03:06:26Z",
+    "description": "tasks manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-13T05:37:37Z",
+    "nameWithOwner": "wsdjeg/tasks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasks.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/tasks.nvim"
+}

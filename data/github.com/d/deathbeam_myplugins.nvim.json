@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util pack"
+        }
+      ],
+      "file": "util-pack.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2025-03-12T21:47:43Z",
+    "description": "A collection of plugins that were at some point sitting in my dotfiles.",
+    "isArchived": false,
+    "lastCommit": "2025-03-13T15:47:13Z",
+    "nameWithOwner": "deathbeam/myplugins.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "myplugins.nvim",
+  "owner": "deathbeam",
+  "url": "https://github.com/deathbeam/myplugins.nvim"
+}

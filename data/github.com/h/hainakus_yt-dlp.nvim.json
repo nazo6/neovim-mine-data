@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "YouTube Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2025-03-05T21:42:54Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-06T02:39:49Z",
+    "nameWithOwner": "hainakus/yt-dlp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yt-dlp.nvim",
+  "owner": "hainakus",
+  "url": "https://github.com/hainakus/yt-dlp.nvim"
+}

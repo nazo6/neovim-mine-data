@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Label Jump (Easymotion style)"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2025-02-28T14:12:57Z",
+    "description": "Home-row powered smart motions with flow-state chaining for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-13T00:54:39Z",
+    "nameWithOwner": "FluxxField/smart-motion.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "easymotion",
+      "flow-state",
+      "hop",
+      "leap",
+      "lua",
+      "motions",
+      "navigation",
+      "neovim",
+      "neovim-plugin",
+      "productivity"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-motion.nvim",
+  "owner": "FluxxField",
+  "url": "https://github.com/FluxxField/smart-motion.nvim"
+}

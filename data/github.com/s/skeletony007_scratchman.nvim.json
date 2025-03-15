@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-27T05:33:44Z",
+    "description": "Basic scratch buffer manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-27T05:41:27Z",
+    "nameWithOwner": "skeletony007/scratchman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratchman.nvim",
+  "owner": "skeletony007",
+  "url": "https://github.com/skeletony007/scratchman.nvim"
+}

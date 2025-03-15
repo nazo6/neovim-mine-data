@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-03-12T18:14:36Z",
+    "description": "A lightweight markdown note taking tool for message like note taking",
+    "isArchived": false,
+    "lastCommit": "2025-03-12T20:00:07Z",
+    "nameWithOwner": "msyke/stashdown.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stashdown.nvim",
+  "owner": "msyke",
+  "url": "https://github.com/msyke/stashdown.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "NWScript"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 83,
+    "createdAt": "2025-03-04T14:07:52Z",
+    "description": "NWScript: EE LSP is a Neovim plugin for the NWScript language",
+    "isArchived": false,
+    "lastCommit": "2025-03-13T20:47:33Z",
+    "nameWithOwner": "StefanoND/nwscript-ee-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nwscript-ee-lsp.nvim",
+  "owner": "StefanoND",
+  "url": "https://github.com/StefanoND/nwscript-ee-lsp.nvim"
+}

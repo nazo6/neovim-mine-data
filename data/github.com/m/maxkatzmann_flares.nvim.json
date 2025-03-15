@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Symbol"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2025-02-23T19:52:27Z",
+    "description": "A Neovim plugin to highlight LSP symbols in a buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-03-05T19:38:46Z",
+    "nameWithOwner": "maxkatzmann/flares.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "flares.nvim",
+  "owner": "maxkatzmann",
+  "url": "https://github.com/maxkatzmann/flares.nvim"
+}

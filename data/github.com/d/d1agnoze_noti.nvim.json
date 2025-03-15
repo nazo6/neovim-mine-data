@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Notification"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-03-09T17:13:24Z",
+    "description": "simple notification center for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-09T17:49:46Z",
+    "nameWithOwner": "d1agnoze/noti.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "noti.nvim",
+  "owner": "d1agnoze",
+  "url": "https://github.com/d1agnoze/noti.nvim"
+}

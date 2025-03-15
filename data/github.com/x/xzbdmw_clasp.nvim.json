@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Select"
+        },
+        {
+          "level": 2,
+          "name": "Multi Cursor"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2025-02-22T15:48:52Z",
+    "description": "Fast wrap your missing pair with treesitter.",
+    "isArchived": false,
+    "lastCommit": "2025-03-12T20:34:13Z",
+    "nameWithOwner": "xzbdmw/clasp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 87,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "clasp.nvim",
+  "owner": "xzbdmw",
+  "url": "https://github.com/xzbdmw/clasp.nvim"
+}

@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown checkbox"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-01-19T06:29:00Z",
+    "description": "Markdown todo list format that lets you go super saiyan",
+    "isArchived": false,
+    "lastCommit": "2025-02-03T07:36:41Z",
+    "nameWithOwner": "thenickmonaco/powerlevel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ascii-animation",
+      "ascii-art",
+      "lua",
+      "markdown",
+      "neovim",
+      "plugin",
+      "todolist"
+    ]
+  },
+  "domain": "github.com",
+  "name": "powerlevel.nvim",
+  "owner": "thenickmonaco",
+  "url": "https://github.com/NeoManslayer/powerlevel.nvim"
+}

@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 11,
     "createdAt": "2023-04-14T06:12:17Z",
     "description": "A panel to view the logs from your LSP servers.",
     "isArchived": false,
-    "lastCommit": "2025-01-12T19:40:13Z",
+    "lastCommit": "2025-03-03T15:32:32Z",
     "nameWithOwner": "mhanberg/output-panel.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 79,
+    "star": 81,
     "topics": [
       "neovim",
       "neovim-plugin"

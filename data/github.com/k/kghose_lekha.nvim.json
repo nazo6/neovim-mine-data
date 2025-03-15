@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Search"
+        },
+        {
+          "level": 2,
+          "name": "Word Count"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-02-23T15:33:52Z",
+    "description": "NeoVim plugin for writers using Markdown",
+    "isArchived": false,
+    "lastCommit": "2025-03-09T14:34:53Z",
+    "nameWithOwner": "kghose/lekha.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lekha.nvim",
+  "owner": "kghose",
+  "url": "https://github.com/kghose/lekha.nvim"
+}

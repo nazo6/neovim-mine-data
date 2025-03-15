@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 73,
     "createdAt": "2025-02-15T21:17:23Z",
-    "description": "Fuzzy search Go std lib packages and project packages",
+    "description": "Fuzzy search Go packages/symbols and view docs from within Neovim",
     "isArchived": false,
-    "lastCommit": "2025-02-23T09:20:28Z",
+    "lastCommit": "2025-02-28T17:06:23Z",
     "nameWithOwner": "fredrikaverpil/godoc.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 46,
+    "star": 122,
     "topics": [
       "go",
       "golang",

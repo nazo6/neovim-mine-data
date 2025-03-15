@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "PHP"
+        },
+        {
+          "level": 3,
+          "name": "Laravel"
+        }
+      ],
+      "file": "php.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 100,
+    "createdAt": "2025-02-28T03:19:05Z",
+    "description": "A Neovim plugin for Laravel development, with focus on Laravel IDE Helper integration",
+    "isArchived": false,
+    "lastCommit": "2025-03-06T23:25:52Z",
+    "nameWithOwner": "greggh/laravel-helper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "blade",
+      "laravel",
+      "neovim",
+      "nvim",
+      "plugin",
+      "tailwind"
+    ]
+  },
+  "domain": "github.com",
+  "name": "laravel-helper.nvim",
+  "owner": "greggh",
+  "url": "https://github.com/greggh/laravel-helper.nvim"
+}

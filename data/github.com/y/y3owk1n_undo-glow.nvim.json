@@ -20,20 +20,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 96,
+    "commitCountLastYear": 226,
     "createdAt": "2025-02-14T14:43:06Z",
-    "description": "🌈 Add glow effects to your neovim operation with simple APIs.",
+    "description": "🌈 Add animated glow/highlight effects to your neovim operation (undo, redo, yank, paste and more) with simple APIs. Alternatives to highlight-undo.nvim and tiny-glimmer.nvim.",
     "isArchived": false,
-    "lastCommit": "2025-02-23T09:23:04Z",
+    "lastCommit": "2025-03-10T05:13:20Z",
     "nameWithOwner": "y3owk1n/undo-glow.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 13,
+    "star": 21,
     "topics": [
       "neovim",
-      "neovim-plugin"
+      "neovim-plugin",
+      "neovim-highlight",
+      "neovim-plugins",
+      "nvim",
+      "nvim-plugin",
+      "nvim-plugins"
     ]
   },
   "domain": "github.com",

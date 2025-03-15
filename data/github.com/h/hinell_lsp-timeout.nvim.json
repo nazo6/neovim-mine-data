@@ -40,7 +40,7 @@
   "data": {
     "commitCountLastYear": 0,
     "createdAt": "2023-09-22T10:05:27Z",
-    "description": "Start/stop LSP servers upon demand; keeps RAM usage low",
+    "description": "Automatically start/stop LSP servers upon demand; keeps RAM usage low",
     "isArchived": false,
     "lastCommit": "2023-11-06T21:46:28Z",
     "nameWithOwner": "hinell/lsp-timeout.nvim",

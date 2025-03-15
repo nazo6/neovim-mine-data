@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "pydoc"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-02-22T19:16:06Z",
+    "description": "Fuzzy search Python std lib modules and project modules",
+    "isArchived": false,
+    "lastCommit": "2025-02-22T20:14:05Z",
+    "nameWithOwner": "fredrikaverpil/pydoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pydoc.nvim",
+  "owner": "fredrikaverpil",
+  "url": "https://github.com/fredrikaverpil/pydoc.nvim"
+}

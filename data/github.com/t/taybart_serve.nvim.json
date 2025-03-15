@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        },
+        {
+          "level": 4,
+          "name": "HTTP server"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-02-24T22:35:21Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-02-26T14:49:14Z",
+    "nameWithOwner": "taybart/serve.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "serve.nvim",
+  "owner": "taybart",
+  "url": "https://github.com/taybart/serve.nvim"
+}

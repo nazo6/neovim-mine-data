@@ -19,14 +19,14 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-02-11T23:53:58Z",
     "description": "Neovim plugin to view and add tasks stored in a todo.txt format",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-08-31T16:31:08Z",
     "nameWithOwner": "arnarg/todotxt.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 61,
+    "star": 62,
     "topics": [
       "neovim",
       "lua",

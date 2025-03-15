@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-02-27T13:14:30Z",
+    "description": "UI display integration",
+    "isArchived": false,
+    "lastCommit": "2025-03-12T12:47:57Z",
+    "nameWithOwner": "tar80/staba.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "statuscolumn",
+      "statusline",
+      "tabline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "staba.nvim",
+  "owner": "tar80",
+  "url": "https://github.com/tar80/staba.nvim"
+}

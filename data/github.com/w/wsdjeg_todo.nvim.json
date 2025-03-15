@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-03-02T11:00:08Z",
+    "description": "todo manager plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-11T14:53:00Z",
+    "nameWithOwner": "wsdjeg/todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/todo.nvim"
+}

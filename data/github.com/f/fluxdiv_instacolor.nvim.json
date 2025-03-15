@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Comment highlight"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-09T04:00:07Z",
+    "description": "Set up auto-highlights in specific files/filetypes based on trailing comments",
+    "isArchived": false,
+    "lastCommit": "2025-03-09T04:15:02Z",
+    "nameWithOwner": "fluxdiv/instacolor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "instacolor.nvim",
+  "owner": "fluxdiv",
+  "url": "https://github.com/fluxdiv/instacolor.nvim"
+}

@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 37,
+    "commitCountLastYear": 13,
     "createdAt": "2021-09-26T16:47:45Z",
     "description": "Extended 'textDocument/definition' handler for OmniSharp Neovim LSP (now also `textDocument/references`, `textDocument/implementation` and source generated files)",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 167,
+    "star": 169,
     "topics": [
       "neovim",
       "lsp",

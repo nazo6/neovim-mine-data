@@ -38,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 25,
     "createdAt": "2023-11-05T02:27:10Z",
     "description": "Garbage collector that stops inactive LSP clients to free RAM",
     "isArchived": false,
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 340,
+    "star": 391,
     "topics": [
       "nvim-lsp",
       "nvim-plugin",

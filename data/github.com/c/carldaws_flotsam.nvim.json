@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-02-26T00:24:00Z",
+    "description": "A simple floating terminal plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-26T23:13:04Z",
+    "nameWithOwner": "carldaws/flotsam.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "flotsam.nvim",
+  "owner": "carldaws",
+  "url": "https://github.com/carldaws/flotsam.nvim"
+}

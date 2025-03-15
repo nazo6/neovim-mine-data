@@ -20,22 +20,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 156,
+    "commitCountLastYear": 278,
     "createdAt": "2024-06-02T08:11:44Z",
     "description": "Remixed light and dark Kanagawa colourschemes with muted colors. For Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-02-15T23:22:58Z",
+    "lastCommit": "2025-03-11T16:38:08Z",
     "nameWithOwner": "thesimonho/kanagawa-paper.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 167,
+    "star": 177,
     "topics": [
       "color-scheme",
       "neovim",
       "lua",
-      "kanagawa"
+      "kanagawa",
+      "alacritty-theme",
+      "fzf-theme",
+      "ghostty-theme",
+      "kitty-theme",
+      "lazygit",
+      "neovim-colorscheme"
     ]
   },
   "domain": "github.com",

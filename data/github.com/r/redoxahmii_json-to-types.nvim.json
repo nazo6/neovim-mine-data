@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -22,20 +36,22 @@
   "data": {
     "commitCountLastYear": 30,
     "createdAt": "2024-02-01T21:16:51Z",
-    "description": "A  neovim plugin to convert JSON objects to write types.",
+    "description": "A  neovim plugin to convert JSON objects to Type Definitions",
     "isArchived": false,
-    "lastCommit": "2025-01-29T18:09:25Z",
+    "lastCommit": "2025-03-06T02:21:20Z",
     "nameWithOwner": "redoxahmii/json-to-types.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 27,
+    "star": 34,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
   "name": "json-to-types.nvim",
   "owner": "redoxahmii",
-  "url": "https://github.com/Redoxahmii/json-to-ts.nvim"
+  "url": "https://github.com/redoxahmii/json-to-types.nvim"
 }

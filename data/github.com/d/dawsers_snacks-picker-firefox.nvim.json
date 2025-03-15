@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "Firefox"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-02-23T00:58:20Z",
+    "description": "snacks.nvim picker to navigate Firefox's history and bookmarks ",
+    "isArchived": false,
+    "lastCommit": "2025-02-23T01:22:28Z",
+    "nameWithOwner": "dawsers/snacks-picker-firefox.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-picker-firefox.nvim",
+  "owner": "dawsers",
+  "url": "https://github.com/dawsers/snacks-picker-firefox.nvim"
+}

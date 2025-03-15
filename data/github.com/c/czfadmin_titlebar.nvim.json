@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tabline"
+        }
+      ],
+      "file": "tabline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-02-22T05:41:52Z",
+    "description": "A neovim plugin that mimics the title bar of vscode. (WIP)",
+    "isArchived": false,
+    "lastCommit": "2025-02-23T12:14:21Z",
+    "nameWithOwner": "czfadmin/titlebar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "titlebar.nvim",
+  "owner": "czfadmin",
+  "url": "https://github.com/czfadmin/titlebar.nvim"
+}

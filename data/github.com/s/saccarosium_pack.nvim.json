@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-03-11T10:12:43Z",
+    "description": "Simplistic Neovim package manager",
+    "isArchived": false,
+    "lastCommit": "2025-03-12T22:55:11Z",
+    "nameWithOwner": "saccarosium/pack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pack.nvim",
+  "owner": "saccarosium",
+  "url": "https://github.com/saccarosium/pack.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "MatLab"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 49,
+    "createdAt": "2025-03-09T07:57:22Z",
+    "description": "matlab plugin for Neovim written in lua",
+    "isArchived": false,
+    "lastCommit": "2025-03-14T04:25:02Z",
+    "nameWithOwner": "idossha/matlab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "matlab.nvim",
+  "owner": "idossha",
+  "url": "https://github.com/idossha/matlab.nvim"
+}

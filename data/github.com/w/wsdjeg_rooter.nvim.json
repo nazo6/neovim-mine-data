@@ -17,20 +17,34 @@
       ],
       "file": "project.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 21,
     "createdAt": "2025-02-19T15:50:36Z",
     "description": "cd project root automatically",
     "isArchived": false,
-    "lastCommit": "2025-02-22T16:06:52Z",
+    "lastCommit": "2025-03-13T05:50:18Z",
     "nameWithOwner": "wsdjeg/rooter.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 6,
     "topics": [
       "neovim-plugin"
     ]

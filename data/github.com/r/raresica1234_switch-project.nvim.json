@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-02-25T18:12:34Z",
+    "description": "Switch between tmux sessions and projects with neovim",
+    "isArchived": false,
+    "lastCommit": "2025-02-25T18:45:52Z",
+    "nameWithOwner": "raresica1234/switch-project.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "switch-project.nvim",
+  "owner": "raresica1234",
+  "url": "https://github.com/raresica1234/switch-project.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-03-05T22:59:11Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-13T23:53:45Z",
+    "nameWithOwner": "hamidzr/task-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "task-manager.nvim",
+  "owner": "hamidzr",
+  "url": "https://github.com/hamidzr/task-manager.nvim"
+}

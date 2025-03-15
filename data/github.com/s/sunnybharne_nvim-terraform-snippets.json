@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Terraform"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-03-09T14:25:18Z",
+    "description": "A Neovim plugin that injects Terraform snippets for LuaSnip, making IAC setup effortless. 🚀",
+    "isArchived": false,
+    "lastCommit": "2025-03-14T19:45:52Z",
+    "nameWithOwner": "sunnybharne/nvim-terraform-snippets",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-terraform-snippets",
+  "owner": "sunnybharne",
+  "url": "https://github.com/sunnybharne/nvim-terraform-snippets"
+}

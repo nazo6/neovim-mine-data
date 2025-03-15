@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Directory"
+        },
+        {
+          "level": 3,
+          "name": "cd(change directory)"
+        }
+      ],
+      "file": "directory.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-03-07T07:31:54Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-11T01:29:31Z",
+    "nameWithOwner": "shaobosong/chdir.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chdir.nvim",
+  "owner": "shaobosong",
+  "url": "https://github.com/shaobosong/chdir.nvim"
+}
