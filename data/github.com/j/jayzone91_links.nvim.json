@@ -8,15 +8,15 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
+          "name": "Integration with other apps"
         },
         {
           "level": 3,
-          "name": "Cloud"
+          "name": "Browser Integration"
         },
         {
           "level": 4,
-          "name": "Terraform"
+          "name": "url open"
         }
       ],
       "file": "integration-apps.md",
@@ -25,11 +25,11 @@
   ],
   "data": {
     "commitCountLastYear": 5,
-    "createdAt": "2025-03-09T14:25:18Z",
-    "description": "A Neovim plugin that injects Terraform snippets for LuaSnip, making IAC setup effortless. 🚀",
+    "createdAt": "2025-03-14T10:53:00Z",
+    "description": "a little plugin to open links from neovim on your browser even if netrw is disabled",
     "isArchived": false,
-    "lastCommit": "2025-03-14T19:45:52Z",
-    "nameWithOwner": "sunnybharne/nvim-terraform-snippets",
+    "lastCommit": "2025-03-15T08:53:49Z",
+    "nameWithOwner": "jayzone91/links.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -39,7 +39,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "nvim-terraform-snippets",
-  "owner": "sunnybharne",
-  "url": "https://github.com/sunnybharne/nvim-terraform-snippets"
+  "name": "links.nvim",
+  "owner": "jayzone91",
+  "url": "https://github.com/jayzone91/links.nvim"
 }

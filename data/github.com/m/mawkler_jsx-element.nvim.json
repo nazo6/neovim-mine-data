@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Textobject"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-03-14T10:42:08Z",
+    "description": "JSX/TSX text-objects and motions",
+    "isArchived": false,
+    "lastCommit": "2025-03-14T20:11:16Z",
+    "nameWithOwner": "mawkler/jsx-element.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "jsx",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "react",
+      "reactjs",
+      "tsx"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jsx-element.nvim",
+  "owner": "mawkler",
+  "url": "https://github.com/mawkler/jsx-element.nvim"
+}

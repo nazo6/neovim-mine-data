@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "TTS (text-to-speech)"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-03-13T21:39:18Z",
+    "description": "Neovim plugin to read selected text with Kokoro.",
+    "isArchived": false,
+    "lastCommit": "2025-03-13T23:39:27Z",
+    "nameWithOwner": "cskeeters/kokoro.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kokoro.nvim",
+  "owner": "cskeeters",
+  "url": "https://github.com/cskeeters/kokoro.nvim"
+}

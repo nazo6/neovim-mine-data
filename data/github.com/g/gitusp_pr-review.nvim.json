@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Pull Request"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-03-13T02:38:54Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-14T13:02:46Z",
+    "nameWithOwner": "gitusp/pr-review.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pr-review.nvim",
+  "owner": "gitusp",
+  "url": "https://github.com/gitusp/pr-review.nvim"
+}

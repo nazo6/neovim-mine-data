@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 6,
     "createdAt": "2025-03-10T06:26:55Z",
-    "description": "Copy and paste content to a different tmux pane in NeoVim.",
+    "description": "Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.",
     "isArchived": false,
     "lastCommit": "2025-03-11T06:04:39Z",
     "nameWithOwner": "kiyoon/tmux-send.nvim",
@@ -30,8 +30,13 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "tmux"
     ]
   },
   "domain": "github.com",

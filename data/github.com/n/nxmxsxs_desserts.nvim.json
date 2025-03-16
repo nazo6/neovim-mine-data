@@ -8,24 +8,20 @@
         },
         {
           "level": 2,
-          "name": "HTML"
-        },
-        {
-          "level": 3,
-          "name": "Static site"
+          "name": "Util pack"
         }
       ],
-      "file": "js_ts.md",
+      "file": "util-pack.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
-    "createdAt": "2025-03-12T06:15:23Z",
-    "description": null,
+    "commitCountLastYear": 3,
+    "createdAt": "2025-03-13T11:19:05Z",
+    "description": "collections of neovim plugins",
     "isArchived": false,
-    "lastCommit": "2025-03-14T18:01:34Z",
-    "nameWithOwner": "deparr/static.nvim",
+    "lastCommit": "2025-03-13T11:22:40Z",
+    "nameWithOwner": "nxmxsxs/desserts.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "static.nvim",
-  "owner": "deparr",
-  "url": "https://github.com/deparr/static.nvim"
+  "name": "desserts.nvim",
+  "owner": "nxmxsxs",
+  "url": "https://github.com/nxmxsxs/desserts.nvim"
 }

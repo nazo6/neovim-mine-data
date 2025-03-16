@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        },
+        {
+          "level": 3,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-14T18:52:28Z",
+    "description": "A Neovim plugin that generates meaningful commit messages using AI based on your staged changes. Provides multiple suggestions and follows the conventional commit format.",
+    "isArchived": false,
+    "lastCommit": "2025-03-14T18:50:50Z",
+    "nameWithOwner": "vernette/ai-commit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ai-commit.nvim",
+  "owner": "vernette",
+  "url": "https://github.com/vernette/ai-commit.nvim"
+}

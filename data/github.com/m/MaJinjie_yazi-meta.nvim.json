@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Filer"
+        },
+        {
+          "level": 2,
+          "name": "ranger"
+        },
+        {
+          "level": 3,
+          "name": "yazi"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-03-13T13:57:20Z",
+    "description": "yazi-metadata.nvim is a Neovim plugin that provides metadata and type completion support for Yazi plugin development, helping developers write Yazi plugins more efficiently.",
+    "isArchived": false,
+    "lastCommit": "2025-03-16T03:54:05Z",
+    "nameWithOwner": "MaJinjie/yazi-meta.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yazi-meta.nvim",
+  "owner": "MaJinjie",
+  "url": "https://github.com/MaJinjie/yazi-meta.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "View"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 153,
+    "createdAt": "2024-07-13T14:29:37Z",
+    "description": "A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-03-15T12:40:14Z",
+    "nameWithOwner": "OXY2DEV/bars.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 69,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bars.nvim",
+  "owner": "OXY2DEV",
+  "url": "https://github.com/OXY2DEV/bars.nvim"
+}

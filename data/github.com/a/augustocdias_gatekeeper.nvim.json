@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2022-08-01T06:56:53Z",
     "description": "Makes buffers outside of cwd readonly",
     "isArchived": false,
-    "lastCommit": "2023-01-26T13:51:49Z",
+    "lastCommit": "2025-03-15T19:19:14Z",
     "nameWithOwner": "augustocdias/gatekeeper.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 17,
+    "star": 18,
     "topics": [
       "nvim-plugin",
       "neovim-plugin"

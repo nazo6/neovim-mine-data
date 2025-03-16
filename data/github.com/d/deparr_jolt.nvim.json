@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "HTML"
+        },
+        {
+          "level": 3,
+          "name": "Static site"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-03-12T06:15:23Z",
+    "description": "Turn neovim into a static site generator",
+    "isArchived": false,
+    "lastCommit": "2025-03-16T02:17:02Z",
+    "nameWithOwner": "deparr/jolt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "djot",
+      "neovim",
+      "static-site",
+      "static-site-generator"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jolt.nvim",
+  "owner": "deparr",
+  "url": "https://github.com/deparr/static.nvim"
+}

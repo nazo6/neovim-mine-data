@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-03-14T20:25:23Z",
+    "description": "A neovim plugin for persisting a quickfix list on disk and loading them when needed",
+    "isArchived": false,
+    "lastCommit": "2025-03-16T00:35:38Z",
+    "nameWithOwner": "brunobmello25/persist-quickfix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "persist-quickfix.nvim",
+  "owner": "brunobmello25",
+  "url": "https://github.com/brunobmello25/persist-quickfix.nvim"
+}
