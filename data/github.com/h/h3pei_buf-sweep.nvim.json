@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "delete"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-11-06T13:26:26Z",
+    "description": "A Neovim plugin to sweep Vim buffers.",
+    "isArchived": false,
+    "lastCommit": "2025-03-22T08:19:56Z",
+    "nameWithOwner": "h3pei/buf-sweep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buf-sweep.nvim",
+  "owner": "h3pei",
+  "url": "https://github.com/mogulla3/buf-sweep.nvim"
+}

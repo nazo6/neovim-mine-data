@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "path"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2025-03-20T11:54:28Z",
+    "description": "A Neovim plugin for efficient file path manipulation - copy, convert, and preview paths with ease",
+    "isArchived": false,
+    "lastCommit": "2025-03-23T01:23:24Z",
+    "nameWithOwner": "mikinovation/pathtool.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pathtool.nvim",
+  "owner": "mikinovation",
+  "url": "https://github.com/mikinovation/pathtool.nvim"
+}

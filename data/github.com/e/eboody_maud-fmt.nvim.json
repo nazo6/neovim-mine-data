@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        },
+        {
+          "level": 4,
+          "name": "Maud"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-20T14:46:43Z",
+    "description": "A Neovim plugin for formatting Maud HTML templates in Rust.",
+    "isArchived": false,
+    "lastCommit": "2025-03-20T16:11:40Z",
+    "nameWithOwner": "eboody/maud-fmt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "maud-fmt.nvim",
+  "owner": "eboody",
+  "url": "https://github.com/eboody/maud-fmt.nvim"
+}

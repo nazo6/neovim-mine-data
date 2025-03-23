@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        },
+        {
+          "level": 4,
+          "name": "Fcitx"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 68,
+    "createdAt": "2025-03-15T02:41:31Z",
+    "description": "Fcitx5 integration for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-18T14:42:28Z",
+    "nameWithOwner": "blurgyy/fcitx5-ui-rs.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fcitx5-ui-rs.nvim",
+  "owner": "blurgyy",
+  "url": "https://github.com/blurgyy/fcitx5-ui-rs.nvim"
+}

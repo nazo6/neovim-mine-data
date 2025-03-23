@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "toc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-03-16T08:23:41Z",
+    "description": "Neovim plugin to Make Dynamic Table Of Contents",
+    "isArchived": false,
+    "lastCommit": "2025-03-19T06:49:41Z",
+    "nameWithOwner": "fmxsh/mdtoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "markdown",
+      "neovim",
+      "nvim",
+      "plugin",
+      "toc"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdtoc.nvim",
+  "owner": "fmxsh",
+  "url": "https://github.com/fmxsh/mdtoc.nvim"
+}

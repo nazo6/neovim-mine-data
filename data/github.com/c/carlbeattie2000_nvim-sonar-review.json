@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 33,
+    "commitCountLastYear": 39,
     "createdAt": "2025-03-08T16:21:11Z",
-    "description": null,
+    "description": "Neovim plugin for SonarQube. View issues and run scans from within Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-03-15T20:39:11Z",
+    "lastCommit": "2025-03-19T03:25:19Z",
     "nameWithOwner": "carlbeattie2000/nvim-sonar-review",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,9 @@
     },
     "star": 1,
     "topics": [
+      "neovim",
+      "plugin",
+      "sonarqube"
     ]
   },
   "domain": "github.com",

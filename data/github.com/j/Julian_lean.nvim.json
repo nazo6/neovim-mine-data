@@ -4,6 +4,24 @@
       "data": [
         {
           "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Lean"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -16,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 481,
+    "commitCountLastYear": 499,
     "createdAt": "2020-12-30T20:48:01Z",
     "description": "Neovim support for the Lean theorem prover",
     "isArchived": false,
-    "lastCommit": "2025-03-12T17:48:06Z",
+    "lastCommit": "2025-03-23T03:11:37Z",
     "nameWithOwner": "Julian/lean.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 334,
+    "star": 333,
     "topics": [
       "leanprover",
       "neovim",

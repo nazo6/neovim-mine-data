@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-03-18T20:42:28Z",
+    "description": "A set of functions and keymaps to make testing python code very simple from within the editing buffer",
+    "isArchived": false,
+    "lastCommit": "2025-03-18T21:17:53Z",
+    "nameWithOwner": "swickrotation/nvimpy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvimpy.nvim",
+  "owner": "swickrotation",
+  "url": "https://github.com/swickrotation/nvimpy.nvim"
+}

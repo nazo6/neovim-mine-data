@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "GPG"
+        },
+        {
+          "level": 4,
+          "name": "Keychain"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-20T16:21:35Z",
+    "description": "Sync your keychain environment into nvim",
+    "isArchived": false,
+    "lastCommit": "2025-03-20T16:20:51Z",
+    "nameWithOwner": "actionshrimp/keychain-environment.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keychain-environment.nvim",
+  "owner": "actionshrimp",
+  "url": "https://github.com/actionshrimp/keychain-environment.nvim"
+}

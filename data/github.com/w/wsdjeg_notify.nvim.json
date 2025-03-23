@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Notification"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-19T02:32:41Z",
+    "description": "notify api detached from spacevim",
+    "isArchived": false,
+    "lastCommit": "2025-03-19T02:46:11Z",
+    "nameWithOwner": "wsdjeg/notify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notify.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/notify.nvim"
+}

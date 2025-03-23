@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-03-19T19:05:47Z",
+    "description": "SQL Runner",
+    "isArchived": false,
+    "lastCommit": "2025-03-19T19:08:55Z",
+    "nameWithOwner": "edlandm/sqlr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sqlr.nvim",
+  "owner": "edlandm",
+  "url": "https://github.com/edlandm/sqlr.nvim"
+}

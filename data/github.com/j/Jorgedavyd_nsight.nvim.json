@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Proprietary Software"
+        },
+        {
+          "level": 3,
+          "name": "NVIDIA"
+        },
+        {
+          "level": 4,
+          "name": "CUDA"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2025-03-14T21:55:28Z",
+    "description": "A developer oriented Neovim framework for CUDA performance profiling and analysis.",
+    "isArchived": false,
+    "lastCommit": "2025-03-21T22:54:53Z",
+    "nameWithOwner": "Jorgedavyd/nsight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "cuda",
+      "cuda-kernels",
+      "cuda-profiler",
+      "cuda-programming",
+      "cuda-support",
+      "cuda-toolkit",
+      "deep-learning",
+      "machine-learning",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nsight.nvim",
+  "owner": "Jorgedavyd",
+  "url": "https://github.com/Jorgedavyd/cuda-prof.nvim"
+}

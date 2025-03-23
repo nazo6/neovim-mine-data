@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "bookmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-19T09:05:45Z",
+    "description": "A Neovim plugin to quickly navigate files with bookmarks",
+    "isArchived": false,
+    "lastCommit": "2025-03-21T22:59:23Z",
+    "nameWithOwner": "ojroques/nvim-bookmarks",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-bookmarks",
+  "owner": "ojroques",
+  "url": "https://github.com/ojroques/nvim-bookmarks"
+}

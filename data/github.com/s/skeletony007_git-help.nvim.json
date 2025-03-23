@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "Wrapper"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-03-18T13:07:54Z",
+    "description": "Lua functions wrapping Git that I don't want to write twice",
+    "isArchived": false,
+    "lastCommit": "2025-03-18T13:22:21Z",
+    "nameWithOwner": "skeletony007/git-help.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-help.nvim",
+  "owner": "skeletony007",
+  "url": "https://github.com/skeletony007/git-help.nvim"
+}

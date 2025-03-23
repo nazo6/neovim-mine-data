@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-03-18T16:13:38Z",
+    "description": "A Neovim plugin that extends fzf-lua with additional utilities",
+    "isArchived": false,
+    "lastCommit": "2025-03-19T16:57:43Z",
+    "nameWithOwner": "nuvic/fzf-kit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-kit.nvim",
+  "owner": "nuvic",
+  "url": "https://github.com/nuvic/fzf-kit.nvim"
+}

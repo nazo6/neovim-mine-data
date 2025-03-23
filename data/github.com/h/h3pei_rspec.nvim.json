@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-08-28T01:02:55Z",
+    "description": "RSpec runner for Neovim written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2025-03-22T08:17:09Z",
+    "nameWithOwner": "h3pei/rspec.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "lua",
+      "neovim",
+      "rspec"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rspec.nvim",
+  "owner": "h3pei",
+  "url": "https://github.com/mogulla3/rspec.nvim"
+}

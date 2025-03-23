@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Pet"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-03-18T15:42:32Z",
+    "description": "neovim \"autocomplete\" with paw",
+    "isArchived": false,
+    "lastCommit": "2025-03-23T00:41:29Z",
+    "nameWithOwner": "kiddos/pawtocomplete.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pawtocomplete.nvim",
+  "owner": "kiddos",
+  "url": "https://github.com/kiddos/pawtocomplete.nvim"
+}

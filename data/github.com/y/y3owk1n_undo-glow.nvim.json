@@ -17,20 +17,34 @@
       ],
       "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 226,
+    "commitCountLastYear": 229,
     "createdAt": "2025-02-14T14:43:06Z",
     "description": "🌈 Add animated glow/highlight effects to your neovim operation (undo, redo, yank, paste and more) with simple APIs. Alternatives to highlight-undo.nvim and tiny-glimmer.nvim.",
     "isArchived": false,
-    "lastCommit": "2025-03-10T05:13:20Z",
+    "lastCommit": "2025-03-19T04:15:48Z",
     "nameWithOwner": "y3owk1n/undo-glow.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 21,
+    "star": 23,
     "topics": [
       "neovim",
       "neovim-plugin",

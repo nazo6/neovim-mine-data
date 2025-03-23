@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "Debug"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-03-17T22:47:39Z",
+    "description": "Inspect dump files from coredumpy in neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-03-20T13:21:14Z",
+    "nameWithOwner": "Davidyz/coredumpy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "debugging",
+      "debugging-tool",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "coredumpy.nvim",
+  "owner": "Davidyz",
+  "url": "https://github.com/Davidyz/coredumpy.nvim"
+}

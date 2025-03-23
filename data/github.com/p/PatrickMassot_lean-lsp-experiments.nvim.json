@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Language specific"
+        },
+        {
+          "level": 2,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 3,
+          "name": "Lean"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-03-15T16:36:23Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-16T23:15:22Z",
+    "nameWithOwner": "PatrickMassot/lean-lsp-experiments.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lean-lsp-experiments.nvim",
+  "owner": "PatrickMassot",
+  "url": "https://github.com/PatrickMassot/lean-lsp-experiments.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Label Jump (Easymotion style)"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-03-19T00:06:02Z",
+    "description": "A Neovim plugin to enhance gf, gF, and provide target-based file hopping.",
+    "isArchived": false,
+    "lastCommit": "2025-03-20T19:11:42Z",
+    "nameWithOwner": "HawkinsT/pathfinder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 39,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pathfinder.nvim",
+  "owner": "HawkinsT",
+  "url": "https://github.com/HawkinsT/pathfinder.nvim"
+}

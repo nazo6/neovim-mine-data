@@ -1,0 +1,35 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-03-19T14:04:53Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-22T19:04:27Z",
+    "nameWithOwner": "happy663/telescope-livegrep-history.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-livegrep-history.nvim",
+  "owner": "happy663",
+  "url": "https://github.com/happy663/telescope-livegrep-history.nvim"
+}

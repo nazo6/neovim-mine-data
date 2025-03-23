@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-03-16T21:44:29Z",
+    "description": "A lightweight floating terminal plugin for Neovim. Open and manage a terminal in a customizable floating window with ease.",
+    "isArchived": false,
+    "lastCommit": "2025-03-19T09:46:32Z",
+    "nameWithOwner": "barkinunal/floaterminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floaterminal.nvim",
+  "owner": "barkinunal",
+  "url": "https://github.com/barkinunal/floaterminal.nvim"
+}

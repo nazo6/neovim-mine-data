@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 13,
     "createdAt": "2022-07-26T11:14:36Z",
     "description": "Neovim plugin for writing LilyPond scores, with asynchronous make, midi/mp3 player, fast syntax highlighting, \"hyphenation\" function, and support for LaTex and Texinfo files",
     "isArchived": false,
-    "lastCommit": "2025-02-09T13:40:45Z",
+    "lastCommit": "2025-03-22T12:56:45Z",
     "nameWithOwner": "martineausimon/nvim-lilypond-suite",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 138,
+    "star": 159,
     "topics": [
       "asynchronous",
       "ftplugin",

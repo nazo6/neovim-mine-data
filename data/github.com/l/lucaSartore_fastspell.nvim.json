@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Spell"
+        },
+        {
+          "level": 4,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 73,
+    "createdAt": "2025-02-24T08:20:15Z",
+    "description": "Spell checker for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-20T18:17:33Z",
+    "nameWithOwner": "lucaSartore/fastspell.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "nvim-plugin",
+      "spellchecker",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fastspell.nvim",
+  "owner": "lucaSartore",
+  "url": "https://github.com/LucaSartore/fastspell.nvim"
+}

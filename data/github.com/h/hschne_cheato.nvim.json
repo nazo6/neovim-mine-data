@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "CheatSheet"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-03-17T11:08:05Z",
+    "description": "A simple plugin to quickly search cheat sheets in Neovim! 🟠",
+    "isArchived": false,
+    "lastCommit": "2025-03-18T12:59:52Z",
+    "nameWithOwner": "hschne/cheato.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cheato.nvim",
+  "owner": "hschne",
+  "url": "https://github.com/hschne/cheato.nvim"
+}

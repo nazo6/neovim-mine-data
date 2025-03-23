@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-03-19T03:07:05Z",
+    "description": "Flexible Embedded REPL Runner for UltraSupremeDeluxeProMaxPlusX++ Multiprocessing",
+    "isArchived": false,
+    "lastCommit": "2025-03-23T02:32:27Z",
+    "nameWithOwner": "Futarimiti/ferrum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "async",
+      "lua-plugin",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-library",
+      "neovim-lua-plugin",
+      "nvim",
+      "repl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ferrum.nvim",
+  "owner": "Futarimiti",
+  "url": "https://github.com/Futarimiti/ferrum.nvim"
+}

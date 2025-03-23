@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Tabl]letieu/graphql.nvim of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-03-14T15:56:48Z",
+    "description": "A Neovim plugin for efficiently sharing your project's most relevant context with LLMs.",
+    "isArchived": false,
+    "lastCommit": "2025-03-18T06:54:53Z",
+    "nameWithOwner": "0xrusowsky/nvim-ctx-ingest",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "ai",
+      "llm",
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ctx-ingest",
+  "owner": "0xrusowsky",
+  "url": "https://github.com/0xrusowsky/nvim-ctx-ingest"
+}

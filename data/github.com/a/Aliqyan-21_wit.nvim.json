@@ -7,15 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Integration with other apps"
-        },
-        {
           "level": 3,
           "name": "Browser Integration"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "web-browser.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 64,
+    "star": 67,
     "topics": [
       "neovim",
       "neovim-plugin",

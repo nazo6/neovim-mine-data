@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "view content"
+        }
+      ],
+      "file": "web-browser.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-03-15T22:59:23Z",
+    "description": "A Neovim Plugin for Reading Web Pages",
+    "isArchived": false,
+    "lastCommit": "2025-03-18T18:15:57Z",
+    "nameWithOwner": "Leonardo-Luz/read.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "read.nvim",
+  "owner": "Leonardo-Luz",
+  "url": "https://github.com/Leonardo-Luz/read.nvim"
+}
