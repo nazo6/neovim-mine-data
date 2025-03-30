@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Web"
+          "name": "Syntax"
         },
         {
           "level": 3,
-          "name": "HackerNews"
+          "name": "Colorizer"
         }
       ],
-      "file": "web-service.md",
+      "file": "syntax_highlight.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
-    "createdAt": "2024-07-07T23:51:32Z",
-    "description": "Browse Hacker News in Neovim (WIP)",
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-26T17:48:48Z",
+    "description": "A Neovim plugin that dynamically displays hex colors in the buffer",
     "isArchived": false,
-    "lastCommit": "2025-01-13T21:20:25Z",
-    "nameWithOwner": "gnudad/hackernews.nvim",
+    "lastCommit": "2025-03-26T18:06:30Z",
+    "nameWithOwner": "Leonardo-Luz/showcolors.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "hackernews.nvim",
-  "owner": "gnudad",
-  "url": "https://github.com/gnudad/hackernews.nvim"
+  "name": "showcolors.nvim",
+  "owner": "Leonardo-Luz",
+  "url": "https://github.com/Leonardo-Luz/showcolors.nvim"
 }

@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Log"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-02-21T09:05:41Z",
+    "description": "Neovim runtime logger",
+    "isArchived": false,
+    "lastCommit": "2025-03-17T08:39:31Z",
+    "nameWithOwner": "wsdjeg/logger.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "logger.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/logger.nvim"
+}

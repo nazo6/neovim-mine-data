@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LICENSE"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-03-27T20:33:34Z",
+    "description": "spdx licence for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-27T20:34:19Z",
+    "nameWithOwner": "umbe77/spdx.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spdx.nvim",
+  "owner": "umbe77",
+  "url": "https://github.com/umbe77/spdx.nvim"
+}

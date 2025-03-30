@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "pydoc"
+          "name": "Syntax"
         },
         {
           "level": 3,
-          "name": "Mesone"
+          "name": "Colorscheme export"
         }
       ],
-      "file": "python.md",
+      "file": "syntax_highlight.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
-    "createdAt": "2024-12-22T16:41:11Z",
-    "description": null,
+    "commitCountLastYear": 6,
+    "createdAt": "2025-03-24T01:41:37Z",
+    "description": "Colorscheme editor for neovim",
     "isArchived": false,
-    "lastCommit": "2024-12-22T18:34:39Z",
-    "nameWithOwner": "NEOLabs-software/telescope-meson.nvim",
+    "lastCommit": "2025-03-24T03:01:37Z",
+    "nameWithOwner": "bhugoVilela/palette.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 0,
+    "star": 61,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "telescope-meson.nvim",
-  "owner": "NEOLabs-software",
-  "url": "https://github.com/NEOLabs-software/telescope-meson.nvim"
+  "name": "palette.nvim",
+  "owner": "bhugoVilela",
+  "url": "https://github.com/bhugoVilela/palette.nvim"
 }

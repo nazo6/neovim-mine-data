@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-03-21T10:27:36Z",
+    "description": "A NeoVim-Plugin to handle check-/task-/todo-lists directly in neovim. Including keeping track of When Tasks are started, finished or canceled",
+    "isArchived": false,
+    "lastCommit": "2025-03-21T10:56:19Z",
+    "nameWithOwner": "Rocco-Gossmann/nvim-tasklist",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "checklist",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "plugin",
+      "timetracking",
+      "todolist"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tasklist",
+  "owner": "Rocco-Gossmann",
+  "url": "https://github.com/Rocco-Gossmann/nvim-tasklist"
+}

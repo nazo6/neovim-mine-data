@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "typescript-go"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-03-21T14:47:20Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-21T14:49:28Z",
+    "nameWithOwner": "josa42/nvim-tsgo",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tsgo",
+  "owner": "josa42",
+  "url": "https://github.com/josa42/nvim-tsgo"
+}

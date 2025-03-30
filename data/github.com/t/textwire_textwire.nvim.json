@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Textwire"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-03-23T09:05:39Z",
+    "description": "Neovim plugin for Textwire syntax highlighting support and autocompletions",
+    "isArchived": false,
+    "lastCommit": "2025-03-28T19:54:36Z",
+    "nameWithOwner": "textwire/textwire.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "textwire"
+    ]
+  },
+  "domain": "github.com",
+  "name": "textwire.nvim",
+  "owner": "textwire",
+  "url": "https://github.com/textwire/textwire.nvim"
+}

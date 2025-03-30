@@ -4,7 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Tabl]letieu/graphql.nvim of Contents"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
@@ -34,22 +34,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 379,
+    "commitCountLastYear": 405,
     "createdAt": "2025-01-11T20:14:20Z",
     "description": "A code repository indexing tool to supercharge your LLM experience.",
     "isArchived": false,
-    "lastCommit": "2025-03-22T11:17:14Z",
+    "lastCommit": "2025-03-29T20:03:00Z",
     "nameWithOwner": "Davidyz/VectorCode",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 168,
+    "star": 199,
     "topics": [
       "neovim-plugin",
       "retrieval-augmented",
       "embeddings",
-      "rag"
+      "rag",
+      "mcp",
+      "mcp-server"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git commit"
+        },
+        {
+          "level": 3,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-03-22T17:56:12Z",
+    "description": "🧠 A neovim plugin to handle commit using AI",
+    "isArchived": false,
+    "lastCommit": "2025-03-26T03:21:27Z",
+    "nameWithOwner": "Abizrh/commit-ai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "ai",
+      "commit",
+      "git",
+      "llm",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "commit-ai.nvim",
+  "owner": "Abizrh",
+  "url": "https://github.com/Abizrh/commit-ai.nvim"
+}

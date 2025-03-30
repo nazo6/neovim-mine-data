@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "digraph"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-03-22T01:37:05Z",
+    "description": "A Neovim plugin for browsing and inserting digraphs.",
+    "isArchived": false,
+    "lastCommit": "2025-03-29T01:04:38Z",
+    "nameWithOwner": "srackham/digraph-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "digraph-picker.nvim",
+  "owner": "srackham",
+  "url": "https://github.com/srackham/digraph-picker.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lint"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-27T18:27:28Z",
+    "description": "Background health monitoring in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-28T18:36:50Z",
+    "nameWithOwner": "gisikw/vitals.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vitals.nvim",
+  "owner": "gisikw",
+  "url": "https://github.com/gisikw/vitals.nvim"
+}

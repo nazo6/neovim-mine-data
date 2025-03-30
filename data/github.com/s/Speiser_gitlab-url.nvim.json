@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitLab"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-03-24T15:40:52Z",
+    "description": "Navigate from a file in neovim to GitLab",
+    "isArchived": false,
+    "lastCommit": "2025-03-24T15:44:38Z",
+    "nameWithOwner": "Speiser/gitlab-url.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitlab-url.nvim",
+  "owner": "Speiser",
+  "url": "https://github.com/Speiser/gitlab-url.nvim"
+}

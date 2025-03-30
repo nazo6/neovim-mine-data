@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-03-24T04:25:59Z",
+    "description": "A small neovim plugin for creating a scratch copy of the current buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-03-24T05:06:06Z",
+    "nameWithOwner": "eth-p/nvim-clone-buffer",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-clone-buffer",
+  "owner": "eth-p",
+  "url": "https://github.com/eth-p/nvim-clone-buffer"
+}

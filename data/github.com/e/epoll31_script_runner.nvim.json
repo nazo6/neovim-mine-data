@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Task Runner"
+        },
+        {
+          "level": 2,
+          "name": "Config file style"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-21T20:52:44Z",
+    "description": "A NeoVim plugin to organize and run scripts on a per-project basis.",
+    "isArchived": false,
+    "lastCommit": "2025-03-21T20:57:42Z",
+    "nameWithOwner": "epoll31/script_runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "script_runner.nvim",
+  "owner": "epoll31",
+  "url": "https://github.com/epoll31/script_runner.nvim"
+}

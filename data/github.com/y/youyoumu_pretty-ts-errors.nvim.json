@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "tsc(TypeScript compiler)"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-03-22T07:02:36Z",
+    "description": "🔴 Make TypeScript errors prettier and human-readable in Neovim 🎀",
+    "isArchived": false,
+    "lastCommit": "2025-03-24T05:11:44Z",
+    "nameWithOwner": "youyoumu/pretty-ts-errors.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pretty-ts-errors.nvim",
+  "owner": "youyoumu",
+  "url": "https://github.com/youyoumu/pretty-ts-errors.nvim"
+}

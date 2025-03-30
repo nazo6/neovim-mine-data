@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        },
+        {
+          "level": 4,
+          "name": "Project Root Detector"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-03-25T16:49:29Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-26T23:28:11Z",
+    "nameWithOwner": "paperhero-repo/find-project-root.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "find-project-root.nvim",
+  "owner": "paperhero-repo",
+  "url": "https://github.com/paperhero-repo/find-project-root.nvim"
+}

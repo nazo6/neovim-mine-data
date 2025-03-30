@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2025-03-27T22:15:29Z",
+    "description": "Bridging the gap between your code editor and your code collaboration platform.",
+    "isArchived": false,
+    "lastCommit": "2025-03-30T01:33:26Z",
+    "nameWithOwner": "jangraefen/open-repo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "github",
+      "gitlab",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-repo.nvim",
+  "owner": "jangraefen",
+  "url": "https://github.com/jangraefen/open-repo.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-03-26T13:16:30Z",
+    "description": "open-nvim-terminal",
+    "isArchived": false,
+    "lastCommit": "2025-03-27T01:09:22Z",
+    "nameWithOwner": "littlewhi/shit-terminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "nvim-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "shit-terminal.nvim",
+  "owner": "littlewhi",
+  "url": "https://github.com/littlewhi/shit-terminal.nvim"
+}

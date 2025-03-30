@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2025-03-25T04:41:51Z",
+    "description": "Async bi-directional note link tree builder for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-27T13:10:20Z",
+    "nameWithOwner": "pxwg/note-tree.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "note-taking",
+      "rust-lang"
+    ]
+  },
+  "domain": "github.com",
+  "name": "note-tree.nvim",
+  "owner": "pxwg",
+  "url": "https://github.com/pxwg/note-tree.nvim"
+}

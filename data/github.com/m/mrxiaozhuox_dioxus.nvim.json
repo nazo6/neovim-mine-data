@@ -8,38 +8,38 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
+          "name": "Rust"
         },
         {
           "level": 3,
-          "name": "Cloud"
+          "name": "Framework"
         },
         {
           "level": 4,
-          "name": "Terraform"
+          "name": "Dioxus"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "rust.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
-    "createdAt": "2025-01-05T07:32:06Z",
-    "description": null,
+    "commitCountLastYear": 10,
+    "createdAt": "2025-03-27T00:07:48Z",
+    "description": "Dioxus Neovim Plugin",
     "isArchived": false,
-    "lastCommit": "2025-01-05T13:14:42Z",
-    "nameWithOwner": "danielyaba/terraform.nvim",
+    "lastCommit": "2025-03-30T04:41:31Z",
+    "nameWithOwner": "mrxiaozhuox/dioxus.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "terraform.nvim",
-  "owner": "danielyaba",
-  "url": "https://github.com/danielyaba/terraform.nvim"
+  "name": "dioxus.nvim",
+  "owner": "mrxiaozhuox",
+  "url": "https://github.com/mrxiaozhuox/dioxus.nvim"
 }

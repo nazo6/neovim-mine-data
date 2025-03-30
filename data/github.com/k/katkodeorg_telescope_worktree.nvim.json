@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-03-26T07:15:36Z",
+    "description": "Telescope extension to create git worktrees from local or remote branches",
+    "isArchived": false,
+    "lastCommit": "2025-03-28T08:58:41Z",
+    "nameWithOwner": "katkodeorg/telescope_worktree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "git",
+      "lua",
+      "neovim",
+      "nvim",
+      "telescope-plugin",
+      "git-worktre",
+      "telescope-ex"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope_worktree.nvim",
+  "owner": "katkodeorg",
+  "url": "https://github.com/katkodeorg/telescope_worktree.nvim"
+}

@@ -42,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 24,
     "createdAt": "2024-10-23T06:16:59Z",
     "description": "An ESLint plugin for Neovim, using VSCode ESLint LSP and native nvim LSP client",
     "isArchived": false,
-    "lastCommit": "2025-02-09T00:14:04Z",
+    "lastCommit": "2025-03-27T05:30:21Z",
     "nameWithOwner": "esmuellert/nvim-eslint",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 44,
+    "star": 45,
     "topics": [
       "eslint",
       "lua",

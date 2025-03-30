@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-22T10:05:12Z",
+    "description": "Simple Neovim plugin for managing floating terminal instances",
+    "isArchived": false,
+    "lastCommit": "2025-03-26T04:32:21Z",
+    "nameWithOwner": "dpi0/fim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "float",
+      "neovim",
+      "nvim",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fim.nvim",
+  "owner": "dpi0",
+  "url": "https://github.com/dpi0/fim.nvim"
+}

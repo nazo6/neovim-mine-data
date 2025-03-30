@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 40,
     "createdAt": "2024-03-30T08:35:42Z",
     "description": "Refine nvim-cmp completion behavior by applying useful filtering and sorting for candidates from Rust Analyzer. (Won't cause side effects on other cmp sources)",
     "isArchived": false,

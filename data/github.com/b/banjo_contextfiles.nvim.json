@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File (.cursor)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-03-22T17:03:26Z",
+    "description": "📄 Utility extension to get all project files for your AI assistant",
+    "isArchived": false,
+    "lastCommit": "2025-03-27T19:37:39Z",
+    "nameWithOwner": "banjo/contextfiles.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "contextfiles.nvim",
+  "owner": "banjo",
+  "url": "https://github.com/banjo/contextfiles.nvim"
+}

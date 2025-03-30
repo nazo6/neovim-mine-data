@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Select"
+        },
+        {
+          "level": 2,
+          "name": "Multi Cursor"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2018-12-16T16:26:24Z",
+    "description": "iedit mode for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-16T14:42:38Z",
+    "nameWithOwner": "wsdjeg/iedit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "iedit.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/iedit.nvim"
+}

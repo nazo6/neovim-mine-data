@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2025-03-22T01:21:25Z",
+    "description": "Minimal ToDo list for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-29T02:35:02Z",
+    "nameWithOwner": "bearded-giant/Do-It.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Do-It.nvim",
+  "owner": "bearded-giant",
+  "url": "https://github.com/bearded-giant/Do-It.nvim"
+}

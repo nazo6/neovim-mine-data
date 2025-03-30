@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "GitHub"
+        },
+        {
+          "level": 2,
+          "name": "Issue"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2025-03-24T17:02:54Z",
+    "description": "A Neovim plugin that allows you to create GitHub issues directly from comments.",
+    "isArchived": false,
+    "lastCommit": "2025-03-28T14:07:50Z",
+    "nameWithOwner": "OwlfaceGames/issue-from-comment.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "lua",
+      "neovim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "issue-from-comment.nvim",
+  "owner": "OwlfaceGames",
+  "url": "https://github.com/OwlfaceGames/issue-from-comment.nvim"
+}

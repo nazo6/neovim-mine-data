@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Spell"
+        },
+        {
+          "level": 4,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-03-21T10:59:07Z",
+    "description": "A Neovim plugin that leverages Large Language Models (LLMs) via LangChain to check grammar and typos, rewrite text, and summarize content in your buffers.",
+    "isArchived": false,
+    "lastCommit": "2025-03-24T09:30:35Z",
+    "nameWithOwner": "ljsalvatierra/squire.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "squire.nvim",
+  "owner": "ljsalvatierra",
+  "url": "https://github.com/ljsalvatierra/squire.nvim"
+}

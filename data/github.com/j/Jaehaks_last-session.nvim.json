@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-03-23T09:23:35Z",
+    "description": "Save and Load sessions without `:mksessions`",
+    "isArchived": false,
+    "lastCommit": "2025-03-23T15:24:00Z",
+    "nameWithOwner": "Jaehaks/last-session.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "last-session.nvim",
+  "owner": "Jaehaks",
+  "url": "https://github.com/Jaehaks/last-session.nvim"
+}

@@ -13,20 +13,34 @@
       ],
       "file": "git-github.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2023-04-03T05:11:13Z",
     "description": "Show diff automatically when git rebase",
     "isArchived": false,
-    "lastCommit": "2023-05-24T21:32:15Z",
+    "lastCommit": "2025-03-29T06:31:31Z",
     "nameWithOwner": "yutkat/git-rebase-auto-diff.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 18,
     "topics": [
       "neovim-plugin"
     ]

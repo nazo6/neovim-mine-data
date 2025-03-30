@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line"
+        },
+        {
+          "level": 3,
+          "name": "GUID"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-26T20:39:49Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-03-26T20:42:29Z",
+    "nameWithOwner": "jinwood/nvim-guid",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-guid",
+  "owner": "jinwood",
+  "url": "https://github.com/jinwood/nvim-guid"
+}

@@ -20,18 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 35,
     "createdAt": "2025-03-19T00:06:02Z",
-    "description": "A Neovim plugin to enhance gf, gF, and provide target-based file hopping.",
+    "description": "A Neovim plugin to enhance gf/gF with look ahead and provide target-based file hopping.",
     "isArchived": false,
-    "lastCommit": "2025-03-20T19:11:42Z",
+    "lastCommit": "2025-03-27T21:47:50Z",
     "nameWithOwner": "HawkinsT/pathfinder.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 39,
+    "star": 40,
     "topics": [
+      "lua",
+      "navigation",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

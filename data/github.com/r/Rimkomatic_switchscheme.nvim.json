@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-03-23T08:59:40Z",
+    "description": "A plugin made with lua to help you get all those beautiful color schemes   ",
+    "isArchived": false,
+    "lastCommit": "2025-03-23T15:03:35Z",
+    "nameWithOwner": "Rimkomatic/switchscheme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-theme",
+      "neovim-theme-lua",
+      "theme",
+      "theme-switcher",
+      "colorscheme",
+      "lazyvim",
+      "lazyvim-setup",
+      "telescope-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "switchscheme.nvim",
+  "owner": "Rimkomatic",
+  "url": "https://github.com/Rimkomatic/switchscheme.nvim"
+}

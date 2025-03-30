@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 24,
     "createdAt": "2025-03-05T22:59:11Z",
-    "description": null,
+    "description": "A Neovim plugin that helps manage, prioritize, and categorize to-do items in your Markdown lists.",
     "isArchived": false,
-    "lastCommit": "2025-03-13T23:53:45Z",
+    "lastCommit": "2025-03-30T03:15:37Z",
     "nameWithOwner": "hamidzr/task-manager.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,9 @@
     },
     "star": 1,
     "topics": [
+      "markdown",
+      "neovim",
+      "task-manager"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-03-21T13:44:25Z",
+    "description": "A Neovim plugin for taking notes.",
+    "isArchived": false,
+    "lastCommit": "2025-03-24T11:32:18Z",
+    "nameWithOwner": "matteotagliatti/notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes.nvim",
+  "owner": "matteotagliatti",
+  "url": "https://github.com/matteotagliatti/notes.nvim"
+}

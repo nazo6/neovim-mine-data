@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Git"
+        },
+        {
+          "level": 2,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-03-23T16:30:36Z",
+    "description": "A Neovim plugin that leverages Telescope to display files from `git status`, providing a quick view of your current working files.",
+    "isArchived": false,
+    "lastCommit": "2025-03-23T20:27:12Z",
+    "nameWithOwner": "victorvf/simple-git-status.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-git-status.nvim",
+  "owner": "victorvf",
+  "url": "https://github.com/victorvf/simple-git-status.nvim"
+}

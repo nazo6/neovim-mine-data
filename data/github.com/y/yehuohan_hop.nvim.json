@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "htop"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2021-07-21T17:59:39Z",
+    "description": "Fork & rewrite of hop.nvim (Neovim motions on speed!)",
+    "isArchived": false,
+    "lastCommit": "2025-03-27T15:08:42Z",
+    "nameWithOwner": "yehuohan/hop.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hop.nvim",
+  "owner": "yehuohan",
+  "url": "https://github.com/yehuohan/hop.nvim"
+}

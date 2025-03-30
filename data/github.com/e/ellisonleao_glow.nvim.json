@@ -2,28 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Documentation"
-        },
-        {
-          "level": 3,
-          "name": "Markdown"
-        },
-        {
-          "level": 4,
-          "name": "Markdown preview"
-        },
-        {
-          "level": 5,
-          "name": "Glow"
-        }
       ],
-      "file": "documentation.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -56,7 +36,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1337,
+    "star": 1339,
     "topics": [
       "neovim",
       "lua",
