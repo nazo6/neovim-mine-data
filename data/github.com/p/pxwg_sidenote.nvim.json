@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "mark note"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 56,
+    "createdAt": "2025-04-01T16:39:38Z",
+    "description": "Generate and manage your sidenotes in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-04-05T17:36:46Z",
+    "nameWithOwner": "pxwg/sidenote.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "note-managment",
+      "note-taking",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sidenote.nvim",
+  "owner": "pxwg",
+  "url": "https://github.com/pxwg/sidenote.nvim"
+}

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -30,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 21,
     "createdAt": "2022-01-01T15:50:03Z",
     "description": "Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.",
     "isArchived": false,
-    "lastCommit": "2025-01-31T16:12:45Z",
+    "lastCommit": "2025-04-13T08:30:54Z",
     "nameWithOwner": "rebelot/heirline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1115,
+    "star": 1127,
     "topics": [
       "neovim",
       "statusline",

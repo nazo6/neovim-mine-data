@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "FuzzyFinder"
         }
       ],
@@ -12,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 5,
     "createdAt": "2020-10-14T17:08:09Z",
-    "description": "Fuzzy picker & vim.ui.select implementation via fzy for neovim",
-    "isArchived": false,
-    "lastCommit": "2025-03-26T19:16:29Z",
+    "description": "Moved to codeberg - Fuzzy picker & vim.ui.select implementation via fzy for neovim",
+    "isArchived": true,
+    "lastCommit": "2025-04-09T15:18:42Z",
     "nameWithOwner": "mfussenegger/nvim-fzy",
     "primaryLanguage": {
       "color": "#000080",

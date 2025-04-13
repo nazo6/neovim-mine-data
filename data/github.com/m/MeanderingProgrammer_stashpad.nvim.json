@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-04-02T06:51:17Z",
+    "description": "Plugin for storing scratch notes based on git info",
+    "isArchived": false,
+    "lastCommit": "2025-04-03T22:51:22Z",
+    "nameWithOwner": "MeanderingProgrammer/stashpad.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stashpad.nvim",
+  "owner": "MeanderingProgrammer",
+  "url": "https://github.com/MeanderingProgrammer/stashpad.nvim"
+}

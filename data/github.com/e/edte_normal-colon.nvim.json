@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Keymap"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Key"
+          "name": "Keymap"
         },
         {
           "level": 3,
+          "name": "Key"
+        },
+        {
+          "level": 4,
           "name": "Command mode"
         }
       ],
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 8,
     "topics": [
     ]
   },

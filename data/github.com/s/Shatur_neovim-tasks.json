@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Config file style"
+          "name": "Task Runner"
         },
         {
           "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
           "name": "Lua"
         }
       ],
@@ -34,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 6,
     "createdAt": "2022-09-10T14:46:27Z",
     "description": "A statefull task manager focused on integration with build systems.",
     "isArchived": false,
-    "lastCommit": "2025-02-17T17:24:42Z",
+    "lastCommit": "2025-04-13T09:49:00Z",
     "nameWithOwner": "Shatur/neovim-tasks",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 113,
+    "star": 115,
     "topics": [
       "cargo",
       "cmake",

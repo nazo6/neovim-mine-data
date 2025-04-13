@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Select"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Select"
+        },
+        {
+          "level": 3,
           "name": "Multi Cursor"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 7,
     "createdAt": "2023-07-01T13:11:46Z",
     "description": "A multi cursor plugin for Neovim.",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 584,
+    "star": 585,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "MySQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-07T17:08:19Z",
+    "description": "An SQL Server plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-10T09:43:28Z",
+    "nameWithOwner": "Kurren123/mssql.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mssql.nvim",
+  "owner": "Kurren123",
+  "url": "https://github.com/Kurren123/mssql.nvim"
+}

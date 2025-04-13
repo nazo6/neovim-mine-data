@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mode"
+        },
+        {
+          "level": 3,
+          "name": "Mode Viewer"
+        }
+      ],
+      "file": "mode.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-31T16:08:09Z",
+    "description": "Show your mode in your gutter",
+    "isArchived": false,
+    "lastCommit": "2025-03-31T16:09:56Z",
+    "nameWithOwner": "trippwill/guttermode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "guttermode.nvim",
+  "owner": "trippwill",
+  "url": "https://github.com/trippwill/guttermode.nvim"
+}

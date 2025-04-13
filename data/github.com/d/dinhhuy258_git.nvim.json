@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Git"
         }
       ],
@@ -12,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2021-08-16T04:49:38Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2024-06-23T10:09:31Z",
+    "lastCommit": "2025-04-11T14:51:49Z",
     "nameWithOwner": "dinhhuy258/git.nvim",
     "primaryLanguage": {
       "color": "#000080",

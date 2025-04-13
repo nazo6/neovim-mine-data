@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Filer"
         }
       ],
@@ -26,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 3,
     "createdAt": "2023-09-10T17:42:30Z",
     "description": "Neovim plugin for terminal file manager integration",
     "isArchived": false,
@@ -36,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 85,
+    "star": 89,
     "topics": [
     ]
   },

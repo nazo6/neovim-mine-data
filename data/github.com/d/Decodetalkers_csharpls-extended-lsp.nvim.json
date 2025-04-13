@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Language specific"
         },
         {
           "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
           "name": "C#"
         }
       ],
@@ -20,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 57,
+    "commitCountLastYear": 63,
     "createdAt": "2022-03-08T11:43:20Z",
     "description": "decompile for csharp_ls",
     "isArchived": false,
-    "lastCommit": "2025-03-27T07:22:12Z",
+    "lastCommit": "2025-04-11T14:00:27Z",
     "nameWithOwner": "Decodetalkers/csharpls-extended-lsp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 65,
+    "star": 67,
     "topics": [
     ]
   },

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Keymap"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
           "name": "instant mapping"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 20,
     "createdAt": "2024-06-24T22:35:17Z",
     "description": "Neovim plugin for key mappings sessions",
     "isArchived": false,
-    "lastCommit": "2025-03-30T08:00:38Z",
+    "lastCommit": "2025-04-04T01:07:11Z",
     "nameWithOwner": "shmerl/session-keys",
     "primaryLanguage": {
       "color": "#000080",

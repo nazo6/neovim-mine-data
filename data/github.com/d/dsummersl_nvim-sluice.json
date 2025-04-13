@@ -18,10 +18,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
           "name": "git status"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 67,
+    "commitCountLastYear": 52,
     "createdAt": "2020-12-01T14:24:15Z",
     "description": "Signs gutter macro view for neovim",
     "isArchived": false,

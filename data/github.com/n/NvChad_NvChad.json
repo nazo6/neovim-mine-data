@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Neovim Distribution"
         }
       ],
@@ -26,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 66,
+    "commitCountLastYear": 65,
     "createdAt": "2021-03-07T14:33:17Z",
     "description": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
     "isArchived": false,
-    "lastCommit": "2025-01-13T06:42:24Z",
+    "lastCommit": "2025-04-08T13:19:35Z",
     "nameWithOwner": "NvChad/NvChad",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 25832,
+    "star": 25924,
     "topics": [
       "nvim",
       "neovim",

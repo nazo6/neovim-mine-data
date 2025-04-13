@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-04-01T10:08:25Z",
+    "description": "A minimalist plugin to interact with CLIs of programming languages.",
+    "isArchived": false,
+    "lastCommit": "2025-04-01T14:58:09Z",
+    "nameWithOwner": "max607/nvim-terminal-send",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "ide",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-terminal-send",
+  "owner": "max607",
+  "url": "https://github.com/max607/nvim-terminal-send"
+}

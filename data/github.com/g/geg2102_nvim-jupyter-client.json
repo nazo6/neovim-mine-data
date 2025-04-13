@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "pydoc"
+          "name": "pyenv"
         },
         {
           "level": 3,
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 21,
     "createdAt": "2024-11-19T17:42:45Z",
     "description": "Edit ipynb files (jupyter notebooks) directly in neovim, natively leveraging existing python setup.",
     "isArchived": false,
-    "lastCommit": "2025-02-12T14:26:14Z",
+    "lastCommit": "2025-04-08T16:40:42Z",
     "nameWithOwner": "geg2102/nvim-jupyter-client",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 29,
+    "star": 32,
     "topics": [
       "neovim-plugin"
     ]

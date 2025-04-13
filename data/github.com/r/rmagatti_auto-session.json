@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Session"
         }
       ],
@@ -26,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 357,
+    "commitCountLastYear": 350,
     "createdAt": "2021-01-30T14:21:06Z",
     "description": "A small automated session manager for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-16T14:53:16Z",
+    "lastCommit": "2025-04-10T04:57:50Z",
     "nameWithOwner": "rmagatti/auto-session",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1473,
+    "star": 1494,
     "topics": [
       "neovim",
       "hacktoberfest",

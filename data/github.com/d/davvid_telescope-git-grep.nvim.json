@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
           "name": "git grep"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 24,
     "createdAt": "2023-06-13T08:49:10Z",
     "description": "Neovim Telescope extension for searching using \"git grep\"",
     "isArchived": false,
-    "lastCommit": "2025-02-26T06:08:48Z",
+    "lastCommit": "2025-04-04T04:39:32Z",
     "nameWithOwner": "davvid/telescope-git-grep.nvim",
     "primaryLanguage": {
       "color": "#000080",

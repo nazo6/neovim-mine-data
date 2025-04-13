@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
           "name": "Command style"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 52,
+    "commitCountLastYear": 101,
     "createdAt": "2025-02-16T09:31:24Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-03-20T17:58:21Z",
+    "lastCommit": "2025-04-12T12:26:02Z",
     "nameWithOwner": "suvasanket/oz.nvim",
     "primaryLanguage": {
       "color": "#000080",

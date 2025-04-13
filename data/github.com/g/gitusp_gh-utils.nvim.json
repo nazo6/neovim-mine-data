@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GitHub"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
           "name": "Features like gh"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 52,
+    "commitCountLastYear": 55,
     "createdAt": "2025-03-21T06:45:42Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-03-26T14:26:40Z",
+    "lastCommit": "2025-04-04T04:51:20Z",
     "nameWithOwner": "gitusp/gh-utils.nvim",
     "primaryLanguage": {
       "color": "#000080",

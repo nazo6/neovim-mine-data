@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Filer"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
           "name": "Simple"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 1,
     "createdAt": "2020-09-18T20:26:55Z",
     "description": "WIP",
     "isArchived": false,

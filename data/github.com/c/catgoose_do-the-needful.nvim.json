@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Config file style"
+          "name": "Task Runner"
         },
         {
           "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
           "name": "Lua"
         }
       ],
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 6,
     "createdAt": "2023-04-06T01:56:27Z",
     "description": "Neovim task runner that uses tmux windows to do the needful please",
     "isArchived": false,

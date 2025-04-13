@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Filer"
         }
       ],
@@ -26,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 38,
+    "commitCountLastYear": 39,
     "createdAt": "2023-07-09T22:13:36Z",
     "description": "Directory browser plugin for Neovim, inspired by Ranger",
     "isArchived": false,
-    "lastCommit": "2024-11-16T13:11:47Z",
+    "lastCommit": "2025-04-04T18:19:55Z",
     "nameWithOwner": "simonmclean/triptych.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 216,
+    "star": 220,
     "topics": [
       "neovim",
       "nvim",

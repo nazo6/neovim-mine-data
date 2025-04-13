@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Religion"
+        },
+        {
+          "level": 3,
+          "name": "Bible"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-04-11T04:08:11Z",
+    "description": "plugin for neovim that displays a daily bible verse on your dashboard",
+    "isArchived": false,
+    "lastCommit": "2025-04-11T19:21:31Z",
+    "nameWithOwner": "AidanAlr/daily-bible.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "daily-bible.nvim",
+  "owner": "AidanAlr",
+  "url": "https://github.com/aidanalr/daily-bible.nvim"
+}

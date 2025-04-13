@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-04-08T07:42:29Z",
+    "description": "Simple per-directory Todo for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-08T07:44:21Z",
+    "nameWithOwner": "dpi0/doo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "fzf-lua",
+      "neovim",
+      "neovim-plugin",
+      "todo"
+    ]
+  },
+  "domain": "github.com",
+  "name": "doo.nvim",
+  "owner": "dpi0",
+  "url": "https://github.com/dpi0/doo.nvim"
+}

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Filer"
         }
       ],
@@ -26,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 3,
     "createdAt": "2022-12-09T08:48:19Z",
     "description": "The simple directory tree viewer for Neovim written in Lua",
     "isArchived": false,
@@ -36,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 61,
+    "star": 63,
     "topics": [
       "file-explorer",
       "lua",

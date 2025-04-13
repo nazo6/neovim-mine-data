@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Filer"
         }
       ],
@@ -12,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 1,
     "createdAt": "2023-07-13T10:44:47Z",
     "description": "File manager inside Neovim",
     "isArchived": false,

@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-03-30T07:15:28Z",
+    "description": "Put neovim messages into the quickfix list by a single command.",
+    "isArchived": false,
+    "lastCommit": "2025-03-30T08:28:06Z",
+    "nameWithOwner": "whisperpine/quickfix-messages.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quickfix-messages.nvim",
+  "owner": "whisperpine",
+  "url": "https://github.com/whisperpine/quickfix-messages.nvim"
+}

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Session"
         }
       ],
@@ -12,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 22,
     "createdAt": "2025-02-07T01:10:44Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-03-06T22:27:20Z",
+    "lastCommit": "2025-04-04T21:39:23Z",
     "nameWithOwner": "tkachenkosi/msession.nvim",
     "primaryLanguage": {
       "color": "#000080",

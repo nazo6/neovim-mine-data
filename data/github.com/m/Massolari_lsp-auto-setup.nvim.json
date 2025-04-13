@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 31,
     "createdAt": "2025-03-12T13:43:03Z",
     "description": "A Neovim plugin that automatically sets up language servers based on available executables",
     "isArchived": false,
-    "lastCommit": "2025-03-28T12:01:07Z",
+    "lastCommit": "2025-03-31T11:01:18Z",
     "nameWithOwner": "Massolari/lsp-auto-setup.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 21,
+    "star": 24,
     "topics": [
       "lua",
       "nvim",

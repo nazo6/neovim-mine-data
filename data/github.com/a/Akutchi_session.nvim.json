@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-07T17:56:13Z",
+    "description": "A little plugin for session restoration in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-08T14:31:28Z",
+    "nameWithOwner": "Akutchi/session.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "lunarvim",
+      "neovim",
+      "neovim-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "session.nvim",
+  "owner": "Akutchi",
+  "url": "https://github.com/Akutchi/session.nvim"
+}

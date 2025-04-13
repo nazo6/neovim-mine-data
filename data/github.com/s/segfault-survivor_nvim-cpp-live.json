@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Formatter"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-04-06T12:08:28Z",
+    "description": "Live C++ experience powered by Cut!",
+    "isArchived": false,
+    "lastCommit": "2025-04-06T12:20:34Z",
+    "nameWithOwner": "segfault-survivor/nvim-cpp-live",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cpp-live",
+  "owner": "segfault-survivor",
+  "url": "https://github.com/segfault-survivor/nvim-cpp-live"
+}

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Filer"
         }
       ],
@@ -12,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 11,
     "createdAt": "2023-11-29T08:25:43Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-01-13T14:16:47Z",
+    "lastCommit": "2025-04-03T10:19:22Z",
     "nameWithOwner": "refractalize/oil-git-status.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 86,
+    "star": 88,
     "topics": [
     ]
   },

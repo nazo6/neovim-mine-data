@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Config file style"
+          "name": "Task Runner"
         },
         {
           "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
           "name": "Lua"
         }
       ],
@@ -20,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 23,
     "createdAt": "2025-03-09T17:35:57Z",
     "description": "Run code from your snacks.scratch windows.",
     "isArchived": false,
-    "lastCommit": "2025-03-29T18:37:45Z",
+    "lastCommit": "2025-03-31T00:25:17Z",
     "nameWithOwner": "DestopLine/scratch-runner.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 17,
+    "star": 26,
     "topics": [
     ]
   },

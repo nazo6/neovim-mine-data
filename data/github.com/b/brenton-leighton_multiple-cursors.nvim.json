@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Select"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Select"
+        },
+        {
+          "level": 3,
           "name": "Multi Cursor"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 113,
+    "commitCountLastYear": 99,
     "createdAt": "2023-11-09T01:53:40Z",
     "description": "A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 325,
+    "star": 328,
     "topics": [
       "neovim",
       "multicursor",

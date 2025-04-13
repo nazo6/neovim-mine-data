@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Colorscheme"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Blue Base"
+          "name": "Colorscheme"
         },
         {
           "level": 3,
+          "name": "Blue Base"
+        },
+        {
+          "level": 4,
           "name": "Rose pine"
         }
       ],
@@ -38,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 54,
+    "commitCountLastYear": 52,
     "createdAt": "2021-05-18T16:16:46Z",
     "description": "Soho vibes for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-12T02:25:25Z",
+    "lastCommit": "2025-03-31T15:27:19Z",
     "nameWithOwner": "rose-pine/neovim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2551,
+    "star": 2577,
     "topics": [
       "theme",
       "neovim",

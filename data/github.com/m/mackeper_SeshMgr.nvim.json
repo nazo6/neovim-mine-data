@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Session"
         }
       ],
@@ -12,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 1,
     "createdAt": "2024-03-13T20:07:57Z",
     "description": "Session management plugin for Neovim",
     "isArchived": false,

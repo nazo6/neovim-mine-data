@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Embedded Software"
+        },
+        {
+          "level": 4,
+          "name": "Arduino"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-08T08:35:18Z",
+    "description": "Tools for working with arduino boards in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-10T13:41:43Z",
+    "nameWithOwner": "ctorney/arduino-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "arduino-tools.nvim",
+  "owner": "ctorney",
+  "url": "https://github.com/ctorney/arduino-tools.nvim"
+}

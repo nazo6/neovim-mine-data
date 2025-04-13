@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "git commit"
+          "name": "Git"
         },
         {
           "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
           "name": "AI commit"
         }
       ],
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 9,
     "topics": [
       "ai",
       "commit",

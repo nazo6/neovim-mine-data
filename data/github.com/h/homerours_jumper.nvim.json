@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "FuzzyFinder"
         }
       ],
@@ -12,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 35,
+    "commitCountLastYear": 33,
     "createdAt": "2024-01-07T22:29:19Z",
     "description": "A Neovim plugin for jumper, to jump efficiently to files and folders.",
     "isArchived": false,

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GitHub"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
           "name": "Star"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 35,
+    "commitCountLastYear": 33,
     "createdAt": "2024-03-25T00:51:19Z",
     "description": "Automatically star all the Neovim plugins you use.",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 100,
+    "star": 101,
     "topics": [
       "neovim-plugin"
     ]

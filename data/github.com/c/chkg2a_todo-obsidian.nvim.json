@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-07T10:35:49Z",
+    "description": "Todo obsidian is a neovim plugin to integrate todo list with the obsidian.nvim plugin.",
+    "isArchived": false,
+    "lastCommit": "2025-04-08T07:29:10Z",
+    "nameWithOwner": "chkg2a/todo-obsidian.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "obsidian",
+      "todo"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-obsidian.nvim",
+  "owner": "chkg2a",
+  "url": "https://github.com/chkg2a/todo-obsidian.nvim"
+}

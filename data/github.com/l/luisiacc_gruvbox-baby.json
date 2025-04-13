@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Colorscheme"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Warm Color Base"
+          "name": "Colorscheme"
         },
         {
           "level": 3,
+          "name": "Warm Color Base"
+        },
+        {
+          "level": 4,
           "name": "Gruvbox"
         }
       ],
@@ -48,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 413,
+    "star": 417,
     "topics": [
       "vim",
       "vim-theme",

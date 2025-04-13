@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-02T14:11:55Z",
+    "description": "A minimal external command launcher for Neovim with Telescope, Fidget, and nvim-notify integration.",
+    "isArchived": false,
+    "lastCommit": "2025-04-02T15:04:39Z",
+    "nameWithOwner": "PatWie/ignition.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ignition.nvim",
+  "owner": "PatWie",
+  "url": "https://github.com/PatWie/ignition.nvim"
+}

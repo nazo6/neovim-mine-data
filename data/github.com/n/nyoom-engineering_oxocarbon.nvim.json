@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Colorscheme"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Blue Base"
+          "name": "Colorscheme"
         },
         {
           "level": 3,
+          "name": "Blue Base"
+        },
+        {
+          "level": 4,
           "name": "Carbon"
         }
       ],
@@ -48,7 +52,7 @@
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 1285,
+    "star": 1310,
     "topics": [
       "neovim",
       "neovim-colorscheme",

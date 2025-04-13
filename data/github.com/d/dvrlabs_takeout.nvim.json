@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Keymap"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Improve Mappings"
+          "name": "Keymap"
         },
         {
           "level": 3,
+          "name": "Improve Mappings"
+        },
+        {
+          "level": 4,
           "name": "Repeatable"
         }
       ],
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 18,
     "createdAt": "2024-03-05T09:54:13Z",
     "description": "Dot-Repeat for any keymap.",
     "isArchived": false,

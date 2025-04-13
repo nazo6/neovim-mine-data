@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Auto generate colorscheme"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-04-07T19:44:58Z",
+    "description": "A toolkit for achieving a consistent appearance in your terminal",
+    "isArchived": false,
+    "lastCommit": "2025-04-09T20:14:38Z",
+    "nameWithOwner": "mattia-marini/silk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "silk.nvim",
+  "owner": "mattia-marini",
+  "url": "https://github.com/mattia-marini/silk.nvim"
+}

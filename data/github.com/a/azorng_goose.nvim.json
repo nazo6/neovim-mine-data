@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Goose"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-03-01T13:09:26Z",
+    "description": "seamless neovim integration with goose - work with a powerful AI agent without leaving your editor",
+    "isArchived": false,
+    "lastCommit": "2025-04-13T08:56:01Z",
+    "nameWithOwner": "azorng/goose.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 39,
+    "topics": [
+      "agent",
+      "ai",
+      "goose",
+      "nvim",
+      "nvim-plugin",
+      "cursor",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "goose.nvim",
+  "owner": "azorng",
+  "url": "https://github.com/azorng/goose.nvim"
+}

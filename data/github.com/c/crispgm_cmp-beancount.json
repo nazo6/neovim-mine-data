@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Language specific"
         },
         {
           "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
           "name": "Beancount"
         }
       ],
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 3,
     "createdAt": "2021-09-27T10:35:52Z",
     "description": "nvim-cmp source for beancount accounts",
     "isArchived": false,

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Session"
         }
       ],
@@ -12,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 8,
     "createdAt": "2025-03-23T09:23:35Z",
     "description": "Save and Load sessions without `:mksessions`",
     "isArchived": false,
-    "lastCommit": "2025-03-23T15:24:00Z",
+    "lastCommit": "2025-04-05T13:05:42Z",
     "nameWithOwner": "Jaehaks/last-session.nvim",
     "primaryLanguage": {
       "color": "#000080",

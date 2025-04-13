@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Config file style"
+          "name": "Task Runner"
         },
         {
           "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
           "name": "Lua"
         }
       ],
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 3,
     "createdAt": "2024-02-10T16:44:45Z",
     "description": null,
     "isArchived": false,

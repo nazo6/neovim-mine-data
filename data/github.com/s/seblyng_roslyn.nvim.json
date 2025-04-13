@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Language specific"
         },
         {
           "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
           "name": "C#"
         }
       ],
@@ -20,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 252,
+    "commitCountLastYear": 255,
     "createdAt": "2024-05-06T18:30:40Z",
     "description": "Roslyn LSP plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-28T16:37:46Z",
+    "lastCommit": "2025-04-12T15:35:15Z",
     "nameWithOwner": "seblyng/roslyn.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 385,
+    "star": 409,
     "topics": [
     ]
   },

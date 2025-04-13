@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GitHub"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
           "name": "Features like gh"
         }
       ],
@@ -34,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 349,
+    "commitCountLastYear": 360,
     "createdAt": "2020-09-26T21:32:31Z",
     "description": "Edit and review GitHub issues and pull requests from the comfort of your favorite editor",
     "isArchived": false,
-    "lastCommit": "2025-03-28T07:13:12Z",
+    "lastCommit": "2025-04-11T21:32:58Z",
     "nameWithOwner": "pwntester/octo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2622,
+    "star": 2643,
     "topics": [
       "neovim",
       "github",

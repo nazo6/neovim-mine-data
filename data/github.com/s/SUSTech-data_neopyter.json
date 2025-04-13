@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "pydoc"
+          "name": "pyenv"
         },
         {
           "level": 3,
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 61,
+    "commitCountLastYear": 60,
     "createdAt": "2024-01-02T08:08:14Z",
     "description": "The  bridge between Neovim and Jupyterlab",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 110,
+    "star": 112,
     "topics": [
       "jupyter",
       "jupyterlab",

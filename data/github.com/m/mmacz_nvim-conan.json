@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Library Manager"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-04-10T22:00:54Z",
+    "description": "Conan: C/C++ package manager wrapper written in Lua for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-12T00:02:00Z",
+    "nameWithOwner": "mmacz/nvim-conan",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-conan",
+  "owner": "mmacz",
+  "url": "https://github.com/mmacz/nvim-conan"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-03-31T10:28:06Z",
+    "description": "Emacs keybindings for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-31T11:12:15Z",
+    "nameWithOwner": "chachacollins/emacs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "emacs.nvim",
+  "owner": "chachacollins",
+  "url": "https://github.com/chachacollins/emacs.nvim"
+}

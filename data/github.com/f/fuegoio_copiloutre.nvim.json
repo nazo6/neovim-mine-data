@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Copilot"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-07T13:41:20Z",
+    "description": "Github Copilot but with your own model.",
+    "isArchived": false,
+    "lastCommit": "2025-04-07T15:08:30Z",
+    "nameWithOwner": "fuegoio/copiloutre.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copiloutre.nvim",
+  "owner": "fuegoio",
+  "url": "https://github.com/fuegoio/copiloutre.nvim"
+}

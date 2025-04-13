@@ -4,18 +4,22 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Language specific"
         },
         {
           "level": 3,
-          "name": "Scala"
+          "name": "Programing Language / Framework"
         },
         {
           "level": 4,
+          "name": "Scala"
+        },
+        {
+          "level": 5,
           "name": "ZIO"
         }
       ],
@@ -24,7 +28,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 0,
     "createdAt": "2024-03-17T22:14:17Z",
     "description": "Neovim plugin to ensure best coding practices for ZIO projects",
     "isArchived": false,

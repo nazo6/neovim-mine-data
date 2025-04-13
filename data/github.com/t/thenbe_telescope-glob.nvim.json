@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "FuzzyFinder"
         },
         {
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 7,
     "createdAt": "2024-04-10T15:30:44Z",
     "description": "Scope telescope pickers to specific glob patterns.",
     "isArchived": false,

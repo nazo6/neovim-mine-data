@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Keymap"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Key"
+          "name": "Keymap"
         },
         {
           "level": 3,
+          "name": "Key"
+        },
+        {
+          "level": 4,
           "name": "Cyrillic"
         }
       ],
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 7,
     "topics": [
       "i18n",
       "language-support",

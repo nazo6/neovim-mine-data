@@ -22,6 +22,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "FuzzyFinder"
         },
         {
@@ -48,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 207,
+    "star": 208,
     "topics": [
       "neovim",
       "lua",

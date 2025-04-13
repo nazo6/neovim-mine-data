@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         },
         {
-          "level": 3,
+          "level": 4,
           "name": "Special Features"
         }
       ],
@@ -44,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 480,
+    "star": 479,
     "topics": [
       "statusline",
       "neovim",

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Git"
         }
       ],
@@ -12,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2024-04-12T17:55:13Z",
     "description": "Neovim plugin written in lua for handling simple git tasks",
     "isArchived": false,

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-01T23:39:57Z",
+    "description": "A persistent scratchpad for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-02T00:16:12Z",
+    "nameWithOwner": "bearded-giant/Scratch-Giant.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Scratch-Giant.nvim",
+  "owner": "bearded-giant",
+  "url": "https://github.com/bearded-giant/Scratch-Giant.nvim"
+}

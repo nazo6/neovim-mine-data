@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Technical interviews"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 3,
           "name": "LeetCode"
         }
       ],
@@ -34,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 18,
     "createdAt": "2023-09-16T11:25:17Z",
     "description": "A Neovim plugin enabling you to solve LeetCode problems.",
     "isArchived": false,
@@ -44,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1424,
+    "star": 1455,
     "topics": [
       "leetcode",
       "lua",

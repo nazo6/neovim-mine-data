@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 9,
     "createdAt": "2024-09-23T15:25:55Z",
     "description": "A simple UI that can be used to ergonomically control the \"exception breakpoints\" feature of the debugger adapter protocol",
     "isArchived": false,
-    "lastCommit": "2024-09-23T18:54:29Z",
+    "lastCommit": "2025-04-04T05:59:18Z",
     "nameWithOwner": "lucaSartore/nvim-dap-exception-breakpoints",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 18,
+    "star": 19,
     "topics": [
       "debugging",
       "neovim-plugin",

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Session"
         }
       ],
@@ -26,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2022-12-12T12:02:12Z",
     "description": "Multi-tabs project session automation",
     "isArchived": false,
-    "lastCommit": "2023-05-11T15:23:31Z",
+    "lastCommit": "2025-04-13T09:46:19Z",
     "nameWithOwner": "nyngwang/suave.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 66,
+    "star": 67,
     "topics": [
       "lua",
       "neovim",

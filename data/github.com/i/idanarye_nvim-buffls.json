@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 21,
     "createdAt": "2022-11-18T17:19:32Z",
     "description": "Add LSP functionality to specific Neovim buffers",
     "isArchived": false,
-    "lastCommit": "2025-01-14T21:02:37Z",
+    "lastCommit": "2025-03-31T10:55:18Z",
     "nameWithOwner": "idanarye/nvim-buffls",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9,
+    "star": 10,
     "topics": [
       "lsp-server",
       "lua",

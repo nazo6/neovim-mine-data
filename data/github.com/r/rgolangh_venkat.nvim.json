@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Config file style"
+          "name": "Task Runner"
         },
         {
           "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
           "name": "Lua"
         }
       ],
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 2,
     "createdAt": "2024-03-23T17:55:35Z",
     "description": "nvim plugin to execute on save main source files",
     "isArchived": false,

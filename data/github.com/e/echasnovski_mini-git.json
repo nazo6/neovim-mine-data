@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Git"
         }
       ],
@@ -12,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 27,
+    "commitCountLastYear": 29,
     "createdAt": "2024-05-21T14:46:39Z",
     "description": "Git integration. Part of 'mini.nvim' library. ",
     "isArchived": false,
-    "lastCommit": "2025-03-27T11:47:01Z",
+    "lastCommit": "2025-04-06T16:17:17Z",
     "nameWithOwner": "echasnovski/mini-git",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 49,
+    "star": 50,
     "topics": [
       "lua",
       "mini-nvim",

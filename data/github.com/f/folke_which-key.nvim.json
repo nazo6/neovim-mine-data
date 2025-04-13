@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Keymap"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
           "name": "Mapping search"
         }
       ],
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6013,
+    "star": 6074,
     "topics": [
       "neovim",
       "neovim-plugin",

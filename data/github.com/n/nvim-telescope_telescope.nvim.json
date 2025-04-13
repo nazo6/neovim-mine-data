@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "FuzzyFinder"
         }
       ],
@@ -26,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 98,
+    "commitCountLastYear": 95,
     "createdAt": "2020-07-15T04:04:58Z",
     "description": "Find, Filter, Preview, Pick. All lua, all the time.",
     "isArchived": false,
@@ -36,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 17158,
+    "star": 17262,
     "topics": [
       "neovim",
       "lua",

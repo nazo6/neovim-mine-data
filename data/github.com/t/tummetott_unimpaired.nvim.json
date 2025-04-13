@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Keymap"
         }
       ],
@@ -26,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 5,
     "createdAt": "2022-12-27T15:11:04Z",
     "description": "LUA port of tpope's famous vim-unimpaired plugin",
     "isArchived": false,
@@ -36,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 97,
+    "star": 98,
     "topics": [
       "neovim-plugin",
       "nvim",

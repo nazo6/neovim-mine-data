@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Competitive programming"
         }
       ],
@@ -12,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2025-03-02T14:25:00Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-03-02T14:38:38Z",
+    "lastCommit": "2025-04-06T13:00:41Z",
     "nameWithOwner": "Z-xus/dsa_io.nvim",
     "primaryLanguage": {
       "color": "#000080",

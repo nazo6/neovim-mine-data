@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GUI"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GUI"
+        },
+        {
+          "level": 3,
           "name": "Go"
         }
       ],
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 69,
+    "commitCountLastYear": 71,
     "createdAt": "2017-10-16T12:29:07Z",
     "description": "A GUI frontend for neovim.",
     "isArchived": false,
-    "lastCommit": "2025-03-23T02:55:10Z",
+    "lastCommit": "2025-04-12T03:39:45Z",
     "nameWithOwner": "akiyosi/goneovim",
     "primaryLanguage": {
       "color": "#00ADD8",
       "name": "Go"
     },
-    "star": 2467,
+    "star": 2480,
     "topics": [
       "neovim",
       "neovim-guis",

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Grep"
         }
       ],
@@ -12,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2023-02-13T08:58:13Z",
     "description": "Neovim plugin. Telescope.nvim extension that adds directory picker for builtin commands.",
     "isArchived": false,

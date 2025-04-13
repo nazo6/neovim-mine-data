@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Technical interviews"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 3,
           "name": "exercism"
         }
       ],
@@ -34,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 27,
+    "commitCountLastYear": 32,
     "createdAt": "2024-11-14T03:54:21Z",
     "description": "Exercism Meets Neovim 💪🧠",
     "isArchived": false,
-    "lastCommit": "2025-02-23T13:39:41Z",
+    "lastCommit": "2025-03-30T20:46:09Z",
     "nameWithOwner": "2KAbhishek/exercism.nvim",
     "primaryLanguage": {
       "color": "#000080",

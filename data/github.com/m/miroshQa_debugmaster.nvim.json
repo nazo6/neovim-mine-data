@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 105,
+    "createdAt": "2025-03-10T14:38:52Z",
+    "description": "dap-view on steroids with the new neovim mode - DEBUG MODE",
+    "isArchived": false,
+    "lastCommit": "2025-04-08T12:05:09Z",
+    "nameWithOwner": "miroshQa/debugmaster.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "debugging",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "debugmaster.nvim",
+  "owner": "miroshQa",
+  "url": "https://github.com/miroshQa/debugmaster.nvim"
+}

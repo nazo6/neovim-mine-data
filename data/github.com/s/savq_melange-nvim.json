@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Colorscheme"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Black Base"
+          "name": "Colorscheme"
         },
         {
           "level": 3,
+          "name": "Black Base"
+        },
+        {
+          "level": 4,
           "name": "Melange"
         }
       ],
@@ -48,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 808,
+    "star": 818,
     "topics": [
       "nvim",
       "neovim",

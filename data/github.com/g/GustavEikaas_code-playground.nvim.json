@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
           "name": "Auto detect style"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 23,
+    "commitCountLastYear": 24,
     "createdAt": "2024-08-13T15:30:17Z",
     "description": "Code playground for neovim inspired by typescript playground",
     "isArchived": false,
-    "lastCommit": "2025-03-29T08:57:57Z",
+    "lastCommit": "2025-04-03T18:11:32Z",
     "nameWithOwner": "GustavEikaas/code-playground.nvim",
     "primaryLanguage": {
       "color": "#000080",

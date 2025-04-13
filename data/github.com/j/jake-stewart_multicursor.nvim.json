@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Select"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Select"
+        },
+        {
+          "level": 3,
           "name": "Multi Cursor"
         }
       ],
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 297,
+    "commitCountLastYear": 298,
     "createdAt": "2024-08-25T10:42:18Z",
     "description": "multiple cursors in neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-24T22:16:24Z",
+    "lastCommit": "2025-04-11T23:51:53Z",
     "nameWithOwner": "jake-stewart/multicursor.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 915,
+    "star": 949,
     "topics": [
       "multicursor",
       "neovim",

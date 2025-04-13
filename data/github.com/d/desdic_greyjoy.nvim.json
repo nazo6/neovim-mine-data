@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Config file style"
+          "name": "Task Runner"
         },
         {
           "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
           "name": "Lua"
         }
       ],
@@ -34,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 54,
+    "commitCountLastYear": 59,
     "createdAt": "2022-09-08T11:11:44Z",
     "description": "Launcher for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-02-14T11:40:17Z",
+    "lastCommit": "2025-04-05T07:24:13Z",
     "nameWithOwner": "desdic/greyjoy.nvim",
     "primaryLanguage": {
       "color": "#000080",

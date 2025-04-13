@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GUI"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GUI"
+        },
+        {
+          "level": 3,
           "name": "Rust"
         }
       ],
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 182,
+    "commitCountLastYear": 191,
     "createdAt": "2019-12-06T20:51:39Z",
     "description": "No Nonsense Neovim Client in Rust",
     "isArchived": false,
-    "lastCommit": "2025-03-27T10:09:51Z",
+    "lastCommit": "2025-04-06T12:57:58Z",
     "nameWithOwner": "neovide/neovide",
     "primaryLanguage": {
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 13809,
+    "star": 13870,
     "topics": [
       "neovim",
       "rust",

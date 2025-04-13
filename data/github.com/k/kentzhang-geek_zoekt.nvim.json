@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Grep"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Grep"
+        },
+        {
+          "level": 3,
           "name": "Zoket(google)"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 4,
     "createdAt": "2025-03-16T05:45:34Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-03-16T05:53:52Z",
+    "lastCommit": "2025-04-11T00:09:33Z",
     "nameWithOwner": "kentzhang-geek/zoekt.nvim",
     "primaryLanguage": {
       "color": "#000080",

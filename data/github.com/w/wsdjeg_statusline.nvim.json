@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -12,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 11,
     "createdAt": "2025-02-19T14:07:06Z",
     "description": "module statusline plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-02T15:05:27Z",
+    "lastCommit": "2025-04-04T10:02:15Z",
     "nameWithOwner": "wsdjeg/statusline.nvim",
     "primaryLanguage": {
       "color": "#000080",

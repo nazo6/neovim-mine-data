@@ -17,20 +17,38 @@
       ],
       "file": "neovim-lua-library.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Web Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 72,
+    "commitCountLastYear": 80,
     "createdAt": "2024-09-09T03:13:02Z",
     "description": "Easy to use HTTP client plugin for neovim.  Same syntax as IntelliJ HTTP client  ",
     "isArchived": false,
-    "lastCommit": "2025-01-26T22:00:26Z",
+    "lastCommit": "2025-04-08T19:10:27Z",
     "nameWithOwner": "heilgar/nvim-http-client",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10,
+    "star": 12,
     "topics": [
       "http-client",
       "lua",

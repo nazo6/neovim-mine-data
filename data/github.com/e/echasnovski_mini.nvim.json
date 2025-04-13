@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Neovim Distribution"
         }
       ],
@@ -12,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 631,
+    "commitCountLastYear": 635,
     "createdAt": "2021-06-18T08:43:57Z",
     "description": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
     "isArchived": false,
-    "lastCommit": "2025-03-29T14:00:45Z",
+    "lastCommit": "2025-04-12T11:56:44Z",
     "nameWithOwner": "echasnovski/mini.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6908,
+    "star": 7021,
     "topics": [
       "neovim",
       "lua",

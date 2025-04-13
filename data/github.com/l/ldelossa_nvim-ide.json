@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Neovim Distribution"
         }
       ],
@@ -26,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 10,
     "createdAt": "2022-09-04T15:11:39Z",
     "description": "A full featured IDE layer for Neovim. Heavily inspired by VSCode.",
     "isArchived": false,
@@ -36,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 854,
+    "star": 853,
     "topics": [
     ]
   },

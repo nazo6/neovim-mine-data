@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Filer"
         }
       ],
@@ -12,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 63,
+    "commitCountLastYear": 64,
     "createdAt": "2023-06-22T12:28:09Z",
     "description": "Navigate and manipulate file system. Part of 'mini.nvim' library.",
     "isArchived": false,
-    "lastCommit": "2025-03-27T11:47:01Z",
+    "lastCommit": "2025-04-01T14:27:06Z",
     "nameWithOwner": "echasnovski/mini.files",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 357,
+    "star": 370,
     "topics": [
       "lua",
       "mini-nvim",

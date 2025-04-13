@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Filer"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
           "name": "Network File Manager"
         }
       ],
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 351,
+    "star": 350,
     "topics": [
       "lua",
       "neovim",

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Filer"
         }
       ],
@@ -26,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 93,
+    "commitCountLastYear": 94,
     "createdAt": "2021-12-12T13:38:23Z",
     "description": "Neovim plugin to manage the file system and other tree like structures.",
     "isArchived": false,
-    "lastCommit": "2025-03-27T20:14:09Z",
+    "lastCommit": "2025-04-09T10:05:22Z",
     "nameWithOwner": "nvim-neo-tree/neo-tree.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4376,
+    "star": 4433,
     "topics": [
       "neovim",
       "file-explorer",

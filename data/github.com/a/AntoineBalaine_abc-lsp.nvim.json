@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Tidal"
+        },
+        {
+          "level": 4,
+          "name": "ABC Notation"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-04-01T13:50:31Z",
+    "description": "ABC music notation in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-02T19:55:38Z",
+    "nameWithOwner": "AntoineBalaine/abc-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "abc-lsp.nvim",
+  "owner": "AntoineBalaine",
+  "url": "https://github.com/AntoineBalaine/abc-lsp.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Religion"
+        },
+        {
+          "level": 3,
+          "name": "Judaism"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-04-08T21:39:58Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-04-11T17:46:32Z",
+    "nameWithOwner": "sammyshear/sefaria.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "sefaria-api"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sefaria.nvim",
+  "owner": "sammyshear",
+  "url": "https://github.com/sammyshear/sefaria.nvim"
+}

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Filer"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
           "name": "Emacs style"
         }
       ],
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 154,
+    "star": 159,
     "topics": [
       "neovim-plugin"
     ]

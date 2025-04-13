@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hint"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2025-03-29T10:46:48Z",
+    "description": "Interactive with inalyhint",
+    "isArchived": false,
+    "lastCommit": "2025-04-07T13:22:44Z",
+    "nameWithOwner": "saying121/interactive-inlay-hint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "inaly-hints",
+      "lsp-client",
+      "lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "interactive-inlay-hint.nvim",
+  "owner": "saying121",
+  "url": "https://github.com/saying121/interactive-inlay-hint.nvim"
+}

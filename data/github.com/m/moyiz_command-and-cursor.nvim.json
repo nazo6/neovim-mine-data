@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 6,
     "createdAt": "2024-04-03T19:52:46Z",
     "description": "Highlight cursor and visual selections in current buffer when entering command mode.",
     "isArchived": false,
-    "lastCommit": "2024-04-18T12:44:44Z",
+    "lastCommit": "2025-03-30T10:59:00Z",
     "nameWithOwner": "moyiz/command-and-cursor.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 18,
+    "star": 19,
     "topics": [
       "neovim",
       "neovim-plugin",

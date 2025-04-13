@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-04-09T19:22:23Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-04-09T20:44:27Z",
+    "nameWithOwner": "foskaos/nvim-tmux-uv",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tmux-uv",
+  "owner": "foskaos",
+  "url": "https://github.com/foskaos/nvim-tmux-uv"
+}

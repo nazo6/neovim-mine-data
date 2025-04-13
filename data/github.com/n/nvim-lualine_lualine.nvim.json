@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -30,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 43,
+    "commitCountLastYear": 51,
     "createdAt": "2020-12-30T14:35:10Z",
     "description": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
     "isArchived": false,
-    "lastCommit": "2025-03-27T08:29:38Z",
+    "lastCommit": "2025-04-12T18:34:14Z",
     "nameWithOwner": "nvim-lualine/lualine.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6817,
+    "star": 6886,
     "topics": [
       "neovim",
       "statusline",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Other Buffer Switcher"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-09-04T14:56:56Z",
+    "description": "Define and switch between alternate files",
+    "isArchived": false,
+    "lastCommit": "2025-04-07T01:56:51Z",
+    "nameWithOwner": "Dkendal/nvim-alternate",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-alternate",
+  "owner": "Dkendal",
+  "url": "https://github.com/Dkendal/nvim-alternate"
+}

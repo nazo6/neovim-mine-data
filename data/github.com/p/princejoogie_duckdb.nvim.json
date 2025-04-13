@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "DuckDB"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-04-04T07:21:55Z",
+    "description": "view csv, json, sql with duckdb cli",
+    "isArchived": false,
+    "lastCommit": "2025-04-04T08:49:11Z",
+    "nameWithOwner": "princejoogie/duckdb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "duckdb.nvim",
+  "owner": "princejoogie",
+  "url": "https://github.com/princejoogie/duckdb.nvim"
+}

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -12,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 29,
     "createdAt": "2022-10-24T16:29:00Z",
     "description": "Neovim Lua plugin with minimal and fast statusline. Part of 'mini.nvim' library.",
     "isArchived": false,
-    "lastCommit": "2025-03-25T12:04:32Z",
+    "lastCommit": "2025-04-07T14:20:10Z",
     "nameWithOwner": "echasnovski/mini.statusline",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 47,
+    "star": 52,
     "topics": [
       "lua",
       "mini-nvim",

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -12,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 9,
     "createdAt": "2023-11-28T13:47:07Z",
     "description": "This is a component which makes a status icon for copilot.lua",
     "isArchived": false,
-    "lastCommit": "2025-01-21T18:12:05Z",
+    "lastCommit": "2025-04-05T18:24:57Z",
     "nameWithOwner": "AndreM222/copilot-lualine",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 87,
+    "star": 91,
     "topics": [
       "component",
       "lua",

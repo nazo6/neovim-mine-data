@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -12,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 46,
+    "commitCountLastYear": 11,
     "createdAt": "2024-03-30T14:51:12Z",
     "description": "A LazyVim-style filename component for lualine.nvim.",
     "isArchived": false,

@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 14,
     "createdAt": "2024-12-13T14:22:24Z",
-    "description": "Adds a TODO comment at the current line in neovim",
+    "description": "Adds a TODO comment at the current cursor postition  in neovim",
     "isArchived": false,
-    "lastCommit": "2024-12-25T11:30:26Z",
+    "lastCommit": "2025-04-11T15:11:14Z",
     "nameWithOwner": "masamerc/procrastinate.nvim",
     "primaryLanguage": {
       "color": "#000080",

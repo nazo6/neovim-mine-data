@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Greek"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-09T13:32:00Z",
+    "description": "Neovim plugin to convert betacode to ancient Greek",
+    "isArchived": false,
+    "lastCommit": "2025-04-09T13:36:37Z",
+    "nameWithOwner": "utrumsit/betacode-to-unicode",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "betacode-to-unicode",
+  "owner": "utrumsit",
+  "url": "https://github.com/utrumsit/betacode-to-unicode"
+}

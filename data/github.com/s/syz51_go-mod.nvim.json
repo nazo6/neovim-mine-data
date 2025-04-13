@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "packages"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-03T01:17:30Z",
+    "description": "A Neovim plugin for checking and updating Go dependencies directly in your editor.",
+    "isArchived": false,
+    "lastCommit": "2025-04-03T01:15:15Z",
+    "nameWithOwner": "syz51/go-mod.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go-mod.nvim",
+  "owner": "syz51",
+  "url": "https://github.com/syz51/go-mod.nvim"
+}

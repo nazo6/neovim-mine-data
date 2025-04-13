@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-03-29T08:09:50Z",
+    "description": "Automatically run `go test` on save.",
+    "isArchived": false,
+    "lastCommit": "2025-04-05T07:33:40Z",
+    "nameWithOwner": "stroiman/gotest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gotest.nvim",
+  "owner": "stroiman",
+  "url": "https://github.com/stroiman/gotest.nvim"
+}

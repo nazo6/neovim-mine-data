@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GitHub"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
           "name": "Link"
         }
       ],
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 64,
+    "star": 63,
     "topics": [
       "git",
       "neovim",

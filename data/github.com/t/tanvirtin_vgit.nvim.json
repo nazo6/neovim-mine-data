@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
           "name": "git status"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 11,
     "createdAt": "2021-04-22T00:44:14Z",
     "description": "Visual git plugin for Neovim",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 734,
+    "star": 741,
     "topics": [
       "neovim",
       "git",

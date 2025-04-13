@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Filer"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
           "name": "Emacs style"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 69,
+    "commitCountLastYear": 102,
     "createdAt": "2025-01-04T11:57:16Z",
     "description": "dired + fp",
     "isArchived": false,
-    "lastCommit": "2025-02-24T10:03:43Z",
+    "lastCommit": "2025-04-13T06:04:56Z",
     "nameWithOwner": "nvimdev/dired.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
           "name": "git diff"
         }
       ],
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4489,
+    "star": 4537,
     "topics": [
       "neovim",
       "neovim-plugin",

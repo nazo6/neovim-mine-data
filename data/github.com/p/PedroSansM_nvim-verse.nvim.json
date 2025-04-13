@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "UEFN Verse"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 52,
+    "createdAt": "2025-04-10T02:48:22Z",
+    "description": "A neovim plugin for UEFN Verse development",
+    "isArchived": false,
+    "lastCommit": "2025-04-12T13:14:59Z",
+    "nameWithOwner": "PedroSansM/nvim-verse.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-verse.nvim",
+  "owner": "PedroSansM",
+  "url": "https://github.com/PedroSansM/nvim-verse.nvim"
+}

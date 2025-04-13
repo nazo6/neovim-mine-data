@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Colorscheme"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Blue Base"
+          "name": "Colorscheme"
         },
         {
           "level": 3,
+          "name": "Blue Base"
+        },
+        {
+          "level": 4,
           "name": "Nord"
         }
       ],
@@ -38,7 +42,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 15,
     "createdAt": "2021-07-20T23:19:53Z",
     "description": "🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",
     "isArchived": false,
@@ -48,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3426,
+    "star": 3452,
     "topics": [
       "neovim",
       "lua",

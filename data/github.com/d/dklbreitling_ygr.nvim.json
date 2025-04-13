@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-04-08T13:26:59Z",
+    "description": "ygr: Yoink Git Remote Links in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-08T15:09:32Z",
+    "nameWithOwner": "dklbreitling/ygr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ygr.nvim",
+  "owner": "dklbreitling",
+  "url": "https://github.com/dklbreitling/ygr.nvim"
+}

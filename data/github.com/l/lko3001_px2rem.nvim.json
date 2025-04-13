@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Pixel"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-03-28T22:33:43Z",
+    "description": "A lightweight Neovim plugin that seamlessly converts pixel (px) values to rem in CSS-related files. Integrated with completion plugins and featuring customizable mappings, this tool streamlines CSS unit conversions directly in your editor. Perfect for web developers looking to maintain consistent and responsive styling with minimal friction.",
+    "isArchived": false,
+    "lastCommit": "2025-03-28T22:34:04Z",
+    "nameWithOwner": "lko3001/px2rem.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "px2rem.nvim",
+  "owner": "lko3001",
+  "url": "https://github.com/lko3001/px2rem.nvim"
+}

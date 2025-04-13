@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Backup"
-        }
       ],
-      "file": "save_backup.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 1,
     "createdAt": "2023-05-08T16:11:29Z",
     "description": "Neovim local file history managed by git and Telescope",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-02-27T10:05:43Z",
     "nameWithOwner": "dawsers/telescope-file-history.nvim",
     "primaryLanguage": {

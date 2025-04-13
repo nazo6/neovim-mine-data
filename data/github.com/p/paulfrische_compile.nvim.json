@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
           "name": "Command style"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2024-03-03T10:51:34Z",
     "description": "compile like in emacs",
     "isArchived": false,

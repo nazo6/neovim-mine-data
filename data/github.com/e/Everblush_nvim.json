@@ -22,14 +22,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Colorscheme"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Warm Color Base"
+          "name": "Colorscheme"
         },
         {
           "level": 3,
+          "name": "Warm Color Base"
+        },
+        {
+          "level": 4,
           "name": "Everblush"
         }
       ],
@@ -48,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 256,
+    "star": 257,
     "topics": [
       "neovim",
       "everblush",

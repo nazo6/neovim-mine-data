@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
           "name": "worktree"
         }
       ],
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 12,
     "createdAt": "2025-03-10T21:07:26Z",
     "description": "worktrees.nvim makes it easy to create, delete, and switch between Git worktrees directly from Neovim. ",
     "isArchived": false,
-    "lastCommit": "2025-03-16T17:45:15Z",
+    "lastCommit": "2025-04-03T07:55:42Z",
     "nameWithOwner": "afonsofrancof/worktrees.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 18,
+    "star": 19,
     "topics": [
     ]
   },

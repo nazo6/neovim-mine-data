@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -12,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 112,
+    "commitCountLastYear": 114,
     "createdAt": "2025-02-05T20:34:22Z",
     "description": "Status line for Neovom",
     "isArchived": false,
-    "lastCommit": "2025-03-29T20:35:29Z",
+    "lastCommit": "2025-04-04T17:28:58Z",
     "nameWithOwner": "drgfunk/streamline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
     ]
   },

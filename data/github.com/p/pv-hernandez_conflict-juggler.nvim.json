@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
           "name": "git conflict"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 14,
     "createdAt": "2024-04-13T13:52:20Z",
     "description": "A tool to simplify merge conflicts in Neovim",
     "isArchived": false,

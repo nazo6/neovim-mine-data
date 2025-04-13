@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 22,
     "createdAt": "2024-04-08T14:28:41Z",
     "description": "📍Add git-prompt-string to your Neovim statusline!",
     "isArchived": false,

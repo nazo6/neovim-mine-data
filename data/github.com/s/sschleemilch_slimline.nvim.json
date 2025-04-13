@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -30,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 58,
+    "commitCountLastYear": 63,
     "createdAt": "2024-08-23T19:06:25Z",
     "description": "A minimal neovim statusline",
     "isArchived": false,
-    "lastCommit": "2025-03-09T20:21:12Z",
+    "lastCommit": "2025-04-01T12:45:05Z",
     "nameWithOwner": "sschleemilch/slimline.nvim",
     "primaryLanguage": {
       "color": "#000080",

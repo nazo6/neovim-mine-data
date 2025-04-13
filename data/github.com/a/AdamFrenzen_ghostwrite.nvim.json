@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 50,
+    "createdAt": "2025-03-31T01:28:25Z",
+    "description": "Deeply integrated Neovim AI code assistant. Powered by Ollama.",
+    "isArchived": false,
+    "lastCommit": "2025-04-08T01:29:55Z",
+    "nameWithOwner": "AdamFrenzen/ghostwrite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "ai-assisted-development",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "ollama"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ghostwrite.nvim",
+  "owner": "AdamFrenzen",
+  "url": "https://github.com/AdamFrenzen/ghostwrite.nvim"
+}

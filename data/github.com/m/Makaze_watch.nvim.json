@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
           "name": "Monitor"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 80,
+    "commitCountLastYear": 48,
     "createdAt": "2024-03-27T12:59:20Z",
     "description": "A scrollable `watch` alternative for Neovim.",
     "isArchived": false,

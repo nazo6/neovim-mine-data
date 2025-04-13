@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "MicroPython"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-06T16:23:07Z",
+    "description": "A Neovim plugin for embedded development with MicroPython.",
+    "isArchived": false,
+    "lastCommit": "2025-04-09T18:47:47Z",
+    "nameWithOwner": "iharkatkavets/micropython.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "micropython",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "micropython.nvim",
+  "owner": "iharkatkavets",
+  "url": "https://github.com/iharkatkavets/micropython.nvim"
+}

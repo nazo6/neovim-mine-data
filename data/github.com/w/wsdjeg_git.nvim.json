@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-04-03T14:12:55Z",
+    "description": "git.nvim is a plugin to use git command in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-12T07:36:10Z",
+    "nameWithOwner": "wsdjeg/git.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "git.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/git.nvim"
+}

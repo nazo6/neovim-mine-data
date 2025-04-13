@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-02T15:13:23Z",
+    "description": "Simplistic Neovim snippet manager",
+    "isArchived": false,
+    "lastCommit": "2025-04-02T15:25:53Z",
+    "nameWithOwner": "saccarosium/snipman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snipman.nvim",
+  "owner": "saccarosium",
+  "url": "https://github.com/saccarosium/snipman.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Religion"
+        },
+        {
+          "level": 3,
+          "name": "Bible"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-04-09T22:48:48Z",
+    "description": "A simple Neovim plugin to read Bible chapters and verses from json files",
+    "isArchived": false,
+    "lastCommit": "2025-04-11T14:20:51Z",
+    "nameWithOwner": "johnpgr/bible-reader.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bible-reader.nvim",
+  "owner": "johnpgr",
+  "url": "https://github.com/johnpgr/bible-reader.nvim"
+}

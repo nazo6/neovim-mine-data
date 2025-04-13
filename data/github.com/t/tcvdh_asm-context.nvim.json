@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "ASM"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-03-28T12:58:38Z",
+    "description": "Neovim plugin written in Lua to provide context-aware assembly code editing using Tree-sitter.",
+    "isArchived": false,
+    "lastCommit": "2025-03-28T13:28:10Z",
+    "nameWithOwner": "tcvdh/asm-context.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "asm-context.nvim",
+  "owner": "tcvdh",
+  "url": "https://github.com/tcvdh/asm-context.nvim"
+}

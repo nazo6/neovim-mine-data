@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-03-29T03:23:24Z",
+    "description": "Neovim plugin to make `gd` jump to FlatBuffer symbols instead of generated C++ symbols",
+    "isArchived": false,
+    "lastCommit": "2025-03-29T23:56:23Z",
+    "nameWithOwner": "jamespeilunli/nvim-flatbuffers",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-flatbuffers",
+  "owner": "jamespeilunli",
+  "url": "https://github.com/jamespeilunli/nvim-flatbuffers"
+}

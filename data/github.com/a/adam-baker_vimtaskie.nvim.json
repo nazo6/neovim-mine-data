@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-04-05T19:55:08Z",
+    "description": "lightweight task tracker plugin for neovim. ",
+    "isArchived": false,
+    "lastCommit": "2025-04-05T22:38:41Z",
+    "nameWithOwner": "adam-baker/vimtaskie.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vimtaskie.nvim",
+  "owner": "adam-baker",
+  "url": "https://github.com/adam-baker/vimtaskie.nvim"
+}

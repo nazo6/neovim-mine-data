@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
           "name": "git commit"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 7,
     "createdAt": "2022-11-10T18:36:18Z",
     "description": " A tree-sitter grammar for gitcommit messages ",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "star": 67,
+    "star": 68,
     "topics": [
       "git",
       "gitcommit",

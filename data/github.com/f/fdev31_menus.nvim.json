@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Menu"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-04-07T19:13:34Z",
+    "description": "Very simple menu system for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-08T06:40:16Z",
+    "nameWithOwner": "fdev31/menus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "menus.nvim",
+  "owner": "fdev31",
+  "url": "https://github.com/fdev31/menus.nvim"
+}

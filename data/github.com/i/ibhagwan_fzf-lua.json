@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "FuzzyFinder"
         }
       ],
@@ -26,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 615,
+    "commitCountLastYear": 609,
     "createdAt": "2021-07-11T03:16:56Z",
     "description": "Improved fzf.vim written in lua",
     "isArchived": false,
-    "lastCommit": "2025-03-30T01:43:39Z",
+    "lastCommit": "2025-04-12T02:14:22Z",
     "nameWithOwner": "ibhagwan/fzf-lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3126,
+    "star": 3201,
     "topics": [
       "fzf",
       "lua",

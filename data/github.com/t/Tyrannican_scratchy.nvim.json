@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-05T16:07:46Z",
+    "description": "Scratchpad to execute code snippets",
+    "isArchived": false,
+    "lastCommit": "2025-04-07T15:01:15Z",
+    "nameWithOwner": "Tyrannican/scratchy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratchy.nvim",
+  "owner": "Tyrannican",
+  "url": "https://github.com/Tyrannican/scratchy.nvim"
+}

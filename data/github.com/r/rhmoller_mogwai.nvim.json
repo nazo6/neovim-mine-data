@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-28T15:50:06Z",
+    "description": "A simple code assistant for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-03-28T16:09:37Z",
+    "nameWithOwner": "rhmoller/mogwai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mogwai.nvim",
+  "owner": "rhmoller",
+  "url": "https://github.com/rhmoller/mogwai.nvim"
+}

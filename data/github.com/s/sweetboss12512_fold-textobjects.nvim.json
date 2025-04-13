@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-03-29T23:34:44Z",
+    "description": "Select a fold range",
+    "isArchived": false,
+    "lastCommit": "2025-03-29T23:54:41Z",
+    "nameWithOwner": "sweetboss12512/fold-textobjects.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "text-object"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fold-textobjects.nvim",
+  "owner": "sweetboss12512",
+  "url": "https://github.com/sweetboss12512/fold-textobjects.nvim"
+}

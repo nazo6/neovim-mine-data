@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -14,6 +18,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Statusline"
         }
       ],
@@ -50,7 +58,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 187,
+    "star": 186,
     "topics": [
       "neovim-plugin",
       "statusline",

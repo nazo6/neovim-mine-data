@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Colorscheme"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Black Base"
+          "name": "Colorscheme"
         },
         {
           "level": 3,
+          "name": "Black Base"
+        },
+        {
+          "level": 4,
           "name": "Onedark"
         }
       ],
@@ -38,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 59,
+    "commitCountLastYear": 63,
     "createdAt": "2021-04-07T17:22:14Z",
     "description": "🎨 Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with variants",
     "isArchived": false,
-    "lastCommit": "2025-03-02T15:13:43Z",
+    "lastCommit": "2025-03-30T21:32:43Z",
     "nameWithOwner": "olimorris/onedarkpro.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 909,
+    "star": 912,
     "topics": [
       "neovim",
       "theme",

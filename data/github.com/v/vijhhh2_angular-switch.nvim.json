@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Angular"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-06T10:30:35Z",
+    "description": "Lua plugin to switch among template, styles, tests and typescript files",
+    "isArchived": false,
+    "lastCommit": "2025-04-06T17:21:10Z",
+    "nameWithOwner": "vijhhh2/angular-switch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "angular-switch.nvim",
+  "owner": "vijhhh2",
+  "url": "https://github.com/vijhhh2/angular-switch.nvim"
+}

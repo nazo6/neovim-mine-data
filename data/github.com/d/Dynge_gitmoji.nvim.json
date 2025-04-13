@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 6,
     "createdAt": "2023-10-23T16:51:08Z",
     "description": "Gitmojis for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-11-16T20:35:43Z",
+    "lastCommit": "2025-04-13T07:20:28Z",
     "nameWithOwner": "Dynge/gitmoji.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -29,7 +29,8 @@
     "star": 24,
     "topics": [
       "gitmoji",
-      "nvim-cmp"
+      "nvim-cmp",
+      "blink-cmp"
     ]
   },
   "domain": "github.com",

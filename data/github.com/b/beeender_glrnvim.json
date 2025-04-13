@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GUI"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GUI"
+        },
+        {
+          "level": 3,
           "name": "Rust"
         }
       ],
@@ -26,7 +30,7 @@
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 310,
+    "star": 309,
     "topics": [
       "neovim",
       "neovim-guis",

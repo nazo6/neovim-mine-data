@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
           "name": "Partial execution"
         }
       ],
@@ -40,7 +44,7 @@
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 1561,
+    "star": 1570,
     "topics": [
       "code",
       "neovim",

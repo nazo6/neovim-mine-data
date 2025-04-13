@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GUI"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GUI"
+        },
+        {
+          "level": 3,
           "name": "F"
         }
       ],
@@ -26,7 +30,7 @@
       "color": "#b845fc",
       "name": "F#"
     },
-    "star": 1357,
+    "star": 1360,
     "topics": [
       "neovim",
       "nvim",

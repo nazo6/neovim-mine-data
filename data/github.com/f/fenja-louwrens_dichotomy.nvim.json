@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Bisection"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-03-28T19:22:14Z",
+    "description": "A ✂️ sharp ✂️ lil NeoVim plugin for recursive divide-and-conquer movement.",
+    "isArchived": false,
+    "lastCommit": "2025-03-31T19:32:24Z",
+    "nameWithOwner": "fenja-louwrens/dichotomy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dichotomy.nvim",
+  "owner": "fenja-louwrens",
+  "url": "https://github.com/fenja-louwrens/dichotomy.nvim"
+}

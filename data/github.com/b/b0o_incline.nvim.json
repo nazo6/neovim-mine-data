@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Statusline"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
           "name": "Statusline component"
         }
       ],
@@ -34,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 8,
     "createdAt": "2022-04-08T04:33:45Z",
     "description": "🎈 Floating statuslines for Neovim, winbar alternative",
     "isArchived": false,
@@ -44,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 878,
+    "star": 883,
     "topics": [
       "nvim",
       "neovim",

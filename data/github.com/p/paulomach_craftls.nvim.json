@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Craft"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-01T14:39:18Z",
+    "description": "nvim plugin for craftls",
+    "isArchived": false,
+    "lastCommit": "2025-04-02T21:20:17Z",
+    "nameWithOwner": "paulomach/craftls.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "craftls.nvim",
+  "owner": "paulomach",
+  "url": "https://github.com/paulomach/craftls.nvim"
+}

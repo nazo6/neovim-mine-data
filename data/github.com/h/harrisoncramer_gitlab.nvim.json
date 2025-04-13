@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "GitLab"
         }
       ],
@@ -12,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 35,
+    "commitCountLastYear": 28,
     "createdAt": "2023-04-16T13:37:58Z",
     "description": "Manage Gitlab resources in Neovim",
     "isArchived": false,
@@ -22,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 286,
+    "star": 287,
     "topics": [
       "gitlab",
       "neovim",

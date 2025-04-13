@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Toy"
+        },
+        {
+          "level": 2,
+          "name": "Video"
+        },
+        {
+          "level": 3,
+          "name": "Screen Recording"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-04-06T14:08:11Z",
+    "description": "Neovim screen recording plugin",
+    "isArchived": false,
+    "lastCommit": "2025-04-11T13:31:02Z",
+    "nameWithOwner": "wsdjeg/record-screen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "record-screen.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/record-screen.nvim"
+}

@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "FuzzyFinder"
         }
       ],
@@ -12,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 57,
+    "commitCountLastYear": 59,
     "createdAt": "2023-10-13T08:19:36Z",
     "description": "Pick anything. Part of 'mini.nvim' library. ",
     "isArchived": false,
-    "lastCommit": "2025-03-27T11:47:03Z",
+    "lastCommit": "2025-04-11T12:49:16Z",
     "nameWithOwner": "echasnovski/mini.pick",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 69,
+    "star": 74,
     "topics": [
       "lua",
       "mini-nvim",

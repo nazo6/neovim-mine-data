@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Note Taking"
+        },
+        {
+          "level": 2,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-04-02T08:00:35Z",
+    "description": "Markdown-style notes & docs embedded in your code – beautifully rendered inside Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-04-09T20:08:20Z",
+    "nameWithOwner": "maniebra/nvim-xdoc",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "neovim-plugins",
+      "nvim",
+      "nvim-plugin",
+      "nvim-plugins",
+      "docs",
+      "documentation",
+      "neovim-documentation"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-xdoc",
+  "owner": "maniebra",
+  "url": "https://github.com/maniebra/nvim-xdoc"
+}

@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Language specific"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Programing Language / Framework"
+          "name": "Language specific"
         },
         {
           "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
           "name": "Moonbit"
         }
       ],
@@ -20,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 62,
+    "commitCountLastYear": 86,
     "createdAt": "2024-09-29T02:32:06Z",
     "description": "Neovim plugin for Moonbit",
     "isArchived": false,
-    "lastCommit": "2025-03-07T17:17:38Z",
+    "lastCommit": "2025-04-02T15:59:14Z",
     "nameWithOwner": "tonyfettes/moonbit.nvim",
     "primaryLanguage": {
       "color": "#000080",

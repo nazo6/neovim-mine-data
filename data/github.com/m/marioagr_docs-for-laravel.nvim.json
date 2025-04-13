@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "PHP"
+        },
+        {
+          "level": 3,
+          "name": "Laravel"
+        }
+      ],
+      "file": "php.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-03-28T23:23:32Z",
+    "description": "Download and view Laravel docs in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-02T15:41:41Z",
+    "nameWithOwner": "marioagr/docs-for-laravel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "docs-for-laravel.nvim",
+  "owner": "marioagr",
+  "url": "https://github.com/marioagr/docs-for-laravel.nvim"
+}

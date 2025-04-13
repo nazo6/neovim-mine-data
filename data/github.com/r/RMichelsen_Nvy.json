@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GUI"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GUI"
+        },
+        {
+          "level": 3,
           "name": "C++"
         }
       ],
@@ -26,7 +30,7 @@
       "color": "#f34b7d",
       "name": "C++"
     },
-    "star": 362,
+    "star": 361,
     "topics": [
       "cpp",
       "directwrite",

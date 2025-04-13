@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GUI"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GUI"
+        },
+        {
+          "level": 3,
           "name": "Rust"
         }
       ],
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 29,
     "createdAt": "2021-05-18T17:58:37Z",
     "description": "gtk ui for neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-10T08:06:52Z",
+    "lastCommit": "2025-04-01T05:43:27Z",
     "nameWithOwner": "Lyude/neovim-gtk",
     "primaryLanguage": {
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 167,
+    "star": 168,
     "topics": [
     ]
   },

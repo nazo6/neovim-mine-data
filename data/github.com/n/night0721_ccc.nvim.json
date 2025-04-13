@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Filer"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
           "name": "FuzzyFinder Style"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 0,
     "createdAt": "2024-04-06T23:26:20Z",
     "description": "Fork of fm-nvim, Neovim plugin that lets you use ccc and fnf within Neovim.",
     "isArchived": false,

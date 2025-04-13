@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Git"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
           "name": "Wrapper"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2025-03-18T13:07:54Z",
     "description": "Lua functions wrapping Git that I don't want to write twice",
     "isArchived": false,
-    "lastCommit": "2025-03-26T00:02:54Z",
+    "lastCommit": "2025-04-11T10:19:52Z",
     "nameWithOwner": "skeletony007/git-help.nvim",
     "primaryLanguage": {
       "color": "#000080",

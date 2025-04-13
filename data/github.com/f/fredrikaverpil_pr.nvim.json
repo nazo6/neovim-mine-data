@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GitHub"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
           "name": "Pull Request"
         }
       ],
@@ -18,10 +22,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GitHub"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
           "name": "Pull Request"
         }
       ],
@@ -30,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 53,
+    "commitCountLastYear": 55,
     "createdAt": "2024-12-07T16:01:02Z",
     "description": "View PR, related to line under cursor, in web browser.",
     "isArchived": false,
-    "lastCommit": "2025-03-23T21:49:46Z",
+    "lastCommit": "2025-04-10T12:07:33Z",
     "nameWithOwner": "fredrikaverpil/pr.nvim",
     "primaryLanguage": {
       "color": "#000080",

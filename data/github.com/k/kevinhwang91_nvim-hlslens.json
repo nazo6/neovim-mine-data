@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Search"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Search"
+        },
+        {
+          "level": 3,
           "name": "Search count"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 7,
     "createdAt": "2020-11-15T18:11:55Z",
     "description": "Hlsearch Lens for Neovim",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 811,
+    "star": 818,
     "topics": [
       "neovim",
       "nvim",

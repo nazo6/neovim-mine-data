@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "flow"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-03-30T05:55:08Z",
+    "description": "NVIM plugin for a smother coding flowing automating the saving/stage/commit workflows",
+    "isArchived": false,
+    "lastCommit": "2025-03-31T00:25:06Z",
+    "nameWithOwner": "omarcresp/smart-flow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-flow.nvim",
+  "owner": "omarcresp",
+  "url": "https://github.com/omarcresp/smart-flow.nvim"
+}

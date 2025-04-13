@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Colorscheme"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Blue Base"
+          "name": "Colorscheme"
         },
         {
           "level": 3,
+          "name": "Blue Base"
+        },
+        {
+          "level": 4,
           "name": "Tokyo Night"
         }
       ],
@@ -38,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 43,
+    "commitCountLastYear": 45,
     "createdAt": "2021-12-20T18:51:22Z",
     "description": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
     "isArchived": false,
-    "lastCommit": "2025-03-18T10:18:06Z",
+    "lastCommit": "2025-03-30T21:41:58Z",
     "nameWithOwner": "rebelot/kanagawa.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4800,
+    "star": 4989,
     "topics": [
       "neovim",
       "lsp",

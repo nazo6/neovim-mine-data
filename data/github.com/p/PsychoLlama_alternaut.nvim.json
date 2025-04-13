@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Other Buffer Switcher"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2020-01-31T20:46:59Z",
+    "description": "Jump between related files.",
+    "isArchived": false,
+    "lastCommit": "2025-04-02T22:26:45Z",
+    "nameWithOwner": "PsychoLlama/alternaut.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "vim-plugin",
+      "navigation",
+      "testing",
+      "tdd"
+    ]
+  },
+  "domain": "github.com",
+  "name": "alternaut.nvim",
+  "owner": "PsychoLlama",
+  "url": "https://github.com/PsychoLlama/alternaut.nvim"
+}

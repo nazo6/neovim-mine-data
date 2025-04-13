@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Task Runner"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Config file style"
+          "name": "Task Runner"
         },
         {
           "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
           "name": "Lua"
         }
       ],
@@ -20,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 387,
+    "commitCountLastYear": 416,
     "createdAt": "2023-10-15T19:44:38Z",
     "description": "A plugin for Neovim inspired by Emacs' Compilation Mode",
     "isArchived": false,
-    "lastCommit": "2025-01-24T13:51:22Z",
+    "lastCommit": "2025-04-02T11:55:20Z",
     "nameWithOwner": "ej-shafran/compile-mode.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 116,
+    "star": 123,
     "topics": [
     ]
   },

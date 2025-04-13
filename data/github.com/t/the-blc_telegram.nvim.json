@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
+        },
+        {
+          "level": 4,
+          "name": "Telegram"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-06T21:22:19Z",
+    "description": "A Telegram client for Neovim. WIP. NOT READY FOR USE.",
+    "isArchived": false,
+    "lastCommit": "2025-04-09T02:12:31Z",
+    "nameWithOwner": "the-blc/telegram.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telegram.nvim",
+  "owner": "the-blc",
+  "url": "https://github.com/the-blc/telegram.nvim"
+}

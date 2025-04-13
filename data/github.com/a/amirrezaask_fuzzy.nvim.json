@@ -4,6 +4,10 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "FuzzyFinder"
         }
       ],
@@ -15,14 +19,14 @@
     "commitCountLastYear": 0,
     "createdAt": "2020-10-06T12:30:33Z",
     "description": "Fuzzy matching for Neovim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2021-05-13T12:51:25Z",
     "nameWithOwner": "amirrezaask/fuzzy.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 53,
+    "star": 54,
     "topics": [
     ]
   },

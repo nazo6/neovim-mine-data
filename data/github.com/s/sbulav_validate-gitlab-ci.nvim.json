@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "GitLab"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "GitLab"
+        },
+        {
+          "level": 3,
           "name": "GitLab CI"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 2,
     "createdAt": "2024-04-12T12:35:29Z",
     "description": "Validate Gitlab pipeline",
     "isArchived": false,

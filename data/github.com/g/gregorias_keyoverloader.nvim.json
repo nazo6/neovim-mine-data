@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Keymap"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
           "name": "callback"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2024-04-08T17:59:36Z",
     "description": null,
     "isArchived": false,

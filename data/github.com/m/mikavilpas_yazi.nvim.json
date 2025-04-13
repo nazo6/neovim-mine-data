@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Filer"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "ranger"
+          "name": "Filer"
         },
         {
           "level": 3,
+          "name": "ranger"
+        },
+        {
+          "level": 4,
           "name": "yazi"
         }
       ],
@@ -34,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 701,
+    "commitCountLastYear": 676,
     "createdAt": "2024-02-25T13:33:19Z",
     "description": "A Neovim Plugin for the yazi terminal file manager",
     "isArchived": false,
-    "lastCommit": "2025-03-29T16:08:02Z",
+    "lastCommit": "2025-04-12T05:50:51Z",
     "nameWithOwner": "mikavilpas/yazi.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 904,
+    "star": 929,
     "topics": [
       "neovim",
       "plugin",
