@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 3,
+          "name": "LeetCode"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-04-18T21:28:00Z",
+    "description": "Leetcode Neovim Plugin",
+    "isArchived": false,
+    "lastCommit": "2025-04-20T03:10:02Z",
+    "nameWithOwner": "paulburgess1357/nvim-leetcode",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-leetcode",
+  "owner": "paulburgess1357",
+  "url": "https://github.com/paulburgess1357/nvim-leetcode"
+}

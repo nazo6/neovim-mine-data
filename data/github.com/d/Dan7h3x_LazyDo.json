@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "ToDo"
         }
       ],
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 43,
     "createdAt": "2025-01-02T13:58:36Z",
     "description": "A little smart todo/task manager made for `neovim` enthusiasts. ",
     "isArchived": false,
-    "lastCommit": "2025-04-11T10:49:32Z",
+    "lastCommit": "2025-04-13T13:20:33Z",
     "nameWithOwner": "Dan7h3x/LazyDo",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 91,
+    "star": 92,
     "topics": [
       "neovim",
       "neovim-plugin",

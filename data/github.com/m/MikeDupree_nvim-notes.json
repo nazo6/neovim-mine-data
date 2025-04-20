@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-04-17T04:48:15Z",
+    "description": "A simple and fast Neovim plugin to manage your personal notes — from *anywhere* in your editor",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T17:25:45Z",
+    "nameWithOwner": "MikeDupree/nvim-notes",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-notes",
+  "owner": "MikeDupree",
+  "url": "https://github.com/MikeDupree/nvim-notes"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenRouter"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-04-15T13:21:12Z",
+    "description": "nvim terminal ui for llm chat cli app",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T12:18:02Z",
+    "nameWithOwner": "duboisf/chatter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chatter.nvim",
+  "owner": "duboisf",
+  "url": "https://github.com/duboisf/chatter.nvim"
+}

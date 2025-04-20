@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-04-17T01:30:40Z",
+    "description": "Faster LaTeX conceal for neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T01:29:48Z",
+    "nameWithOwner": "pxwg/latex-conceal.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "latex-conceal.nvim",
+  "owner": "pxwg",
+  "url": "https://github.com/pxwg/latex-conceal.nvim"
+}

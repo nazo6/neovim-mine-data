@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Hide comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-04-12T18:43:56Z",
+    "description": "Hide comments, focus on the code flow, and reveal them if needed 🧘",
+    "isArchived": false,
+    "lastCommit": "2025-04-20T09:54:25Z",
+    "nameWithOwner": "soemre/commentless.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commentless.nvim",
+  "owner": "soemre",
+  "url": "https://github.com/soemre/commentless.nvim"
+}

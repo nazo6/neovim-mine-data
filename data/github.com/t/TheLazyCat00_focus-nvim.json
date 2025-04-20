@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-04-02T09:39:50Z",
+    "description": "Neovim plugin for automatically folding pre defined structures.",
+    "isArchived": false,
+    "lastCommit": "2025-04-19T10:19:11Z",
+    "nameWithOwner": "TheLazyCat00/focus-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "focus-nvim",
+  "owner": "TheLazyCat00",
+  "url": "https://github.com/TheLazyCat00/focus-nvim"
+}

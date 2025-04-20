@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "MS Word"
+        }
+      ],
+      "file": "office-tools.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-04-15T22:01:35Z",
+    "description": "Sync MS Word and vim",
+    "isArchived": false,
+    "lastCommit": "2025-04-15T22:26:33Z",
+    "nameWithOwner": "marromlam/nvim-docx",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-docx",
+  "owner": "marromlam",
+  "url": "https://github.com/marromlam/nvim-docx"
+}

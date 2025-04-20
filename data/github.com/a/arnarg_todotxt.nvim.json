@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Note Taking"
-        },
-        {
-          "level": 2,
-          "name": "ToDo"
-        }
       ],
-      "file": "note-taking.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -26,7 +18,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 65,
+    "star": 66,
     "topics": [
       "neovim",
       "lua",

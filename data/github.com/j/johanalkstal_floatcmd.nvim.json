@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-15T15:09:09Z",
+    "description": "Simple floating command line for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-15T15:32:32Z",
+    "nameWithOwner": "johanalkstal/floatcmd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floatcmd.nvim",
+  "owner": "johanalkstal",
+  "url": "https://github.com/johanalkstal/floatcmd.nvim"
+}

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "Obsidian"
         }
       ],
@@ -30,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 125,
+    "commitCountLastYear": 123,
     "createdAt": "2025-02-28T17:13:06Z",
     "description": "Obsidian 🤝 Neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-13T03:59:50Z",
+    "lastCommit": "2025-04-19T14:57:54Z",
     "nameWithOwner": "obsidian-nvim/obsidian.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 157,
+    "star": 321,
     "topics": [
     ]
   },

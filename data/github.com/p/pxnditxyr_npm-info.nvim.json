@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Task Runner"
+        },
+        {
+          "level": 4,
+          "name": "npm"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-13T17:12:36Z",
+    "description": "🖥️📦 Real-time npm dependency insights in Neovim! ⚡🔍 Track versions|alerts|stability directly in package.json 🚨📌 Powered by Treesitter + Node.js 🧩🐼✨",
+    "isArchived": false,
+    "lastCommit": "2025-04-14T00:41:05Z",
+    "nameWithOwner": "pxnditxyr/npm-info.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "npm-info.nvim",
+  "owner": "pxnditxyr",
+  "url": "https://github.com/pxnditxyr/npm-info.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Statusline component"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-17T19:54:05Z",
+    "description": "A statusline utility plugin",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T22:26:24Z",
+    "nameWithOwner": "adriankarlen/stl-util.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stl-util.nvim",
+  "owner": "adriankarlen",
+  "url": "https://github.com/adriankarlen/stl-util.nvim"
+}

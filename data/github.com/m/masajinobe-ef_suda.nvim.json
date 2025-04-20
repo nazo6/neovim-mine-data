@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "sudo"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-14T20:51:05Z",
+    "description": "Seamless sudo file editing with permissions preservation",
+    "isArchived": false,
+    "lastCommit": "2025-04-14T22:44:51Z",
+    "nameWithOwner": "masajinobe-ef/suda.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lazy",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "sudo",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "suda.nvim",
+  "owner": "masajinobe-ef",
+  "url": "https://github.com/masajinobe-ef/suda.nvim"
+}

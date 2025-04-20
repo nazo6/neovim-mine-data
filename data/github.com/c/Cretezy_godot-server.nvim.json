@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Godot"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-16T19:59:22Z",
+    "description": "Integrate Godot editor and Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-18T22:21:37Z",
+    "nameWithOwner": "Cretezy/godot-server.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "godot",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "godot-server.nvim",
+  "owner": "Cretezy",
+  "url": "https://github.com/Cretezy/godot-server.nvim"
+}

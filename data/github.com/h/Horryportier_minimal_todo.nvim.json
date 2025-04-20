@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "ToDo"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2024-04-15T20:16:10Z",
     "description": "supper minimal todo living in the corner of your screen",
     "isArchived": false,

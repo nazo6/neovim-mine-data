@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-17T16:36:13Z",
+    "description": "Chat with your Open WebUI LLM from neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T17:03:53Z",
+    "nameWithOwner": "Speiser/openwebui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "openwebui.nvim",
+  "owner": "Speiser",
+  "url": "https://github.com/Speiser/openwebui.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CLI"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-12T14:40:52Z",
+    "description": "📦 Minimal. Fast. Practical. CLI column parser made for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-04-20T07:12:27Z",
+    "nameWithOwner": "dtanphat9388/nvim-columnify",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-columnify",
+  "owner": "dtanphat9388",
+  "url": "https://github.com/dtanphat9388/nvim-columnify"
+}

@@ -1,0 +1,62 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotenv"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 411,
+    "createdAt": "2024-12-09T20:24:42Z",
+    "description": "The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-03-31T17:02:27Z",
+    "nameWithOwner": "t3ntxcl3s/ecolog.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 125,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim",
+      "nvim-cmp",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ecolog.nvim",
+  "owner": "t3ntxcl3s",
+  "url": "https://github.com/philosofonusus/ecolog.nvim"
+}

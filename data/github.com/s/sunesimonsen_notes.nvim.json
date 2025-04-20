@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-04-11T10:17:54Z",
+    "description": "A note taking system that will last forever",
+    "isArchived": false,
+    "lastCommit": "2025-04-11T11:54:11Z",
+    "nameWithOwner": "sunesimonsen/notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes.nvim",
+  "owner": "sunesimonsen",
+  "url": "https://github.com/sunesimonsen/notes.nvim"
+}

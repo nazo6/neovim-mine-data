@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Color Creator"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-16T13:21:25Z",
+    "description": "Color Converter for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-16T20:22:21Z",
+    "nameWithOwner": "shushtain/spectrolite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spectrolite.nvim",
+  "owner": "shushtain",
+  "url": "https://github.com/shushtain/spectrolite.nvim"
+}

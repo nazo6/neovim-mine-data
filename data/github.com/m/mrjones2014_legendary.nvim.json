@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 108,
+    "commitCountLastYear": 104,
     "createdAt": "2022-02-02T14:27:52Z",
     "description": "🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-03-20T13:58:08Z",
     "nameWithOwner": "mrjones2014/legendary.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1216,
+    "star": 1217,
     "topics": [
       "neovim",
       "neovim-plugin",

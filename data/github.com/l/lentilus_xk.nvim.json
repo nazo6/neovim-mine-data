@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "Zettelkasten"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 6,
     "createdAt": "2024-10-12T00:17:37Z",
     "description": null,
     "isArchived": false,

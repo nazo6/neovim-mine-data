@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "ToDo"
         }
       ],
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 143,
+    "commitCountLastYear": 150,
     "createdAt": "2024-05-27T16:12:50Z",
     "description": "A minimal task manager for neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-08T16:20:29Z",
+    "lastCommit": "2025-04-16T16:22:17Z",
     "nameWithOwner": "Hashino/doing.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 87,
+    "star": 88,
     "topics": [
       "neovim-plugin"
     ]

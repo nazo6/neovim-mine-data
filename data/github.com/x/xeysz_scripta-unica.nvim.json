@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "ToDo"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 0,
     "createdAt": "2024-04-14T01:34:58Z",
     "description": "Samples and utilities to write and maintain unicode-based journals and task lists",
     "isArchived": false,

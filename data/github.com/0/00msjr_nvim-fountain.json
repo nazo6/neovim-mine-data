@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Fountain"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-16T21:35:47Z",
+    "description": "A nvim syntax highlighting plugin for the Fountain screenplay format",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T15:15:01Z",
+    "nameWithOwner": "00msjr/nvim-fountain",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "fountain",
+      "neovim-plugin",
+      "nvim",
+      "screenwriting"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-fountain",
+  "owner": "00msjr",
+  "url": "https://github.com/00msjr/nvim-fountain"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git jump"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-13T10:35:43Z",
+    "description": "Call the git-jump contrib script from within an existing neovim client.",
+    "isArchived": false,
+    "lastCommit": "2025-04-13T10:55:10Z",
+    "nameWithOwner": "ohainle/gitjump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitjump.nvim",
+  "owner": "ohainle",
+  "url": "https://github.com/ohainle/gitjump.nvim"
+}

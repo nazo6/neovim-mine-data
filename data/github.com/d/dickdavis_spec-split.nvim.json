@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-17T00:26:59Z",
+    "description": "Quickly open related specs for Ruby files in a split buffer",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T00:43:04Z",
+    "nameWithOwner": "dickdavis/spec-split.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spec-split.nvim",
+  "owner": "dickdavis",
+  "url": "https://github.com/dickdavis/spec-split.nvim"
+}

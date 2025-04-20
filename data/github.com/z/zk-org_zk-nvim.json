@@ -18,10 +18,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "Zettelkasten"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 24,
     "createdAt": "2021-08-16T08:03:21Z",
     "description": "Neovim extension for zk",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 613,
+    "star": 628,
     "topics": [
       "neovim",
       "nvim",

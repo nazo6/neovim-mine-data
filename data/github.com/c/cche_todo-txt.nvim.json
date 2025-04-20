@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "ToDo"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 20,
     "createdAt": "2025-01-13T14:35:45Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-01-23T13:37:14Z",
+    "lastCommit": "2025-04-16T09:07:42Z",
     "nameWithOwner": "cche/todo-txt.nvim",
     "primaryLanguage": {
       "color": "#000080",

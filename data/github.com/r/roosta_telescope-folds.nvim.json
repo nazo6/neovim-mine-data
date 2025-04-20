@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-12T10:18:38Z",
+    "description": "Neovim plugin that lets you fuzzy search for folds in a file using Telescope.",
+    "isArchived": false,
+    "lastCommit": "2025-04-12T13:04:06Z",
+    "nameWithOwner": "roosta/telescope-folds.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-folds.nvim",
+  "owner": "roosta",
+  "url": "https://github.com/roosta/telescope-folds.nvim"
+}

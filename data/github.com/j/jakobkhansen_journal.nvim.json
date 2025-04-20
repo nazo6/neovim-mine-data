@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "etc"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 75,
+    "commitCountLastYear": 61,
     "createdAt": "2024-04-06T21:48:04Z",
     "description": "🖋️ Highly extensible journaling system for Neovim",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 68,
+    "star": 69,
     "topics": [
       "journal",
       "lua",

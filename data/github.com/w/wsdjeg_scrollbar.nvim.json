@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "[Scrollbar](./scrollbar.md)"
+        }
+      ],
+      "file": "scrollbar.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2020-09-21T13:06:32Z",
+    "description": "floating scrollbar plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-16T15:11:54Z",
+    "nameWithOwner": "wsdjeg/scrollbar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "scrollbar.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/scrollbar.nvim"
+}

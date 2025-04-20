@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-13T12:24:53Z",
+    "description": "Goto/Copy File's Online Link",
+    "isArchived": false,
+    "lastCommit": "2025-04-13T13:48:47Z",
+    "nameWithOwner": "wsdjeg/gitlink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitlink.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/gitlink.nvim"
+}

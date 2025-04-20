@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Distribution"
+        }
+      ],
+      "file": "neovim-distribution.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 190,
+    "createdAt": "2025-04-04T22:43:43Z",
+    "description": "Use Neovim as the default code editor for Unity — with .csproj generation, OmniSharp support and LSP-ready workflow.",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T18:59:46Z",
+    "nameWithOwner": "apyra/nvim-unity",
+    "primaryLanguage": {
+      "color": "#178600",
+      "name": "C#"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-unity-plugin-external-editor-omnisharp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-unity",
+  "owner": "apyra",
+  "url": "https://github.com/apyra/nvim-unity"
+}

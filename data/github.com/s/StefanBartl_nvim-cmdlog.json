@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        },
+        {
+          "level": 3,
+          "name": "History"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-04-14T21:56:26Z",
+    "description": "A lightweight, modern Neovim plugin to interactively view, search, and reuse command-line mode (`:`) history using Telescope.",
+    "isArchived": false,
+    "lastCommit": "2025-04-15T07:03:05Z",
+    "nameWithOwner": "StefanBartl/nvim-cmdlog",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "command-history",
+      "developer-tools",
+      "interactive-tools",
+      "lazy-nvim",
+      "lua",
+      "neovim",
+      "neovim-config",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cmdlog",
+  "owner": "StefanBartl",
+  "url": "https://github.com/StefanBartl/nvim-cmdlog"
+}

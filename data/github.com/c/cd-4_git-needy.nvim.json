@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Pull Request"
+        },
+        {
+          "level": 4,
+          "name": "Assign"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2025-04-12T02:52:09Z",
+    "description": "A neovim plugin to keep track of GitHub pending workflow runs",
+    "isArchived": false,
+    "lastCommit": "2025-04-15T03:18:37Z",
+    "nameWithOwner": "cd-4/git-needy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-needy.nvim",
+  "owner": "cd-4",
+  "url": "https://github.com/cd-4/git-needy.nvim"
+}

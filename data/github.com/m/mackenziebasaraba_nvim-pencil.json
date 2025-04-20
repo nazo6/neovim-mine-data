@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-04-12T08:15:01Z",
+    "description": " Rethinking Vim as a tool for writing  - A rewrite of vim-pencil in Lua.",
+    "isArchived": false,
+    "lastCommit": "2025-04-13T18:22:15Z",
+    "nameWithOwner": "mackenziebasaraba/nvim-pencil",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pencil",
+  "owner": "mackenziebasaraba",
+  "url": "https://github.com/mackenziebasaraba/nvim-pencil"
+}

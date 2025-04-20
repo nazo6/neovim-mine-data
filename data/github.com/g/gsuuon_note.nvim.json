@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "etc"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 23,
     "createdAt": "2023-06-22T01:01:00Z",
     "description": "Notes in neovim",
     "isArchived": false,

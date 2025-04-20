@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 0,
     "createdAt": "2024-04-07T19:55:28Z",
     "description": "A neovim plugin that allows you to run code in a REPL without ever leaving your buffer.",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19,
+    "star": 18,
     "topics": [
       "neovim",
       "notebook",

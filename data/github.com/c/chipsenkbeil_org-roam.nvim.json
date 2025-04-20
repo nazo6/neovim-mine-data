@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "Org mode"
         }
       ],
@@ -18,10 +22,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "Org mode"
         }
       ],
@@ -30,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 99,
+    "commitCountLastYear": 93,
     "createdAt": "2024-01-09T01:25:12Z",
     "description": "Port of org-roam to neovim using orgmode",
     "isArchived": false,
-    "lastCommit": "2025-04-11T15:45:24Z",
+    "lastCommit": "2025-04-18T02:48:57Z",
     "nameWithOwner": "chipsenkbeil/org-roam.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 180,
+    "star": 185,
     "topics": [
       "orgmode-nvim",
       "neovim-plugin"

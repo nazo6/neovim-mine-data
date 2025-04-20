@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "Org mode"
         }
       ],
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 25,
     "createdAt": "2021-07-28T15:40:24Z",
     "description": "Telescope.nvim integration for Neorg",
     "isArchived": false,
-    "lastCommit": "2024-07-30T16:47:14Z",
+    "lastCommit": "2025-04-17T05:12:27Z",
     "nameWithOwner": "nvim-neorg/neorg-telescope",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 196,
+    "star": 197,
     "topics": [
       "neovim-plugin"
     ]

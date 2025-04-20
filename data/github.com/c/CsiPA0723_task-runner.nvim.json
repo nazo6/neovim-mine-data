@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 17,
     "createdAt": "2024-10-31T01:49:52Z",
     "description": "A simple task runner for neovim",
     "isArchived": false,
-    "lastCommit": "2024-10-31T02:42:32Z",
+    "lastCommit": "2025-04-19T00:13:46Z",
     "nameWithOwner": "CsiPA0723/task-runner.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -42,7 +42,10 @@
       "neovim-plugin",
       "nvim",
       "plenary",
-      "task-runner"
+      "task-runner",
+      "fzf-lua",
+      "plugin",
+      "telescope-extension"
     ]
   },
   "domain": "github.com",

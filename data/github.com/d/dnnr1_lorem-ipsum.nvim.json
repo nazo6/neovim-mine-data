@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lorem Ipsum"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-04-11T02:25:41Z",
+    "description": "A custom nvim-cmp source that generates random lorem ipsum text snippets.",
+    "isArchived": false,
+    "lastCommit": "2025-04-15T00:37:54Z",
+    "nameWithOwner": "dnnr1/lorem-ipsum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "ipsum",
+      "lorem",
+      "lorem-ipsum",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-cmp",
+      "source"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lorem-ipsum.nvim",
+  "owner": "dnnr1",
+  "url": "https://github.com/dnnr1/lorem-ipsum.nvim"
+}

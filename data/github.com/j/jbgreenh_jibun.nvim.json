@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2025-04-14T17:18:17Z",
+    "description": "a personal task manager for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-04-16T18:58:38Z",
+    "nameWithOwner": "jbgreenh/jibun.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jibun.nvim",
+  "owner": "jbgreenh",
+  "url": "https://github.com/jbgreenh/jibun.nvim"
+}

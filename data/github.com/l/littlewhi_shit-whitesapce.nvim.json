@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        },
+        {
+          "level": 3,
+          "name": "Trim Whitespace"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-04-12T11:26:28Z",
+    "description": "handle trailing whitespaces",
+    "isArchived": false,
+    "lastCommit": "2025-04-12T15:45:05Z",
+    "nameWithOwner": "littlewhi/shit-whitesapce.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "nvim-plugin",
+      "whitespace"
+    ]
+  },
+  "domain": "github.com",
+  "name": "shit-whitesapce.nvim",
+  "owner": "littlewhi",
+  "url": "https://github.com/littlewhi/shit-whitesapce.nvim"
+}

@@ -24,24 +24,27 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 18,
     "createdAt": "2025-03-22T17:56:12Z",
     "description": "🧠 A neovim plugin to handle commit using AI",
     "isArchived": false,
-    "lastCommit": "2025-03-26T03:21:27Z",
+    "lastCommit": "2025-04-16T10:25:25Z",
     "nameWithOwner": "Abizrh/commit-ai.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9,
+    "star": 10,
     "topics": [
       "ai",
       "commit",
       "git",
       "llm",
       "neovim",
-      "neovim-plugin"
+      "neovim-plugin",
+      "gemini",
+      "commit-conventions",
+      "commit-message"
     ]
   },
   "domain": "github.com",

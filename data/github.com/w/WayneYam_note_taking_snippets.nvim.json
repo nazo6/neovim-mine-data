@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        },
+        {
+          "level": 4,
+          "name": "Snippet definitions"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-14T09:28:49Z",
+    "description": "A port of the snippets described in https://castel.dev/post/lecture-notes-1/ to LuaSnip",
+    "isArchived": false,
+    "lastCommit": "2025-04-14T10:56:26Z",
+    "nameWithOwner": "WayneYam/note_taking_snippets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "note_taking_snippets.nvim",
+  "owner": "WayneYam",
+  "url": "https://github.com/WayneYam/note_taking_snippets.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "create"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-15T15:12:54Z",
+    "description": "Create file using telescope with/without cwd context",
+    "isArchived": false,
+    "lastCommit": "2025-04-15T15:40:03Z",
+    "nameWithOwner": "ZKAW/telescope-create-file.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-create-file.nvim",
+  "owner": "ZKAW",
+  "url": "https://github.com/ZKAW/telescope-create-file.nvim"
+}

@@ -17,20 +17,34 @@
       ],
       "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "AI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 52,
+    "commitCountLastYear": 53,
     "createdAt": "2024-11-19T17:58:02Z",
     "description": "🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!",
     "isArchived": false,
-    "lastCommit": "2025-04-10T18:06:55Z",
+    "lastCommit": "2025-04-13T13:30:32Z",
     "nameWithOwner": "GeorgesAlkhouri/nvim-aider",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 170,
+    "star": 189,
     "topics": [
       "aider",
       "lua",

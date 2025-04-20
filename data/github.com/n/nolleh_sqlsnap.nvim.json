@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2025-04-13T12:08:27Z",
+    "description": "⚡Query, without leaving your nvim workspace, whatever the dbms",
+    "isArchived": false,
+    "lastCommit": "2025-04-15T14:41:34Z",
+    "nameWithOwner": "nolleh/sqlsnap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin",
+      "sql"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sqlsnap.nvim",
+  "owner": "nolleh",
+  "url": "https://github.com/nolleh/sqlsnap.nvim"
+}

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "etc"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 18,
     "createdAt": "2024-02-10T12:36:19Z",
     "description": "Unorganized notes system for working in nvim",
     "isArchived": false,

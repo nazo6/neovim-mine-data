@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Container"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-04-14T10:43:19Z",
+    "description": "Manage your containers (Podman, Docker, and more) directly from Neovim – with clean architecture, pluggable backends, and a TUI-native experience. ⚠️ Alpha Version – Breaking changes can and will happen.",
+    "isArchived": false,
+    "lastCommit": "2025-04-14T17:02:43Z",
+    "nameWithOwner": "StefanBartl/nvim-containers",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-containers",
+  "owner": "StefanBartl",
+  "url": "https://github.com/StefanBartl/nvim-containers"
+}

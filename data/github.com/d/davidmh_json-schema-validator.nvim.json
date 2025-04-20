@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-18T22:06:08Z",
+    "description": "A Neovim plugin for validating JSON Schemas.",
+    "isArchived": false,
+    "lastCommit": "2025-04-18T22:11:58Z",
+    "nameWithOwner": "davidmh/json-schema-validator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ajv",
+      "ajv-cli",
+      "json",
+      "json-schema",
+      "json-schema-validator",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "json-schema-validator.nvim",
+  "owner": "davidmh",
+  "url": "https://github.com/davidmh/json-schema-validator.nvim"
+}

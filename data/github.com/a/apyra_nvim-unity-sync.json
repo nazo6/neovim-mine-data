@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Unity"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-04-04T19:23:21Z",
+    "description": "nvim-unity is a Neovim plugin that helps you keep your `.csproj` files up to date when working on Unity projects.",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T15:18:16Z",
+    "nameWithOwner": "apyra/nvim-unity-sync",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-unity-sync",
+  "owner": "apyra",
+  "url": "https://github.com/apyra/nvim-unity-handle"
+}

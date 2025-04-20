@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-01-13T20:02:42Z",
+    "description": "A simple Neovim plugin for displaying the current time in your lualine",
+    "isArchived": false,
+    "lastCommit": "2025-01-13T20:56:57Z",
+    "nameWithOwner": "r3b00thx/lualine-time.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lualine-time.nvim",
+  "owner": "r3b00thx",
+  "url": "https://github.com/iamvladw/lualine-time.nvim"
+}

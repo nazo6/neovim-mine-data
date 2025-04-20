@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-04-17T14:38:27Z",
+    "description": "A lightweight task manager plugin for Neovim written in Lua — with Telescope integration, simple due-date reminders, and quick task creation.",
+    "isArchived": false,
+    "lastCommit": "2025-04-17T16:10:38Z",
+    "nameWithOwner": "MikeDupree/nvim-tasks",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tasks",
+  "owner": "MikeDupree",
+  "url": "https://github.com/MikeDupree/nvim-tasks"
+}

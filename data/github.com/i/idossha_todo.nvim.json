@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2025-04-17T20:50:40Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-04-18T22:05:52Z",
+    "nameWithOwner": "idossha/todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "idossha",
+  "url": "https://github.com/idossha/todo.nvim"
+}

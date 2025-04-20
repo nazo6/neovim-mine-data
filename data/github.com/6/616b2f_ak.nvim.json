@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "etc"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 6,
     "createdAt": "2025-01-28T22:05:04Z",
     "description": null,
     "isArchived": false,
-    "lastCommit": "2025-03-07T16:59:29Z",
+    "lastCommit": "2025-04-17T19:15:48Z",
     "nameWithOwner": "616b2f/ak.nvim",
     "primaryLanguage": {
       "color": "#000080",

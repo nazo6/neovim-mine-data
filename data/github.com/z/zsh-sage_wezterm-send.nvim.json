@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "WezTerm"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-04-12T16:32:43Z",
+    "description": null,
+    "isArchived": false,
+    "lastCommit": "2025-04-13T10:21:27Z",
+    "nameWithOwner": "zsh-sage/wezterm-send.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wezterm-send.nvim",
+  "owner": "zsh-sage",
+  "url": "https://github.com/zsh-sage/wezterm-send.nvim"
+}

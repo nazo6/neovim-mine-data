@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-04-15T04:54:24Z",
+    "description": "A Neovim plugin for executing python code in a REPL",
+    "isArchived": false,
+    "lastCommit": "2025-04-15T04:52:58Z",
+    "nameWithOwner": "Kabilan108/pyrepl.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pyrepl.nvim",
+  "owner": "Kabilan108",
+  "url": "https://github.com/Kabilan108/pyrepl.nvim"
+}

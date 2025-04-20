@@ -38,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2022-10-16T21:56:52Z",
-    "description": "Show mode changes right next to the cursor",
+    "description": "Enhances visual feedback when leaping",
     "isArchived": false,
-    "lastCommit": "2025-04-07T20:53:49Z",
+    "lastCommit": "2025-04-19T00:47:16Z",
     "nameWithOwner": "doums/monark.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -50,9 +50,10 @@
     },
     "star": 33,
     "topics": [
-      "mode",
       "neovim",
-      "nvim"
+      "nvim",
+      "leap",
+      "leap-nvim"
     ]
   },
   "domain": "github.com",

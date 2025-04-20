@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Fram"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-04-14T07:39:17Z",
+    "description": "Basic fram language support for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-14T07:38:21Z",
+    "nameWithOwner": "Brychlikov/fram.nvim",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fram.nvim",
+  "owner": "Brychlikov",
+  "url": "https://github.com/Brychlikov/fram.nvim"
+}

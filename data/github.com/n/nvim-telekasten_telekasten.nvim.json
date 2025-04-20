@@ -18,10 +18,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "Zettelkasten"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 5,
     "createdAt": "2021-11-21T01:01:11Z",
     "description": "A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1525,
+    "star": 1529,
     "topics": [
       "lua",
       "neovim",

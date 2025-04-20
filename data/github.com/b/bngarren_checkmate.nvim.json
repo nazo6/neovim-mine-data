@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-04-06T18:27:05Z",
+    "description": "Neovim Todo plugin",
+    "isArchived": false,
+    "lastCommit": "2025-04-19T01:05:18Z",
+    "nameWithOwner": "bngarren/checkmate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "checkmate.nvim",
+  "owner": "bngarren",
+  "url": "https://github.com/bngarren/checkmate.nvim"
+}

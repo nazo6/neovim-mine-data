@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 60,
+    "commitCountLastYear": 76,
     "createdAt": "2020-08-17T20:44:45Z",
     "description": "A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages",
     "isArchived": false,
-    "lastCommit": "2025-02-10T20:38:25Z",
+    "lastCommit": "2025-04-13T19:08:58Z",
     "nameWithOwner": "michaelb/sniprun",
     "primaryLanguage": {
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 1570,
+    "star": 1574,
     "topics": [
       "code",
       "neovim",

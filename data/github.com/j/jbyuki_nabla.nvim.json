@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "etc"
         }
       ],
@@ -30,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 30,
     "createdAt": "2020-12-07T09:28:40Z",
     "description": "take your scientific notes :pencil2: in Neovim",
     "isArchived": false,
-    "lastCommit": "2023-12-23T16:29:31Z",
+    "lastCommit": "2025-04-19T15:35:03Z",
     "nameWithOwner": "jbyuki/nabla.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 680,
+    "star": 682,
     "topics": [
       "scientific-notes",
       "neovim",

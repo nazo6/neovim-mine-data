@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "jumplist"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-03-20T17:06:08Z",
+    "description": "A Neovim plugin for cycling through key sequences with custom triggers.",
+    "isArchived": false,
+    "lastCommit": "2025-04-19T11:05:00Z",
+    "nameWithOwner": "TheLazyCat00/racer-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "racer-nvim",
+  "owner": "TheLazyCat00",
+  "url": "https://github.com/TheLazyCat00/racer-nvim"
+}

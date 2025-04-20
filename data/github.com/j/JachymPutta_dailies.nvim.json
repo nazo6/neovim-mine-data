@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "etc"
         }
       ],
@@ -16,18 +20,19 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 4,
     "createdAt": "2025-04-09T23:01:05Z",
-    "description": null,
+    "description": "Dailies neovim plugin",
     "isArchived": false,
-    "lastCommit": "2025-04-10T14:05:49Z",
+    "lastCommit": "2025-04-15T14:02:40Z",
     "nameWithOwner": "JachymPutta/dailies.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "ToDo"
         }
       ],
@@ -30,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 31,
     "createdAt": "2024-02-03T19:40:18Z",
     "description": "Fast & Simple Notes in Neovim 📃🚀",
     "isArchived": false,
-    "lastCommit": "2025-03-31T05:41:23Z",
+    "lastCommit": "2025-04-13T14:46:07Z",
     "nameWithOwner": "2KAbhishek/tdo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 69,
+    "star": 72,
     "topics": [
       "editor",
       "journal",

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Note Taking"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
           "name": "Obsidian"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 72,
+    "commitCountLastYear": 66,
     "createdAt": "2022-07-31T17:37:11Z",
     "description": "Obsidian 🤝 Neovim",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5086,
+    "star": 5112,
     "topics": [
       "neovim",
       "neovim-plugin",
