@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Dart, Flutter"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-06-03T01:37:59Z",
+    "description": "A Neovim plugin to list and run Melos scripts for Dart/Flutter monorepos, with Telescope integration.",
+    "isArchived": false,
+    "lastCommit": "2025-06-30T18:53:23Z",
+    "nameWithOwner": "wasabeef/melos.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "melos.nvim",
+  "owner": "wasabeef",
+  "url": "https://github.com/wasabeef/melos.nvim"
+}

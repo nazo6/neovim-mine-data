@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Background"
+        },
+        {
+          "level": 3,
+          "name": "Switch theme"
+        }
+      ],
+      "file": "background.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2025-05-09T14:59:41Z",
+    "description": "dark or light for day and night coding ",
+    "isArchived": false,
+    "lastCommit": "2025-10-16T21:51:41Z",
+    "nameWithOwner": "SearidangPa/theme-loader.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "theme-loader.nvim",
+  "owner": "SearidangPa",
+  "url": "https://github.com/SearidangPa/theme-loader.nvim"
+}

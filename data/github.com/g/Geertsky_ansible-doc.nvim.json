@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Ansible"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-06-28T18:26:53Z",
+    "description": "ansible-doc plugin",
+    "isArchived": false,
+    "lastCommit": "2025-08-20T16:18:46Z",
+    "nameWithOwner": "Geertsky/ansible-doc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ansible-doc.nvim",
+  "owner": "Geertsky",
+  "url": "https://github.com/Geertsky/ansible-doc.nvim"
+}

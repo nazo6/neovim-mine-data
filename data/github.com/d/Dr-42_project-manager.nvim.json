@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -22,7 +22,6 @@
   "data": {
     "commitCountLastYear": 10,
     "createdAt": "2025-02-05T07:45:17Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2025-02-09T17:13:34Z",
     "nameWithOwner": "Dr-42/project-manager.nvim",

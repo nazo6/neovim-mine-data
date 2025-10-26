@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 75,
+    "createdAt": "2025-07-26T20:23:03Z",
+    "description": "A Neovim bridge plugin for Claude Code CLI, providing seamless integration between your editor and Claude's AI capabilities.",
+    "isArchived": false,
+    "lastCommit": "2025-08-04T03:41:04Z",
+    "nameWithOwner": "avifenesh/claucode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "ai",
+      "claude",
+      "cli",
+      "code",
+      "diy",
+      "lua",
+      "neovim",
+      "nvim",
+      "usefull",
+      "claude-code"
+    ]
+  },
+  "domain": "github.com",
+  "name": "claucode.nvim",
+  "owner": "avifenesh",
+  "url": "https://github.com/avifenesh/claucode.nvim"
+}

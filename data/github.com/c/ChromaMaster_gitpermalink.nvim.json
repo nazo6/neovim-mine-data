@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-06-04T10:49:40Z",
+    "description": "Quick & easy way to create permalinks from selected lines",
+    "isArchived": false,
+    "lastCommit": "2025-06-18T15:00:29Z",
+    "nameWithOwner": "ChromaMaster/gitpermalink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitpermalink.nvim",
+  "owner": "ChromaMaster",
+  "url": "https://github.com/ChromaMaster/gitpermalink.nvim"
+}

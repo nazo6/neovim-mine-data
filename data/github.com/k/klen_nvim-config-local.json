@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Project Template"
+          "level": 2,
+          "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Local Config"
         }
       ],
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 3,
     "createdAt": "2021-12-22T21:13:13Z",
     "description": "Secure load local config files for neovim",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 159,
+    "star": 172,
     "topics": [
       "neovim",
       "neovim-plugin",

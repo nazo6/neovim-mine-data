@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Kotlin"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2025-06-05T06:58:46Z",
+    "description": "Extensions for JetBrains' kotlin-lsp support in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T15:04:52Z",
+    "nameWithOwner": "AlexandrosAlexiou/kotlin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 36,
+    "topics": [
+      "neovim-plugin",
+      "kotlin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kotlin.nvim",
+  "owner": "AlexandrosAlexiou",
+  "url": "https://github.com/AlexandrosAlexiou/kotlin.nvim"
+}

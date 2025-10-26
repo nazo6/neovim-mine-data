@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-08-29T13:13:00Z",
+    "description": "Neovim plugin to switch between git repositories. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-02T03:40:27Z",
+    "nameWithOwner": "CaptShanks/project-switcher.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "project-switcher.nvim",
+  "owner": "CaptShanks",
+  "url": "https://github.com/CaptShanks/project-switcher.nvim"
+}

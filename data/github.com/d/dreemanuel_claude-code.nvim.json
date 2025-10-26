@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-27T10:35:34Z",
+    "description": "Lua plugin for Claude Code AI integration with Neovim and Tmux",
+    "isArchived": false,
+    "lastCommit": "2025-06-27T10:30:24Z",
+    "nameWithOwner": "dreemanuel/claude-code.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-code.nvim",
+  "owner": "dreemanuel",
+  "url": "https://github.com/dreemanuel/claude-code.nvim"
+}

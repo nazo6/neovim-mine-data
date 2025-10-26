@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorizer"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2023-05-22T08:20:22Z",
+    "description": "Highlight patterns in text. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T12:44:00Z",
+    "nameWithOwner": "nvim-mini/mini.hipatterns",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 149,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.hipatterns",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.hipatterns"
+}

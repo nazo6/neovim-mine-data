@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Religion"
+        },
+        {
+          "level": 4,
+          "name": "Muslim"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-19T10:24:32Z",
+    "description": "nvim plugin for moeslim praying time",
+    "isArchived": false,
+    "lastCommit": "2025-06-25T04:24:51Z",
+    "nameWithOwner": "hakimajaman/nvim-muslim-prayer",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-muslim-prayer",
+  "owner": "hakimajaman",
+  "url": "https://github.com/hakimajaman/nvim-muslim-prayer"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mode"
+        },
+        {
+          "level": 3,
+          "name": "Visual"
+        }
+      ],
+      "file": "mode.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-07-13T11:33:27Z",
+    "description": "visual block insert",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T03:35:42Z",
+    "nameWithOwner": "phanen/vbi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "nvim-plugin",
+      "extmark",
+      "visual-block-mode"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vbi.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/vbi.nvim"
+}

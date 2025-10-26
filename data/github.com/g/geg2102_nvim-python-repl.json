@@ -20,19 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 22,
     "createdAt": "2021-12-27T13:53:15Z",
     "description": "A simple neovim plugin that leverages treesitter for interacting with a python/scala/lua REPL. ",
     "isArchived": false,
-    "lastCommit": "2025-03-17T18:03:29Z",
+    "lastCommit": "2025-10-12T14:32:41Z",
     "nameWithOwner": "geg2102/nvim-python-repl",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 82,
+    "star": 91,
     "topics": [
-      "neovim-plugin"
+      "neovim-plugin",
+      "lua",
+      "neovim"
     ]
   },
   "domain": "github.com",

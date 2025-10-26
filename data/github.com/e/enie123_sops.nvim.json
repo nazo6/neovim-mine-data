@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Encrypt"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-21T10:38:05Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T10:44:55Z",
+    "nameWithOwner": "enie123/sops.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sops.nvim",
+  "owner": "enie123",
+  "url": "https://github.com/enie123/sops.nvim"
+}

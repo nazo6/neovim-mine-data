@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Zen Mode"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-09-03T08:53:55Z",
+    "description": "A minimal Neovim plugin for distraction-free coding. It creates a centered floating window with customizable width, height, and z-index, hiding UI elements and focusing your attention.",
+    "isArchived": false,
+    "lastCommit": "2025-09-11T21:09:07Z",
+    "nameWithOwner": "Raist90/zen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zen.nvim",
+  "owner": "Raist90",
+  "url": "https://github.com/Raist90/zen.nvim"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Unix domain socket"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-07T13:01:57Z",
+    "description": "Write to Unix Domain Socket. Personal plugin.",
+    "isArchived": false,
+    "lastCommit": "2025-06-07T13:01:58Z",
+    "nameWithOwner": "mtkld/nntmwrite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nntmwrite.nvim",
+  "owner": "mtkld",
+  "url": "https://github.com/mtkld/nntmwrite.nvim"
+}

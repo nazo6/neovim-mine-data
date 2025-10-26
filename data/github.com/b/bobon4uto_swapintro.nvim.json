@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup screen (DashBoard)"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-27T10:10:33Z",
+    "description": "Plugin for Neovim that replaces intro screen with your buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-05-27T20:38:15Z",
+    "nameWithOwner": "bobon4uto/swapintro.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "swapintro.nvim",
+  "owner": "bobon4uto",
+  "url": "https://github.com/bobon4uto/swapintro.nvim"
+}

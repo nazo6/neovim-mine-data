@@ -2,32 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
-          "name": "Terminal"
-        },
-        {
-          "level": 4,
-          "name": "WezTerm"
-        }
       ],
-      "file": "integration-apps.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 4,
     "createdAt": "2025-01-06T15:55:29Z",
-    "description": null,
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-03-12T08:32:21Z",
     "nameWithOwner": "chrhjoh/wezterm-paster.nvim",
     "primaryLanguage": {

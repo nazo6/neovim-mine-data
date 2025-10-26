@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Pet"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 35,
     "createdAt": "2025-03-18T15:42:32Z",
     "description": "neovim \"autocomplete\" with paw",
     "isArchived": false,
-    "lastCommit": "2025-03-25T16:01:20Z",
+    "lastCommit": "2025-10-07T18:11:02Z",
     "nameWithOwner": "kiddos/pawtocomplete.nvim",
     "primaryLanguage": {
       "color": "#000080",

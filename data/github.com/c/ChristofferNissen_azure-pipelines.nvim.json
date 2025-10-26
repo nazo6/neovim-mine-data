@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Azure"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-07-29T22:34:37Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-29T22:57:42Z",
+    "nameWithOwner": "ChristofferNissen/azure-pipelines.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "azure-pipelines.nvim",
+  "owner": "ChristofferNissen",
+  "url": "https://github.com/ChristofferNissen/azure-pipelines.nvim"
+}

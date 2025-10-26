@@ -1,0 +1,67 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "prefix(conventional-commits)"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 74,
+    "createdAt": "2025-09-12T15:57:49Z",
+    "description": "Intelligent scope autocompletion for conventional commits in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-15T20:05:44Z",
+    "nameWithOwner": "yus-works/csc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+      "commit-message",
+      "conventional-commits",
+      "git",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "csc.nvim",
+  "owner": "yus-works",
+  "url": "https://github.com/yus-works/csc.nvim"
+}

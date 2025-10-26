@@ -34,20 +34,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 122,
+    "commitCountLastYear": 107,
     "createdAt": "2022-11-21T12:41:49Z",
     "description": "Lightweight and quick file operations without being a full-blown file manager.",
     "isArchived": false,
-    "lastCommit": "2025-04-12T09:36:47Z",
+    "lastCommit": "2025-10-13T10:53:20Z",
     "nameWithOwner": "chrisgrieser/nvim-genghis",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 207,
+    "star": 213,
     "topics": [
       "neovim-plugin",
-      "nvim"
+      "file-management",
+      "nvim-plugin",
+      "file-movement"
     ]
   },
   "domain": "github.com",

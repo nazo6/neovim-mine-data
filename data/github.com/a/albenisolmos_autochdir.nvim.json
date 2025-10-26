@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Root Detector"
         }
       ],
@@ -20,9 +20,8 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 2,
     "createdAt": "2023-03-15T02:20:27Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2025-02-26T22:30:45Z",
     "nameWithOwner": "albenisolmos/autochdir.nvim",

@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "textDocument"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-18T08:39:01Z",
+    "description": "Document highlighting in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-20T09:53:51Z",
+    "nameWithOwner": "RhydianJenkins/nvim-highlight",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "highlight",
+      "lsp",
+      "neovim",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-highlight",
+  "owner": "RhydianJenkins",
+  "url": "https://github.com/RhydianJenkins/nvim-highlight"
+}

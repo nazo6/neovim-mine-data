@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Align"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2022-10-24T16:14:49Z",
+    "description": "Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T12:38:17Z",
+    "nameWithOwner": "nvim-mini/mini.align",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 142,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.align",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.align"
+}

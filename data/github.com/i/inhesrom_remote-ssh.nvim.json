@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Remote Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -20,22 +34,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 254,
+    "commitCountLastYear": 244,
     "createdAt": "2024-08-13T21:52:24Z",
-    "description": null,
     "isArchived": false,
-    "lastCommit": "2025-04-16T05:45:06Z",
+    "lastCommit": "2025-09-09T05:28:49Z",
     "nameWithOwner": "inhesrom/remote-ssh.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 54,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
   "name": "remote-ssh.nvim",
   "owner": "inhesrom",
-  "url": "https://github.com/ihersom/remote-ssh.nvim"
+  "url": "https://github.com/inhesrom/remote-ssh.nvim"
 }

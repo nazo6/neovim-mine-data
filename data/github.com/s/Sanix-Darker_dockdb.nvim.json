@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 40,
+    "commitCountLastYear": 0,
     "createdAt": "2024-05-13T04:32:43Z",
     "description": "Bind your Database Container to Nvim and run queries from your code editor, zero dependency needed.",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 8,
     "topics": [
       "database",
       "nvim",

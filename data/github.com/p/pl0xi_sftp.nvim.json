@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ftp"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-07-14T13:33:20Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-28T14:47:48Z",
+    "nameWithOwner": "pl0xi/sftp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sftp.nvim",
+  "owner": "pl0xi",
+  "url": "https://github.com/pl0xi/sftp.nvim"
+}

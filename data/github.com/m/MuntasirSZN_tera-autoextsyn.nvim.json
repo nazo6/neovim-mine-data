@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Framework"
+        },
+        {
+          "level": 4,
+          "name": "tera"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-15T05:10:43Z",
+    "description": "Automatic Underlying Language Highlighting For Tera Templates",
+    "isArchived": false,
+    "lastCommit": "2025-09-04T14:50:53Z",
+    "nameWithOwner": "MuntasirSZN/tera-autoextsyn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tera-autoextsyn.nvim",
+  "owner": "MuntasirSZN",
+  "url": "https://github.com/MuntasirSZN/tera-autoextsyn.nvim"
+}

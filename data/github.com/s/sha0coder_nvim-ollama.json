@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-08-02T11:48:36Z",
+    "description": "NeoVim lazy plugin for using offline AI using ollama",
+    "isArchived": false,
+    "lastCommit": "2025-08-03T08:59:03Z",
+    "nameWithOwner": "sha0coder/nvim-ollama",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ollama",
+  "owner": "sha0coder",
+  "url": "https://github.com/sha0coder/nvim-ollama"
+}

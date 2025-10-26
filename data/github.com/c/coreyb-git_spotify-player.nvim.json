@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-05-14T14:12:19Z",
+    "description": "Controls for spotify-player.",
+    "isArchived": false,
+    "lastCommit": "2025-08-04T15:32:17Z",
+    "nameWithOwner": "coreyb-git/spotify-player.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spotify-player.nvim",
+  "owner": "coreyb-git",
+  "url": "https://github.com/coreyb-git/spotify-player.nvim"
+}

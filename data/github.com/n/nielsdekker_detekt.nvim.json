@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Groovy"
+        },
+        {
+          "level": 5,
+          "name": "detekt"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-05-18T11:46:02Z",
+    "description": "Simple neovim wrapper for detekt",
+    "isArchived": false,
+    "lastCommit": "2025-05-27T18:18:44Z",
+    "nameWithOwner": "nielsdekker/detekt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "detekt.nvim",
+  "owner": "nielsdekker",
+  "url": "https://github.com/nielsdekker/detekt.nvim"
+}

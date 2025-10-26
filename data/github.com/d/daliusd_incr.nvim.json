@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Select"
+        },
+        {
+          "level": 3,
+          "name": "expand region"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-08T18:57:13Z",
+    "description": "tree-sitter incremental selection",
+    "isArchived": false,
+    "lastCommit": "2025-07-02T10:31:59Z",
+    "nameWithOwner": "daliusd/incr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "incr.nvim",
+  "owner": "daliusd",
+  "url": "https://github.com/daliusd/incr.nvim"
+}

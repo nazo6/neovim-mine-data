@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "DSL"
+        },
+        {
+          "level": 5,
+          "name": "DAML"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-10-05T01:34:32Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-15T13:08:33Z",
+    "nameWithOwner": "Sengoku11/daml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "daml.nvim",
+  "owner": "Sengoku11",
+  "url": "https://github.com/Sengoku11/daml.nvim"
+}

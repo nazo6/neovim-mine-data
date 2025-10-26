@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-06-13T16:15:32Z",
+    "description": "Minimal Notes App for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-20T19:40:35Z",
+    "nameWithOwner": "adibhanna/nvim-notes",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "neovim",
+      "notes"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-notes",
+  "owner": "adibhanna",
+  "url": "https://github.com/adibhanna/nvim-notes"
+}

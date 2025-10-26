@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-11T12:20:33Z",
+    "description": "NVim plugin to be used with Ranger FM as a parent process. CodeBerg Mirror.",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T12:59:34Z",
+    "nameWithOwner": "krystofair/rsession.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "ranger-fm"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rsession.nvim",
+  "owner": "krystofair",
+  "url": "https://github.com/krystofair/rsession.nvim"
+}

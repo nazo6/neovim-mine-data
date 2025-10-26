@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Project Template"
+          "level": 2,
+          "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Local Config"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 0,
     "createdAt": "2023-12-06T10:44:08Z",
     "description": "Utilities for writing Neovim exrc files",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 26,
+    "star": 31,
     "topics": [
     ]
   },

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-04-26T14:01:02Z",
+    "description": "Run commands inside neovim and see output in buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-05-01T19:44:10Z",
+    "nameWithOwner": "nNeD5/compile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "compile.nvim",
+  "owner": "nNeD5",
+  "url": "https://github.com/nNeD5/compile.nvim"
+}

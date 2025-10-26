@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Tidal"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-08-30T08:00:53Z",
+    "description": "HighTideLight.nvim is a Neovim plugin that enhances the Tidal live coding experience by providing real-time visual feedback. Currently in active development.",
+    "isArchived": false,
+    "lastCommit": "2025-09-08T06:56:28Z",
+    "nameWithOwner": "b0id/HighTideLight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "HighTideLight.nvim",
+  "owner": "b0id",
+  "url": "https://github.com/b0id/HighTideLight.nvim"
+}

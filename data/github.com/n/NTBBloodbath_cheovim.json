@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Project Template"
+          "level": 2,
+          "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Config switcher"
         }
       ],
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 336,
+    "star": 341,
     "topics": [
       "neovim",
       "config-management",

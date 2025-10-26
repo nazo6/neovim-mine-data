@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-18T05:51:23Z",
+    "description": "Multi-functional terminal window for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T06:20:04Z",
+    "nameWithOwner": "ywbrian/nvim-term",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-term",
+  "owner": "ywbrian",
+  "url": "https://github.com/ywbrian/nvim-term"
+}

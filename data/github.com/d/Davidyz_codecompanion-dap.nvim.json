@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-07-05T09:17:15Z",
+    "description": "A DAP extension for codecompanion.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-08-09T09:42:20Z",
+    "nameWithOwner": "Davidyz/codecompanion-dap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "ai",
+      "dap",
+      "neovim",
+      "neovim-plugin",
+      "nvim-dap"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-dap.nvim",
+  "owner": "Davidyz",
+  "url": "https://github.com/Davidyz/codecompanion-dap.nvim"
+}

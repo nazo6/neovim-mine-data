@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-07-27T22:32:04Z",
+    "description": "Opinionated window management for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-26T19:42:06Z",
+    "nameWithOwner": "fabiomcosta/sanfona.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sanfona.nvim",
+  "owner": "fabiomcosta",
+  "url": "https://github.com/fabiomcosta/sanfona.nvim"
+}

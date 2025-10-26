@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-06-07T13:02:26Z",
+    "description": "Toggle terminal buffers and keep their state persistent in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-06-07T14:58:55Z",
+    "nameWithOwner": "mtkld/permtermbuf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "permtermbuf.nvim",
+  "owner": "mtkld",
+  "url": "https://github.com/mtkld/permtermbuf.nvim"
+}

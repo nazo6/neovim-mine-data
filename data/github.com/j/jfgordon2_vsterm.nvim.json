@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-07-08T07:32:29Z",
+    "description": "VSCode-like terminal for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-11T04:59:44Z",
+    "nameWithOwner": "jfgordon2/vsterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vsterm.nvim",
+  "owner": "jfgordon2",
+  "url": "https://github.com/jfgordon2/vsterm.nvim"
+}

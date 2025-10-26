@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "map function utiliy"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-08-15T12:31:09Z",
+    "description": "For those who just can't help themselves",
+    "isArchived": false,
+    "lastCommit": "2025-08-18T12:14:24Z",
+    "nameWithOwner": "piersolenski/plugin-addict.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "plugin-manager"
+    ]
+  },
+  "domain": "github.com",
+  "name": "plugin-addict.nvim",
+  "owner": "piersolenski",
+  "url": "https://github.com/piersolenski/plugin-addict.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
+          "name": "IPA Keyboard"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-05T17:06:34Z",
+    "description": "A Neovim plugin for typing the International Phonetic Alphabet in the safety of your favorite modal editor.",
+    "isArchived": false,
+    "lastCommit": "2025-10-05T17:18:15Z",
+    "nameWithOwner": "Icni/ipa.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ipa.nvim",
+  "owner": "Icni",
+  "url": "https://github.com/Icni/ipa.nvim"
+}

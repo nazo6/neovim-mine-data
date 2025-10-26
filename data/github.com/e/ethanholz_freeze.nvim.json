@@ -2,33 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Image"
-        },
-        {
-          "level": 3,
-          "name": "Screen Key (Show Typing key)"
-        },
-        {
-          "level": 4,
-          "name": "Code Image"
-        }
       ],
-      "file": "image.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 1,
     "createdAt": "2024-03-29T15:24:10Z",
     "description": "A Neovim plugin for freeze",
-    "isArchived": false,
-    "lastCommit": "2024-05-22T06:34:42Z",
+    "isArchived": true,
+    "lastCommit": "2025-08-12T08:38:09Z",
     "nameWithOwner": "ethanholz/freeze.nvim",
     "primaryLanguage": {
       "color": "#000080",

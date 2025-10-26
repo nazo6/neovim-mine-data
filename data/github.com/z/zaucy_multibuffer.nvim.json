@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-05-19T01:51:57Z",
+    "description": "Multibuffer API for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-24T21:01:45Z",
+    "nameWithOwner": "zaucy/multibuffer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "multibuffer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "multibuffer.nvim",
+  "owner": "zaucy",
+  "url": "https://github.com/zaucy/multibuffer.nvim"
+}

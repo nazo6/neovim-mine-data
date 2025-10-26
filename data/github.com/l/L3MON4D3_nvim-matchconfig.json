@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "make"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2024-06-28T10:13:32Z",
+    "description": "Declaratively define and apply configurations in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-15T18:01:30Z",
+    "nameWithOwner": "L3MON4D3/nvim-matchconfig",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-matchconfig",
+  "owner": "L3MON4D3",
+  "url": "https://github.com/L3MON4D3/nvim-matchconfig"
+}

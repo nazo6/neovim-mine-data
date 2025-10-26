@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 165,
+    "commitCountLastYear": 167,
     "createdAt": "2024-11-04T00:25:58Z",
-    "description": "Ask for help in the vim command line. Just type a question, Ctrl+B and voila a working command!",
+    "description": "OSS predictions plugin for neovim (see feat-predictions branch)...  originally just a plugin to ask questions in vim's cmdline",
     "isArchived": false,
-    "lastCommit": "2025-01-25T05:36:12Z",
+    "lastCommit": "2025-08-05T20:26:21Z",
     "nameWithOwner": "g0t4/ask-openai.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 9,
     "topics": [
       "neovim-plugin"
     ]

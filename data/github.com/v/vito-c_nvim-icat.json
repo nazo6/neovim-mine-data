@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Viewer"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-06-09T19:40:56Z",
+    "description": "small plugin to display an image in neovim using iterm2",
+    "isArchived": false,
+    "lastCommit": "2025-06-09T19:48:14Z",
+    "nameWithOwner": "vito-c/nvim-icat",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-icat",
+  "owner": "vito-c",
+  "url": "https://github.com/vito-c/nvim-icat"
+}

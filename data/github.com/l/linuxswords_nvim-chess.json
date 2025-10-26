@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Chess"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 88,
+    "createdAt": "2025-10-08T19:05:32Z",
+    "description": "Play chess in neo-vim, your favorite editor",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T20:50:19Z",
+    "nameWithOwner": "linuxswords/nvim-chess",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "chess",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-chess",
+  "owner": "linuxswords",
+  "url": "https://github.com/linuxswords/nvim-chess"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        },
+        {
+          "level": 4,
+          "name": "Gemini CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-07-25T10:41:07Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-26T03:41:44Z",
+    "nameWithOwner": "prime-run/gemini.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gemini.nvim",
+  "owner": "prime-run",
+  "url": "https://github.com/prime-run/gemini.nvim"
+}

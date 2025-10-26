@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "Tips"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-05-17T19:55:33Z",
+    "description": "A neovim plugin to show tips and tricks on startup of the neovim as notifications",
+    "isArchived": false,
+    "lastCommit": "2025-06-01T18:34:50Z",
+    "nameWithOwner": "cksidharthan/mentor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugins",
+      "neovim",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mentor.nvim",
+  "owner": "cksidharthan",
+  "url": "https://github.com/cksidharthan/mentor.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screen Key (Show Typing key)"
+        },
+        {
+          "level": 4,
+          "name": "Code Image"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-07-16T17:38:27Z",
+    "description": "Nvim plugin for effortlessly taking beautiful and ready-to-share screenshots of your code. ",
+    "isArchived": false,
+    "lastCommit": "2025-07-17T05:09:08Z",
+    "nameWithOwner": "flothjl/codeshot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codeshot.nvim",
+  "owner": "flothjl",
+  "url": "https://github.com/flothjl/codeshot.nvim"
+}

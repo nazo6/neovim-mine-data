@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-08-10T11:48:17Z",
+    "description": "Neovim plugin to run LLM coding agents in isolated Git work trees with auto‑commit, tabbed sessions, and safe cleanup.",
+    "isArchived": false,
+    "lastCommit": "2025-08-14T17:11:42Z",
+    "nameWithOwner": "cyphersnake/agents-in-a-chest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "claude",
+      "codex",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "agents-in-a-chest.nvim",
+  "owner": "cyphersnake",
+  "url": "https://github.com/cyphersnake/llm-legion.nvim"
+}

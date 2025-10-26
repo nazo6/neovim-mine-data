@@ -17,21 +17,39 @@
       ],
       "file": "terminal.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Terminal Integration"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 26,
     "createdAt": "2024-11-20T12:59:49Z",
-    "description": "Tiny plugin for toggling floating terminals and windows, inspired by toggleterm.nvim",
+    "description": "A tiny (<200 LOC) but highly customizable floating terminal manager.",
     "isArchived": false,
-    "lastCommit": "2024-11-25T16:25:43Z",
+    "lastCommit": "2025-09-12T18:35:19Z",
     "nameWithOwner": "ingur/floatty.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 17,
     "topics": [
+      "neovim-plugin",
+      "lua",
+      "neovim",
+      "lazygit"
     ]
   },
   "domain": "github.com",

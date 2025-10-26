@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Info"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-08-26T00:13:41Z",
+    "description": "Nvim plugin to list all plugins along with describing their purpose",
+    "isArchived": false,
+    "lastCommit": "2025-08-26T02:19:29Z",
+    "nameWithOwner": "Eddysunday012/plugin_list.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plugin_list.nvim",
+  "owner": "Eddysunday012",
+  "url": "https://github.com/Eddysunday012/plugin_list.nvim"
+}

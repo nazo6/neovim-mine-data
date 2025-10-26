@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C64"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-10-18T11:10:48Z",
+    "description": "Neovim Plugin for the development of C64 Assembler Code, using kickass_ls, vice and vice monitor",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T08:06:56Z",
+    "nameWithOwner": "cybersorcerer/c64.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "c64.nvim",
+  "owner": "cybersorcerer",
+  "url": "https://github.com/cybersorcerer/c64.nvim"
+}

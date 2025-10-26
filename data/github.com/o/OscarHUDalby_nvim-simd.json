@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-09-26T17:17:44Z",
+    "description": "A Neovim plugin which adds a suite of key mappings for viewing and editing Markdown files.",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T08:28:54Z",
+    "nameWithOwner": "OscarHUDalby/nvim-simd",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-simd",
+  "owner": "OscarHUDalby",
+  "url": "https://github.com/OscarHUDalby/nvim-simd"
+}

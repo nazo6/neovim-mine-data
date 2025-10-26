@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hover Doc"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-09-09T20:46:16Z",
+    "description": "plugin show RTL text correctly on hover",
+    "isArchived": false,
+    "lastCommit": "2025-09-11T19:50:13Z",
+    "nameWithOwner": "hadikhamoud/hover-rtl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hover-rtl.nvim",
+  "owner": "hadikhamoud",
+  "url": "https://github.com/hadikhamoud/hover-rtl.nvim"
+}

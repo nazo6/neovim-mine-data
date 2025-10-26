@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Path"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-07-24T12:49:14Z",
+    "description": "A sneaky Neovim plugin to snatch file info and stash it in your clipboard like a ninja.",
+    "isArchived": false,
+    "lastCommit": "2025-07-25T09:04:57Z",
+    "nameWithOwner": "57656E6474/snatch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snatch.nvim",
+  "owner": "57656E6474",
+  "url": "https://github.com/57656E6474/snatch.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "GABC"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 87,
+    "createdAt": "2025-10-14T18:02:16Z",
+    "description": "Neovim plugin that adds support for Gregorio project files, including including GABC/NABC syntax highlighting, snippets, and editing commands.",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T11:05:13Z",
+    "nameWithOwner": "AISCGre-BR/gregorio.nvim",
+    "primaryLanguage": {
+      "color": "#199f4b",
+      "name": "Vim Script"
+    },
+    "star": 2,
+    "topics": [
+      "gabc",
+      "gregorio",
+      "nabc",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gregorio.nvim",
+  "owner": "AISCGre-BR",
+  "url": "https://github.com/AISCGre-BR/gregorio.nvim"
+}

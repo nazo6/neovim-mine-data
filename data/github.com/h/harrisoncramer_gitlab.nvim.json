@@ -4,6 +4,24 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "GitLab"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -16,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 7,
     "createdAt": "2023-04-16T13:37:58Z",
     "description": "Manage Gitlab resources in Neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-14T21:51:53Z",
+    "lastCommit": "2025-06-25T00:53:51Z",
     "nameWithOwner": "harrisoncramer/gitlab.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 288,
+    "star": 333,
     "topics": [
       "gitlab",
       "neovim",
@@ -36,5 +54,5 @@
   "domain": "github.com",
   "name": "gitlab.nvim",
   "owner": "harrisoncramer",
-  "url": "https://github.com/harrisoncramer/gitlab.nvim"
+  "url": "https://github.com/harrisoncramer/GitLab.nvim"
 }

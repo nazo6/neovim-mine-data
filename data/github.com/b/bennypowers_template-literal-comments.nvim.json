@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2023-04-18T16:51:55Z",
     "description": "highlight languages embedded in ECMAScript template literals by adding a comment",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 17,
     "topics": [
       "neovim",
       "nvim-treesitter",

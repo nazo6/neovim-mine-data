@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Textobject"
+        },
+        {
+          "level": 3,
+          "name": "Swap"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-07-26T18:07:40Z",
+    "description": "swap the last two letters",
+    "isArchived": false,
+    "lastCommit": "2025-07-27T23:46:34Z",
+    "nameWithOwner": "Ricie23/dyslexic-swap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dyslexic-swap.nvim",
+  "owner": "Ricie23",
+  "url": "https://github.com/Ricie23/dyslexic-swap.nvim"
+}

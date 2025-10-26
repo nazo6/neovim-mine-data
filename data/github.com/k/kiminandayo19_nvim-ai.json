@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Chat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-08-12T06:19:43Z",
+    "description": "Neovim plugin to connect with local AI servers for chat and code assistance",
+    "isArchived": false,
+    "lastCommit": "2025-08-12T06:49:11Z",
+    "nameWithOwner": "kiminandayo19/nvim-ai",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ai",
+  "owner": "kiminandayo19",
+  "url": "https://github.com/kiminandayo19/nvim-ai"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-07-11T20:13:46Z",
+    "description": "neovim plugin to embed the REPL of the currently used language.",
+    "isArchived": false,
+    "lastCommit": "2025-07-12T19:55:48Z",
+    "nameWithOwner": "moise-dev/nvim-repl",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-repl",
+  "owner": "moise-dev",
+  "url": "https://github.com/gaiwan-dev/nvim-repl"
+}

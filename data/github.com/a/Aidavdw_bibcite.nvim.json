@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "BiBTex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2025-06-01T11:28:05Z",
+    "description": "A neovim plugin for using your bibtex database, PDFs, and notes. Mirrored repository from codeberg.org/aidavdw/bibcite.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-07-21T09:27:01Z",
+    "nameWithOwner": "Aidavdw/bibcite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "bibtex",
+      "latex",
+      "nvim",
+      "nvim-plugin",
+      "reference-management",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bibcite.nvim",
+  "owner": "Aidavdw",
+  "url": "https://github.com/Aidavdw/bibcite.nvim"
+}

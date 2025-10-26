@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-07-23T01:43:54Z",
+    "description": "A highly customizable statusline and winbar for Neovim, featuring intelligent item loading, gradient-based theming, git integration, and context-aware configurations designed for modern development workflows.",
+    "isArchived": false,
+    "lastCommit": "2025-08-21T05:11:17Z",
+    "nameWithOwner": "LuxVim/nvim-luxline",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-luxline",
+  "owner": "LuxVim",
+  "url": "https://github.com/LuxVim/nvim-luxline"
+}

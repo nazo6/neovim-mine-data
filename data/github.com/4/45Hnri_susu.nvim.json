@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Superscript Subscript"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-04-26T19:45:49Z",
+    "description": "Neovim Plugin to quickly write super-/subscript",
+    "isArchived": false,
+    "lastCommit": "2025-10-06T22:04:22Z",
+    "nameWithOwner": "45Hnri/susu.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin",
+      "subscript",
+      "superscript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "susu.nvim",
+  "owner": "45Hnri",
+  "url": "https://github.com/HenrisHub/susu.nvim"
+}

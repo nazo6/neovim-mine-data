@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Zellij"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-06-02T13:57:57Z",
+    "description": "This is a Neovim plugin that integrates window navigation with zellij.  It creates four new commands that will move between windows inside Neovim (like ^w h et al.), but once it reaches the edge of your editor, it will attempt to switch to the next zellij pane.",
+    "isArchived": false,
+    "lastCommit": "2025-06-02T14:58:40Z",
+    "nameWithOwner": "dev-vinicius-andrade/zellij-nav.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zellij-nav.nvim",
+  "owner": "dev-vinicius-andrade",
+  "url": "https://github.com/dev-vinicius-andrade/zellij-nav.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Serial Version"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-07-14T11:02:06Z",
+    "description": "Neovim plugin for generating and validating Java serialVersionUID values.",
+    "isArchived": false,
+    "lastCommit": "2025-08-02T06:27:48Z",
+    "nameWithOwner": "aleksihussa/serialuid.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "serialuid.nvim",
+  "owner": "aleksihussa",
+  "url": "https://github.com/aleksihussa/serialuid.nvim"
+}

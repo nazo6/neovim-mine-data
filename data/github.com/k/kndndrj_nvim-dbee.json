@@ -17,20 +17,34 @@
       ],
       "file": "db.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 121,
+    "commitCountLastYear": 78,
     "createdAt": "2023-01-24T08:24:17Z",
     "description": "Interactive database client for neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-24T15:33:04Z",
+    "lastCommit": "2025-07-25T10:27:16Z",
     "nameWithOwner": "kndndrj/nvim-dbee",
     "primaryLanguage": {
       "color": "#00ADD8",
       "name": "Go"
     },
-    "star": 987,
+    "star": 1149,
     "topics": [
       "neovim",
       "bee",

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "ignore"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-07-10T07:41:31Z",
+    "description": "A small Neovim extension to prevent AI coding plugins (e.g. copilot.lua) from attaching to files and directories specified in an .aiignore file.",
+    "isArchived": false,
+    "lastCommit": "2025-07-16T03:30:15Z",
+    "nameWithOwner": "ozars/aiignore.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "copilot",
+      "neovim",
+      "lua",
+      "ai",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "aiignore.nvim",
+  "owner": "ozars",
+  "url": "https://github.com/ozars/aiignore.nvim"
+}

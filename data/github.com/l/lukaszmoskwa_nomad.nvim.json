@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Nomad"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-27T03:39:10Z",
+    "description": "Nomad.nvim is a Neovim plugin that provides a beautiful sidebar interface to explore and manage your Nomad cluster directly from your editor. Monitor jobs, nodes, and cluster topology with ease.",
+    "isArchived": false,
+    "lastCommit": "2025-06-27T08:40:40Z",
+    "nameWithOwner": "lukaszmoskwa/nomad.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nomad.nvim",
+  "owner": "lukaszmoskwa",
+  "url": "https://github.com/lukaszmoskwa/nomad.nvim"
+}

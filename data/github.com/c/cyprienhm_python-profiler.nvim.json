@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
+          "name": "Profiler"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2025-08-14T11:46:47Z",
+    "description": "a neovim plugin to show python profiling results in code",
+    "isArchived": false,
+    "lastCommit": "2025-08-21T01:27:06Z",
+    "nameWithOwner": "cyprienhm/python-profiler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "python-profiler.nvim",
+  "owner": "cyprienhm",
+  "url": "https://github.com/cyprienhm/python-profiler.nvim"
+}

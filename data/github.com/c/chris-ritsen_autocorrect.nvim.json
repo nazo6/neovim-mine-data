@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Spell"
+        },
+        {
+          "level": 3,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-09-05T15:01:19Z",
+    "description": "Neovim plugin for typo autocorrection using iabbrev with over 52,000 entries.",
+    "isArchived": false,
+    "lastCommit": "2025-09-09T15:01:06Z",
+    "nameWithOwner": "chris-ritsen/autocorrect.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "nvim",
+      "autocorrecct",
+      "nvim-plugin",
+      "spellcheck"
+    ]
+  },
+  "domain": "github.com",
+  "name": "autocorrect.nvim",
+  "owner": "chris-ritsen",
+  "url": "https://github.com/chris-ritsen/autocorrect.nvim"
+}

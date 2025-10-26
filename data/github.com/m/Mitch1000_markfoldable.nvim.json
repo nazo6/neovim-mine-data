@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2025-07-24T21:17:50Z",
+    "description": "A Neovim plugin for marking folds as opened or closed",
+    "isArchived": false,
+    "lastCommit": "2025-10-16T19:25:14Z",
+    "nameWithOwner": "Mitch1000/markfoldable.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markfoldable.nvim",
+  "owner": "Mitch1000",
+  "url": "https://github.com/Mitch1000/markfoldable.nvim"
+}

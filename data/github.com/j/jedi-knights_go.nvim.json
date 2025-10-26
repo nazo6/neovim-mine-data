@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-08-04T13:41:14Z",
+    "description": "A general purpose quality of life plugin for Go development.",
+    "isArchived": false,
+    "lastCommit": "2025-08-04T13:53:52Z",
+    "nameWithOwner": "jedi-knights/go.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go.nvim",
+  "owner": "jedi-knights",
+  "url": "https://github.com/jedi-knights/go.nvim"
+}

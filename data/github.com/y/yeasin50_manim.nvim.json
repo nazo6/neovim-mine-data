@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Packages"
+        },
+        {
+          "level": 3,
+          "name": "Manim"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-09-03T13:10:57Z",
+    "description": "Play and preview Manim Community scenes directly from Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-28T02:34:36Z",
+    "nameWithOwner": "yeasin50/manim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "manim",
+      "nvim",
+      "lua",
+      "neovim-plugin",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "manim.nvim",
+  "owner": "yeasin50",
+  "url": "https://github.com/yeasin50/manim.nvim"
+}

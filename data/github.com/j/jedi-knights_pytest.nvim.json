@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "test"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2025-05-02T02:14:00Z",
+    "description": "A neovim plugin for pytest.",
+    "isArchived": false,
+    "lastCommit": "2025-07-24T18:02:42Z",
+    "nameWithOwner": "jedi-knights/pytest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pytest.nvim",
+  "owner": "jedi-knights",
+  "url": "https://github.com/jedi-knights/pytest.nvim"
+}

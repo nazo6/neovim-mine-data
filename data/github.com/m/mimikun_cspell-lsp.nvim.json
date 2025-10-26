@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Spell"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Spellcheck"
         }
       ],
@@ -20,11 +20,10 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 10,
     "createdAt": "2025-02-06T13:08:44Z",
-    "description": null,
     "isArchived": false,
-    "lastCommit": "2025-02-06T13:08:31Z",
+    "lastCommit": "2025-09-15T02:36:38Z",
     "nameWithOwner": "mimikun/cspell-lsp.nvim",
     "primaryLanguage": {
       "color": "#000080",

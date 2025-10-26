@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Convert Word"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-08-16T14:54:21Z",
+    "description": "A very simple and lightweight plugin to toggle operators and boolean values.",
+    "isArchived": false,
+    "lastCommit": "2025-08-17T13:50:17Z",
+    "nameWithOwner": "lucas-garcia-rubio/switcher.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "switcher.nvim",
+  "owner": "lucas-garcia-rubio",
+  "url": "https://github.com/lucas-garcia-rubio/switcher.nvim"
+}

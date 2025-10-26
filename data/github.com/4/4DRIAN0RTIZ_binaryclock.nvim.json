@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Clock"
         }
       ],
@@ -16,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 5,
     "createdAt": "2024-12-26T20:25:46Z",
     "description": "A Neovim plugin that displays the time in binary.",
     "isArchived": false,
-    "lastCommit": "2025-01-06T14:39:57Z",
+    "lastCommit": "2025-08-09T15:58:23Z",
     "nameWithOwner": "4DRIAN0RTIZ/binaryclock.nvim",
     "primaryLanguage": {
       "color": "#000080",

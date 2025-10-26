@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-08-05T23:08:09Z",
+    "description": "A plugin to track terminals opened by neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-11T22:10:55Z",
+    "nameWithOwner": "4strodev/termtracker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "termtracker.nvim",
+  "owner": "4strodev",
+  "url": "https://github.com/4strodev/termtracker.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-10-20T02:19:29Z",
+    "description": "A very simple SchemaStore Catalog wrapper for Neovim to help with YAML Schemas.",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T02:50:08Z",
+    "nameWithOwner": "r35krag0th/kube-schemas.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "json-schema",
+      "neovim-plugin",
+      "yaml-language-server"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kube-schemas.nvim",
+  "owner": "r35krag0th",
+  "url": "https://github.com/r35krag0th/kube-schemas.nvim"
+}

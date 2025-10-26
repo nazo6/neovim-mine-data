@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Statusline component"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-08-23T04:57:02Z",
+    "description": "Display skyline color & clock in your lualine statusline.",
+    "isArchived": false,
+    "lastCommit": "2025-08-23T07:08:17Z",
+    "nameWithOwner": "sabiz/skyline-color.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "skyline-color.nvim",
+  "owner": "sabiz",
+  "url": "https://github.com/sabiz/skyline-color.nvim"
+}

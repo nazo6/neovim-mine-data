@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-07-06T19:51:27Z",
+    "description": "Just a preview for Neovim's quickfix list",
+    "isArchived": false,
+    "lastCommit": "2025-07-11T13:58:41Z",
+    "nameWithOwner": "r0nsha/qfpreview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "qfpreview.nvim",
+  "owner": "r0nsha",
+  "url": "https://github.com/r0nsha/qfpreview.nvim"
+}

@@ -1,0 +1,35 @@
+{
+  "category": [
+    {
+      "data": [
+      ],
+      "file": "Archived.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-18T14:08:27Z",
+    "description": "fold `if err := nil {...}` of Go",
+    "isArchived": true,
+    "lastCommit": "2025-05-22T14:37:51Z",
+    "nameWithOwner": "candy12t/goerrfold.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "go",
+      "golang",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "goerrfold.nvim",
+  "owner": "candy12t",
+  "url": "https://github.com/candy12t/goerrfold.nvim"
+}

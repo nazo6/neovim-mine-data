@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "sort"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-08-19T18:50:13Z",
+    "isArchived": false,
+    "lastCommit": "2025-09-20T17:28:42Z",
+    "nameWithOwner": "cosmas375/nvim-buffer-sorter",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-buffer-sorter",
+  "owner": "cosmas375",
+  "url": "https://github.com/cosmas375/nvim-buffer-sorter"
+}

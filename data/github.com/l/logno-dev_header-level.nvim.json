@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown header"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-07-30T19:35:11Z",
+    "isArchived": false,
+    "lastCommit": "2025-08-19T20:29:12Z",
+    "nameWithOwner": "logno-dev/header-level.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "header-level.nvim",
+  "owner": "logno-dev",
+  "url": "https://github.com/logno-dev/header-level.nvim"
+}

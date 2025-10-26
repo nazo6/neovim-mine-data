@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Neovim in Neovim"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2025-07-29T19:10:39Z",
+    "description": "No worry about nested Nvim in Nvim terminal",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T00:30:57Z",
+    "nameWithOwner": "brianhuster/unnest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 84,
+    "topics": [
+      "neovim-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "unnest.nvim",
+  "owner": "brianhuster",
+  "url": "https://github.com/brianhuster/unnest.nvim"
+}

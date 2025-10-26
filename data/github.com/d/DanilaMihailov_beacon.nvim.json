@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2020-06-23T14:15:07Z",
     "description": "Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 502,
+    "star": 577,
     "topics": [
       "neovim",
       "neovim-plugin"

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-10T14:54:02Z",
+    "description": "A simple todo plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-10T14:55:48Z",
+    "nameWithOwner": "TimothyGCY/todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "minimal",
+      "neovim",
+      "neovim-plugin",
+      "todo",
+      "todoapp",
+      "todolist",
+      "todolist-application"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "TimothyGCY",
+  "url": "https://github.com/TimothyGCY/todo.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "MTG"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-08-21T04:17:05Z",
+    "description": "MTG Collections in plain text",
+    "isArchived": false,
+    "lastCommit": "2025-08-28T13:59:12Z",
+    "nameWithOwner": "mvargasmoran/collector.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "collector.nvim",
+  "owner": "mvargasmoran",
+  "url": "https://github.com/mvargasmoran/collector.nvim"
+}

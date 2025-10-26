@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "View"
+        },
+        {
+          "level": 3,
+          "name": "modeline"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-07-20T13:26:37Z",
+    "description": "Tiny template to add and update modelines",
+    "isArchived": false,
+    "lastCommit": "2025-10-20T15:26:00Z",
+    "nameWithOwner": "Coding4Glory/modneo-modeline",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "modneo-modeline",
+  "owner": "Coding4Glory",
+  "url": "https://github.com/Coding4Glory/tiny-modeline.nvim"
+}

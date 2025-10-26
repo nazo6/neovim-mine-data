@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-07-10T14:16:27Z",
+    "description": "A highly customizable highlighter for the f/F/t/T motions in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-08-10T11:28:20Z",
+    "nameWithOwner": "samiulsami/fFtT-highlights.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fFtT-highlights.nvim",
+  "owner": "samiulsami",
+  "url": "https://github.com/samiulsami/fFtT-highlights.nvim"
+}

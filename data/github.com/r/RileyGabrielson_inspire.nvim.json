@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Cowsay"
         }
       ],
@@ -18,7 +22,6 @@
   "data": {
     "commitCountLastYear": 26,
     "createdAt": "2025-03-28T06:57:28Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2025-04-18T19:23:22Z",
     "nameWithOwner": "RileyGabrielson/inspire.nvim",
@@ -26,7 +29,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 13,
+    "star": 15,
     "topics": [
     ]
   },

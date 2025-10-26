@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2024-03-28T16:13:36Z",
+    "description": "Work with diff hunks. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T11:27:17Z",
+    "nameWithOwner": "nvim-mini/mini.diff",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 185,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.diff",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.diff"
+}

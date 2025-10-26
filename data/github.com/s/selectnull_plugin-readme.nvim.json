@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 0,
     "createdAt": "2024-09-13T09:24:06Z",
     "description": "Lists Neovim plugins (installed by Lazy.nvim) and shows README files.",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
       "neovim",
       "neovim-plugin"

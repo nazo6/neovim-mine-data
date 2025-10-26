@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-11T05:21:08Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T06:12:08Z",
+    "nameWithOwner": "senkentarou/csv-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "csv-tools.nvim",
+  "owner": "senkentarou",
+  "url": "https://github.com/senkentarou/csv-tools.nvim"
+}

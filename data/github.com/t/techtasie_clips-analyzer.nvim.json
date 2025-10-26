@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        },
+        {
+          "level": 4,
+          "name": "CLIPS(C Language Integrated Production System)"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-07-19T21:33:23Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-19T21:56:39Z",
+    "nameWithOwner": "techtasie/clips-analyzer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clips-analyzer.nvim",
+  "owner": "techtasie",
+  "url": "https://github.com/techtasie/clips-analyzer.nvim"
+}

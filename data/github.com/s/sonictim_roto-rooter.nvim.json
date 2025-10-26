@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Root Detector"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-09-15T04:42:27Z",
+    "description": " Automatic project root detection for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-16T04:22:49Z",
+    "nameWithOwner": "sonictim/roto-rooter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "roto-rooter.nvim",
+  "owner": "sonictim",
+  "url": "https://github.com/sonictim/roto-rooter.nvim"
+}

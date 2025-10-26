@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        },
+        {
+          "level": 4,
+          "name": "Snippet view"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-09-28T14:06:45Z",
+    "description": "A minimal snippet browser for LuaSnip, featuring fuzzy search, popup UI, and one-key expansion.",
+    "isArchived": false,
+    "lastCommit": "2025-10-16T21:08:57Z",
+    "nameWithOwner": "blaze-d83/snipbrowzurr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "fuzzy-search",
+      "lua",
+      "luasnip",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snipbrowzurr.nvim",
+  "owner": "blaze-d83",
+  "url": "https://github.com/blaze-d83/snipbrowzurr.nvim"
+}

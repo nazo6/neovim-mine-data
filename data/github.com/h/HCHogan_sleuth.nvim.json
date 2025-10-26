@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Option"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-28T05:54:22Z",
+    "description": "A Lua port of Tim Pope's sleuth.vim for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-28T10:44:22Z",
+    "nameWithOwner": "HCHogan/sleuth.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sleuth.nvim",
+  "owner": "HCHogan",
+  "url": "https://github.com/HCHogan/sleuth.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git pull"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-07-12T16:51:00Z",
+    "description": "Automatic and configurable git repository synchronization for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-12T17:10:32Z",
+    "nameWithOwner": "luispflamminger/git-sync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-sync.nvim",
+  "owner": "luispflamminger",
+  "url": "https://github.com/luispflamminger/git-sync.nvim"
+}

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Cowsay"
         },
         {
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 0,
     "createdAt": "2024-06-13T07:46:02Z",
     "description": "A simple fact fetcher for NeoVim",
     "isArchived": false,

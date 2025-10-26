@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Textobject"
+        },
+        {
+          "level": 3,
+          "name": "Surround"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-03T21:40:45Z",
+    "description": "A simple neovim plugin to allow easy surrounding of text.",
+    "isArchived": false,
+    "lastCommit": "2025-10-04T00:12:31Z",
+    "nameWithOwner": "joshjkns/tuck.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tuck.nvim",
+  "owner": "joshjkns",
+  "url": "https://github.com/joshjkns/tuck.nvim"
+}

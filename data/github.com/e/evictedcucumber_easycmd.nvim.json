@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Command style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-06-05T12:25:41Z",
+    "description": "A basic easy interface for running commands.",
+    "isArchived": false,
+    "lastCommit": "2025-06-21T14:56:09Z",
+    "nameWithOwner": "evictedcucumber/easycmd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "easycmd.nvim",
+  "owner": "evictedcucumber",
+  "url": "https://github.com/evictedcucumber/easycmd.nvim"
+}

@@ -8,29 +8,29 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
+          "name": "Security"
         },
         {
           "level": 3,
           "name": "Password Manager"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "security.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 10,
     "createdAt": "2022-07-30T16:39:56Z",
     "description": "🔑 1Password for Neovim! Built using the 1Password CLI, Go, and Lua.",
     "isArchived": false,
-    "lastCommit": "2024-08-31T16:16:05Z",
+    "lastCommit": "2025-08-19T13:46:20Z",
     "nameWithOwner": "mrjones2014/op.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 91,
+    "star": 99,
     "topics": [
       "lua",
       "neovim",

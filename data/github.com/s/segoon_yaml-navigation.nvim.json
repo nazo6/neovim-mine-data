@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "YAML"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-04-20T10:19:23Z",
+    "description": "nvim plugin for $ref navigation through YAML files",
+    "isArchived": false,
+    "lastCommit": "2025-07-11T15:27:05Z",
+    "nameWithOwner": "segoon/yaml-navigation.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yaml-navigation.nvim",
+  "owner": "segoon",
+  "url": "https://github.com/segoon/yaml-navigation.nvim"
+}

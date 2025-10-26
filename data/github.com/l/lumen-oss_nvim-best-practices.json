@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Docs"
+        },
+        {
+          "level": 3,
+          "name": "Best Practices"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2024-05-14T06:45:21Z",
+    "description": "Collection of DOs and DON'Ts for modern Neovim Lua plugin development",
+    "isArchived": false,
+    "lastCommit": "2025-09-15T15:26:56Z",
+    "nameWithOwner": "lumen-oss/nvim-best-practices",
+    "star": 587,
+    "topics": [
+      "best-practices",
+      "development",
+      "guide",
+      "lua",
+      "neovim",
+      "nvim",
+      "plugin",
+      "plugin-development"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-best-practices",
+  "owner": "lumen-oss",
+  "url": "https://github.com/nvim-neorocks/nvim-best-practices"
+}

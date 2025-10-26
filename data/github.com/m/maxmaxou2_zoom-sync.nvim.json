@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Zoom"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-07-28T19:07:44Z",
+    "description": "Seamlessly synchronize zoom between Neovim and tmux — full-screen one, and the other follows.",
+    "isArchived": false,
+    "lastCommit": "2025-07-30T20:56:49Z",
+    "nameWithOwner": "maxmaxou2/zoom-sync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zoom-sync.nvim",
+  "owner": "maxmaxou2",
+  "url": "https://github.com/maxmaxou2/zoom-sync.nvim"
+}

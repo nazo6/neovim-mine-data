@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2024-04-09T16:35:21Z",
+    "description": "A Neovim port of the classic blue theme from TextMate 💙",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T14:08:48Z",
+    "nameWithOwner": "wurli/cobalt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "neovim-colorscheme",
+      "nvim",
+      "nvim-plugin",
+      "colorblind",
+      "colorscheme",
+      "daltonism"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cobalt.nvim",
+  "owner": "wurli",
+  "url": "https://github.com/wurli/cobalt.nvim"
+}

@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Checker"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Update check"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 115,
+    "commitCountLastYear": 31,
     "createdAt": "2024-09-12T05:23:37Z",
     "description": "A plugin for building and updating neovim from source within neovim.",
     "isArchived": false,
@@ -30,10 +30,11 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 8,
     "topics": [
       "neovim",
-      "neovim-plugin"
+      "neovim-plugin",
+      "nvim"
     ]
   },
   "domain": "github.com",

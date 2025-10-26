@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-10-09T22:38:37Z",
+    "description": "Overlay word-level diff highlighting on git commit message diffs",
+    "isArchived": false,
+    "lastCommit": "2025-10-09T22:57:01Z",
+    "nameWithOwner": "mcauley-penney/intraline-diff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "intraline-diff.nvim",
+  "owner": "mcauley-penney",
+  "url": "https://github.com/mcauley-penney/intraline-diff.nvim"
+}

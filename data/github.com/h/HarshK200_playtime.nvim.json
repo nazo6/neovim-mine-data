@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-04-27T17:27:00Z",
+    "description": "Shows the current playtime of your working directory that nvim is open in since the first time you opened it.",
+    "isArchived": false,
+    "lastCommit": "2025-06-20T10:45:31Z",
+    "nameWithOwner": "HarshK200/playtime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "playtime.nvim",
+  "owner": "HarshK200",
+  "url": "https://github.com/HarshK200/playtime.nvim"
+}

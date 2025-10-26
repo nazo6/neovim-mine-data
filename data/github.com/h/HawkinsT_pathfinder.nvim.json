@@ -17,25 +17,41 @@
       ],
       "file": "motion.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 51,
+    "commitCountLastYear": 194,
     "createdAt": "2025-03-19T00:06:02Z",
-    "description": "A Neovim plugin to enhance gf/gF with look ahead and provide target-based file hopping.",
+    "description": "A Neovim plugin which enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.",
     "isArchived": false,
-    "lastCommit": "2025-04-14T22:45:30Z",
+    "lastCommit": "2025-09-17T17:11:18Z",
     "nameWithOwner": "HawkinsT/pathfinder.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 41,
+    "star": 52,
     "topics": [
       "lua",
       "navigation",
       "neovim",
-      "neovim-plugin"
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

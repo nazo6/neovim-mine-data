@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        },
+        {
+          "level": 4,
+          "name": "Gemini CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2025-09-25T12:50:27Z",
+    "description": "A Neovim plugin to integrate Gemini CLI well (+ Qwen-code now)",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T18:46:30Z",
+    "nameWithOwner": "gutsavgupta/nvim-gemini-companion",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 36,
+    "topics": [
+      "gemini-cli",
+      "ide-integration",
+      "lua",
+      "nvim",
+      "qwen-coder",
+      "qwen-code"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gemini-companion",
+  "owner": "gutsavgupta",
+  "url": "https://github.com/gutsavgupta/nvim-gemini-companion"
+}

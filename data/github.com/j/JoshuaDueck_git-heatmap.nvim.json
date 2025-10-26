@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git log"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-08-18T20:20:23Z",
+    "description": "A line heatmap viewer for Neovim based on commit date & change frequency.",
+    "isArchived": false,
+    "lastCommit": "2025-08-18T20:43:22Z",
+    "nameWithOwner": "JoshuaDueck/git-heatmap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-heatmap.nvim",
+  "owner": "JoshuaDueck",
+  "url": "https://github.com/JoshuaDueck/git-heatmap.nvim"
+}

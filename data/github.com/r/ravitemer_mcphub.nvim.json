@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "Model Context Protocol"
+          "name": "Model Context Protocol(MCP)"
         }
       ],
       "file": "ai.md",
@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 190,
+    "commitCountLastYear": 401,
     "createdAt": "2025-02-19T06:55:16Z",
-    "description": "A powerful Neovim plugin for managing MCP (Model Context Protocol) servers",
+    "description": "An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.",
     "isArchived": false,
-    "lastCommit": "2025-04-19T13:38:38Z",
+    "lastCommit": "2025-09-28T04:54:02Z",
     "nameWithOwner": "ravitemer/mcphub.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 680,
+    "star": 1589,
     "topics": [
       "avante",
       "chatgpt",

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "DevDocs"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 63,
+    "createdAt": "2025-04-22T16:46:33Z",
+    "description": "neovim apidocs browser",
+    "isArchived": false,
+    "lastCommit": "2025-09-30T15:15:48Z",
+    "nameWithOwner": "emmanueltouzery/apidocs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 60,
+    "topics": [
+      "devdocs",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "apidocs.nvim",
+  "owner": "emmanueltouzery",
+  "url": "https://github.com/emmanueltouzery/apidocs.nvim"
+}

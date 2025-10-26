@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "quit"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 131,
+    "createdAt": "2025-08-23T23:52:52Z",
+    "description": "The Escalating Escape system for Saving and Quitting Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-09T22:28:35Z",
+    "nameWithOwner": "sonictim/escape-hatch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "escape-hatch.nvim",
+  "owner": "sonictim",
+  "url": "https://github.com/sonictim/escape-hatch.nvim"
+}

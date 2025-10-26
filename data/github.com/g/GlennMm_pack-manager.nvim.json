@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-08-06T21:14:43Z",
+    "isArchived": false,
+    "lastCommit": "2025-08-08T07:59:29Z",
+    "nameWithOwner": "GlennMm/pack-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pack-manager.nvim",
+  "owner": "GlennMm",
+  "url": "https://github.com/GlennMm/pack-manager.nvim"
+}

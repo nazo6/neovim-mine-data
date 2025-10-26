@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util wrapper"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-23T20:03:28Z",
+    "description": "Small library collection for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-24T22:34:57Z",
+    "nameWithOwner": "Grub4K/glib.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "glib.nvim",
+  "owner": "Grub4K",
+  "url": "https://github.com/Grub4K/glib.nvim"
+}

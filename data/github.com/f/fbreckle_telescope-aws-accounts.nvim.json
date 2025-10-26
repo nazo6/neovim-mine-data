@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "AWS"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-08-31T09:32:19Z",
+    "description": "A Telescope extension to quickly access your AWS account IDs",
+    "isArchived": false,
+    "lastCommit": "2025-09-02T21:16:54Z",
+    "nameWithOwner": "fbreckle/telescope-aws-accounts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-aws-accounts.nvim",
+  "owner": "fbreckle",
+  "url": "https://github.com/fbreckle/telescope-aws-accounts.nvim"
+}

@@ -25,20 +25,46 @@
       ],
       "file": "buffer.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "open"
+        },
+        {
+          "level": 5,
+          "name": "recent file"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 35,
     "createdAt": "2025-02-20T01:36:51Z",
     "description": "MRU(Most Recently Used) Files for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-13T11:42:33Z",
+    "lastCommit": "2025-10-18T16:06:36Z",
     "nameWithOwner": "wsdjeg/mru.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 7,
     "topics": [
       "mru",
       "neovim-plugin"

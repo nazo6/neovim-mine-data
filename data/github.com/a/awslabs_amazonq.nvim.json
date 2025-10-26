@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Amazon Q"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-13T14:28:55Z",
+    "description": "Neovim Plugin for Amazon Q Developer",
+    "isArchived": false,
+    "lastCommit": "2025-09-03T13:32:56Z",
+    "nameWithOwner": "awslabs/amazonq.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 167,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "amazonq.nvim",
+  "owner": "awslabs",
+  "url": "https://github.com/awslabs/amazonq.nvim"
+}

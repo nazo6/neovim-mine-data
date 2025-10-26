@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 4,
     "createdAt": "2024-02-05T12:08:39Z",
     "description": "Automatically install formatters registered with conform.nvim via mason.nvim",
-    "isArchived": false,
-    "lastCommit": "2025-03-10T14:29:24Z",
+    "isArchived": true,
+    "lastCommit": "2025-08-08T10:49:28Z",
     "nameWithOwner": "zapling/mason-conform.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 76,
+    "star": 99,
     "topics": [
       "lua",
       "mason",

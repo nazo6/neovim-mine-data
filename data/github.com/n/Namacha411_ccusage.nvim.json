@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-06-25T11:47:23Z",
+    "description": "A Neovim plugin that displays ccusage metrics in your Lualine statusline with automatic refresh every 30 seconds.",
+    "isArchived": false,
+    "lastCommit": "2025-06-25T16:01:04Z",
+    "nameWithOwner": "Namacha411/ccusage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "lualine",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ccusage.nvim",
+  "owner": "Namacha411",
+  "url": "https://github.com/Namacha411/ccusage.nvim"
+}

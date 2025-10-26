@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GPG"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-08-02T14:31:21Z",
+    "description": "Neovim plugin for encrypting files.",
+    "isArchived": false,
+    "lastCommit": "2025-08-11T20:17:17Z",
+    "nameWithOwner": "markbragin/pivo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pivo.nvim",
+  "owner": "markbragin",
+  "url": "https://github.com/markbragin/pivo.nvim"
+}

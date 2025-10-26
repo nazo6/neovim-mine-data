@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
+          "name": "Keyboard Layout"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-05-26T18:10:42Z",
+    "description": "Opens a window showing the Dvorak layout.",
+    "isArchived": false,
+    "lastCommit": "2025-05-29T17:52:21Z",
+    "nameWithOwner": "coreyb-git/keyboardlayout.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keyboardlayout.nvim",
+  "owner": "coreyb-git",
+  "url": "https://github.com/coreyb-git/keyboardlayout.nvim"
+}

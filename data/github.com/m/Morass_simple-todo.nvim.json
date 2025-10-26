@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2025-09-19T15:41:19Z",
+    "description": "A simple TODO management plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-28T19:50:39Z",
+    "nameWithOwner": "Morass/simple-todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-todo.nvim",
+  "owner": "Morass",
+  "url": "https://github.com/Morass/simple-todo.nvim"
+}

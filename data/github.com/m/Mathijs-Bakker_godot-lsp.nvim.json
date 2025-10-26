@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+      ],
+      "file": "Archived.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 71,
+    "createdAt": "2025-08-09T14:26:10Z",
+    "description": "Neovim plugin for Godot LSP & DAP. Supports GDScript with TreeSitter. Use Neovim as your Godot's external editor.",
+    "isArchived": true,
+    "lastCommit": "2025-08-21T17:23:06Z",
+    "nameWithOwner": "Mathijs-Bakker/godot-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "gdscript",
+      "godot",
+      "lsp",
+      "neovim",
+      "neovim-plugin",
+      "dap",
+      "debugger"
+    ]
+  },
+  "domain": "github.com",
+  "name": "godot-lsp.nvim",
+  "owner": "Mathijs-Bakker",
+  "url": "https://github.com/Mathijs-Bakker/godot-lsp.nvim"
+}

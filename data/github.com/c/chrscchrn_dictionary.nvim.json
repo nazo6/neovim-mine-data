@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Dictionary"
+        }
+      ],
+      "file": "dictionary.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-06-26T04:08:42Z",
+    "description": "A Neovim plugin calling a dictionary rest api",
+    "isArchived": false,
+    "lastCommit": "2025-06-29T08:53:22Z",
+    "nameWithOwner": "chrscchrn/dictionary.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dictionary.nvim",
+  "owner": "chrscchrn",
+  "url": "https://github.com/chrscchrn/dictionary.nvim"
+}

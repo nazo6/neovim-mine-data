@@ -46,17 +46,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 6,
     "createdAt": "2021-07-21T16:25:41Z",
     "description": "Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist",
     "isArchived": false,
-    "lastCommit": "2022-09-01T13:40:43Z",
+    "lastCommit": "2025-09-17T19:12:15Z",
     "nameWithOwner": "onsails/diaglist.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 190,
+    "star": 197,
     "topics": [
       "neovim",
       "workspace-diagnostics",

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Copy File Context"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-13T20:14:27Z",
+    "description": "Neovim plugin to copy file references in Claude Code format",
+    "isArchived": false,
+    "lastCommit": "2025-10-13T20:29:04Z",
+    "nameWithOwner": "WarrenZhu050413/nvim-get-ref",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-get-ref",
+  "owner": "WarrenZhu050413",
+  "url": "https://github.com/WarrenZhu050413/nvim-get-ref"
+}

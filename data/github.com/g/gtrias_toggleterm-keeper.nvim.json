@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-10T21:18:14Z",
+    "description": "VS Code Terminal Keeper sessions.json → toggleterm.nvim bridge",
+    "isArchived": false,
+    "lastCommit": "2025-08-10T21:31:40Z",
+    "nameWithOwner": "gtrias/toggleterm-keeper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggleterm-keeper.nvim",
+  "owner": "gtrias",
+  "url": "https://github.com/gtrias/toggleterm-keeper.nvim"
+}

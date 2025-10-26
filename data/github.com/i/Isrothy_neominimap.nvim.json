@@ -20,20 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 724,
+    "commitCountLastYear": 202,
     "createdAt": "2024-06-24T13:52:02Z",
-    "description": "Yet another minimap plugin for Neovim",
+    "description": "An extensible and performant Neovim minimap plugin that helps you visualize code structure, diagnostics, git changes, and more at a glance.",
     "isArchived": false,
-    "lastCommit": "2025-04-13T17:53:26Z",
+    "lastCommit": "2025-10-14T18:09:56Z",
     "nameWithOwner": "Isrothy/neominimap.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 241,
+    "star": 307,
     "topics": [
       "lua",
-      "neovim-plugin"
+      "neovim-plugin",
+      "minimap",
+      "neovim"
     ]
   },
   "domain": "github.com",

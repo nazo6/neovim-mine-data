@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-07-17T19:24:31Z",
+    "description": "Neovim plugin for mdnotes use",
+    "isArchived": false,
+    "lastCommit": "2025-07-17T19:26:11Z",
+    "nameWithOwner": "eoinhurrell/mdnotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdnotes.nvim",
+  "owner": "eoinhurrell",
+  "url": "https://github.com/eoinhurrell/mdnotes.nvim"
+}

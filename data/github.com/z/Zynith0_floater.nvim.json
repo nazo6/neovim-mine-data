@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "Popup"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-09-01T19:39:38Z",
+    "description": "A neovim plugin to add floating windows",
+    "isArchived": false,
+    "lastCommit": "2025-09-01T23:53:37Z",
+    "nameWithOwner": "Zynith0/floater.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floater.nvim",
+  "owner": "Zynith0",
+  "url": "https://github.com/Zynith0/floater.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-05-28T21:12:24Z",
+    "isArchived": false,
+    "lastCommit": "2025-06-11T08:16:25Z",
+    "nameWithOwner": "johnmatter/teddy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "teddy.nvim",
+  "owner": "johnmatter",
+  "url": "https://github.com/johnmatter/teddy.nvim"
+}

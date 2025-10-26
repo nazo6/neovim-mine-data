@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Dictionary"
+        }
+      ],
+      "file": "dictionary.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-12-19T21:45:25Z",
+    "description": "Academic English dictionary for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-30T19:21:47Z",
+    "nameWithOwner": "ficd0/academic.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "academic.nvim",
+  "owner": "ficd0",
+  "url": "https://github.com/ficcdaf/academic.nvim"
+}

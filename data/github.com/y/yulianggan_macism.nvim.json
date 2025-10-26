@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        },
+        {
+          "level": 4,
+          "name": "input source"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-09-19T23:33:35Z",
+    "description": "mac下切换输入发",
+    "isArchived": false,
+    "lastCommit": "2025-09-20T00:13:50Z",
+    "nameWithOwner": "yulianggan/macism.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "macism.nvim",
+  "owner": "yulianggan",
+  "url": "https://github.com/yulianggan/macism.nvim"
+}

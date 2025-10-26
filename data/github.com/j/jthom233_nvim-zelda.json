@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2025-09-17T16:16:26Z",
+    "description": "A lightweight, Zelda-inspired game plugin for Neovim that teaches you vim motions and commands through gameplay!",
+    "isArchived": false,
+    "lastCommit": "2025-09-26T03:39:39Z",
+    "nameWithOwner": "jthom233/nvim-zelda",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-zelda",
+  "owner": "jthom233",
+  "url": "https://github.com/jthom233/nvim-zelda"
+}

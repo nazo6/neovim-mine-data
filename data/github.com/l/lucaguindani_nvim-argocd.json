@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        },
+        {
+          "level": 5,
+          "name": "ArgoCD"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 94,
+    "createdAt": "2025-06-01T12:49:37Z",
+    "description": "A lightweight Neovim plugin to control ArgoCD",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T08:28:54Z",
+    "nameWithOwner": "lucaguindani/nvim-argocd",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "argocd"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-argocd",
+  "owner": "lucaguindani",
+  "url": "https://github.com/lucaguindani/nvim-argocd"
+}

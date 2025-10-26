@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Ascii"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2025-07-17T08:03:38Z",
+    "description": "A simple plugin for alpha-nvim that provides custom ASCII headers for the dashboard screen.",
+    "isArchived": false,
+    "lastCommit": "2025-07-21T08:35:19Z",
+    "nameWithOwner": "nhattVim/alpha-ascii.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "alpha-ascii.nvim",
+  "owner": "nhattVim",
+  "url": "https://github.com/nhattVim/alpha-ascii.nvim"
+}

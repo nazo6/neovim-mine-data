@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Style"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-06-02T01:41:17Z",
+    "description": "A repo to house my NeoVim plugin for managing Markdown styling.",
+    "isArchived": false,
+    "lastCommit": "2025-10-15T04:00:53Z",
+    "nameWithOwner": "zacharyFerretti/nvim-md",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-md",
+  "owner": "zacharyFerretti",
+  "url": "https://github.com/zacharyFerretti/nvim-md"
+}

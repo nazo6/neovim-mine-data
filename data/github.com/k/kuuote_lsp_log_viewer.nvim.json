@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Log"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-07-27T12:42:31Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-27T12:41:54Z",
+    "nameWithOwner": "kuuote/lsp_log_viewer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp_log_viewer.nvim",
+  "owner": "kuuote",
+  "url": "https://github.com/kuuote/lsp_log_viewer.nvim"
+}

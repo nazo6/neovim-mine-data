@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Fatebook"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-04T10:29:16Z",
+    "description": "simple fatebook plugin for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-10-04T15:33:02Z",
+    "nameWithOwner": "f0ldspace/fatebook.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fatebook.nvim",
+  "owner": "f0ldspace",
+  "url": "https://github.com/f0ldspace/fatebook.nvim"
+}

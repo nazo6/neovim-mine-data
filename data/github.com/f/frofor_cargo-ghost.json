@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Cargo"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-10-03T21:20:22Z",
+    "description": "A plugin that analyzes Cargo.toml to provide helpful insights in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T10:31:50Z",
+    "nameWithOwner": "frofor/cargo-ghost",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "cargo",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cargo-ghost",
+  "owner": "frofor",
+  "url": "https://github.com/frofor/cargo-ghost"
+}

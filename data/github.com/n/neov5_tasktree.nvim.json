@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-09-04T21:59:38Z",
+    "description": "Plugin for the TaskTree language - a TaskPaper-like hierarchical life planner",
+    "isArchived": false,
+    "lastCommit": "2025-09-04T21:58:22Z",
+    "nameWithOwner": "neov5/tasktree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasktree.nvim",
+  "owner": "neov5",
+  "url": "https://github.com/neov5/tasktree.nvim"
+}

@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 21,
     "createdAt": "2021-05-15T16:02:06Z",
     "description": "An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.",
     "isArchived": false,
-    "lastCommit": "2025-03-20T07:26:48Z",
+    "lastCommit": "2025-06-20T06:31:34Z",
     "nameWithOwner": "winston0410/range-highlight.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 208,
+    "star": 209,
     "topics": [
       "neovim",
       "neovim-plugin"

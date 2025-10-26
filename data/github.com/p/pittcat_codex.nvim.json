@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        },
+        {
+          "level": 4,
+          "name": "Codex"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-09-05T18:58:34Z",
+    "isArchived": false,
+    "lastCommit": "2025-09-07T06:57:17Z",
+    "nameWithOwner": "pittcat/codex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codex.nvim",
+  "owner": "pittcat",
+  "url": "https://github.com/pittcat/codex.nvim"
+}

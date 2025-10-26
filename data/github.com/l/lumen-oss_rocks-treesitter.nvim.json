@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua"
+        },
+        {
+          "level": 3,
+          "name": "Rocks"
+        }
+      ],
+      "file": "lua.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2024-03-14T12:37:02Z",
+    "description": "A \"just works\" tree-sitter setup for rocks.nvim!",
+    "isArchived": false,
+    "lastCommit": "2025-07-14T18:01:07Z",
+    "nameWithOwner": "lumen-oss/rocks-treesitter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+      "neovim",
+      "rocks",
+      "tree-sitter",
+      "treesitter",
+      "rocks-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rocks-treesitter.nvim",
+  "owner": "lumen-oss",
+  "url": "https://github.com/nvim-neorocks/rocks-treesitter.nvim"
+}

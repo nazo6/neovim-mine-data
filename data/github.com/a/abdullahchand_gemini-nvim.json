@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        },
+        {
+          "level": 4,
+          "name": "Gemini CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-07-06T13:06:12Z",
+    "description": "A Neovim plugin to interact with the Gemini CLI in a vertical split.",
+    "isArchived": false,
+    "lastCommit": "2025-07-06T13:07:44Z",
+    "nameWithOwner": "abdullahchand/gemini-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gemini-nvim",
+  "owner": "abdullahchand",
+  "url": "https://github.com/abdullahchand/gemini-nvim"
+}

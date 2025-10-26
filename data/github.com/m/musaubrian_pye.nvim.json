@@ -8,10 +8,14 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
+          "name": "Python"
         },
         {
           "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
           "name": "venv"
         }
       ],
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 1,
     "createdAt": "2024-09-23T17:05:04Z",
     "description": "python environments",
     "isArchived": false,
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
     ]
   },

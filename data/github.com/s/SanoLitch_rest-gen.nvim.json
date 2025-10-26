@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        },
+        {
+          "level": 4,
+          "name": "OpenAPI"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-16T15:17:43Z",
+    "description": "Automatically generate HTTP requests for `rest.nvim` from your OpenAPI/Swagger specifications.",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T00:43:26Z",
+    "nameWithOwner": "SanoLitch/rest-gen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rest-gen.nvim",
+  "owner": "SanoLitch",
+  "url": "https://github.com/SanoLitch/rest-gen.nvim"
+}

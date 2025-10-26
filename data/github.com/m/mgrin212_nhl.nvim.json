@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Sports"
+          "name": "Toy"
         },
         {
           "level": 3,
+          "name": "Sports"
+        },
+        {
+          "level": 4,
           "name": "NHL"
         }
       ],
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 0,
     "createdAt": "2024-10-09T14:00:45Z",
     "description": "View live NHL scores in neovim",
     "isArchived": false,

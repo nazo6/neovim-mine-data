@@ -8,29 +8,29 @@
         },
         {
           "level": 2,
-          "name": "Web"
+          "name": "Note Taking"
         },
         {
           "level": 3,
           "name": "Zotero"
         }
       ],
-      "file": "web-service.md",
+      "file": "note-taking.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 37,
+    "commitCountLastYear": 41,
     "createdAt": "2024-03-08T11:48:29Z",
     "description": "List references from your local zotero library and add them to a bib file",
     "isArchived": false,
-    "lastCommit": "2025-03-31T12:51:17Z",
+    "lastCommit": "2025-10-20T11:58:23Z",
     "nameWithOwner": "jmbuhr/telescope-zotero.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 26,
+    "star": 38,
     "topics": [
     ]
   },

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util pack"
+        }
+      ],
+      "file": "util-pack.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-10T15:28:15Z",
+    "description": "a tiny Neovim utility plugin for personal use",
+    "isArchived": false,
+    "lastCommit": "2025-09-11T15:38:18Z",
+    "nameWithOwner": "7h145/tutils.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tutils.nvim",
+  "owner": "7h145",
+  "url": "https://github.com/7h145/tutils.nvim"
+}

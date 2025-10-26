@@ -8,10 +8,6 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
-        },
-        {
-          "level": 3,
           "name": "Jupyter"
         }
       ],
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 39,
+    "commitCountLastYear": 16,
     "createdAt": "2023-01-11T22:34:15Z",
     "description": "Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.",
     "isArchived": false,
@@ -44,7 +40,7 @@
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 609,
+    "star": 690,
     "topics": [
       "vim",
       "nvim",

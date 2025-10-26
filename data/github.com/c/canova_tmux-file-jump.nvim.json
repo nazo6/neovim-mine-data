@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 23,
+    "commitCountLastYear": 14,
     "createdAt": "2024-10-23T22:43:38Z",
     "description": "A plugin that helps you jump between files paths in your sibling tmux pane.",
     "isArchived": false,
-    "lastCommit": "2025-02-15T14:46:10Z",
+    "lastCommit": "2025-05-26T11:24:00Z",
     "nameWithOwner": "canova/tmux-file-jump.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
       "fzf-lua",
       "lua",

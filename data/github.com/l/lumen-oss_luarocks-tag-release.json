@@ -1,0 +1,64 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CI"
+        },
+        {
+          "level": 3,
+          "name": "Actions"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Lua Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 239,
+    "createdAt": "2023-01-13T10:30:53Z",
+    "description": "GitHub workflow for automatically generating Luarocks releases from tags and running busted tests",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T05:40:29Z",
+    "nameWithOwner": "lumen-oss/luarocks-tag-release",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 51,
+    "topics": [
+      "automation",
+      "busted",
+      "cicd",
+      "luarocks",
+      "neovim",
+      "release",
+      "test",
+      "testing",
+      "workflow"
+    ]
+  },
+  "domain": "github.com",
+  "name": "luarocks-tag-release",
+  "owner": "lumen-oss",
+  "url": "https://github.com/nvim-neorocks/luarocks-tag-release"
+}

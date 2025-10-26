@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Move history"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-07T12:47:14Z",
+    "description": "A simple Neovim plugin written in lua to provide web borwser like back and forward navigation between buffers.",
+    "isArchived": false,
+    "lastCommit": "2025-09-07T12:59:57Z",
+    "nameWithOwner": "shorya-1012/buffer_walker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffer_walker.nvim",
+  "owner": "shorya-1012",
+  "url": "https://github.com/shorya-1012/buffer_walker.nvim"
+}

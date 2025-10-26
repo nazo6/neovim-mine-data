@@ -20,21 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 16,
     "createdAt": "2024-03-18T11:49:00Z",
     "description": "Highlight all url in buffer",
     "isArchived": false,
-    "lastCommit": "2024-05-25T07:52:56Z",
+    "lastCommit": "2025-10-23T16:29:37Z",
     "nameWithOwner": "rubiin/highlighturl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 7,
     "topics": [
       "lua",
       "neovim",
-      "vim"
+      "vim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

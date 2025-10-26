@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-09-22T22:37:01Z",
+    "description": "Usa telescope para buscar musica directamente desde la Api 3 de YouTube con Mpv de reproductor",
+    "isArchived": false,
+    "lastCommit": "2025-09-23T00:38:30Z",
+    "nameWithOwner": "TakeMichiks/Telescope-Mpv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Telescope-Mpv.nvim",
+  "owner": "TakeMichiks",
+  "url": "https://github.com/TakeMichiks/Telescope-Mpv.nvim"
+}

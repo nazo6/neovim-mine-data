@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 64,
+    "createdAt": "2025-05-03T22:13:01Z",
+    "description": "Neovim plugin providing tools for editing markdown files.",
+    "isArchived": false,
+    "lastCommit": "2025-05-06T23:45:32Z",
+    "nameWithOwner": "magnusriga/markdown-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 23,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-tools.nvim",
+  "owner": "magnusriga",
+  "url": "https://github.com/magnusriga/markdown-tools.nvim"
+}

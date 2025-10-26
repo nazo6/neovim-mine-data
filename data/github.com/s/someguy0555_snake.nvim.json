@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Snake"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-19T20:06:17Z",
+    "description": "Neovim plugin for playing 'Snake'.",
+    "isArchived": false,
+    "lastCommit": "2025-06-19T21:34:27Z",
+    "nameWithOwner": "someguy0555/snake.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snake.nvim",
+  "owner": "someguy0555",
+  "url": "https://github.com/someguy0555/snake.nvim"
+}

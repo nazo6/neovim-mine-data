@@ -1,0 +1,60 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "mark note"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-08-05T21:26:24Z",
+    "description": "Create persistent code notes without modifying code",
+    "isArchived": false,
+    "lastCommit": "2025-09-04T14:40:22Z",
+    "nameWithOwner": "jameswolensky/marker-groups.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 48,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "code-notes",
+      "notes",
+      "productivity"
+    ]
+  },
+  "domain": "github.com",
+  "name": "marker-groups.nvim",
+  "owner": "jameswolensky",
+  "url": "https://github.com/jameswolensky/marker-groups.nvim"
+}

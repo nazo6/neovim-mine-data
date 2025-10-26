@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Header"
+        },
+        {
+          "level": 4,
+          "name": "include"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-07-12T18:01:57Z",
+    "description": "Simple neovim plugin to add includeguards/headerguards to any .h/.hpp file.",
+    "isArchived": false,
+    "lastCommit": "2025-07-12T18:03:44Z",
+    "nameWithOwner": "d-manuel/includeguards.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "includeguards.nvim",
+  "owner": "d-manuel",
+  "url": "https://github.com/d-manuel/includeguards.nvim"
+}

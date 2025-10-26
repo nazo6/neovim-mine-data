@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "MyST"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 94,
+    "createdAt": "2025-08-20T02:51:49Z",
+    "description": "A MyST Markdown plugin for neovim (tree-sitter backend)",
+    "isArchived": false,
+    "lastCommit": "2025-08-22T06:50:51Z",
+    "nameWithOwner": "QuantEcon/myst-markdown-tree-sitter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "myst-markdown-tree-sitter.nvim",
+  "owner": "QuantEcon",
+  "url": "https://github.com/QuantEcon/myst-markdown-tree-sitter.nvim"
+}

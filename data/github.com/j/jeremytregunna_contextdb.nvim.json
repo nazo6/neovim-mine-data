@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Operation Log"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-23T23:11:55Z",
+    "description": "Neovim plugin for ContextDB",
+    "isArchived": false,
+    "lastCommit": "2025-08-24T15:34:21Z",
+    "nameWithOwner": "jeremytregunna/contextdb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "contextdb.nvim",
+  "owner": "jeremytregunna",
+  "url": "https://github.com/jeremytregunna/contextdb.nvim"
+}

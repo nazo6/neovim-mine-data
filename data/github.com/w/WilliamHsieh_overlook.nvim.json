@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "Popup"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 80,
+    "createdAt": "2025-04-20T09:15:57Z",
+    "description": "Stackable popups for Neovim. Peek around the code without overlooking the bigger picture.",
+    "isArchived": false,
+    "lastCommit": "2025-08-29T11:10:49Z",
+    "nameWithOwner": "WilliamHsieh/overlook.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 99,
+    "topics": [
+      "neovim",
+      "nvim",
+      "popup",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "overlook.nvim",
+  "owner": "WilliamHsieh",
+  "url": "https://github.com/WilliamHsieh/overlook.nvim"
+}

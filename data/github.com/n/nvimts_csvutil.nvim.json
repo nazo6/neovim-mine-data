@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-07-16T22:52:56Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-17T08:08:40Z",
+    "nameWithOwner": "nvimts/csvutil.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "csvutil.nvim",
+  "owner": "nvimts",
+  "url": "https://github.com/nvimts/csvutil.nvim"
+}

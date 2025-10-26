@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git open"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-10-18T21:51:33Z",
+    "description": "open git url from current project in browser",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T18:45:33Z",
+    "nameWithOwner": "andi242/gitopen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitopen.nvim",
+  "owner": "andi242",
+  "url": "https://github.com/andi242/gitopen.nvim"
+}

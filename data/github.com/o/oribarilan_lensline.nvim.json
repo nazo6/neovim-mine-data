@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 173,
+    "createdAt": "2025-07-24T12:21:23Z",
+    "description": "Modular nvim codelens support with inline references, git blame and more",
+    "isArchived": false,
+    "lastCommit": "2025-09-27T13:28:30Z",
+    "nameWithOwner": "oribarilan/lensline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 248,
+    "topics": [
+      "code-annotations",
+      "codelens",
+      "git-blame",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lensline.nvim",
+  "owner": "oribarilan",
+  "url": "https://github.com/oribarilan/lensline.nvim"
+}

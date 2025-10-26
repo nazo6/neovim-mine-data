@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 10,
     "createdAt": "2024-01-13T16:16:00Z",
-    "description": null,
+    "description": "Projet is a minimalist tool for managing your Neovim projects, with just enough French to feel fancy.",
     "isArchived": false,
-    "lastCommit": "2024-01-16T21:28:48Z",
+    "lastCommit": "2025-08-01T19:10:37Z",
     "nameWithOwner": "tiagovla/projet.nvim",
     "primaryLanguage": {
       "color": "#000080",

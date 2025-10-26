@@ -1,0 +1,67 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme Switchers"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-26T14:42:11Z",
+    "description": "🎨 Light weight colorscheme switcher for neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-06-26T19:15:02Z",
+    "nameWithOwner": "nishu-murmu/ThemeSwitch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-themes",
+      "switcher-plugin",
+      "themes",
+      "nvim",
+      "nvim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ThemeSwitch.nvim",
+  "owner": "nishu-murmu",
+  "url": "https://github.com/nishu-murmu/ThemeSwitch.nvim"
+}

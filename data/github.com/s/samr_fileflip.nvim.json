@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Other Buffer Switcher"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-07-02T23:02:25Z",
+    "description": "fileflip.nvim: A Neovim plugin to flip quickly between similar files in a project",
+    "isArchived": false,
+    "lastCommit": "2025-07-03T00:47:58Z",
+    "nameWithOwner": "samr/fileflip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fileflip.nvim",
+  "owner": "samr",
+  "url": "https://github.com/samr/fileflip.nvim"
+}

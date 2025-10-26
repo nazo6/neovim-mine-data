@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-05-30T07:20:40Z",
+    "isArchived": false,
+    "lastCommit": "2025-06-09T16:01:31Z",
+    "nameWithOwner": "iammmiru/diagnostic-jumper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagnostic-jumper.nvim",
+  "owner": "iammmiru",
+  "url": "https://github.com/iammmiru/diagnostic-jumper.nvim"
+}

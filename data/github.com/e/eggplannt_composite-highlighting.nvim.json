@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-25T09:07:45Z",
+    "description": "Best way to have syntax highlighting for two languages at the same time.",
+    "isArchived": false,
+    "lastCommit": "2025-06-06T08:52:54Z",
+    "nameWithOwner": "eggplannt/composite-highlighting.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "dx",
+      "neovim",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "composite-highlighting.nvim",
+  "owner": "eggplannt",
+  "url": "https://github.com/eggplannt/composite-highlighting.nvim"
+}

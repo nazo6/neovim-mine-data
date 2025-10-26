@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-07-03T07:39:25Z",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T13:19:35Z",
+    "nameWithOwner": "kritag/k8s-yaml-schemas.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "k8s-yaml-schemas.nvim",
+  "owner": "kritag",
+  "url": "https://github.com/kritag/k8s-yaml-schemas.nvim"
+}

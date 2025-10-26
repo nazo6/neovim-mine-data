@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Weather"
         }
       ],
@@ -30,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 57,
+    "commitCountLastYear": 11,
     "createdAt": "2021-07-21T03:22:27Z",
     "description": ":stew: Carl Weathers #1 Neovim Plugin.",
     "isArchived": false,
-    "lastCommit": "2025-02-21T00:24:33Z",
+    "lastCommit": "2025-07-15T00:38:17Z",
     "nameWithOwner": "rktjmp/hotpot.nvim",
     "primaryLanguage": {
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 375,
+    "star": 386,
     "topics": [
       "neovim",
       "fennel",

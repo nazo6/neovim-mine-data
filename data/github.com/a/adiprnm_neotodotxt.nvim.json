@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-04-24T00:21:19Z",
+    "description": "A refreshingly simple NeoVim plugin for creating and managing todo.txt (https://todotxt.org) file.",
+    "isArchived": false,
+    "lastCommit": "2025-04-24T03:12:18Z",
+    "nameWithOwner": "adiprnm/neotodotxt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neotodotxt.nvim",
+  "owner": "adiprnm",
+  "url": "https://github.com/adiprnm/neotodotxt.nvim"
+}

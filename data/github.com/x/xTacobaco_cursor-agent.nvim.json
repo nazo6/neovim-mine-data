@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-08T13:52:25Z",
+    "description": "A minimal Neovim plugin to run the Cursor Agent CLI inside a centered floating terminal.",
+    "isArchived": false,
+    "lastCommit": "2025-08-08T13:52:12Z",
+    "nameWithOwner": "xTacobaco/cursor-agent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 39,
+    "topics": [
+      "cursor",
+      "cursor-ai",
+      "neovim",
+      "neovim-plugin",
+      "cursor-agent"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cursor-agent.nvim",
+  "owner": "xTacobaco",
+  "url": "https://github.com/xTacobaco/cursor-agent.nvim"
+}

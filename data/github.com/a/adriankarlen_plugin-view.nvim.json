@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Info"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-08-29T11:19:52Z",
+    "description": "A neovim plugin to see your installed plugins",
+    "isArchived": false,
+    "lastCommit": "2025-09-04T19:36:36Z",
+    "nameWithOwner": "adriankarlen/plugin-view.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "plugin-view.nvim",
+  "owner": "adriankarlen",
+  "url": "https://github.com/adriankarlen/plugin-view.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-09-01T23:03:03Z",
+    "description": "Neovim plugin to work with tasks in Obsidian Tasks format",
+    "isArchived": false,
+    "lastCommit": "2025-09-25T16:47:38Z",
+    "nameWithOwner": "IKarasev/obsidian-tasks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "obsidian-tasks.nvim",
+  "owner": "IKarasev",
+  "url": "https://github.com/IKarasev/obsidian-tasks.nvim"
+}

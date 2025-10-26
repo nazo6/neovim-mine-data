@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-06-20T13:02:38Z",
+    "description": "Improved search in neovim powered by ripgrep",
+    "isArchived": false,
+    "lastCommit": "2025-09-07T21:32:18Z",
+    "nameWithOwner": "stuckinsnow/rg-lua.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "linux",
+      "neovim",
+      "nvim",
+      "ripgrep",
+      "neovim-plugin",
+      "plugin",
+      "search",
+      "fzf0lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rg-lua.nvim",
+  "owner": "stuckinsnow",
+  "url": "https://github.com/stuckinsnow/rg-lua.nvim"
+}

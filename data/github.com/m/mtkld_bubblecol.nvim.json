@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-07T12:56:58Z",
+    "description": "Order a list of entries with persistent keys by bubble rules.",
+    "isArchived": false,
+    "lastCommit": "2025-06-07T12:56:59Z",
+    "nameWithOwner": "mtkld/bubblecol.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bubblecol.nvim",
+  "owner": "mtkld",
+  "url": "https://github.com/mtkld/bubblecol.nvim"
+}

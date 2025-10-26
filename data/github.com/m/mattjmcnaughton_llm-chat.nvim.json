@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "LiteLLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-04-28T14:33:02Z",
+    "description": "A simple Neovim plugin for chatting w/ LLMs via LiteLLM. Focused on simplicity and security.",
+    "isArchived": false,
+    "lastCommit": "2025-04-28T23:25:37Z",
+    "nameWithOwner": "mattjmcnaughton/llm-chat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "llm-chat.nvim",
+  "owner": "mattjmcnaughton",
+  "url": "https://github.com/mattjmcnaughton/llm-chat.nvim"
+}

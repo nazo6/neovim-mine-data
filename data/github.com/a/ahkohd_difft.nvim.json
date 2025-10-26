@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2025-10-16T13:55:53Z",
+    "description": "A Neovim frontend for Difftastic",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T13:23:26Z",
+    "nameWithOwner": "ahkohd/difft.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 54,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "difft.nvim",
+  "owner": "ahkohd",
+  "url": "https://github.com/ahkohd/difft.nvim"
+}

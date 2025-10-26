@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Convert Word"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-10-22T13:57:17Z",
+    "description": "A lightweight Neovim plugin to auto revere some content (i.e. `true` <-> `false`, `==`<->`!=`",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T04:06:50Z",
+    "nameWithOwner": "MrKyomoto/mini-reverse.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini-reverse.nvim",
+  "owner": "MrKyomoto",
+  "url": "https://github.com/MrKyomoto/mini-reverse.nvim"
+}

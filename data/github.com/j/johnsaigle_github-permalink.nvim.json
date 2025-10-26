@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "GitHub"
-        },
-        {
-          "level": 3,
-          "name": "Link"
-        }
       ],
-      "file": "git-github.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 6,
     "createdAt": "2025-01-14T16:51:33Z",
     "description": "Highlight specific line ranges, generate GitHub permalink.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-02-28T20:47:42Z",
     "nameWithOwner": "johnsaigle/github-permalink.nvim",
     "primaryLanguage": {

@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "Open directory"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2025-07-06T16:46:27Z",
+    "description": "An file explorer using fzf-lua",
+    "isArchived": false,
+    "lastCommit": "2025-07-07T23:32:15Z",
+    "nameWithOwner": "otavioschwanck/fzf-lua-explorer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-lua-explorer.nvim",
+  "owner": "otavioschwanck",
+  "url": "https://github.com/otavioschwanck/fzf-lua-explorer.nvim"
+}

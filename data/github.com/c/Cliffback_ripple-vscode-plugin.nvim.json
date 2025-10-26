@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Ripple"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-09-15T12:31:27Z",
+    "description": "A wrapper around the vscode plugin to get a basic ripple lsp in nvim",
+    "isArchived": false,
+    "lastCommit": "2025-09-15T17:01:18Z",
+    "nameWithOwner": "Cliffback/ripple-vscode-plugin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ripple-vscode-plugin.nvim",
+  "owner": "Cliffback",
+  "url": "https://github.com/Cliffback/ripple-vscode-plugin.nvim"
+}

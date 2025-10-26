@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 48,
     "createdAt": "2025-01-16T06:50:13Z",
-    "description": "Lightweight project navigator with telescope",
+    "description": "Lightweight project navigator",
     "isArchived": false,
-    "lastCommit": "2025-02-13T10:43:37Z",
+    "lastCommit": "2025-10-15T10:01:11Z",
     "nameWithOwner": "zongben/proot.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 10,
     "topics": [
       "neovim-plugin"
     ]

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2025-08-30T12:57:09Z",
+    "description": "A lightweight Neovim plugin that provides Python type hint completions",
+    "isArchived": false,
+    "lastCommit": "2025-09-05T16:28:16Z",
+    "nameWithOwner": "dumidusw/python-type-hints.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "python-type-hints.nvim",
+  "owner": "dumidusw",
+  "url": "https://github.com/dumidusw/python-type-hints.nvim"
+}

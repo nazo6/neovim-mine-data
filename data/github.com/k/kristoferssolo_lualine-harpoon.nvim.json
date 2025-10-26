@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-05-21T09:18:03Z",
+    "description": "Displays your current Harpoon mark as [x/y] in your Lualine.",
+    "isArchived": false,
+    "lastCommit": "2025-05-25T22:36:07Z",
+    "nameWithOwner": "kristoferssolo/lualine-harpoon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "harpoon",
+      "neovim-statusline",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lualine-harpoon.nvim",
+  "owner": "kristoferssolo",
+  "url": "https://github.com/kristoferssolo/lualine-harpoon.nvim"
+}

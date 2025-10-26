@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        },
+        {
+          "level": 3,
+          "name": "Animation"
+        }
+      ],
+      "file": "cursor.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-22T00:20:46Z",
+    "description": "Shows where you've been in a buffer with color-gradient indicators",
+    "isArchived": false,
+    "lastCommit": "2025-10-22T01:14:22Z",
+    "nameWithOwner": "ahkohd/where-was-i.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "where-was-i.nvim",
+  "owner": "ahkohd",
+  "url": "https://github.com/ahkohd/where-was-i.nvim"
+}

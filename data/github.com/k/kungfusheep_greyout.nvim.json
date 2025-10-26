@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Conceal"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-08-29T12:22:51Z",
+    "description": "A Neovim plugin that uses Treesitter to visually de-emphasize boilerplate code like error handling and logging.",
+    "isArchived": false,
+    "lastCommit": "2025-10-07T11:00:55Z",
+    "nameWithOwner": "kungfusheep/greyout.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "greyout.nvim",
+  "owner": "kungfusheep",
+  "url": "https://github.com/kungfusheep/greyout.nvim"
+}

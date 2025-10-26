@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "CPU/Memory"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-09-07T10:28:32Z",
+    "description": "Simple plugin to display a system monitor like htop or btop as a floating neovim window",
+    "isArchived": false,
+    "lastCommit": "2025-09-07T12:12:08Z",
+    "nameWithOwner": "szaffarano/top.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "btop",
+      "htop",
+      "lua",
+      "neovim",
+      "system-monitoring"
+    ]
+  },
+  "domain": "github.com",
+  "name": "top.nvim",
+  "owner": "szaffarano",
+  "url": "https://github.com/szaffarano/top.nvim"
+}

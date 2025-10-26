@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Swift"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2025-10-15T01:59:15Z",
+    "description": "a vim plugins for manage swift projects",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T21:28:25Z",
+    "nameWithOwner": "devswiftzone/swift.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "swift.nvim",
+  "owner": "devswiftzone",
+  "url": "https://github.com/devswiftzone/swift.nvim"
+}

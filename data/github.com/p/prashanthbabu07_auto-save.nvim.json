@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Save"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-27T08:52:13Z",
+    "description": "Lightweight auto-save plugin for Neovim — saves buffers on events like InsertLeave, TextChanged, and FocusLost.",
+    "isArchived": false,
+    "lastCommit": "2025-05-28T10:07:43Z",
+    "nameWithOwner": "prashanthbabu07/auto-save.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-save.nvim",
+  "owner": "prashanthbabu07",
+  "url": "https://github.com/prashanthbabu07/auto-save.nvim"
+}

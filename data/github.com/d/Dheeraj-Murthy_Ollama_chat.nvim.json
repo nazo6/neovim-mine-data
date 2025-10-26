@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-06-27T21:34:03Z",
+    "description": "A NeoVim plugin to be able to chat with local models using ollama cli in a neovim buffer",
+    "isArchived": false,
+    "lastCommit": "2025-09-20T12:41:58Z",
+    "nameWithOwner": "Dheeraj-Murthy/Ollama_chat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "Ollama_chat.nvim",
+  "owner": "Dheeraj-Murthy",
+  "url": "https://github.com/Dheeraj-Murthy/Ollama_chat.nvim"
+}

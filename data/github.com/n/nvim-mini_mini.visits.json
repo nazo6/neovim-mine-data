@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "open"
+        },
+        {
+          "level": 5,
+          "name": "recent file"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2023-11-28T13:41:34Z",
+    "description": "Track and reuse file system visits. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T12:44:03Z",
+    "nameWithOwner": "nvim-mini/mini.visits",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.visits",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.visits"
+}

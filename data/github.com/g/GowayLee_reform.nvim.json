@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2025-07-13T18:01:36Z",
+    "description": "A fast, realtime, line-based formatting plugin for neovim. Inspired by vim-rt-format.",
+    "isArchived": false,
+    "lastCommit": "2025-07-30T01:26:45Z",
+    "nameWithOwner": "GowayLee/reform.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "reform.nvim",
+  "owner": "GowayLee",
+  "url": "https://github.com/GowayLee/reform.nvim"
+}

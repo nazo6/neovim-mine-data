@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Tidal"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-04-25T18:14:53Z",
+    "description": "Highly opinionated Tidal Cycles live coding plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-27T12:15:26Z",
+    "nameWithOwner": "jbfits/cycles.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cycles.nvim",
+  "owner": "jbfits",
+  "url": "https://github.com/zuloo/cycles.nvim"
+}

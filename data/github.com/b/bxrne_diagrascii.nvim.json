@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Ascii"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-12T12:39:48Z",
+    "description": "Diagrascii helps you draw/move boxes and arrows as ASCII",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T15:02:10Z",
+    "nameWithOwner": "bxrne/diagrascii.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagrascii.nvim",
+  "owner": "bxrne",
+  "url": "https://github.com/bxrne/diagrascii.nvim"
+}

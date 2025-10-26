@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Calculation"
+        }
+      ],
+      "file": "calculation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-06-21T20:13:00Z",
+    "description": "floating buffer executing lua powered calculations",
+    "isArchived": false,
+    "lastCommit": "2025-06-21T23:17:42Z",
+    "nameWithOwner": "Flokkq/calc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "calc.nvim",
+  "owner": "Flokkq",
+  "url": "https://github.com/Flokkq/calc.nvim"
+}

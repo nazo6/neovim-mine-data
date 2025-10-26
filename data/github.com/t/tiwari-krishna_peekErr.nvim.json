@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-26T05:16:10Z",
+    "description": "Neovim Plugin for LSP diagnostics",
+    "isArchived": false,
+    "lastCommit": "2025-08-26T05:12:55Z",
+    "nameWithOwner": "tiwari-krishna/peekErr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "peekErr.nvim",
+  "owner": "tiwari-krishna",
+  "url": "https://github.com/tiwari-krishna/peekErr.nvim"
+}

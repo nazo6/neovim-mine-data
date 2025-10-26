@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-08-21T22:03:31Z",
+    "description": "neovim Python LSP settings for ya.make build",
+    "isArchived": false,
+    "lastCommit": "2025-09-08T22:13:42Z",
+    "nameWithOwner": "segoon/yamake-python-lspconfig.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yamake-python-lspconfig.nvim",
+  "owner": "segoon",
+  "url": "https://github.com/segoon/yamake-python-lspconfig.nvim"
+}

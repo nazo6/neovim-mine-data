@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Multiple word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-05-24T23:51:14Z",
+    "description": "Paint the background of your visual selection, useful for highlighting.",
+    "isArchived": false,
+    "lastCommit": "2025-05-26T18:56:16Z",
+    "nameWithOwner": "shazow/paint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "paint.nvim",
+  "owner": "shazow",
+  "url": "https://github.com/shazow/paint.nvim"
+}

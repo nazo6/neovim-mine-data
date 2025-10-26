@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UUID"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2023-07-26T17:10:12Z",
+    "description": "Simple plugin to generate GUIDs",
+    "isArchived": false,
+    "lastCommit": "2025-10-05T22:22:23Z",
+    "nameWithOwner": "14096/nvim-guid-generator",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-guid-generator",
+  "owner": "14096",
+  "url": "https://github.com/srpmtt/nvim-guid-generator"
+}

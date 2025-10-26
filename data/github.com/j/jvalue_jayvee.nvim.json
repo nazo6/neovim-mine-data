@@ -20,15 +20,15 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 16,
     "createdAt": "2024-04-17T08:18:40Z",
     "description": "Neovim plugin adding support for the jayvee language server",
     "isArchived": false,
-    "lastCommit": "2025-04-08T11:28:23Z",
+    "lastCommit": "2025-08-02T10:33:55Z",
     "nameWithOwner": "jvalue/jayvee.nvim",
     "primaryLanguage": {
-      "color": "#199f4b",
-      "name": "Vim Script"
+      "color": "#000080",
+      "name": "Lua"
     },
     "star": 5,
     "topics": [

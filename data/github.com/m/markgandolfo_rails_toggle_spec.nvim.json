@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-20T01:10:07Z",
+    "description": "Toggle between your specs and implementation classes fairly quickly in nvim",
+    "isArchived": false,
+    "lastCommit": "2025-04-23T08:45:30Z",
+    "nameWithOwner": "markgandolfo/rails_toggle_spec.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rails_toggle_spec.nvim",
+  "owner": "markgandolfo",
+  "url": "https://github.com/markgandolfo/rails_toggle_spec.nvim"
+}

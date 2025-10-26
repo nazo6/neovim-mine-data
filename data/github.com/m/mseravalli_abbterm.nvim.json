@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-10-22T06:31:59Z",
+    "description": "A Bit Better TERMinal for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-22T06:35:05Z",
+    "nameWithOwner": "mseravalli/abbterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "abbterm.nvim",
+  "owner": "mseravalli",
+  "url": "https://github.com/mseravalli/abbterm.nvim"
+}

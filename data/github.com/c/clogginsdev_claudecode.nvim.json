@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-06-26T09:03:21Z",
+    "description": "A neovim plugin for running claude code inside neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-07-07T07:30:31Z",
+    "nameWithOwner": "clogginsdev/claudecode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claudecode.nvim",
+  "owner": "clogginsdev",
+  "url": "https://github.com/clogginsdev/claudecode.nvim"
+}

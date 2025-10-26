@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "Formatter"
+        },
+        {
+          "level": 4,
+          "name": "yapf"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-07T18:24:20Z",
+    "description": "Use yapf on :w on \"python\" files",
+    "isArchived": false,
+    "lastCommit": "2025-09-08T19:44:05Z",
+    "nameWithOwner": "duv16/yapf-format.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yapf-format.nvim",
+  "owner": "duv16",
+  "url": "https://github.com/duv16/yapf-format.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-10-22T20:56:35Z",
+    "description": "(wip) denote port for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T23:19:43Z",
+    "nameWithOwner": "melindachang/deneote.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "deneote.nvim",
+  "owner": "melindachang",
+  "url": "https://github.com/melindachang/deneote.nvim"
+}

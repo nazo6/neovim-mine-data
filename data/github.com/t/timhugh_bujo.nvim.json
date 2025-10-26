@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 71,
+    "createdAt": "2025-06-26T16:40:05Z",
+    "description": "Bullet journaling in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-29T20:19:01Z",
+    "nameWithOwner": "timhugh/bujo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "journaling",
+      "neovim",
+      "todo-app"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bujo.nvim",
+  "owner": "timhugh",
+  "url": "https://github.com/timhugh/bujo.nvim"
+}

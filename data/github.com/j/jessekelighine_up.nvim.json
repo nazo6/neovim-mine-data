@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Directory"
+        },
+        {
+          "level": 3,
+          "name": "cd(change directory)"
+        }
+      ],
+      "file": "directory.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-08-03T17:59:01Z",
+    "description": "Navigate Up in the Directory Structure in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-10T18:12:39Z",
+    "nameWithOwner": "jessekelighine/up.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "up.nvim",
+  "owner": "jessekelighine",
+  "url": "https://github.com/jessekelighine/up.nvim"
+}

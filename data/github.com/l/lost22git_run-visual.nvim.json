@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Eval"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-07-28T12:17:04Z",
+    "description": "A neovim plugin to run your selection text/code on visual mode.",
+    "isArchived": false,
+    "lastCommit": "2025-10-10T11:29:26Z",
+    "nameWithOwner": "lost22git/run-visual.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "code-runner",
+      "fennel",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "run-visual.nvim",
+  "owner": "lost22git",
+  "url": "https://github.com/lost22git/run-visual.nvim"
+}

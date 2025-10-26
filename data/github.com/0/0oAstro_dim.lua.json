@@ -2,23 +2,35 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Zen Mode"
+        },
+        {
+          "level": 3,
+          "name": "Focus Mode"
+        }
       ],
-      "file": "Archived.md",
+      "file": "concentration.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 3,
     "createdAt": "2022-03-08T15:01:39Z",
     "description": "Dim unused words in neovim",
     "isArchived": false,
-    "lastCommit": "2023-09-25T16:07:02Z",
+    "lastCommit": "2025-09-19T14:10:24Z",
     "nameWithOwner": "0oAstro/dim.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 142,
+    "star": 141,
     "topics": [
     ]
   },

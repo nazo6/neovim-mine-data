@@ -1,0 +1,56 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Market place"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 66,
+    "createdAt": "2025-06-23T21:21:35Z",
+    "description": "🤖 5500+ neovim plugins database with automatic installation! 🚀",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T06:46:30Z",
+    "nameWithOwner": "alex-popov-tech/store.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 293,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "store.nvim",
+  "owner": "alex-popov-tech",
+  "url": "https://github.com/alex-popov-tech/store.nvim"
+}

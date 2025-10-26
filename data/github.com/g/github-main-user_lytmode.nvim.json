@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2025-06-15T21:02:56Z",
+    "description": " Neovim color scheme inspired by LYT-Mode theme for Obsidian ",
+    "isArchived": false,
+    "lastCommit": "2025-07-20T13:44:24Z",
+    "nameWithOwner": "github-main-user/lytmode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "colorscheme",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "treesitter",
+      "treesitter-colorscheme",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lytmode.nvim",
+  "owner": "github-main-user",
+  "url": "https://github.com/github-main-user/lytmode.nvim"
+}

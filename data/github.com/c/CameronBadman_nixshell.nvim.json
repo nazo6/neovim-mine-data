@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Nix"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-07-28T12:22:15Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-28T21:50:23Z",
+    "nameWithOwner": "CameronBadman/nixshell.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nixshell.nvim",
+  "owner": "CameronBadman",
+  "url": "https://github.com/CameronBadman/nixshell.nvim"
+}

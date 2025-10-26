@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Test Coverage"
+        }
+      ],
+      "file": "test.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-05-26T12:50:24Z",
+    "description": "Neovim plugin to display test coverage",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T15:21:24Z",
+    "nameWithOwner": "devzambra/coverage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "coverage",
+      "coverage-report",
+      "lcov",
+      "testing",
+      "testing-tools"
+    ]
+  },
+  "domain": "github.com",
+  "name": "coverage.nvim",
+  "owner": "devzambra",
+  "url": "https://github.com/devzambra/coverage.nvim"
+}

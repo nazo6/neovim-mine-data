@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Jenkins"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-08-18T03:16:46Z",
+    "description": "LazyVim Plugin for Jenkins",
+    "isArchived": false,
+    "lastCommit": "2025-08-18T06:00:21Z",
+    "nameWithOwner": "Funkmyster/jenkins.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jenkins.nvim",
+  "owner": "Funkmyster",
+  "url": "https://github.com/Funkmyster/jenkins.nvim"
+}

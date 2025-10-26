@@ -2,13 +2,29 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Idris2"
+        }
       ],
-      "file": "Archived.md",
+      "file": "language-specific.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2024-08-09T06:06:20Z",
     "description": "A collection of luasnip snippets for Idris 2.",
     "isArchived": false,

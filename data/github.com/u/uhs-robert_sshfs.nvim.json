@@ -1,0 +1,65 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Remote Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ssh"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 107,
+    "createdAt": "2025-02-14T16:02:34Z",
+    "description": "📡 sshfs.nvim integrates with Neovim, using SSHFS to mount and unmount remote systems via your preferred picker; letting you browse, preview, and edit single files or entire directories as if they were local.",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T20:17:42Z",
+    "nameWithOwner": "uhs-robert/sshfs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "fzf-lua",
+      "lua",
+      "neo-tree",
+      "neovim",
+      "neovim-plugin",
+      "netrw",
+      "nnn",
+      "nvim",
+      "nvim-",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sshfs.nvim",
+  "owner": "uhs-robert",
+  "url": "https://github.com/uhs-robert/sshfs.nvim"
+}

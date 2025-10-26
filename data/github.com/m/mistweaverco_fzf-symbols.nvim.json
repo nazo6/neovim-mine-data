@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-22T19:35:38Z",
+    "description": "fzf-symbols.nvim provide its users with the ability of picking symbols and insert them at point.",
+    "isArchived": false,
+    "lastCommit": "2025-04-22T20:56:27Z",
+    "nameWithOwner": "mistweaverco/fzf-symbols.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "fzf-lua",
+      "fzf-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-symbols.nvim",
+  "owner": "mistweaverco",
+  "url": "https://github.com/mistweaverco/fzf-symbols.nvim"
+}

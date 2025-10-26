@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Command style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-31T07:21:04Z",
+    "description": "Neovim integration with the Ampcode CLI",
+    "isArchived": false,
+    "lastCommit": "2025-05-31T07:33:20Z",
+    "nameWithOwner": "calebfroese/ampcode-cli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ampcode-cli.nvim",
+  "owner": "calebfroese",
+  "url": "https://github.com/calebfroese/ampcode-cli.nvim"
+}

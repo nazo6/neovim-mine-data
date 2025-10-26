@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "PostgreSQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-09-15T00:15:59Z",
+    "description": "Plugin to directly run psql commands inside nvim ",
+    "isArchived": false,
+    "lastCommit": "2025-09-23T00:56:23Z",
+    "nameWithOwner": "AlexisPerdomoD/psql_runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "psql_runner.nvim",
+  "owner": "AlexisPerdomoD",
+  "url": "https://github.com/AlexisPerdomoD/psql_runner.nvim"
+}

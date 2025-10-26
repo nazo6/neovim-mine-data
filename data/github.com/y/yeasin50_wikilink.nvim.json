@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Wiki"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-20T17:07:51Z",
+    "description": "Automatically creates new note files",
+    "isArchived": false,
+    "lastCommit": "2025-06-30T05:12:18Z",
+    "nameWithOwner": "yeasin50/wikilink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wikilink.nvim",
+  "owner": "yeasin50",
+  "url": "https://github.com/yeasin50/wikilink.nvim"
+}

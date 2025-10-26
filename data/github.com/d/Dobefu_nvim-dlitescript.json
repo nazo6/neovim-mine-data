@@ -1,0 +1,54 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "DLiteScript"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-08-13T14:40:54Z",
+    "description": "A NeoVim plugin for the DLiteScript scripting language",
+    "isArchived": false,
+    "lastCommit": "2025-09-28T11:38:51Z",
+    "nameWithOwner": "Dobefu/nvim-dlitescript",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "dlitescript",
+      "lsp",
+      "neovim",
+      "neovim-by-the-way",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "tree-sitter",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dlitescript",
+  "owner": "Dobefu",
+  "url": "https://github.com/Dobefu/nvim-dlitescript"
+}

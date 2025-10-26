@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "open"
+        },
+        {
+          "level": 5,
+          "name": "recent file"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-07-05T15:06:09Z",
+    "description": "a plugin to track each changed of a specific file",
+    "isArchived": false,
+    "lastCommit": "2025-07-07T04:58:32Z",
+    "nameWithOwner": "virakkhun/tracklog.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tracklog.nvim",
+  "owner": "virakkhun",
+  "url": "https://github.com/virakkhun/tracklog.nvim"
+}

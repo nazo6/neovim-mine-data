@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Actions"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-09-26T03:18:27Z",
+    "description": "Plugin that improves support for Github Actions files in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-09-30T03:15:17Z",
+    "nameWithOwner": "Hdoc1509/gh-actions.nvim",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 4,
+    "topics": [
+      "github-actions",
+      "neovim",
+      "neovim-plugin",
+      "parser",
+      "tree-sitter",
+      "tree-sitter-gh-actions-expressions"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gh-actions.nvim",
+  "owner": "Hdoc1509",
+  "url": "https://github.com/Hdoc1509/gh-actions.nvim"
+}

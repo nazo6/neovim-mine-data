@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-09-01T19:38:58Z",
+    "description": "focus on code blocks quickly and easily using folds!",
+    "isArchived": false,
+    "lastCommit": "2025-09-20T18:39:44Z",
+    "nameWithOwner": "vertexE/fold.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fold.nvim",
+  "owner": "vertexE",
+  "url": "https://github.com/vertexE/fold.nvim"
+}

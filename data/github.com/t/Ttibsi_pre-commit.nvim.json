@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 9,
     "createdAt": "2022-05-05T09:32:41Z",
     "description": "Trigger pre-commit linters/formatter straight from within Neovim",
     "isArchived": false,
-    "lastCommit": "2025-01-10T13:45:13Z",
+    "lastCommit": "2025-09-08T09:40:03Z",
     "nameWithOwner": "Ttibsi/pre-commit.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 37,
+    "star": 39,
     "topics": [
       "formatter",
       "linters",

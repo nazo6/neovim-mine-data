@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 9,
     "createdAt": "2024-10-24T00:51:40Z",
     "description": "Neovim Project Manager Plugin",
     "isArchived": false,

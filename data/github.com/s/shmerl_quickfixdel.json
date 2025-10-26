@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-04-25T00:56:11Z",
+    "description": "Neovim plugin for deleting entries in quickfix list",
+    "isArchived": false,
+    "lastCommit": "2025-08-17T19:34:05Z",
+    "nameWithOwner": "shmerl/quickfixdel",
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quickfixdel",
+  "owner": "shmerl",
+  "url": "https://github.com/shmerl/quickfixdel"
+}

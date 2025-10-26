@@ -8,19 +8,15 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Dictionary"
         }
       ],
-      "file": "readme.md",
+      "file": "dictionary.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 0,
     "createdAt": "2024-02-20T00:25:39Z",
     "description": "A simple Neovim plugin for the Linux command `dict` which shows the definitions in a popup ",
     "isArchived": false,

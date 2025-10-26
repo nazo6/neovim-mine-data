@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Ansible"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-10-09T05:50:05Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-09T08:33:33Z",
+    "nameWithOwner": "outerLeitmotiv/nvim-ansible-vault",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ansible-vault",
+  "owner": "outerLeitmotiv",
+  "url": "https://github.com/outerLeitmotiv/nvim-ansible-vault"
+}

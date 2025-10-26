@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Johnny Decimal"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-07-01T08:40:48Z",
+    "description": "Run Johnny Decimal Daemon automatically in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-07-04T03:43:56Z",
+    "nameWithOwner": "mahyarmirrashed/jdd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "jdd",
+      "nvim",
+      "nvim-plugin",
+      "johnny-decimal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jdd.nvim",
+  "owner": "mahyarmirrashed",
+  "url": "https://github.com/mahyarmirrashed/jdd.nvim"
+}

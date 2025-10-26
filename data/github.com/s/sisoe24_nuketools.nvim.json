@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2024-08-17T22:14:07Z",
     "description": "A Neovim plugin for seamless integration with Nuke, allowing you to execute Python/BlinkScript code in Nuke directly from your Neovim editor.",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 4,
     "topics": [
       "execute-python",
       "neovim",

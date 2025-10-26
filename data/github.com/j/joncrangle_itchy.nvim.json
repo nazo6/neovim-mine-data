@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Partial execution"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-05-06T00:41:54Z",
+    "description": "When you don't need a debugger. Quickly evaluate code and view output as virtual lines.",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T02:04:39Z",
+    "nameWithOwner": "joncrangle/itchy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "debugging-tools",
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "code-runner",
+      "repl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "itchy.nvim",
+  "owner": "joncrangle",
+  "url": "https://github.com/joncrangle/itchy.nvim"
+}

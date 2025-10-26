@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Translate"
+        }
+      ],
+      "file": "translate.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-08-10T10:40:47Z",
+    "description": "display translation via lsp.hover, togglable",
+    "isArchived": false,
+    "lastCommit": "2025-08-10T10:53:32Z",
+    "nameWithOwner": "Lingshinx/trans-hover.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "trans-hover.nvim",
+  "owner": "Lingshinx",
+  "url": "https://github.com/Lingshinx/trans-hover.nvim"
+}

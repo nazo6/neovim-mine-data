@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        },
+        {
+          "level": 4,
+          "name": "Timewarrior"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-08-10T22:59:58Z",
+    "description": "Neovim plugin for automatic time tracking with timewarrior.",
+    "isArchived": false,
+    "lastCommit": "2025-08-10T23:22:13Z",
+    "nameWithOwner": "luisfer-cli/autotrack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "autotrack.nvim",
+  "owner": "luisfer-cli",
+  "url": "https://github.com/luisfer-cli/autotrack.nvim"
+}

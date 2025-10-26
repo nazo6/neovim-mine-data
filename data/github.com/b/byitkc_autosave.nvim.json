@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Save"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-10-19T14:46:45Z",
+    "description": "My attempt at a minimal autosave plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T14:47:51Z",
+    "nameWithOwner": "byitkc/autosave.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "autosave.nvim",
+  "owner": "byitkc",
+  "url": "https://github.com/byitkc/autosave.nvim"
+}

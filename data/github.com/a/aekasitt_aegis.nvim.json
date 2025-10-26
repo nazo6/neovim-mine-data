@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screen Key (Show Typing key)"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-05-09T19:58:04Z",
+    "description": "Keystroke caster built within Neovim that is plugin-aware and adapts against overcast",
+    "isArchived": false,
+    "lastCommit": "2025-05-28T17:59:03Z",
+    "nameWithOwner": "aekasitt/aegis.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "builtin",
+      "keycast",
+      "keystroke",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "neovim-plugins",
+      "plugin",
+      "keycaster"
+    ]
+  },
+  "domain": "github.com",
+  "name": "aegis.nvim",
+  "owner": "aekasitt",
+  "url": "https://github.com/aekasitt/aegis.nvim"
+}

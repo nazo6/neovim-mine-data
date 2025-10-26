@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hint"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-09-09T07:45:01Z",
+    "description": "A simple Neovim plugin to show the LSP type of the variable under the cursor in a notification.",
+    "isArchived": false,
+    "lastCommit": "2025-09-09T11:06:11Z",
+    "nameWithOwner": "sim-maz/show-type.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "show-type.nvim",
+  "owner": "sim-maz",
+  "url": "https://github.com/sim-maz/show-type.nvim"
+}

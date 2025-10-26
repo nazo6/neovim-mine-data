@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-10-19T19:54:39Z",
+    "description": "A Neovim plugin that display diagnostic messages with hover key where the cursor.",
+    "isArchived": false,
+    "lastCommit": "2025-10-20T21:47:20Z",
+    "nameWithOwner": "WeiTing1991/diagnostic-hover.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "diagnostics",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagnostic-hover.nvim",
+  "owner": "WeiTing1991",
+  "url": "https://github.com/WeiTing1991/diagnostic-hover.nvim"
+}

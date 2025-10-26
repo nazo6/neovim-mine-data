@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Number"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-06-03T16:03:58Z",
+    "description": "Automatically toggles Neovim line numbers between relative and absolute based on current mode.",
+    "isArchived": false,
+    "lastCommit": "2025-06-03T16:05:57Z",
+    "nameWithOwner": "am2b/smartnumber.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smartnumber.nvim",
+  "owner": "am2b",
+  "url": "https://github.com/am2b/smartnumber.nvim"
+}

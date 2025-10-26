@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Windows"
+        },
+        {
+          "level": 4,
+          "name": "AutoHotKey"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2023-02-19T15:01:42Z",
+    "description": "Simple autohotkey completion, LSP hover support for neovim",
+    "isArchived": false,
+    "lastCommit": "2023-04-26T07:32:22Z",
+    "nameWithOwner": "adambasis/nvim-autohotkey",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-autohotkey",
+  "owner": "adambasis",
+  "url": "https://github.com/DasGandlaf/nvim-autohotkey"
+}

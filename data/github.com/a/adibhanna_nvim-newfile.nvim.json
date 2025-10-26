@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-06-26T13:44:30Z",
+    "description": "Intelligently create new files",
+    "isArchived": false,
+    "lastCommit": "2025-06-26T15:30:09Z",
+    "nameWithOwner": "adibhanna/nvim-newfile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-newfile.nvim",
+  "owner": "adibhanna",
+  "url": "https://github.com/adibhanna/nvim-newfile.nvim"
+}

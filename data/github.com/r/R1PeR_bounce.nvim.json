@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Label Jump (Easymotion style)"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-05-28T19:21:05Z",
+    "description": "Visual word motions plugin. show jump positions of forward and backward word jumps in current line",
+    "isArchived": false,
+    "lastCommit": "2025-10-05T15:18:23Z",
+    "nameWithOwner": "R1PeR/bounce.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bounce.nvim",
+  "owner": "R1PeR",
+  "url": "https://github.com/R1PeR/bounce.nvim"
+}

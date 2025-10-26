@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Container"
+        },
+        {
+          "level": 5,
+          "name": "Docker"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-01T16:00:55Z",
+    "description": "Docker commands picker for Neovim, built as an extension for Telescope.",
+    "isArchived": false,
+    "lastCommit": "2025-06-01T16:38:35Z",
+    "nameWithOwner": "zigotica/telescope-docker-commands.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "docker",
+      "neovim",
+      "telescope",
+      "telescope-extension",
+      "lua",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-docker-commands.nvim",
+  "owner": "zigotica",
+  "url": "https://github.com/zigotica/telescope-docker-commands.nvim"
+}

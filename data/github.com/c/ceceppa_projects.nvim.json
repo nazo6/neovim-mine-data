@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 0,
     "createdAt": "2024-07-19T09:12:56Z",
     "description": "A simple plugin manager for Neovim",
     "isArchived": false,

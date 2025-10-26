@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitLab"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-10-21T11:40:43Z",
+    "description": "Unofficial neovim plugin to wrap gitlab Language server with OAuth",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T06:11:24Z",
+    "nameWithOwner": "tachyons/gitlab-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitlab-lsp.nvim",
+  "owner": "tachyons",
+  "url": "https://github.com/tachyons/gitlab-lsp.nvim"
+}

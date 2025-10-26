@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-04-24T10:23:42Z",
+    "description": "A neovim fzf-lua based project chooser utilizing project.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-04-24T10:24:16Z",
+    "nameWithOwner": "jakobwesthoff/project-fzf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "project-fzf.nvim",
+  "owner": "jakobwesthoff",
+  "url": "https://github.com/jakobwesthoff/project-fzf.nvim"
+}

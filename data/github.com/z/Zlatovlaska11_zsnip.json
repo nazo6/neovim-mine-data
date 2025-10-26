@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-06-03T08:06:54Z",
+    "description": "A simple neovim plugin to save and reuse saved snippets",
+    "isArchived": false,
+    "lastCommit": "2025-06-03T13:43:29Z",
+    "nameWithOwner": "Zlatovlaska11/zsnip",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zsnip",
+  "owner": "Zlatovlaska11",
+  "url": "https://github.com/Zlatovlaska11/zsnip"
+}

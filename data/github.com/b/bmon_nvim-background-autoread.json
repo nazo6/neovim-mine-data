@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "auto reload"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-08-06T02:13:30Z",
+    "description": "subscribes to fs events to reload files as they are changed, without focus or interaction",
+    "isArchived": false,
+    "lastCommit": "2025-08-07T04:39:43Z",
+    "nameWithOwner": "bmon/nvim-background-autoread",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-background-autoread",
+  "owner": "bmon",
+  "url": "https://github.com/bmon/nvim-background-autoread"
+}

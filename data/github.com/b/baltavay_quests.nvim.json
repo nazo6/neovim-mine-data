@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-06-21T08:49:05Z",
+    "description": "NVIM plugin for simple todo TUI",
+    "isArchived": false,
+    "lastCommit": "2025-06-21T11:09:31Z",
+    "nameWithOwner": "baltavay/quests.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "todo"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quests.nvim",
+  "owner": "baltavay",
+  "url": "https://github.com/baltavay/quests.nvim"
+}

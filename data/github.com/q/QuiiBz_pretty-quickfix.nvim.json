@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-07T16:32:00Z",
+    "description": "Just a prettier Quickfix list for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-09T20:38:32Z",
+    "nameWithOwner": "QuiiBz/pretty-quickfix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "nvim",
+      "quickfix",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pretty-quickfix.nvim",
+  "owner": "QuiiBz",
+  "url": "https://github.com/QuiiBz/pretty-quickfix.nvim"
+}

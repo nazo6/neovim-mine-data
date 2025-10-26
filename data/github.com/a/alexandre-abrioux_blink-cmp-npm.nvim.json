@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Task Runner"
+        },
+        {
+          "level": 4,
+          "name": "npm"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-05-10T12:08:01Z",
+    "description": "Completion for packages.json in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-18T11:22:25Z",
+    "nameWithOwner": "alexandre-abrioux/blink-cmp-npm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-npm.nvim",
+  "owner": "alexandre-abrioux",
+  "url": "https://github.com/alexandre-abrioux/blink-cmp-npm.nvim"
+}

@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Javascript/Typescript"
-        },
-        {
-          "level": 3,
-          "name": "import"
-        }
       ],
-      "file": "js_ts.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 37,
+    "commitCountLastYear": 41,
     "createdAt": "2025-01-29T22:55:54Z",
     "description": "Import modules with ease",
-    "isArchived": false,
-    "lastCommit": "2025-01-31T07:25:10Z",
+    "isArchived": true,
+    "lastCommit": "2025-10-22T01:28:43Z",
     "nameWithOwner": "mattpatterson94/fzf-lua-import.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotfiles"
+        },
+        {
+          "level": 5,
+          "name": "chezmoi"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-05-17T04:49:01Z",
+    "description": ":houses: A chezmoi wrapper that feels at home in Neovim's command line.",
+    "isArchived": false,
+    "lastCommit": "2025-06-26T04:21:47Z",
+    "nameWithOwner": "0xzhzh/chez.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chez.nvim",
+  "owner": "0xzhzh",
+  "url": "https://github.com/0xzhzh/chez.nvim"
+}

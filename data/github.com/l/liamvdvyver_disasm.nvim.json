@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Disassemble"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-08-26T03:20:36Z",
+    "description": "View disassembly.",
+    "isArchived": false,
+    "lastCommit": "2025-08-27T00:17:18Z",
+    "nameWithOwner": "liamvdvyver/disasm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "disasm.nvim",
+  "owner": "liamvdvyver",
+  "url": "https://github.com/liamvdvyver/disasm.nvim"
+}

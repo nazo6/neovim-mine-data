@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Variable color"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-05-19T13:15:24Z",
+    "description": "Coloring of variables and types by name in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-15T18:48:17Z",
+    "nameWithOwner": "goldos24/rainbow-variables-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rainbow-variables-nvim",
+  "owner": "goldos24",
+  "url": "https://github.com/goldos24/rainbow-variables-nvim"
+}

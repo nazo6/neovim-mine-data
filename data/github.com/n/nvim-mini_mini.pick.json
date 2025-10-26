@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 53,
+    "createdAt": "2023-10-13T08:19:36Z",
+    "description": "Pick anything. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-20T14:26:31Z",
+    "nameWithOwner": "nvim-mini/mini.pick",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 136,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.pick",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.pick"
+}

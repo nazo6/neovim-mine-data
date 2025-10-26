@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-04-23T13:15:40Z",
+    "description": "a simple floating todo for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-26T08:26:53Z",
+    "nameWithOwner": "vimichael/floatingtodo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floatingtodo.nvim",
+  "owner": "vimichael",
+  "url": "https://github.com/vimichael/floatingtodo.nvim"
+}

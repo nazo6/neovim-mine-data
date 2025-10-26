@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Adding and subtracting"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-15T04:14:35Z",
+    "description": "LSP based plugin that allows users to use mouse drag actions to adjust numbers in neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-08-15T04:12:41Z",
+    "nameWithOwner": "niels4/number-scrubber.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "number-scrubber.nvim",
+  "owner": "niels4",
+  "url": "https://github.com/niels4/number-scrubber.nvim"
+}

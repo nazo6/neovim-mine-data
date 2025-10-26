@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-07T22:36:49Z",
+    "description": "Small utilities for working with Markdown in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-08-23T23:40:37Z",
+    "nameWithOwner": "sergiza/mdutils.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdutils.nvim",
+  "owner": "sergiza",
+  "url": "https://github.com/sergiza/mdutils.nvim"
+}

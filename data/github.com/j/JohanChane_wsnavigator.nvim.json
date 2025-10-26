@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 27,
+    "commitCountLastYear": 14,
     "createdAt": "2024-07-22T23:46:48Z",
     "description": "A switching tool for toggling between a small number of buffers",
     "isArchived": false,
-    "lastCommit": "2025-04-19T02:16:56Z",
+    "lastCommit": "2025-04-25T08:37:07Z",
     "nameWithOwner": "JohanChane/wsnavigator.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "k8s (Kubernetes)"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-07-05T14:33:12Z",
+    "description": "Kubernetes CRD autocomplete",
+    "isArchived": false,
+    "lastCommit": "2025-07-05T14:38:46Z",
+    "nameWithOwner": "manzanit0/k8s-whisper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "k8s-whisper.nvim",
+  "owner": "manzanit0",
+  "url": "https://github.com/manzanit0/k8s-whisper.nvim"
+}

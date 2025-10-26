@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-05-08T14:49:52Z",
+    "description": "Postman-like nvim client",
+    "isArchived": false,
+    "lastCommit": "2025-05-15T13:50:40Z",
+    "nameWithOwner": "marco-souza/rest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "api",
+      "lua",
+      "nvim",
+      "plenary",
+      "rest-client",
+      "postman",
+      "postman-collection"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rest.nvim",
+  "owner": "marco-souza",
+  "url": "https://github.com/marco-souza/rest.nvim"
+}

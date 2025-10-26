@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-11T15:40:14Z",
+    "description": "Experimental Neovim DAP plugin for Docker Buildx",
+    "isArchived": false,
+    "lastCommit": "2025-10-16T14:42:19Z",
+    "nameWithOwner": "docker/nvim-dap-docker",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-docker",
+  "owner": "docker",
+  "url": "https://github.com/docker/nvim-dap-docker"
+}

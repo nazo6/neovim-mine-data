@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Cowsay"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-07-28T07:35:43Z",
+    "description": "Plugin on cowsay fortune",
+    "isArchived": false,
+    "lastCommit": "2025-07-28T15:46:30Z",
+    "nameWithOwner": "AlexRainHao/cowsay-fortune.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cowsay-fortune.nvim",
+  "owner": "AlexRainHao",
+  "url": "https://github.com/AlexRainHao/cowsay-fortune.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-03-29T02:38:27Z",
+    "description": "Lightweight but featureful session manager for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-11T03:58:14Z",
+    "nameWithOwner": "casedami/sesh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sesh.nvim",
+  "owner": "casedami",
+  "url": "https://github.com/cdmill/sesh.nvim"
+}

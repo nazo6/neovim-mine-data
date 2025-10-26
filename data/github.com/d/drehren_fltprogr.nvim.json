@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Progress bar"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-03T14:26:02Z",
+    "description": "WIP api idea for progress event handling in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-09T04:05:56Z",
+    "nameWithOwner": "drehren/fltprogr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "neovim-lua-library",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fltprogr.nvim",
+  "owner": "drehren",
+  "url": "https://github.com/drehren/fltprogr.nvim"
+}

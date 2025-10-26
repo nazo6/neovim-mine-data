@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Joke"
+          "name": "Toy"
         },
         {
           "level": 3,
+          "name": "Joke"
+        },
+        {
+          "level": 4,
           "name": "Hacker typer"
         }
       ],
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2023-04-01T09:19:37Z",
     "description": "Hollywood hacker experience in your neovim",
     "isArchived": false,
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 63,
+    "star": 62,
     "topics": [
       "hackertyper",
       "lua",

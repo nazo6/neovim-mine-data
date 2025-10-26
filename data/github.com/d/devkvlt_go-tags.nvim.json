@@ -19,27 +19,11 @@
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
-  "data": {
-    "commitCountLastYear": 3,
-    "createdAt": "2024-06-03T15:51:17Z",
-    "description": "A Neovim plugin for modifying Go struct tags using gomodifytags.",
-    "isArchived": false,
-    "lastCommit": "2025-02-01T00:53:00Z",
-    "nameWithOwner": "devkvlt/go-tags.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 1,
-    "topics": [
-      "go",
-      "golang",
-      "nvim-plugin",
-      "gomodifytags",
-      "nvim-lua"
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Repository object is null",
+    "reason": "UNKNOWN_ERROR"
+  },
   "name": "go-tags.nvim",
   "owner": "devkvlt",
   "url": "https://github.com/devkvlt/go-tags.nvim"

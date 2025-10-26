@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-07-21T14:51:16Z",
+    "description": "Vscode preview tab like feature in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-16T06:54:55Z",
+    "nameWithOwner": "Old-Farmer/preview-buffer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "preview-buffer.nvim",
+  "owner": "Old-Farmer",
+  "url": "https://github.com/Old-Farmer/preview-buffer.nvim"
+}

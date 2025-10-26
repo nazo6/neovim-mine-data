@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-10-10T22:16:29Z",
+    "description": "Extension for lazy.nvim to enable management of multiple lockfiles across multiple configuration repos",
+    "isArchived": false,
+    "lastCommit": "2025-10-15T20:43:15Z",
+    "nameWithOwner": "cosmicbuffalo/super_lazy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "super_lazy.nvim",
+  "owner": "cosmicbuffalo",
+  "url": "https://github.com/cosmicbuffalo/super_lazy.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-10-07T00:05:20Z",
+    "description": "a neovim plugin to save and insert code blocks/snippets",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T22:18:06Z",
+    "nameWithOwner": "akfiveseven/snippet-stash.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snippet-stash.nvim",
+  "owner": "akfiveseven",
+  "url": "https://github.com/akfiveseven/snippet-stash.nvim"
+}

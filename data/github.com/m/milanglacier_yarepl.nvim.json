@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 61,
+    "commitCountLastYear": 85,
     "createdAt": "2023-06-03T10:33:31Z",
-    "description": "All-in-one REPL and TUI App management tool. Offering flexible interaction paradigms, project-level configs, aider-chat integration, and native dot-repeat.",
+    "description": "Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat.",
     "isArchived": false,
-    "lastCommit": "2025-04-09T14:46:07Z",
+    "lastCommit": "2025-10-03T04:35:39Z",
     "nameWithOwner": "milanglacier/yarepl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 183,
+    "star": 236,
     "topics": [
       "neovim",
       "neovim-plugin",

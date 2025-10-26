@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "textDocument"
+        },
+        {
+          "level": 5,
+          "name": "CodeLens"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-03T12:18:36Z",
+    "description": "hover window",
+    "isArchived": false,
+    "lastCommit": "2025-10-08T15:39:56Z",
+    "nameWithOwner": "lost22git/hover.nvim",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hover.nvim",
+  "owner": "lost22git",
+  "url": "https://github.com/lost22git/hover.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-07-29T07:56:44Z",
+    "description": "Shows the virtual_lines on the current line, but only after the cursor has settled on a single line for a specified amount of time.",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T03:54:09Z",
+    "nameWithOwner": "coreyb-git/virtlines-delay.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "virtlines-delay.nvim",
+  "owner": "coreyb-git",
+  "url": "https://github.com/coreyb-git/virtlines-delay.nvim"
+}

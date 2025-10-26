@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Video"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 0,
     "createdAt": "2024-08-27T11:29:48Z",
     "description": "subway surfers while writing code!",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 3,
     "topics": [
     ]
   },

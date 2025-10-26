@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Insert"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-09-21T17:53:06Z",
+    "description": "A Neovim plugin to assist with editing strings.",
+    "isArchived": false,
+    "lastCommit": "2025-09-24T04:29:51Z",
+    "nameWithOwner": "duqcyxwd/stringbreaker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stringbreaker.nvim",
+  "owner": "duqcyxwd",
+  "url": "https://github.com/duqcyxwd/stringbreaker.nvim"
+}

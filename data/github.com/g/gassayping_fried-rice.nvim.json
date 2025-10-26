@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotfiles"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-30T16:59:50Z",
+    "description": "Quickly open config files from anywhere",
+    "isArchived": false,
+    "lastCommit": "2025-05-30T17:18:25Z",
+    "nameWithOwner": "gassayping/fried-rice.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fried-rice.nvim",
+  "owner": "gassayping",
+  "url": "https://github.com/gassayping/fried-rice.nvim"
+}

@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Project Template"
+          "level": 2,
+          "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Local Config"
         }
       ],
@@ -20,11 +20,10 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 4,
     "createdAt": "2025-03-24T23:34:19Z",
-    "description": null,
     "isArchived": false,
-    "lastCommit": "2025-03-25T00:02:53Z",
+    "lastCommit": "2025-07-28T07:53:23Z",
     "nameWithOwner": "Dzejkop/konfig.nvim",
     "primaryLanguage": {
       "color": "#000080",

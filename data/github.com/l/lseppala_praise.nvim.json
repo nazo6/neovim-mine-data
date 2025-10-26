@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Pull Request"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-05-28T15:26:18Z",
+    "description": "Praise.nvim: Find Pull Request for code under cursor",
+    "isArchived": false,
+    "lastCommit": "2025-05-29T20:14:37Z",
+    "nameWithOwner": "lseppala/praise.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "praise.nvim",
+  "owner": "lseppala",
+  "url": "https://github.com/lseppala/praise.nvim"
+}

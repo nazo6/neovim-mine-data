@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Security"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Secrets"
         }
       ],
@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 5,
     "createdAt": "2025-02-22T22:51:46Z",
     "description": "Set Neovim options to edit pass(1) files securely",
     "isArchived": false,
-    "lastCommit": "2025-03-05T18:22:10Z",
+    "lastCommit": "2025-06-05T19:26:28Z",
     "nameWithOwner": "BB223/redact_pass.nvim",
     "primaryLanguage": {
       "color": "#000080",

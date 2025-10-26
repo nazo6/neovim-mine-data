@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Cedar"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-09-19T21:10:59Z",
+    "description": "A plugin to use Cedar Policy Language effectively in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-01T15:20:11Z",
+    "nameWithOwner": "edmondop/cedar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cedar.nvim",
+  "owner": "edmondop",
+  "url": "https://github.com/edmondop/cedar.nvim"
+}

@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 90,
     "createdAt": "2025-03-23T09:05:39Z",
-    "description": "Neovim plugin for Textwire syntax highlighting support and autocompletions",
+    "description": "Neovim plugin for Textwire syntax highlighting support and autocompletions with LSP",
     "isArchived": false,
-    "lastCommit": "2025-03-31T08:04:58Z",
+    "lastCommit": "2025-08-11T12:03:40Z",
     "nameWithOwner": "textwire/textwire.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
       "lua",
       "neovim",

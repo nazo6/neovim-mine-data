@@ -24,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2022-11-05T17:35:03Z",
     "description": "neovim plugin to copy to clipboard the file path and line where cursor is",
     "isArchived": false,
@@ -34,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 18,
+    "star": 17,
     "topics": [
       "nvim",
       "plugin",

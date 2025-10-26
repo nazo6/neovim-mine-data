@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "DeepSeek"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 89,
+    "createdAt": "2025-05-28T13:36:29Z",
+    "description": "Testing Autocomplete via various models. Only for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-22T13:27:49Z",
+    "nameWithOwner": "PyDevC/model-cmp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "model-cmp.nvim",
+  "owner": "PyDevC",
+  "url": "https://github.com/PyDevC/model-cmp.nvim"
+}

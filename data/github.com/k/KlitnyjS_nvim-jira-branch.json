@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Jira"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-08-01T08:09:36Z",
+    "description": "Create git branches from Jira tickets in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-09-15T14:58:48Z",
+    "nameWithOwner": "KlitnyjS/nvim-jira-branch",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jira-branch",
+  "owner": "KlitnyjS",
+  "url": "https://github.com/KlitnyjS/nvim-jira-branch"
+}

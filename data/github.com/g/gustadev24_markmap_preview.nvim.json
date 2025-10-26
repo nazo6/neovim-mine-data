@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Mindmap"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-04-21T02:48:24Z",
+    "description": "Previewer for mindmaps in markmap",
+    "isArchived": false,
+    "lastCommit": "2025-04-21T02:47:48Z",
+    "nameWithOwner": "gustadev24/markmap_preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markmap_preview.nvim",
+  "owner": "gustadev24",
+  "url": "https://github.com/gustadev24/markmap_preview.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "HTTP"
+        },
+        {
+          "level": 4,
+          "name": "Request"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-06-25T16:24:01Z",
+    "description": "Neovim plugin to play with HTTP/GraphQL APIs right inside your editor",
+    "isArchived": false,
+    "lastCommit": "2025-09-25T07:35:20Z",
+    "nameWithOwner": "ecthiender/daak.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "daak.nvim",
+  "owner": "ecthiender",
+  "url": "https://github.com/ecthiender/daak.nvim"
+}

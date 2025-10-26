@@ -13,20 +13,37 @@
       ],
       "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "(requires Neovim 0.5)"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 9,
     "createdAt": "2025-02-11T20:43:58Z",
-    "description": null,
     "isArchived": false,
-    "lastCommit": "2025-04-05T21:27:29Z",
+    "lastCommit": "2025-06-26T19:40:16Z",
     "nameWithOwner": "SunnyTamang/neodoc.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8,
+    "star": 11,
     "topics": [
     ]
   },

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Other Buffer Switcher"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-09-22T18:49:01Z",
+    "description": "Pair files and switch between them",
+    "isArchived": false,
+    "lastCommit": "2025-09-23T07:35:43Z",
+    "nameWithOwner": "vvilhelmsen/partner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "partner.nvim",
+  "owner": "vvilhelmsen",
+  "url": "https://github.com/vvilhelmsen/partner.nvim"
+}

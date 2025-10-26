@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Other Buffer Switcher"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-10-09T23:36:00Z",
+    "description": "A small Neovim plugin for quickly jumping to and assigning \"hot\" buffers.",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T21:47:07Z",
+    "nameWithOwner": "Ross74U/hotbuffers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hotbuffers.nvim",
+  "owner": "Ross74U",
+  "url": "https://github.com/Ross74U/hotbuffers.nvim"
+}

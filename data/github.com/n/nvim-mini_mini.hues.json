@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme Creation"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2023-05-07T11:48:35Z",
+    "description": "Generate configurable color scheme. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T13:34:48Z",
+    "nameWithOwner": "nvim-mini/mini.hues",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.hues",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.hues"
+}

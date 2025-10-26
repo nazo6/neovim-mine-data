@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Genie CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-07-20T04:48:16Z",
+    "description": "A simple Neovim plugin for Genie CLI",
+    "isArchived": false,
+    "lastCommit": "2025-07-20T05:26:57Z",
+    "nameWithOwner": "kcaldas/genie.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "genie.nvim",
+  "owner": "kcaldas",
+  "url": "https://github.com/kcaldas/genie.nvim"
+}

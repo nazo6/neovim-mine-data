@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Color Creator"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-14T07:42:03Z",
+    "description": "based off max397a74/colortils.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-05-14T08:24:45Z",
+    "nameWithOwner": "barium-bromide/colortils.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "colortils.nvim",
+  "owner": "barium-bromide",
+  "url": "https://github.com/barium-bromide/colortils.nvim"
+}

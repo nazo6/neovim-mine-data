@@ -2,28 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Keymap"
-        },
-        {
-          "level": 3,
-          "name": "callback"
-        }
       ],
-      "file": "mapping.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 0,
     "createdAt": "2024-04-08T17:59:36Z",
-    "description": null,
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-04-09T06:01:11Z",
     "nameWithOwner": "gregorias/keyoverloader.nvim",
     "primaryLanguage": {

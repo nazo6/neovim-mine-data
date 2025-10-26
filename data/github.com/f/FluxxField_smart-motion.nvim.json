@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 84,
+    "commitCountLastYear": 321,
     "createdAt": "2025-02-28T14:12:57Z",
-    "description": "Home-row powered smart motions with flow-state chaining for Neovim",
+    "description": "Composable motion framework for Neovim. Build custom motions from modular parts, chain them seamlessly with flow state, and create your own navigation systems.",
     "isArchived": false,
-    "lastCommit": "2025-03-13T00:54:39Z",
+    "lastCommit": "2025-09-04T14:35:34Z",
     "nameWithOwner": "FluxxField/smart-motion.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 49,
     "topics": [
       "easymotion",
       "flow-state",

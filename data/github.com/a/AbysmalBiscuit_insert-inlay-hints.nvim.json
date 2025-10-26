@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hint"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 76,
+    "createdAt": "2025-10-05T19:13:45Z",
+    "description": "A neovim plugin that enables inserting inlay hints as code.",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T18:47:04Z",
+    "nameWithOwner": "AbysmalBiscuit/insert-inlay-hints.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "insert-inlay-hints.nvim",
+  "owner": "AbysmalBiscuit",
+  "url": "https://github.com/AbysmalBiscuit/insert-inlay-hints.nvim"
+}

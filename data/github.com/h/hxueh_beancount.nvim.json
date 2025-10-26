@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Beancount"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-08-22T16:44:05Z",
+    "description": "Comprehensive Neovim plugin for Beancount plain text accounting with syntax highlighting, diagnostics, auto-completion, formatting, and navigation features.",
+    "isArchived": false,
+    "lastCommit": "2025-08-25T15:42:43Z",
+    "nameWithOwner": "hxueh/beancount.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "auto-completion",
+      "beancount",
+      "code-formatting",
+      "diagnostics",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "beancount.nvim",
+  "owner": "hxueh",
+  "url": "https://github.com/hxueh/beancount.nvim"
+}

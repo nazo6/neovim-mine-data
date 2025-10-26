@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-09-21T16:29:48Z",
+    "description": "Plugin for managing scratch files (global and per workspace)",
+    "isArchived": false,
+    "lastCommit": "2025-09-23T22:10:50Z",
+    "nameWithOwner": "diegoortizmatajira/workspace-scratch-files.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "workspace-scratch-files.nvim",
+  "owner": "diegoortizmatajira",
+  "url": "https://github.com/diegoortizmatajira/workspace-scratch-files.nvim"
+}

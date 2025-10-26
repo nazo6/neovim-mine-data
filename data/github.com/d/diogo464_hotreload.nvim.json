@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "auto reload"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-06-13T10:34:34Z",
+    "description": "Automatically reloads Neovim buffers when files change on disk",
+    "isArchived": false,
+    "lastCommit": "2025-06-17T16:01:02Z",
+    "nameWithOwner": "diogo464/hotreload.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "autoreload",
+      "autoreload-files",
+      "hotreload",
+      "neovim",
+      "nvim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hotreload.nvim",
+  "owner": "diogo464",
+  "url": "https://github.com/diogo464/hotreload.nvim"
+}

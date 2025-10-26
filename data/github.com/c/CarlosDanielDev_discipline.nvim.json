@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tutorial"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-12T15:58:17Z",
+    "description": "The “discipline” plugin for Neovim — warns you when you’re over-using non-Vim motions.",
+    "isArchived": false,
+    "lastCommit": "2025-05-12T16:31:23Z",
+    "nameWithOwner": "CarlosDanielDev/discipline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "discipline.nvim",
+  "owner": "CarlosDanielDev",
+  "url": "https://github.com/CarlosDanielDev/discipline.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Vimdoc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-12T07:20:18Z",
+    "description": "Generate vimdoc help files from lua/c docstrings",
+    "isArchived": false,
+    "lastCommit": "2025-05-17T04:30:00Z",
+    "nameWithOwner": "Bekaboo/gen-vimdoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gen-vimdoc.nvim",
+  "owner": "Bekaboo",
+  "url": "https://github.com/Bekaboo/gen-vimdoc.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Notification"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-05-01T20:38:22Z",
+    "description": "Notification helpers for Neovim plugins.",
+    "isArchived": false,
+    "lastCommit": "2025-05-01T20:38:43Z",
+    "nameWithOwner": "cskeeters/libnotify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "libnotify.nvim",
+  "owner": "cskeeters",
+  "url": "https://github.com/cskeeters/libnotify.nvim"
+}

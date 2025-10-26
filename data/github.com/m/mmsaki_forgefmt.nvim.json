@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-07-28T23:52:11Z",
+    "description": "Auto formatting for solidity files in neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-07-31T07:42:15Z",
+    "nameWithOwner": "mmsaki/forgefmt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "foundry-rs",
+      "lua",
+      "nvim-plugin",
+      "solidity"
+    ]
+  },
+  "domain": "github.com",
+  "name": "forgefmt.nvim",
+  "owner": "mmsaki",
+  "url": "https://github.com/mmsaki/forgefmt.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Mermaid"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-07-24T15:34:51Z",
+    "description": "Mermaid diagram visualization in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-25T22:45:40Z",
+    "nameWithOwner": "lancekrogers/mermaider.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "mermaid",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mermaider.nvim",
+  "owner": "lancekrogers",
+  "url": "https://github.com/lancekrogers/mermaider.nvim"
+}

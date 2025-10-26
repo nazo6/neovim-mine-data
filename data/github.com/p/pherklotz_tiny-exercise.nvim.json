@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tutorial"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-07-12T10:57:57Z",
+    "description": "🧠 A Neovim plugin to build muscle memory for essential key combinations through tiny, interactive drills.",
+    "isArchived": false,
+    "lastCommit": "2025-07-14T14:46:26Z",
+    "nameWithOwner": "pherklotz/tiny-exercise.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "learning",
+      "learning-by-doing",
+      "learning-exercise",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "training"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tiny-exercise.nvim",
+  "owner": "pherklotz",
+  "url": "https://github.com/pherklotz/tiny-exercise.nvim"
+}

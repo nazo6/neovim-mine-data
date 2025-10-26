@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-09-17T10:21:26Z",
+    "description": "File-aware AI assistance for Neovim via modular CodeCompanion extensions",
+    "isArchived": false,
+    "lastCommit": "2025-09-17T10:40:42Z",
+    "nameWithOwner": "dyamon/codecompanion-filewise.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-filewise.nvim",
+  "owner": "dyamon",
+  "url": "https://github.com/dyamon/codecompanion-filewise.nvim"
+}

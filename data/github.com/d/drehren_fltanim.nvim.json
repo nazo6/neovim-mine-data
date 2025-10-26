@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Animation"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-19T03:53:06Z",
+    "description": "An animation api/system for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-05T02:51:32Z",
+    "nameWithOwner": "drehren/fltanim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-lua-library",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fltanim.nvim",
+  "owner": "drehren",
+  "url": "https://github.com/drehren/fltanim.nvim"
+}

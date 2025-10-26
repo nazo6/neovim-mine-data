@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "System Clipboard"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 290,
+    "createdAt": "2025-10-02T21:42:14Z",
+    "description": "A Neovim plugin for sharing file(s) between other folders, projects, and applications using native file copy & paste.",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T04:29:04Z",
+    "nameWithOwner": "Frosthaven/yank-system-ops.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "yank-system-ops.nvim",
+  "owner": "Frosthaven",
+  "url": "https://github.com/Frosthaven/yank-system-ops.nvim"
+}

@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Wiki"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-07-18T20:36:09Z",
+    "description": "Personal exportable wiki with automated hyperrefs",
+    "isArchived": false,
+    "lastCommit": "2025-08-13T12:29:04Z",
+    "nameWithOwner": "thjbdvlt/sentiers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "hyperref",
+      "hypertext",
+      "knowledge",
+      "links",
+      "neovim",
+      "neovim-plugin",
+      "static-website",
+      "website",
+      "wiki",
+      "writing"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sentiers.nvim",
+  "owner": "thjbdvlt",
+  "url": "https://github.com/thjbdvlt/sentiers.nvim"
+}

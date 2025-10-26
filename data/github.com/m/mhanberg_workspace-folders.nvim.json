@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Project Template"
+          "level": 2,
+          "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Local Config"
         }
       ],
@@ -20,9 +20,8 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2023-11-08T01:55:03Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2024-07-03T15:15:22Z",
     "nameWithOwner": "mhanberg/workspace-folders.nvim",
@@ -30,7 +29,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
     ]
   },

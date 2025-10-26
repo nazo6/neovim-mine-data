@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Indent"
+        },
+        {
+          "level": 3,
+          "name": "Indent Size"
+        }
+      ],
+      "file": "indent.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-08-06T08:46:42Z",
+    "description": "Lightweight indentation helper for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-08-06T08:46:36Z",
+    "nameWithOwner": "Ronxvier/dent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-configuration",
+      "neovim-plugin",
+      "nvim",
+      "nvim-config",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dent.nvim",
+  "owner": "Ronxvier",
+  "url": "https://github.com/Ronxvier/dent.nvim"
+}

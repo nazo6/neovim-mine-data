@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "StackGen"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-06-28T17:32:39Z",
+    "description": "StackGen Neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2025-06-30T15:01:22Z",
+    "nameWithOwner": "stackgenhq/stackgen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stackgen.nvim",
+  "owner": "stackgenhq",
+  "url": "https://github.com/stackgenhq/stackgen.nvim"
+}

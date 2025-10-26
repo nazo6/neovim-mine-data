@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Breadcrumbs"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2023-04-28T19:28:30Z",
+    "description": "A simple breadcrumbs generator for Nvim",
+    "isArchived": false,
+    "lastCommit": "2023-05-01T18:32:06Z",
+    "nameWithOwner": "nikola-vukicevic/breadcrumbs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "breadcrumbs",
+      "lsp-server"
+    ]
+  },
+  "domain": "github.com",
+  "name": "breadcrumbs.nvim",
+  "owner": "nikola-vukicevic",
+  "url": "https://github.com/nikola-vukicevic/breadcrumbs.nvim"
+}

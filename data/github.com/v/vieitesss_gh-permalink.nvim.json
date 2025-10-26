@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-09-06T22:13:01Z",
+    "description": "Creates and copies the permalink to the selected lines of code of a file in a GitHub repository.",
+    "isArchived": false,
+    "lastCommit": "2025-09-09T11:55:31Z",
+    "nameWithOwner": "vieitesss/gh-permalink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gh-permalink.nvim",
+  "owner": "vieitesss",
+  "url": "https://github.com/vieitesss/gh-permalink.nvim"
+}

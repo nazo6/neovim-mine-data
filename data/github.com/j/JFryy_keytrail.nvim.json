@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2025-05-17T04:47:17Z",
+    "description": "Neovim plugin in pure Lua for displaying paths and key-based search with fuzzy finding.",
+    "isArchived": false,
+    "lastCommit": "2025-10-15T23:24:33Z",
+    "nameWithOwner": "JFryy/keytrail.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keytrail.nvim",
+  "owner": "JFryy",
+  "url": "https://github.com/JFryy/keytrail.nvim"
+}

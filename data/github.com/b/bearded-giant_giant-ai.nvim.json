@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Giant AI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-06-09T17:40:17Z",
+    "description": "neovim plugin for interacting with giant-ai framework",
+    "isArchived": false,
+    "lastCommit": "2025-09-01T17:49:05Z",
+    "nameWithOwner": "bearded-giant/giant-ai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "giant-ai.nvim",
+  "owner": "bearded-giant",
+  "url": "https://github.com/bearded-giant/giant-ai.nvim"
+}

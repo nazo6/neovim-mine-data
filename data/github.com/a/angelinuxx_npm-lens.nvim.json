@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Task Runner"
+        },
+        {
+          "level": 4,
+          "name": "npm"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-06-02T21:20:49Z",
+    "description": "💡 A Neovim plugin that visualizes outdated npm dependencies in package.json using npm outdated.",
+    "isArchived": false,
+    "lastCommit": "2025-06-16T23:10:45Z",
+    "nameWithOwner": "angelinuxx/npm-lens.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "npm-lens.nvim",
+  "owner": "angelinuxx",
+  "url": "https://github.com/angelinuxx/npm-lens.nvim"
+}

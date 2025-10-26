@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-07-23T15:05:53Z",
+    "description": "A simple jq wrapper for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T22:37:50Z",
+    "nameWithOwner": "JamiroFerrara/jq.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jq.nvim",
+  "owner": "JamiroFerrara",
+  "url": "https://github.com/JamiroFerrara/jq.nvim"
+}

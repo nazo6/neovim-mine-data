@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "VS Code features"
+        },
+        {
+          "level": 3,
+          "name": "IDE feature"
+        }
+      ],
+      "file": "vscode-features.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-09-25T14:38:37Z",
+    "isArchived": false,
+    "lastCommit": "2025-09-25T22:00:23Z",
+    "nameWithOwner": "kevintraver/nvim-vscode-status",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-vscode-status",
+  "owner": "kevintraver",
+  "url": "https://github.com/kevintraver/nvim-vscode-status"
+}

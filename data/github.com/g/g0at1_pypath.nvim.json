@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-06-18T15:59:09Z",
+    "description": "Lua plugin to use pypath inside neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-07-21T18:25:55Z",
+    "nameWithOwner": "g0at1/pypath.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pypath.nvim",
+  "owner": "g0at1",
+  "url": "https://github.com/g0at1/pypath.nvim"
+}

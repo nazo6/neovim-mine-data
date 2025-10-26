@@ -20,23 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 118,
     "createdAt": "2024-10-07T23:56:04Z",
-    "description": "Neovim plugin plugin to provide syntax highlighting for Hygen templates",
+    "description": "Plugin that adds support for Hygen templates in Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-12-26T00:17:20Z",
+    "lastCommit": "2025-07-18T23:09:37Z",
     "nameWithOwner": "Hdoc1509/hygen.nvim",
     "primaryLanguage": {
-      "color": "#89e051",
-      "name": "Shell"
+      "color": "#000080",
+      "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
       "hygen",
       "neovim",
       "neovim-plugin",
       "parser",
-      "tree-sitter"
+      "tree-sitter",
+      "tree-sitter-hygen-template"
     ]
   },
   "domain": "github.com",

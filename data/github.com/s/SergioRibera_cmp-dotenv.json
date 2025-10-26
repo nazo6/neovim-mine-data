@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2023-12-25T01:47:53Z",
     "description": "cmp import and use all environment variables from .env.* and system",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 78,
+    "star": 89,
     "topics": [
       "lua",
       "neovim",

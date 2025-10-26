@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-04-20T18:59:59Z",
+    "description": "A minimal Neovim plugin for custom code folding using region markers",
+    "isArchived": false,
+    "lastCommit": "2025-07-09T18:30:09Z",
+    "nameWithOwner": "nicolas-martin/region-folding.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "region-folding.nvim",
+  "owner": "nicolas-martin",
+  "url": "https://github.com/nicolas-martin/region-folding.nvim"
+}

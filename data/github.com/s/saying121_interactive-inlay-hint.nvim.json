@@ -24,23 +24,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 48,
+    "commitCountLastYear": 75,
     "createdAt": "2025-03-29T10:46:48Z",
     "description": "Interactive with inalyhint",
     "isArchived": false,
-    "lastCommit": "2025-04-15T13:22:07Z",
+    "lastCommit": "2025-10-24T11:01:39Z",
     "nameWithOwner": "saying121/interactive-inlay-hint.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8,
+    "star": 9,
     "topics": [
       "neovim",
       "neovim-plugin",
       "inaly-hints",
       "lsp-client",
-      "lsp"
+      "lsp",
+      "rust-analyzer",
+      "rust"
     ]
   },
   "domain": "github.com",

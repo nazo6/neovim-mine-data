@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-17T10:56:43Z",
+    "description": "Enhanced buffers for lualine with pinning, diagnostics, and git status",
+    "isArchived": false,
+    "lastCommit": "2025-06-21T10:57:40Z",
+    "nameWithOwner": "stuckinsnow/luabuff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "buffer-management",
+      "lua",
+      "lualine",
+      "neovim",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "luabuff.nvim",
+  "owner": "stuckinsnow",
+  "url": "https://github.com/stuckinsnow/luabuff.nvim"
+}

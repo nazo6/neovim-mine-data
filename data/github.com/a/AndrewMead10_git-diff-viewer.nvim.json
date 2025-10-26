@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-10-23T14:53:02Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T12:04:48Z",
+    "nameWithOwner": "AndrewMead10/git-diff-viewer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-diff-viewer.nvim",
+  "owner": "AndrewMead10",
+  "url": "https://github.com/AndrewMead10/git-diff-viewer.nvim"
+}

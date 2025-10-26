@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-10-06T12:09:42Z",
+    "description": "Allow using Jupyter notebooks from nvim via euporie TUI",
+    "isArchived": false,
+    "lastCommit": "2025-10-06T13:04:27Z",
+    "nameWithOwner": "bxrne/euporie.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "euporie.nvim",
+  "owner": "bxrne",
+  "url": "https://github.com/bxrne/euporie.nvim"
+}

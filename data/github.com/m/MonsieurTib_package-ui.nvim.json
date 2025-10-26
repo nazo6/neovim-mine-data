@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "LSP, DAP, linter, formatter"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-06-12T17:02:47Z",
+    "description": "Interactive package management UI for Neovim. Browse, search, install and manage packages with a beautiful multi-panel interface",
+    "isArchived": false,
+    "lastCommit": "2025-07-02T10:00:56Z",
+    "nameWithOwner": "MonsieurTib/package-ui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+      "cargo",
+      "npm",
+      "elixir",
+      "mix",
+      "neovim",
+      "neovim-plugin",
+      "ruby-gem",
+      "rust",
+      "python-pip"
+    ]
+  },
+  "domain": "github.com",
+  "name": "package-ui.nvim",
+  "owner": "MonsieurTib",
+  "url": "https://github.com/MonsieurTib/package-ui.nvim"
+}

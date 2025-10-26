@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 1,
     "createdAt": "2024-06-24T22:35:17Z",
     "description": "Neovim plugin for key mappings sessions",
     "isArchived": false,
-    "lastCommit": "2025-04-04T01:07:11Z",
+    "lastCommit": "2025-08-19T01:21:45Z",
     "nameWithOwner": "shmerl/session-keys",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 3,
+    "star": 8,
     "topics": [
+      "neovim",
+      "neovim-plugn",
+      "nvim",
+      "nvim-plugin",
+      "lua",
+      "key-mapping",
+      "keymapping"
     ]
   },
   "domain": "github.com",

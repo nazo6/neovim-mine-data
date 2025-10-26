@@ -2,31 +2,23 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Save"
-        }
       ],
-      "file": "save_backup.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 101,
+    "commitCountLastYear": 86,
     "createdAt": "2024-08-25T15:08:00Z",
     "description": "A simple Neovim and Vim plugin for autosaving as you type",
-    "isArchived": false,
-    "lastCommit": "2024-12-26T15:27:36Z",
+    "isArchived": true,
+    "lastCommit": "2025-08-05T19:48:21Z",
     "nameWithOwner": "brianhuster/autosave.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 11,
+    "star": 14,
     "topics": [
       "lua",
       "neovim",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "make"
+        },
+        {
+          "level": 5,
+          "name": "meson"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-04-25T12:42:29Z",
+    "description": "Meson build system support for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-19T06:52:45Z",
+    "nameWithOwner": "SpikedPaladin/meson.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "meson.nvim",
+  "owner": "SpikedPaladin",
+  "url": "https://github.com/SpikedPaladin/meson.nvim"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2025-03-30T10:55:51Z",
+    "description": "Git-aware search extension for fzf-lua",
+    "isArchived": false,
+    "lastCommit": "2025-05-05T11:31:04Z",
+    "nameWithOwner": "drop-stones/fzf-lua-git-search",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "fzf-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-lua-git-search",
+  "owner": "drop-stones",
+  "url": "https://github.com/drop-stones/fzf-lua-git-search"
+}

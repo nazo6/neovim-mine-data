@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-19T05:36:18Z",
+    "description": "Plugin that allows you to yank text and send it to a separate pinned  buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-05-08T21:43:10Z",
+    "nameWithOwner": "AndreiNekrasOn/pinned.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pinned.nvim",
+  "owner": "AndreiNekrasOn",
+  "url": "https://github.com/AndreiNekrasOn/pinned.nvim"
+}

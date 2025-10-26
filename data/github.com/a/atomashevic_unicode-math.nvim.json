@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-10T14:34:47Z",
+    "description": "Render LaTeX math expressions in markdown documents as Unicode math",
+    "isArchived": false,
+    "lastCommit": "2025-06-10T15:28:05Z",
+    "nameWithOwner": "atomashevic/unicode-math.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "unicode-math.nvim",
+  "owner": "atomashevic",
+  "url": "https://github.com/atomashevic/unicode-math.nvim"
+}

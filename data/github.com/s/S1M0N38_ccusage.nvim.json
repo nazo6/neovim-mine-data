@@ -1,0 +1,60 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Profiler"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 49,
+    "createdAt": "2025-07-28T23:40:03Z",
+    "description": "⌖ Track Claude Code usage in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-02T11:30:48Z",
+    "nameWithOwner": "S1M0N38/ccusage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "ccusage",
+      "claude-code",
+      "lualine",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ccusage.nvim",
+  "owner": "S1M0N38",
+  "url": "https://github.com/S1M0N38/ccusage.nvim"
+}

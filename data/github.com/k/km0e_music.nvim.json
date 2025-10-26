@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-08-14T12:49:57Z",
+    "description": "Neovim music player with Subsonic.",
+    "isArchived": false,
+    "lastCommit": "2025-09-21T14:56:15Z",
+    "nameWithOwner": "km0e/music.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "music-player",
+      "neovim",
+      "neovim-plugin",
+      "subsonic",
+      "lazyvim",
+      "music",
+      "lyrics",
+      "mpv",
+      "opensubsonic"
+    ]
+  },
+  "domain": "github.com",
+  "name": "music.nvim",
+  "owner": "km0e",
+  "url": "https://github.com/km0e/music.nvim"
+}

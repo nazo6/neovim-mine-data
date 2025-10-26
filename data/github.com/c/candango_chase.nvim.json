@@ -8,10 +8,14 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
+          "name": "Python"
         },
         {
           "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
           "name": "venv"
         }
       ],
@@ -20,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 23,
     "createdAt": "2023-06-17T23:13:07Z",
     "description": "Chase after organizing the project configuration and running things...",
     "isArchived": false,
-    "lastCommit": "2025-04-20T04:22:08Z",
+    "lastCommit": "2025-08-19T18:48:13Z",
     "nameWithOwner": "candango/chase.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
       "neovim",
       "plugin",

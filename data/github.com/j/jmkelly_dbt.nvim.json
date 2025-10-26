@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C#"
+        },
+        {
+          "level": 5,
+          "name": ".NET"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-04-20T23:27:35Z",
+    "isArchived": false,
+    "lastCommit": "2025-04-24T00:11:55Z",
+    "nameWithOwner": "jmkelly/dbt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dbt.nvim",
+  "owner": "jmkelly",
+  "url": "https://github.com/jmkelly/dbt.nvim"
+}

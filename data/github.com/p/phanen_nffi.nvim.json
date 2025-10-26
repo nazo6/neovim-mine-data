@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FFI"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-07-02T05:30:49Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-02T12:20:15Z",
+    "nameWithOwner": "phanen/nffi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "ffi",
+      "lua",
+      "reflow",
+      "terminal",
+      "libnvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nffi.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/nffi.nvim"
+}

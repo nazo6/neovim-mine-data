@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 72,
+    "createdAt": "2025-10-09T05:59:46Z",
+    "description": "A simple AI chat plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T12:27:34Z",
+    "nameWithOwner": "inobit/llm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "llm.nvim",
+  "owner": "inobit",
+  "url": "https://github.com/inobit/llm.nvim"
+}

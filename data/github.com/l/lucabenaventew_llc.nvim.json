@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-02T18:38:33Z",
+    "description": "luca mod of yapcine rewrite of melbaldove plugin.",
+    "isArchived": false,
+    "lastCommit": "2025-08-02T18:43:58Z",
+    "nameWithOwner": "lucabenaventew/llc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "llc.nvim",
+  "owner": "lucabenaventew",
+  "url": "https://github.com/lucabenaventew/llc.nvim"
+}

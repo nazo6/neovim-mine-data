@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-05-14T08:22:03Z",
+    "description": "A plugin for working with R / Python data exploration in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-27T09:38:42Z",
+    "nameWithOwner": "fasterius/slime-peek.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "slime-peek.nvim",
+  "owner": "fasterius",
+  "url": "https://github.com/fasterius/slime-peek.nvim"
+}

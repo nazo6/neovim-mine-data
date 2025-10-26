@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-01-15T14:33:40Z",
+    "description": "Auto Populate Boilerplate Codes on Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-18T17:47:38Z",
+    "nameWithOwner": "yamazhen/scaffold.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scaffold.nvim",
+  "owner": "yamazhen",
+  "url": "https://github.com/yamazhen/autotemplate.nvim"
+}

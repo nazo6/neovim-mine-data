@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        },
+        {
+          "level": 3,
+          "name": "AST (Semantic search)"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-07-28T22:55:17Z",
+    "description": "Use `ast-grep` to search through files from neovim command mode.",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T16:16:45Z",
+    "nameWithOwner": "dk949/ast-search.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ast-search.nvim",
+  "owner": "dk949",
+  "url": "https://github.com/dk949/ast-search.nvim"
+}

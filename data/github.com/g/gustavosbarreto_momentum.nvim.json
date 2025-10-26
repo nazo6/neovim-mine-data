@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-05-15T18:19:29Z",
+    "description": "Smart key acceleration for motion in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-15T18:55:21Z",
+    "nameWithOwner": "gustavosbarreto/momentum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "momentum.nvim",
+  "owner": "gustavosbarreto",
+  "url": "https://github.com/gustavosbarreto/momentum.nvim"
+}

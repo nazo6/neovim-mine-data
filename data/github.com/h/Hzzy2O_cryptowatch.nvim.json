@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Stock price"
         }
       ],
@@ -16,9 +20,8 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2023-08-09T02:07:57Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2024-06-13T07:54:05Z",
     "nameWithOwner": "Hzzy2O/cryptowatch.nvim",

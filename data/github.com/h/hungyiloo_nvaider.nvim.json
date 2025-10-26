@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Aider"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 161,
+    "createdAt": "2025-07-03T13:18:29Z",
+    "description": "🤖 Neovim plugin for seamless Aider CLI integration via a side terminal",
+    "isArchived": false,
+    "lastCommit": "2025-07-11T13:55:24Z",
+    "nameWithOwner": "hungyiloo/nvaider.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "ai-coding",
+      "aider",
+      "llm",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvaider.nvim",
+  "owner": "hungyiloo",
+  "url": "https://github.com/hungyiloo/nvaider.nvim"
+}

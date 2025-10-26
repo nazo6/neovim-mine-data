@@ -2,29 +2,16 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "AI Coding"
-        },
-        {
-          "level": 3,
-          "name": "Bedrock"
-        }
       ],
-      "file": "ai.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 2,
     "createdAt": "2024-08-30T01:26:03Z",
-    "description": null,
-    "isArchived": false,
-    "lastCommit": "2024-08-30T04:51:00Z",
+    "isArchived": true,
+    "lastCommit": "2025-05-08T01:49:23Z",
     "nameWithOwner": "yuchanns/avante_bedrock.nvim",
     "primaryLanguage": {
       "color": "#000080",

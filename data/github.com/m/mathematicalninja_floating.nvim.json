@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "Popup"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-08-25T18:56:00Z",
+    "description": "A very personal take on floating windows.",
+    "isArchived": false,
+    "lastCommit": "2025-08-25T19:02:42Z",
+    "nameWithOwner": "mathematicalninja/floating.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floating.nvim",
+  "owner": "mathematicalninja",
+  "url": "https://github.com/mathematicalninja/floating.nvim"
+}

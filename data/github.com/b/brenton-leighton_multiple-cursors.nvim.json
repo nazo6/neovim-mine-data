@@ -17,20 +17,34 @@
       ],
       "file": "search_replace_grep_select.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Editing Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 96,
+    "commitCountLastYear": 36,
     "createdAt": "2023-11-09T01:53:40Z",
     "description": "A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command",
     "isArchived": false,
-    "lastCommit": "2025-03-14T12:42:24Z",
+    "lastCommit": "2025-05-27T05:36:36Z",
     "nameWithOwner": "brenton-leighton/multiple-cursors.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 333,
+    "star": 364,
     "topics": [
       "neovim",
       "multicursor",

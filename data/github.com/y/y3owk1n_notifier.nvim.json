@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Notification"
+        }
+      ],
+      "file": "message_notification.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2025-08-09T16:35:41Z",
+    "description": "A modern, feature-rich notification system for Neovim that transforms the standard vim.notify experience with beautiful UI, smart grouping, and powerful customization options.",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T09:40:58Z",
+    "nameWithOwner": "y3owk1n/notifier.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugins",
+      "notification",
+      "notifications",
+      "notifier",
+      "nvim",
+      "nvim-plugin",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notifier.nvim",
+  "owner": "y3owk1n",
+  "url": "https://github.com/y3owk1n/notifier.nvim"
+}

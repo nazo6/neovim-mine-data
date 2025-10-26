@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Zoom"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-09-21T15:51:23Z",
+    "description": "A small Neovim plugin to toggle maximizing the current window split and restoring it. Written in pure Lua, no dependencies.",
+    "isArchived": false,
+    "lastCommit": "2025-09-21T15:55:09Z",
+    "nameWithOwner": "lrappenhoener/zoom.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zoom.nvim",
+  "owner": "lrappenhoener",
+  "url": "https://github.com/lrappenhoener/zoom.nvim"
+}

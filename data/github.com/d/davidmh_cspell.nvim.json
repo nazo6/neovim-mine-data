@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Spell"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Spellcheck"
         }
       ],
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 5,
     "createdAt": "2023-04-23T18:23:33Z",
     "description": "A companion plugin for null-ls/none-ls, adding support for CSpell diagnostics and code actions.",
     "isArchived": false,
-    "lastCommit": "2025-02-02T16:45:35Z",
+    "lastCommit": "2025-07-30T16:53:51Z",
     "nameWithOwner": "davidmh/cspell.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 102,
+    "star": 113,
     "topics": [
       "neovim",
       "none-ls-sources",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 59,
+    "createdAt": "2025-08-30T16:53:46Z",
+    "description": "A personal plugin that helps me switch between buffers in Neovim and handle them per working directory.",
+    "isArchived": false,
+    "lastCommit": "2025-09-30T13:14:39Z",
+    "nameWithOwner": "DDaanieloliv/Pupv2.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Pupv2.nvim",
+  "owner": "DDaanieloliv",
+  "url": "https://github.com/DDaanieloliv/Pickup-buffer.nvim"
+}

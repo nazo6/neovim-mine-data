@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Shell command"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-23T10:56:51Z",
+    "description": "Nvim addon to show a transformer preview.",
+    "isArchived": false,
+    "lastCommit": "2025-05-23T12:54:15Z",
+    "nameWithOwner": "kareltucek/nvim-inplace-preview",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-inplace-preview",
+  "owner": "kareltucek",
+  "url": "https://github.com/kareltucek/nvim-inplace-preview"
+}

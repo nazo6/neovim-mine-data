@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto insert semicolon"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-08-05T07:06:41Z",
+    "description": "Hotkey plugin for suffix `;` to end of line",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T07:22:09Z",
+    "nameWithOwner": "AlexRainHao/suffix-semicolon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "suffix-semicolon.nvim",
+  "owner": "AlexRainHao",
+  "url": "https://github.com/AlexRainHao/suffix-semicolon.nvim"
+}

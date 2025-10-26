@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "HTML"
+        },
+        {
+          "level": 3,
+          "name": "live server"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-08-30T11:46:04Z",
+    "description": "Use Neovim as an HTTP server",
+    "isArchived": false,
+    "lastCommit": "2025-08-30T11:50:57Z",
+    "nameWithOwner": "jbyuki/servethis.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "servethis.nvim",
+  "owner": "jbyuki",
+  "url": "https://github.com/jbyuki/servethis.nvim"
+}

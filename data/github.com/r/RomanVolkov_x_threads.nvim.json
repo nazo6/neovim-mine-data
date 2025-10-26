@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "SNS"
+        },
+        {
+          "level": 4,
+          "name": "X (Twitter)"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-12T12:15:40Z",
+    "description": "This small plugin allows you to convert any amount of text into X thread for posting.",
+    "isArchived": false,
+    "lastCommit": "2025-05-12T13:53:31Z",
+    "nameWithOwner": "RomanVolkov/x_threads.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "x_threads.nvim",
+  "owner": "RomanVolkov",
+  "url": "https://github.com/RomanVolkov/x_threads.nvim"
+}

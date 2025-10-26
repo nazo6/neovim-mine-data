@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Password Manager"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2024-10-19T15:06:08Z",
+    "description": "Use pass with Neovim securely",
+    "isArchived": false,
+    "lastCommit": "2024-10-19T15:05:50Z",
+    "nameWithOwner": "fionn/nvim-redact-pass",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "pass",
+      "password-store"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-redact-pass",
+  "owner": "fionn",
+  "url": "https://github.com/fionn/nvim-redact-pass"
+}

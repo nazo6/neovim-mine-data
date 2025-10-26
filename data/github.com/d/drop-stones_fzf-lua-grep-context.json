@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2025-04-12T06:31:50Z",
+    "description": "🔍 Enhance fzf-lua with persistent, reusable grep filters.",
+    "isArchived": false,
+    "lastCommit": "2025-09-20T05:13:07Z",
+    "nameWithOwner": "drop-stones/fzf-lua-grep-context",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "fzf-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-lua-grep-context",
+  "owner": "drop-stones",
+  "url": "https://github.com/drop-stones/fzf-lua-grep-context"
+}

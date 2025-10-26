@@ -16,9 +16,9 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 2,
     "createdAt": "2022-12-23T04:44:53Z",
-    "description": "A Neovim frontend for Qalculate",
+    "description": "Neovim-integrated calculator based on Qalculate",
     "isArchived": false,
     "lastCommit": "2025-03-09T05:33:36Z",
     "nameWithOwner": "Apeiros-46B/qalc.nvim",
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 35,
+    "star": 38,
     "topics": [
       "calculator",
       "neovim",

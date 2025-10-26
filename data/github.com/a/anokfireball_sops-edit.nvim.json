@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Secrets"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-10-17T08:31:49Z",
+    "description": "edit SOPS-encrypted files in neovim safely and transparently without ever writing plaintext to disk",
+    "isArchived": false,
+    "lastCommit": "2025-10-20T06:10:40Z",
+    "nameWithOwner": "anokfireball/sops-edit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "editor-plugin",
+      "encryption-decryption",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "secrets",
+      "secrets-management",
+      "security",
+      "sops"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sops-edit.nvim",
+  "owner": "anokfireball",
+  "url": "https://github.com/anokfireball/sops-edit.nvim"
+}

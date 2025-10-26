@@ -25,7 +25,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Code outline"
         }
       ],
@@ -39,7 +39,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Breadcrumbs"
         }
       ],
@@ -66,17 +66,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 112,
+    "commitCountLastYear": 25,
     "createdAt": "2020-12-16T00:36:44Z",
     "description": "improve neovim lsp experience",
     "isArchived": false,
-    "lastCommit": "2025-04-18T06:14:26Z",
+    "lastCommit": "2025-06-25T09:55:48Z",
     "nameWithOwner": "nvimdev/lspsaga.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3609,
+    "star": 3702,
     "topics": [
       "lsp",
       "neovim",

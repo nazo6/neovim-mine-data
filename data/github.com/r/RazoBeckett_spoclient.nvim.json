@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-08-02T20:14:58Z",
+    "description": "A simple spotify client or say controller",
+    "isArchived": false,
+    "lastCommit": "2025-08-03T18:31:05Z",
+    "nameWithOwner": "RazoBeckett/spoclient.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "spotify",
+      "spotify-api",
+      "neovim-spotify"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spoclient.nvim",
+  "owner": "RazoBeckett",
+  "url": "https://github.com/RazoBeckett/spoclient.nvim"
+}

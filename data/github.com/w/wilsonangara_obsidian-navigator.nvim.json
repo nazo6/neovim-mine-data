@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2025-05-26T07:05:05Z",
+    "description": "Transform Neovim into a seamless Obsidian navigator—browse, search, and edit your vault directly from the terminal. Requires curl and the companion obsidian-navigator-api plugin.",
+    "isArchived": false,
+    "lastCommit": "2025-06-30T03:01:55Z",
+    "nameWithOwner": "wilsonangara/obsidian-navigator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "obsidian-navigator.nvim",
+  "owner": "wilsonangara",
+  "url": "https://github.com/wilsonangara/obsidian-navigator.nvim"
+}

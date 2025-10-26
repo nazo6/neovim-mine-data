@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "delete"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-10T12:30:05Z",
+    "description": "prune nvim buffers not in cwd",
+    "isArchived": false,
+    "lastCommit": "2025-08-10T12:29:25Z",
+    "nameWithOwner": "l4zygreed/prune.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "prune.nvim",
+  "owner": "l4zygreed",
+  "url": "https://github.com/l4zygreed/prune.nvim"
+}

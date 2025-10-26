@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Show assigned"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-09-04T21:36:08Z",
+    "description": "map_tree.nvim is a neovim plugin for creating a listing of keybindings in new buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-09-04T21:47:53Z",
+    "nameWithOwner": "HunterretnuH/map-tree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "map-tree.nvim",
+  "owner": "HunterretnuH",
+  "url": "https://github.com/HunterretnuH/map-tree.nvim"
+}

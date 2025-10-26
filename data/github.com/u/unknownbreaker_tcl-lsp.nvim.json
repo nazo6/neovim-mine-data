@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Tcl/Tk"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 188,
+    "createdAt": "2025-08-14T00:52:31Z",
+    "description": "TCL Language Server for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T19:37:59Z",
+    "nameWithOwner": "unknownbreaker/tcl-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#e4cc98",
+      "name": "Tcl"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tcl-lsp.nvim",
+  "owner": "unknownbreaker",
+  "url": "https://github.com/unknownbreaker/tcl-lsp.nvim"
+}

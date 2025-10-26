@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-03T20:36:50Z",
+    "description": "This is a simple program that parses a specific directory for markdown files. It uses the first heading in the file as the title which is then fuzzy searched over.",
+    "isArchived": false,
+    "lastCommit": "2025-05-03T20:41:47Z",
+    "nameWithOwner": "DhaiShah25/zettle.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zettle.nvim",
+  "owner": "DhaiShah25",
+  "url": "https://github.com/DhaiShah25/zettle.nvim"
+}

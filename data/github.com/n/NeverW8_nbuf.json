@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-06-09T14:52:51Z",
+    "description": "Buffer selector for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-09T20:32:42Z",
+    "nameWithOwner": "NeverW8/nbuf",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nbuf",
+  "owner": "NeverW8",
+  "url": "https://github.com/NeverW8/nbuf"
+}

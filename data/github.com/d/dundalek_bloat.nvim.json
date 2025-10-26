@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Code visualize"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-27T19:41:34Z",
+    "description": "Neovim plugin to analyze and visualize code size of used plugins to uncover bloat.",
+    "isArchived": false,
+    "lastCommit": "2025-04-30T15:34:33Z",
+    "nameWithOwner": "dundalek/bloat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 78,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bloat.nvim",
+  "owner": "dundalek",
+  "url": "https://github.com/dundalek/bloat.nvim"
+}

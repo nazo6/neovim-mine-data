@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Rewind"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-07-04T16:19:45Z",
+    "description": "Neovim plugin for Rewind",
+    "isArchived": false,
+    "lastCommit": "2025-07-09T12:03:32Z",
+    "nameWithOwner": "davenicholson-xyz/rewind.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rewind.nvim",
+  "owner": "davenicholson-xyz",
+  "url": "https://github.com/davenicholson-xyz/rewind.nvim"
+}

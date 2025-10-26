@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Swapfile"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-05-27T22:01:23Z",
+    "description": "Diff your swaps. Don't swap your diffs.",
+    "isArchived": false,
+    "lastCommit": "2025-06-09T00:51:30Z",
+    "nameWithOwner": "trippwill/swapdiff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "logging",
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "recovery",
+      "swapfile"
+    ]
+  },
+  "domain": "github.com",
+  "name": "swapdiff.nvim",
+  "owner": "trippwill",
+  "url": "https://github.com/trippwill/swapdiff.nvim"
+}

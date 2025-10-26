@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-07-31T14:19:14Z",
+    "description": "Edit command line in a floating window",
+    "isArchived": false,
+    "lastCommit": "2025-07-31T16:04:22Z",
+    "nameWithOwner": "airRnot1106/edit-command-line.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "edit-command-line.nvim",
+  "owner": "airRnot1106",
+  "url": "https://github.com/airRnot1106/edit-command-line.nvim"
+}

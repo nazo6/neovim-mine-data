@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Dictionary"
+        }
+      ],
+      "file": "dictionary.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-27T14:18:29Z",
+    "description": "neovim plugin for dictionary | word explanation",
+    "isArchived": false,
+    "lastCommit": "2025-09-27T14:44:41Z",
+    "nameWithOwner": "Ka10kenHQ/dictionary.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "dictionary",
+      "lua",
+      "notes",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dictionary.nvim",
+  "owner": "Ka10kenHQ",
+  "url": "https://github.com/Ka10kenHQ/dictionary.nvim"
+}

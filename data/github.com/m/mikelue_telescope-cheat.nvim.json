@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "CheatSheet"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-07-31T12:50:29Z",
+    "description": "A telescope extension that bridges cheat/cheat command",
+    "isArchived": false,
+    "lastCommit": "2025-07-31T12:52:50Z",
+    "nameWithOwner": "mikelue/telescope-cheat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "cheatsheet",
+      "nvim",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-cheat.nvim",
+  "owner": "mikelue",
+  "url": "https://github.com/mikelue/telescope-cheat.nvim"
+}

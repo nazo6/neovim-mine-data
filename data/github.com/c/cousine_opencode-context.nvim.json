@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenCode"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-07-18T10:16:08Z",
+    "description": "Neovim plugin to interact with the opencode AI assistant TUI session open in a tmux pane. Shamelessly created using opencode.",
+    "isArchived": false,
+    "lastCommit": "2025-08-17T14:04:54Z",
+    "nameWithOwner": "cousine/opencode-context.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 22,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "opencode-context.nvim",
+  "owner": "cousine",
+  "url": "https://github.com/cousine/opencode-context.nvim"
+}

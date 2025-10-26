@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "inline note"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-08-24T14:38:59Z",
+    "description": "Remember what you read. A Neovim plugin for creating margin notes as LSP diagnostics, inspired by effective learning methods.",
+    "isArchived": false,
+    "lastCommit": "2025-08-27T19:27:33Z",
+    "nameWithOwner": "daniprol/sidenote.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sidenote.nvim",
+  "owner": "daniprol",
+  "url": "https://github.com/daniprol/sidenote.nvim"
+}

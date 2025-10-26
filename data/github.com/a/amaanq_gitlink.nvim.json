@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-10-04T03:53:22Z",
+    "description": "Generate git permalinks to your code",
+    "isArchived": false,
+    "lastCommit": "2025-10-04T03:57:51Z",
+    "nameWithOwner": "amaanq/gitlink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitlink.nvim",
+  "owner": "amaanq",
+  "url": "https://github.com/amaanq/gitlink.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-10-17T19:04:19Z",
+    "description": "A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.",
+    "isArchived": false,
+    "lastCommit": "2025-10-20T05:32:54Z",
+    "nameWithOwner": "simifalaye/minibuffer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 68,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "minibuffer.nvim",
+  "owner": "simifalaye",
+  "url": "https://github.com/simifalaye/minibuffer.nvim"
+}

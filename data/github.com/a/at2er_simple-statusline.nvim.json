@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Simple"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-05-17T03:23:23Z",
+    "description": "Simple statusline for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-17T03:22:39Z",
+    "nameWithOwner": "at2er/simple-statusline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-statusline.nvim",
+  "owner": "at2er",
+  "url": "https://github.com/at2er/simple-statusline.nvim"
+}

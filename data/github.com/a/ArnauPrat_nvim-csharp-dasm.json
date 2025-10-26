@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C#"
+        },
+        {
+          "level": 5,
+          "name": "disassembler"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-28T21:04:28Z",
+    "description": "C# disassembler plugin for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-05-02T21:16:35Z",
+    "nameWithOwner": "ArnauPrat/nvim-csharp-dasm",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-csharp-dasm",
+  "owner": "ArnauPrat",
+  "url": "https://github.com/ArnauPrat/nvim-csharp-dasm"
+}

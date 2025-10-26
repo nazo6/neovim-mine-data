@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Implement"
+        },
+        {
+          "level": 4,
+          "name": "Clang"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-04-27T15:48:37Z",
+    "isArchived": false,
+    "lastCommit": "2025-05-20T22:53:38Z",
+    "nameWithOwner": "segoon/compile-commands-yamake.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "compile-commands-yamake.nvim",
+  "owner": "segoon",
+  "url": "https://github.com/segoon/compile-commands-yamake.nvim"
+}

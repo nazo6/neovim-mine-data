@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Angular"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-04-19T23:22:06Z",
+    "description": "A lightweight and ultra-fast Angular file navigation plugin for Neovim, written in Lua. Simple to install and has no dependencies.",
+    "isArchived": false,
+    "lastCommit": "2025-04-28T20:40:46Z",
+    "nameWithOwner": "FlorianBx/ng-croissant",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "angular",
+      "lua",
+      "navigation",
+      "neovim",
+      "plugin",
+      "productivity"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ng-croissant",
+  "owner": "FlorianBx",
+  "url": "https://github.com/florianbx/ng-croissant"
+}

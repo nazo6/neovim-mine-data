@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2025-07-23T18:46:08Z",
+    "description": "A neovim-plugin for commenting code quickly",
+    "isArchived": false,
+    "lastCommit": "2025-07-26T10:20:07Z",
+    "nameWithOwner": "L3MON4D3/nvim-togglecomment",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-togglecomment",
+  "owner": "L3MON4D3",
+  "url": "https://github.com/L3MON4D3/nvim-togglecomment"
+}

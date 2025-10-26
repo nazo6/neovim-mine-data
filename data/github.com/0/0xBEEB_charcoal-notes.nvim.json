@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-16T03:46:20Z",
+    "description": "A note taking plugin for Neovim inspired by Obsidian Notes.",
+    "isArchived": false,
+    "lastCommit": "2025-06-16T14:06:26Z",
+    "nameWithOwner": "0xBEEB/charcoal-notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "charcoal-notes.nvim",
+  "owner": "0xBEEB",
+  "url": "https://github.com/0xBEEB/charcoal-notes.nvim"
+}

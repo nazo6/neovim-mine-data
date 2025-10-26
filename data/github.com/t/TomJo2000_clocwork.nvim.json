@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-10-08T22:26:16Z",
+    "description": "A tree-sitter based code counting plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-09T00:14:02Z",
+    "nameWithOwner": "TomJo2000/clocwork.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clocwork.nvim",
+  "owner": "TomJo2000",
+  "url": "https://github.com/TomJo2000/clocwork.nvim"
+}

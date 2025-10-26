@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        },
+        {
+          "level": 4,
+          "name": "Show jump word"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-24T18:55:35Z",
+    "description": "Easy, fast, precice movement in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T18:58:38Z",
+    "nameWithOwner": "ef3d0c3e/sniper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sniper.nvim",
+  "owner": "ef3d0c3e",
+  "url": "https://github.com/ef3d0c3e/sniper.nvim"
+}

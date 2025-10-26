@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown code block"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2025-06-07T20:44:49Z",
+    "description": "A simple Neovim plugin to copy visually selected text wrapped in a markdown code fence to the system clipboard ",
+    "isArchived": false,
+    "lastCommit": "2025-06-16T04:21:19Z",
+    "nameWithOwner": "Zonric/codecopy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "coding",
+      "copy-paste",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugins",
+      "utilities"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecopy.nvim",
+  "owner": "Zonric",
+  "url": "https://github.com/Zonric/codecopy.nvim"
+}

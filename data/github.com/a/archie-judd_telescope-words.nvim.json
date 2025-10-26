@@ -8,29 +8,25 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Dictionary"
         }
       ],
-      "file": "readme.md",
+      "file": "dictionary.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 43,
+    "commitCountLastYear": 56,
     "createdAt": "2024-11-12T23:54:48Z",
     "description": "A fast and offline dictionary and thesaurus fuzzy finder for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-02-27T00:20:56Z",
+    "lastCommit": "2025-08-06T01:31:03Z",
     "nameWithOwner": "archie-judd/telescope-words.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 18,
+    "star": 20,
     "topics": [
       "dictionary",
       "neovim",

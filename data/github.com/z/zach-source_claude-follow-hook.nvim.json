@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-10-05T06:11:54Z",
+    "description": "Neovim plugin for following Claude Code with live updates",
+    "isArchived": false,
+    "lastCommit": "2025-10-08T04:43:48Z",
+    "nameWithOwner": "zach-source/claude-follow-hook.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-follow-hook.nvim",
+  "owner": "zach-source",
+  "url": "https://github.com/zach-source/claude-follow-hook.nvim"
+}

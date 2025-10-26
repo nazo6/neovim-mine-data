@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Media"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 84,
+    "createdAt": "2025-03-14T18:41:14Z",
+    "description": "Spotify Music Manager for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-22T18:01:02Z",
+    "nameWithOwner": "iamt4nk/smm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smm.nvim",
+  "owner": "iamt4nk",
+  "url": "https://github.com/iamt4nk/smm.nvim"
+}

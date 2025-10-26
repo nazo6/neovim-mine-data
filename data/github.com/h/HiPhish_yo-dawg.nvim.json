@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "Control another neovim "
+          "name": "Control another neovim"
         }
       ],
       "file": "neovim-lua-library.md",
@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 4,
     "createdAt": "2024-01-31T22:02:50Z",
     "description": "Convenience library for controlling a Neovim process embedded inside another Neovim process.",
     "isArchived": false,
-    "lastCommit": "2025-04-12T22:07:26Z",
+    "lastCommit": "2025-09-28T17:21:52Z",
     "nameWithOwner": "HiPhish/yo-dawg.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 8,
     "topics": [
       "lua",
       "neovim",

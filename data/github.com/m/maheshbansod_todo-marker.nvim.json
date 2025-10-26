@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-08-15T17:57:58Z",
+    "description": "A NeoVim plugin to toggle todo items in markdown or TODO file",
+    "isArchived": false,
+    "lastCommit": "2025-08-17T08:29:10Z",
+    "nameWithOwner": "maheshbansod/todo-marker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-marker.nvim",
+  "owner": "maheshbansod",
+  "url": "https://github.com/maheshbansod/todo-marker.nvim"
+}

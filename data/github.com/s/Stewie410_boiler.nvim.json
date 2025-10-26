@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-05-02T12:18:43Z",
+    "description": "Minimal boilerplate templating",
+    "isArchived": false,
+    "lastCommit": "2025-07-29T12:42:22Z",
+    "nameWithOwner": "Stewie410/boiler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "boiler.nvim",
+  "owner": "Stewie410",
+  "url": "https://github.com/Stewie410/boiler.nvim"
+}

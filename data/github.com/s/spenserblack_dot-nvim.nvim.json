@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Local Config"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-05-02T15:50:27Z",
+    "description": "Configure your project for Neovim users with a .nvim directory",
+    "isArchived": false,
+    "lastCommit": "2025-05-04T16:03:50Z",
+    "nameWithOwner": "spenserblack/dot-nvim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "project-configuration"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dot-nvim.nvim",
+  "owner": "spenserblack",
+  "url": "https://github.com/spenserblack/dot-nvim.nvim"
+}

@@ -8,10 +8,14 @@
         },
         {
           "level": 2,
-          "name": "LSP"
+          "name": "Python"
         },
         {
           "level": 3,
+          "name": "LSP"
+        },
+        {
+          "level": 4,
           "name": "inlayhint"
         }
       ],
@@ -20,17 +24,16 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 27,
     "createdAt": "2024-12-09T11:09:13Z",
-    "description": null,
     "isArchived": false,
-    "lastCommit": "2025-04-17T09:41:12Z",
+    "lastCommit": "2025-10-19T04:42:00Z",
     "nameWithOwner": "Davidyz/inlayhint-filler.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 36,
+    "star": 45,
     "topics": [
       "neovim-plugin"
     ]

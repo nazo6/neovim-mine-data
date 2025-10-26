@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Textobject"
+        },
+        {
+          "level": 3,
+          "name": "Swap"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2024-12-27T11:22:20Z",
+    "description": "opfunc and submode",
+    "isArchived": false,
+    "lastCommit": "2025-05-16T11:38:04Z",
+    "nameWithOwner": "phanen/two.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "operator",
+      "nvim-plugin",
+      "submode"
+    ]
+  },
+  "domain": "github.com",
+  "name": "two.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/text-swap.nvim"
+}

@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -22,7 +22,6 @@
   "data": {
     "commitCountLastYear": 3,
     "createdAt": "2025-03-26T13:28:33Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2025-03-26T13:40:05Z",
     "nameWithOwner": "mtfrsantos/nvim-workspaces",

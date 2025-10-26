@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "package import"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-07-05T06:03:46Z",
+    "description": "A Neovim plugin to view Java project dependencies, inspired by vscode-java-dependency",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T09:43:27Z",
+    "nameWithOwner": "g0ne150/java-deps.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-deps.nvim",
+  "owner": "g0ne150",
+  "url": "https://github.com/g0ne150/java-deps.nvim"
+}

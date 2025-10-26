@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-13T20:35:47Z",
+    "description": "AI-powered commit message generator for Neovim - built on top of CopilotChat.nvim.",
+    "isArchived": false,
+    "lastCommit": "2025-05-13T20:41:46Z",
+    "nameWithOwner": "m4dd0c/CommitGPT.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "CommitGPT.nvim",
+  "owner": "m4dd0c",
+  "url": "https://github.com/m4dd0c/CommitGPT.nvim"
+}

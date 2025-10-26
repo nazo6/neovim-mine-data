@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-04-20T14:20:56Z",
+    "description": "A Neovim extension that provides user-defined characters with a HilightGroup tied to the current mode.",
+    "isArchived": false,
+    "lastCommit": "2025-05-16T08:55:35Z",
+    "nameWithOwner": "trippwill/modechar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "modechar.nvim",
+  "owner": "trippwill",
+  "url": "https://github.com/trippwill/modechar.nvim"
+}

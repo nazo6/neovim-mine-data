@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2025-01-03T15:19:05Z",
+    "description": "a fine grained approach to managing copilot chat context",
+    "isArchived": false,
+    "lastCommit": "2025-10-04T03:13:49Z",
+    "nameWithOwner": "vertexE/chat-context-ui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chat-context-ui.nvim",
+  "owner": "vertexE",
+  "url": "https://github.com/josiahdenton/copilot-chat-context.nvim"
+}

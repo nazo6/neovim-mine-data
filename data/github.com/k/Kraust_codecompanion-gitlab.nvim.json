@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        },
+        {
+          "level": 3,
+          "name": "GitLab Guo"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-08-09T13:26:13Z",
+    "description": "CodeCompanion Integration for Gitlab Duo",
+    "isArchived": false,
+    "lastCommit": "2025-08-31T18:38:43Z",
+    "nameWithOwner": "Kraust/codecompanion-gitlab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "codecompanion",
+      "gitlab",
+      "gitlab-duo",
+      "llm",
+      "neovim",
+      "nvim",
+      "plugin",
+      "vibe-coding"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-gitlab.nvim",
+  "owner": "Kraust",
+  "url": "https://github.com/Kraust/codecompanion-gitlab.nvim"
+}

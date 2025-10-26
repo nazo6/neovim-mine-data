@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
+        },
+        {
+          "level": 4,
+          "name": "Slack"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-09-16T10:02:33Z",
+    "description": "Slack client for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T15:43:17Z",
+    "nameWithOwner": "albertofp/nvim-slack",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-slack",
+  "owner": "albertofp",
+  "url": "https://github.com/albertofp/nvim-slack"
+}

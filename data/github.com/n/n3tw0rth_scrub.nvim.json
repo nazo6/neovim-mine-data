@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "delete"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2025-08-13T14:49:34Z",
+    "description": "oil.nvim inspired nvim plugin to manage buffers. (with save/restore buffers from last session)",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T00:37:47Z",
+    "nameWithOwner": "n3tw0rth/scrub.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "buffers",
+      "lua",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "scrub.nvim",
+  "owner": "n3tw0rth",
+  "url": "https://github.com/n3tw0rth/scrub.nvim"
+}

@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Root Detector"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 0,
     "createdAt": "2024-04-20T13:49:30Z",
     "description": "Changes Neovim working directory to project root. ",
     "isArchived": false,

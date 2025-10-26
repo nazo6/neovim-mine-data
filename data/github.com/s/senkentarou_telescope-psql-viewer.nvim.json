@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "PostgreSQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-04T13:22:53Z",
+    "description": "A Telescope extension for browsing and searching PostgreSQL database schema with filtering and clipboard integration.",
+    "isArchived": false,
+    "lastCommit": "2025-10-04T14:29:58Z",
+    "nameWithOwner": "senkentarou/telescope-psql-viewer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-psql-viewer.nvim",
+  "owner": "senkentarou",
+  "url": "https://github.com/senkentarou/telescope-psql-viewer.nvim"
+}

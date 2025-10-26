@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-05-31T17:09:32Z",
+    "description": "Vibe your Neovim settings",
+    "isArchived": false,
+    "lastCommit": "2025-06-11T09:28:33Z",
+    "nameWithOwner": "KoolieAid/neovibe.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neovibe.nvim",
+  "owner": "KoolieAid",
+  "url": "https://github.com/KoolieAid/neovibe.nvim"
+}

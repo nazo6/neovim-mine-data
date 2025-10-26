@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tab"
+        },
+        {
+          "level": 3,
+          "name": "select"
+        }
+      ],
+      "file": "tab.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-09-25T16:52:36Z",
+    "description": "Telescope picker for managing tab pages",
+    "isArchived": false,
+    "lastCommit": "2025-10-06T22:01:44Z",
+    "nameWithOwner": "45Hnri/tablens.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "neovim-plugin",
+      "tabs-management",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tablens.nvim",
+  "owner": "45Hnri",
+  "url": "https://github.com/45Hnri/tablens.nvim"
+}

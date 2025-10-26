@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "CheatSheet"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-09-10T00:16:03Z",
+    "description": "Yaml parsing nvim plugin for lookup and autocompleition",
+    "isArchived": false,
+    "lastCommit": "2025-09-10T00:53:58Z",
+    "nameWithOwner": "CleverNamesTaken/pizza_chit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pizza_chit.nvim",
+  "owner": "CleverNamesTaken",
+  "url": "https://github.com/CleverNamesTaken/pizza_chit.nvim"
+}

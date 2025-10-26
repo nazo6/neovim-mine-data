@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-08-31T12:30:38Z",
+    "description": "Toggle a persistent terminal in a split",
+    "isArchived": false,
+    "lastCommit": "2025-09-27T07:56:04Z",
+    "nameWithOwner": "jrentlez/split-term.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "split-term.nvim",
+  "owner": "jrentlez",
+  "url": "https://github.com/TungstnBallon/split-term.nvim"
+}

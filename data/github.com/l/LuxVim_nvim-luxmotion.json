@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Label Jump (Easymotion style)"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Animation"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-07-22T03:55:12Z",
+    "description": "Smooth, high‑performance motion & scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.",
+    "isArchived": false,
+    "lastCommit": "2025-09-10T02:21:53Z",
+    "nameWithOwner": "LuxVim/nvim-luxmotion",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-luxmotion",
+  "owner": "LuxVim",
+  "url": "https://github.com/LuxVim/nvim-luxmotion"
+}

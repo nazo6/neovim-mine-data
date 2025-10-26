@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tabline"
+        }
+      ],
+      "file": "tabline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-06-04T07:57:28Z",
+    "description": "Neovim plugin to customize tab labels with smart path shrinking, minimal and fully configurable",
+    "isArchived": false,
+    "lastCommit": "2025-07-04T10:04:48Z",
+    "nameWithOwner": "pathmann/tabline-labels.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tabline-labels.nvim",
+  "owner": "pathmann",
+  "url": "https://github.com/Pathmann/tabline-labels.nvim"
+}

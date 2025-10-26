@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 3,
+          "name": "Codeforces"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2025-05-21T09:51:32Z",
+    "description": "No browser extension needed. This lightweight Neovim plugin fetches sample tests from Codeforces, compiles C++ code, runs tests, and checks outputs automatically.",
+    "isArchived": false,
+    "lastCommit": "2025-05-26T14:21:39Z",
+    "nameWithOwner": "paulrounak/cfhelper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "codeforces",
+      "competitive-programming",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "testing"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cfhelper.nvim",
+  "owner": "paulrounak",
+  "url": "https://github.com/paulrounak/cfhelper.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-09-10T13:13:12Z",
+    "description": "Smart project management for Neovim with state persistence",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T10:03:57Z",
+    "nameWithOwner": "ggyorfi/easy-projects.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "easy-projects.nvim",
+  "owner": "ggyorfi",
+  "url": "https://github.com/ggyorfi/easy-projects.nvim"
+}

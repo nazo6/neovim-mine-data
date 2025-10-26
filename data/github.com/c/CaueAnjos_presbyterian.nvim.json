@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "LSP, DAP, linter, formatter"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-08-05T20:49:20Z",
+    "description": "An alternative to mason, but with nix",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T22:25:06Z",
+    "nameWithOwner": "CaueAnjos/presbyterian.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "presbyterian.nvim",
+  "owner": "CaueAnjos",
+  "url": "https://github.com/CaueAnjos/presbyterian.nvim"
+}

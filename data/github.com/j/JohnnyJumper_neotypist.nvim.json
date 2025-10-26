@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Typing speed"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-05-17T07:51:16Z",
+    "description": "a small plugin to keep track of your typing speed",
+    "isArchived": false,
+    "lastCommit": "2025-05-17T23:13:22Z",
+    "nameWithOwner": "JohnnyJumper/neotypist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "fun",
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neotypist.nvim",
+  "owner": "JohnnyJumper",
+  "url": "https://github.com/JohnnyJumper/neotypist.nvim"
+}

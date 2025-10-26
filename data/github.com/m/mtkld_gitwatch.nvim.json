@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git info"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-06-07T13:00:32Z",
+    "description": "Personal plugin for alert of relevant git info.",
+    "isArchived": false,
+    "lastCommit": "2025-06-07T15:19:44Z",
+    "nameWithOwner": "mtkld/gitwatch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitwatch.nvim",
+  "owner": "mtkld",
+  "url": "https://github.com/mtkld/gitwatch.nvim"
+}

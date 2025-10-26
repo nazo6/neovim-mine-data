@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Unicode character"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-06-28T18:38:19Z",
+    "description": "A neovim module to replace special character-sequences (like \"Omega\") to the corresponding unicode characters (Ω in this case). ",
+    "isArchived": false,
+    "lastCommit": "2025-07-12T17:49:10Z",
+    "nameWithOwner": "littleBonsai/text2unicode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "text2unicode.nvim",
+  "owner": "littleBonsai",
+  "url": "https://github.com/littleBonsai/text2unicode.nvim"
+}

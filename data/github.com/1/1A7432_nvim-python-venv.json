@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
+          "name": "venv"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-21T02:16:20Z",
+    "description": "Neovim Python 虚拟环境自动检测与 LSP 集成插件",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T02:52:56Z",
+    "nameWithOwner": "1A7432/nvim-python-venv",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-python-venv",
+  "owner": "1A7432",
+  "url": "https://github.com/1A7432/nvim-python-venv"
+}

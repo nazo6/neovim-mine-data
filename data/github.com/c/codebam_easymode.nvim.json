@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-26T08:54:30Z",
+    "description": "easymode for neovim. ever wanted `vim -y` back. no? ok",
+    "isArchived": false,
+    "lastCommit": "2025-06-26T08:59:18Z",
+    "nameWithOwner": "codebam/easymode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "easymode.nvim",
+  "owner": "codebam",
+  "url": "https://github.com/codebam/easymode.nvim"
+}

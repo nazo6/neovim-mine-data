@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mode"
+        },
+        {
+          "level": 3,
+          "name": "Parinfer"
+        }
+      ],
+      "file": "mode.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-21T11:16:50Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T11:57:16Z",
+    "nameWithOwner": "kaiuri/parinfer.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 0,
+    "topics": [
+      "lisp",
+      "neovim",
+      "parinfer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "parinfer.nvim",
+  "owner": "kaiuri",
+  "url": "https://github.com/kaiuri/parinfer.nvim"
+}

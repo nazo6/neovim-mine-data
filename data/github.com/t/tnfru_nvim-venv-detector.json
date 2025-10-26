@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
+          "name": "venv"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-05-23T14:32:36Z",
+    "description": "Neovim Plugin for detecting venv",
+    "isArchived": false,
+    "lastCommit": "2025-08-01T00:09:33Z",
+    "nameWithOwner": "tnfru/nvim-venv-detector",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "neovim",
+      "neovim-configuration",
+      "neovim-plugin",
+      "poetry",
+      "python",
+      "uv",
+      "venv",
+      "automation",
+      "developer-tools",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-venv-detector",
+  "owner": "tnfru",
+  "url": "https://github.com/tnfru/nvim-venv-detector"
+}

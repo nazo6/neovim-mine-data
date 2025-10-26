@@ -1,0 +1,58 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "Tips"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Workflow"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 185,
+    "createdAt": "2025-08-06T14:10:26Z",
+    "description": "Discover hundreds of Neovim tips, tricks, and shortcuts — and even add your own! You’ll also get a beautifully formatted PDF book with every tip inside.",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T13:11:57Z",
+    "nameWithOwner": "saxon1964/neovim-tips",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 288,
+    "topics": [
+      "neovim-plugin",
+      "neovim-tips",
+      "neovim-help"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neovim-tips",
+  "owner": "saxon1964",
+  "url": "https://github.com/saxon1964/neovim-tips"
+}

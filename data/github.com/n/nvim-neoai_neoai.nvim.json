@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 137,
+    "createdAt": "2025-07-10T01:33:07Z",
+    "description": "AI call in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T15:58:58Z",
+    "nameWithOwner": "nvim-neoai/neoai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neoai.nvim",
+  "owner": "nvim-neoai",
+  "url": "https://github.com/PhoneMinThu/neoai.nvim"
+}

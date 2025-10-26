@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Movie"
+        },
+        {
+          "level": 4,
+          "name": "YouTube"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-03T11:58:02Z",
+    "isArchived": false,
+    "lastCommit": "2025-06-03T19:35:51Z",
+    "nameWithOwner": "benomahony/youtube.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "youtube.nvim",
+  "owner": "benomahony",
+  "url": "https://github.com/benomahony/youtube.nvim"
+}

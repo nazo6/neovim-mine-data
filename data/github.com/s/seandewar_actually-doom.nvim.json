@@ -1,0 +1,62 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "DOOM"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 86,
+    "createdAt": "2025-04-02T10:42:42Z",
+    "description": "Play DOOM in Neovim v0.11+ on Linux & macOS",
+    "isArchived": false,
+    "lastCommit": "2025-08-26T00:46:17Z",
+    "nameWithOwner": "seandewar/actually-doom.nvim",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 115,
+    "topics": [
+      "doom",
+      "game",
+      "neovim",
+      "neovim-plugin",
+      "linux",
+      "kitty-graphics",
+      "macos"
+    ]
+  },
+  "domain": "github.com",
+  "name": "actually-doom.nvim",
+  "owner": "seandewar",
+  "url": "https://github.com/seandewar/actually-doom.nvim"
+}

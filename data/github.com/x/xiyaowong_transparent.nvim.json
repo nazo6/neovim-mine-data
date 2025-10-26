@@ -30,20 +30,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 2,
     "createdAt": "2021-04-09T09:51:42Z",
     "description": "Remove all background colors to make nvim transparent",
     "isArchived": false,
-    "lastCommit": "2024-08-25T08:04:55Z",
+    "lastCommit": "2025-06-22T14:38:25Z",
     "nameWithOwner": "xiyaowong/transparent.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 991,
+    "star": 1106,
     "topics": [
       "nvim-transparent",
-      "vim-transparent"
+      "vim-transparent",
+      "neovim",
+      "nvim"
     ]
   },
   "domain": "github.com",

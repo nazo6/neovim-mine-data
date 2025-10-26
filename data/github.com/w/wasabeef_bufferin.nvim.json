@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-06-07T04:07:25Z",
+    "description": "A powerful and intuitive buffer manager for Neovim with advanced window layout visualization and seamless plugin integration.",
+    "isArchived": false,
+    "lastCommit": "2025-07-27T09:07:55Z",
+    "nameWithOwner": "wasabeef/bufferin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferin.nvim",
+  "owner": "wasabeef",
+  "url": "https://github.com/wasabeef/bufferin.nvim"
+}

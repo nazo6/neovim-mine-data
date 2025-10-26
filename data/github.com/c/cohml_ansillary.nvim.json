@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "ANSI Colorize"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-09-11T17:30:56Z",
+    "description": "Highlight ANSI color code sequences directly in the buffer!",
+    "isArchived": false,
+    "lastCommit": "2025-10-02T19:18:37Z",
+    "nameWithOwner": "cohml/ansillary.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ansillary.nvim",
+  "owner": "cohml",
+  "url": "https://github.com/cohml/ansillary.nvim"
+}

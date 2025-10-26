@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 181,
+    "createdAt": "2025-09-21T20:42:17Z",
+    "description": "🐶 Aibo -  AI Bot Integration and Orchestration for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T04:05:56Z",
+    "nameWithOwner": "lambdalisue/nvim-aibo",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 36,
+    "topics": [
+      "ai-agent",
+      "codex",
+      "lua",
+      "neovim",
+      "claude",
+      "gemini",
+      "repl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-aibo",
+  "owner": "lambdalisue",
+  "url": "https://github.com/lambdalisue/nvim-aibo"
+}

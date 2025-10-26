@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorizer"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-02T05:26:04Z",
+    "description": "A minimal Neovim plugin to display color preview blocks next to hex codes like `#FF0000`.",
+    "isArchived": false,
+    "lastCommit": "2025-05-03T04:18:21Z",
+    "nameWithOwner": "Bishop-Fox/colorblocks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "colorblocks.nvim",
+  "owner": "Bishop-Fox",
+  "url": "https://github.com/Bishop-Fox/colorblocks.nvim"
+}

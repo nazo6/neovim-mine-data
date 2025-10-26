@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Frontmatter"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-06-15T23:47:22Z",
+    "description": "A Telescope extension for searching through YAML frontmatter in Markdown files.",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T17:03:13Z",
+    "nameWithOwner": "tkancf/telescope-markdown-frontmatter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-markdown-frontmatter.nvim",
+  "owner": "tkancf",
+  "url": "https://github.com/tkancf/telescope-markdown-frontmatter.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "ANSI Colorize"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-07-24T09:40:25Z",
+    "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
+    "isArchived": false,
+    "lastCommit": "2025-07-24T10:17:05Z",
+    "nameWithOwner": "0xferrous/ansi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "ansi",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ansi.nvim",
+  "owner": "0xferrous",
+  "url": "https://github.com/0xferrous/ansi.nvim"
+}

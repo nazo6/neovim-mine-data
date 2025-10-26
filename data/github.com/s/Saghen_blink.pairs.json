@@ -16,18 +16,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 122,
+    "commitCountLastYear": 169,
     "createdAt": "2025-03-14T18:55:59Z",
     "description": "Rainbow highlighting and intelligent auto-pairs for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-19T22:56:48Z",
+    "lastCommit": "2025-10-22T22:41:25Z",
     "nameWithOwner": "Saghen/blink.pairs",
     "primaryLanguage": {
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 63,
+    "star": 151,
     "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

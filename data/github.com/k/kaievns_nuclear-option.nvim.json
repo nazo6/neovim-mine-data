@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Remove default"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-08-28T10:35:08Z",
+    "description": "A full reset neovim keybindings",
+    "isArchived": false,
+    "lastCommit": "2025-08-28T10:34:01Z",
+    "nameWithOwner": "kaievns/nuclear-option.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nuclear-option.nvim",
+  "owner": "kaievns",
+  "url": "https://github.com/kaievns/nuclear-option.nvim"
+}

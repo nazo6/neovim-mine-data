@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2025-05-05T23:23:54Z",
+    "description": "custom neovim plugin to view commit history that affected visually selected lines",
+    "isArchived": false,
+    "lastCommit": "2025-06-27T21:55:59Z",
+    "nameWithOwner": "ethanamaher/better-git-blame.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "git",
+      "git-blame",
+      "git-history",
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "telescope-plugin",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "better-git-blame.nvim",
+  "owner": "ethanamaher",
+  "url": "https://github.com/ethanamaher/better-git-blame.nvim"
+}

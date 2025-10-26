@@ -20,18 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 16,
     "createdAt": "2025-03-26T02:25:52Z",
     "description": "Highlight visually selected line numbers in Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-04-13T03:13:09Z",
+    "lastCommit": "2025-10-13T15:26:00Z",
     "nameWithOwner": "joncrangle/visual-lines.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

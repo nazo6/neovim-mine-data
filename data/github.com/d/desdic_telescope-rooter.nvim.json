@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Root Detector"
         }
       ],
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2022-11-26T11:30:42Z",
     "description": "Change directory to project folder when using telescope and restore afterwards",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 25,
+    "star": 26,
     "topics": [
     ]
   },

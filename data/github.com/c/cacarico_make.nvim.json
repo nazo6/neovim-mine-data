@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "make"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-05-19T15:52:08Z",
+    "description": "A plugin to facilitate project management using make",
+    "isArchived": false,
+    "lastCommit": "2025-06-04T11:43:59Z",
+    "nameWithOwner": "cacarico/make.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "make.nvim",
+  "owner": "cacarico",
+  "url": "https://github.com/cacarico/make.nvim"
+}

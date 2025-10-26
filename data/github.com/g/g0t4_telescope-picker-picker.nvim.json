@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Picker"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-08-16T11:01:48Z",
+    "description": "picker of ALL pickers!",
+    "isArchived": false,
+    "lastCommit": "2025-08-16T11:43:19Z",
+    "nameWithOwner": "g0t4/telescope-picker-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-picker-picker.nvim",
+  "owner": "g0t4",
+  "url": "https://github.com/g0t4/telescope-picker-picker.nvim"
+}

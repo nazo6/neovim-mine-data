@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        },
+        {
+          "level": 3,
+          "name": "Comment Header"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-07-12T09:19:16Z",
+    "description": "Neovim plugin: builds a heading comment from selection and paste above",
+    "isArchived": false,
+    "lastCommit": "2025-07-14T04:37:18Z",
+    "nameWithOwner": "sunwukonga/heading.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "heading.nvim",
+  "owner": "sunwukonga",
+  "url": "https://github.com/sunwukonga/heading.nvim"
+}

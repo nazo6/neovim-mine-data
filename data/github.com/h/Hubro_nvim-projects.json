@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2023-07-05T04:52:51Z",
     "description": "Super simple Neovim plugin for quickly jumping to a project",
     "isArchived": false,

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Compile"
+        },
+        {
+          "level": 4,
+          "name": "elf"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-06-28T00:35:29Z",
+    "description": "A simple plugin to browse .elf and bin file contents in the style of pi_zip",
+    "isArchived": false,
+    "lastCommit": "2025-07-17T05:12:11Z",
+    "nameWithOwner": "JonTheBurger/nvim-elf-file",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-elf-file",
+  "owner": "JonTheBurger",
+  "url": "https://github.com/JonTheBurger/nvim-elf-file"
+}

@@ -2,23 +2,35 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "direnv"
+        }
       ],
-      "file": "Archived.md",
+      "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 9,
     "createdAt": "2024-07-03T14:52:26Z",
     "description": "Lua implementation of direnv.vim for automatic .envrc handling & syntax.",
     "isArchived": false,
-    "lastCommit": "2025-03-21T14:08:32Z",
+    "lastCommit": "2025-06-09T11:04:09Z",
     "nameWithOwner": "NotAShelf/direnv.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 14,
+    "star": 36,
     "topics": [
     ]
   },

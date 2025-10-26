@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Container"
+        },
+        {
+          "level": 5,
+          "name": "Docker"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-30T12:37:12Z",
+    "isArchived": false,
+    "lastCommit": "2025-05-30T14:19:21Z",
+    "nameWithOwner": "msmith-codes/docker_telescope.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "docker_telescope.nvim",
+  "owner": "msmith-codes",
+  "url": "https://github.com/msmith-codes/docker_telescope.nvim"
+}

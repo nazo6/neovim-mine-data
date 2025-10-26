@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Log"
+        },
+        {
+          "level": 4,
+          "name": "LSP Info"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-08-02T21:27:39Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T15:16:47Z",
+    "nameWithOwner": "msc5/lspinfo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lspinfo.nvim",
+  "owner": "msc5",
+  "url": "https://github.com/msc5/lspinfo.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-24T14:50:24Z",
+    "description": "A simple and fast git log viewer for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-26T11:25:27Z",
+    "nameWithOwner": "edo1z/gitview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "git",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitview.nvim",
+  "owner": "edo1z",
+  "url": "https://github.com/edo1z/gitview.nvim"
+}

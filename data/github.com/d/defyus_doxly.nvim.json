@@ -7,7 +7,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "GPG"
         }
       ],
@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 0,
     "createdAt": "2024-10-25T17:03:20Z",
     "description": "Doxly.nvim provides GPG encryption with Base64 encoding. Securely encrypt your text with a password and get a single-line Base64 output that's easy to share and use.",
     "isArchived": false,

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-04-23T13:40:01Z",
+    "description": "nvim-pyenv-loader",
+    "isArchived": false,
+    "lastCommit": "2025-04-24T15:12:23Z",
+    "nameWithOwner": "wsacin/nvim-pyenv-loader",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pyenv-loader",
+  "owner": "wsacin",
+  "url": "https://github.com/wsacin/nvim-pyenv-loader"
+}

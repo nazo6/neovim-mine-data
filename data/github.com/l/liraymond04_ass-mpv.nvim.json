@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-05-22T18:04:39Z",
+    "description": "Neovim plugin that adds integration with MPV for Advanced SubStation Alpha .ass subtitle files",
+    "isArchived": false,
+    "lastCommit": "2025-06-29T06:41:40Z",
+    "nameWithOwner": "liraymond04/ass-mpv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "advanced-substation-alpha",
+      "lua",
+      "mpv",
+      "mpv-player",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "subtitles"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ass-mpv.nvim",
+  "owner": "liraymond04",
+  "url": "https://github.com/liraymond04/ass-mpv.nvim"
+}

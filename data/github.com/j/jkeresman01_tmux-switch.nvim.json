@@ -17,31 +17,47 @@
       ],
       "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Split and Window"
+        },
+        {
+          "level": 3,
+          "name": "Tmux"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 58,
+    "commitCountLastYear": 20,
     "createdAt": "2024-07-19T20:51:43Z",
-    "description": "Switching between multiple tmux sessions  right from Neovim made easily",
+    "description": "Switch between multiple tmux sessions right from Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-03-18T15:20:09Z",
+    "lastCommit": "2025-10-09T20:48:44Z",
     "nameWithOwner": "jkeresman01/tmux-switch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
-      "linux",
       "neovim",
       "neovim-plugin",
       "nvim-plugin",
-      "plugin",
-      "session",
       "session-management",
       "tmux",
       "tmux-session",
-      "vi"
+      "tmux-switch",
+      "tmux-sessionizer"
     ]
   },
   "domain": "github.com",

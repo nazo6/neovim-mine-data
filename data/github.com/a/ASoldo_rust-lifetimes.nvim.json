@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "lifetime"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2025-09-21T18:47:46Z",
+    "description": "Rust Lifetimes NVIM Plugin",
+    "isArchived": false,
+    "lastCommit": "2025-09-23T17:02:30Z",
+    "nameWithOwner": "ASoldo/rust-lifetimes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rust-lifetimes.nvim",
+  "owner": "ASoldo",
+  "url": "https://github.com/ASoldo/rust-lifetimes.nvim"
+}

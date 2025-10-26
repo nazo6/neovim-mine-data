@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "[Diff](./diff.md)"
+          "name": "Diff"
         },
         {
           "level": 3,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 23,
+    "commitCountLastYear": 26,
     "createdAt": "2025-01-11T22:50:40Z",
     "description": "A tiny Neovim plugin to highlight text matching the current selection in visual mode 💫",
     "isArchived": false,
-    "lastCommit": "2025-02-04T19:41:11Z",
+    "lastCommit": "2025-09-25T10:08:42Z",
     "nameWithOwner": "wurli/visimatch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 51,
+    "star": 65,
     "topics": [
       "neovim-plugin",
       "neovim",

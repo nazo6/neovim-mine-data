@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Undo"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-07-27T09:29:29Z",
+    "description": "Lua rewrite of vim-mundo",
+    "isArchived": false,
+    "lastCommit": "2025-07-31T12:36:49Z",
+    "nameWithOwner": "petertriho/nvim-mundo",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mundo",
+  "owner": "petertriho",
+  "url": "https://github.com/petertriho/nvim-mundo"
+}

@@ -1,0 +1,63 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-05-04T11:19:56Z",
+    "description": "Note taking plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-05-06T00:46:47Z",
+    "nameWithOwner": "kilavila/nvim-notes",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin",
+      "lua",
+      "neovim",
+      "note-taking"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-notes",
+  "owner": "kilavila",
+  "url": "https://github.com/kilavila/nvim-notes"
+}

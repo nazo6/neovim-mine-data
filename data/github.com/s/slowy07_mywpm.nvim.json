@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Typing speed"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2025-10-18T23:35:08Z",
+    "description": "show your wpm on neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-20T04:43:06Z",
+    "nameWithOwner": "slowy07/mywpm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mywpm.nvim",
+  "owner": "slowy07",
+  "url": "https://github.com/slowy07/mywpm.nvim"
+}

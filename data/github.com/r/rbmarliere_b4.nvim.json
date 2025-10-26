@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "b4"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-07-28T20:53:59Z",
+    "description": "Neovim plugin that wraps the b4 tool",
+    "isArchived": false,
+    "lastCommit": "2025-04-09T16:35:04Z",
+    "nameWithOwner": "rbmarliere/b4.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "b4.nvim",
+  "owner": "rbmarliere",
+  "url": "https://github.com/rbmarliere/b4.nvim"
+}

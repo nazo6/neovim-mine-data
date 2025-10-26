@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "External terminal"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2025-10-21T14:38:27Z",
+    "description": "Run tmux windows and panes from within Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-22T07:35:42Z",
+    "nameWithOwner": "dwainm/tmux-commander.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-commander.nvim",
+  "owner": "dwainm",
+  "url": "https://github.com/dwainm/tmux-commander.nvim"
+}

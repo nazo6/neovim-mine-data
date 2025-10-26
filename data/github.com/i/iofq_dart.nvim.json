@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tabline"
+        }
+      ],
+      "file": "tabline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-08-04T07:07:04Z",
+    "description": "a minimalist neovim tabline focused on pinning buffers",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T06:48:43Z",
+    "nameWithOwner": "iofq/dart.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 63,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dart.nvim",
+  "owner": "iofq",
+  "url": "https://github.com/iofq/dart.nvim"
+}

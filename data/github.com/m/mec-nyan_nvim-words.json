@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pronunce"
+        }
+      ],
+      "file": "dictionary.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-06-13T21:56:17Z",
+    "description": "A Neovim plugin to learn the pronunciation and definition of words.",
+    "isArchived": false,
+    "lastCommit": "2025-06-18T00:48:59Z",
+    "nameWithOwner": "mec-nyan/nvim-words",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-words",
+  "owner": "mec-nyan",
+  "url": "https://github.com/mec-nyan/nvim-words"
+}

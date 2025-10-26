@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Cowsay"
         },
         {
@@ -20,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 0,
     "createdAt": "2024-04-11T15:01:39Z",
     "description": "cure your impostor syndrome, one :w at a time",
     "isArchived": false,
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 54,
+    "star": 53,
     "topics": [
       "encouragement",
       "nvim",

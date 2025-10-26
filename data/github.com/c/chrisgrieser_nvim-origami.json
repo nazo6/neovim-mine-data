@@ -30,20 +30,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 84,
+    "commitCountLastYear": 119,
     "createdAt": "2023-07-27T15:33:56Z",
-    "description": "Fold with relentless elegance. A collection of Quality-of-life features related to folding.",
+    "description": "Fold with relentless elegance. A collection of quality-of-life features related to folding.",
     "isArchived": false,
-    "lastCommit": "2025-04-14T14:49:28Z",
+    "lastCommit": "2025-10-22T19:30:05Z",
     "nameWithOwner": "chrisgrieser/nvim-origami",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 250,
+    "star": 389,
     "topics": [
       "folding",
-      "nvim-plugin"
+      "nvim-plugin",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

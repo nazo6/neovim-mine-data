@@ -2,29 +2,16 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Note Taking"
-        },
-        {
-          "level": 3,
-          "name": "Scratch Buffer"
-        }
       ],
-      "file": "note-taking.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2023-03-17T12:58:33Z",
-    "description": null,
-    "isArchived": false,
-    "lastCommit": "2023-12-16T19:50:29Z",
+    "isArchived": true,
+    "lastCommit": "2025-06-01T15:50:35Z",
     "nameWithOwner": "distek/fnote.nvim",
     "primaryLanguage": {
       "color": "#000080",

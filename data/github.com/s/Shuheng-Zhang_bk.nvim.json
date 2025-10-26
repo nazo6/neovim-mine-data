@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "EPUB"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-08-01T14:08:03Z",
+    "description": "ePub reader for neovim power by bk(Rust crate)",
+    "isArchived": false,
+    "lastCommit": "2025-08-29T08:32:37Z",
+    "nameWithOwner": "Shuheng-Zhang/bk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bk.nvim",
+  "owner": "Shuheng-Zhang",
+  "url": "https://github.com/Shuheng-Zhang/bk.nvim"
+}

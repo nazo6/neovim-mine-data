@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "delete"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-30T10:08:41Z",
+    "description": "A Neovim plugin providing user-friendly replacements for \"bdelete\" and \"bwipeout\"",
+    "isArchived": false,
+    "lastCommit": "2025-05-01T04:52:53Z",
+    "nameWithOwner": "N8WM/buffexit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "buffer-management",
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffexit.nvim",
+  "owner": "N8WM",
+  "url": "https://github.com/N8WM/buffexit.nvim"
+}

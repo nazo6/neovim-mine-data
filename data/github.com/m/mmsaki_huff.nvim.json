@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Huff"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2025-08-30T07:50:21Z",
+    "description": "Syntax highlighting for Huff language in neovim + opcode lookups. ",
+    "isArchived": false,
+    "lastCommit": "2025-09-09T23:37:12Z",
+    "nameWithOwner": "mmsaki/huff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim-plugin",
+      "treesitter",
+      "evm",
+      "lua",
+      "huff"
+    ]
+  },
+  "domain": "github.com",
+  "name": "huff.nvim",
+  "owner": "mmsaki",
+  "url": "https://github.com/mmsaki/huff.nvim"
+}

@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Root Detector"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 1,
     "createdAt": "2022-02-04T22:14:46Z",
     "description": "minimal implementation of vim-rooter in lua.",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 109,
+    "star": 120,
     "topics": [
       "vim",
       "neovim",

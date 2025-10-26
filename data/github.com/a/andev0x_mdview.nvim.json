@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Node"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-08-11T02:46:19Z",
+    "description": "A simple Neovim plugin for previewing Markdown files in a floating window or your browser, with live updates and scroll synchronization",
+    "isArchived": false,
+    "lastCommit": "2025-08-29T09:47:18Z",
+    "nameWithOwner": "andev0x/mdview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lazyvim",
+      "markdown",
+      "nvim-plugin",
+      "packer",
+      "preview",
+      "opensource"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdview.nvim",
+  "owner": "andev0x",
+  "url": "https://github.com/andev0x/mdview.nvim"
+}

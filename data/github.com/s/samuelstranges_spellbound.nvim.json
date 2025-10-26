@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Spell"
+        },
+        {
+          "level": 3,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-06-18T05:08:03Z",
+    "description": "A spellchecking tool for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-26T21:47:10Z",
+    "nameWithOwner": "samuelstranges/spellbound.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spellbound.nvim",
+  "owner": "samuelstranges",
+  "url": "https://github.com/samuelstranges/spellbound.nvim"
+}

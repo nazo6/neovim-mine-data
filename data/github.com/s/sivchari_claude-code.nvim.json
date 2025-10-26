@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-07-01T09:07:40Z",
+    "description": "A streamlined Neovim plugin for seamlessly using Claude Code with git worktree support.",
+    "isArchived": false,
+    "lastCommit": "2025-07-04T03:08:02Z",
+    "nameWithOwner": "sivchari/claude-code.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 18,
+    "topics": [
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "neovim",
+      "neovim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-code.nvim",
+  "owner": "sivchari",
+  "url": "https://github.com/sivchari/claude-code.nvim"
+}

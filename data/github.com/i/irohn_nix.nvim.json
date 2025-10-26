@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Nix"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 70,
+    "createdAt": "2025-07-05T22:10:43Z",
+    "description": "Use the power of Nix to run tools without installing them!",
+    "isArchived": false,
+    "lastCommit": "2025-08-28T18:33:49Z",
+    "nameWithOwner": "irohn/nix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nix.nvim",
+  "owner": "irohn",
+  "url": "https://github.com/irohn/nix.nvim"
+}

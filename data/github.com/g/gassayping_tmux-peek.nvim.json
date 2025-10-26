@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 23,
     "createdAt": "2025-01-06T18:20:20Z",
     "description": "Quickly access a tmux window without leaving neovim",
     "isArchived": false,
-    "lastCommit": "2025-01-18T23:42:02Z",
+    "lastCommit": "2025-05-30T23:36:17Z",
     "nameWithOwner": "gassayping/tmux-peek.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
       "neovim-plugin",
       "tmux"

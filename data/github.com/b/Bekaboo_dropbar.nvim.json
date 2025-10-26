@@ -7,7 +7,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Breadcrumbs"
         }
       ],
@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 162,
+    "commitCountLastYear": 189,
     "createdAt": "2023-05-25T05:57:15Z",
     "description": "IDE-like breadcrumbs, out of the box",
     "isArchived": false,
-    "lastCommit": "2025-04-13T02:57:40Z",
+    "lastCommit": "2025-10-05T15:37:22Z",
     "nameWithOwner": "Bekaboo/dropbar.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1271,
+    "star": 1446,
     "topics": [
       "breadcrumbs",
       "lsp",

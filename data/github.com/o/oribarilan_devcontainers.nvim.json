@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "VS Code features"
+        },
+        {
+          "level": 3,
+          "name": "Devcontainer"
+        }
+      ],
+      "file": "vscode-features.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-09-04T13:48:08Z",
+    "isArchived": false,
+    "lastCommit": "2025-09-06T13:50:39Z",
+    "nameWithOwner": "oribarilan/devcontainers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "devcontainers.nvim",
+  "owner": "oribarilan",
+  "url": "https://github.com/oribarilan/devcontainers.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GPG"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 85,
+    "createdAt": "2025-10-13T11:25:31Z",
+    "description": "Secure selective encryption for Markdown notes — powered by GPG",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T21:32:04Z",
+    "nameWithOwner": "icarios-dev/privymd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "gpg",
+      "markdown",
+      "neovim-plugin",
+      "nvim-plugin",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "privymd.nvim",
+  "owner": "icarios-dev",
+  "url": "https://github.com/icarios-dev/privymd.nvim"
+}

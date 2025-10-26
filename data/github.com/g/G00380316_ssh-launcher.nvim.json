@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ssh"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-06-27T15:30:00Z",
+    "description": "Neovim SSH Plugin",
+    "isArchived": false,
+    "lastCommit": "2025-06-29T03:36:21Z",
+    "nameWithOwner": "G00380316/ssh-launcher.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ssh-launcher.nvim",
+  "owner": "G00380316",
+  "url": "https://github.com/G00380316/ssh-launcher.nvim"
+}

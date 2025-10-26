@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-10-12T19:33:46Z",
+    "description": "A plugin for providing Jetbrains-like deployment capabilities in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T19:17:49Z",
+    "nameWithOwner": "dmbhatti/deployment.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "deployment.nvim",
+  "owner": "dmbhatti",
+  "url": "https://github.com/dmbhatti/deployment.nvim"
+}

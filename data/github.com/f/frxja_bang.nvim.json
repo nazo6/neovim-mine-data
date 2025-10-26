@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Command style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-07-20T13:53:05Z",
+    "description": "Neovim plugin that lets you configure autocommands from within your current Neovim session.",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T08:08:18Z",
+    "nameWithOwner": "frxja/bang.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bang.nvim",
+  "owner": "frxja",
+  "url": "https://github.com/yuki9k/bang.nvim"
+}

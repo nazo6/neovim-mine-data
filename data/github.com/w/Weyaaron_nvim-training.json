@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Training"
         }
       ],
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 198,
+    "commitCountLastYear": 86,
     "createdAt": "2023-07-11T12:08:19Z",
     "description": "A plugin to practice neovim movements",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 85,
+    "star": 104,
     "topics": [
       "lua",
       "neovim",

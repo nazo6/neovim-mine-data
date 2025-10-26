@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 76,
+    "createdAt": "2025-06-05T22:33:34Z",
+    "description": "Neovim plugin for live PDF preview - LaTeX workflow in containers",
+    "isArchived": false,
+    "lastCommit": "2025-07-12T23:27:37Z",
+    "nameWithOwner": "franco-ruggeri/pdf-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "containers",
+      "latex"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pdf-preview.nvim",
+  "owner": "franco-ruggeri",
+  "url": "https://github.com/franco-ruggeri/pdf-preview.nvim"
+}

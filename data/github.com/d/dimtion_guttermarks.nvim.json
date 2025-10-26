@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "sign"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2025-08-04T01:26:24Z",
+    "description": "Neovim plugin to display Marks in the gutter",
+    "isArchived": false,
+    "lastCommit": "2025-09-21T23:50:25Z",
+    "nameWithOwner": "dimtion/guttermarks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 36,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "marks",
+      "neovim-marks"
+    ]
+  },
+  "domain": "github.com",
+  "name": "guttermarks.nvim",
+  "owner": "dimtion",
+  "url": "https://github.com/dimtion/guttermarks.nvim"
+}

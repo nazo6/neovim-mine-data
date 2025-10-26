@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Mouse"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-06-27T07:08:13Z",
+    "description": "A simple neovim plugin for managing the mouse",
+    "isArchived": false,
+    "lastCommit": "2025-06-27T23:02:08Z",
+    "nameWithOwner": "ryardley/mouser.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mouser.nvim",
+  "owner": "ryardley",
+  "url": "https://github.com/ryardley/mouser.nvim"
+}

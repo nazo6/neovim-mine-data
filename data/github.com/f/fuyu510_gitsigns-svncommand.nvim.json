@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-08-31T12:59:07Z",
+    "isArchived": false,
+    "lastCommit": "2025-08-31T14:42:36Z",
+    "nameWithOwner": "fuyu510/gitsigns-svncommand.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitsigns-svncommand.nvim",
+  "owner": "fuyu510",
+  "url": "https://github.com/fuyu510/gitsigns-svncommand.nvim"
+}

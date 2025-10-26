@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "eldoc"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-06-06T14:40:31Z",
+    "description": "Eldoc for Neovim! (mirrored from https://codeberg.org/sj2tpgk/nvim-eldoc)",
+    "isArchived": false,
+    "lastCommit": "2025-08-15T15:09:21Z",
+    "nameWithOwner": "sj2tpgk/nvim-eldoc",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "lsp",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-eldoc",
+  "owner": "sj2tpgk",
+  "url": "https://github.com/sj2tpgk/nvim-eldoc"
+}

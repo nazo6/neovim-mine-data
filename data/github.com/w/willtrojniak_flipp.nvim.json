@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "function"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2025-04-11T21:04:26Z",
+    "description": "A NeoVim plugin for generating C++ definitions from their declarations",
+    "isArchived": false,
+    "lastCommit": "2025-07-09T05:33:00Z",
+    "nameWithOwner": "willtrojniak/flipp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "flipp.nvim",
+  "owner": "willtrojniak",
+  "url": "https://github.com/willtrojniak/flipp.nvim"
+}

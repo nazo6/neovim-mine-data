@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Night Mode"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-05-03T20:28:26Z",
+    "description": "Night mode for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-08-23T18:47:10Z",
+    "nameWithOwner": "coreyb-git/night-mode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "night-mode.nvim",
+  "owner": "coreyb-git",
+  "url": "https://github.com/coreyb-git/night-mode.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Directory"
+        },
+        {
+          "level": 3,
+          "name": "cd(change directory)"
+        }
+      ],
+      "file": "directory.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-10-10T01:36:34Z",
+    "description": "Interactively change directory upwards",
+    "isArchived": false,
+    "lastCommit": "2025-10-13T06:06:33Z",
+    "nameWithOwner": "shaobosong/cdup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cdup.nvim",
+  "owner": "shaobosong",
+  "url": "https://github.com/shaobosong/cdup.nvim"
+}

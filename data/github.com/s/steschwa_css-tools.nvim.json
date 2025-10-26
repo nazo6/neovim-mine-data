@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "CSS"
-        }
       ],
-      "file": "js_ts.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,15 +11,18 @@
     "commitCountLastYear": 20,
     "createdAt": "2025-03-28T13:01:59Z",
     "description": "Neovim plugin designed to enhance your CSS development workflow using LSP features provided by cssls",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-04-08T07:10:47Z",
     "nameWithOwner": "steschwa/css-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
+      "css",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

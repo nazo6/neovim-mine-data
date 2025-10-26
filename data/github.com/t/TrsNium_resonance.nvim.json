@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Tidal"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-07-19T07:51:19Z",
+    "description": "Neovim plugin for TidalCycles live coding. Features async REPL, smart code evaluation, and visual   feedback",
+    "isArchived": false,
+    "lastCommit": "2025-07-19T10:19:22Z",
+    "nameWithOwner": "TrsNium/resonance.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "tidalcycles"
+    ]
+  },
+  "domain": "github.com",
+  "name": "resonance.nvim",
+  "owner": "TrsNium",
+  "url": "https://github.com/TrsNium/resonance.nvim"
+}

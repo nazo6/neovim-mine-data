@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-07-07T16:05:51Z",
+    "description": "A neovim plugin for foxdot",
+    "isArchived": false,
+    "lastCommit": "2025-07-07T16:34:16Z",
+    "nameWithOwner": "mjbn/FoxDot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "FoxDot.nvim",
+  "owner": "mjbn",
+  "url": "https://github.com/mjbn/FoxDot.nvim"
+}

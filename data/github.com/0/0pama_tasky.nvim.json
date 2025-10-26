@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-08-18T17:32:08Z",
+    "description": "Simple task management plugin for Neovim where you can add, organize, and track tasks without leaving your editor.",
+    "isArchived": false,
+    "lastCommit": "2025-07-18T03:35:34Z",
+    "nameWithOwner": "0pama/tasky.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim-plugin",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasky.nvim",
+  "owner": "0pama",
+  "url": "https://github.com/0pama/tasky.nvim"
+}

@@ -8,19 +8,15 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Dictionary"
         }
       ],
-      "file": "readme.md",
+      "file": "dictionary.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 0,
     "createdAt": "2024-08-20T09:00:42Z",
     "description": "Displays a word's definition, synonyms. It uses datamuse.com's API",
     "isArchived": false,

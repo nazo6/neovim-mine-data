@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-10-18T08:17:25Z",
+    "description": "A lightweight, highly customizable plugin manager UI built for Neovim's native vim.pack functionality. This tool provides a floating-window interface for viewing, updating, and managing plugins installed via standard packages.",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T08:56:15Z",
+    "nameWithOwner": "onaforeignshore/packman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "packman.nvim",
+  "owner": "onaforeignshore",
+  "url": "https://github.com/onaforeignshore/packman.nvim"
+}

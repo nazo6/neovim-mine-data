@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "CPU/Memory"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-06-30T15:46:06Z",
+    "description": "Bitburner RAM airline status plugin",
+    "isArchived": false,
+    "lastCommit": "2025-06-30T18:32:23Z",
+    "nameWithOwner": "skyroor/nvim-bbstatus",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-bbstatus",
+  "owner": "skyroor",
+  "url": "https://github.com/skyroor/nvim-bbstatus"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "LLVM"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-06-15T10:51:01Z",
+    "description": "An LLVM-MCA visualizer plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-17T17:51:52Z",
+    "nameWithOwner": "aelobdog/macan.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "macan.nvim",
+  "owner": "aelobdog",
+  "url": "https://github.com/aelobdog/macan.nvim"
+}

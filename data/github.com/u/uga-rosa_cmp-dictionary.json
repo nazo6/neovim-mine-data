@@ -8,19 +8,15 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Dictionary"
         }
       ],
-      "file": "readme.md",
+      "file": "dictionary.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 1,
     "createdAt": "2021-09-26T08:01:17Z",
     "description": "A dictionary completion source for nvim-cmp",
     "isArchived": false,
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 275,
+    "star": 282,
     "topics": [
       "nvim-cmp",
       "neovim-plugin",

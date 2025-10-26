@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
+        },
+        {
+          "level": 4,
+          "name": "Discord"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-10-19T18:09:04Z",
+    "description": "A discord rich presnece plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-20T17:27:11Z",
+    "nameWithOwner": "himonshuuu/discord.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "discord",
+      "discord-rpc",
+      "golang",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "discord.nvim",
+  "owner": "himonshuuu",
+  "url": "https://github.com/himonshuuu/discord.nvim"
+}

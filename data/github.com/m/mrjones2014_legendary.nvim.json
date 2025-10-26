@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Command Palette"
-        }
       ],
-      "file": "command.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,7 +22,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 104,
+    "commitCountLastYear": 45,
     "createdAt": "2022-02-02T14:27:52Z",
     "description": "🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.",
     "isArchived": true,
@@ -40,7 +32,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1217,
+    "star": 1221,
     "topics": [
       "neovim",
       "neovim-plugin",

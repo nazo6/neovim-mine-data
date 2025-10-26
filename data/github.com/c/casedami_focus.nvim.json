@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Zen Mode"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2024-11-02T17:09:47Z",
+    "description": "A fork of Folke's zen mode with features from True Zen. Customized to my workflow",
+    "isArchived": false,
+    "lastCommit": "2025-02-03T22:36:17Z",
+    "nameWithOwner": "casedami/focus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 40,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "focus.nvim",
+  "owner": "casedami",
+  "url": "https://github.com/cdmill/focus.nvim"
+}

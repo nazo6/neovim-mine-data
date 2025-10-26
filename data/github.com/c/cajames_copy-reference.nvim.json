@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Copy with line info"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-08-11T01:33:59Z",
+    "description": "A lightweight Neovim plugin to copy file references with line numbers to your clipboard. Great for sharing exact code locations with your friendly neighbourhood AI code agent.",
+    "isArchived": false,
+    "lastCommit": "2025-08-14T06:28:19Z",
+    "nameWithOwner": "cajames/copy-reference.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "copy-reference.nvim",
+  "owner": "cajames",
+  "url": "https://github.com/cajames/copy-reference.nvim"
+}

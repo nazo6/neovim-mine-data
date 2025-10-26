@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Number"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-21T22:26:24Z",
+    "description": "A Neovim plugin to display both relative and absolute line numbers side-by-side",
+    "isArchived": false,
+    "lastCommit": "2025-05-27T11:27:15Z",
+    "nameWithOwner": "shrynx/line-numbers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 30,
+    "topics": [
+      "linenumber",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "line-numbers.nvim",
+  "owner": "shrynx",
+  "url": "https://github.com/shrynx/line-numbers.nvim"
+}

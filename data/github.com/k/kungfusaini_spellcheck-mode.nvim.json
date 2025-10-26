@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Spell"
+        },
+        {
+          "level": 3,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-09-06T15:06:00Z",
+    "description": "Spell Checker mode for nvim allowing faster spelling correction ",
+    "isArchived": false,
+    "lastCommit": "2025-09-09T15:51:13Z",
+    "nameWithOwner": "kungfusaini/spellcheck-mode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spellcheck-mode.nvim",
+  "owner": "kungfusaini",
+  "url": "https://github.com/kungfusaini/spellcheck-mode.nvim"
+}

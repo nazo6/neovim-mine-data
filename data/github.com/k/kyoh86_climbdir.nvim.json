@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Root Detector"
         }
       ],
@@ -20,9 +20,8 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 5,
     "createdAt": "2022-05-04T14:49:17Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2025-04-09T10:43:41Z",
     "nameWithOwner": "kyoh86/climbdir.nvim",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "bookmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-29T09:46:35Z",
+    "description": "simple bookmark plugin",
+    "isArchived": false,
+    "lastCommit": "2025-08-12T08:40:15Z",
+    "nameWithOwner": "edte/bookmarks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bookmarks.nvim",
+  "owner": "edte",
+  "url": "https://github.com/edte/bookmarks.nvim"
+}

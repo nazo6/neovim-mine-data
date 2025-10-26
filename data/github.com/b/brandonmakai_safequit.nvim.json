@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "quit"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-09-03T15:36:42Z",
+    "description": "Prevent losing unsaved files in Neovim by checking for multiple modified buffers before quitting.",
+    "isArchived": false,
+    "lastCommit": "2025-09-17T03:22:00Z",
+    "nameWithOwner": "brandonmakai/safequit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "safequit.nvim",
+  "owner": "brandonmakai",
+  "url": "https://github.com/brandonmakai/safequit.nvim"
+}

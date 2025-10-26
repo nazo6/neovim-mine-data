@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Copilot"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 375,
+    "createdAt": "2025-09-26T10:26:48Z",
+    "description": "Your Neovim AI sidekick",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T07:57:45Z",
+    "nameWithOwner": "folke/sidekick.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1695,
+    "topics": [
+      "copilot",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "claude-code",
+      "codex-cli",
+      "copilot-cli",
+      "gemini-cli"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sidekick.nvim",
+  "owner": "folke",
+  "url": "https://github.com/folke/sidekick.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Background"
+        },
+        {
+          "level": 3,
+          "name": "OSC11"
+        }
+      ],
+      "file": "background.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-06-13T20:01:31Z",
+    "description": "A tiny Neovim plugin for automatic terminal theme synchronization via OSC 11.",
+    "isArchived": false,
+    "lastCommit": "2025-06-14T11:56:48Z",
+    "nameWithOwner": "afonsofrancof/OSC11.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+      "plugin-neovim",
+      "theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "OSC11.nvim",
+  "owner": "afonsofrancof",
+  "url": "https://github.com/afonsofrancof/OSC11.nvim"
+}

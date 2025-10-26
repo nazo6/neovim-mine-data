@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CI"
+        },
+        {
+          "level": 3,
+          "name": "GitHub Actions"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2025-10-12T03:01:03Z",
+    "description": "A Neovim plugin that checks GitHub Actions versions and displays them inline using extmarks.",
+    "isArchived": false,
+    "lastCommit": "2025-10-26T04:26:59Z",
+    "nameWithOwner": "skanehira/github-actions.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "github-actions.nvim",
+  "owner": "skanehira",
+  "url": "https://github.com/skanehira/github-actions.nvim"
+}

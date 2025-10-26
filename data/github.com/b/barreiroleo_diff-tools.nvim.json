@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-07-20T11:05:46Z",
+    "description": "A Neovim plugin for diffing and conflict resolution",
+    "isArchived": false,
+    "lastCommit": "2025-07-20T11:05:24Z",
+    "nameWithOwner": "barreiroleo/diff-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diff-tools.nvim",
+  "owner": "barreiroleo",
+  "url": "https://github.com/barreiroleo/diff-tools.nvim"
+}

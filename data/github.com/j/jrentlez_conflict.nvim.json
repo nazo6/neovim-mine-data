@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git conflict"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-31T19:21:00Z",
+    "description": "Highlight, navigate and resolve conflict markers",
+    "isArchived": false,
+    "lastCommit": "2025-06-04T09:04:34Z",
+    "nameWithOwner": "jrentlez/conflict.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "conflict.nvim",
+  "owner": "jrentlez",
+  "url": "https://github.com/TungstnBallon/conflict.nvim"
+}

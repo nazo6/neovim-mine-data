@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Plugin Config"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-10-20T11:14:04Z",
+    "description": "Spec-Kit for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T09:52:03Z",
+    "nameWithOwner": "greenarmor/speckit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "speckit.nvim",
+  "owner": "greenarmor",
+  "url": "https://github.com/greenarmor/speckit.nvim"
+}

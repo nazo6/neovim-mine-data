@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-06-03T13:18:48Z",
+    "description": "📝 Minimal NeoVim memo plugin - Create quick memos with a single command",
+    "isArchived": false,
+    "lastCommit": "2025-06-03T17:03:38Z",
+    "nameWithOwner": "yuucu/minimemo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "memo",
+      "neovim",
+      "plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "minimemo.nvim",
+  "owner": "yuucu",
+  "url": "https://github.com/yuucu/minimemo.nvim"
+}

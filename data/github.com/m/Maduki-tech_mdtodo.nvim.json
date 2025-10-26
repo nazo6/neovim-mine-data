@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-10-04T07:14:25Z",
+    "description": "Todo management in Markdown",
+    "isArchived": false,
+    "lastCommit": "2025-10-04T12:11:59Z",
+    "nameWithOwner": "Maduki-tech/mdtodo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdtodo.nvim",
+  "owner": "Maduki-tech",
+  "url": "https://github.com/Maduki-tech/mdtodo.nvim"
+}

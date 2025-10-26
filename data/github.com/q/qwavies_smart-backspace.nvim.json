@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Key"
+        },
+        {
+          "level": 4,
+          "name": "Backspace"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-08-17T03:03:51Z",
+    "description": "A neovim plugin which extends the default backspace functionality",
+    "isArchived": false,
+    "lastCommit": "2025-09-12T07:32:50Z",
+    "nameWithOwner": "qwavies/smart-backspace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "plugin",
+      "plugin-neovim",
+      "productivity"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-backspace.nvim",
+  "owner": "qwavies",
+  "url": "https://github.com/qwavies/smart-backspace.nvim"
+}

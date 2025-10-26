@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-10-03T17:04:43Z",
+    "description": "⚙️ Simple fzf-lua project manager.",
+    "isArchived": false,
+    "lastCommit": "2025-01-07T15:05:04Z",
+    "nameWithOwner": "mateconpizza/projects.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "fzf",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "projects.nvim",
+  "owner": "mateconpizza",
+  "url": "https://github.com/haaag/projects.nvim"
+}

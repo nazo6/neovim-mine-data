@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 63,
+    "createdAt": "2025-06-25T01:12:05Z",
+    "description": "AI neovim plugin to give feedback to your code",
+    "isArchived": false,
+    "lastCommit": "2025-07-10T00:50:34Z",
+    "nameWithOwner": "joelxr/pitaco.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "ai",
+      "lua",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pitaco.nvim",
+  "owner": "joelxr",
+  "url": "https://github.com/joelxr/pitaco.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-08-18T18:27:37Z",
+    "description": "A minimal neovim plugin that allows you to ask questions about your code - and have them answered!",
+    "isArchived": false,
+    "lastCommit": "2025-08-20T11:27:15Z",
+    "nameWithOwner": "heyitscarl-dev/ferret.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ferret.nvim",
+  "owner": "heyitscarl-dev",
+  "url": "https://github.com/heyitscarl-dev/ferret.nvim"
+}

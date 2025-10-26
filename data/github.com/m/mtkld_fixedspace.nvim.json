@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "toc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-07T12:59:49Z",
+    "description": "Creates fixed panels in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-06-07T12:59:50Z",
+    "nameWithOwner": "mtkld/fixedspace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fixedspace.nvim",
+  "owner": "mtkld",
+  "url": "https://github.com/mtkld/fixedspace.nvim"
+}

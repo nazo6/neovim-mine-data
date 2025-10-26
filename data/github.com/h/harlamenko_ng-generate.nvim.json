@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Angular"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-08-12T11:59:25Z",
+    "description": "Neovim plugin that adds a handy popup menu for running `ng generate` commands in Angular projects.",
+    "isArchived": false,
+    "lastCommit": "2025-08-20T09:38:05Z",
+    "nameWithOwner": "harlamenko/ng-generate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ng-generate.nvim",
+  "owner": "harlamenko",
+  "url": "https://github.com/harlamenko/ng-generate.nvim"
+}

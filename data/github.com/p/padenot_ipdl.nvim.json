@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "IPDL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-05T11:33:25Z",
+    "description": "nvim plugin to highlight Mozilla's IPDL",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T11:40:42Z",
+    "nameWithOwner": "padenot/ipdl.nvim",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ipdl.nvim",
+  "owner": "padenot",
+  "url": "https://github.com/padenot/ipdl.nvim"
+}

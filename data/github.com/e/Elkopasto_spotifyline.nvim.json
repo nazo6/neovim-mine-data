@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Statusline component"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-11T23:35:52Z",
+    "description": "A compact Neovim plugin that displays current spotify track on macOS",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T00:09:35Z",
+    "nameWithOwner": "Elkopasto/spotifyline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spotifyline.nvim",
+  "owner": "Elkopasto",
+  "url": "https://github.com/Elkopasto/spotifyline.nvim"
+}

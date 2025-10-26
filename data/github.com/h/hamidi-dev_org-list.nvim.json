@@ -20,21 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 7,
     "createdAt": "2025-01-19T09:02:48Z",
     "description": "Neovim plugin to toggle between different kinds of lists.",
     "isArchived": false,
-    "lastCommit": "2025-01-19T10:37:36Z",
+    "lastCommit": "2025-05-17T09:26:04Z",
     "nameWithOwner": "hamidi-dev/org-list.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 32,
     "topics": [
       "markdown",
       "neovim",
-      "orgmode-nvim"
+      "orgmode-nvim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "plugin-neovim"
     ]
   },
   "domain": "github.com",

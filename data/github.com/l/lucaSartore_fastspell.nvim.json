@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Spell"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Spellcheck"
         }
       ],
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 73,
+    "commitCountLastYear": 77,
     "createdAt": "2025-02-24T08:20:15Z",
     "description": "Spell checker for neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-20T18:17:33Z",
+    "lastCommit": "2025-10-01T14:17:26Z",
     "nameWithOwner": "lucaSartore/fastspell.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 23,
+    "star": 34,
     "topics": [
       "nvim-plugin",
       "spellchecker",

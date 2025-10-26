@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2025-06-07T06:02:35Z",
+    "description": "⚡ Turn your codebase into AI-ready context in seconds – the Neovim plugin that bridges the gap between your code and AI assistants. Select files, generate structured prompts, and feed your entire project to Claude/ChatGPT/Cursor with zero friction.",
+    "isArchived": false,
+    "lastCommit": "2025-06-09T08:15:11Z",
+    "nameWithOwner": "kylesnowschwartz/prompt-tower.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "ai-assistant",
+      "claude-ai",
+      "neovim",
+      "prompting"
+    ]
+  },
+  "domain": "github.com",
+  "name": "prompt-tower.nvim",
+  "owner": "kylesnowschwartz",
+  "url": "https://github.com/kylesnowschwartz/prompt-tower.nvim"
+}

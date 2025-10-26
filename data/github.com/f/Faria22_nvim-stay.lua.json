@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Save"
+        },
+        {
+          "level": 3,
+          "name": "Cursor Position"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-10-01T16:18:57Z",
+    "description": "Make Vim persist editing state without fuss, written in lua",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T15:47:36Z",
+    "nameWithOwner": "Faria22/nvim-stay.lua",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-stay.lua",
+  "owner": "Faria22",
+  "url": "https://github.com/Faria22/nvim-stay.lua"
+}

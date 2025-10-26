@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-08-23T08:59:36Z",
+    "description": "Runs current buffer and shows output in split buffer. Rest client in lua for neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-09-22T17:49:55Z",
+    "nameWithOwner": "eumis/runb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "rest",
+      "runner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "runb.nvim",
+  "owner": "eumis",
+  "url": "https://github.com/eumis/runb.nvim"
+}

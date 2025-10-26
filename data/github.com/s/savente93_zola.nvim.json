@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Framework"
+        },
+        {
+          "level": 4,
+          "name": "Zola"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2025-07-12T11:03:36Z",
+    "description": "Build, serve, check, and scaffold your Zola static sites from inside neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-18T08:49:04Z",
+    "nameWithOwner": "savente93/zola.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin",
+      "ssg",
+      "zola",
+      "zola-website",
+      "neovim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zola.nvim",
+  "owner": "savente93",
+  "url": "https://github.com/savente93/zola.nvim"
+}

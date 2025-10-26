@@ -17,20 +17,34 @@
       ],
       "file": "filer.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "File Explorer"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 37,
     "createdAt": "2022-07-08T05:10:02Z",
     "description": "Emacs dired like file manager for neovim",
     "isArchived": false,
-    "lastCommit": "2024-10-02T23:21:38Z",
+    "lastCommit": "2025-09-24T18:32:43Z",
     "nameWithOwner": "X3eRo0/dired.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 158,
+    "star": 166,
     "topics": [
       "neovim-plugin"
     ]

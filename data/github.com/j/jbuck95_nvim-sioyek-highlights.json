@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-08-08T14:52:33Z",
+    "description": "Search and insert Highlights made in Sioyek directly in nvim. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T21:54:58Z",
+    "nameWithOwner": "jbuck95/nvim-sioyek-highlights",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-sioyek-highlights",
+  "owner": "jbuck95",
+  "url": "https://github.com/jbuck95/nvim-sioyek-highlights"
+}

@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-08-12T14:52:21Z",
+    "description": "Track the marks via neo-tree!",
+    "isArchived": false,
+    "lastCommit": "2025-08-16T10:20:32Z",
+    "nameWithOwner": "ZachVec/neo-tree-mark.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neo-tree-mark.nvim",
+  "owner": "ZachVec",
+  "url": "https://github.com/ZachVec/neo-tree-mark.nvim"
+}

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "OCaml"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2025-08-21T14:30:34Z",
+    "description": "A comprehensive Neovim plugin for OCaml development with intelligent sandbox detection, LSP integration, and comprehensive filetype support.",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T15:37:04Z",
+    "nameWithOwner": "syaiful6/ocaml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "ocaml"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ocaml.nvim",
+  "owner": "syaiful6",
+  "url": "https://github.com/syaiful6/ocaml.nvim"
+}

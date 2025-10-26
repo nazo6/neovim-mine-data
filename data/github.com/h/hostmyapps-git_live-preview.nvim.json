@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Node"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-10-09T12:21:25Z",
+    "description": "preview plugin for (neo)vim",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T13:23:48Z",
+    "nameWithOwner": "hostmyapps-git/live-preview.nvim",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "live-preview.nvim",
+  "owner": "hostmyapps-git",
+  "url": "https://github.com/hostmyapps-git/live-preview.nvim"
+}

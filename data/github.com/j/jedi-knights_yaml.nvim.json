@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "YAML"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-22T14:24:18Z",
+    "description": "Neovim plugin that exposes a full-featured YAML parsing API for Lua -- read, write, and manipulate YAML safely inside Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-22T14:39:17Z",
+    "nameWithOwner": "jedi-knights/yaml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yaml.nvim",
+  "owner": "jedi-knights",
+  "url": "https://github.com/jedi-knights/yaml.nvim"
+}

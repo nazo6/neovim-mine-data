@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 288,
+    "createdAt": "2025-04-03T06:01:59Z",
+    "description": "A blueprint/template/guide to customize Neovim's UI using Lua.",
+    "isArchived": false,
+    "lastCommit": "2025-09-22T11:20:13Z",
+    "nameWithOwner": "OXY2DEV/ui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 148,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ui.nvim",
+  "owner": "OXY2DEV",
+  "url": "https://github.com/OXY2DEV/ui.nvim"
+}

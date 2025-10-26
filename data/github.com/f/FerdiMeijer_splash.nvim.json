@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup screen (DashBoard)"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-05-25T11:04:00Z",
+    "description": "Configurable Neovim startup/splashscreen",
+    "isArchived": false,
+    "lastCommit": "2025-08-30T15:40:24Z",
+    "nameWithOwner": "FerdiMeijer/splash.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "splash.nvim",
+  "owner": "FerdiMeijer",
+  "url": "https://github.com/FerdiMeijer/splash.nvim"
+}

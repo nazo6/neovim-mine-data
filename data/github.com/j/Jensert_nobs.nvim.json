@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Command style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-09-10T19:06:58Z",
+    "description": "A no-bs buildsystem plugin to use with neovim. Also usable for other shell commands.",
+    "isArchived": false,
+    "lastCommit": "2025-09-16T13:24:54Z",
+    "nameWithOwner": "Jensert/nobs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nobs.nvim",
+  "owner": "Jensert",
+  "url": "https://github.com/Jensert/nobs.nvim"
+}

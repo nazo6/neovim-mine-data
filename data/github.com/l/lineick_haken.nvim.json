@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "jumplist"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-07-19T13:21:28Z",
+    "description": "Superduper jumplist plugin",
+    "isArchived": false,
+    "lastCommit": "2025-07-29T13:27:58Z",
+    "nameWithOwner": "lineick/haken.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "haken.nvim",
+  "owner": "lineick",
+  "url": "https://github.com/lineick/haken.nvim"
+}

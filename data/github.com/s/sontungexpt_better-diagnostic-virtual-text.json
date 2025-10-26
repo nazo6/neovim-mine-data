@@ -46,7 +46,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 78,
+    "commitCountLastYear": 0,
     "createdAt": "2024-07-06T12:09:27Z",
     "description": "Enhances the display of virtual text for diagnostics in Neovim. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.",
     "isArchived": false,
@@ -56,7 +56,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 79,
+    "star": 93,
     "topics": [
       "diagnostic",
       "lua",

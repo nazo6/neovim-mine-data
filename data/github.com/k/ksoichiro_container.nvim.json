@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "VS Code features"
+        },
+        {
+          "level": 3,
+          "name": "Devcontainer"
+        }
+      ],
+      "file": "vscode-features.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 195,
+    "createdAt": "2025-06-19T14:46:39Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-31T16:12:54Z",
+    "nameWithOwner": "ksoichiro/container.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "container.nvim",
+  "owner": "ksoichiro",
+  "url": "https://github.com/ksoichiro/container.nvim"
+}

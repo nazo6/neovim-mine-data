@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Encrypt"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-06-28T08:01:58Z",
+    "description": "FCrypt is a Neovim plugin to encrypt/decrypt files",
+    "isArchived": false,
+    "lastCommit": "2025-07-12T14:42:13Z",
+    "nameWithOwner": "iharkatkavets/fcrypt.nvim",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 1,
+    "topics": [
+      "encryption",
+      "nvim-plugin",
+      "xchacha20"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fcrypt.nvim",
+  "owner": "iharkatkavets",
+  "url": "https://github.com/iharkatkavets/fcrypt.nvim"
+}

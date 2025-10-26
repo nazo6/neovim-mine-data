@@ -24,21 +24,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 110,
+    "commitCountLastYear": 143,
     "createdAt": "2025-03-10T14:38:52Z",
     "description": "What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!",
     "isArchived": false,
-    "lastCommit": "2025-04-20T08:42:03Z",
+    "lastCommit": "2025-07-16T11:53:38Z",
     "nameWithOwner": "miroshQa/debugmaster.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19,
+    "star": 338,
     "topics": [
       "debugging",
       "neovim-lua-plugin",
-      "neovim-plugin"
+      "neovim-plugin",
+      "nvim-dap",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

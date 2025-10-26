@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-08-17T09:09:07Z",
+    "description": "Dap profiler tool to manage Dap debugging profiles interactively",
+    "isArchived": false,
+    "lastCommit": "2025-09-23T08:25:43Z",
+    "nameWithOwner": "deahtstroke/dap-profiler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dap-profiler.nvim",
+  "owner": "deahtstroke",
+  "url": "https://github.com/deahtstroke/dap-profiler.nvim"
+}

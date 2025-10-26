@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 62,
+    "createdAt": "2025-06-29T12:19:44Z",
+    "description": "Spatial buffer navigation for Neovim. Predictable order, fluid movement",
+    "isArchived": false,
+    "lastCommit": "2025-07-04T02:59:54Z",
+    "nameWithOwner": "emcassi/streamline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "streamline.nvim",
+  "owner": "emcassi",
+  "url": "https://github.com/emcassi/streamline.nvim"
+}

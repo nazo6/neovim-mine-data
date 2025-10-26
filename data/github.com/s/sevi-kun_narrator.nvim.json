@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Speech"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2024-04-26T19:07:31Z",
     "description": "Code-to-Speech plugin for neovim",
     "isArchived": false,

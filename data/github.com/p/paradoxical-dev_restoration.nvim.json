@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-07-09T19:18:52Z",
+    "description": "A simple session manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-12T01:14:36Z",
+    "nameWithOwner": "paradoxical-dev/restoration.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "restoration.nvim",
+  "owner": "paradoxical-dev",
+  "url": "https://github.com/paradoxical-dev/multi-session.nvim"
+}

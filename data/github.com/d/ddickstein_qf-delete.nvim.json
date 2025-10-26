@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-14T12:53:45Z",
+    "description": "Delete operator for quickfix list with undo support",
+    "isArchived": false,
+    "lastCommit": "2025-06-09T18:32:18Z",
+    "nameWithOwner": "ddickstein/qf-delete.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qf-delete.nvim",
+  "owner": "ddickstein",
+  "url": "https://github.com/ddickstein/qf-delete.nvim"
+}

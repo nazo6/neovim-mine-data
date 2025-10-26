@@ -8,17 +8,20 @@
         },
         {
           "level": 2,
-          "name": "Conceal"
+          "name": "Highlight"
+        },
+        {
+          "level": 3,
+          "name": "Dim"
         }
       ],
-      "file": "fold.md",
+      "file": "syntax_highlight.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 0,
     "createdAt": "2023-10-01T22:27:05Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2023-10-03T21:27:51Z",
     "nameWithOwner": "nvim-jo/conceal.nvim",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": ":make style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-08-10T11:51:15Z",
+    "description": "a simple make wrapper with command argument completion",
+    "isArchived": false,
+    "lastCommit": "2025-08-14T19:35:08Z",
+    "nameWithOwner": "SteveRohrlack/make.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "make.nvim",
+  "owner": "SteveRohrlack",
+  "url": "https://github.com/SteveRohrlack/make.nvim"
+}

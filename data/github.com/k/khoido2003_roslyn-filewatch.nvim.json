@@ -1,0 +1,59 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C#"
+        },
+        {
+          "level": 5,
+          "name": "Compile"
+        },
+        {
+          "level": 6,
+          "name": "Roslyn"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 64,
+    "createdAt": "2025-09-02T17:15:38Z",
+    "description": "File watcher for Roslyn LSP in Neovim (C#)",
+    "isArchived": false,
+    "lastCommit": "2025-09-15T08:49:55Z",
+    "nameWithOwner": "khoido2003/roslyn-filewatch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "file-watcher",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "roslyn",
+      "csharp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "roslyn-filewatch.nvim",
+  "owner": "khoido2003",
+  "url": "https://github.com/khoido2003/roslyn-filewatch.nvim"
+}

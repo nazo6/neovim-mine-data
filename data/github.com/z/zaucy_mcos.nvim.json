@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Select"
+        },
+        {
+          "level": 3,
+          "name": "Multi Cursor"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-05-16T23:39:30Z",
+    "description": "Multicursor on select neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2025-05-16T23:51:40Z",
+    "nameWithOwner": "zaucy/mcos.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "multicursor",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mcos.nvim",
+  "owner": "zaucy",
+  "url": "https://github.com/zaucy/mcos.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "mark note"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-09-28T09:27:59Z",
+    "description": "Harpoon-style line-level bookmarks with notes — jumps to exact file + line + column.",
+    "isArchived": false,
+    "lastCommit": "2025-09-28T11:14:37Z",
+    "nameWithOwner": "nisidabay/code-notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-notes.nvim",
+  "owner": "nisidabay",
+  "url": "https://github.com/nisidabay/code-notes.nvim"
+}

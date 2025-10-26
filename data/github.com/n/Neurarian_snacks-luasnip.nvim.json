@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        },
+        {
+          "level": 4,
+          "name": "Snippet view"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-08-13T14:12:56Z",
+    "description": "A custom snacks.nvim picker extension for LuaSnip snippets",
+    "isArchived": false,
+    "lastCommit": "2025-09-05T23:27:22Z",
+    "nameWithOwner": "Neurarian/snacks-luasnip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "luasnip",
+      "nvim",
+      "snacks",
+      "snippets",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-luasnip.nvim",
+  "owner": "Neurarian",
+  "url": "https://github.com/Neurarian/snacks-luasnip.nvim"
+}

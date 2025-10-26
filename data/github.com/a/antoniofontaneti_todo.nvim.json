@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-08-04T05:15:47Z",
+    "description": "Buffer todo plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T22:03:23Z",
+    "nameWithOwner": "antoniofontaneti/todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "antoniofontaneti",
+  "url": "https://github.com/antoniofontaneti/todo.nvim"
+}

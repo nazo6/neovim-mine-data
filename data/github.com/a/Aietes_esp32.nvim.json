@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Embedded Software"
+        },
+        {
+          "level": 4,
+          "name": "ESP32"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-04-29T17:33:44Z",
+    "description": "ESP32 development helper for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-09T08:07:32Z",
+    "nameWithOwner": "Aietes/esp32.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "esp32.nvim",
+  "owner": "Aietes",
+  "url": "https://github.com/Aietes/esp32.nvim"
+}

@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Code outline"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
         },
         {
@@ -17,34 +31,20 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "Code outline"
-        }
-      ],
-      "file": "code-outline.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 117,
+    "commitCountLastYear": 66,
     "createdAt": "2023-10-31T12:14:07Z",
     "description": "Navigate code with an outline sidebar. Forked from symbols-outline.nvim. ",
     "isArchived": false,
-    "lastCommit": "2025-04-19T13:11:00Z",
+    "lastCommit": "2025-09-07T15:11:38Z",
     "nameWithOwner": "hedyhli/outline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 785,
+    "star": 891,
     "topics": [
       "lsp",
       "lua",

@@ -2,35 +2,23 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Test"
-        },
-        {
-          "level": 3,
-          "name": "Neotest adapter"
-        }
       ],
-      "file": "test.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 28,
     "createdAt": "2022-07-23T18:43:31Z",
     "description": "Neotest adapter for Rust, using cargo-nextest.",
-    "isArchived": false,
-    "lastCommit": "2024-12-18T01:11:06Z",
+    "isArchived": true,
+    "lastCommit": "2025-08-19T15:54:25Z",
     "nameWithOwner": "rouge8/neotest-rust",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 96,
+    "star": 101,
     "topics": [
       "neovim",
       "neovim-plugin",

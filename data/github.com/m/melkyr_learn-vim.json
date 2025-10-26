@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tutorial"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 99,
+    "createdAt": "2025-04-23T20:23:06Z",
+    "description": "Plugin for neovim just focused on learning it.",
+    "isArchived": false,
+    "lastCommit": "2025-10-15T13:57:41Z",
+    "nameWithOwner": "melkyr/learn-vim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "documentation",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "tutorial-exercises",
+      "tutorials",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "learn-vim",
+  "owner": "melkyr",
+  "url": "https://github.com/melkyr/learn-vim"
+}

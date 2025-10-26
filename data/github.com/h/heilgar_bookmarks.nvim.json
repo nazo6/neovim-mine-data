@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 23,
     "createdAt": "2025-01-06T02:52:50Z",
     "description": "A Neovim plugin for managing line bookmarks with Telescope integration and SQLite storage. Mark, organize, and quickly navigate between important locations in your codebase.",
     "isArchived": false,
-    "lastCommit": "2025-04-05T20:11:20Z",
+    "lastCommit": "2025-07-25T14:56:31Z",
     "nameWithOwner": "heilgar/bookmarks.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 24,
     "topics": [
       "nvim",
       "nvim-lua",

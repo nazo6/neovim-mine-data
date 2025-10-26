@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Lua"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-03-02T22:10:57Z",
+    "description": "🌱 [NEED UPDATE DO NOT USE] Neovim plugin to preview markdown files in your browser.",
+    "isArchived": false,
+    "lastCommit": "2025-07-18T11:36:38Z",
+    "nameWithOwner": "SamiSuleiman/murk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "murk.nvim",
+  "owner": "SamiSuleiman",
+  "url": "https://github.com/AntennaTower/murk.nvim"
+}

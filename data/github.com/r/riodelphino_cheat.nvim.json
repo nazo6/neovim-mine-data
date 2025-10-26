@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Help"
-        },
-        {
-          "level": 3,
-          "name": "CheatSheet"
-        }
       ],
-      "file": "help.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2023-08-07T23:17:56Z",
     "description": "Quick cheatsheet viewer plugin for nvim.",
-    "isArchived": false,
-    "lastCommit": "2025-01-11T19:18:25Z",
+    "isArchived": true,
+    "lastCommit": "2025-07-05T17:23:23Z",
     "nameWithOwner": "riodelphino/cheat.nvim",
     "primaryLanguage": {
       "color": "#000080",

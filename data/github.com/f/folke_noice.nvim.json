@@ -44,10 +44,10 @@
         },
         {
           "level": 2,
-          "name": "Command Line UI"
+          "name": "Appearance"
         }
       ],
-      "file": "commandline.md",
+      "file": "appearance.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -66,17 +66,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 241,
+    "commitCountLastYear": 87,
     "createdAt": "2022-09-21T19:32:33Z",
     "description": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
     "isArchived": false,
-    "lastCommit": "2025-02-11T19:02:05Z",
+    "lastCommit": "2025-10-21T05:09:08Z",
     "nameWithOwner": "folke/noice.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4920,
+    "star": 5397,
     "topics": [
       "neovim-lua-plugin",
       "neovim-plugin",

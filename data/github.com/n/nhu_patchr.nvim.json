@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Git"
-        },
-        {
-          "level": 3,
-          "name": "git patch"
-        }
       ],
-      "file": "git-github.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,14 +11,14 @@
     "commitCountLastYear": 2,
     "createdAt": "2025-04-05T12:22:07Z",
     "description": "A neovim plugin to apply git patches to plugins loaded via lazy.nvim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-04-19T08:28:25Z",
     "nameWithOwner": "nhu/patchr.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9,
+    "star": 16,
     "topics": [
     ]
   },

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Multiple word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-12T10:29:03Z",
+    "description": "Add colors to your buffers - buffon.nvim extension",
+    "isArchived": false,
+    "lastCommit": "2025-05-12T10:33:34Z",
+    "nameWithOwner": "TheLazyCat00/buffon-colors.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffon-colors.nvim",
+  "owner": "TheLazyCat00",
+  "url": "https://github.com/TheLazyCat00/buffon-colors.nvim"
+}

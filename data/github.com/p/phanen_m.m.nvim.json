@@ -11,7 +11,7 @@
           "name": "Keymap"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "map function utiliy"
         }
       ],
@@ -20,9 +20,9 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2024-08-30T16:57:16Z",
-    "description": null,
+    "description": "metatable sucks...",
     "isArchived": false,
     "lastCommit": "2024-10-15T01:24:09Z",
     "nameWithOwner": "phanen/m.m.nvim",
@@ -32,7 +32,9 @@
     },
     "star": 2,
     "topics": [
-      "neovim-plugin"
+      "neovim-plugin",
+      "keymap",
+      "metatable"
     ]
   },
   "domain": "github.com",

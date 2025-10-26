@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Tidal"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-07-12T02:06:42Z",
+    "description": "A very unsophisticated nvim plugin for [TidalCycles](https://tidalcycles.org/)",
+    "isArchived": false,
+    "lastCommit": "2025-07-12T02:15:56Z",
+    "nameWithOwner": "JamieBeverley/nvim-tidal",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tidal",
+  "owner": "JamieBeverley",
+  "url": "https://github.com/JamieBeverley/nvim-tidal"
+}

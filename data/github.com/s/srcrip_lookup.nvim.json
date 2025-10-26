@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Definition"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-08-17T15:46:37Z",
+    "description": "Improved go-to-definition features for Neovim based on the Doom emacs package 'lookup' and the emacs package 'dumb-jump'",
+    "isArchived": false,
+    "lastCommit": "2025-08-27T05:33:08Z",
+    "nameWithOwner": "srcrip/lookup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lookup.nvim",
+  "owner": "srcrip",
+  "url": "https://github.com/srcrip/lookup.nvim"
+}

@@ -1,0 +1,60 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 50,
+    "createdAt": "2023-04-24T13:28:12Z",
+    "description": "Generic log syntax highlighting and log filetype management for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-11T16:20:09Z",
+    "nameWithOwner": "fei6409/log-highlight.nvim",
+    "primaryLanguage": {
+      "color": "#199f4b",
+      "name": "Vim Script"
+    },
+    "star": 126,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "syntax-highlighting",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "log-highlight.nvim",
+  "owner": "fei6409",
+  "url": "https://github.com/fei6409/log-highlight.nvim"
+}

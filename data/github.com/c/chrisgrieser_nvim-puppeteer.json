@@ -30,22 +30,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 42,
+    "commitCountLastYear": 32,
     "createdAt": "2023-09-18T12:48:34Z",
     "description": "Automatically convert strings to f-strings or template strings and back.",
     "isArchived": false,
-    "lastCommit": "2025-04-12T09:36:31Z",
+    "lastCommit": "2025-10-13T20:01:03Z",
     "nameWithOwner": "chrisgrieser/nvim-puppeteer",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 67,
+    "star": 70,
     "topics": [
       "f-strings",
       "nvim-plugin",
       "string-manipulation",
-      "template-strings"
+      "template-strings",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

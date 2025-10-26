@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "Code generate"
+          "name": "CodeCompanion"
         }
       ],
       "file": "ai.md",
@@ -30,28 +30,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1546,
+    "commitCountLastYear": 1404,
     "createdAt": "2023-12-27T17:32:51Z",
-    "description": "✨ AI-powered coding, seamlessly in Neovim",
+    "description": "✨ AI Coding, Vim Style",
     "isArchived": false,
-    "lastCommit": "2025-04-20T09:28:14Z",
+    "lastCommit": "2025-10-25T08:01:10Z",
     "nameWithOwner": "olimorris/codecompanion.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3290,
+    "star": 5521,
     "topics": [
       "neovim",
       "openai",
-      "nvim-plugin",
       "anthropic",
       "ollama",
       "plugin",
       "copilot",
       "copilot-chat",
-      "claude",
-      "gemini"
+      "gemini",
+      "google-gemini",
+      "llm"
     ]
   },
   "domain": "github.com",

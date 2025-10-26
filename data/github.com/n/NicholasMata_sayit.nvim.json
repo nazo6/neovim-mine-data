@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        },
+        {
+          "level": 4,
+          "name": "say"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-08-09T13:00:22Z",
+    "description": "A simple no dependency text to speech for neovim (MacOS Only)",
+    "isArchived": false,
+    "lastCommit": "2025-08-09T14:37:34Z",
+    "nameWithOwner": "NicholasMata/sayit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sayit.nvim",
+  "owner": "NicholasMata",
+  "url": "https://github.com/NicholasMata/sayit.nvim"
+}

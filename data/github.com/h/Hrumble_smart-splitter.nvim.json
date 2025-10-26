@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "[Split / Join](./split_join.md)"
+        }
+      ],
+      "file": "split_join.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-15T19:10:53Z",
+    "description": "For when you don't want to worry about which direction to split in",
+    "isArchived": false,
+    "lastCommit": "2025-05-15T19:39:06Z",
+    "nameWithOwner": "Hrumble/smart-splitter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-splitter.nvim",
+  "owner": "Hrumble",
+  "url": "https://github.com/Hrumble/smart-splitter.nvim"
+}

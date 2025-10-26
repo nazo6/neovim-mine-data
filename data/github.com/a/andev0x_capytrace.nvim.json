@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2025-07-08T10:54:12Z",
+    "description": "capytrace.nvim is a lightweight Neovim plugin that automatically captures and organizes your debugging journey in real time — across terminal commands, file edits, and code hops.",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T01:59:03Z",
+    "nameWithOwner": "andev0x/capytrace.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 6,
+    "topics": [
+      "debug",
+      "nvim-plugin",
+      "plugins",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "capytrace.nvim",
+  "owner": "andev0x",
+  "url": "https://github.com/andev0x/capytrace.nvim"
+}

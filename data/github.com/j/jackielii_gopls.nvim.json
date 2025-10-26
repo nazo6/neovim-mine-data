@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-05-06T09:16:26Z",
+    "description": "gopls commands for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-16T18:18:42Z",
+    "nameWithOwner": "jackielii/gopls.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gopls.nvim",
+  "owner": "jackielii",
+  "url": "https://github.com/jackielii/gopls.nvim"
+}

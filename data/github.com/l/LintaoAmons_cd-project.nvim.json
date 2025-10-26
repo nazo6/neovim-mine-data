@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -34,18 +34,19 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 24,
     "createdAt": "2024-01-21T05:57:24Z",
     "description": "I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.",
     "isArchived": false,
-    "lastCommit": "2025-03-12T14:33:35Z",
+    "lastCommit": "2025-05-18T01:04:43Z",
     "nameWithOwner": "LintaoAmons/cd-project.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 117,
+    "star": 123,
     "topics": [
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

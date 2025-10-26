@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Checker"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "init.lua(vimrc)"
         }
       ],
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 56,
+    "commitCountLastYear": 2,
     "createdAt": "2024-01-23T16:34:38Z",
     "description": "Neovim plugin to update your current distro from its github remote",
     "isArchived": false,
-    "lastCommit": "2024-09-24T14:29:08Z",
+    "lastCommit": "2025-08-11T10:35:55Z",
     "nameWithOwner": "Zeioth/distroupdate.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 10,
     "topics": [
       "neovim-plugin",
       "neovim-plugins",

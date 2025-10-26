@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "PHP"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "php.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-08-09T21:55:45Z",
+    "description": "Use PHP Tinker (Psysh) from within Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-10T17:27:57Z",
+    "nameWithOwner": "tylerdak/php-tinker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "php-tinker.nvim",
+  "owner": "tylerdak",
+  "url": "https://github.com/tylerdak/php-tinker.nvim"
+}

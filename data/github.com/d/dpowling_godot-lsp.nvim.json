@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Godot"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-21T10:02:43Z",
+    "description": "Neovim plugin that provides connection with the Godot 4.x provided LSP",
+    "isArchived": false,
+    "lastCommit": "2025-09-21T10:38:21Z",
+    "nameWithOwner": "dpowling/godot-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "godot-lsp.nvim",
+  "owner": "dpowling",
+  "url": "https://github.com/dpowling/godot-lsp.nvim"
+}

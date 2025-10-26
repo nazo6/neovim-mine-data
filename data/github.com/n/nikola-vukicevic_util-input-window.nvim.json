@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-28T15:45:46Z",
+    "description": "Utility window for vim.ui.input ",
+    "isArchived": false,
+    "lastCommit": "2025-04-29T07:38:55Z",
+    "nameWithOwner": "nikola-vukicevic/util-input-window.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "util-input-window.nvim",
+  "owner": "nikola-vukicevic",
+  "url": "https://github.com/nikola-vukicevic/util-input-window.nvim"
+}

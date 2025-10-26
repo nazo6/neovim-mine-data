@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2022-04-13T05:34:15Z",
     "description": "A port of the Vim plugin vim-lastplace. It uses the same logic as vim-lastplace, but leverages the Neovim Lua API.",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 62,
+    "star": 68,
     "topics": [
     ]
   },

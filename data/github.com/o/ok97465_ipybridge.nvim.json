@@ -1,0 +1,60 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Code Runner"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2021-12-28T21:31:38Z",
+    "description": "Neovim plugin that launches a Jupyter/IPython console in a split to run files, lines, and Spyder‑IDE‑style runcells, with a ZMQ‑powered variable explorer and data viewer.",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T12:56:27Z",
+    "nameWithOwner": "ok97465/ipybridge.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "ipython",
+      "jupyter",
+      "spyder-ide",
+      "variable-explorer",
+      "runcell",
+      "code-runner",
+      "data-viewer",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ipybridge.nvim",
+  "owner": "ok97465",
+  "url": "https://github.com/ok97465/ipybridge.nvim"
+}

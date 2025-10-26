@@ -7,7 +7,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Call Hierarchy"
         }
       ],
@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2024-02-25T18:12:29Z",
     "description": "Neovim plugin generating interactive ascii call graph.",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 6,
     "topics": [
     ]
   },

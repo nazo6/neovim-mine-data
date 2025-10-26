@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "make"
+        },
+        {
+          "level": 5,
+          "name": "cbuild"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-20T12:23:38Z",
+    "description": "Neovim plugin to integrate with cbuild",
+    "isArchived": false,
+    "lastCommit": "2025-05-29T01:38:16Z",
+    "nameWithOwner": "pradeepa-s/cbuild.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cbuild.nvim",
+  "owner": "pradeepa-s",
+  "url": "https://github.com/pradeepa-s/cbuild.nvim"
+}

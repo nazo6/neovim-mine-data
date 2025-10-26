@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "YAML"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 102,
+    "createdAt": "2025-04-27T13:23:24Z",
+    "description": "A Neovim plugin for quickly navigating YAML files using Telescope.",
+    "isArchived": false,
+    "lastCommit": "2025-06-19T09:45:55Z",
+    "nameWithOwner": "DmarshalTU/yaml-jumper",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "plugin",
+      "telescope",
+      "yaml"
+    ]
+  },
+  "domain": "github.com",
+  "name": "yaml-jumper",
+  "owner": "DmarshalTU",
+  "url": "https://github.com/DmarshalTU/yaml-jumper"
+}

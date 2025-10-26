@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 54,
     "createdAt": "2025-04-07T19:44:22Z",
     "description": "A simple Neovim plugin (with blink.cmp integration) to manage LSP-style snippets",
     "isArchived": false,
-    "lastCommit": "2025-04-14T12:25:04Z",
+    "lastCommit": "2025-08-21T10:46:40Z",
     "nameWithOwner": "steschwa/snipman.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,9 @@
     },
     "star": 1,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "snippets"
     ]
   },
   "domain": "github.com",

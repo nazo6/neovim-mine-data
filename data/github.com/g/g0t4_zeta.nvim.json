@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Zed"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 602,
+    "createdAt": "2025-04-25T14:14:35Z",
+    "description": "A proof of concept for using Zed's Zeta model for predictions in neovim too!",
+    "isArchived": false,
+    "lastCommit": "2025-06-13T18:53:21Z",
+    "nameWithOwner": "g0t4/zeta.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zeta.nvim",
+  "owner": "g0t4",
+  "url": "https://github.com/g0t4/zeta.nvim"
+}

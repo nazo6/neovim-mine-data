@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-06-08T08:19:58Z",
+    "description": "Simple database viewer and editor for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-22T12:14:06Z",
+    "nameWithOwner": "Spelis/nvim-dbview",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dbview",
+  "owner": "Spelis",
+  "url": "https://github.com/Spelis/nvim-dbview"
+}

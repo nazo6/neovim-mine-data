@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-06-06T15:25:42Z",
+    "description": "A lightweight, high-performance SQL formatter plugin for Neovim that leverages sql-formatter (Node.js) or sqlparse (Python) for optimal formatting results, with a Lua fallback for basic formatting.",
+    "isArchived": false,
+    "lastCommit": "2025-07-10T09:33:29Z",
+    "nameWithOwner": "andev0x/sql-formatter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "nvim-plugin",
+      "sql",
+      "sqlparse",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sql-formatter.nvim",
+  "owner": "andev0x",
+  "url": "https://github.com/andevgo/nvim-sqlformat"
+}

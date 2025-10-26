@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-08-20T19:08:51Z",
+    "description": ":seedling: tiny neovim plugin keeping your session safe",
+    "isArchived": false,
+    "lastCommit": "2025-08-21T16:50:22Z",
+    "nameWithOwner": "comfysage/nivvie.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nivvie.nvim",
+  "owner": "comfysage",
+  "url": "https://github.com/comfysage/nivvie.nvim"
+}

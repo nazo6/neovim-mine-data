@@ -1,0 +1,67 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Graph"
+        },
+        {
+          "level": 4,
+          "name": "Box drawing"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Picker"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-08-07T23:08:21Z",
+    "description": "Telescope.nvim picker for box drawing characters",
+    "isArchived": false,
+    "lastCommit": "2025-08-08T21:39:08Z",
+    "nameWithOwner": "nullromo/telescope-box-drawing.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-box-drawing.nvim",
+  "owner": "nullromo",
+  "url": "https://github.com/nullromo/telescope-box-drawing.nvim"
+}

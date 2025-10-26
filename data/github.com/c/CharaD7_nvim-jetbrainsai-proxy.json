@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "JetBrains AI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 134,
+    "createdAt": "2025-07-08T02:23:27Z",
+    "description": "JetBrains AI meets Neovim: A secure, proxy-integrated plugin for intelligent coding assistance, encrypted token handling, and a sleek developer-first UI.",
+    "isArchived": false,
+    "lastCommit": "2025-07-19T19:43:58Z",
+    "nameWithOwner": "CharaD7/nvim-jetbrainsai-proxy",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "ai",
+      "jetbrains",
+      "jetbrains-ai",
+      "jetbrains-ai-assistant",
+      "jetbrains-plugin",
+      "lua",
+      "neovim",
+      "proxy"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jetbrainsai-proxy",
+  "owner": "CharaD7",
+  "url": "https://github.com/CharaD7/nvim-jetbrainsai-proxy"
+}

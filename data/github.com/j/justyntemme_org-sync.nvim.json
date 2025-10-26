@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-10-16T16:08:09Z",
+    "description": "Sync git repository on load/save for orgfiles in nvim",
+    "isArchived": false,
+    "lastCommit": "2025-10-16T21:02:25Z",
+    "nameWithOwner": "justyntemme/org-sync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "org-sync.nvim",
+  "owner": "justyntemme",
+  "url": "https://github.com/justyntemme/org-sync.nvim"
+}

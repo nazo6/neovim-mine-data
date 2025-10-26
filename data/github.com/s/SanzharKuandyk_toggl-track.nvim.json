@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-09-10T11:49:17Z",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T07:02:32Z",
+    "nameWithOwner": "SanzharKuandyk/toggl-track.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-lua-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggl-track.nvim",
+  "owner": "SanzharKuandyk",
+  "url": "https://github.com/SanzharKuandyk/toggl-track.nvim"
+}

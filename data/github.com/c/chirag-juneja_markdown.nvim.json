@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Lua"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-09-02T14:07:16Z",
+    "description": "Lightweight Neovim plugin that provides live Markdown preview inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-11T09:27:24Z",
+    "nameWithOwner": "chirag-juneja/markdown.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown.nvim",
+  "owner": "chirag-juneja",
+  "url": "https://github.com/chirag-juneja/markdown.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 78,
+    "createdAt": "2025-05-31T01:51:46Z",
+    "description": "A Neovim plugin to generate intuitive glob patterns for searching with rg",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T00:07:56Z",
+    "nameWithOwner": "elanmed/rg-glob-builder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rg-glob-builder.nvim",
+  "owner": "elanmed",
+  "url": "https://github.com/ElanMedoff/rg-glob-builder.nvim"
+}

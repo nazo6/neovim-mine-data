@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Infra"
+        },
+        {
+          "level": 4,
+          "name": "ElasticSearch"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-09-08T09:05:28Z",
+    "description": "A Neovim plugin to develop Elasticsearch and Logstash pipelines with live results.",
+    "isArchived": false,
+    "lastCommit": "2025-09-13T17:42:39Z",
+    "nameWithOwner": "Oddly/elasticsearch-run.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "elasticsearch-run.nvim",
+  "owner": "Oddly",
+  "url": "https://github.com/Oddly/elasticsearch-run.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-09-23T04:16:29Z",
+    "description": "Runs the cursor-agent in a neovim window.",
+    "isArchived": false,
+    "lastCommit": "2025-09-23T15:54:25Z",
+    "nameWithOwner": "Loki-Astari/cursor",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cursor",
+  "owner": "Loki-Astari",
+  "url": "https://github.com/Loki-Astari/cursor"
+}

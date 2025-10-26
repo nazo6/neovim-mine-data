@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Sorter"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-10-22T17:01:21Z",
+    "description": "A high-performance, lightweight fuzzy sorter extension for Telescope",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T20:36:20Z",
+    "nameWithOwner": "kingShazor/telescope-fuzzy-sorter.nvim",
+    "primaryLanguage": {
+      "color": "#f34b7d",
+      "name": "C++"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-fuzzy-sorter.nvim",
+  "owner": "kingShazor",
+  "url": "https://github.com/kingShazor/telescope-fuzzy-sorter.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "typst"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2025-08-17T19:19:57Z",
+    "description": "Live typst preview directly in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-02T12:52:09Z",
+    "nameWithOwner": "al-kot/typst-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 39,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "typst"
+    ]
+  },
+  "domain": "github.com",
+  "name": "typst-preview.nvim",
+  "owner": "al-kot",
+  "url": "https://github.com/al-kot/typst-preview.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2025-07-18T22:56:27Z",
+    "description": "Neovim module for file templates",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T12:44:32Z",
+    "nameWithOwner": "Coding4Glory/modneo-templates.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "modneo-templates.nvim",
+  "owner": "Coding4Glory",
+  "url": "https://github.com/Coding4Glory/tiny-templates.nvim"
+}

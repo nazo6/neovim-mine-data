@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "Tree View"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 94,
+    "createdAt": "2025-09-17T03:22:38Z",
+    "description": "A simple file tree for Vim built with the tree cli",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T21:13:21Z",
+    "nameWithOwner": "elanmed/tree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tree.nvim",
+  "owner": "elanmed",
+  "url": "https://github.com/elanmed/tree.nvim"
+}

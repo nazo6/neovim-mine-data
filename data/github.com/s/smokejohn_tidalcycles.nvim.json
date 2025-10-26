@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Tidal"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-05-03T13:43:35Z",
+    "description": "modern tidalcycles lua plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-05-18T00:12:51Z",
+    "nameWithOwner": "smokejohn/tidalcycles.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tidalcycles.nvim",
+  "owner": "smokejohn",
+  "url": "https://github.com/smokejohn/tidalcycles.nvim"
+}

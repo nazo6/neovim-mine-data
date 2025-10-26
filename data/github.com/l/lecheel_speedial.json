@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Menu"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-07-22T14:46:45Z",
+    "description": "A lightweight and customizable speed-dial menu plugin for Neovim (Lua).",
+    "isArchived": false,
+    "lastCommit": "2025-07-24T13:20:35Z",
+    "nameWithOwner": "lecheel/speedial",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "speedial",
+  "owner": "lecheel",
+  "url": "https://github.com/lecheel/speedial"
+}

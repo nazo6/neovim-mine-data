@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+      ],
+      "file": "Archived.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-06-20T07:24:07Z",
+    "description": "Structural search and rewrite tool to locate and replace code inside Neovim using ast-grep",
+    "isArchived": true,
+    "lastCommit": "2025-09-05T06:35:03Z",
+    "nameWithOwner": "aekasitt/oxeye.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ast-grep",
+      "grep",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugin",
+      "syntax-aware",
+      "syntax-tree"
+    ]
+  },
+  "domain": "github.com",
+  "name": "oxeye.nvim",
+  "owner": "aekasitt",
+  "url": "https://github.com/aekasitt/oxeye.nvim"
+}

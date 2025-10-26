@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Task Runner"
+        },
+        {
+          "level": 4,
+          "name": "Biome"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-06-28T21:57:59Z",
+    "description": "Run biome's linter and send diagnostic to quickfix list in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-01T20:50:24Z",
+    "nameWithOwner": "AlexBeauchemin/biome-lint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "biomejs",
+      "linting",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "biome-lint.nvim",
+  "owner": "AlexBeauchemin",
+  "url": "https://github.com/AlexBeauchemin/biome-lint.nvim"
+}

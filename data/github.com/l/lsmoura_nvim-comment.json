@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-09-23T19:15:18Z",
+    "description": "nvim plugin to comment lines without multi-cursor",
+    "isArchived": false,
+    "lastCommit": "2025-09-23T21:01:46Z",
+    "nameWithOwner": "lsmoura/nvim-comment",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-comment",
+  "owner": "lsmoura",
+  "url": "https://github.com/lsmoura/nvim-comment"
+}

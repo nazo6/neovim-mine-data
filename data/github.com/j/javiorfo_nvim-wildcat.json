@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 21,
     "createdAt": "2023-02-02T02:22:57Z",
     "description": "Neovim plugin for deploying Java war (or ear) files on Tomcat, JBoss or Wildfly",
     "isArchived": false,
-    "lastCommit": "2024-10-26T13:30:30Z",
+    "lastCommit": "2025-08-13T21:14:25Z",
     "nameWithOwner": "javiorfo/nvim-wildcat",
     "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
+      "color": "#dea584",
+      "name": "Rust"
     },
-    "star": 19,
+    "star": 23,
     "topics": [
       "java",
       "jboss",
@@ -38,7 +38,10 @@
       "neovim",
       "neovim-plugin",
       "tomcat",
-      "wildfly"
+      "wildfly",
+      "gradle",
+      "rust",
+      "nvim-oxi"
     ]
   },
   "domain": "github.com",

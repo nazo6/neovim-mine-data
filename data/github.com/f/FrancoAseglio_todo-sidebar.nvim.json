@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-19T15:19:30Z",
+    "description": "A TODO sidebar for Neovim that helps you manage tasks without leaving your editor.",
+    "isArchived": false,
+    "lastCommit": "2025-06-20T08:00:54Z",
+    "nameWithOwner": "FrancoAseglio/todo-sidebar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-sidebar.nvim",
+  "owner": "FrancoAseglio",
+  "url": "https://github.com/FrancoAseglio/todo-sidebar.nvim"
+}

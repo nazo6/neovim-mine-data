@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Simplicity"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-09-05T06:44:13Z",
+    "description": "Language server protocol and syntax highlighter for Simplicity blockchain programming language",
+    "isArchived": false,
+    "lastCommit": "2025-09-05T19:09:38Z",
+    "nameWithOwner": "krutt/oxeye.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "oxeye.nvim",
+  "owner": "krutt",
+  "url": "https://github.com/krutt/oxeye.nvim"
+}

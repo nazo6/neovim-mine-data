@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Local server"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-10-11T10:15:16Z",
+    "description": "A tiny, zero-dependency local web server for Neovim — written in pure Lua with `vim.loop`. Start a server on any file or folder, auto-reload the browser on save, and quickly reopen existing ports.",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T11:51:58Z",
+    "nameWithOwner": "selimacerbas/live-server.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "live-server.nvim",
+  "owner": "selimacerbas",
+  "url": "https://github.com/selimacerbas/live-server.nvim"
+}

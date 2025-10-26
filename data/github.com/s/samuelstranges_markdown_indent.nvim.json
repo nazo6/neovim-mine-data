@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown header"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-07-02T05:12:06Z",
+    "description": "better indentation in markdown",
+    "isArchived": false,
+    "lastCommit": "2025-07-21T05:20:54Z",
+    "nameWithOwner": "samuelstranges/markdown_indent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown_indent.nvim",
+  "owner": "samuelstranges",
+  "url": "https://github.com/samuelstranges/markdown_indent.nvim"
+}

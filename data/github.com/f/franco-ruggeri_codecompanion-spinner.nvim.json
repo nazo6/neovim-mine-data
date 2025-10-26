@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2025-07-06T13:26:55Z",
+    "description": "Inline spinner for CodeCompanion in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-11T12:39:20Z",
+    "nameWithOwner": "franco-ruggeri/codecompanion-spinner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 43,
+    "topics": [
+      "ai",
+      "codecompanion",
+      "llm",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "vibe-coding"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-spinner.nvim",
+  "owner": "franco-ruggeri",
+  "url": "https://github.com/franco-ruggeri/codecompanion-spinner.nvim"
+}

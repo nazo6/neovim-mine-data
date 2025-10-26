@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 0,
     "createdAt": "2024-09-20T15:22:33Z",
     "description": "Neovim plugin for automaticaly passing extra context for LLM on code snippet copy to clipboard",
     "isArchived": false,
@@ -50,9 +50,9 @@
       "neovim-plugin",
       "nvim",
       "nvim-plugin",
-      "hacktoberfest",
-      "hacktoberfest-accepted",
-      "lua"
+      "lua",
+      "llm",
+      "vibe-coding"
     ]
   },
   "domain": "github.com",

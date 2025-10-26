@@ -20,18 +20,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 40,
     "createdAt": "2025-04-14T10:43:19Z",
-    "description": "Manage your containers (Podman, Docker, and more) directly from Neovim – with clean architecture, pluggable backends, and a TUI-native experience. ⚠️ Alpha Version – Breaking changes can and will happen.",
+    "description": "Manage your containers (Podman, Docker, and more) directly from Neovim – with clean architecture, pluggable backends, and a TUI-native experience.",
     "isArchived": false,
-    "lastCommit": "2025-04-14T17:02:43Z",
+    "lastCommit": "2025-06-16T23:11:31Z",
     "nameWithOwner": "StefanBartl/nvim-containers",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
+      "cli",
+      "container",
+      "container-engine",
+      "container-management",
+      "developer-tool",
+      "devops",
+      "docker",
+      "hexagonal-architecture",
+      "image-management",
+      "lazy-nvim"
     ]
   },
   "domain": "github.com",

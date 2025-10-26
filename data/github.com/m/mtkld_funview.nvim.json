@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Function"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-07T13:00:11Z",
+    "description": "Display function names in a buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-06-07T13:00:12Z",
+    "nameWithOwner": "mtkld/funview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "funview.nvim",
+  "owner": "mtkld",
+  "url": "https://github.com/mtkld/funview.nvim"
+}

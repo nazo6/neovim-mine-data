@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "CMake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 72,
+    "createdAt": "2025-09-12T07:53:48Z",
+    "description": "makes life easier when working with CMake projects in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-09T18:44:42Z",
+    "nameWithOwner": "thefoxery/cmake.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmake.nvim",
+  "owner": "thefoxery",
+  "url": "https://github.com/thefoxery/cmake.nvim"
+}

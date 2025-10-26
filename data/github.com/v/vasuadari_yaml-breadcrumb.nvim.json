@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "YAML"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-08T11:29:45Z",
+    "description": "A Neovim plugin that provides YAML breadcrumb navigation, showing the hierarchical path to your current position in YAML files.",
+    "isArchived": false,
+    "lastCommit": "2025-06-09T05:01:10Z",
+    "nameWithOwner": "vasuadari/yaml-breadcrumb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yaml-breadcrumb.nvim",
+  "owner": "vasuadari",
+  "url": "https://github.com/vasuadari/yaml-breadcrumb.nvim"
+}

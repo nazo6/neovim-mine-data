@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-07-20T21:22:47Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-20T21:28:15Z",
+    "nameWithOwner": "koskev/jsonnet-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jsonnet-tools.nvim",
+  "owner": "koskev",
+  "url": "https://github.com/koskev/jsonnet-tools.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pre-configuration"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-08-24T19:30:02Z",
+    "description": "Neovim plugin for config-lsp; LSP for your config files: gitconfig, fstab, aliases, hosts, wireguard, ssh_config, sshd_config, bitcoin_conf, and more to come!",
+    "isArchived": false,
+    "lastCommit": "2025-08-30T10:45:24Z",
+    "nameWithOwner": "Myzel394/config-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "config",
+      "language-server-protocol",
+      "lsp",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "config-lsp.nvim",
+  "owner": "Myzel394",
+  "url": "https://github.com/Myzel394/config-lsp.nvim"
+}

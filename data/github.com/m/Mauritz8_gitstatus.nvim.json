@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 109,
+    "createdAt": "2024-06-14T13:38:46Z",
+    "description": "Interactive Git status window in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-04-29T17:09:43Z",
+    "nameWithOwner": "Mauritz8/gitstatus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitstatus.nvim",
+  "owner": "Mauritz8",
+  "url": "https://github.com/Mauritz8/gitstatus.nvim"
+}

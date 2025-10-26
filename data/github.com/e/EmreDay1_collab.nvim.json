@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "VS Code features"
+        },
+        {
+          "level": 3,
+          "name": "Collaborative Editing"
+        }
+      ],
+      "file": "vscode-features.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-06-20T21:23:12Z",
+    "description": "2 people 1 text editor",
+    "isArchived": false,
+    "lastCommit": "2025-09-24T05:59:03Z",
+    "nameWithOwner": "EmreDay1/collab.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 13,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "collab.nvim",
+  "owner": "EmreDay1",
+  "url": "https://github.com/EmreDay1/collab.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-19T09:19:49Z",
+    "description": "A Neovim plugin that yanks code references in Claude AI's preferred format `@filename#L10-20`, making it seamless to share code context in conversations.",
+    "isArchived": false,
+    "lastCommit": "2025-06-20T01:50:09Z",
+    "nameWithOwner": "wasabeef/yank-for-claude.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "yank-for-claude.nvim",
+  "owner": "wasabeef",
+  "url": "https://github.com/wasabeef/yank-for-claude.nvim"
+}

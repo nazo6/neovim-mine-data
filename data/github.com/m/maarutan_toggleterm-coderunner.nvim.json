@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-01-15T12:41:54Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T21:42:24Z",
+    "nameWithOwner": "maarutan/toggleterm-coderunner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggleterm-coderunner.nvim",
+  "owner": "maarutan",
+  "url": "https://github.com/maarutan/betterRun.nvim"
+}

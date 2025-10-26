@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "lf wrapper"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-22T14:59:46Z",
+    "description": "snacks.nvim lf integration",
+    "isArchived": false,
+    "lastCommit": "2025-10-22T18:42:22Z",
+    "nameWithOwner": "jackielii/snacks-lf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lf",
+      "neovim-plugin",
+      "snacks-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-lf.nvim",
+  "owner": "jackielii",
+  "url": "https://github.com/jackielii/snacks-lf.nvim"
+}

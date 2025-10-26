@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -20,9 +20,8 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 5,
     "createdAt": "2024-06-08T11:03:24Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2025-04-18T18:25:19Z",
     "nameWithOwner": "truongnd98/project-manager.nvim",

@@ -9,6 +9,10 @@
         {
           "level": 2,
           "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "netrw"
         }
       ],
       "file": "filer.md",
@@ -30,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2022-10-02T20:58:29Z",
     "description": "It's not because we use netrw that we cannot have nice things! ",
     "isArchived": false,
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 234,
+    "star": 253,
     "topics": [
       "neovim-plugin",
       "neovim"

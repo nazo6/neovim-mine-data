@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Typing"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-10-20T10:38:19Z",
+    "description": "A typing practice plugin initialized from an existing buffer",
+    "isArchived": false,
+    "lastCommit": "2025-10-20T10:43:51Z",
+    "nameWithOwner": "RyanSaxe/buffergolf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffergolf.nvim",
+  "owner": "RyanSaxe",
+  "url": "https://github.com/RyanSaxe/buffergolf.nvim"
+}

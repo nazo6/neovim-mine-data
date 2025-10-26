@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-08-31T12:36:48Z",
+    "description": "Onto Debug is a neovim plugin designed to help debugging, testing (so debugging really) but not act as a full debugger protocol or a  testing framework. It's whole design point is also to run only on demand.",
+    "isArchived": false,
+    "lastCommit": "2025-10-04T17:42:38Z",
+    "nameWithOwner": "Okerew/od.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "debug",
+      "debugging",
+      "debugging-tool",
+      "framework",
+      "intellij",
+      "lua",
+      "neovim",
+      "tester",
+      "testing",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "od.nvim",
+  "owner": "Okerew",
+  "url": "https://github.com/Okerew/od.nvim"
+}

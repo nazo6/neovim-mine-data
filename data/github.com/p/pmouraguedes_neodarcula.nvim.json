@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-02-19T08:10:51Z",
+    "description": "A discrete color theme - based on Intellij's default dark theme - with support for transparency, dimming, LSP, treesitter and other plugins.",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T09:29:45Z",
+    "nameWithOwner": "pmouraguedes/neodarcula.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "colorcheme",
+      "intellij",
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-theme",
+      "vim",
+      "vim-colorscheme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neodarcula.nvim",
+  "owner": "pmouraguedes",
+  "url": "https://github.com/pmouraguedes/neodarcula.nvim"
+}

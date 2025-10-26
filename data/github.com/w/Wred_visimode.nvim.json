@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mode"
+        },
+        {
+          "level": 3,
+          "name": "Mode Viewer"
+        }
+      ],
+      "file": "mode.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-25T01:10:13Z",
+    "description": "Neovim plugin to make modes more visible.",
+    "isArchived": false,
+    "lastCommit": "2025-06-05T21:07:27Z",
+    "nameWithOwner": "Wred/visimode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "visimode.nvim",
+  "owner": "Wred",
+  "url": "https://github.com/Wred/visimode.nvim"
+}

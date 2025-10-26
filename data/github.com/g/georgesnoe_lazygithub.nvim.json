@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Features like gh"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-10-08T20:19:47Z",
+    "description": "a gh-lazy port for neovim | Even more lazier way to manage everything github related",
+    "isArchived": false,
+    "lastCommit": "2025-10-08T20:55:46Z",
+    "nameWithOwner": "georgesnoe/lazygithub.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazygithub.nvim",
+  "owner": "georgesnoe",
+  "url": "https://github.com/georgesnoe/lazygithub.nvim"
+}

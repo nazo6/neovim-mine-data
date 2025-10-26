@@ -1,0 +1,64 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "React"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Web Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-10-19T13:11:35Z",
+    "description": "A Neovim plugin that surfaces React 'use client' boundaries by marking JSX usages of client components via virtual text, with smart import resolution and auto-refresh.",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T16:57:55Z",
+    "nameWithOwner": "Kenzo-Wada/boundary.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "lua",
+      "neovim",
+      "react",
+      "neovim-plugin",
+      "jsx"
+    ]
+  },
+  "domain": "github.com",
+  "name": "boundary.nvim",
+  "owner": "Kenzo-Wada",
+  "url": "https://github.com/Kenzo-Wada/boundary.nvim"
+}

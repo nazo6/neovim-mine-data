@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Notification"
+        }
+      ],
+      "file": "message_notification.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-09-03T10:57:53Z",
+    "description": "Plugin to display an Activate Neovim message.",
+    "isArchived": false,
+    "lastCommit": "2025-09-09T12:43:27Z",
+    "nameWithOwner": "tjkuson/nvim-activate",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-activate",
+  "owner": "tjkuson",
+  "url": "https://github.com/tjkuson/nvim-activate"
+}

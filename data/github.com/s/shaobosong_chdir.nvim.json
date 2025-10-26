@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 10,
     "createdAt": "2025-03-07T07:31:54Z",
-    "description": null,
+    "description": "A Neovim plugin to visualize and navigate through the parent directories of the current working directory. It displays the directory path with indexed markers, allowing quick navigation to any parent directory by entering the corresponding index.",
     "isArchived": false,
-    "lastCommit": "2025-03-11T01:29:31Z",
+    "lastCommit": "2025-06-16T03:52:57Z",
     "nameWithOwner": "shaobosong/chdir.nvim",
     "primaryLanguage": {
       "color": "#000080",

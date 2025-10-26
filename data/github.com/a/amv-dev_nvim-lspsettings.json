@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "Local LSP Config"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-06-08T21:23:21Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-03T07:49:48Z",
+    "nameWithOwner": "amv-dev/nvim-lspsettings",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lspsettings",
+  "owner": "amv-dev",
+  "url": "https://github.com/amv-dev/nvim-lspsettings"
+}

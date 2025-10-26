@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "restore"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-08T05:28:43Z",
+    "description": "Delete and restore buffers like tabs in your favourite browser",
+    "isArchived": false,
+    "lastCommit": "2025-05-08T06:08:51Z",
+    "nameWithOwner": "mattpatterson94/bufferback.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferback.nvim",
+  "owner": "mattpatterson94",
+  "url": "https://github.com/mattpatterson94/bufferback.nvim"
+}

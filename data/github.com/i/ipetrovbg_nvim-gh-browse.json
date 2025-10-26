@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git open"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-07-22T19:00:52Z",
+    "description": "This plugin allows you to open GitHub repository from Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-08-03T11:33:07Z",
+    "nameWithOwner": "ipetrovbg/nvim-gh-browse",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gh-browse",
+  "owner": "ipetrovbg",
+  "url": "https://github.com/ipetrovbg/nvim-gh-browse"
+}

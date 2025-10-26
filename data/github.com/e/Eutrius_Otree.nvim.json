@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 62,
+    "createdAt": "2025-05-24T20:35:13Z",
+    "description": "A simple file tree system with oil.nvim integration",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T07:45:55Z",
+    "nameWithOwner": "Eutrius/Otree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+      "file-manager",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "Otree.nvim",
+  "owner": "Eutrius",
+  "url": "https://github.com/Eutrius/Otree.nvim"
+}

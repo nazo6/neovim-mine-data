@@ -38,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 1,
     "createdAt": "2023-03-06T21:32:53Z",
     "description": "Haskell syntax highlighting that considers variable scopes. Inspired from \"Context Coloring\" by prof. Douglas Crockford.",
     "isArchived": false,
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 25,
+    "star": 27,
     "topics": [
       "haskell",
       "neovim",

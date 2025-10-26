@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        },
+        {
+          "level": 4,
+          "name": "Codex"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-09-27T19:04:39Z",
+    "description": "A lightweight Neovim companion for the Codex CLI. It opens Codex inside a dedicated split or floating terminal, so you can send code snippets without leaving your editor.",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T18:12:19Z",
+    "nameWithOwner": "rhart92/codex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codex.nvim",
+  "owner": "rhart92",
+  "url": "https://github.com/rhart92/codex.nvim"
+}

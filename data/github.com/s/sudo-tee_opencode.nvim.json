@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenCode"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 223,
+    "createdAt": "2025-06-27T14:12:08Z",
+    "description": "neovim frontend for opencode - a terminal-based AI coding agent",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T11:32:58Z",
+    "nameWithOwner": "sudo-tee/opencode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 223,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "opencode.nvim",
+  "owner": "sudo-tee",
+  "url": "https://github.com/sudo-tee/opencode.nvim"
+}

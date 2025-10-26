@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ssh"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-06-08T08:56:48Z",
+    "description": "Execute commands on remote hosts via ssh and capture output into neovim… all from within neovim… and more",
+    "isArchived": false,
+    "lastCommit": "2025-06-11T06:54:49Z",
+    "nameWithOwner": "tfpickard/sshiv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "remote-access",
+      "remote-access-tool",
+      "ssh",
+      "ssh-client"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sshiv.nvim",
+  "owner": "tfpickard",
+  "url": "https://github.com/tfpickard/sshiv.nvim"
+}

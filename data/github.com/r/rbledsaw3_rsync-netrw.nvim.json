@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-08-18T00:56:07Z",
+    "description": "Mark files in netrw and upload them with rsync over SSH. ",
+    "isArchived": false,
+    "lastCommit": "2025-08-19T20:53:06Z",
+    "nameWithOwner": "rbledsaw3/rsync-netrw.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rsync-netrw.nvim",
+  "owner": "rbledsaw3",
+  "url": "https://github.com/rbledsaw3/rsync-netrw.nvim"
+}

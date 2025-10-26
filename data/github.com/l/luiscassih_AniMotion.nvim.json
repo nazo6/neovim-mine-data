@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 35,
     "createdAt": "2025-01-28T21:46:41Z",
     "description": "A Neovim plugin that implements selection-first text editing, similar to Kakoune and Helix editors. Lets you see your selection as you travel, allowing quick operations like change, delete, or yank. Works in normal mode with configurable selection modes.",
     "isArchived": false,
-    "lastCommit": "2025-02-13T19:08:57Z",
+    "lastCommit": "2025-05-19T16:30:32Z",
     "nameWithOwner": "luiscassih/AniMotion.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 26,
+    "star": 36,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

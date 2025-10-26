@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Audio"
+        },
+        {
+          "level": 4,
+          "name": "Text-to-speech"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-10-13T01:05:41Z",
+    "description": "A comprehensive text-to-speech plugin for Neovim with support for macOS native speech synthesis and OpenAI-compatible TTS endpoints.  This plugin allows you to have your text read aloud directly within Neovim. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-13T01:03:15Z",
+    "nameWithOwner": "chriswritescode-dev/tts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tts.nvim",
+  "owner": "chriswritescode-dev",
+  "url": "https://github.com/chriswritescode-dev/tts.nvim"
+}

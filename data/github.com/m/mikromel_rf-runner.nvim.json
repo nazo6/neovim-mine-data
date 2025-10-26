@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Robot"
+        },
+        {
+          "level": 4,
+          "name": "Robot framework"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-07-04T13:40:56Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-14T08:04:55Z",
+    "nameWithOwner": "mikromel/rf-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rf-runner.nvim",
+  "owner": "mikromel",
+  "url": "https://github.com/mikromel/rf-runner.nvim"
+}

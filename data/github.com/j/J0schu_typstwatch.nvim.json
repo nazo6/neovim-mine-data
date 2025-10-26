@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "typst"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-08-20T17:01:31Z",
+    "description": "Simple typst-watch plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-20T17:33:13Z",
+    "nameWithOwner": "J0schu/typstwatch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typstwatch.nvim",
+  "owner": "J0schu",
+  "url": "https://github.com/J0schu/typstwatch.nvim"
+}

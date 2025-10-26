@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-07-10T08:15:28Z",
+    "description": "Quick popup TODO list inside a neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-18T09:13:48Z",
+    "nameWithOwner": "MorkovnySok/todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "MorkovnySok",
+  "url": "https://github.com/MorkovnySok/todo.nvim"
+}

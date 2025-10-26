@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Solidity"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2025-09-16T21:21:25Z",
+    "description": "Neovim LSP plugin for Traverse",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T19:20:20Z",
+    "nameWithOwner": "calltrace/traverse-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "call-graph",
+      "code-analysis",
+      "neovim",
+      "neovim-plugin",
+      "solidi",
+      "solidity",
+      "solidity-con",
+      "static-analysis"
+    ]
+  },
+  "domain": "github.com",
+  "name": "traverse-lsp.nvim",
+  "owner": "calltrace",
+  "url": "https://github.com/calltrace/traverse-lsp.nvim"
+}

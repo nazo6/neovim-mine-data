@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Security"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Secrets"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 0,
     "createdAt": "2024-05-01T09:39:09Z",
     "description": "doppler integration into neovim",
     "isArchived": false,

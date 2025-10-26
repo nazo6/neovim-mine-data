@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Refactor / Builder"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-30T14:48:34Z",
+    "description": "Automatically generate a builder based on a java constructor",
+    "isArchived": false,
+    "lastCommit": "2025-08-30T14:47:43Z",
+    "nameWithOwner": "HSMF/java-builder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-builder.nvim",
+  "owner": "HSMF",
+  "url": "https://github.com/HSMF/java-builder.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-05-06T23:14:52Z",
+    "description": "nvim plugin for running programs ",
+    "isArchived": false,
+    "lastCommit": "2025-10-01T08:34:41Z",
+    "nameWithOwner": "Sinedka/trunner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "trunner.nvim",
+  "owner": "Sinedka",
+  "url": "https://github.com/Sinedka/trunner.nvim"
+}

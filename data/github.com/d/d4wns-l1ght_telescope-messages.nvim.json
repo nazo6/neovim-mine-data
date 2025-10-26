@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Message"
+        }
+      ],
+      "file": "message_notification.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-05-03T13:34:31Z",
+    "description": "Telescope.nvim messages picker.",
+    "isArchived": false,
+    "lastCommit": "2025-05-04T10:06:05Z",
+    "nameWithOwner": "d4wns-l1ght/telescope-messages.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-messages.nvim",
+  "owner": "d4wns-l1ght",
+  "url": "https://github.com/d4wns-l1ght/telescope-messages.nvim"
+}

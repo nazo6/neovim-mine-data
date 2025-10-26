@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenCode"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 536,
+    "createdAt": "2025-07-12T13:52:17Z",
+    "description": "Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T14:15:07Z",
+    "nameWithOwner": "NickvanDyke/opencode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 815,
+    "topics": [
+      "ai-agents",
+      "ai-assistant",
+      "neovim",
+      "nvim",
+      "opencode",
+      "plugin",
+      "terminal",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "opencode.nvim",
+  "owner": "NickvanDyke",
+  "url": "https://github.com/NickvanDyke/opencode.nvim"
+}

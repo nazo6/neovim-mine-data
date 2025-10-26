@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Clock"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 2,
     "createdAt": "2024-01-12T06:22:33Z",
     "description": "Simple pomodoro timer or clock for neovim",
     "isArchived": false,

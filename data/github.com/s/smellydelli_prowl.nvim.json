@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-08-21T20:09:01Z",
+    "description": "Lightning-fast access to your nvim buffers with single-key jumps. just press ;q to jump to buffer 'q', ;w for 'w', and so on.",
+    "isArchived": false,
+    "lastCommit": "2025-09-09T20:23:21Z",
+    "nameWithOwner": "smellydelli/prowl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "buffer-management",
+      "lazyvim",
+      "nvim-plugin",
+      "buffers",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "prowl.nvim",
+  "owner": "smellydelli",
+  "url": "https://github.com/smellydelli/prowl.nvim"
+}

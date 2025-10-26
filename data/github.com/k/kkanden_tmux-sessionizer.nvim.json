@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-05-19T17:37:04Z",
+    "isArchived": false,
+    "lastCommit": "2025-08-06T16:05:30Z",
+    "nameWithOwner": "kkanden/tmux-sessionizer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-sessionizer.nvim",
+  "owner": "kkanden",
+  "url": "https://github.com/kkanden/tmux-sessionizer.nvim"
+}

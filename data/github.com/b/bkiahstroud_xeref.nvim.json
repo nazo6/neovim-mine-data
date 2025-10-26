@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "reference"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-05-09T18:02:00Z",
+    "description": "A Neovim plugin for copying the reference to a method that the cursor is within",
+    "isArchived": false,
+    "lastCommit": "2025-05-11T04:39:19Z",
+    "nameWithOwner": "bkiahstroud/xeref.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "xeref.nvim",
+  "owner": "bkiahstroud",
+  "url": "https://github.com/bkiahstroud/xeref.nvim"
+}

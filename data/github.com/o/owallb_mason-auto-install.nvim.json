@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "LSP, DAP, linter, formatter"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-06-05T13:06:00Z",
+    "description": "Automatically install Mason packages on demand based on file types.",
+    "isArchived": false,
+    "lastCommit": "2025-06-08T19:57:14Z",
+    "nameWithOwner": "owallb/mason-auto-install.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "mason",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mason-auto-install.nvim",
+  "owner": "owallb",
+  "url": "https://github.com/owallb/mason-auto-install.nvim"
+}

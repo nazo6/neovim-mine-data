@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-17T08:38:12Z",
+    "description": "A QoL plugin that displays inline diffs between the previous and current buffer state, with intuitive navigation and change resolution.",
+    "isArchived": false,
+    "lastCommit": "2025-06-13T10:30:15Z",
+    "nameWithOwner": "yuukibarns/diffwatch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diffwatch.nvim",
+  "owner": "yuukibarns",
+  "url": "https://github.com/yuukibarns/diffwatch.nvim"
+}

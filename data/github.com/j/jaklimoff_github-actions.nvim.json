@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CI"
+        },
+        {
+          "level": 3,
+          "name": "GitHub Actions"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-12T16:37:25Z",
+    "description": " Browse GitHub Actions and logs directly from Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-13T09:20:36Z",
+    "nameWithOwner": "jaklimoff/github-actions.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "github-actions.nvim",
+  "owner": "jaklimoff",
+  "url": "https://github.com/jaklimoff/github-actions.nvim"
+}

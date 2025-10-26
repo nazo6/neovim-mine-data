@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-05-10T06:08:54Z",
+    "isArchived": false,
+    "lastCommit": "2025-05-17T05:30:25Z",
+    "nameWithOwner": "michhernand/simple-sqlfluff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-sqlfluff.nvim",
+  "owner": "michhernand",
+  "url": "https://github.com/michhernand/simple-sqlfluff.nvim"
+}

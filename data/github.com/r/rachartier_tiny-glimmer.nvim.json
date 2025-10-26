@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "Utility"
+          "name": "Animation"
         }
       ],
       "file": "README.md",
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 200,
+    "commitCountLastYear": 210,
     "createdAt": "2025-01-12T23:03:52Z",
     "description": "A tiny Neovim plugin that adds subtle animations to various operations.",
     "isArchived": false,
-    "lastCommit": "2025-03-07T15:00:49Z",
+    "lastCommit": "2025-09-04T20:19:40Z",
     "nameWithOwner": "rachartier/tiny-glimmer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 246,
+    "star": 292,
     "topics": [
       "neovim",
       "neovim-plugin",

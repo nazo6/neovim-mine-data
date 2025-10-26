@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "sign"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-12T17:12:00Z",
+    "description": "A Neovim plugin to display marks in the signcolumn.",
+    "isArchived": false,
+    "lastCommit": "2025-05-12T17:31:41Z",
+    "nameWithOwner": "bart-vd/visual-marks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "visual-marks.nvim",
+  "owner": "bart-vd",
+  "url": "https://github.com/bart-vd/visual-marks.nvim"
+}

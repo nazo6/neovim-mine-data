@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-07-20T05:49:17Z",
+    "description": "A Neovim plugin to spawn and manage multiple Claude Code CLI sessions with notification support.",
+    "isArchived": false,
+    "lastCommit": "2025-08-21T05:25:34Z",
+    "nameWithOwner": "qtnx/multiclaudecode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "claude-code",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "multiclaudecode.nvim",
+  "owner": "qtnx",
+  "url": "https://github.com/qtnx/multiclaudecode.nvim"
+}

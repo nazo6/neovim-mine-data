@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Project"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 61,
+    "createdAt": "2025-06-11T15:06:42Z",
+    "description": "A Neovim plugin that brings GitHub Projects v2 directly into your editor with a visual Kanban board interface.",
+    "isArchived": false,
+    "lastCommit": "2025-06-26T18:55:38Z",
+    "nameWithOwner": "Lucas-Henry/github-projects.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lazyvim",
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "github-projects.nvim",
+  "owner": "Lucas-Henry",
+  "url": "https://github.com/Lucas-Henry/github-projects.nvim"
+}

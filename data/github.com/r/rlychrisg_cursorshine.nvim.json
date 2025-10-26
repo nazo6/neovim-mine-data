@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 0,
     "createdAt": "2024-06-25T03:32:14Z",
     "description": "Keep track of cursor movements by briefly illuminating the cursor line and column.",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 7,
     "topics": [
       "neovim",
       "neovim-plugin"

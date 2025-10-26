@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        }
+      ],
+      "file": "web-browser.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-08-04T05:07:41Z",
+    "description": "A simple Neovim plugin that lets you search Google directly from your editor with a custom :SearchGoogle command. Works across macOS, Linux, and Windows (including WSL).",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T02:03:05Z",
+    "nameWithOwner": "chrsolr/open-in.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-in.nvim",
+  "owner": "chrsolr",
+  "url": "https://github.com/chrsolr/open-in.nvim"
+}

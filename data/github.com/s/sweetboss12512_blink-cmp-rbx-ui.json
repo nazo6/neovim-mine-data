@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Roblox studio"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-04-26T00:13:22Z",
+    "description": "Provides autocomplete for Vide/Fusion.",
+    "isArchived": false,
+    "lastCommit": "2025-05-12T19:45:51Z",
+    "nameWithOwner": "sweetboss12512/blink-cmp-rbx-ui",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "luau",
+      "neovim",
+      "neovim-plugin",
+      "roblox"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-rbx-ui",
+  "owner": "sweetboss12512",
+  "url": "https://github.com/sweetboss12512/rbx-ui-autocomplete.nvim"
+}

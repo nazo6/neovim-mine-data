@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Copilot"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-04-17T21:40:57Z",
+    "description": "Copilot LSP: A lightweight and extensible Neovim plugin for integrating GitHub Copilot's AI-powered code suggestions via Language Server Protocol (LSP).",
+    "isArchived": false,
+    "lastCommit": "2025-09-27T14:52:19Z",
+    "nameWithOwner": "copilotlsp-nvim/copilot-lsp",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 387,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copilot-lsp",
+  "owner": "copilotlsp-nvim",
+  "url": "https://github.com/copilotlsp-nvim/copilot-lsp"
+}

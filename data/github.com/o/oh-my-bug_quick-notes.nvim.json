@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-20T17:09:28Z",
+    "description": "Plugin for effortlessly capturing notes tied to your current project",
+    "isArchived": false,
+    "lastCommit": "2025-04-20T19:02:41Z",
+    "nameWithOwner": "oh-my-bug/quick-notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "quick-notes.nvim",
+  "owner": "oh-my-bug",
+  "url": "https://github.com/oh-my-bug/quick-notes.nvim"
+}

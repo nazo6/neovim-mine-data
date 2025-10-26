@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-07-21T22:25:50Z",
+    "description": "Minimal post-its for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-24T17:58:56Z",
+    "nameWithOwner": "kad1kad/postit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "postit.nvim",
+  "owner": "kad1kad",
+  "url": "https://github.com/kad1kad/postit.nvim"
+}

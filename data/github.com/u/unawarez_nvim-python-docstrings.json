@@ -8,6 +8,10 @@
         },
         {
           "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
           "name": "Docstring"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 0,
     "createdAt": "2024-05-30T03:03:09Z",
     "description": "Highlight the markup inside Python docstrings",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#555555",
       "name": "C"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Model Context Protocol(MCP)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 224,
+    "createdAt": "2025-08-07T14:29:36Z",
+    "description": "A Model Context Protocol (MCP) server that provides seamless integration with Neovim instances, enabling AI assistants to interact with your editor through connections and access diagnostic information via structured resources.",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T02:54:50Z",
+    "nameWithOwner": "linw1995/nvim-mcp",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 16,
+    "topics": [
+      "mcp-server",
+      "nvim",
+      "nvim-plugin",
+      "lsp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mcp",
+  "owner": "linw1995",
+  "url": "https://github.com/linw1995/nvim-mcp"
+}

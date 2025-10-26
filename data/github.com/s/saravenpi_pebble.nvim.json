@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 71,
+    "createdAt": "2025-08-05T23:06:37Z",
+    "description": "Obsidian-style markdown link navigation plugin for Neovim. Obsidian tags, navigation and more !",
+    "isArchived": false,
+    "lastCommit": "2025-09-07T14:46:32Z",
+    "nameWithOwner": "saravenpi/pebble.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "obsidian",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pebble.nvim",
+  "owner": "saravenpi",
+  "url": "https://github.com/saravenpi/pebble.nvim"
+}

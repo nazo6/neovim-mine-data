@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-08-25T18:28:57Z",
+    "description": "Per-window buffer history tracker and navigation utility.",
+    "isArchived": false,
+    "lastCommit": "2025-09-07T18:42:55Z",
+    "nameWithOwner": "veigaribo/winhist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "winhist.nvim",
+  "owner": "veigaribo",
+  "url": "https://github.com/veigaribo/winhist.nvim"
+}

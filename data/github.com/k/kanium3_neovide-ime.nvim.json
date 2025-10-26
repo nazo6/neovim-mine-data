@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2025-05-09T12:10:12Z",
+    "description": "Support better neovide ime experience",
+    "isArchived": false,
+    "lastCommit": "2025-09-13T01:37:05Z",
+    "nameWithOwner": "kanium3/neovide-ime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neovide-ime.nvim",
+  "owner": "kanium3",
+  "url": "https://github.com/kanium3/neovide-ime.nvim"
+}

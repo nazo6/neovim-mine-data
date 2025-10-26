@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 35,
+    "commitCountLastYear": 36,
     "createdAt": "2023-09-17T11:47:03Z",
-    "description": "Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope or fzf-lua.. ",
+    "description": "Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope, snacks.nvim or fzf-lua",
     "isArchived": false,
-    "lastCommit": "2025-04-11T16:03:40Z",
+    "lastCommit": "2025-09-27T08:23:07Z",
     "nameWithOwner": "coffebar/neovim-project",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 231,
+    "star": 262,
     "topics": [
       "lua",
       "neovim",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PlantUML"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-05-31T18:15:48Z",
+    "description": "Live preview and share PlantUML files.",
+    "isArchived": false,
+    "lastCommit": "2025-08-30T21:05:21Z",
+    "nameWithOwner": "tobias-edwards/plantuml-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plantuml-preview.nvim",
+  "owner": "tobias-edwards",
+  "url": "https://github.com/tobias-edwards/plantuml-preview.nvim"
+}

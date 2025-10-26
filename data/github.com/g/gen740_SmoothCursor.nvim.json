@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "Motion"
+          "name": "Animation"
         }
       ],
       "file": "README.md",
@@ -34,9 +34,8 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2022-09-14T02:35:18Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2024-09-18T08:43:06Z",
     "nameWithOwner": "gen740/SmoothCursor.nvim",
@@ -44,7 +43,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 384,
+    "star": 386,
     "topics": [
     ]
   },

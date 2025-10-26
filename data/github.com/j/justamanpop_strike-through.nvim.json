@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Convert Case"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-07-29T06:14:43Z",
+    "description": "Very minimal neovim plugin that lets you cross out and uncross the current line of text",
+    "isArchived": false,
+    "lastCommit": "2025-07-31T04:08:17Z",
+    "nameWithOwner": "justamanpop/strike-through.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "strike-through.nvim",
+  "owner": "justamanpop",
+  "url": "https://github.com/justamanpop/nvim-strike-through"
+}

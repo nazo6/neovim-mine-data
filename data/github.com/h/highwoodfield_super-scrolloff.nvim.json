@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "j/k"
+        },
+        {
+          "level": 4,
+          "name": "Scrolling"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-05-28T12:51:32Z",
+    "description": "Let's apply 'scrolloff' at the EOF! This is a plugin for neovim which imitates 'scrolloff'.",
+    "isArchived": false,
+    "lastCommit": "2025-05-28T12:59:10Z",
+    "nameWithOwner": "highwoodfield/super-scrolloff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "super-scrolloff.nvim",
+  "owner": "highwoodfield",
+  "url": "https://github.com/highwoodfield/super-scrolloff.nvim"
+}

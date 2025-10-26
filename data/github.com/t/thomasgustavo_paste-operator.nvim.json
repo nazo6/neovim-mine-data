@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Operator"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-09-02T13:49:08Z",
+    "description": "Neovim operator to paste into text objects with dot-repeat support",
+    "isArchived": false,
+    "lastCommit": "2025-09-03T17:54:17Z",
+    "nameWithOwner": "thomasgustavo/paste-operator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "paste-operator.nvim",
+  "owner": "thomasgustavo",
+  "url": "https://github.com/thomasgustavo/paste-operator.nvim"
+}

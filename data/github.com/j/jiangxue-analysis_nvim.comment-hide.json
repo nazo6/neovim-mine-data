@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Hide comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 52,
+    "createdAt": "2025-04-26T05:47:26Z",
+    "description": "The plugin allows you to hide and show comments, and saves them to a specified folder.",
+    "isArchived": false,
+    "lastCommit": "2025-08-26T17:45:09Z",
+    "nameWithOwner": "jiangxue-analysis/nvim.comment-hide",
+    "primaryLanguage": {
+      "color": "#701516",
+      "name": "Ruby"
+    },
+    "star": 129,
+    "topics": [
+      "neovim-plugin",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim.comment-hide",
+  "owner": "jiangxue-analysis",
+  "url": "https://github.com/jiangxue-analysis/nvim.comment-hide"
+}

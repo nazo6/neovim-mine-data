@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Project Template"
+          "level": 2,
+          "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Local Config"
         }
       ],
@@ -22,7 +22,6 @@
   "data": {
     "commitCountLastYear": 0,
     "createdAt": "2024-01-18T18:53:33Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2024-01-18T20:40:24Z",
     "nameWithOwner": "rawnly/profiles.nvim",

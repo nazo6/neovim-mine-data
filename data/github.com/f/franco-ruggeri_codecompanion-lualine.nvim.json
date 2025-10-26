@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-07-07T00:12:06Z",
+    "description": "Lualine component for CodeCompanion in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-12T23:28:42Z",
+    "nameWithOwner": "franco-ruggeri/codecompanion-lualine.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "lualine",
+      "lualine-components",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "ai",
+      "llm",
+      "vibe-coding",
+      "codecompanion"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-lualine.nvim",
+  "owner": "franco-ruggeri",
+  "url": "https://github.com/franco-ruggeri/codecompanion-lualine.nvim"
+}

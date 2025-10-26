@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "SNS"
+        },
+        {
+          "level": 4,
+          "name": "X (Twitter)"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-27T22:59:15Z",
+    "description": "A Neovim plugin to tweet directly from your editor",
+    "isArchived": false,
+    "lastCommit": "2025-06-29T03:30:58Z",
+    "nameWithOwner": "dyl10s/tweet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tweet.nvim",
+  "owner": "dyl10s",
+  "url": "https://github.com/dyl10s/tweet.nvim"
+}

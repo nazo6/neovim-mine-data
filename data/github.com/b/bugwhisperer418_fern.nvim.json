@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-07-05T08:09:41Z",
+    "description": "Mirror of https://git.sr.ht/~bugwhisperer/fern.nvim. NeoVim plugin supporting Fern notetaking script and Fern Journal log file use.",
+    "isArchived": false,
+    "lastCommit": "2025-09-01T14:47:15Z",
+    "nameWithOwner": "bugwhisperer418/fern.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "note-taking",
+      "pkm",
+      "bullet-journal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fern.nvim",
+  "owner": "bugwhisperer418",
+  "url": "https://github.com/bugwhisperer418/fern.nvim"
+}

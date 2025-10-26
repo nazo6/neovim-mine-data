@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-10-06T18:02:26Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-22T05:52:00Z",
+    "nameWithOwner": "tong/nvim-dap-haxe",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "dap",
+      "debug",
+      "haxe",
+      "nvim",
+      "hashlink"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-haxe",
+  "owner": "tong",
+  "url": "https://github.com/tong/nvim-dap-haxe"
+}

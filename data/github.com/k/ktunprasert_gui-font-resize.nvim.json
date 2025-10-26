@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "GUI library"
-        },
-        {
-          "level": 3,
-          "name": "Font size"
-        }
       ],
-      "file": "gui.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 1,
     "createdAt": "2022-07-03T13:05:42Z",
     "description": "Plugin for Neovim to easily resize all guifont option including the fallbacks fonts",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-03-29T02:10:59Z",
     "nameWithOwner": "ktunprasert/gui-font-resize.nvim",
     "primaryLanguage": {

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Model Context Protocol(MCP)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2025-05-31T22:46:17Z",
+    "description": "A fast SQLite-backed todo list plugin for Neovim with Model Context Protocol (MCP) support",
+    "isArchived": false,
+    "lastCommit": "2025-06-04T14:31:00Z",
+    "nameWithOwner": "thatguyinabeanie/todo-mcp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-mcp.nvim",
+  "owner": "thatguyinabeanie",
+  "url": "https://github.com/thatguyinabeanie/todo-mcp.nvim"
+}

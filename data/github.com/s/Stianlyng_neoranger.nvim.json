@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "ranger"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-10-08T21:18:19Z",
+    "description": "A dependency-free integration of Ranger into Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T11:09:13Z",
+    "nameWithOwner": "Stianlyng/neoranger.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neoranger.nvim",
+  "owner": "Stianlyng",
+  "url": "https://github.com/Stianlyng/neoranger.nvim"
+}

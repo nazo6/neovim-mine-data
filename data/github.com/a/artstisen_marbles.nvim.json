@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Encrypt"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2025-06-05T08:48:40Z",
+    "description": "Easy file encryption for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-18T16:11:55Z",
+    "nameWithOwner": "artstisen/marbles.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "encryption-decryption",
+      "neovim",
+      "note-taking",
+      "nvim",
+      "openssl-library",
+      "security-tools",
+      "vim",
+      "writing-tool"
+    ]
+  },
+  "domain": "github.com",
+  "name": "marbles.nvim",
+  "owner": "artstisen",
+  "url": "https://github.com/artstisen/marbles.nvim"
+}

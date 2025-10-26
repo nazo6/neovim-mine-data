@@ -20,22 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 21,
     "createdAt": "2025-04-09T16:25:18Z",
     "description": "Mona Lisa inspired colorscheme for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-14T01:13:30Z",
+    "lastCommit": "2025-08-20T21:18:51Z",
     "nameWithOwner": "ptdewey/monalisa-nvim",
     "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
+      "color": "#fff3d7",
+      "name": "Fennel"
     },
-    "star": 3,
+    "star": 9,
     "topics": [
       "neovim",
       "neovim-colorscheme",
       "neovim-lua",
-      "neovim-plugin"
+      "neovim-plugin",
+      "neovim-fennel",
+      "treesitter-colorscheme"
     ]
   },
   "domain": "github.com",

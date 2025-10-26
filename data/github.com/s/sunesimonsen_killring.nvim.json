@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Edit Register"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-07-26T16:47:16Z",
+    "description": "Paste previously yanked or deleted content from a Telescope picker",
+    "isArchived": false,
+    "lastCommit": "2025-08-03T11:06:07Z",
+    "nameWithOwner": "sunesimonsen/killring.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "killring.nvim",
+  "owner": "sunesimonsen",
+  "url": "https://github.com/sunesimonsen/killring.nvim"
+}

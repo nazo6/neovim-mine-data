@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 70,
+    "createdAt": "2025-07-07T05:45:43Z",
+    "description": "Some novel approach on navigation context management. I MADE THAT TERM UP.",
+    "isArchived": false,
+    "lastCommit": "2025-10-10T01:28:22Z",
+    "nameWithOwner": "kampanaut/cavediver",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "bufferline",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cavediver",
+  "owner": "kampanaut",
+  "url": "https://github.com/kampanaut/cavediver"
+}

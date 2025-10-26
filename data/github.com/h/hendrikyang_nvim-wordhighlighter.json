@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Multiple word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-10-18T15:09:48Z",
+    "description": "A Neovim plugin to highlight programming symbols with 8 distinct colors.",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T02:54:27Z",
+    "nameWithOwner": "hendrikyang/nvim-wordhighlighter",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-wordhighlighter",
+  "owner": "hendrikyang",
+  "url": "https://github.com/hendrikyang/nvim-wordhighlighter"
+}

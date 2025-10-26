@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zotero"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-09-11T18:27:07Z",
+    "description": "Interact with zotero database directly from nvim. I use it to search and open, cite articles in latex, markdown documents.",
+    "isArchived": false,
+    "lastCommit": "2025-09-21T05:02:21Z",
+    "nameWithOwner": "anandkumar89/nvim-zotero",
+    "primaryLanguage": {
+      "color": "#DA5B0B",
+      "name": "Jupyter Notebook"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-zotero",
+  "owner": "anandkumar89",
+  "url": "https://github.com/anandkumar89/nvim-zotero"
+}

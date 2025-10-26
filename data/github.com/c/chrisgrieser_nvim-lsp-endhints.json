@@ -42,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 96,
+    "commitCountLastYear": 41,
     "createdAt": "2024-06-30T12:27:25Z",
     "description": "Display LSP inlay hints at the end of the line, rather than within the line.",
     "isArchived": false,
-    "lastCommit": "2025-04-18T13:38:14Z",
+    "lastCommit": "2025-10-13T20:05:49Z",
     "nameWithOwner": "chrisgrieser/nvim-lsp-endhints",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 168,
+    "star": 205,
     "topics": [
       "inlay-hints",
       "nvim-plugin",

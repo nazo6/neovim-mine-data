@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Current word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-21T18:20:40Z",
+    "description": "A Neovim plugin that highlights all matches of your visual selection in real-time, similar to VSCode's match highlighting feature.",
+    "isArchived": false,
+    "lastCommit": "2025-06-23T05:06:20Z",
+    "nameWithOwner": "LucasGualtieri/visual-highlight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "visual-highlight.nvim",
+  "owner": "LucasGualtieri",
+  "url": "https://github.com/LucasGualtieri/visual-highlight.nvim"
+}

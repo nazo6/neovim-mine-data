@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-24T04:08:15Z",
+    "description": "Scholarly article note taking plugin for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-06-24T16:55:47Z",
+    "nameWithOwner": "asward/scholar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scholar.nvim",
+  "owner": "asward",
+  "url": "https://github.com/asward/scholar.nvim"
+}

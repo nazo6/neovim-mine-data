@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Clock"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 0,
     "createdAt": "2024-08-31T05:17:10Z",
     "description": "A neovim plugin that shows current time - made just for learning purposes",
     "isArchived": false,

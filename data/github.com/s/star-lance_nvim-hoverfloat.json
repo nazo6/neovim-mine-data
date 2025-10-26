@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hover Doc"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 96,
+    "createdAt": "2025-06-05T00:53:26Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-17T15:52:56Z",
+    "nameWithOwner": "star-lance/nvim-hoverfloat",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-hoverfloat",
+  "owner": "star-lance",
+  "url": "https://github.com/star-lance/nvim-hoverfloat"
+}

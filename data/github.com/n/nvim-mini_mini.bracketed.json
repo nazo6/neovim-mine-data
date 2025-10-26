@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Bracket"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2023-02-21T08:16:56Z",
+    "description": "Neovim Lua plugin to go forward/backward with square brackets. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T12:43:58Z",
+    "nameWithOwner": "nvim-mini/mini.bracketed",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 67,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.bracketed",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.bracketed"
+}

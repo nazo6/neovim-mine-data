@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Ethereum"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-07-26T05:24:23Z",
+    "description": "A Neovim plugin for navigating Ethereum addresses and transaction hashes to various block explorers.",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T14:47:42Z",
+    "nameWithOwner": "0xferrous/eth.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "eth.nvim",
+  "owner": "0xferrous",
+  "url": "https://github.com/0xferrous/eth.nvim"
+}

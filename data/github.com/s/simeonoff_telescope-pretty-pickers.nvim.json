@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Formatter"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-06T07:49:49Z",
+    "description": "A telescope.nvim extension that enhances pickers with better formatting and icons.",
+    "isArchived": false,
+    "lastCommit": "2025-05-06T08:20:30Z",
+    "nameWithOwner": "simeonoff/telescope-pretty-pickers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-pretty-pickers.nvim",
+  "owner": "simeonoff",
+  "url": "https://github.com/simeonoff/telescope-pretty-pickers.nvim"
+}

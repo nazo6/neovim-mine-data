@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ftp"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2025-08-20T17:03:31Z",
+    "description": "Asynchronous SFTP Transfer Assistant",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T09:45:46Z",
+    "nameWithOwner": "blowhunter/astra.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "astra.nvim",
+  "owner": "blowhunter",
+  "url": "https://github.com/blowhunter/astra.nvim"
+}

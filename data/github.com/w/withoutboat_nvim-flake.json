@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Nix"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 80,
+    "createdAt": "2025-07-04T16:36:50Z",
+    "description": "standalone flake for home-manger nix",
+    "isArchived": false,
+    "lastCommit": "2025-07-13T14:06:34Z",
+    "nameWithOwner": "withoutboat/nvim-flake",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-flake",
+  "owner": "withoutboat",
+  "url": "https://github.com/withoutboat/nvim-flake"
+}

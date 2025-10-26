@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-07-02T20:27:25Z",
+    "description": "🤖 AI-powered commit message suggestions using Claude Code",
+    "isArchived": false,
+    "lastCommit": "2025-07-02T20:30:14Z",
+    "nameWithOwner": "elliotekj/claude-commit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-commit.nvim",
+  "owner": "elliotekj",
+  "url": "https://github.com/elliotekj/claude-commit.nvim"
+}

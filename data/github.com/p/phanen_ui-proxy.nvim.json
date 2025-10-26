@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Server"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-05-17T03:54:13Z",
+    "description": "Make nvim server also a ui client for itself.",
+    "isArchived": false,
+    "lastCommit": "2025-05-17T08:08:43Z",
+    "nameWithOwner": "phanen/ui-proxy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ui-proxy.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/ui-proxy.nvim"
+}

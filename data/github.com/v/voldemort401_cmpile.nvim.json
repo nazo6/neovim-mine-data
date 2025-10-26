@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Compile"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-05-29T04:30:28Z",
+    "description": "Compile C/C++ files directly from nvim ",
+    "isArchived": false,
+    "lastCommit": "2025-06-01T07:29:56Z",
+    "nameWithOwner": "voldemort401/cmpile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmpile.nvim",
+  "owner": "voldemort401",
+  "url": "https://github.com/voldemort401/cmpile.nvim"
+}

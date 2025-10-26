@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Other Buffer Switcher"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-10-24T13:55:48Z",
+    "description": "alternate file manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-26T04:13:19Z",
+    "nameWithOwner": "wsdjeg/altf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "altf.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/altf.nvim"
+}

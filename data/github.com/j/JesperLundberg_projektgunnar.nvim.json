@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotnet"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2023-11-13T20:30:17Z",
+    "description": "Gunnar is the nice old Swedish man who helps you add projects or packages to dotnet solutions so you can take a Fika(tm) instead of having to remember how to do the different dotnet commands.",
+    "isArchived": false,
+    "lastCommit": "2025-10-06T10:47:52Z",
+    "nameWithOwner": "JesperLundberg/projektgunnar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "projektgunnar.nvim",
+  "owner": "JesperLundberg",
+  "url": "https://github.com/JesperLundberg/projektgunnar.nvim"
+}

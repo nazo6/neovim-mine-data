@@ -8,21 +8,16 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Dictionary"
         }
       ],
-      "file": "readme.md",
+      "file": "dictionary.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 0,
     "createdAt": "2024-08-26T21:21:16Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2024-08-26T23:51:34Z",
     "nameWithOwner": "metaporia/dico.nvim",

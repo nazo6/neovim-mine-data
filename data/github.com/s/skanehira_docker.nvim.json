@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Container"
+        },
+        {
+          "level": 5,
+          "name": "Docker"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-07-02T06:37:32Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-04T12:51:52Z",
+    "nameWithOwner": "skanehira/docker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "docker.nvim",
+  "owner": "skanehira",
+  "url": "https://github.com/skanehira/docker.nvim"
+}

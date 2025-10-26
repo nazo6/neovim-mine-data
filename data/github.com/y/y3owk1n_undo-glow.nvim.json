@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "Utility"
+          "name": "Animation"
         }
       ],
       "file": "README.md",
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 242,
+    "commitCountLastYear": 275,
     "createdAt": "2025-02-14T14:43:06Z",
     "description": "🌈 Add animated glow/highlight effects to your neovim operation (undo, redo, yank, paste and more) with simple APIs. Alternatives to highlight-undo.nvim and tiny-glimmer.nvim.",
     "isArchived": false,
-    "lastCommit": "2025-04-16T10:53:42Z",
+    "lastCommit": "2025-09-27T04:19:58Z",
     "nameWithOwner": "y3owk1n/undo-glow.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 34,
+    "star": 61,
     "topics": [
       "neovim",
       "neovim-plugin",

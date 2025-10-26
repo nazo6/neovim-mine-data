@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 90,
+    "createdAt": "2025-04-13T12:08:27Z",
+    "description": "⚡Query, without leaving your nvim workspace, whatever the dbms",
+    "isArchived": false,
+    "lastCommit": "2025-08-03T13:47:22Z",
+    "nameWithOwner": "nolleh/sqlflick.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim-plugin",
+      "sql",
+      "query",
+      "sqltools",
+      "nvim-lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sqlflick.nvim",
+  "owner": "nolleh",
+  "url": "https://github.com/nolleh/sqlsnap.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-07T19:44:09Z",
+    "isArchived": false,
+    "lastCommit": "2025-06-08T10:21:19Z",
+    "nameWithOwner": "Justin8303/nvim-tree-gitsigns",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tree-gitsigns",
+  "owner": "Justin8303",
+  "url": "https://github.com/Justin8303/nvim-tree-gitsigns"
+}

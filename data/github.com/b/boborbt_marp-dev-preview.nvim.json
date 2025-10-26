@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Query"
+        },
+        {
+          "level": 4,
+          "name": "Marp"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 122,
+    "createdAt": "2025-08-28T07:40:40Z",
+    "description": "NeoVim plugin to integrate marp-dev-preview",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T14:48:25Z",
+    "nameWithOwner": "boborbt/marp-dev-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "marp-dev-preview.nvim",
+  "owner": "boborbt",
+  "url": "https://github.com/boborbt/marp-dev-preview.nvim"
+}

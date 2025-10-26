@@ -8,10 +8,6 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
-        },
-        {
-          "level": 3,
           "name": "Jupyter"
         }
       ],
@@ -30,9 +26,11 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 33,
+    "star": 42,
     "topics": [
-      "neovim-plugin"
+      "neovim-plugin",
+      "lua",
+      "neovim"
     ]
   },
   "domain": "github.com",

@@ -34,18 +34,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 63,
+    "commitCountLastYear": 67,
     "createdAt": "2024-08-23T19:06:25Z",
-    "description": "A minimal neovim statusline",
+    "description": "A neovim statusline",
     "isArchived": false,
-    "lastCommit": "2025-04-01T12:45:05Z",
+    "lastCommit": "2025-09-06T20:27:09Z",
     "nameWithOwner": "sschleemilch/slimline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 55,
+    "star": 115,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-07-03T15:55:44Z",
+    "description": "Smartly shuffle Neovim windows around – layout-aware and intuitive.",
+    "isArchived": false,
+    "lastCommit": "2025-07-24T15:24:14Z",
+    "nameWithOwner": "SpaceShaman/window-shuffler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "window-shuffler.nvim",
+  "owner": "SpaceShaman",
+  "url": "https://github.com/SpaceShaman/window-shuffler.nvim"
+}

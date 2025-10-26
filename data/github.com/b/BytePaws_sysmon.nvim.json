@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "OS"
-        },
-        {
-          "level": 3,
-          "name": "CPU/Memory"
-        }
       ],
-      "file": "os.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 40,
+    "commitCountLastYear": 3,
     "createdAt": "2024-10-17T12:47:10Z",
     "description": "Display system resource usage and temperature in LunarVim",
-    "isArchived": false,
-    "lastCommit": "2025-02-20T14:18:58Z",
+    "isArchived": true,
+    "lastCommit": "2025-08-31T00:00:24Z",
     "nameWithOwner": "BytePaws/sysmon.nvim",
     "primaryLanguage": {
       "color": "#000080",

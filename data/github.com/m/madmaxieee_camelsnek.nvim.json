@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Convert Case"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-08-17T03:11:47Z",
+    "description": "Converts text between different snake_case, camelCase, and more",
+    "isArchived": false,
+    "lastCommit": "2025-09-14T17:07:16Z",
+    "nameWithOwner": "madmaxieee/camelsnek.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "camelsnek.nvim",
+  "owner": "madmaxieee",
+  "url": "https://github.com/madmaxieee/camelsnek.nvim"
+}

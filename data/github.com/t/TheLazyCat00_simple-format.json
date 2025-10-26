@@ -13,21 +13,36 @@
       ],
       "file": "linter_formatter.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Formatting"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 31,
     "createdAt": "2025-03-23T13:16:03Z",
     "description": "Plugin for formatting with custom rules",
     "isArchived": false,
-    "lastCommit": "2025-04-19T10:16:20Z",
+    "lastCommit": "2025-05-20T14:52:37Z",
     "nameWithOwner": "TheLazyCat00/simple-format",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

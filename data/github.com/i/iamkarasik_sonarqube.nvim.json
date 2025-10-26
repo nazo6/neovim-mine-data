@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CI"
+        },
+        {
+          "level": 3,
+          "name": "SonarQube"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2025-05-12T21:45:57Z",
+    "description": "A SonarQube LSP client plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-24T00:35:10Z",
+    "nameWithOwner": "iamkarasik/sonarqube.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 52,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sonarqube.nvim",
+  "owner": "iamkarasik",
+  "url": "https://github.com/iamkarasik/sonarqube.nvim"
+}

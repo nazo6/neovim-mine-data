@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-05-16T01:30:28Z",
+    "description": "deprecated",
+    "isArchived": false,
+    "lastCommit": "2025-05-16T01:39:28Z",
+    "nameWithOwner": "ethanamaher/todo-telescope.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-telescope.nvim",
+  "owner": "ethanamaher",
+  "url": "https://github.com/ethanamaher/todo-telescope.nvim"
+}

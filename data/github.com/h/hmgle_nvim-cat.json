@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Wrapper"
+        }
+      ],
+      "file": "neovim-distribution.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-08-19T12:19:41Z",
+    "description": "A syntax-highlighted file viewer for the command line, powered by Neovim's built-in syntax highlighting engine",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T14:29:06Z",
+    "nameWithOwner": "hmgle/nvim-cat",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cat",
+  "owner": "hmgle",
+  "url": "https://github.com/hmgle/nvim-cat"
+}

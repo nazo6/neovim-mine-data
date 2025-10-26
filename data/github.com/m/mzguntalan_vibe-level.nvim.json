@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-07-06T08:07:35Z",
+    "description": "A Neovim plugin that bridges the gap between developer intent and implementation using LLMs. Write at the \"vibe level\" - describe what you want or implement what you need, and let AI handle the rest.",
+    "isArchived": false,
+    "lastCommit": "2025-07-07T00:05:16Z",
+    "nameWithOwner": "mzguntalan/vibe-level.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "ollama",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vibe-level.nvim",
+  "owner": "mzguntalan",
+  "url": "https://github.com/mzguntalan/vibe-level.nvim"
+}

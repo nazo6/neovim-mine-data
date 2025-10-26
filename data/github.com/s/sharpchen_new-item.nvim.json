@@ -1,0 +1,54 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        },
+        {
+          "level": 4,
+          "name": "iTerm"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2025-07-20T21:32:27Z",
+    "description": "A scaffold for creating items from template",
+    "isArchived": false,
+    "lastCommit": "2025-10-06T00:02:18Z",
+    "nameWithOwner": "sharpchen/new-item.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "config",
+      "template",
+      "template-engine",
+      "gitignore-templates",
+      "dotnet"
+    ]
+  },
+  "domain": "github.com",
+  "name": "new-item.nvim",
+  "owner": "sharpchen",
+  "url": "https://github.com/sharpchen/new-item.nvim"
+}

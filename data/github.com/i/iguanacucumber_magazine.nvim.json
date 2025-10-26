@@ -2,39 +2,23 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Auto Completion"
-        },
-        {
-          "level": 3,
-          "name": "Auto Completion Plugin"
-        },
-        {
-          "level": 4,
-          "name": "Made in Lua"
-        }
       ],
-      "file": "completion.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 109,
+    "commitCountLastYear": 31,
     "createdAt": "2024-10-04T08:24:18Z",
     "description": "nvim-cmp fork",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-03-25T18:37:52Z",
     "nameWithOwner": "iguanacucumber/magazine.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 232,
+    "star": 225,
     "topics": [
       "neovim-plugin"
     ]

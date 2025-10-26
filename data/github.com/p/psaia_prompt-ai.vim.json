@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-06-07T18:26:23Z",
+    "description": "prompt-ai.vim - Quickly configure you vim runtime with natural language.",
+    "isArchived": false,
+    "lastCommit": "2025-06-11T16:57:03Z",
+    "nameWithOwner": "psaia/prompt-ai.vim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "ai",
+      "neovim",
+      "vim",
+      "openai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "prompt-ai.vim",
+  "owner": "psaia",
+  "url": "https://github.com/psaia/prompt-ai.vim"
+}

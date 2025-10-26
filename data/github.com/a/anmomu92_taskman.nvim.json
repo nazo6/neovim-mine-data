@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Todo Comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-10-07T17:04:41Z",
+    "description": "A small plugin to manage tasks within neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-08T16:59:33Z",
+    "nameWithOwner": "anmomu92/taskman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "taskman.nvim",
+  "owner": "anmomu92",
+  "url": "https://github.com/anmomu92/taskman.nvim"
+}

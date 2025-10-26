@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 5,
     "createdAt": "2023-11-04T11:53:41Z",
     "description": "Telescope extension that uses Telescope builtins (live_grep or grep_string) to grep through help files",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 40,
+    "star": 42,
     "topics": [
       "neovim-lua",
       "neovim-plugin",

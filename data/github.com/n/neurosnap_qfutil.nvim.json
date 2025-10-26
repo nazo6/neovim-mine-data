@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-18T02:31:21Z",
+    "description": "quickfix utility functions",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T02:38:17Z",
+    "nameWithOwner": "neurosnap/qfutil.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qfutil.nvim",
+  "owner": "neurosnap",
+  "url": "https://github.com/neurosnap/qfutil.nvim"
+}

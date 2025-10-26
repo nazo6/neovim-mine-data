@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-07-29T02:07:50Z",
+    "description": "Neovim plugin for syncing files and projects to remote clusters via rsync, inspired by PyCharm's deployment feature.",
+    "isArchived": false,
+    "lastCommit": "2025-07-30T11:38:36Z",
+    "nameWithOwner": "gregornickel/nvim-deployment",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-deployment",
+  "owner": "gregornickel",
+  "url": "https://github.com/gregornickel/nvim-deployment"
+}

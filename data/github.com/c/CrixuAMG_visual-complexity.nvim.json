@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer info"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-04-29T12:32:33Z",
+    "description": "Displays visual complexity of classes, functions and more",
+    "isArchived": false,
+    "lastCommit": "2025-05-07T22:03:51Z",
+    "nameWithOwner": "CrixuAMG/visual-complexity.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "visual-complexity.nvim",
+  "owner": "CrixuAMG",
+  "url": "https://github.com/crixuamg/visual-complexity.nvim"
+}

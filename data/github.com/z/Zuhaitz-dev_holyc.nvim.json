@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "HolyC"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-07-13T09:59:40Z",
+    "description": "A Neovim plugin providing language support for HolyC.",
+    "isArchived": false,
+    "lastCommit": "2025-07-13T10:54:07Z",
+    "nameWithOwner": "Zuhaitz-dev/holyc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "holyc.nvim",
+  "owner": "Zuhaitz-dev",
+  "url": "https://github.com/Zuhaitz-dev/holyc.nvim"
+}

@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Dice"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-07-06T02:00:38Z",
+    "description": "A language server protocol Neovim plugin for .dice files",
+    "isArchived": false,
+    "lastCommit": "2025-07-06T15:48:56Z",
+    "nameWithOwner": "YetAnotherMechanicusEnjoyer/dice-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 3,
+    "topics": [
+      "dice",
+      "lazyvim",
+      "lsp",
+      "lsp-server",
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "plugin",
+      "rust"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dice-lsp.nvim",
+  "owner": "YetAnotherMechanicusEnjoyer",
+  "url": "https://github.com/YetAnotherMechanicusEnjoyer/dice-lsp.nvim"
+}

@@ -1,0 +1,69 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "WezTerm"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Lua Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 256,
+    "createdAt": "2023-08-16T04:24:15Z",
+    "description": "WezTerm Lua config types for Lua Language Server",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T02:37:25Z",
+    "nameWithOwner": "DrKJeff16/wezterm-types",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 102,
+    "topics": [
+      "lazydev",
+      "neovim-plugin",
+      "nvim-lua",
+      "type-annotations",
+      "wezterm",
+      "wezterm-config",
+      "wezterm-lua",
+      "lua-language-server",
+      "luals",
+      "neovim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wezterm-types",
+  "owner": "DrKJeff16",
+  "url": "https://github.com/DrKJeff16/wezterm-types"
+}

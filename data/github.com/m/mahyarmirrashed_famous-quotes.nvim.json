@@ -1,0 +1,60 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Cowsay"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-05-07T02:12:44Z",
+    "description": "Famous quotes from history, as a Neovim plugin.",
+    "isArchived": false,
+    "lastCommit": "2025-07-01T15:51:20Z",
+    "nameWithOwner": "mahyarmirrashed/famous-quotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "famous",
+      "nvim",
+      "quotes",
+      "famous-quotes",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "famous-quotes.nvim",
+  "owner": "mahyarmirrashed",
+  "url": "https://github.com/mahyarmirrashed/famous-quotes.nvim"
+}

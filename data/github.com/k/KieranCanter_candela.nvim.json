@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 150,
+    "createdAt": "2025-06-10T17:45:37Z",
+    "description": "Neovim plugin designed for log analysis. Define regex patterns to highlight matching lines. Use the \"lightbox\" to hide non-matches.",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T16:13:08Z",
+    "nameWithOwner": "KieranCanter/candela.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "candela.nvim",
+  "owner": "KieranCanter",
+  "url": "https://github.com/KieranCanter/candela.nvim"
+}

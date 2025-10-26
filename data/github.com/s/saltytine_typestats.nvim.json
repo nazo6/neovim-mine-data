@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Typing speed"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-08-27T03:15:43Z",
+    "description": "WPM counter for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-08-28T14:08:51Z",
+    "nameWithOwner": "saltytine/typestats.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typestats.nvim",
+  "owner": "saltytine",
+  "url": "https://github.com/saltytine/typestats.nvim"
+}

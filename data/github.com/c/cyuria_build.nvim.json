@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 30,
     "createdAt": "2024-04-20T09:09:07Z",
     "description": "A neovim plugin written in lua to automatically detect your current workspace's build system and set makeprg accordingly",
     "isArchived": false,
-    "lastCommit": "2025-02-02T10:29:36Z",
+    "lastCommit": "2025-08-13T08:55:31Z",
     "nameWithOwner": "cyuria/build.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 14,
     "topics": [
       "build-tools",
       "cargo",

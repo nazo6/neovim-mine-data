@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-07-12T18:34:22Z",
+    "description": "Opinionated, simple input.",
+    "isArchived": false,
+    "lastCommit": "2025-08-23T17:50:08Z",
+    "nameWithOwner": "cpea2506/input.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "input.nvim",
+  "owner": "cpea2506",
+  "url": "https://github.com/cpea2506/input.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-06-26T16:11:55Z",
+    "description": "Extremely simple daily notetaking utility for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-08-18T21:28:13Z",
+    "nameWithOwner": "pankajgarkoti/daily-notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "daily-notes.nvim",
+  "owner": "pankajgarkoti",
+  "url": "https://github.com/pankajgarkoti/daily-notes.nvim"
+}

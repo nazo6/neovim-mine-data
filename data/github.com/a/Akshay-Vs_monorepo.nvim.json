@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project syntax"
+        },
+        {
+          "level": 4,
+          "name": "Monorepo"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-07-14T08:15:49Z",
+    "description": "Neovim plugin to manage and navigate monorepos using Telescope and Neo-tree",
+    "isArchived": false,
+    "lastCommit": "2025-08-26T10:29:44Z",
+    "nameWithOwner": "Akshay-Vs/monorepo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "devtools",
+      "lua",
+      "monorepo",
+      "neotree",
+      "neovim",
+      "neovim-plugin",
+      "nx",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "monorepo.nvim",
+  "owner": "Akshay-Vs",
+  "url": "https://github.com/Akshay-Vs/monorepo.nvim"
+}

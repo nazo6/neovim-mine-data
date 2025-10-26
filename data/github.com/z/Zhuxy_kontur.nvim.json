@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Textobject"
+        },
+        {
+          "level": 3,
+          "name": "indent"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-07-25T10:23:42Z",
+    "description": "Kontur.nvim is a Neovim plugin that provides intuitive text objects to select and operate on blocks of text based on their indent level or under a markdown heading.",
+    "isArchived": false,
+    "lastCommit": "2025-08-20T09:49:58Z",
+    "nameWithOwner": "Zhuxy/kontur.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "indent",
+      "markdown",
+      "neovim",
+      "plugin",
+      "text-object"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kontur.nvim",
+  "owner": "Zhuxy",
+  "url": "https://github.com/Zhuxy/kontur.nvim"
+}

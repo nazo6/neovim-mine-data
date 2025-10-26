@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "netrw"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2025-06-25T15:23:46Z",
+    "description": "A powerful Neovim plugin that enhances the built-in Netrw file explorer with live preview functionality and improved keybindings.",
+    "isArchived": false,
+    "lastCommit": "2025-07-07T11:18:36Z",
+    "nameWithOwner": "idr4n/netrw-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "netrw",
+      "file-manager",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "netrw-preview.nvim",
+  "owner": "idr4n",
+  "url": "https://github.com/idr4n/netrw-preview.nvim"
+}

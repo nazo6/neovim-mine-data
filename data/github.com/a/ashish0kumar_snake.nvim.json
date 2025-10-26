@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Snake"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-06-23T13:02:11Z",
+    "description": "🐍 Snake game plugin for Neovim to practice Vim motions",
+    "isArchived": false,
+    "lastCommit": "2025-07-09T15:42:53Z",
+    "nameWithOwner": "ashish0kumar/snake.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snake.nvim",
+  "owner": "ashish0kumar",
+  "url": "https://github.com/ashish0kumar/snake.nvim"
+}

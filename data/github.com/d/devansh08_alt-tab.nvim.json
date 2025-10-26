@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tab"
+        },
+        {
+          "level": 3,
+          "name": "select"
+        }
+      ],
+      "file": "tab.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-15T05:09:31Z",
+    "description": "Neovim plugin to jump to alternate tab",
+    "isArchived": false,
+    "lastCommit": "2025-08-15T05:12:37Z",
+    "nameWithOwner": "devansh08/alt-tab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "alt-tab.nvim",
+  "owner": "devansh08",
+  "url": "https://github.com/devansh08/alt-tab.nvim"
+}

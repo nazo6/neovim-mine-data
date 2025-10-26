@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Weather"
         }
       ],
@@ -18,7 +22,6 @@
   "data": {
     "commitCountLastYear": 9,
     "createdAt": "2025-03-21T11:04:31Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2025-03-23T15:31:39Z",
     "nameWithOwner": "frenchef156/weather.nvim",

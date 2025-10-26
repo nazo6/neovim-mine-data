@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Copy with line info"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-08-13T05:50:29Z",
+    "description": "A simple plugin for yanking with the file name, line numbers and markdown formatted codeblock",
+    "isArchived": false,
+    "lastCommit": "2025-08-13T05:59:35Z",
+    "nameWithOwner": "swit33/context-yank.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "context-yank.nvim",
+  "owner": "swit33",
+  "url": "https://github.com/swit33/context-yank.nvim"
+}

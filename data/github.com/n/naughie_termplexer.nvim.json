@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-06-19T06:17:06Z",
+    "description": "Terminal multiplexer hosted on Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T01:50:18Z",
+    "nameWithOwner": "naughie/termplexer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "termplexer.nvim",
+  "owner": "naughie",
+  "url": "https://github.com/naughie/termplexer.nvim"
+}

@@ -34,18 +34,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 16,
     "createdAt": "2025-03-18T10:55:21Z",
     "description": "Copy lines in nvim with file path and line number metadata. Perfect for sharing code snippets with context.",
     "isArchived": false,
-    "lastCommit": "2025-04-06T17:27:14Z",
+    "lastCommit": "2025-04-21T07:28:45Z",
     "nameWithOwner": "zhisme/copy_with_context.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10,
+    "star": 16,
     "topics": [
+      "editing-support",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

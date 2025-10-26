@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-08-15T13:08:35Z",
+    "description": "AI assistant plugin for Neovim using Ollama",
+    "isArchived": false,
+    "lastCommit": "2025-08-18T12:48:58Z",
+    "nameWithOwner": "mikey-arch/askcat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "askcat.nvim",
+  "owner": "mikey-arch",
+  "url": "https://github.com/mikey-arch/askcat.nvim"
+}

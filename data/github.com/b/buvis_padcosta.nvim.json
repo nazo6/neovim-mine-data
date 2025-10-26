@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-05-16T18:39:01Z",
+    "description": "neovim plugin to add blank line before control statement",
+    "isArchived": false,
+    "lastCommit": "2025-05-16T20:05:11Z",
+    "nameWithOwner": "buvis/padcosta.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "padcosta.nvim",
+  "owner": "buvis",
+  "url": "https://github.com/buvis/padcosta.nvim"
+}

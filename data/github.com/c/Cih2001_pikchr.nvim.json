@@ -1,0 +1,60 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "pikchr"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-06-08T18:56:58Z",
+    "description": "Render Pikchr diagram in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-08T19:17:25Z",
+    "nameWithOwner": "Cih2001/pikchr.nvim",
+    "primaryLanguage": {
+      "color": "#e34c26",
+      "name": "HTML"
+    },
+    "star": 18,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "pikchr",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pikchr.nvim",
+  "owner": "Cih2001",
+  "url": "https://github.com/Cih2001/pikchr.nvim"
+}

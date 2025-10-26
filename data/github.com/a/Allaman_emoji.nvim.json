@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 43,
+    "commitCountLastYear": 30,
     "createdAt": "2024-02-23T18:04:25Z",
     "description": "A plugin to search for and insert emojis/kaomojis, with auto-completion support, right from Neovim 😀",
     "isArchived": false,
-    "lastCommit": "2025-03-23T11:47:13Z",
+    "lastCommit": "2025-10-13T21:16:24Z",
     "nameWithOwner": "Allaman/emoji.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 82,
+    "star": 94,
     "topics": [
       "emoji",
       "lua",
@@ -38,7 +38,8 @@
       "nvim-cmp",
       "plugin",
       "telescope",
-      "kaomoji"
+      "kaomoji",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

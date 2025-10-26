@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Query"
+        },
+        {
+          "level": 4,
+          "name": "MDX"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2025-05-08T17:58:11Z",
+    "description": "Paste clipboard image directly into MD/MDX files in Neovim. 📸",
+    "isArchived": false,
+    "lastCommit": "2025-06-19T16:18:58Z",
+    "nameWithOwner": "HidemaruOwO/mdxsnap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdxsnap.nvim",
+  "owner": "HidemaruOwO",
+  "url": "https://github.com/HidemaruOwO/mdxsnap.nvim"
+}

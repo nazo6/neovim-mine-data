@@ -17,20 +17,38 @@
       ],
       "file": "jump.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Go to File"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 23,
+    "commitCountLastYear": 5,
     "createdAt": "2024-08-16T08:31:54Z",
     "description": "A Neovim plugin for improving the goto file command",
     "isArchived": false,
-    "lastCommit": "2024-11-14T11:09:47Z",
+    "lastCommit": "2025-09-05T15:16:20Z",
     "nameWithOwner": "vE5li/better-goto-file.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 9,
     "topics": [
       "lua",
       "neovim",

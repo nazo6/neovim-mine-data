@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-07-15T14:27:19Z",
+    "description": "Simple markdown support for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-15T16:33:51Z",
+    "nameWithOwner": "adibhanna/simplemarkdown.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "markdown",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "simplemarkdown.nvim",
+  "owner": "adibhanna",
+  "url": "https://github.com/adibhanna/simplemarkdown.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-09-23T09:23:09Z",
+    "description": "Tmux terminal plugin for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-09-23T12:10:06Z",
+    "nameWithOwner": "hsanson/tmux-terminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-terminal.nvim",
+  "owner": "hsanson",
+  "url": "https://github.com/hsanson/tmux-terminal.nvim"
+}

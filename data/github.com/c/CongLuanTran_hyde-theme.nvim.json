@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-08-29T13:13:35Z",
+    "description": "Automatically select Neovim theme based on system GTK theme, intended for HyDE",
+    "isArchived": false,
+    "lastCommit": "2025-08-30T03:56:16Z",
+    "nameWithOwner": "CongLuanTran/hyde-theme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "dynamic",
+      "hyde",
+      "themes",
+      "hyprdots"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hyde-theme.nvim",
+  "owner": "CongLuanTran",
+  "url": "https://github.com/CongLuanTran/hyde-theme.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "insert pairs"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-07-31T21:52:24Z",
+    "description": "Auto-indent between brackets and HTML tags, keeping your code clean and your flow smooth.",
+    "isArchived": false,
+    "lastCommit": "2025-08-07T02:03:00Z",
+    "nameWithOwner": "umutondersu/smart-newline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-newline.nvim",
+  "owner": "umutondersu",
+  "url": "https://github.com/umutondersu/smart-newline.nvim"
+}

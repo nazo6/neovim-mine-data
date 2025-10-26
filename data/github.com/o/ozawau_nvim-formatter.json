@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "tweaks"
+        },
+        {
+          "level": 4,
+          "name": "json"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-08T09:54:49Z",
+    "description": "A Neovim plugin for seamless data format conversion, supporting JSON, Python dict, and more with extensible architecture.",
+    "isArchived": false,
+    "lastCommit": "2025-05-16T08:28:51Z",
+    "nameWithOwner": "ozawau/nvim-formatter",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-formatter",
+  "owner": "ozawau",
+  "url": "https://github.com/ozawau/nvim-formatter"
+}

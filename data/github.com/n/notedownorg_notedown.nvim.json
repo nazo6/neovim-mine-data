@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-08-22T14:00:56Z",
+    "description": "The Neovim plugin mirror repository.",
+    "isArchived": false,
+    "lastCommit": "2025-10-13T01:18:20Z",
+    "nameWithOwner": "notedownorg/notedown.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notedown.nvim",
+  "owner": "notedownorg",
+  "url": "https://github.com/notedownorg/notedown.nvim"
+}

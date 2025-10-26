@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "resize"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-08-21T11:29:52Z",
+    "description": "smart-splits.nvim wrapper bridging Windows↔WSL2 pane navigation/resizing.",
+    "isArchived": false,
+    "lastCommit": "2025-08-22T12:22:38Z",
+    "nameWithOwner": "drop-stones/smart-splits-wsl2.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "mux",
+      "neovim-plugin",
+      "split",
+      "zellij"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-splits-wsl2.nvim",
+  "owner": "drop-stones",
+  "url": "https://github.com/drop-stones/smart-splits-wsl2.nvim"
+}

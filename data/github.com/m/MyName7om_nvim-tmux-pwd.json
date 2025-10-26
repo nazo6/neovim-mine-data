@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-05-12T10:49:51Z",
+    "description": "Creates new tmux window with the current pwd",
+    "isArchived": false,
+    "lastCommit": "2025-05-12T11:02:33Z",
+    "nameWithOwner": "MyName7om/nvim-tmux-pwd",
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tmux-pwd",
+  "owner": "MyName7om",
+  "url": "https://github.com/MyName7om/nvim-tmux-pwd"
+}

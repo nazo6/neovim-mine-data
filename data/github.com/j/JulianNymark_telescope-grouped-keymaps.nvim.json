@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Show assigned"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2024-11-23T20:43:43Z",
+    "description": "plugin alternative to telescope.builtin.keymaps to concatenate desc strings for each group a keymap is in.",
+    "isArchived": false,
+    "lastCommit": "2025-06-28T10:36:39Z",
+    "nameWithOwner": "JulianNymark/telescope-grouped-keymaps.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-grouped-keymaps.nvim",
+  "owner": "JulianNymark",
+  "url": "https://github.com/JulianNymark/telescope_grouped_keymaps.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jujutsu(jj)"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-07-15T16:38:17Z",
+    "description": "Display jujutsu VCS blame in nvim",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T10:53:19Z",
+    "nameWithOwner": "l3d00m/jj-signs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "jujutsu",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jj-signs.nvim",
+  "owner": "l3d00m",
+  "url": "https://github.com/l3d00m/jj-signs.nvim"
+}

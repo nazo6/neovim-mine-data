@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "django"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-09-11T03:47:04Z",
+    "description": "Quick access to Django Commands",
+    "isArchived": false,
+    "lastCommit": "2025-09-20T15:22:16Z",
+    "nameWithOwner": "franmacke/djortcuts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "djortcuts.nvim",
+  "owner": "franmacke",
+  "url": "https://github.com/franmacke/djortcuts.nvim"
+}

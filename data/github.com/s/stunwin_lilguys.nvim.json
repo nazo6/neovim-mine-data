@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Dash"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-10T00:02:36Z",
+    "description": "A Neovim plugin for easily toggling pipeline and other symbols in your code",
+    "isArchived": false,
+    "lastCommit": "2025-05-11T04:46:17Z",
+    "nameWithOwner": "stunwin/lilguys.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "gleam",
+      "gleam-lang",
+      "neovim",
+      "neovim-plugin",
+      "elixir",
+      "elixir-lang",
+      "elm",
+      "elm-lang"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lilguys.nvim",
+  "owner": "stunwin",
+  "url": "https://github.com/stunwin/lilguys.nvim"
+}

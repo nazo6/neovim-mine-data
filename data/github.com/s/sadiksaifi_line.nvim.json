@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-30T02:47:02Z",
+    "description": "An opinionated, minimal, and performant Neovim statusline.",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T10:20:37Z",
+    "nameWithOwner": "sadiksaifi/line.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "line.nvim",
+  "owner": "sadiksaifi",
+  "url": "https://github.com/sadiksaifi/line.nvim"
+}

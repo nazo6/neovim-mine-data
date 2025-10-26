@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-05-13T13:53:14Z",
+    "description": "Plugin for supporting authors writing books in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-09T19:54:02Z",
+    "nameWithOwner": "breiting/nvim-writer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-writer.nvim",
+  "owner": "breiting",
+  "url": "https://github.com/breiting/nvim-writer.nvim"
+}

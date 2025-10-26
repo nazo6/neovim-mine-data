@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 3,
+          "name": "import"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-07-22T12:04:02Z",
+    "description": "Show local file line count and library import size in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-26T09:12:34Z",
+    "nameWithOwner": "stuckinsnow/import-size.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "import-size.nvim",
+  "owner": "stuckinsnow",
+  "url": "https://github.com/stuckinsnow/import-size.nvim"
+}

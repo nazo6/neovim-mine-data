@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Grok"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-08-27T12:05:11Z",
+    "isArchived": false,
+    "lastCommit": "2025-08-30T10:53:02Z",
+    "nameWithOwner": "namnd/xai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "neovim",
+      "vim",
+      "xai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "xai.nvim",
+  "owner": "namnd",
+  "url": "https://github.com/namnd/xai.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2025-07-14T03:46:14Z",
+    "description": "Prompt language models directly from a markdown file in neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-13T21:58:46Z",
+    "nameWithOwner": "robcmills/prompt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "prompt.nvim",
+  "owner": "robcmills",
+  "url": "https://github.com/robcmills/prompt.nvim"
+}

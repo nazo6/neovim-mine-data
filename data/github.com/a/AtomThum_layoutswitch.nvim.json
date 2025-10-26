@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
+          "name": "Keyboard Layout"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-09T08:36:14Z",
+    "description": "An automatic keyboard layout switcher for neovim. Made for Fedora 42 KDE Desktop.",
+    "isArchived": false,
+    "lastCommit": "2025-05-09T08:53:43Z",
+    "nameWithOwner": "AtomThum/layoutswitch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "layoutswitch.nvim",
+  "owner": "AtomThum",
+  "url": "https://github.com/AtomThum/layoutswitch.nvim"
+}

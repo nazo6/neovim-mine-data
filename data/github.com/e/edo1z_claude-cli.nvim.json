@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-06-24T17:16:08Z",
+    "description": "Neovim plugin for seamless Claude Code CLI integration - AI-powered coding assistant in your editor",
+    "isArchived": false,
+    "lastCommit": "2025-07-08T12:54:18Z",
+    "nameWithOwner": "edo1z/claude-cli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "claude-code",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-cli.nvim",
+  "owner": "edo1z",
+  "url": "https://github.com/edo1z/claude-cli.nvim"
+}

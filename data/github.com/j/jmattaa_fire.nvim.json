@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-08-06T23:14:58Z",
+    "description": "fire commands at your editor",
+    "isArchived": false,
+    "lastCommit": "2025-08-14T18:38:03Z",
+    "nameWithOwner": "jmattaa/fire.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fire.nvim",
+  "owner": "jmattaa",
+  "url": "https://github.com/jmattaa/fire.nvim"
+}

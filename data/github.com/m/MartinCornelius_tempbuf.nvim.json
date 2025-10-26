@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-08T10:16:18Z",
+    "description": "Minimal Neovim plugin for scratch buffers with optional snippet saving, listing and running.",
+    "isArchived": false,
+    "lastCommit": "2025-06-08T12:15:46Z",
+    "nameWithOwner": "MartinCornelius/tempbuf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tempbuf.nvim",
+  "owner": "MartinCornelius",
+  "url": "https://github.com/MartinCornelius/tempbuf.nvim"
+}

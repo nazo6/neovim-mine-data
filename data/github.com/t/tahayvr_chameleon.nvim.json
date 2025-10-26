@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-09-18T00:16:26Z",
+    "description": "Live system theme switching for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-08T05:49:51Z",
+    "nameWithOwner": "tahayvr/chameleon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chameleon.nvim",
+  "owner": "tahayvr",
+  "url": "https://github.com/tahayvr/chameleon.nvim"
+}

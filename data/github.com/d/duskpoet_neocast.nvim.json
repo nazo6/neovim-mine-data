@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "Cast"
+        }
+      ],
+      "file": "web-browser.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-04-20T17:53:05Z",
+    "description": "A Neovim plugin to cast contents as a web page",
+    "isArchived": false,
+    "lastCommit": "2025-04-26T13:33:10Z",
+    "nameWithOwner": "duskpoet/neocast.nvim",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neocast.nvim",
+  "owner": "duskpoet",
+  "url": "https://github.com/duskpoet/neocast.nvim"
+}

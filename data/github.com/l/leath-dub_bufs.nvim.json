@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-08-10T11:13:12Z",
+    "description": "A buffer menu intended for my simple needs",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T11:58:07Z",
+    "nameWithOwner": "leath-dub/bufs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufs.nvim",
+  "owner": "leath-dub",
+  "url": "https://github.com/leath-dub/bufs.nvim"
+}

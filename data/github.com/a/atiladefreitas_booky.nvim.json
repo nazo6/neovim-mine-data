@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "bookmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-08-23T13:52:41Z",
+    "description": "Project-aware bookmark manager for Neovim with Telescope integration, NeoTree icons, and floating windows for organized project-specific bookmarking.",
+    "isArchived": false,
+    "lastCommit": "2025-08-25T13:45:03Z",
+    "nameWithOwner": "atiladefreitas/booky.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "booky.nvim",
+  "owner": "atiladefreitas",
+  "url": "https://github.com/atiladefreitas/booky.nvim"
+}

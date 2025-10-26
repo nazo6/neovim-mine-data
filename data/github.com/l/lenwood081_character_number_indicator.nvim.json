@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Columnline"
+        },
+        {
+          "level": 3,
+          "name": "limit column"
+        }
+      ],
+      "file": "cursorline_columnline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-06-30T09:17:27Z",
+    "description": "Quick Plugin to add a indicator of the character number in the line",
+    "isArchived": false,
+    "lastCommit": "2025-07-02T02:38:59Z",
+    "nameWithOwner": "lenwood081/character_number_indicator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "character_number_indicator.nvim",
+  "owner": "lenwood081",
+  "url": "https://github.com/lenwood081/character_number_indicator.nvim"
+}

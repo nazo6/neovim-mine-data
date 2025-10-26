@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-04-26T20:11:29Z",
+    "description": "A plugin to help manage a collection of notes.",
+    "isArchived": false,
+    "lastCommit": "2025-05-05T23:33:30Z",
+    "nameWithOwner": "nrednav/compendium.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "compendium.nvim",
+  "owner": "nrednav",
+  "url": "https://github.com/nrednav/compendium.nvim"
+}

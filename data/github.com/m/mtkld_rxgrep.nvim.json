@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-25T18:57:16Z",
+    "description": "Grep content by regex and display matching lines in floating window.",
+    "isArchived": false,
+    "lastCommit": "2025-06-25T18:57:18Z",
+    "nameWithOwner": "mtkld/rxgrep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rxgrep.nvim",
+  "owner": "mtkld",
+  "url": "https://github.com/mtkld/rxgrep.nvim"
+}

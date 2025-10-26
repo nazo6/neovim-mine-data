@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-06-04T08:43:47Z",
+    "description": "simple  buffer switcher for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-02T17:41:48Z",
+    "nameWithOwner": "Kaikacy/buffers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffers.nvim",
+  "owner": "Kaikacy",
+  "url": "https://github.com/Kaikacy/buffers.nvim"
+}

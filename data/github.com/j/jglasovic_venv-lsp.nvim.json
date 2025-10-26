@@ -8,10 +8,14 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
+          "name": "Python"
         },
         {
           "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
           "name": "venv"
         }
       ],
@@ -20,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 39,
     "createdAt": "2023-10-20T13:20:31Z",
     "description": "Automatically handle Python virtualenvs for LSP",
     "isArchived": false,
-    "lastCommit": "2024-05-04T12:58:01Z",
+    "lastCommit": "2025-07-01T13:30:30Z",
     "nameWithOwner": "jglasovic/venv-lsp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 8,
     "topics": [
       "lsp",
       "lspconfig",

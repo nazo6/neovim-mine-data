@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Typing speed"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-08-08T20:21:24Z",
+    "description": "simple wpm plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-08T20:31:18Z",
+    "nameWithOwner": "DuckDood/wpm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wpm.nvim",
+  "owner": "DuckDood",
+  "url": "https://github.com/DuckDood/wpm.nvim"
+}

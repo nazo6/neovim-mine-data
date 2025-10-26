@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Timer"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-21T13:18:46Z",
+    "description": "Adds timestamp on new line in buffer",
+    "isArchived": false,
+    "lastCommit": "2025-08-21T13:19:50Z",
+    "nameWithOwner": "lax-ram-swe/nvim-line-timer",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-line-timer",
+  "owner": "lax-ram-swe",
+  "url": "https://github.com/lax-ram-swe/nvim-line-timer"
+}

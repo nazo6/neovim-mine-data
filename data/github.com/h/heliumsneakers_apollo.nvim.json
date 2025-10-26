@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Llama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 159,
+    "createdAt": "2025-06-25T21:04:36Z",
+    "description": "From scratch Vector DB with SIMD search optimization and llama.cpp integration directly inside of neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-26T03:46:48Z",
+    "nameWithOwner": "heliumsneakers/apollo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "apollo.nvim",
+  "owner": "heliumsneakers",
+  "url": "https://github.com/heliumsneakers/apollo.nvim"
+}

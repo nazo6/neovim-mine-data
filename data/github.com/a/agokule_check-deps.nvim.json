@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "for CLI"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-20T00:46:35Z",
+    "description": "A lightweight Neovim plugin to check for external dependencies and help install them.",
+    "isArchived": false,
+    "lastCommit": "2025-09-20T00:50:51Z",
+    "nameWithOwner": "agokule/check-deps.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "check-deps.nvim",
+  "owner": "agokule",
+  "url": "https://github.com/agokule/check-deps.nvim"
+}

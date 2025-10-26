@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "Local LSP Config"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 142,
+    "createdAt": "2025-10-02T02:51:08Z",
+    "description": "⚙️ Load project-local settings (like .vscode/settings.json) into Neovim 0.11+ native LSP settings easily.",
+    "isArchived": false,
+    "lastCommit": "2025-10-26T01:29:58Z",
+    "nameWithOwner": "mrjones2014/codesettings.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "lsp",
+      "neovim-plugin",
+      "nvim-lsp",
+      "project-setting-file",
+      "project-settings",
+      "vscode-settings",
+      "hacktoberfest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codesettings.nvim",
+  "owner": "mrjones2014",
+  "url": "https://github.com/mrjones2014/codesettings.nvim"
+}

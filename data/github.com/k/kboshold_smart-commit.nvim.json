@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-06-29T15:49:51Z",
+    "description": "Lifts `git commit` to a new level",
+    "isArchived": false,
+    "lastCommit": "2025-08-21T08:53:20Z",
+    "nameWithOwner": "kboshold/smart-commit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "commit",
+      "linter",
+      "neovim",
+      "nvim",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-commit.nvim",
+  "owner": "kboshold",
+  "url": "https://github.com/kboshold/smart-commit.nvim"
+}

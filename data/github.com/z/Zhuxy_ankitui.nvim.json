@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Anki"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-07-11T09:53:57Z",
+    "description": "A Neovim plugin for reviewing Anki cards directly within your editor, powered by AnkiConnect.",
+    "isArchived": false,
+    "lastCommit": "2025-08-22T09:35:08Z",
+    "nameWithOwner": "Zhuxy/ankitui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "anki",
+      "gemini-cli",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ankitui.nvim",
+  "owner": "Zhuxy",
+  "url": "https://github.com/Zhuxy/ankitui.nvim"
+}

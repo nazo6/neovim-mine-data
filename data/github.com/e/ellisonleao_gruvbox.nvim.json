@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Lua Colorscheme"
+          "name": "Tree-sitter Supported Colorscheme"
         }
       ],
       "file": "README.md",
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 48,
+    "commitCountLastYear": 50,
     "createdAt": "2020-11-02T05:27:15Z",
     "description": "Lua port of the most famous vim colorscheme",
     "isArchived": false,
-    "lastCommit": "2025-04-15T17:43:45Z",
+    "lastCommit": "2025-09-04T13:01:11Z",
     "nameWithOwner": "ellisonleao/gruvbox.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2166,
+    "star": 2357,
     "topics": [
       "neovim",
       "colorscheme",

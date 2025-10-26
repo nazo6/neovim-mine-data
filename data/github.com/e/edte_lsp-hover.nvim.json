@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hover Doc"
+        },
+        {
+          "level": 5,
+          "name": "Hover info"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-29T08:40:49Z",
+    "description": "fancy lsp hover",
+    "isArchived": false,
+    "lastCommit": "2025-04-30T09:22:48Z",
+    "nameWithOwner": "edte/lsp-hover.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-hover.nvim",
+  "owner": "edte",
+  "url": "https://github.com/edte/lsp-hover.nvim"
+}

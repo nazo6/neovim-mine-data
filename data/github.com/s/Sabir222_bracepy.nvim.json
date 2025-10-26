@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-10-04T20:56:12Z",
+    "description": "A Neovim plugin that shows virtual braces for Python code blocks, making Python code more visually structured similar to languages like JavaScript, C, or Java.",
+    "isArchived": false,
+    "lastCommit": "2025-10-04T23:04:49Z",
+    "nameWithOwner": "Sabir222/bracepy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bracepy.nvim",
+  "owner": "Sabir222",
+  "url": "https://github.com/Sabir222/bracepy.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Animation"
+        },
+        {
+          "level": 3,
+          "name": "Type sound"
+        }
+      ],
+      "file": "animation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-06-21T21:14:22Z",
+    "description": "A Neovim plugin that plays DJ beats as you type code.",
+    "isArchived": false,
+    "lastCommit": "2025-06-22T16:16:43Z",
+    "nameWithOwner": "thevahidal/deej.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "dj",
+      "music",
+      "neovim",
+      "vibe",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "deej.nvim",
+  "owner": "thevahidal",
+  "url": "https://github.com/thevahidal/deej.nvim"
+}

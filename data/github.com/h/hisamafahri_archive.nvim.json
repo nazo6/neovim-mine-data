@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-23T04:45:43Z",
+    "description": "Zettelkasten for Neovim — Smart Notes, Linked for Thought",
+    "isArchived": false,
+    "lastCommit": "2025-10-08T10:58:01Z",
+    "nameWithOwner": "hisamafahri/archive.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "note-taking",
+      "nvim",
+      "plugin",
+      "vim",
+      "zettelkasten"
+    ]
+  },
+  "domain": "github.com",
+  "name": "archive.nvim",
+  "owner": "hisamafahri",
+  "url": "https://github.com/hisamafahri/archive.nvim"
+}

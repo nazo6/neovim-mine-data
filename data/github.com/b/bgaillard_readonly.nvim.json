@@ -7,7 +7,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Security"
         }
       ],
@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 7,
     "createdAt": "2023-06-13T21:04:25Z",
     "description": "A plugin to prevent editing files containing sensible information.",
     "isArchived": false,
-    "lastCommit": "2023-12-12T21:15:09Z",
+    "lastCommit": "2025-07-11T20:40:11Z",
     "nameWithOwner": "bgaillard/readonly.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 18,
+    "star": 20,
     "topics": [
       "awesome",
       "awesome-list",

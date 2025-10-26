@@ -11,7 +11,7 @@
           "name": "Statusline"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Special Features"
         }
       ],
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 3,
     "createdAt": "2021-05-14T08:43:09Z",
     "description": "Animation statusline, floating window statusline. Use lua + luv make some wind",
     "isArchived": false,
-    "lastCommit": "2024-07-12T03:25:40Z",
+    "lastCommit": "2025-10-22T01:09:35Z",
     "nameWithOwner": "windwp/windline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 480,
+    "star": 505,
     "topics": [
       "statusline",
       "neovim",

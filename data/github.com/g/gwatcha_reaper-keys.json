@@ -8,25 +8,29 @@
         },
         {
           "level": 2,
-          "name": "Integration with other apps"
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Reaper"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "music.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 17,
     "createdAt": "2020-04-19T01:37:50Z",
     "description": " vim-bindings for Reaper",
     "isArchived": false,
-    "lastCommit": "2025-02-02T19:52:13Z",
+    "lastCommit": "2025-10-21T22:24:07Z",
     "nameWithOwner": "gwatcha/reaper-keys",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 161,
+    "star": 180,
     "topics": [
     ]
   },

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        },
+        {
+          "level": 3,
+          "name": "Auto fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-07-18T22:10:34Z",
+    "description": "Neovim plugin to automatically fold imports in any language using treesitter",
+    "isArchived": false,
+    "lastCommit": "2025-07-23T21:08:43Z",
+    "nameWithOwner": "dmtrKovalenko/fold-imports.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 50,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fold-imports.nvim",
+  "owner": "dmtrKovalenko",
+  "url": "https://github.com/dmtrKovalenko/fold-imports.nvim"
+}

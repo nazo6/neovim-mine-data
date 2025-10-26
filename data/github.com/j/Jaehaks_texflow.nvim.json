@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 95,
+    "createdAt": "2025-08-07T22:26:16Z",
+    "description": "Make Build and search workflow using `texlab` lsp",
+    "isArchived": false,
+    "lastCommit": "2025-10-26T04:58:55Z",
+    "nameWithOwner": "Jaehaks/texflow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "texflow.nvim",
+  "owner": "Jaehaks",
+  "url": "https://github.com/Jaehaks/texflow.nvim"
+}

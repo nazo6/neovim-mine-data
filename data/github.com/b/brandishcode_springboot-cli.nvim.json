@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Spring Boot"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-08T06:24:40Z",
+    "description": "Neovim plugin for springboot cli",
+    "isArchived": false,
+    "lastCommit": "2025-06-08T15:58:20Z",
+    "nameWithOwner": "brandishcode/springboot-cli.nvim",
+    "primaryLanguage": {
+      "color": "#7e7eff",
+      "name": "Nix"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "springboot-cli.nvim",
+  "owner": "brandishcode",
+  "url": "https://github.com/brandishcode/springboot-cli.nvim"
+}

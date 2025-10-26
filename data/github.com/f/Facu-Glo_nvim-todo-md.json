@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2025-04-27T00:04:04Z",
+    "description": "Plugin de Neovim para gestionar tareas en un archivo toDo.md con checkboxes interactivos.",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T18:29:48Z",
+    "nameWithOwner": "Facu-Glo/nvim-todo-md",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-todo-md",
+  "owner": "Facu-Glo",
+  "url": "https://github.com/Facu-Glo/nvim-todo-md"
+}

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "JSON"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-07-14T04:18:04Z",
+    "isArchived": false,
+    "lastCommit": "2025-09-03T23:51:29Z",
+    "nameWithOwner": "LeGarbage/taskless.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "taskless.nvim",
+  "owner": "LeGarbage",
+  "url": "https://github.com/LeGarbage/taskless.nvim"
+}

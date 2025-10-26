@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-05-27T14:19:22Z",
+    "description": "Neovim plugin to copy/open Git URLs and relative paths",
+    "isArchived": false,
+    "lastCommit": "2025-06-05T07:17:03Z",
+    "nameWithOwner": "art-vasilyev/yapath.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "yapath.nvim",
+  "owner": "art-vasilyev",
+  "url": "https://github.com/art-vasilyev/yapath.nvim"
+}

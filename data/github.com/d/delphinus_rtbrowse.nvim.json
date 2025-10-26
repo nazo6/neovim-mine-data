@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-05-13T08:59:02Z",
+    "description": "Browse Neovim runtime files on GitHub directly from your editor.",
+    "isArchived": false,
+    "lastCommit": "2025-05-14T13:37:30Z",
+    "nameWithOwner": "delphinus/rtbrowse.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rtbrowse.nvim",
+  "owner": "delphinus",
+  "url": "https://github.com/delphinus/rtbrowse.nvim"
+}

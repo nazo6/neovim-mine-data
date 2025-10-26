@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration"
+        },
+        {
+          "level": 3,
+          "name": "Epitech"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2025-05-25T04:06:17Z",
+    "description": "A language server protocol Neovim plugin for Epitech's coding style",
+    "isArchived": false,
+    "lastCommit": "2025-08-21T09:59:50Z",
+    "nameWithOwner": "YetAnotherMechanicusEnjoyer/epitechlsp.nvim",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "star": 3,
+    "topics": [
+      "coding-style",
+      "coding-style-checker",
+      "epitech",
+      "javascript",
+      "lazyvim",
+      "lsp",
+      "lsp-server",
+      "lua",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "epitechlsp.nvim",
+  "owner": "YetAnotherMechanicusEnjoyer",
+  "url": "https://github.com/YetAnotherMechanicusEnjoyer/epitechlsp.nvim"
+}

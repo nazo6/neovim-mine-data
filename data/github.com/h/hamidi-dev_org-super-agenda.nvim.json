@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2025-07-20T15:09:09Z",
+    "description": "Customizable agenda view for orgmode",
+    "isArchived": false,
+    "lastCommit": "2025-10-15T19:24:19Z",
+    "nameWithOwner": "hamidi-dev/org-super-agenda.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "nvim-orgmode",
+      "nvim-plugin",
+      "orgmode-nvim",
+      "neovim",
+      "neovim-plugin",
+      "plugin-neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "org-super-agenda.nvim",
+  "owner": "hamidi-dev",
+  "url": "https://github.com/hamidi-dev/org-super-agenda.nvim"
+}

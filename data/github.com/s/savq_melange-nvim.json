@@ -42,25 +42,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 47,
     "createdAt": "2021-02-07T18:38:39Z",
     "description": "🗡️ Warm color scheme for Neovim and beyond",
     "isArchived": false,
-    "lastCommit": "2025-01-16T17:07:24Z",
+    "lastCommit": "2025-06-16T20:07:39Z",
     "nameWithOwner": "savq/melange-nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 821,
+    "star": 889,
     "topics": [
       "nvim",
       "neovim",
       "color-scheme",
       "colorscheme",
-      "colors",
       "neovim-colorscheme",
-      "neovim-theme"
+      "neovim-theme",
+      "syntax-highlighting",
+      "terminal-colors",
+      "terminal-themes",
+      "theme"
     ]
   },
   "domain": "github.com",

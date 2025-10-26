@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-07T18:25:18Z",
+    "description": "tgpt wrapper for no nonsense ai interaction",
+    "isArchived": false,
+    "lastCommit": "2025-06-24T19:02:21Z",
+    "nameWithOwner": "DavidTelenko/texel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "texel.nvim",
+  "owner": "DavidTelenko",
+  "url": "https://github.com/DavidTelenko/texel.nvim"
+}

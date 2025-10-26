@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-07-05T12:15:47Z",
+    "isArchived": false,
+    "lastCommit": "2025-07-05T12:20:08Z",
+    "nameWithOwner": "prostakm/git-diff-review.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-diff-review.nvim",
+  "owner": "prostakm",
+  "url": "https://github.com/prostakm/git-diff-review.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Word Motion"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-08-09T04:23:48Z",
+    "description": "neovim plugin that ease visual selection, specifically e/b motion",
+    "isArchived": false,
+    "lastCommit": "2025-08-31T06:46:16Z",
+    "nameWithOwner": "sevaaaDev/easy-vsel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "easy-vsel.nvim",
+  "owner": "sevaaaDev",
+  "url": "https://github.com/sevaaaDev/easy-vsel.nvim"
+}

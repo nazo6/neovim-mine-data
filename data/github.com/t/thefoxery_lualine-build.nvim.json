@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "CMake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-09-13T17:35:48Z",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T23:52:47Z",
+    "nameWithOwner": "thefoxery/lualine-build.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lualine-build.nvim",
+  "owner": "thefoxery",
+  "url": "https://github.com/thefoxery/lualine-cmake.nvim"
+}

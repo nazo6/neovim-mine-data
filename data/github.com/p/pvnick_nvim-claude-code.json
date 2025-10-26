@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2025-06-08T16:52:39Z",
+    "description": "Claude code integration for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-09T02:19:59Z",
+    "nameWithOwner": "pvnick/nvim-claude-code",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-claude-code",
+  "owner": "pvnick",
+  "url": "https://github.com/pvnick/nvim-claude-code"
+}

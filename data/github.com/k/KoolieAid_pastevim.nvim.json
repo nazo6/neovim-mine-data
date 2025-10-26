@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "pastebin"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-05-11T12:21:48Z",
+    "description": "Copies text from Neovim to pastebin",
+    "isArchived": false,
+    "lastCommit": "2025-05-14T08:14:16Z",
+    "nameWithOwner": "KoolieAid/pastevim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pastevim.nvim",
+  "owner": "KoolieAid",
+  "url": "https://github.com/KoolieAid/pastevim.nvim"
+}

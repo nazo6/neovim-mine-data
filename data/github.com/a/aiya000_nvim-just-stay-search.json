@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-09-24T09:03:27Z",
+    "description": "A Neovim plugin just for provide a keymap to search words (/) without cursor moving during input (a.k.a. 'stay-search').",
+    "isArchived": false,
+    "lastCommit": "2025-09-24T09:34:13Z",
+    "nameWithOwner": "aiya000/nvim-just-stay-search",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-just-stay-search",
+  "owner": "aiya000",
+  "url": "https://github.com/aiya000/nvim-just-stay-search"
+}

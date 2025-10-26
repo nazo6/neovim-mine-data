@@ -2,39 +2,23 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Language specific"
-        },
-        {
-          "level": 3,
-          "name": "Programing Language / Framework"
-        },
-        {
-          "level": 4,
-          "name": "Gno"
-        }
       ],
-      "file": "language-specific.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 27,
     "createdAt": "2024-12-17T05:31:43Z",
-    "description": "Gno integration for NeoVim",
-    "isArchived": false,
+    "description": "Gno.land integration for NeoVim",
+    "isArchived": true,
     "lastCommit": "2025-01-31T21:55:14Z",
     "nameWithOwner": "x1unix/gno.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
       "gnolang",
       "neovim",

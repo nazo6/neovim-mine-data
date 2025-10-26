@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Model Context Protocol(MCP)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-08-22T17:50:25Z",
+    "description": "A focused fork of claudecode.nvim for MCP server functionality with auto-start and persistent state management",
+    "isArchived": false,
+    "lastCommit": "2025-08-25T10:14:02Z",
+    "nameWithOwner": "rhnvrm/nvim-claudecode-mcp",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-claudecode-mcp",
+  "owner": "rhnvrm",
+  "url": "https://github.com/rhnvrm/nvim-claudecode-mcp"
+}

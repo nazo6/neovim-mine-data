@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "HTTP"
+        },
+        {
+          "level": 4,
+          "name": "Request"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-07-22T06:36:06Z",
+    "description": "Neovim plugin for Mayohttp",
+    "isArchived": false,
+    "lastCommit": "2025-07-22T08:56:27Z",
+    "nameWithOwner": "Cybernetics354/mayohttp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mayohttp.nvim",
+  "owner": "Cybernetics354",
+  "url": "https://github.com/Cybernetics354/mayohttp.nvim"
+}

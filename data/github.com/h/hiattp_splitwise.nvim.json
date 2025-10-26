@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "split"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-08-12T10:38:37Z",
+    "description": "Use natural movements to create and navigate splits/windows within Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-25T18:21:18Z",
+    "nameWithOwner": "hiattp/splitwise.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 46,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "splitwise.nvim",
+  "owner": "hiattp",
+  "url": "https://github.com/hiattp/splitwise.nvim"
+}

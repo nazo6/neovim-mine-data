@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 18,
     "createdAt": "2025-02-22T01:04:44Z",
     "description": "Neovim plugin that manages development tools using Mise",
     "isArchived": false,
-    "lastCommit": "2025-02-25T23:00:25Z",
+    "lastCommit": "2025-06-30T19:05:49Z",
     "nameWithOwner": "carldaws/miser.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 4,
     "topics": [
+      "mise",
+      "nvim-plugin",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-17T18:29:10Z",
+    "description": "A simple spotify player for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T12:09:11Z",
+    "nameWithOwner": "Caronte995/spotify-player.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spotify-player.nvim",
+  "owner": "Caronte995",
+  "url": "https://github.com/Caronte995/spotify-player.nvim"
+}

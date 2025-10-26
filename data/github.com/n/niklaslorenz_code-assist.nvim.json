@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 62,
+    "createdAt": "2025-04-20T08:27:56Z",
+    "description": "A plugin to interact with the openai API for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-03T16:28:09Z",
+    "nameWithOwner": "niklaslorenz/code-assist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-assist.nvim",
+  "owner": "niklaslorenz",
+  "url": "https://github.com/niklaslorenz/code-assist.nvim"
+}

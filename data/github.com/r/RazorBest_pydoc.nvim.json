@@ -8,6 +8,10 @@
         },
         {
           "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
           "name": "pydoc"
         }
       ],
@@ -16,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 0,
     "createdAt": "2024-05-24T09:50:25Z",
     "description": "Python documentation itegrated with Neovim help files",
     "isArchived": false,
@@ -26,7 +30,7 @@
       "color": "#fedf5b",
       "name": "Cython"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
     ]
   },

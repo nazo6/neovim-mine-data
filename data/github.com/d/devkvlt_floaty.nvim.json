@@ -23,28 +23,11 @@
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
-  "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2023-03-29T05:52:26Z",
-    "description": "Simple floating terminal and code runner for Neovim.",
-    "isArchived": false,
-    "lastCommit": "2023-10-05T10:32:30Z",
-    "nameWithOwner": "devkvlt/floaty.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 4,
-    "topics": [
-      "lua",
-      "neovim",
-      "nvim",
-      "terminal",
-      "nvim-lua",
-      "nvim-plugin"
-    ]
-  },
   "domain": "github.com",
+  "error": {
+    "message": "Repository object is null",
+    "reason": "UNKNOWN_ERROR"
+  },
   "name": "floaty.nvim",
   "owner": "devkvlt",
   "url": "https://github.com/devkvlt/floaty.nvim"

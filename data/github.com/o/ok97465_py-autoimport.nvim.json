@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "import"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-09-12T13:34:10Z",
+    "description": "Auto-import undefined Python symbols from your workspace.",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T07:12:26Z",
+    "nameWithOwner": "ok97465/py-autoimport.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "autoimport",
+      "lua",
+      "nvim",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "py-autoimport.nvim",
+  "owner": "ok97465",
+  "url": "https://github.com/ok97465/py-autoimport.nvim"
+}

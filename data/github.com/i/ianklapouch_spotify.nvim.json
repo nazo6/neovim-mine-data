@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-06-11T19:19:16Z",
+    "description": "Spotify Premium plug-in for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-07-03T12:23:19Z",
+    "nameWithOwner": "ianklapouch/spotify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "spotify.nvim",
+  "owner": "ianklapouch",
+  "url": "https://github.com/ianklapouch/spotify.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "map function utiliy"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-07T12:58:51Z",
+    "description": "Dynamic key assignment to enteties.",
+    "isArchived": false,
+    "lastCommit": "2025-06-07T12:58:52Z",
+    "nameWithOwner": "mtkld/dynkey.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dynkey.nvim",
+  "owner": "mtkld",
+  "url": "https://github.com/mtkld/dynkey.nvim"
+}

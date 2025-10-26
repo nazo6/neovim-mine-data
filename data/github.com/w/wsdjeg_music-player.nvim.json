@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-04-23T05:29:12Z",
+    "description": "A simple music player for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-16T14:50:50Z",
+    "nameWithOwner": "wsdjeg/music-player.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "music-player.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/music-player.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Notification"
+        }
+      ],
+      "file": "message_notification.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-09-08T21:25:08Z",
+    "description": "Small nvim plugin to flag specific users commits.",
+    "isArchived": false,
+    "lastCommit": "2025-09-12T15:30:01Z",
+    "nameWithOwner": "dqnid/monkey-alert.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "monkey-alert.nvim",
+  "owner": "dqnid",
+  "url": "https://github.com/dqnid/monkey-alert.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "if err"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-09-29T16:16:19Z",
+    "description": "iferr in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T19:40:32Z",
+    "nameWithOwner": "alirostami1/iferr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "go",
+      "golang",
+      "iferror",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "iferr.nvim",
+  "owner": "alirostami1",
+  "url": "https://github.com/alirostami1/iferr.nvim"
+}

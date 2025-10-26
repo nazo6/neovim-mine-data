@@ -8,10 +8,14 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
+          "name": "Python"
         },
         {
           "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
           "name": "venv"
         }
       ],
@@ -20,9 +24,8 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 0,
     "createdAt": "2024-10-04T13:45:31Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2024-10-04T14:39:12Z",
     "nameWithOwner": "aanatoly/venv.nvim",
@@ -30,7 +33,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },

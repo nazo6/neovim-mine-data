@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 97,
+    "createdAt": "2025-09-15T05:18:55Z",
+    "description": "🚀 No more hassle with file paths! Instantly open a scratch buffer!",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T22:20:42Z",
+    "nameWithOwner": "aiya000/nvim-mado-scratch-buffer",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mado-scratch-buffer",
+  "owner": "aiya000",
+  "url": "https://github.com/aiya000/nvim-mado-scratch-buffer"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Typst"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-10-11T12:47:35Z",
+    "description": "Quality-of-life improvements for Typst editing in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T14:10:56Z",
+    "nameWithOwner": "freref/typst-qol.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typst-qol.nvim",
+  "owner": "freref",
+  "url": "https://github.com/freref/typst-qol.nvim"
+}

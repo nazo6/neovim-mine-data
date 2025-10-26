@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "open"
+        },
+        {
+          "level": 5,
+          "name": "recent file"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 152,
+    "createdAt": "2025-07-12T21:32:08Z",
+    "description": "A Neovim plugin for opening frecent (frequent + recent) files with fzf-lua",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T03:00:41Z",
+    "nameWithOwner": "elanmed/fzf-lua-frecency.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 50,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-lua-frecency.nvim",
+  "owner": "elanmed",
+  "url": "https://github.com/elanmed/fzf-lua-frecency.nvim"
+}

@@ -42,21 +42,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 107,
+    "commitCountLastYear": 139,
     "createdAt": "2023-09-21T14:38:06Z",
-    "description": "Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.",
+    "description": "All-around helper for dealing with errors and diagnostics: Prettify typescript errors, add inline-comments to ignore rules, and lookup rule documentation online.",
     "isArchived": false,
-    "lastCommit": "2025-04-18T21:48:03Z",
+    "lastCommit": "2025-10-16T10:12:35Z",
     "nameWithOwner": "chrisgrieser/nvim-rulebook",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 86,
+    "star": 104,
     "topics": [
       "linter-plugin",
       "nvim-plugin",
-      "ignore-diagnostic"
+      "ignore-diagnostic",
+      "diagnostic-tool",
+      "neovim-plugin",
+      "formatter-plugin",
+      "pretty-errors",
+      "ts-errors"
     ]
   },
   "domain": "github.com",

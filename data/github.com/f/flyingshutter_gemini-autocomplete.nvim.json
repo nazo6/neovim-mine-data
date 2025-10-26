@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 144,
+    "createdAt": "2025-09-30T13:39:56Z",
+    "description": "Codebase aware Gemini autocomplete",
+    "isArchived": false,
+    "lastCommit": "2025-10-08T22:23:20Z",
+    "nameWithOwner": "flyingshutter/gemini-autocomplete.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "ai",
+      "autocomplete",
+      "code-assist-tool",
+      "context-aware",
+      "gemini"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gemini-autocomplete.nvim",
+  "owner": "flyingshutter",
+  "url": "https://github.com/flyingshutter/gemini-autocomplete.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Clock"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-09-04T14:18:11Z",
+    "description": "A clock inside neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-04T14:17:41Z",
+    "nameWithOwner": "debasish-raychawdhuri/nvim-clock",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-clock",
+  "owner": "debasish-raychawdhuri",
+  "url": "https://github.com/debasish-raychawdhuri/nvim-clock"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jupyter"
+        },
+        {
+          "level": 3,
+          "name": "DataFrame"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-04-23T00:15:40Z",
+    "description": "A neovim plugin for debugging dataframes",
+    "isArchived": false,
+    "lastCommit": "2025-06-11T09:10:17Z",
+    "nameWithOwner": "nelnn/bear.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "nvim-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bear.nvim",
+  "owner": "nelnn",
+  "url": "https://github.com/nelnn/visidataframe.nvim"
+}

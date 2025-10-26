@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "CMake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-08-28T22:20:35Z",
+    "description": "A simple Neovim plugin to streamline your CMake workflow",
+    "isArchived": false,
+    "lastCommit": "2025-08-29T03:27:02Z",
+    "nameWithOwner": "DivAgarwal1/easy-cmake.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "cmake",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "easy-cmake.nvim",
+  "owner": "DivAgarwal1",
+  "url": "https://github.com/DivAgarwal1/easy-cmake.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 79,
+    "createdAt": "2025-10-09T05:48:13Z",
+    "description": "Fast inline AI edits",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T08:16:22Z",
+    "nameWithOwner": "jim-at-jibba/nvim-redraft",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-redraft",
+  "owner": "jim-at-jibba",
+  "url": "https://github.com/jim-at-jibba/nvim-redraft"
+}

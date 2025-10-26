@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "View"
+        },
+        {
+          "level": 3,
+          "name": "modeline"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-29T15:57:59Z",
+    "description": "A Neovim specific plugin for handling modelines.",
+    "isArchived": false,
+    "lastCommit": "2025-06-29T15:55:31Z",
+    "nameWithOwner": "CheesyChocolate/modeline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "modeline.nvim",
+  "owner": "CheesyChocolate",
+  "url": "https://github.com/CheesyChocolate/modeline.nvim"
+}

@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 19,
     "createdAt": "2025-03-26T19:43:16Z",
     "description": "llama.vim in lua",
     "isArchived": false,
-    "lastCommit": "2025-04-04T18:47:13Z",
+    "lastCommit": "2025-05-11T16:42:54Z",
     "nameWithOwner": "georg3tom/llama.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -34,7 +34,9 @@
     "topics": [
       "llamacpp",
       "neovim",
-      "nvim"
+      "nvim",
+      "neovim-plugin",
+      "nvim-lua"
     ]
   },
   "domain": "github.com",

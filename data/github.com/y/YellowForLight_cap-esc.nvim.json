@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Key"
+        },
+        {
+          "level": 4,
+          "name": "CapsLock"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2023-08-14T11:34:51Z",
+    "description": "Neovim plugin to switch caps lock and escape with hidutil",
+    "isArchived": false,
+    "lastCommit": "2023-08-14T12:02:51Z",
+    "nameWithOwner": "YellowForLight/cap-esc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cap-esc.nvim",
+  "owner": "YellowForLight",
+  "url": "https://github.com/YellowForLight/cap-esc.nvim"
+}

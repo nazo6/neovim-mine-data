@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-05-20T18:16:00Z",
+    "isArchived": false,
+    "lastCommit": "2025-06-09T21:45:55Z",
+    "nameWithOwner": "coffeemakingtoaster/nvim-llm",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-llm",
+  "owner": "coffeemakingtoaster",
+  "url": "https://github.com/coffeemakingtoaster/nvim-llm"
+}

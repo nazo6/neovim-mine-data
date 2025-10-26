@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Register Selector"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-07-11T06:55:37Z",
+    "description": "You can view register list.",
+    "isArchived": false,
+    "lastCommit": "2025-07-11T07:28:28Z",
+    "nameWithOwner": "shizukani-cp/reglist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "reglist.nvim",
+  "owner": "shizukani-cp",
+  "url": "https://github.com/shizukani-cp/reglist.nvim"
+}

@@ -8,10 +8,14 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
+          "name": "Python"
         },
         {
           "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
           "name": "pypi"
         }
       ],
@@ -22,7 +26,6 @@
   "data": {
     "commitCountLastYear": 0,
     "createdAt": "2024-02-04T10:40:02Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2024-02-07T08:26:10Z",
     "nameWithOwner": "topenkoff/pyproject.nvim",

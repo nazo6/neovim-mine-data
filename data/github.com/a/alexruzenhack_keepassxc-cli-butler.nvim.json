@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Password Manager"
+        },
+        {
+          "level": 4,
+          "name": "KeePassXC"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-06-10T21:11:38Z",
+    "description": "Secure KeePassXC CLI integration for Neovim with YubiKey support.",
+    "isArchived": false,
+    "lastCommit": "2025-07-25T15:49:38Z",
+    "nameWithOwner": "alexruzenhack/keepassxc-cli-butler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keepassxc-cli-butler.nvim",
+  "owner": "alexruzenhack",
+  "url": "https://github.com/alexruzenhack/keepassxc-cli-butler.nvim"
+}

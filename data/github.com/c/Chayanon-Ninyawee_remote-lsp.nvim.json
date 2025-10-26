@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "Remote LSP"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-08-09T15:49:18Z",
+    "description": "A neovim plugin for running LSP remotely via SSH, Neovim Remote Development",
+    "isArchived": false,
+    "lastCommit": "2025-08-13T05:16:13Z",
+    "nameWithOwner": "Chayanon-Ninyawee/remote-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 9,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "remote-lsp.nvim",
+  "owner": "Chayanon-Ninyawee",
+  "url": "https://github.com/Chayanon-Ninyawee/remote-lsp.nvim"
+}

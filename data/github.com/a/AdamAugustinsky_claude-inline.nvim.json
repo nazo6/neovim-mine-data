@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-09-29T02:36:15Z",
+    "description": "Neovim Inline AI Edit Plugin with Claude Code.",
+    "isArchived": false,
+    "lastCommit": "2025-09-29T02:47:44Z",
+    "nameWithOwner": "AdamAugustinsky/claude-inline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-inline.nvim",
+  "owner": "AdamAugustinsky",
+  "url": "https://github.com/AdamAugustinsky/claude-inline.nvim"
+}

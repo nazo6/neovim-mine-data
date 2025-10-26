@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Anki"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-10-02T17:13:24Z",
+    "description": "Neovim plugin to interact with the anki desktop app using AnkiConnect.",
+    "isArchived": false,
+    "lastCommit": "2025-10-07T18:29:53Z",
+    "nameWithOwner": "0fflineuser/anki.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "anki.nvim",
+  "owner": "0fflineuser",
+  "url": "https://github.com/0fflineuser/anki.nvim"
+}

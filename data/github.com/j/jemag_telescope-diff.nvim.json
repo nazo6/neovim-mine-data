@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "[Diff](./diff.md)"
+          "name": "Diff"
         }
       ],
       "file": "diff.md",
@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2023-03-29T12:42:57Z",
     "description": "View file diffs quickly with Telescope.nvim",
     "isArchived": false,
-    "lastCommit": "2025-01-10T23:32:05Z",
+    "lastCommit": "2025-08-29T21:04:32Z",
     "nameWithOwner": "jemag/telescope-diff.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 25,
+    "star": 28,
     "topics": [
     ]
   },

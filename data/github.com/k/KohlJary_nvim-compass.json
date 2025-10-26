@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Compass"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-13T05:57:02Z",
+    "description": "A Neovim plugin for a new kind of AI Identity scaffolding based workflow.",
+    "isArchived": false,
+    "lastCommit": "2025-10-13T06:09:19Z",
+    "nameWithOwner": "KohlJary/nvim-compass",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-compass",
+  "owner": "KohlJary",
+  "url": "https://github.com/KohlJary/nvim-compass"
+}

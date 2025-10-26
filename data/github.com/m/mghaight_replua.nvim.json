@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2025-10-19T19:24:39Z",
+    "description": "An Emacs-style scratch buffer for executing Lua inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T18:21:33Z",
+    "nameWithOwner": "mghaight/replua.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 58,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "replua.nvim",
+  "owner": "mghaight",
+  "url": "https://github.com/mghaight/replua.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Maven"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-17T16:32:25Z",
+    "description": "A small plugin to create Java and Maven projects in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-12T10:36:18Z",
+    "nameWithOwner": "diogof146/java-project-creator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-project-creator.nvim",
+  "owner": "diogof146",
+  "url": "https://github.com/diogof146/java-project-creator.nvim"
+}

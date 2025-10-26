@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Todo Comment Highlight"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-09-12T10:54:25Z",
+    "description": "highlight words in your neovim based on severity",
+    "isArchived": false,
+    "lastCommit": "2025-09-15T08:51:26Z",
+    "nameWithOwner": "ctfrancia/severityhl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "severityhl.nvim",
+  "owner": "ctfrancia",
+  "url": "https://github.com/ctfrancia/severityhl.nvim"
+}

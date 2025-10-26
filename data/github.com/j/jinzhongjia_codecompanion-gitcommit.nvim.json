@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 104,
+    "createdAt": "2025-06-01T02:35:00Z",
+    "description": "A CodeCompanion extension that generates AI-powered git commit messages following the Conventional Commits specification.",
+    "isArchived": false,
+    "lastCommit": "2025-10-01T08:10:35Z",
+    "nameWithOwner": "jinzhongjia/codecompanion-gitcommit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "codecompanion",
+      "devtools",
+      "extension",
+      "gemini",
+      "gitcommit",
+      "gitcommitai",
+      "grok"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-gitcommit.nvim",
+  "owner": "jinzhongjia",
+  "url": "https://github.com/jinzhongjia/codecompanion-gitcommit.nvim"
+}

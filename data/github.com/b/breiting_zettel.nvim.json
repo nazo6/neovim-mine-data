@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-07-25T06:26:43Z",
+    "description": "Minimal, frictionless note-taking plugin for neovim – flat vault, Markdown frontmatter, Obsidian-compatible.",
+    "isArchived": false,
+    "lastCommit": "2025-08-01T16:56:38Z",
+    "nameWithOwner": "breiting/zettel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "note-taking",
+      "obsidian",
+      "pkm",
+      "productivity",
+      "vim",
+      "zettelkasten"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zettel.nvim",
+  "owner": "breiting",
+  "url": "https://github.com/breiting/nvim-zettel.nvim"
+}

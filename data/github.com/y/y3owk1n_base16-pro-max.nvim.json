@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 85,
+    "createdAt": "2025-09-10T15:20:00Z",
+    "description": "Base16 for modern Neovim — not just colors.",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T09:42:42Z",
+    "nameWithOwner": "y3owk1n/base16-pro-max.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin",
+      "base16",
+      "colorscheme",
+      "editor",
+      "lua",
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-theme",
+      "nvim",
+      "theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "base16-pro-max.nvim",
+  "owner": "y3owk1n",
+  "url": "https://github.com/y3owk1n/base16-pro-max.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2025-05-06T23:01:09Z",
+    "description": "A minimal TODO scratch buffer for jotting down quick notes",
+    "isArchived": false,
+    "lastCommit": "2025-06-16T20:01:05Z",
+    "nameWithOwner": "micahkepe/todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "micahkepe",
+  "url": "https://github.com/micahkepe/todo.nvim"
+}

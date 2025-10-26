@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "TIL(Today I Learned)"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-07-13T16:09:48Z",
+    "description": "AI based TIL (Today I Learned) rewriter. ",
+    "isArchived": false,
+    "lastCommit": "2025-07-13T22:05:00Z",
+    "nameWithOwner": "omij18/til-rewriter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "writing-tool",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "til-rewriter.nvim",
+  "owner": "omij18",
+  "url": "https://github.com/0M1J/til-rewriter.nvim"
+}

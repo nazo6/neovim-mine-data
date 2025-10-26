@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Auto detect style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-05-12T21:04:07Z",
+    "description": "Code runner for nvim, opens terminal and runs the program within the opened terminal window",
+    "isArchived": false,
+    "lastCommit": "2025-05-25T18:13:19Z",
+    "nameWithOwner": "Paul8800/nvim-term-runner",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-term-runner",
+  "owner": "Paul8800",
+  "url": "https://github.com/Paul8800/nvim-term-runner"
+}

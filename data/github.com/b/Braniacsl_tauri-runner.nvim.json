@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Framework"
+        },
+        {
+          "level": 4,
+          "name": "tauri"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-06-21T22:26:34Z",
+    "description": "Small plugin to run my tauri dev environment.",
+    "isArchived": false,
+    "lastCommit": "2025-06-21T22:59:07Z",
+    "nameWithOwner": "Braniacsl/tauri-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tauri-runner.nvim",
+  "owner": "Braniacsl",
+  "url": "https://github.com/Braniacsl/tauri-runner.nvim"
+}

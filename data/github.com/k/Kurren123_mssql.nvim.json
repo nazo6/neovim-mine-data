@@ -20,18 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 50,
     "createdAt": "2025-04-07T17:08:19Z",
-    "description": "An SQL Server plugin for neovim",
+    "description": "A Microsoft SQL Server plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-14T15:54:08Z",
+    "lastCommit": "2025-10-23T12:18:47Z",
     "nameWithOwner": "Kurren123/mssql.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 76,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "sql-server"
     ]
   },
   "domain": "github.com",

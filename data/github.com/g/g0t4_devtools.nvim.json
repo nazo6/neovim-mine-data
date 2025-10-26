@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util pack"
+        }
+      ],
+      "file": "util-pack.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 230,
+    "createdAt": "2025-05-03T07:11:33Z",
+    "description": "Tools to help develop your nvim config, i.e. a dedicated Messages Buffer instead of :messages",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T05:26:22Z",
+    "nameWithOwner": "g0t4/devtools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "devtools.nvim",
+  "owner": "g0t4",
+  "url": "https://github.com/g0t4/devtools.nvim"
+}

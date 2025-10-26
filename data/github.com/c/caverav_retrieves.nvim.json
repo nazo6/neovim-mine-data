@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Fluid Attacks"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-09-14T23:46:48Z",
+    "description": "Neovim plugin for integration of reported vulnerabilities in Fluid Attacks' platform into neovim buffers.",
+    "isArchived": false,
+    "lastCommit": "2025-10-08T14:04:30Z",
+    "nameWithOwner": "caverav/retrieves.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "retrieves.nvim",
+  "owner": "caverav",
+  "url": "https://github.com/caverav/retrieves.nvim"
+}

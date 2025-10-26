@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Save"
+        },
+        {
+          "level": 3,
+          "name": "Edit history"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-10-11T04:44:48Z",
+    "description": "Snippets to enhance neovim builtin undotree (neovim/neovim#35627).",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T09:56:14Z",
+    "nameWithOwner": "phanen/undotree-plus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin",
+      "undotree"
+    ]
+  },
+  "domain": "github.com",
+  "name": "undotree-plus.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/undotree-plus.nvim"
+}

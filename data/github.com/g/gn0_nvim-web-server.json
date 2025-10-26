@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "HTML"
+        },
+        {
+          "level": 3,
+          "name": "live server"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2025-08-05T03:25:39Z",
+    "description": "Turn Neovim into a web server",
+    "isArchived": false,
+    "lastCommit": "2025-08-18T02:47:42Z",
+    "nameWithOwner": "gn0/nvim-web-server",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 102,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-web-server",
+  "owner": "gn0",
+  "url": "https://github.com/gn0/nvim-web-server"
+}

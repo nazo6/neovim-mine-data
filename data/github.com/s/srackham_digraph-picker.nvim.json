@@ -20,18 +20,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 42,
+    "commitCountLastYear": 43,
     "createdAt": "2025-03-22T01:37:05Z",
     "description": "A Neovim plugin for browsing and inserting digraphs.",
     "isArchived": false,
-    "lastCommit": "2025-04-02T04:01:44Z",
+    "lastCommit": "2025-04-30T02:12:47Z",
     "nameWithOwner": "srackham/digraph-picker.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
+      "digraphs",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

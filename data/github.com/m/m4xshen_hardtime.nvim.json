@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Training"
         }
       ],
@@ -30,22 +34,19 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 58,
+    "commitCountLastYear": 74,
     "createdAt": "2023-04-24T17:38:50Z",
-    "description": "Establish good command workflow and quit bad habit",
+    "description": "Break bad habits, master Vim motions",
     "isArchived": false,
-    "lastCommit": "2025-04-07T06:32:13Z",
+    "lastCommit": "2025-09-13T04:34:51Z",
     "nameWithOwner": "m4xshen/hardtime.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1841,
+    "star": 3481,
     "topics": [
-      "hardtime",
       "neovim",
-      "workflow",
-      "productivity",
       "vim",
       "neovim-plugin",
       "lua"

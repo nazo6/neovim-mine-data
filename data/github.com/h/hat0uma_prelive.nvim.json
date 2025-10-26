@@ -17,20 +17,34 @@
       ],
       "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 69,
+    "commitCountLastYear": 6,
     "createdAt": "2024-07-29T12:23:13Z",
     "description": "A simple luv-based development server with live reloading for Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-04-10T14:02:47Z",
+    "lastCommit": "2025-10-05T07:15:42Z",
     "nameWithOwner": "hat0uma/prelive.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 22,
     "topics": [
       "neovim",
       "neovim-plugin",

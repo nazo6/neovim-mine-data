@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hover Doc"
+        },
+        {
+          "level": 5,
+          "name": "Hover info"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-04-29T07:22:58Z",
+    "description": "show lsp reference count and last git commiter like jetbrains",
+    "isArchived": false,
+    "lastCommit": "2025-05-22T12:07:15Z",
+    "nameWithOwner": "edte/codelens.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codelens.nvim",
+  "owner": "edte",
+  "url": "https://github.com/edte/codelens.nvim"
+}

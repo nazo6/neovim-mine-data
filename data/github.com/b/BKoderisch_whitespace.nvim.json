@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Formatter"
+        },
+        {
+          "level": 3,
+          "name": "Trim Whitespace"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-01T12:16:17Z",
+    "description": "Neovim Plugin to show and remove trailing whitespace",
+    "isArchived": false,
+    "lastCommit": "2025-05-02T15:48:26Z",
+    "nameWithOwner": "BKoderisch/whitespace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "whitespace.nvim",
+  "owner": "BKoderisch",
+  "url": "https://github.com/BKoderisch/whitespace.nvim"
+}

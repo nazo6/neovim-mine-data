@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "tsc(TypeScript compiler)"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-07-30T14:52:19Z",
+    "description": "将复杂难懂的 TypeScript 错误信息(diagnostic)转换为简明中文和英文",
+    "isArchived": false,
+    "lastCommit": "2025-07-31T08:26:31Z",
+    "nameWithOwner": "LongYinStudio/ts-error-translator-plus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ts-error-translator-plus.nvim",
+  "owner": "LongYinStudio",
+  "url": "https://github.com/LongYinStudio/ts-error-translator-plus.nvim"
+}

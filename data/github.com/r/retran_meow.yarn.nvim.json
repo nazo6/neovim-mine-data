@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Call Hierarchy"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-09-16T16:38:44Z",
+    "description": "A purr-fectly simple way to visualize LSP hierarchies in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-02T09:52:47Z",
+    "nameWithOwner": "retran/meow.yarn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 55,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "project-meow",
+      "developer-tools"
+    ]
+  },
+  "domain": "github.com",
+  "name": "meow.yarn.nvim",
+  "owner": "retran",
+  "url": "https://github.com/retran/meow.yarn.nvim"
+}

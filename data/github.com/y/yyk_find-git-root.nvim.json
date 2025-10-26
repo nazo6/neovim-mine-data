@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Root Detector"
         }
       ],
@@ -22,7 +22,6 @@
   "data": {
     "commitCountLastYear": 0,
     "createdAt": "2022-09-04T05:49:47Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2022-09-19T05:38:46Z",
     "nameWithOwner": "yyk/find-git-root.nvim",
@@ -30,7 +29,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 6,
     "topics": [
     ]
   },

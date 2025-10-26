@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "Kitty"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 43,
+    "createdAt": "2025-01-23T19:30:25Z",
+    "description": "A neovim plugin to view images in kitty.",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T11:04:57Z",
+    "nameWithOwner": "SyedM-dev/PicVim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "PicVim",
+  "owner": "SyedM-dev",
+  "url": "https://github.com/Toprun123/PicVim"
+}

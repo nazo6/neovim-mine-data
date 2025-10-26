@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Godot"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-25T06:27:02Z",
+    "description": "A simple plugin to setup basic Godot integration with neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-09-25T14:51:25Z",
+    "nameWithOwner": "Schwenckenator/godot-quickstart.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "godot-quickstart.nvim",
+  "owner": "Schwenckenator",
+  "url": "https://github.com/Schwenckenator/godot-quickstart.nvim"
+}

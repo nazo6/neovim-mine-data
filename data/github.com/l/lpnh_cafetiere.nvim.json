@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Icon"
+        },
+        {
+          "level": 3,
+          "name": "Devicon color"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-10-09T20:04:28Z",
+    "description": "Brew your favorite icons with your favorite flavor",
+    "isArchived": false,
+    "lastCommit": "2025-10-15T12:02:44Z",
+    "nameWithOwner": "lpnh/cafetiere.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "catppuccin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cafetiere.nvim",
+  "owner": "lpnh",
+  "url": "https://github.com/lpnh/cafetiere.nvim"
+}

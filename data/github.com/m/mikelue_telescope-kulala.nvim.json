@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-09-30T03:36:05Z",
+    "description": "A extension of Telescope for kulala",
+    "isArchived": false,
+    "lastCommit": "2025-09-30T03:35:38Z",
+    "nameWithOwner": "mikelue/telescope-kulala.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "kulala",
+      "nvim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-kulala.nvim",
+  "owner": "mikelue",
+  "url": "https://github.com/mikelue/telescope-kulala.nvim"
+}

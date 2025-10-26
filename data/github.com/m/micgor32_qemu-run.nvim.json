@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "qemu"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-11T14:20:50Z",
+    "description": "A simple nvim plugin to start QEMU without exiting your favourite editor (or switching tabs).",
+    "isArchived": false,
+    "lastCommit": "2025-05-11T17:36:53Z",
+    "nameWithOwner": "micgor32/qemu-run.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qemu-run.nvim",
+  "owner": "micgor32",
+  "url": "https://github.com/micgor32/qemu-run.nvim"
+}

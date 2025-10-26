@@ -1,0 +1,68 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-10-10T10:56:29Z",
+    "description": "Generate conventional commit messages using AI, directly in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T14:15:59Z",
+    "nameWithOwner": "404pilo/aicommits.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "ai",
+      "conventional-commits",
+      "developer-tools",
+      "git",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "openai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "aicommits.nvim",
+  "owner": "404pilo",
+  "url": "https://github.com/404pilo/aicommits.nvim"
+}

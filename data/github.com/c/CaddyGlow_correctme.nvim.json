@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grammar check"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-09-03T20:19:47Z",
+    "description": "A Neovim plugin for grammar checking and text correction using multiple LLM providers.",
+    "isArchived": false,
+    "lastCommit": "2025-09-12T13:24:45Z",
+    "nameWithOwner": "CaddyGlow/correctme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ai",
+      "llm",
+      "nvim",
+      "proofreading",
+      "spellcheck"
+    ]
+  },
+  "domain": "github.com",
+  "name": "correctme.nvim",
+  "owner": "CaddyGlow",
+  "url": "https://github.com/CaddyGlow/correctme.nvim"
+}

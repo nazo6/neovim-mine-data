@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-08-27T20:44:36Z",
+    "description": "🔎  The native search and replace experience but without the redundancy.",
+    "isArchived": false,
+    "lastCommit": "2025-09-14T20:40:12Z",
+    "nameWithOwner": "shortcuts/search-and-replace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "grep",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugin",
+      "replace",
+      "search",
+      "search-and-replace",
+      "ux"
+    ]
+  },
+  "domain": "github.com",
+  "name": "search-and-replace.nvim",
+  "owner": "shortcuts",
+  "url": "https://github.com/shortcuts/search-and-replace.nvim"
+}

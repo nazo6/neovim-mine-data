@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-09-05T09:11:14Z",
+    "isArchived": false,
+    "lastCommit": "2025-09-05T12:19:26Z",
+    "nameWithOwner": "noelr/floating-cmdline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floating-cmdline.nvim",
+  "owner": "noelr",
+  "url": "https://github.com/noelr/floating-cmdline.nvim"
+}

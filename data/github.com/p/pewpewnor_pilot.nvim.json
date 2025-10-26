@@ -38,18 +38,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 71,
+    "commitCountLastYear": 87,
     "createdAt": "2025-03-20T04:30:21Z",
-    "description": "✈️ Run your projects and files quickly with keybindings, and configure how to run them on the fly!",
+    "description": "✈️ Run your projects and files quickly with placeholder support, and configure how to run them on the fly!",
     "isArchived": false,
-    "lastCommit": "2025-04-17T16:45:35Z",
+    "lastCommit": "2025-08-12T10:27:04Z",
     "nameWithOwner": "pewpewnor/pilot.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 5,
     "topics": [
+      "code-runner",
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

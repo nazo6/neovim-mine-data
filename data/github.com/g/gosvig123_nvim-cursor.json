@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-10-10T19:49:56Z",
+    "description": "Cursor-like AI prediction plugin for Neovim with ghost text and multi-location jumps. Just press Tab!",
+    "isArchived": false,
+    "lastCommit": "2025-10-10T20:17:58Z",
+    "nameWithOwner": "gosvig123/nvim-cursor",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cursor",
+  "owner": "gosvig123",
+  "url": "https://github.com/gosvig123/nvim-cursor"
+}

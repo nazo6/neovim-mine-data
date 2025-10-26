@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-19T13:25:30Z",
+    "description": "Library of my own neovim plugins. Configurable per plugin.",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T16:26:40Z",
+    "nameWithOwner": "arne-vl/avl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "lua",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "avl.nvim",
+  "owner": "arne-vl",
+  "url": "https://github.com/arne-vl/avl.nvim"
+}

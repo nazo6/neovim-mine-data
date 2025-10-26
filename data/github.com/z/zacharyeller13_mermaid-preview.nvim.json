@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Mermaid"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-09-01T21:03:04Z",
+    "description": "A Neovim plugin to preview mermaid diagrams",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T19:04:56Z",
+    "nameWithOwner": "zacharyeller13/mermaid-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mermaid-preview.nvim",
+  "owner": "zacharyeller13",
+  "url": "https://github.com/zacharyeller13/mermaid-preview.nvim"
+}

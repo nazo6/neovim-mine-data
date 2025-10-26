@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Mermaid"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2025-10-02T11:42:56Z",
+    "description": "Live-preview Mermaid diagrams from your Markdown code blocks in a browser.  Works great with Mermaid’s new architecture diagrams and icon packs.",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T22:10:36Z",
+    "nameWithOwner": "selimacerbas/mermaid-playground.nvim",
+    "primaryLanguage": {
+      "color": "#e34c26",
+      "name": "HTML"
+    },
+    "star": 18,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mermaid-playground.nvim",
+  "owner": "selimacerbas",
+  "url": "https://github.com/selimacerbas/mermaid-playground.nvim"
+}

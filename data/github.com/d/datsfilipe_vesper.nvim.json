@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2024-01-31T23:47:36Z",
+    "description": "Porting Vesper theme from Visual Studio Code to Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-04-21T04:26:53Z",
+    "nameWithOwner": "datsfilipe/vesper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 179,
+    "topics": [
+      "colorscheme",
+      "dark-theme",
+      "neovim-colorscheme",
+      "nvim-colorscheme",
+      "nvim-plugin",
+      "theme",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vesper.nvim",
+  "owner": "datsfilipe",
+  "url": "https://github.com/datsfilipe/vesper.nvim"
+}

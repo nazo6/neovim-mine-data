@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-17T22:30:25Z",
+    "description": "Neovim Tmux session manager",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T22:35:47Z",
+    "nameWithOwner": "jmpTeixeira02/tmux-sesh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-sesh.nvim",
+  "owner": "jmpTeixeira02",
+  "url": "https://github.com/jmpTeixeira02/tmux-sesh.nvim"
+}

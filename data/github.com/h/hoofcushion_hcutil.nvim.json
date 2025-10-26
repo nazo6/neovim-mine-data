@@ -2,25 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Config"
-        }
       ],
-      "file": "neovim-lua-library.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2023-12-06T14:43:19Z",
     "description": "A plugin for Neovim to provide utilities for my other plugins.",
-    "isArchived": false,
-    "lastCommit": "2024-02-14T08:57:25Z",
+    "isArchived": true,
+    "lastCommit": "2025-09-19T22:00:58Z",
     "nameWithOwner": "hoofcushion/hcutil.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-05-26T02:15:30Z",
+    "description": "Neovim plugin supports controlling the display of code diagnoses with commands",
+    "isArchived": false,
+    "lastCommit": "2025-05-28T02:29:05Z",
+    "nameWithOwner": "Quaestiox/diag-cmd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "diag-cmd.nvim",
+  "owner": "Quaestiox",
+  "url": "https://github.com/Quaestiox/diag-cmd.nvim"
+}

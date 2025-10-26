@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Competitive programming"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-09-27T17:46:45Z",
+    "description": "Math utilities for Competitive Programming in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T15:00:40Z",
+    "nameWithOwner": "simta1/cptools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "atcoder",
+      "baekjoon-online-judge",
+      "codeforces",
+      "competitive-programming",
+      "neovim",
+      "nvim",
+      "topcoder"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cptools.nvim",
+  "owner": "simta1",
+  "url": "https://github.com/simta1/cptools.nvim"
+}

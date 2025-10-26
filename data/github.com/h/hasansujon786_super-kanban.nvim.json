@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 108,
+    "createdAt": "2025-04-05T10:19:21Z",
+    "description": "A keyboard-centric, minimal, and customizable Kanban board plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-07-10T16:29:31Z",
+    "nameWithOwner": "hasansujon786/super-kanban.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 45,
+    "topics": [
+      "kanban-board",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "super-kanban.nvim",
+  "owner": "hasansujon786",
+  "url": "https://github.com/hasansujon786/super-kanban.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-06-02T17:27:35Z",
+    "description": "Simple Neovim session manager that helps you keep track of your opened files per project. Automatically saves on exit and loads on demand.",
+    "isArchived": false,
+    "lastCommit": "2025-06-12T14:47:07Z",
+    "nameWithOwner": "am2b/keep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "keep.nvim",
+  "owner": "am2b",
+  "url": "https://github.com/am2b/keep.nvim"
+}

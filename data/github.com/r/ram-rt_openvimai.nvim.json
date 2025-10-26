@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-21T13:09:41Z",
+    "description": "A context-aware AI assistant for Neovim, powered by OpenAI and a local FastAPI proxy.",
+    "isArchived": false,
+    "lastCommit": "2025-05-21T20:12:24Z",
+    "nameWithOwner": "ram-rt/openvimai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "openvimai.nvim",
+  "owner": "ram-rt",
+  "url": "https://github.com/ram-rt/openvimai.nvim"
+}

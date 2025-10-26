@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 6,
     "createdAt": "2023-07-14T17:26:07Z",
     "description": "Automatically formats files when saving using either LSP or shell utilities like prettierd or shfmt",
     "isArchived": false,
-    "lastCommit": "2024-12-25T12:19:00Z",
+    "lastCommit": "2025-07-20T19:19:53Z",
     "nameWithOwner": "elentok/format-on-save.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 170,
+    "star": 172,
     "topics": [
       "formatter",
       "lsp",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-06-22T09:53:57Z",
+    "isArchived": false,
+    "lastCommit": "2025-06-25T13:42:25Z",
+    "nameWithOwner": "felixlazy/mpv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "mpv",
+      "nvim",
+      "nvim-plugin",
+      "nvim-plugins",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mpv.nvim",
+  "owner": "felixlazy",
+  "url": "https://github.com/felixlazy/mpv.nvim"
+}

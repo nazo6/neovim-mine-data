@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-09-04T23:11:22Z",
+    "description": "Simple markdown note taking floating window in neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-09-24T02:01:36Z",
+    "nameWithOwner": "etiennecollin/notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "notes",
+      "nvim",
+      "nvim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes.nvim",
+  "owner": "etiennecollin",
+  "url": "https://github.com/etiennecollin/notes.nvim"
+}

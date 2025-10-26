@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line"
+        },
+        {
+          "level": 3,
+          "name": "Normal mode command line"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-03T04:22:38Z",
+    "description": "normal mode in cmdline",
+    "isArchived": false,
+    "lastCommit": "2025-05-03T12:36:12Z",
+    "nameWithOwner": "jake-stewart/normal-cmdline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "normal-cmdline.nvim",
+  "owner": "jake-stewart",
+  "url": "https://github.com/jake-stewart/normal-cmdline.nvim"
+}

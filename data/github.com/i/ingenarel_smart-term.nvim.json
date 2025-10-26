@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Open"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 102,
+    "createdAt": "2025-05-02T04:36:34Z",
+    "description": "interact with terminal and terminal multiplexers easily",
+    "isArchived": false,
+    "lastCommit": "2025-09-03T18:18:44Z",
+    "nameWithOwner": "ingenarel/smart-term.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-term"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-term.nvim",
+  "owner": "ingenarel",
+  "url": "https://github.com/ingenarel/smart-term.nvim"
+}

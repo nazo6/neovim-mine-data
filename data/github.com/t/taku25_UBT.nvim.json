@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Unreal"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 75,
+    "createdAt": "2025-08-08T14:23:29Z",
+    "description": "Run UnrealBuildTool jobs on Neovim, with optional progress feedback  - ",
+    "isArchived": false,
+    "lastCommit": "2025-10-22T06:35:09Z",
+    "nameWithOwner": "taku25/UBT.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "UBT.nvim",
+  "owner": "taku25",
+  "url": "https://github.com/taku25/UBT.nvim"
+}

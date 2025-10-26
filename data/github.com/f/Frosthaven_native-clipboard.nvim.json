@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "System Clipboard"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 167,
+    "createdAt": "2025-10-08T17:19:47Z",
+    "description": "This is a Neovim plugin that provides normalized read/write access to the system clipboard across platforms. Text, HTML, images, and files are supported.",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T03:36:04Z",
+    "nameWithOwner": "Frosthaven/native-clipboard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "native-clipboard.nvim",
+  "owner": "Frosthaven",
+  "url": "https://github.com/Frosthaven/native-clipboard.nvim"
+}

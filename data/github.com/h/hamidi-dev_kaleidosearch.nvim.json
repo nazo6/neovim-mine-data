@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Current word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-01-24T13:14:51Z",
+    "description": "A Neovim plugin that colorizes multiple search terms with multiple distinct colors for better visual tracking.",
+    "isArchived": false,
+    "lastCommit": "2025-07-20T05:38:14Z",
+    "nameWithOwner": "hamidi-dev/kaleidosearch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 26,
+    "topics": [
+      "color",
+      "colorize",
+      "neovim",
+      "plugin",
+      "search",
+      "neovim-plugin",
+      "nvim-plugin",
+      "plugin-neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "kaleidosearch.nvim",
+  "owner": "hamidi-dev",
+  "url": "https://github.com/hamidi-dev/kaleidosearch.nvim"
+}

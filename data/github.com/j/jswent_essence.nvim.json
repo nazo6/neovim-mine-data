@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Essence"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-10-04T15:22:57Z",
+    "description": "Neovim tooling for Essence and Essence' constraint modelling with lsp",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T14:26:29Z",
+    "nameWithOwner": "jswent/essence.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "essence.nvim",
+  "owner": "jswent",
+  "url": "https://github.com/jswent/essence.nvim"
+}

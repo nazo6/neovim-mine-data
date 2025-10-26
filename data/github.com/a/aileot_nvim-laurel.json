@@ -16,22 +16,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 39,
+    "commitCountLastYear": 60,
     "createdAt": "2021-11-30T02:03:05Z",
-    "description": "🌿 A set of macros for Neovim, highly inspired by Vim script, and Nvim Lua-Vimscript bridge on metatable",
+    "description": "🌿 A set of Fennel macros cherry-picking the finest syntax from Vim script and Lua, compiled into the native Neovim API functions.",
     "isArchived": false,
-    "lastCommit": "2025-02-22T06:09:11Z",
+    "lastCommit": "2025-10-25T14:16:05Z",
     "nameWithOwner": "aileot/nvim-laurel",
     "primaryLanguage": {
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 30,
+    "star": 34,
     "topics": [
       "fennel",
       "nvim",
       "nvim-plugin",
-      "macro"
+      "macro",
+      "lisp",
+      "lisp-macros",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

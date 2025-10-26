@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Select"
+        },
+        {
+          "level": 3,
+          "name": "Select Number"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-06-16T16:54:33Z",
+    "description": "Shows line/char count for current visual selection as virtual text.",
+    "isArchived": false,
+    "lastCommit": "2025-06-22T00:46:51Z",
+    "nameWithOwner": "tzhouhc/virt-counter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "virt-counter.nvim",
+  "owner": "tzhouhc",
+  "url": "https://github.com/tzhouhc/virt-counter.nvim"
+}

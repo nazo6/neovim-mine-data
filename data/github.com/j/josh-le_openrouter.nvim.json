@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenRouter"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-07-27T19:48:33Z",
+    "description": "nvim plugin to interact with LLMs via openrouter",
+    "isArchived": false,
+    "lastCommit": "2025-08-14T20:58:37Z",
+    "nameWithOwner": "josh-le/openrouter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "openrouter.nvim",
+  "owner": "josh-le",
+  "url": "https://github.com/josh-le/openrouter.nvim"
+}

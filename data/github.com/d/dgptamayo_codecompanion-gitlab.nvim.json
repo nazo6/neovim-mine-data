@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        },
+        {
+          "level": 3,
+          "name": "GitLab Guo"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-09-06T08:48:49Z",
+    "description": "A custom adapter for CodeCompanion.nvim that integrates GitLab Duo AI-assisted code completions and chat features via the official GitLab Language Server Protocol (LSP).",
+    "isArchived": false,
+    "lastCommit": "2025-09-06T12:46:56Z",
+    "nameWithOwner": "dgptamayo/codecompanion-gitlab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-gitlab.nvim",
+  "owner": "dgptamayo",
+  "url": "https://github.com/dgptamayo/codecompanion-gitlab.nvim"
+}

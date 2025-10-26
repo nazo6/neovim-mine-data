@@ -8,10 +8,6 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
-        },
-        {
-          "level": 3,
           "name": "Jupyter"
         }
       ],
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 51,
+    "commitCountLastYear": 52,
     "createdAt": "2024-01-02T08:08:14Z",
     "description": "The  bridge between Neovim and Jupyterlab",
     "isArchived": false,
-    "lastCommit": "2025-03-18T04:57:42Z",
+    "lastCommit": "2025-10-24T07:06:35Z",
     "nameWithOwner": "SUSTech-data/neopyter",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 113,
+    "star": 140,
     "topics": [
       "jupyter",
       "jupyterlab",

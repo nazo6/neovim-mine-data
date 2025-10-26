@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Croc"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-13T18:10:50Z",
+    "description": "Little neovim plugin based on croc",
+    "isArchived": false,
+    "lastCommit": "2025-06-13T18:12:01Z",
+    "nameWithOwner": "Frayzen/croc-byte.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "croc-byte.nvim",
+  "owner": "Frayzen",
+  "url": "https://github.com/Frayzen/croc-byte.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Convert Word"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-08-19T16:57:42Z",
+    "description": "Just a simple word switcher neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2025-08-19T17:01:41Z",
+    "nameWithOwner": "afkale/wswitcher.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wswitcher.nvim",
+  "owner": "afkale",
+  "url": "https://github.com/afkale/wswitcher.nvim"
+}

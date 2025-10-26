@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-10-14T19:40:59Z",
+    "description": "A (very) simple todo plugin for neovim based on markdown",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T21:26:30Z",
+    "nameWithOwner": "moreka/simple-todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-todo.nvim",
+  "owner": "moreka",
+  "url": "https://github.com/moreka/simple-todo.nvim"
+}

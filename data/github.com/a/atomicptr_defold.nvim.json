@@ -1,0 +1,61 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Defold"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 113,
+    "createdAt": "2025-07-15T11:43:51Z",
+    "description": "Batteries-included development environment for the Defold game engine, powered by Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-15T18:18:59Z",
+    "nameWithOwner": "atomicptr/defold.nvim",
+    "primaryLanguage": {
+      "color": "#db5855",
+      "name": "Clojure"
+    },
+    "star": 11,
+    "topics": [
+      "defold",
+      "defold-game-engine",
+      "neovim",
+      "neovim-plugin",
+      "babashka",
+      "clojure"
+    ]
+  },
+  "domain": "github.com",
+  "name": "defold.nvim",
+  "owner": "atomicptr",
+  "url": "https://github.com/atomicptr/defold.nvim"
+}

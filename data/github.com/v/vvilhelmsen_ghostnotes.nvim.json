@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "inline note"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 67,
+    "createdAt": "2025-07-29T12:28:23Z",
+    "description": "Create persistent virtual notes / comments in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-30T04:47:55Z",
+    "nameWithOwner": "vvilhelmsen/ghostnotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "neovim",
+      "nvim",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ghostnotes.nvim",
+  "owner": "vvilhelmsen",
+  "url": "https://github.com/vvilhelmsen/ghostnotes.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-09-24T04:54:05Z",
+    "description": "Context-aware keymaps for Neovim. Activate temporary keybindings based on cursor location, filetype, or custom conditions.",
+    "isArchived": false,
+    "lastCommit": "2025-09-24T05:10:24Z",
+    "nameWithOwner": "StackInTheWild/elevator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "elevator.nvim",
+  "owner": "StackInTheWild",
+  "url": "https://github.com/StackInTheWild/elevator.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "MQTT"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-16T14:33:13Z",
+    "description": "MQTT client integration for NeoVIM using mosquitto.",
+    "isArchived": false,
+    "lastCommit": "2025-10-26T00:31:16Z",
+    "nameWithOwner": "thgrass/mqtt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "mqtt",
+      "neovim",
+      "neovim-plugin",
+      "mosquitto"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mqtt.nvim",
+  "owner": "thgrass",
+  "url": "https://github.com/thgrass/mqtt.nvim"
+}

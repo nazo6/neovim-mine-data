@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Unreal"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 114,
+    "createdAt": "2025-05-04T18:48:30Z",
+    "description": "A neovim plugin bringing IDE-like features for Unreal Engine development",
+    "isArchived": false,
+    "lastCommit": "2025-05-28T06:13:53Z",
+    "nameWithOwner": "jacksonhvisuals/unrealium.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "unrealium.nvim",
+  "owner": "jacksonhvisuals",
+  "url": "https://github.com/jacksonhvisuals/unrealium.nvim"
+}

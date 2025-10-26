@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Partial execution"
+        },
+        {
+          "level": 4,
+          "name": "Jupyter style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 100,
+    "createdAt": "2025-10-07T05:04:57Z",
+    "description": "Neovim plugin for interacting with code cells",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T22:39:34Z",
+    "nameWithOwner": "mwoitek/code-cells.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-cells.nvim",
+  "owner": "mwoitek",
+  "url": "https://github.com/mwoitek/code-cells.nvim"
+}

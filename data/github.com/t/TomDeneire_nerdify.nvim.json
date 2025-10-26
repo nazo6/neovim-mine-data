@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Style"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2025-10-02T11:51:02Z",
+    "description": "Transform text into Nerd glyphs",
+    "isArchived": false,
+    "lastCommit": "2025-10-04T13:35:31Z",
+    "nameWithOwner": "TomDeneire/nerdify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nerd-fonts",
+      "ui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nerdify.nvim",
+  "owner": "TomDeneire",
+  "url": "https://github.com/TomDeneire/nerdify.nvim"
+}

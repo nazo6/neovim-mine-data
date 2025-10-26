@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Documentation"
-        },
-        {
-          "level": 3,
-          "name": "Pandoc"
-        }
       ],
-      "file": "documentation.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2021-09-25T12:01:00Z",
     "description": "A source for nvim-cmp, providing completion for bibliography, reference and cross-ref items in Pandoc/Markdown.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-04-20T19:05:21Z",
     "nameWithOwner": "jc-doyle/cmp-pandoc-references",
     "primaryLanguage": {

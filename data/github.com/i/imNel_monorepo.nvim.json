@@ -7,11 +7,15 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
-          "name": "Project Template"
+          "level": 2,
+          "name": "Project"
         },
         {
-          "level": 5,
+          "level": 3,
+          "name": "Project syntax"
+        },
+        {
+          "level": 4,
           "name": "Monorepo"
         }
       ],
@@ -30,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 102,
+    "star": 103,
     "topics": [
       "monorepo",
       "neovim",

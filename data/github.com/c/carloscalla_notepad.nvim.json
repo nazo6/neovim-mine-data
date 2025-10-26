@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-06-19T16:55:11Z",
+    "description": "Neovim plugin for taking quick notes",
+    "isArchived": false,
+    "lastCommit": "2025-06-21T11:31:39Z",
+    "nameWithOwner": "carloscalla/notepad.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notepad.nvim",
+  "owner": "carloscalla",
+  "url": "https://github.com/carloscalla/notepad.nvim"
+}

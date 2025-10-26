@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Go"
-        },
-        {
-          "level": 3,
-          "name": "Test"
-        }
       ],
-      "file": "go.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 3,
     "createdAt": "2025-01-03T18:21:35Z",
     "description": "A Neovim plugin to run Go tests.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-01-04T07:02:37Z",
     "nameWithOwner": "devoc09/go-test.nvim",
     "primaryLanguage": {

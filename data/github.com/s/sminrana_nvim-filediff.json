@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-09-12T04:23:41Z",
+    "description": "A fast, user-friendly Neovim plugin for visually comparing files and folders directly inside your editor. FileDiff highlights changes, lets you sync differences with keymaps, and supports both file and directory diffing with an intuitive interface.  ",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T06:26:48Z",
+    "nameWithOwner": "sminrana/nvim-filediff",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "filedifferences",
+      "lazyvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-filediff",
+  "owner": "sminrana",
+  "url": "https://github.com/sminrana/nvim-filediff"
+}

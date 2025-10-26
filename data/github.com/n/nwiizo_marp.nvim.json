@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Query"
+        },
+        {
+          "level": 4,
+          "name": "Marp"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-05-30T12:41:07Z",
+    "description": "A Neovim plugin for [Marp](https://marp.app/) (Markdown Presentation Ecosystem).",
+    "isArchived": false,
+    "lastCommit": "2025-09-04T11:54:18Z",
+    "nameWithOwner": "nwiizo/marp.nvim",
+    "primaryLanguage": {
+      "color": "#e34c26",
+      "name": "HTML"
+    },
+    "star": 18,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "marp.nvim",
+  "owner": "nwiizo",
+  "url": "https://github.com/nwiizo/marp.nvim"
+}

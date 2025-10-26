@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-07-21T11:55:18Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T03:53:06Z",
+    "nameWithOwner": "mitubaEX/git_worktree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git_worktree.nvim",
+  "owner": "mitubaEX",
+  "url": "https://github.com/mitubaEX/git_worktree.nvim"
+}

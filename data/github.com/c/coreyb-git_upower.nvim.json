@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Chromebook"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-05-03T21:33:05Z",
+    "description": "Battery status for Chromebook",
+    "isArchived": false,
+    "lastCommit": "2025-08-24T09:04:27Z",
+    "nameWithOwner": "coreyb-git/upower.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "upower.nvim",
+  "owner": "coreyb-git",
+  "url": "https://github.com/coreyb-git/upower.nvim"
+}

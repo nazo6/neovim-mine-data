@@ -21,20 +21,34 @@
       ],
       "file": "language-specific.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 74,
+    "commitCountLastYear": 92,
     "createdAt": "2025-02-06T05:05:07Z",
     "description": "Improve the zig experience in neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-21T15:27:55Z",
+    "lastCommit": "2025-09-14T15:02:23Z",
     "nameWithOwner": "jinzhongjia/zig-lamp",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 18,
+    "star": 30,
     "topics": [
       "neovim",
       "neovim-lua-plugin",

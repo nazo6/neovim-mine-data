@@ -8,10 +8,14 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
+          "name": "Python"
         },
         {
           "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
           "name": "build manager"
         }
       ],
@@ -22,7 +26,6 @@
   "data": {
     "commitCountLastYear": 0,
     "createdAt": "2022-10-29T23:32:36Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2022-11-02T10:23:55Z",
     "nameWithOwner": "yohi/install-pip-package.nvim",

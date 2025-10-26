@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "test"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-07-26T09:50:42Z",
+    "description": "Neovim python language tools",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T12:32:44Z",
+    "nameWithOwner": "CaetanoGenete/python-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "python-tools.nvim",
+  "owner": "CaetanoGenete",
+  "url": "https://github.com/CaetanoGenete/python-tools.nvim"
+}

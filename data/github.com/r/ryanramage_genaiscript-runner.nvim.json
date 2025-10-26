@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "GenAIScript"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-04-20T18:40:31Z",
+    "description": "A Neovim plugin for running GenAIScript scripts and displaying diagnostics in your editor",
+    "isArchived": false,
+    "lastCommit": "2025-04-21T21:34:22Z",
+    "nameWithOwner": "ryanramage/genaiscript-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "genaiscript-runner.nvim",
+  "owner": "ryanramage",
+  "url": "https://github.com/ryanramage/genaiscript-runner.nvim"
+}

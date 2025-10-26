@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Taskfile"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-22T02:36:34Z",
+    "description": "A Neovim plugin for the go-task task runner.",
+    "isArchived": false,
+    "lastCommit": "2025-06-05T23:54:42Z",
+    "nameWithOwner": "jedi-knights/go-task.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go-task.nvim",
+  "owner": "jedi-knights",
+  "url": "https://github.com/jedi-knights/go-task.nvim"
+}

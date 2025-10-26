@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Taskfile"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2025-05-03T12:17:31Z",
+    "description": "Run Taskfile tasks inside Neovim with floating terminals, previews, and simple keymaps.",
+    "isArchived": false,
+    "lastCommit": "2025-09-22T07:28:24Z",
+    "nameWithOwner": "dasvh/taskfile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "task",
+      "taskfile"
+    ]
+  },
+  "domain": "github.com",
+  "name": "taskfile.nvim",
+  "owner": "dasvh",
+  "url": "https://github.com/dasvh/taskfile.nvim"
+}

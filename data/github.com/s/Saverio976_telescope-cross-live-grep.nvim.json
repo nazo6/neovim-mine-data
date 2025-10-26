@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 60,
+    "createdAt": "2025-06-26T11:49:47Z",
+    "description": "Telescope.live_grep but use only lua (no external commands needed). Works on windows & linux.",
+    "isArchived": false,
+    "lastCommit": "2025-07-03T11:55:02Z",
+    "nameWithOwner": "Saverio976/telescope-cross-live-grep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-cross-live-grep.nvim",
+  "owner": "Saverio976",
+  "url": "https://github.com/Saverio976/telescope-cross-live-grep.nvim"
+}

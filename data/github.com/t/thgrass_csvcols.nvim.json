@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-10-16T10:58:12Z",
+    "description": "A NeoVIM plugin for improving the readability of CSV and TSV files.",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T20:42:22Z",
+    "nameWithOwner": "thgrass/csvcols.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "csv",
+      "neovim",
+      "neovim-plugin",
+      "tsv"
+    ]
+  },
+  "domain": "github.com",
+  "name": "csvcols.nvim",
+  "owner": "thgrass",
+  "url": "https://github.com/thgrass/csvcols.nvim"
+}

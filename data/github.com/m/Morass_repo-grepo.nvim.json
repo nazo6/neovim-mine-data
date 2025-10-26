@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Select"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-10-09T15:30:19Z",
+    "description": "Blazingly fast repository-wide grep plugin for Neovim with multi-window interface",
+    "isArchived": false,
+    "lastCommit": "2025-10-10T07:08:11Z",
+    "nameWithOwner": "Morass/repo-grepo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "repo-grepo.nvim",
+  "owner": "Morass",
+  "url": "https://github.com/Morass/repo-grepo.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-06-02T05:19:44Z",
+    "description": "A Neovim plugin for seamless Claude Code integration with split terminal windows.",
+    "isArchived": false,
+    "lastCommit": "2025-07-09T13:46:47Z",
+    "nameWithOwner": "kakapo1933/kaipo-claude-code.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kaipo-claude-code.nvim",
+  "owner": "kakapo1933",
+  "url": "https://github.com/kakapo1933/kaipo-claude-code.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "debug"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-10-18T01:59:31Z",
+    "description": "⚡️ Blazing fast golang objdump viewer",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T17:21:15Z",
+    "nameWithOwner": "sergei-durkin/gobjdump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gobjdump.nvim",
+  "owner": "sergei-durkin",
+  "url": "https://github.com/sergei-durkin/gobjdump.nvim"
+}

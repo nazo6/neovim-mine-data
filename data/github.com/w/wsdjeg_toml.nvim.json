@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "TOML"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-10-24T14:30:48Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T14:33:02Z",
+    "nameWithOwner": "wsdjeg/toml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "toml.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/toml.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Header"
+        },
+        {
+          "level": 4,
+          "name": "include"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-09-16T10:03:27Z",
+    "description": "insert a header guard for c and c++ headers from the name of the file",
+    "isArchived": false,
+    "lastCommit": "2025-09-16T13:58:37Z",
+    "nameWithOwner": "MoulatiMehdi/HeaderGuard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "HeaderGuard.nvim",
+  "owner": "MoulatiMehdi",
+  "url": "https://github.com/MoulatiMehdi/HeaderGuard.nvim"
+}

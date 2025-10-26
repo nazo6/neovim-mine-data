@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2025-05-31T13:49:36Z",
+    "description": "Silence LSP diagnostics with a single click",
+    "isArchived": false,
+    "lastCommit": "2025-07-05T19:36:00Z",
+    "nameWithOwner": "mbienkowsk/hush.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hush.nvim",
+  "owner": "mbienkowsk",
+  "url": "https://github.com/mbienkowsk/hush.nvim"
+}

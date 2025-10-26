@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Copy File Context"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-04T14:10:49Z",
+    "description": "A plugin for sharing context with with teammates, notes, or a CLI AI tool.",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T08:26:08Z",
+    "nameWithOwner": "rdainton/share-context.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "share-context.nvim",
+  "owner": "rdainton",
+  "url": "https://github.com/rdainton/share-context.nvim"
+}

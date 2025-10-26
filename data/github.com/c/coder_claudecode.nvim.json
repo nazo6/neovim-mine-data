@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 108,
+    "createdAt": "2025-05-21T12:35:56Z",
+    "description": "🧩 Claude Code Neovim IDE Extension",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T16:47:13Z",
+    "nameWithOwner": "coder/claudecode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1271,
+    "topics": [
+      "claude-code",
+      "neovim",
+      "claude"
+    ]
+  },
+  "domain": "github.com",
+  "name": "claudecode.nvim",
+  "owner": "coder",
+  "url": "https://github.com/coder/claudecode.nvim"
+}

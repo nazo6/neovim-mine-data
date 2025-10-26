@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 60,
+    "createdAt": "2025-08-08T03:13:54Z",
+    "description": "A simple HTTP client for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-08T19:54:25Z",
+    "nameWithOwner": "grqphical/rest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rest.nvim",
+  "owner": "grqphical",
+  "url": "https://github.com/grqphical/rest.nvim"
+}

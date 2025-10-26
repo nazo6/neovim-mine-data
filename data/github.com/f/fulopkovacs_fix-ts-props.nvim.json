@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "tsc(TypeScript compiler)"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-19T21:41:00Z",
+    "description": "A Neovim plugin that automatically fixes missing TypeScript props in React components.",
+    "isArchived": false,
+    "lastCommit": "2025-04-25T19:07:42Z",
+    "nameWithOwner": "fulopkovacs/fix-ts-props.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fix-ts-props.nvim",
+  "owner": "fulopkovacs",
+  "url": "https://github.com/fulopkovacs/fix-ts-props.nvim"
+}

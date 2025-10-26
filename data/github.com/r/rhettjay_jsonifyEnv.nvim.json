@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-06-13T15:59:21Z",
+    "isArchived": false,
+    "lastCommit": "2025-06-13T16:14:19Z",
+    "nameWithOwner": "rhettjay/jsonifyEnv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jsonifyEnv.nvim",
+  "owner": "rhettjay",
+  "url": "https://github.com/rhettjay/jsonifyEnv.nvim"
+}

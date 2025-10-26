@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "DuckDB"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2025-03-22T18:07:01Z",
+    "description": "Yazi plugin that uses duckdb to preview data files.",
+    "isArchived": false,
+    "lastCommit": "2025-05-29T07:41:05Z",
+    "nameWithOwner": "wylie102/duckdb.yazi",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 128,
+    "topics": [
+      "csv",
+      "csv-viewer",
+      "duckdb",
+      "duckdb-community",
+      "duckdb-database",
+      "json",
+      "json-viewer",
+      "parquet",
+      "parquet-viewer",
+      "yazi"
+    ]
+  },
+  "domain": "github.com",
+  "name": "duckdb.yazi",
+  "owner": "wylie102",
+  "url": "https://github.com/wylie102/duckdb.yazi"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Salesforce"
+        },
+        {
+          "level": 5,
+          "name": "Microsoft Dynamics 365 Business Central"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-06-05T10:09:55Z",
+    "description": "A Neovim plugin that provides AL (Application Language) support for Microsoft Dynamics 365 Business Central development.",
+    "isArchived": false,
+    "lastCommit": "2025-08-25T08:26:40Z",
+    "nameWithOwner": "abonckus/al.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "al.nvim",
+  "owner": "abonckus",
+  "url": "https://github.com/abonckus/al.nvim"
+}

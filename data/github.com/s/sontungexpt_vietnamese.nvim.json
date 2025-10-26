@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Language"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 62,
+    "createdAt": "2025-06-14T13:43:44Z",
+    "description": "IME giúp bạn gõ tiếng việt trực tiếp trong neovim một cách native",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T08:07:29Z",
+    "nameWithOwner": "sontungexpt/vietnamese.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "ime",
+      "lua",
+      "nvim",
+      "plugin",
+      "vietnames"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vietnamese.nvim",
+  "owner": "sontungexpt",
+  "url": "https://github.com/sontungexpt/vietnamese.nvim"
+}

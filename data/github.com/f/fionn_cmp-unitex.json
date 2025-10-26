@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "nvim-cmp extension"
+        },
+        {
+          "level": 4,
+          "name": "nvim-cmp sources"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2024-07-20T03:26:40Z",
+    "isArchived": false,
+    "lastCommit": "2024-07-22T16:34:35Z",
+    "nameWithOwner": "fionn/cmp-unitex",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-cmp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-unitex",
+  "owner": "fionn",
+  "url": "https://github.com/fionn/cmp-unitex"
+}

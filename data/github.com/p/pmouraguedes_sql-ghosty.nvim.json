@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-07T08:43:24Z",
+    "description": "Neovim Lua plugin to display column name hints in SQL insert statements.",
+    "isArchived": false,
+    "lastCommit": "2025-10-11T11:02:56Z",
+    "nameWithOwner": "pmouraguedes/sql-ghosty.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "sql",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sql-ghosty.nvim",
+  "owner": "pmouraguedes",
+  "url": "https://github.com/pmouraguedes/sql-ghosty.nvim"
+}

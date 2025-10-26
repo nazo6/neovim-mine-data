@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 22,
     "createdAt": "2024-11-15T14:09:17Z",
     "description": "neovim plugin which acts as configuration provider for nvim-dap and prelaunch task runner on a per-project basis in pure lua",
     "isArchived": false,
-    "lastCommit": "2025-04-01T10:02:21Z",
+    "lastCommit": "2025-09-18T10:45:24Z",
     "nameWithOwner": "pathmann/nvim-dap-project-configuration",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
       "lua",
       "neovim",

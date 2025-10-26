@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "NestJS"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-05-25T01:19:55Z",
+    "description": "Integrate NestJS Repl with Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-06-08T14:14:04Z",
+    "nameWithOwner": "nandoolle/nest-repl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nest-repl.nvim",
+  "owner": "nandoolle",
+  "url": "https://github.com/nandoolle/nest-repl.nvim"
+}

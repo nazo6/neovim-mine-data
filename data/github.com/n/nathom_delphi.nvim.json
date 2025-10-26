@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 70,
+    "createdAt": "2025-07-27T07:58:45Z",
+    "description": "A simple LLM plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-02T06:25:05Z",
+    "nameWithOwner": "nathom/delphi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "llms",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "delphi.nvim",
+  "owner": "nathom",
+  "url": "https://github.com/nathom/delphi.nvim"
+}

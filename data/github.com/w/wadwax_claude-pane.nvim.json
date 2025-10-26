@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-09-24T12:48:49Z",
+    "description": "A Neovim plugin for toggleable Claude AI sidebar integration",
+    "isArchived": false,
+    "lastCommit": "2025-09-24T16:11:52Z",
+    "nameWithOwner": "wadwax/claude-pane.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-pane.nvim",
+  "owner": "wadwax",
+  "url": "https://github.com/wadwax/claude-pane.nvim"
+}

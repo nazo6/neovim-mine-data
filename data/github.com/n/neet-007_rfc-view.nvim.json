@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "RFC"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-07-26T13:45:00Z",
+    "description": "Find, View, Search RFCs, Don't leave Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-02T17:19:17Z",
+    "nameWithOwner": "neet-007/rfc-view.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "go",
+      "golang",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "rfc"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rfc-view.nvim",
+  "owner": "neet-007",
+  "url": "https://github.com/neet-007/rfc-view.nvim"
+}

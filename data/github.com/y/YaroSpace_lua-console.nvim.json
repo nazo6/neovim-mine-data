@@ -34,20 +34,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 46,
+    "commitCountLastYear": 47,
     "createdAt": "2024-10-15T20:28:52Z",
     "description": "A handy scratch pad / REPL / debug console for Lua development and Neovim exploration",
     "isArchived": false,
-    "lastCommit": "2025-04-12T16:21:40Z",
+    "lastCommit": "2025-06-16T22:12:38Z",
     "nameWithOwner": "YaroSpace/lua-console.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 63,
+    "star": 80,
     "topics": [
       "lua",
-      "neovim-plugin"
+      "neovim-plugin",
+      "coderunner",
+      "console",
+      "neovim",
+      "plugin",
+      "repl"
     ]
   },
   "domain": "github.com",

@@ -17,20 +17,34 @@
       ],
       "file": "terminal.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Terminal Integration"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 18,
     "createdAt": "2024-12-27T15:31:22Z",
     "description": "A lightweight Neovim plugin for managing multiple terminal instances with key bindings.",
     "isArchived": false,
-    "lastCommit": "2025-03-11T06:28:51Z",
+    "lastCommit": "2025-04-29T05:14:01Z",
     "nameWithOwner": "Axot017/multiterm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 5,
     "topics": [
       "nvim",
       "nvim-plugin",

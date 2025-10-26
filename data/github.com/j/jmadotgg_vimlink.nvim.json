@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "path"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-09-06T16:00:54Z",
+    "description": "Open file paths in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-15T19:47:02Z",
+    "nameWithOwner": "jmadotgg/vimlink.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vimlink.nvim",
+  "owner": "jmadotgg",
+  "url": "https://github.com/jmadotgg/vimlink.nvim"
+}

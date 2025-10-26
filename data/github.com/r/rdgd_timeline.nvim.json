@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Edit History"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-09-04T23:33:35Z",
+    "description": "File access and editing timeline in vim which allows you to quickly navigate to files in your history.",
+    "isArchived": false,
+    "lastCommit": "2025-09-04T23:33:54Z",
+    "nameWithOwner": "rdgd/timeline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "timeline.nvim",
+  "owner": "rdgd",
+  "url": "https://github.com/rdgd/timeline.nvim"
+}

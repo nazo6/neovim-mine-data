@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Refactoring,Debugging"
+        },
+        {
+          "level": 4,
+          "name": "print debug"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-11T21:20:16Z",
+    "description": "Simple plugin to print debug statements",
+    "isArchived": false,
+    "lastCommit": "2025-10-12T15:44:42Z",
+    "nameWithOwner": "AndresYague/print-debug.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "print-debug.nvim",
+  "owner": "AndresYague",
+  "url": "https://github.com/AndresYague/print-debug.nvim"
+}

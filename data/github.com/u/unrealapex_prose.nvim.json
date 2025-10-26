@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Spell"
+        },
+        {
+          "level": 3,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-07-23T17:18:13Z",
+    "description": "Make writing in Neovim more pleasant",
+    "isArchived": false,
+    "lastCommit": "2025-07-23T17:37:15Z",
+    "nameWithOwner": "unrealapex/prose.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "writing-tools"
+    ]
+  },
+  "domain": "github.com",
+  "name": "prose.nvim",
+  "owner": "unrealapex",
+  "url": "https://github.com/unrealapex/prose.nvim"
+}

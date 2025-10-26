@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Macro"
+        }
+      ],
+      "file": "macro.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-05-20T15:46:37Z",
+    "description": "MacroVault is a Neovim plugin that provides a persistent, quickly accessible list of your custom macros. Define up to 100 macros and execute them with ease via a floating window selector. Regards SensorEvolve",
+    "isArchived": false,
+    "lastCommit": "2025-05-22T08:20:06Z",
+    "nameWithOwner": "SensorEvolve/macrovault.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "macrovault.nvim",
+  "owner": "SensorEvolve",
+  "url": "https://github.com/SensorEvolve/macrovault.nvim"
+}

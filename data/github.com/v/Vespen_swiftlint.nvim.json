@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Swift"
+        },
+        {
+          "level": 5,
+          "name": "SwiftLint"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-05-20T13:48:27Z",
+    "description": "SwiftLint plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-05-20T13:49:17Z",
+    "nameWithOwner": "Vespen/swiftlint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "swiftlint.nvim",
+  "owner": "Vespen",
+  "url": "https://github.com/Vespen/swiftlint.nvim"
+}

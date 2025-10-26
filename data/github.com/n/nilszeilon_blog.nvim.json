@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Blog"
+        },
+        {
+          "level": 4,
+          "name": "GitHub Pages"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-08-21T15:12:44Z",
+    "description": "Easy minimalist markdown blog in your editor.  ",
+    "isArchived": false,
+    "lastCommit": "2025-08-25T11:49:45Z",
+    "nameWithOwner": "nilszeilon/blog.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blog.nvim",
+  "owner": "nilszeilon",
+  "url": "https://github.com/nilszeilon/blog.nvim"
+}

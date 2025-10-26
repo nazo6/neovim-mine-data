@@ -7,7 +7,7 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Solana"
         }
       ],
@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 4,
     "createdAt": "2025-02-10T21:28:58Z",
     "description": "A Neovim plugin that integrates the Radar solana scanner with built-in diagnostics.",
     "isArchived": false,
-    "lastCommit": "2025-02-11T14:41:36Z",
+    "lastCommit": "2025-05-01T00:57:08Z",
     "nameWithOwner": "johnsaigle/solana-radar.nvim",
     "primaryLanguage": {
       "color": "#000080",

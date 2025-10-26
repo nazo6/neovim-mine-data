@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 88,
+    "createdAt": "2022-10-24T16:19:08Z",
+    "description": "Neovim Lua plugin for completion and signature help. Part of 'mini.nvim' library.",
+    "isArchived": false,
+    "lastCommit": "2025-10-24T11:27:17Z",
+    "nameWithOwner": "nvim-mini/mini.completion",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 100,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.completion",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.completion"
+}

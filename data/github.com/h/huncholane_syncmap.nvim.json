@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-06-02T15:59:59Z",
+    "description": "Configure synchronization of files and directories through a plugin.",
+    "isArchived": false,
+    "lastCommit": "2025-06-04T21:44:49Z",
+    "nameWithOwner": "huncholane/syncmap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "syncmap.nvim",
+  "owner": "huncholane",
+  "url": "https://github.com/huncholane/syncmap.nvim"
+}

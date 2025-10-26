@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "WebSocket"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-06-07T13:03:27Z",
+    "description": "Part of personal log system.",
+    "isArchived": false,
+    "lastCommit": "2025-06-07T13:03:28Z",
+    "nameWithOwner": "mtkld/wswrite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wswrite.nvim",
+  "owner": "mtkld",
+  "url": "https://github.com/mtkld/wswrite.nvim"
+}

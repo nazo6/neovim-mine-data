@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown code block"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-04-21T19:56:39Z",
+    "description": "Cosh is a plugin for sharing nicely formatted code snippets in Markdown. It lets you copy files, buffers, highlighted selections, directory contents, or directory trees directly into your clipboard. It works well for team chats, documentation, or posting on Reddit and GitHub.",
+    "isArchived": false,
+    "lastCommit": "2025-04-23T10:29:32Z",
+    "nameWithOwner": "rmunozan/Cosh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Cosh.nvim",
+  "owner": "rmunozan",
+  "url": "https://github.com/rmunozan/Cosh.nvim"
+}

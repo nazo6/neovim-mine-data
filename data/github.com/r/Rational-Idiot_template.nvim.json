@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Template"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-07-06T12:56:10Z",
+    "description": "A nvim plugin that dynamically detetcts the file type and applies a template",
+    "isArchived": false,
+    "lastCommit": "2025-07-06T13:56:59Z",
+    "nameWithOwner": "Rational-Idiot/template.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "template.nvim",
+  "owner": "Rational-Idiot",
+  "url": "https://github.com/Rational-Idiot/template.nvim"
+}

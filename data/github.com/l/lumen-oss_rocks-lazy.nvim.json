@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua Development"
+        },
+        {
+          "level": 3,
+          "name": "LuaRocks"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2024-06-11T21:37:01Z",
+    "description": ":sloth: A lazy-loading module for rocks.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-09-15T14:33:12Z",
+    "nameWithOwner": "lumen-oss/rocks-lazy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 40,
+    "topics": [
+      "lazy-loading",
+      "luarocks",
+      "neovim",
+      "neovim-plugin",
+      "rocks-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rocks-lazy.nvim",
+  "owner": "lumen-oss",
+  "url": "https://github.com/nvim-neorocks/rocks-lazy.nvim"
+}

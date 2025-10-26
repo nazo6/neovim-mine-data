@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Copilot"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-08-27T16:39:30Z",
+    "description": "Custom CodeCompanion adapter for GitHub Copilot Enterprise.",
+    "isArchived": false,
+    "lastCommit": "2025-09-01T07:16:17Z",
+    "nameWithOwner": "dyamon/codecompanion-copilot-enterprise.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-copilot-enterprise.nvim",
+  "owner": "dyamon",
+  "url": "https://github.com/dyamon/codecompanion-copilot-enterprise.nvim"
+}

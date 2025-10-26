@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2025-07-27T12:51:59Z",
+    "description": "Enhance f/t motions to search multiple character variants with a single keystroke",
+    "isArchived": false,
+    "lastCommit": "2025-08-31T13:02:26Z",
+    "nameWithOwner": "s-show/ft-mapper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ft-mapper.nvim",
+  "owner": "s-show",
+  "url": "https://github.com/s-show/ft-mapper.nvim"
+}

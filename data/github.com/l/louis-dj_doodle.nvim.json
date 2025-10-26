@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Illustrate"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-07-20T15:48:59Z",
+    "description": "a neovim plugin for doodling simple drawings in a buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-07-20T16:37:25Z",
+    "nameWithOwner": "louis-dj/doodle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "doodle.nvim",
+  "owner": "louis-dj",
+  "url": "https://github.com/louis-dj/doodle.nvim"
+}

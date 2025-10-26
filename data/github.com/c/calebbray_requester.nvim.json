@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell"
+        },
+        {
+          "level": 4,
+          "name": "execute from buffer"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-10-14T18:49:14Z",
+    "description": "neovim plugin for executing shell commands in your editor",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T21:04:12Z",
+    "nameWithOwner": "calebbray/requester.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "requester.nvim",
+  "owner": "calebbray",
+  "url": "https://github.com/calebbray/requester.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "Speech"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-06-07T00:10:49Z",
+    "isArchived": false,
+    "lastCommit": "2025-06-07T00:13:16Z",
+    "nameWithOwner": "68mschmitt/loquax.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "loquax.nvim",
+  "owner": "68mschmitt",
+  "url": "https://github.com/68mschmitt/loquax.nvim"
+}

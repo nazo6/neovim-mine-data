@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Actions"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-09-25T22:21:14Z",
+    "description": "Replace GitHub action refs with their commit shas",
+    "isArchived": false,
+    "lastCommit": "2025-09-25T22:46:57Z",
+    "nameWithOwner": "mujx/nvim-actions-sha",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "github-actions",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-actions-sha",
+  "owner": "mujx",
+  "url": "https://github.com/mujx/nvim-actions-sha"
+}

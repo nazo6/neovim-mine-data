@@ -7,11 +7,11 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
           "name": "Project"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Project Switcher"
         }
       ],
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 60,
+    "commitCountLastYear": 0,
     "createdAt": "2024-07-27T22:18:52Z",
     "description": "A simple project explorer plugin for neovim",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 34,
+    "star": 33,
     "topics": [
       "neovim-plugin"
     ]

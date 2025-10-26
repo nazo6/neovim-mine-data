@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-07-22T17:09:14Z",
+    "description": "Neovim Plugin for VSCode style inline git blame",
+    "isArchived": false,
+    "lastCommit": "2025-07-28T16:50:22Z",
+    "nameWithOwner": "yt20chill/inline_git_blame.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "inline_git_blame.nvim",
+  "owner": "yt20chill",
+  "url": "https://github.com/yt20chill/inline_git_blame.nvim"
+}

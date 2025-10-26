@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-08-04T21:52:53Z",
+    "description": "A Neovim plugin for quick, in editor, access to JonLD/jot notes.",
+    "isArchived": false,
+    "lastCommit": "2025-08-16T00:11:07Z",
+    "nameWithOwner": "JonLD/jot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jot.nvim",
+  "owner": "JonLD",
+  "url": "https://github.com/JonLD/jot.nvim"
+}

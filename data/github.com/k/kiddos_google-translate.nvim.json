@@ -16,20 +16,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2023-03-25T17:33:46Z",
     "description": "translate.nvim binds google translate to neovim",
     "isArchived": false,
-    "lastCommit": "2024-05-22T18:23:08Z",
+    "lastCommit": "2025-07-26T01:58:35Z",
     "nameWithOwner": "kiddos/google-translate.nvim",
     "primaryLanguage": {
-      "color": "#3572A5",
-      "name": "Python"
+      "color": "#000080",
+      "name": "Lua"
     },
     "star": 1,
     "topics": [
-      "neovim-plugin",
-      "translate"
+      "neovim",
+      "neovim-plugins",
+      "google-translate"
     ]
   },
   "domain": "github.com",

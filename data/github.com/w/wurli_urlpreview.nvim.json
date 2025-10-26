@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "url open"
+        },
+        {
+          "level": 5,
+          "name": "url preview"
+        }
+      ],
+      "file": "web-browser.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-06-27T15:24:11Z",
+    "description": "URL previews in Neovim 🔗💫",
+    "isArchived": false,
+    "lastCommit": "2025-09-21T18:58:40Z",
+    "nameWithOwner": "wurli/urlpreview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "lua-plugin",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "urlpreview.nvim",
+  "owner": "wurli",
+  "url": "https://github.com/wurli/urlpreview.nvim"
+}

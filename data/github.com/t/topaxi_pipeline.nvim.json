@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 53,
+    "commitCountLastYear": 41,
     "createdAt": "2023-03-30T15:02:51Z",
     "description": "See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.",
     "isArchived": false,
-    "lastCommit": "2025-04-15T12:11:07Z",
+    "lastCommit": "2025-08-20T07:08:05Z",
     "nameWithOwner": "topaxi/pipeline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 158,
+    "star": 172,
     "topics": [
       "actions",
       "github",

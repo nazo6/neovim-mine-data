@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Typing speed"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-05-31T15:52:20Z",
+    "description": "Track your wpm in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-02T12:45:53Z",
+    "nameWithOwner": "leonardcser/wpm-tracker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "nvim",
+      "wpm"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wpm-tracker.nvim",
+  "owner": "leonardcser",
+  "url": "https://github.com/leonardcser/wpm-tracker.nvim"
+}

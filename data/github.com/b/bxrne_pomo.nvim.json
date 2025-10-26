@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pomodoro"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-08-01T19:30:56Z",
+    "description": "A pomodoro plugin for neovim to manage coding sessions",
+    "isArchived": false,
+    "lastCommit": "2025-08-02T20:31:14Z",
+    "nameWithOwner": "bxrne/pomo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pomo.nvim",
+  "owner": "bxrne",
+  "url": "https://github.com/bxrne/pomo.nvim"
+}

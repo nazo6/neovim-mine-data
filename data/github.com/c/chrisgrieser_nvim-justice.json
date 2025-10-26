@@ -38,22 +38,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 85,
+    "commitCountLastYear": 125,
     "createdAt": "2024-11-18T14:27:43Z",
     "description": "Just an integration of `just` in nvim.",
     "isArchived": false,
-    "lastCommit": "2025-04-12T09:37:02Z",
+    "lastCommit": "2025-10-13T10:53:34Z",
     "nameWithOwner": "chrisgrieser/nvim-justice",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 29,
     "topics": [
       "just",
       "justfile",
       "nvim-plugin",
-      "task-runner"
+      "task-runner",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

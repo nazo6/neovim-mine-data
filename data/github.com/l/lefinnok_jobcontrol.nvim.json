@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "YAML"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-04-28T13:58:43Z",
+    "description": "A job control neovim module to manage project processes and consolidate logs",
+    "isArchived": false,
+    "lastCommit": "2025-04-28T14:17:32Z",
+    "nameWithOwner": "lefinnok/jobcontrol.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jobcontrol.nvim",
+  "owner": "lefinnok",
+  "url": "https://github.com/lefinnok/jobcontrol.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Dictionary"
+        }
+      ],
+      "file": "dictionary.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-05-28T14:36:15Z",
+    "description": "A lightweight Neovim plugin to quickly find and swap synonyms while writing - without ever leaving Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-06-05T08:25:16Z",
+    "nameWithOwner": "MartinCornelius/reword.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "reword.nvim",
+  "owner": "MartinCornelius",
+  "url": "https://github.com/MartinCornelius/reword.nvim"
+}

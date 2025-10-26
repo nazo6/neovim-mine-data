@@ -7,7 +7,21 @@
           "name": "Table of Contents"
         },
         {
-          "level": 3,
+          "level": 2,
+          "name": "Spell"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "Spell"
         }
       ],
@@ -16,20 +30,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 7,
     "createdAt": "2024-03-12T13:26:48Z",
     "description": "Use vims keywords in spell file",
     "isArchived": false,
-    "lastCommit": "2024-05-25T07:49:56Z",
+    "lastCommit": "2025-10-21T11:35:06Z",
     "nameWithOwner": "rubiin/vimwordlist.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 4,
     "topics": [
       "nvim",
-      "vim"
+      "vim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

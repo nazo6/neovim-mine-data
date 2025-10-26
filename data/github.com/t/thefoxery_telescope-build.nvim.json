@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "CMake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-09-12T16:13:01Z",
+    "description": "use Telescope to quickly change build system configuration in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-20T21:57:42Z",
+    "nameWithOwner": "thefoxery/telescope-build.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-build.nvim",
+  "owner": "thefoxery",
+  "url": "https://github.com/thefoxery/telescope-cmake.nvim"
+}

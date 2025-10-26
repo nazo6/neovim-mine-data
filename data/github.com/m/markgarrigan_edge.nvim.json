@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Template Engine"
+        },
+        {
+          "level": 3,
+          "name": "Edge.js"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-09-24T10:52:34Z",
+    "description": "Edgejs template LSP for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-09-25T05:14:43Z",
+    "nameWithOwner": "markgarrigan/edge.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "edge.nvim",
+  "owner": "markgarrigan",
+  "url": "https://github.com/markgarrigan/edge.nvim"
+}

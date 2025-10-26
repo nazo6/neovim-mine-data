@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Background"
+        },
+        {
+          "level": 3,
+          "name": "Switch theme"
+        }
+      ],
+      "file": "background.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-05-22T08:57:24Z",
+    "description": "auto set neovim background according to system theme",
+    "isArchived": false,
+    "lastCommit": "2025-05-22T09:24:31Z",
+    "nameWithOwner": "parz3val/auto-themer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-themer.nvim",
+  "owner": "parz3val",
+  "url": "https://github.com/parz3val/auto-themer.nvim"
+}

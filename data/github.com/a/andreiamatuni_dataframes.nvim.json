@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "pyenv"
+          "name": "Jupyter"
         },
         {
           "level": 3,
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 0,
     "createdAt": "2024-07-28T17:02:55Z",
     "description": "Render Pandas DataFrames as tables while debugging in Neovim",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 4,
     "topics": [
       "neovim",
       "neovim-plugin",

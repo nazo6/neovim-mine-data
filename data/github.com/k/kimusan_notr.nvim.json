@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-07T10:18:55Z",
+    "description": "A nice plugin to use the Notr note app directly from within neovim. Easily browse and search your notebooks and notes, create new ones and keep them in sync. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-07T10:26:47Z",
+    "nameWithOwner": "kimusan/notr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notr.nvim",
+  "owner": "kimusan",
+  "url": "https://github.com/kimusan/notr.nvim"
+}

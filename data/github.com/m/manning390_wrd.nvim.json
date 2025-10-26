@@ -8,19 +8,15 @@
         },
         {
           "level": 2,
-          "name": "Other Standard Feature Enhancement"
-        },
-        {
-          "level": 3,
           "name": "Dictionary"
         }
       ],
-      "file": "readme.md",
+      "file": "dictionary.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 0,
     "createdAt": "2024-05-16T23:02:39Z",
     "description": "Thesaurus and Dictionary Neovim Plugin",
     "isArchived": false,

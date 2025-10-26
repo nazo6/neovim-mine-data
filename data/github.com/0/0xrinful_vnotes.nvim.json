@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-05-16T10:50:36Z",
+    "description": "A simple Neovim note-taking plugin with floating window UI.",
+    "isArchived": false,
+    "lastCommit": "2025-05-20T20:00:18Z",
+    "nameWithOwner": "0xrinful/vnotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vnotes.nvim",
+  "owner": "0xrinful",
+  "url": "https://github.com/0xrinful/vnotes.nvim"
+}

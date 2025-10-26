@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-07-05T22:49:01Z",
+    "description": "A dead simple plugin for persistent temporary notes",
+    "isArchived": false,
+    "lastCommit": "2025-07-15T16:26:53Z",
+    "nameWithOwner": "0x15BA88FF/tnew.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tnew.nvim",
+  "owner": "0x15BA88FF",
+  "url": "https://github.com/0x15BA88FF/tnew.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "map function utiliy"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-04-23T19:02:13Z",
+    "description": "A lua library for neovim to provide one-shot stubs for keymaps, functions and require()",
+    "isArchived": false,
+    "lastCommit": "2025-04-23T19:06:49Z",
+    "nameWithOwner": "shuber2/oneshotstubs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "oneshotstubs.nvim",
+  "owner": "shuber2",
+  "url": "https://github.com/shuber2/oneshotstubs.nvim"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Macro"
+        }
+      ],
+      "file": "macro.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-05-29T18:35:23Z",
+    "description": "A Neovim plugin to operate on line \"domains\"",
+    "isArchived": false,
+    "lastCommit": "2025-07-29T22:09:41Z",
+    "nameWithOwner": "ninjack-dev/domain.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "domain.nvim",
+  "owner": "ninjack-dev",
+  "url": "https://github.com/NinjacksonXV/domain.nvim"
+}

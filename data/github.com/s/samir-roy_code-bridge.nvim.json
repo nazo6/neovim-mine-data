@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-07-08T09:35:03Z",
+    "description": "A NeoVim plugin for chatting with Claude Code",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T13:55:59Z",
+    "nameWithOwner": "samir-roy/code-bridge.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 46,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-bridge.nvim",
+  "owner": "samir-roy",
+  "url": "https://github.com/samir-roy/code-bridge.nvim"
+}

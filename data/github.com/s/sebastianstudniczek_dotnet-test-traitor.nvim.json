@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotnet"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-10-03T18:56:56Z",
+    "description": "Run tests with predefined filters and quickly identify failed ones with quickfix list",
+    "isArchived": false,
+    "lastCommit": "2025-10-16T21:41:06Z",
+    "nameWithOwner": "sebastianstudniczek/dotnet-test-traitor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotnet-test-traitor.nvim",
+  "owner": "sebastianstudniczek",
+  "url": "https://github.com/sebastianstudniczek/dotnet-test-traitor.nvim"
+}

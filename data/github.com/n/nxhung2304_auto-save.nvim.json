@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Save"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-29T01:37:12Z",
+    "description": "Automatically save your changes in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-07-01T02:55:33Z",
+    "nameWithOwner": "nxhung2304/auto-save.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "auto-save.nvim",
+  "owner": "nxhung2304",
+  "url": "https://github.com/nxhung2304/auto-save.nvim"
+}

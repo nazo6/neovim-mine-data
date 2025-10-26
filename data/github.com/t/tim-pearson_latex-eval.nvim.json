@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2025-06-29T12:57:57Z",
+    "description": "Nvim plugin for simplifying, solving and evaluating latex math expressions",
+    "isArchived": false,
+    "lastCommit": "2025-10-06T08:42:42Z",
+    "nameWithOwner": "tim-pearson/latex-eval.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "latex-eval.nvim",
+  "owner": "tim-pearson",
+  "url": "https://github.com/tim-pearson/latex-eval.nvim"
+}

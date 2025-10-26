@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 0,
     "createdAt": "2024-09-08T13:51:37Z",
     "description": "Fixes golang templ goto definition to open .templ file instead of generated .go file",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 25,
+    "star": 29,
     "topics": [
       "golang",
       "neovim-plugin",

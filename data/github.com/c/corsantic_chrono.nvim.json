@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Calculation"
+        },
+        {
+          "level": 3,
+          "name": "Time"
+        }
+      ],
+      "file": "calculation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-09-16T21:16:42Z",
+    "description": "Convert epoch timestamps to human-readable time in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T23:02:44Z",
+    "nameWithOwner": "corsantic/chrono.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chrono.nvim",
+  "owner": "corsantic",
+  "url": "https://github.com/corsantic/chrono.nvim"
+}

@@ -4,10 +4,14 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
           "name": "Cowsay"
         }
       ],
@@ -16,9 +20,8 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 3,
     "createdAt": "2024-10-01T14:01:33Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2025-03-18T18:08:43Z",
     "nameWithOwner": "kirill-d-lappo/nvim-daily-quotes",

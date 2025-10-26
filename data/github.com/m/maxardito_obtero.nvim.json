@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2025-06-18T14:18:16Z",
+    "description": "Zotero integration for Obsidian in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-21T22:45:49Z",
+    "nameWithOwner": "maxardito/obtero.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "obtero.nvim",
+  "owner": "maxardito",
+  "url": "https://github.com/maxardito/obtero.nvim"
+}

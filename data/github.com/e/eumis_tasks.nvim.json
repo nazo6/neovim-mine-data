@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-06-19T04:51:25Z",
+    "description": "Run shell commands(tasks) in dedicated terminal windows",
+    "isArchived": false,
+    "lastCommit": "2025-06-24T06:44:36Z",
+    "nameWithOwner": "eumis/tasks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "tasks"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasks.nvim",
+  "owner": "eumis",
+  "url": "https://github.com/eumis/tasks.nvim"
+}

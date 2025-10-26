@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-09-14T15:03:00Z",
+    "description": "A simple and fun Neovim plugin to manage your todos in a floating window.",
+    "isArchived": false,
+    "lastCommit": "2025-09-18T02:29:54Z",
+    "nameWithOwner": "Hemanthhari2000/todoforge.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "developer-tools",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todoforge.nvim",
+  "owner": "Hemanthhari2000",
+  "url": "https://github.com/Hemanthhari2000/todoforge.nvim"
+}

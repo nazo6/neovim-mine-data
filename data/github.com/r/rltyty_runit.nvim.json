@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Auto detect style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-07-03T02:41:15Z",
+    "description": "A Neovim plugin for running code in current buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-08-17T09:26:40Z",
+    "nameWithOwner": "rltyty/runit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "runit.nvim",
+  "owner": "rltyty",
+  "url": "https://github.com/rltyty/runit.nvim"
+}

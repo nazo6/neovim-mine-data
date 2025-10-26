@@ -2,15 +2,30 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "make"
+        },
+        {
+          "level": 5,
+          "name": "meson"
+        }
       ],
-      "file": "Archived.md",
+      "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 14,
     "createdAt": "2024-12-22T16:41:11Z",
-    "description": null,
     "isArchived": false,
     "lastCommit": "2024-12-22T18:34:39Z",
     "nameWithOwner": "NEOLabs-software/telescope-meson.nvim",

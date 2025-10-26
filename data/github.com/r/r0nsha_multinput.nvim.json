@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2025-06-26T18:31:46Z",
+    "description": "A floating `vim.ui.input` buffer that auto-resizes to fit its contents.",
+    "isArchived": false,
+    "lastCommit": "2025-07-06T19:49:08Z",
+    "nameWithOwner": "r0nsha/multinput.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "multinput.nvim",
+  "owner": "r0nsha",
+  "url": "https://github.com/r0nsha/multinput.nvim"
+}

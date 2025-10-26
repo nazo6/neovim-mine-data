@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fennel"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2025-05-16T09:50:17Z",
+    "description": "Adding fennel syntax and LSP support to Lua files",
+    "isArchived": false,
+    "lastCommit": "2025-05-19T15:43:15Z",
+    "nameWithOwner": "whazzabii7/lua-fennel-lens.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lua-fennel-lens.nvim",
+  "owner": "whazzabii7",
+  "url": "https://github.com/whazzabii7/lua-fennel-lens.nvim"
+}

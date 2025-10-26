@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 0,
     "createdAt": "2024-10-12T01:42:56Z",
     "description": "A Neovim plugin that allows you to change the color and text decoration of a line number when the mode changes",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 40,
+    "star": 41,
     "topics": [
       "neovim",
       "neovim-plugin"

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Indent"
+        },
+        {
+          "level": 3,
+          "name": "Indent Size"
+        }
+      ],
+      "file": "indent.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-05-19T20:59:29Z",
+    "description": "A dumb manager to manage indentation of different filetype in nvim.",
+    "isArchived": false,
+    "lastCommit": "2025-07-23T00:05:51Z",
+    "nameWithOwner": "sajibprime3/indent-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "indent-manager.nvim",
+  "owner": "sajibprime3",
+  "url": "https://github.com/sajibprime3/indent-manager.nvim"
+}

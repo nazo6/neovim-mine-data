@@ -30,25 +30,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 213,
+    "commitCountLastYear": 191,
     "createdAt": "2022-12-19T13:21:41Z",
     "description": "Bundle of more than 30 new text objects for Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-04-15T20:24:10Z",
+    "lastCommit": "2025-10-13T20:01:05Z",
     "nameWithOwner": "chrisgrieser/nvim-various-textobjs",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 668,
+    "star": 729,
     "topics": [
-      "nvim",
       "nvim-plugin",
       "text-obj",
       "text-object",
       "text-objects",
-      "neovim",
-      "indentation"
+      "indentation",
+      "neovim-plugin",
+      "subword"
     ]
   },
   "domain": "github.com",

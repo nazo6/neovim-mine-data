@@ -24,21 +24,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 23,
     "createdAt": "2024-09-20T14:14:32Z",
     "description": "Neovim extension for C++ Insights",
     "isArchived": false,
-    "lastCommit": "2025-01-01T18:18:40Z",
+    "lastCommit": "2025-08-12T16:05:48Z",
     "nameWithOwner": "Freed-Wu/cppinsights.nvim",
     "primaryLanguage": {
-      "color": "#DA3434",
-      "name": "CMake"
+      "color": "#f34b7d",
+      "name": "C++"
     },
     "star": 5,
     "topics": [
       "cppinsights",
       "neovim",
-      "vim"
+      "vim",
+      "xmake"
     ]
   },
   "domain": "github.com",

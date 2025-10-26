@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Strudel"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2025-06-18T08:05:17Z",
+    "description": "A Neovim based strudel.cc controller, live coding using Strudel from Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-09-13T20:45:57Z",
+    "nameWithOwner": "gruvw/strudel.nvim",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "star": 124,
+    "topics": [
+      "algorave",
+      "coding",
+      "live",
+      "livecoding",
+      "neovim",
+      "strudel",
+      "hydra",
+      "editor",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "strudel.nvim",
+  "owner": "gruvw",
+  "url": "https://github.com/gruvw/strudel.nvim"
+}

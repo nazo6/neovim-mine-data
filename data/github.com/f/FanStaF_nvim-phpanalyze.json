@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "PHP"
+        },
+        {
+          "level": 3,
+          "name": "PHPStan"
+        }
+      ],
+      "file": "php.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-06-24T16:55:36Z",
+    "description": "Neovim plugin that runs PHPStan in the backround and loads any errors to a QuickFix list",
+    "isArchived": false,
+    "lastCommit": "2025-06-27T13:51:38Z",
+    "nameWithOwner": "FanStaF/nvim-phpanalyze",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-phpanalyze",
+  "owner": "FanStaF",
+  "url": "https://github.com/FanStaF/nvim-phpanalyze"
+}

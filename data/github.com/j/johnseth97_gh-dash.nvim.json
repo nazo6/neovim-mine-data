@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "GitHub tweaks"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-04-23T22:01:33Z",
+    "description": "Floating window and lualine integration  for the popular gh-dash terminal UI",
+    "isArchived": false,
+    "lastCommit": "2025-04-28T00:46:08Z",
+    "nameWithOwner": "johnseth97/gh-dash.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "git-tui",
+      "github-cli",
+      "neovim",
+      "tui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gh-dash.nvim",
+  "owner": "johnseth97",
+  "url": "https://github.com/johnseth97/gh-dash.nvim"
+}

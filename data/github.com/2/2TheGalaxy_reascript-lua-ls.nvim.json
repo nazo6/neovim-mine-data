@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Reaper"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-08-07T11:23:39Z",
+    "description": "Neovim plugin that makes lua-ls recognize ReaScript commands.",
+    "isArchived": false,
+    "lastCommit": "2025-08-07T11:43:16Z",
+    "nameWithOwner": "2TheGalaxy/reascript-lua-ls.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "reascript-lua-ls.nvim",
+  "owner": "2TheGalaxy",
+  "url": "https://github.com/2TheGalaxy/reascript-lua-ls.nvim"
+}

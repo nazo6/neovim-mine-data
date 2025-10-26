@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "Docstring"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-09-16T12:18:47Z",
+    "description": "py-autodoc.nvim is a Neovim plugin designed to streamline Python development by automatically generating docstrings for your functions and methods.",
+    "isArchived": false,
+    "lastCommit": "2025-09-20T05:35:05Z",
+    "nameWithOwner": "ok97465/py-autodoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "docstring",
+      "lua",
+      "nvim",
+      "python",
+      "autodocstring"
+    ]
+  },
+  "domain": "github.com",
+  "name": "py-autodoc.nvim",
+  "owner": "ok97465",
+  "url": "https://github.com/ok97465/py-autodoc.nvim"
+}

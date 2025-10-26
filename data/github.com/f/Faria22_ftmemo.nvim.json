@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "filetype"
+        }
+      ],
+      "file": "filetype.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-09-15T14:48:45Z",
+    "description": "Remembers manually set filetypes per file across sessions",
+    "isArchived": false,
+    "lastCommit": "2025-09-15T15:52:58Z",
+    "nameWithOwner": "Faria22/ftmemo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ftmemo.nvim",
+  "owner": "Faria22",
+  "url": "https://github.com/Faria22/ftmemo.nvim"
+}

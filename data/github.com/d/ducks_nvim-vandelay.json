@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Javascript/Typescript"
+        },
+        {
+          "level": 3,
+          "name": "import"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-06-24T15:24:30Z",
+    "description": "What does Art Vandelay import?",
+    "isArchived": false,
+    "lastCommit": "2025-06-26T13:33:35Z",
+    "nameWithOwner": "ducks/nvim-vandelay",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-vandelay",
+  "owner": "ducks",
+  "url": "https://github.com/ducks/nvim-vandelay"
+}

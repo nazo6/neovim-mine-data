@@ -1,0 +1,69 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown table"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Markdown and LaTeX"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-05-14T14:20:58Z",
+    "description": "A lightweight Neovim plugin for formatting markdown tables.",
+    "isArchived": false,
+    "lastCommit": "2025-08-19T13:07:08Z",
+    "nameWithOwner": "timantipov/md-table-tidy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "markdown"
+    ]
+  },
+  "domain": "github.com",
+  "name": "md-table-tidy.nvim",
+  "owner": "timantipov",
+  "url": "https://github.com/timantipov/md-table-tidy.nvim"
+}

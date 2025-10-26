@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "LSP, DAP, linter, formatter"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-08-03T15:06:57Z",
+    "description": "Hands free auto-install LSPs Formatters and Linters for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-08-18T14:28:05Z",
+    "nameWithOwner": "harry-wilkos/Link.Nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Link.Nvim",
+  "owner": "harry-wilkos",
+  "url": "https://github.com/harry-wilkos/link.nvim"
+}

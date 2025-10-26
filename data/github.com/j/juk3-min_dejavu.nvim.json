@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Improve Mappings"
+        },
+        {
+          "level": 4,
+          "name": "Repeatable"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-08-03T17:46:58Z",
+    "description": "Plugin for more nvim repeats.",
+    "isArchived": false,
+    "lastCommit": "2025-08-04T05:13:47Z",
+    "nameWithOwner": "juk3-min/dejavu.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dejavu.nvim",
+  "owner": "juk3-min",
+  "url": "https://github.com/juk3-min/dejavu.nvim"
+}

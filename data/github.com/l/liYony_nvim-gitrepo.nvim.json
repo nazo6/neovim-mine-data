@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "lazygit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-06-27T07:12:04Z",
+    "description": "A Neovim plugin for fast Git repo discovery and dirty repo management, with seamless integration for lazygit.",
+    "isArchived": false,
+    "lastCommit": "2025-06-27T09:34:02Z",
+    "nameWithOwner": "liYony/nvim-gitrepo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gitrepo.nvim",
+  "owner": "liYony",
+  "url": "https://github.com/liYony/nvim-gitrepo.nvim"
+}

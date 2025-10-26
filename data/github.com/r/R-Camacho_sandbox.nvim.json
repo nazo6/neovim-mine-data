@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Sandbox"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-09-04T20:42:21Z",
+    "description": "Effortlessly try new neovim plugins",
+    "isArchived": false,
+    "lastCommit": "2025-09-08T22:31:44Z",
+    "nameWithOwner": "R-Camacho/sandbox.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sandbox.nvim",
+  "owner": "R-Camacho",
+  "url": "https://github.com/R-Camacho/sandbox.nvim"
+}

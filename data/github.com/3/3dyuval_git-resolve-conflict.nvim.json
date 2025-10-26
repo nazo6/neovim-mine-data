@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git conflict"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-08-02T07:42:54Z",
+    "description": "Resolve merge conflict in just one file, using given strategy (--ours, --theirs, --union)",
+    "isArchived": false,
+    "lastCommit": "2025-08-02T23:09:17Z",
+    "nameWithOwner": "3dyuval/git-resolve-conflict.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-resolve-conflict.nvim",
+  "owner": "3dyuval",
+  "url": "https://github.com/3dyuval/git-resolve-conflict.nvim"
+}

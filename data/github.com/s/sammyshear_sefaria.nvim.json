@@ -4,14 +4,18 @@
       "data": [
         {
           "level": 1,
-          "name": "Toy"
+          "name": "Table of Contents"
         },
         {
           "level": 2,
-          "name": "Religion"
+          "name": "Toy"
         },
         {
           "level": 3,
+          "name": "Religion"
+        },
+        {
+          "level": 4,
           "name": "Judaism"
         }
       ],
@@ -20,11 +24,10 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 17,
     "createdAt": "2025-04-08T21:39:58Z",
-    "description": null,
     "isArchived": false,
-    "lastCommit": "2025-04-11T17:46:32Z",
+    "lastCommit": "2025-04-23T23:28:13Z",
     "nameWithOwner": "sammyshear/sefaria.nvim",
     "primaryLanguage": {
       "color": "#000080",

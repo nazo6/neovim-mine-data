@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Azure"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-04-22T07:05:47Z",
+    "description": "Plugin that allows you to fetch app settings from your Azure function apps",
+    "isArchived": false,
+    "lastCommit": "2025-04-22T13:52:32Z",
+    "nameWithOwner": "edwinboon/azure.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "azure.nvim",
+  "owner": "edwinboon",
+  "url": "https://github.com/edwinboon/azure.nvim"
+}

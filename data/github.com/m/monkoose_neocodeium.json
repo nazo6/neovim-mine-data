@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Codeium "
+          "name": "Codeium"
         }
       ],
       "file": "ai.md",
@@ -20,20 +20,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 99,
+    "commitCountLastYear": 83,
     "createdAt": "2024-04-01T15:01:46Z",
     "description": "free AI completion plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-19T21:19:10Z",
+    "lastCommit": "2025-10-15T13:43:09Z",
     "nameWithOwner": "monkoose/neocodeium",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 323,
+    "star": 394,
     "topics": [
       "codeium",
-      "neovim-plugin"
+      "neovim-plugin",
+      "windsurf"
     ]
   },
   "domain": "github.com",

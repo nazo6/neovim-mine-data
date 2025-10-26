@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2021-01-12T07:29:44Z",
     "description": "Redirect the output of Vim or external command to scratch buffer, in LUA",
     "isArchived": false,
-    "lastCommit": "2021-12-06T12:50:55Z",
+    "lastCommit": "2025-07-22T11:20:25Z",
     "nameWithOwner": "sbulav/nredir.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 25,
+    "star": 26,
     "topics": [
       "neovim",
       "lua",

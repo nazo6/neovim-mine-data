@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-07-12T03:33:20Z",
+    "description": "Install lazy.nvim plugins with ease.",
+    "isArchived": false,
+    "lastCommit": "2025-07-19T01:35:44Z",
+    "nameWithOwner": "wwingyou/lazy-install.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazy-install.nvim",
+  "owner": "wwingyou",
+  "url": "https://github.com/wwingyou/lazy-install.nvim"
+}

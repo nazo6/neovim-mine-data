@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "[Diff](./diff.md)"
+          "name": "Diff"
         }
       ],
       "file": "diff.md",
@@ -16,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 0,
     "createdAt": "2024-09-06T03:26:28Z",
     "description": "Extention for codecompanion to enhance inline feature using mini.diff",
     "isArchived": false,
@@ -26,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
       "lua",
       "neovim",

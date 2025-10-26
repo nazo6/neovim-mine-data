@@ -1,0 +1,54 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C#"
+        },
+        {
+          "level": 5,
+          "name": ".NET"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 73,
+    "createdAt": "2025-10-07T19:56:13Z",
+    "description": "Collection of lightweight commands and utilities for .NET development.",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T23:45:29Z",
+    "nameWithOwner": "cantti/dotnet-helper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "csharp",
+      "neovim-csharp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotnet-helper.nvim",
+  "owner": "cantti",
+  "url": "https://github.com/cantti/dotnet-helper.nvim"
+}

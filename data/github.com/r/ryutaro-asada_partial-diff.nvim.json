@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "[Diff](./diff.md)"
+          "name": "Diff"
         }
       ],
       "file": "diff.md",
@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 8,
     "createdAt": "2024-02-11T06:37:27Z",
-    "description": null,
+    "description": "Neovim plugin for show diffs on selected code regions. Inspired by ryu1kn/vscode-partial-diff",
     "isArchived": false,
-    "lastCommit": "2024-03-15T09:41:32Z",
+    "lastCommit": "2025-10-14T09:00:07Z",
     "nameWithOwner": "ryutaro-asada/partial-diff.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,12 @@
     },
     "star": 4,
     "topics": [
+      "code-comparison",
+      "diff",
+      "neovim-plugin",
+      "noevim",
+      "productivity",
+      "vim"
     ]
   },
   "domain": "github.com",

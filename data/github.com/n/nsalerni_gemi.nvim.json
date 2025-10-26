@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        },
+        {
+          "level": 4,
+          "name": "Gemini CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2025-07-11T19:59:52Z",
+    "description": "Plugin integrating gemini cli into neovim for a seamless coding experience",
+    "isArchived": false,
+    "lastCommit": "2025-07-19T05:54:31Z",
+    "nameWithOwner": "nsalerni/gemi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gemi.nvim",
+  "owner": "nsalerni",
+  "url": "https://github.com/nsalerni/gemi.nvim"
+}

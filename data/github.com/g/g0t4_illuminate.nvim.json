@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Current word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-01-24T02:01:45Z",
+    "description": "Highlight matches of the word under your cursor. This is based on https://github.com/RRethy/vim-illuminate and mostly a learning opportunity.",
+    "isArchived": false,
+    "lastCommit": "2025-01-24T03:49:24Z",
+    "nameWithOwner": "g0t4/illuminate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "illuminate.nvim",
+  "owner": "g0t4",
+  "url": "https://github.com/g0t4/illuminate.nvim"
+}

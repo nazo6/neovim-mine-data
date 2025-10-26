@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Emoji"
-        },
-        {
-          "level": 3,
-          "name": "Emoji FuzzyFinder"
-        }
       ],
-      "file": "font_emoji.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,14 +11,14 @@
     "commitCountLastYear": 0,
     "createdAt": "2021-07-07T05:32:19Z",
     "description": "An extension for telescope.nvim that allows you to search emojis😃",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-12-08T12:49:56Z",
     "nameWithOwner": "xiyaowong/telescope-emoji.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 130,
+    "star": 133,
     "topics": [
       "neovim",
       "nvim-telescope"

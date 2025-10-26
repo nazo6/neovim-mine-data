@@ -17,20 +17,34 @@
       ],
       "file": "search_replace_grep_select.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Editing Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 300,
+    "commitCountLastYear": 121,
     "createdAt": "2024-08-25T10:42:18Z",
     "description": "multiple cursors in neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-20T03:41:50Z",
+    "lastCommit": "2025-09-27T12:38:04Z",
     "nameWithOwner": "jake-stewart/multicursor.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 965,
+    "star": 1246,
     "topics": [
       "multicursor",
       "neovim",

@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 2,
     "createdAt": "2024-08-18T17:40:37Z",
     "description": "A neovim plugin to handle errors with a lua function before they are printed by neovim",
     "isArchived": false,
-    "lastCommit": "2025-03-31T15:09:27Z",
+    "lastCommit": "2025-06-04T12:10:13Z",
     "nameWithOwner": "aaron-p1/handle_errors.nvim",
     "primaryLanguage": {
       "color": "#555555",
       "name": "C"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
       "luajit",
       "neovim",

@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Salesforce"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-05-03T21:32:54Z",
+    "description": "A nvim plugin to retrieve code coverage for Apex classes.",
+    "isArchived": false,
+    "lastCommit": "2025-10-25T18:40:56Z",
+    "nameWithOwner": "PreziosiRaffaele/nvim-apex-coverage",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "apex",
+      "nvim",
+      "nvim-plugin",
+      "salesforce",
+      "test"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-apex-coverage",
+  "owner": "PreziosiRaffaele",
+  "url": "https://github.com/PreziosiRaffaele/nvim-apex-coverage"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Nix"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 58,
+    "createdAt": "2025-06-14T16:06:30Z",
+    "description": "For all your nix command necessities",
+    "isArchived": false,
+    "lastCommit": "2025-08-09T09:22:30Z",
+    "nameWithOwner": "brandishcode/nixessity.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nixessity.nvim",
+  "owner": "brandishcode",
+  "url": "https://github.com/brandishcode/nixessity.nvim"
+}

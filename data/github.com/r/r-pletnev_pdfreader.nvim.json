@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-07-20T21:28:12Z",
+    "description": "Neovim plugin: read PDF files inside Neovim with dark/text modes, autosave, and bookmarks.",
+    "isArchived": false,
+    "lastCommit": "2025-09-27T07:21:22Z",
+    "nameWithOwner": "r-pletnev/pdfreader.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+      "books",
+      "neovim",
+      "pdf-viewer",
+      "neovim-plugin",
+      "nvim-plugin",
+      "ghostty",
+      "kitty",
+      "pdf",
+      "pdf-reader",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pdfreader.nvim",
+  "owner": "r-pletnev",
+  "url": "https://github.com/r-pletnev/pdfreader.nvim"
+}

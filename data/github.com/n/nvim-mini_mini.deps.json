@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2024-02-11T11:22:41Z",
+    "description": "Plugin manager. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T12:43:59Z",
+    "nameWithOwner": "nvim-mini/mini.deps",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 78,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.deps",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.deps"
+}

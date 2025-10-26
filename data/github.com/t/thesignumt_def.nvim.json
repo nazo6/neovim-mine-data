@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Dictionary"
+        }
+      ],
+      "file": "dictionary.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2025-09-11T22:27:24Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-19T10:24:20Z",
+    "nameWithOwner": "thesignumt/def.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "definition",
+      "dictionary",
+      "meaning",
+      "neovim",
+      "neovim-plugins",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "def.nvim",
+  "owner": "thesignumt",
+  "url": "https://github.com/thesignumt/def.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "Insert"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-06-14T16:44:32Z",
+    "description": "Simple Lua plugin to print the current date in an ascii box",
+    "isArchived": false,
+    "lastCommit": "2025-06-14T19:51:30Z",
+    "nameWithOwner": "cwmaguire/datebox.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "datebox.nvim",
+  "owner": "cwmaguire",
+  "url": "https://github.com/cwmaguire/datebox.nvim"
+}

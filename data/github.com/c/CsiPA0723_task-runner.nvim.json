@@ -24,28 +24,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 55,
     "createdAt": "2024-10-31T01:49:52Z",
     "description": "A simple task runner for neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-19T00:13:46Z",
+    "lastCommit": "2025-09-08T21:09:17Z",
     "nameWithOwner": "CsiPA0723/task-runner.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
       "code-runner",
       "lua",
       "neovim",
       "neovim-plugin",
       "nvim",
-      "plenary",
       "task-runner",
       "fzf-lua",
       "plugin",
-      "telescope-extension"
+      "snacks-nvim",
+      "snacks"
     ]
   },
   "domain": "github.com",

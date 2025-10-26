@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Disassemble"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-08-06T09:54:00Z",
+    "description": "A Neovim plugin for disassembling and decompiling C code directly in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-08-06T13:06:43Z",
+    "nameWithOwner": "IIIBreakeRIII/ReCursion.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "c",
+      "clang",
+      "clanguage",
+      "gcc",
+      "gcc-complier",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ReCursion.nvim",
+  "owner": "IIIBreakeRIII",
+  "url": "https://github.com/IIIBreakeRIII/ReCursion.nvim"
+}

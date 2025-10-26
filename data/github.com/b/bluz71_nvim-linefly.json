@@ -11,7 +11,7 @@
           "name": "Statusline"
         },
         {
-          "level": 4,
+          "level": 3,
           "name": "Simple"
         }
       ],
@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 27,
+    "commitCountLastYear": 15,
     "createdAt": "2023-01-08T03:24:45Z",
     "description": "A simple Lua statusline for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-09T03:00:52Z",
+    "lastCommit": "2025-09-16T04:21:43Z",
     "nameWithOwner": "bluz71/nvim-linefly",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 89,
+    "star": 91,
     "topics": [
       "neovim",
       "neovim-statusline",

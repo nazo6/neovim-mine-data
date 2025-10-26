@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "CODEOWNERS"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-08-05T20:07:17Z",
+    "isArchived": false,
+    "lastCommit": "2025-08-05T20:10:47Z",
+    "nameWithOwner": "JonasGavenavicius/codeowners.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codeowners.nvim",
+  "owner": "JonasGavenavicius",
+  "url": "https://github.com/JonasGavenavicius/codeowners.nvim"
+}

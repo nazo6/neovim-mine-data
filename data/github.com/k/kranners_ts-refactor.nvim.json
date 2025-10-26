@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "refactor"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-09-04T06:14:49Z",
+    "description": "A Neovim plugin for quickly refactoring TypeScript and JavaScript.",
+    "isArchived": false,
+    "lastCommit": "2025-09-08T11:54:22Z",
+    "nameWithOwner": "kranners/ts-refactor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "typescript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ts-refactor.nvim",
+  "owner": "kranners",
+  "url": "https://github.com/kranners/ts-refactor.nvim"
+}

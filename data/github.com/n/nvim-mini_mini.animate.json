@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Smooth scroll"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2022-12-22T08:18:05Z",
+    "description": "Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2025-10-03T12:43:57Z",
+    "nameWithOwner": "nvim-mini/mini.animate",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 247,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.animate",
+  "owner": "nvim-mini",
+  "url": "https://github.com/echasnovski/mini.animate"
+}

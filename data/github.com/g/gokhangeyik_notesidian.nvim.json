@@ -20,19 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 14,
     "createdAt": "2025-03-29T14:22:14Z",
     "description": "Very simple plugin to create daily notes and todolists in an Obsidian vault",
     "isArchived": false,
-    "lastCommit": "2025-04-08T18:16:12Z",
+    "lastCommit": "2025-05-14T20:27:56Z",
     "nameWithOwner": "gokhangeyik/notesidian.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 7,
     "topics": [
-      "neovim-plugin"
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

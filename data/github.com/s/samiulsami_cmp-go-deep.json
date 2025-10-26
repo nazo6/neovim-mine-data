@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "Completion"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 60,
+    "createdAt": "2025-04-16T19:42:28Z",
+    "description": "A Go deep-completion source for unimported packages, for use with nvim-cmp/blink.cmp",
+    "isArchived": false,
+    "lastCommit": "2025-10-17T21:36:49Z",
+    "nameWithOwner": "samiulsami/cmp-go-deep",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 37,
+    "topics": [
+      "go",
+      "golang",
+      "neovim-plugin",
+      "nvim-cmp",
+      "completion"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmp-go-deep",
+  "owner": "samiulsami",
+  "url": "https://github.com/samiulsami/cmp-go-deep"
+}

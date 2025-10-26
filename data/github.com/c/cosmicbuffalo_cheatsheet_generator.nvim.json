@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "CheatSheet"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-06-27T21:17:16Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-14T21:42:08Z",
+    "nameWithOwner": "cosmicbuffalo/cheatsheet_generator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cheatsheet_generator.nvim",
+  "owner": "cosmicbuffalo",
+  "url": "https://github.com/cosmicbuffalo/cheatsheet_generator.nvim"
+}

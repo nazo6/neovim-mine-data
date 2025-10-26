@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-10-14T21:08:53Z",
+    "description": "A small plugin to send code from neovim to tmux using visual, paragraphs or cells.",
+    "isArchived": false,
+    "lastCommit": "2025-10-20T18:57:18Z",
+    "nameWithOwner": "lfrati/szent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ipython",
+      "lua",
+      "neovim-plugin",
+      "slime"
+    ]
+  },
+  "domain": "github.com",
+  "name": "szent.nvim",
+  "owner": "lfrati",
+  "url": "https://github.com/lfrati/szent.nvim"
+}

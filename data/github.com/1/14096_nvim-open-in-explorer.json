@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Windows"
+        },
+        {
+          "level": 4,
+          "name": "Explorer"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-11-29T20:51:44Z",
+    "description": "Open the file explorer in the current buffer location",
+    "isArchived": false,
+    "lastCommit": "2025-10-05T22:35:38Z",
+    "nameWithOwner": "14096/nvim-open-in-explorer",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-open-in-explorer",
+  "owner": "14096",
+  "url": "https://github.com/srpmtt/nvim-open-in-explorer"
+}

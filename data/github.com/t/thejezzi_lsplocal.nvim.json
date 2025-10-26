@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "Local LSP Config"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-09-15T12:01:11Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-13T17:16:37Z",
+    "nameWithOwner": "thejezzi/lsplocal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsplocal.nvim",
+  "owner": "thejezzi",
+  "url": "https://github.com/thejezzi/lsplocal.nvim"
+}

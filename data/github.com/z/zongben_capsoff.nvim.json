@@ -38,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 16,
     "createdAt": "2024-05-23T18:26:46Z",
     "description": "Turns off CapsLock when you leaving insert mode.",
     "isArchived": false,
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10,
+    "star": 12,
     "topics": [
       "neovim-plugin",
       "lua",

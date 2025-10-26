@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Study"
+        },
+        {
+          "level": 4,
+          "name": "Hangul"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-10-16T06:21:34Z",
+    "isArchived": false,
+    "lastCommit": "2025-10-16T08:26:32Z",
+    "nameWithOwner": "JeEonPark/nvim-auto-hangul",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-auto-hangul",
+  "owner": "JeEonPark",
+  "url": "https://github.com/JeEonPark/nvim-auto-hangul"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2025-10-08T23:53:10Z",
+    "description": "A simple plugin to play local audio/music through neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-10T20:42:29Z",
+    "nameWithOwner": "jmatth11/player.nvim",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 3,
+    "topics": [
+      "audio",
+      "music",
+      "nvim",
+      "player",
+      "zig"
+    ]
+  },
+  "domain": "github.com",
+  "name": "player.nvim",
+  "owner": "jmatth11",
+  "url": "https://github.com/jmatth11/player.nvim"
+}

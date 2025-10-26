@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Key"
+        },
+        {
+          "level": 4,
+          "name": "Tab"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-05-09T17:19:31Z",
+    "description": "A neovim plugin to simplify overloading keys with multiple functions",
+    "isArchived": false,
+    "lastCommit": "2025-05-09T17:44:47Z",
+    "nameWithOwner": "hisbaan/supertab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim-plugin",
+      "supertab",
+      "tab"
+    ]
+  },
+  "domain": "github.com",
+  "name": "supertab.nvim",
+  "owner": "hisbaan",
+  "url": "https://github.com/hisbaan/supertab.nvim"
+}

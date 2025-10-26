@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Save"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-18T10:13:35Z",
+    "description": "Automatically save buffers in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-10-18T10:19:38Z",
+    "nameWithOwner": "jaswdr/nvim-auto-save",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-auto-save",
+  "owner": "jaswdr",
+  "url": "https://github.com/jaswdr/nvim-auto-save"
+}
