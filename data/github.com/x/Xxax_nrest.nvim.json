@@ -20,10 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 35,
+    "commitCountLastYear": 43,
     "createdAt": "2025-10-19T08:32:45Z",
+    "description": "Fast and lightweight HTTP REST client for Neovim. Execute HTTP requests from .http files with syntax highlighting, authentication, variables, and async execution. Zero Lua dependencies.",
     "isArchived": false,
-    "lastCommit": "2025-10-25T14:44:10Z",
+    "lastCommit": "2025-10-26T09:28:12Z",
     "nameWithOwner": "Xxax/nrest.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -31,6 +32,12 @@
     },
     "star": 2,
     "topics": [
+      "api",
+      "http",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "rest-client"
     ]
   },
   "domain": "github.com",
