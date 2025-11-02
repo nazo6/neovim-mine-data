@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "insert pairs"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 184,
+    "createdAt": "2025-03-14T18:55:59Z",
+    "description": "Rainbow highlighting and intelligent auto-pairs for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-30T16:31:18Z",
+    "nameWithOwner": "saghen/blink.pairs",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 154,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink.pairs",
+  "owner": "saghen",
+  "url": "https://github.com/Saghen/blink.pairs"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util pack"
+        }
+      ],
+      "file": "util-pack.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2024-05-14T00:27:50Z",
+    "description": "Set of simple, performant neovim plugins",
+    "isArchived": false,
+    "lastCommit": "2025-10-21T15:47:54Z",
+    "nameWithOwner": "saghen/blink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 181,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink.nvim",
+  "owner": "saghen",
+  "url": "https://github.com/Saghen/blink.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Actions"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-10-28T22:29:56Z",
+    "description": "An Neovim plugin with functions to update action versions and secure actions using the commit sha to increase security",
+    "isArchived": false,
+    "lastCommit": "2025-10-29T08:01:58Z",
+    "nameWithOwner": "naillizard/ghactions.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ghactions.nvim",
+  "owner": "naillizard",
+  "url": "https://github.com/naillizard/ghactions.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Zellij"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-10-26T04:07:22Z",
+    "description": "A Neovim plugin that  updates your Zellij tab name to match the active buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-10-26T23:48:36Z",
+    "nameWithOwner": "wizardling1/zj-tab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zj-tab.nvim",
+  "owner": "wizardling1",
+  "url": "https://github.com/wizardling1/zj-tab.nvim"
+}

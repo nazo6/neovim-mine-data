@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2024-08-21T12:37:08Z",
+    "description": "A Neovim plugin for a simple session management.",
+    "isArchived": false,
+    "lastCommit": "2025-10-30T07:23:22Z",
+    "nameWithOwner": "tigion/sessions.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sessions.nvim",
+  "owner": "tigion",
+  "url": "https://github.com/tigion/nvim-sessions"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Mapping stat"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-10-31T05:58:21Z",
+    "description": "Human-in-the-loop playground for the talk “AI-Optimised Vim Keybindings: HCI-Driven HITL Interfaces”.",
+    "isArchived": false,
+    "lastCommit": "2025-11-02T08:18:42Z",
+    "nameWithOwner": "ryoppippi/nvim-in-the-loop",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 12,
+    "topics": [
+      "bun",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-in-the-loop",
+  "owner": "ryoppippi",
+  "url": "https://github.com/ryoppippi/nvim-in-the-loop"
+}

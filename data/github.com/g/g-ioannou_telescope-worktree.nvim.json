@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Picker"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-30T21:06:54Z",
+    "description": "Navigate git worktrees with ease inside neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-10-31T14:51:35Z",
+    "nameWithOwner": "g-ioannou/telescope-worktree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-worktree.nvim",
+  "owner": "g-ioannou",
+  "url": "https://github.com/g-ioannou/telescope-worktree.nvim"
+}

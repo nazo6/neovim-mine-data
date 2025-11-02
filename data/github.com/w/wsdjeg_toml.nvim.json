@@ -16,17 +16,19 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 6,
     "createdAt": "2025-10-24T14:30:48Z",
+    "description": "toml parser for neovim",
     "isArchived": false,
-    "lastCommit": "2025-10-24T14:33:02Z",
+    "lastCommit": "2025-11-01T08:07:43Z",
     "nameWithOwner": "wsdjeg/toml.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

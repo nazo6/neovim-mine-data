@@ -17,20 +17,38 @@
       ],
       "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "(requires Neovim 0.5)"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 6,
     "createdAt": "2022-06-25T22:04:20Z",
     "description": "Provides external LTeX file handling (off-spec lsp) and other functions.",
     "isArchived": false,
-    "lastCommit": "2025-03-04T11:12:24Z",
+    "lastCommit": "2025-11-01T22:27:35Z",
     "nameWithOwner": "barreiroleo/ltex_extra.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 180,
+    "star": 182,
     "topics": [
       "grammar",
       "latex",

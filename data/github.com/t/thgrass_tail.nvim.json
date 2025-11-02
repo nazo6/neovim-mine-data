@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "refresh"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-10-25T23:14:38Z",
+    "description": "Neovim plugin to enable \"tail -f\" style behaviour on any buffer.",
+    "isArchived": false,
+    "lastCommit": "2025-10-29T11:11:31Z",
+    "nameWithOwner": "thgrass/tail.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tail.nvim",
+  "owner": "thgrass",
+  "url": "https://github.com/thgrass/tail.nvim"
+}

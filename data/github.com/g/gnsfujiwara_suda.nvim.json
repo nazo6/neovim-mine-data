@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "sudo"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-28T05:07:55Z",
+    "description": "Modern Neovim plugin for editing protected files with sudo privileges",
+    "isArchived": false,
+    "lastCommit": "2025-10-28T05:24:58Z",
+    "nameWithOwner": "gnsfujiwara/suda.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "suda.nvim",
+  "owner": "gnsfujiwara",
+  "url": "https://github.com/gnsfujiwara/suda.nvim"
+}

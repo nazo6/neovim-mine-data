@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "PHP"
+        }
+      ],
+      "file": "php.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-10-29T22:41:25Z",
+    "description": "Show installed package version inside of a main package manager file",
+    "isArchived": false,
+    "lastCommit": "2025-11-01T20:02:08Z",
+    "nameWithOwner": "nemanjajojic/package-version.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "composer",
+      "lock",
+      "lockfile",
+      "neovim-plugin",
+      "package",
+      "version",
+      "php",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "package-version.nvim",
+  "owner": "nemanjajojic",
+  "url": "https://github.com/nemanjajojic/package-version.nvim"
+}

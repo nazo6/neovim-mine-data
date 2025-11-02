@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C#"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 71,
+    "createdAt": "2024-08-05T03:23:30Z",
+    "description": "Auto-generate C# usings, namespace and type declaration on new file.",
+    "isArchived": false,
+    "lastCommit": "2025-10-31T18:39:02Z",
+    "nameWithOwner": "angeljreyes/boilersharp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "boilersharp.nvim",
+  "owner": "angeljreyes",
+  "url": "https://github.com/DestopLine/boilersharp.nvim"
+}

@@ -24,10 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 39,
     "createdAt": "2025-10-23T14:34:30Z",
+    "description": "Automatically fade inactive Neovim windows for better focus",
     "isArchived": false,
-    "lastCommit": "2025-10-26T09:35:39Z",
+    "lastCommit": "2025-10-27T05:42:46Z",
     "nameWithOwner": "pk-hash/winshade.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -35,6 +36,9 @@
     },
     "star": 1,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua"
     ]
   },
   "domain": "github.com",

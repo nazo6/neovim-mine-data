@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Template"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-10-30T23:46:47Z",
+    "description": "A neovim plugin for bootstrapping projects",
+    "isArchived": false,
+    "lastCommit": "2025-10-31T00:36:03Z",
+    "nameWithOwner": "paradoxical-dev/bootstrap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bootstrap.nvim",
+  "owner": "paradoxical-dev",
+  "url": "https://github.com/paradoxical-dev/bootstrap.nvim"
+}

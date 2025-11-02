@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Color picker"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-10-28T00:01:06Z",
+    "description": "Use termpicker without ever leaving neovim ;)",
+    "isArchived": false,
+    "lastCommit": "2025-10-28T01:07:12Z",
+    "nameWithOwner": "ChausseBenjamin/termpicker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "termpicker.nvim",
+  "owner": "ChausseBenjamin",
+  "url": "https://github.com/ChausseBenjamin/termpicker.nvim"
+}

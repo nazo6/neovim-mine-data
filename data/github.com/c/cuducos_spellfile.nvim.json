@@ -2,25 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Spell"
-        }
       ],
-      "file": "spellcheck.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2023-11-21T19:52:32Z",
     "description": "🌕 Port of spellfile.vim to Lua without depending on netrw",
-    "isArchived": false,
-    "lastCommit": "2025-01-13T14:19:45Z",
+    "isArchived": true,
+    "lastCommit": "2025-10-26T15:08:13Z",
     "nameWithOwner": "cuducos/spellfile.nvim",
     "primaryLanguage": {
       "color": "#000080",

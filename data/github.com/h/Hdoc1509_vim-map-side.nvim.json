@@ -20,18 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 46,
     "createdAt": "2025-10-20T02:56:08Z",
     "description": "Plugin that improves support for Vim's map side (lhs and rhs) in Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-10-25T22:53:38Z",
+    "lastCommit": "2025-10-31T02:49:13Z",
     "nameWithOwner": "Hdoc1509/vim-map-side.nvim",
     "primaryLanguage": {
-      "color": "#8ea64c",
-      "name": "Tree-sitter Query"
+      "color": "#000080",
+      "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "parser",
+      "tree-sitter",
+      "tree-sitter-vim-map-side",
+      "vim-map-side"
     ]
   },
   "domain": "github.com",

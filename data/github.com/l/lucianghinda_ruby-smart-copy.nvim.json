@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-10-25T12:58:14Z",
+    "description": "A Neovim plugin for intelligently copying Ruby methods with their class context and schema information.",
+    "isArchived": false,
+    "lastCommit": "2025-10-28T04:18:04Z",
+    "nameWithOwner": "lucianghinda/ruby-smart-copy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ruby-smart-copy.nvim",
+  "owner": "lucianghinda",
+  "url": "https://github.com/lucianghinda/ruby-smart-copy.nvim"
+}

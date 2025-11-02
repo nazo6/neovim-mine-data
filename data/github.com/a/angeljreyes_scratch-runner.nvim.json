@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-03-09T17:35:57Z",
+    "description": "Run code from your snacks.scratch windows.",
+    "isArchived": false,
+    "lastCommit": "2025-10-31T18:37:51Z",
+    "nameWithOwner": "angeljreyes/scratch-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 28,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratch-runner.nvim",
+  "owner": "angeljreyes",
+  "url": "https://github.com/DestopLine/scratch-runner.nvim"
+}

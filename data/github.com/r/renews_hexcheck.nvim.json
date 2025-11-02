@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Elixir"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-10-27T12:55:54Z",
+    "description": "Check for latest versions of a hex package inside your mix.exs directly from Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-10-28T00:40:27Z",
+    "nameWithOwner": "renews/hexcheck.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hexcheck.nvim",
+  "owner": "renews",
+  "url": "https://github.com/renews/hexcheck.nvim"
+}

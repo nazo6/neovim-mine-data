@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "gomodifytags"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-10-29T05:03:47Z",
+    "description": "A personal blend of essential Neovim functionality built for streamlining my own workflow.",
+    "isArchived": false,
+    "lastCommit": "2025-10-31T09:41:08Z",
+    "nameWithOwner": "asirago/blend.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blend.nvim",
+  "owner": "asirago",
+  "url": "https://github.com/asirago/blend.nvim"
+}

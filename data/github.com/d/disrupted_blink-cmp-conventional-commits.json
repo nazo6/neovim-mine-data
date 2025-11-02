@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "blink source"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-02-18T23:30:24Z",
+    "description": "Conventional Commits source for blink.cmp",
+    "isArchived": false,
+    "lastCommit": "2025-02-18T23:28:00Z",
+    "nameWithOwner": "disrupted/blink-cmp-conventional-commits",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-conventional-commits",
+  "owner": "disrupted",
+  "url": "https://github.com/disrupted/blink-cmp-conventional-commits"
+}

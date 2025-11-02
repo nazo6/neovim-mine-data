@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2023-03-06T21:32:53Z",
     "description": "Haskell syntax highlighting that considers variable scopes. Inspired from \"Context Coloring\" by prof. Douglas Crockford.",
     "isArchived": false,
-    "lastCommit": "2024-12-18T07:24:58Z",
+    "lastCommit": "2025-10-30T02:16:06Z",
     "nameWithOwner": "kiyoon/haskell-scope-highlighting.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 27,
+    "star": 28,
     "topics": [
       "haskell",
       "neovim",

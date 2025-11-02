@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 150,
+    "commitCountLastYear": 158,
     "createdAt": "2025-06-10T17:45:37Z",
-    "description": "Neovim plugin designed for log analysis. Define regex patterns to highlight matching lines. Use the \"lightbox\" to hide non-matches.",
+    "description": "Neovim plugin designed for log analysis. Define regex patterns to highlight matching lines. Use the \"lightbox\" to hide unmatched lines.",
     "isArchived": false,
-    "lastCommit": "2025-10-25T16:13:08Z",
+    "lastCommit": "2025-10-27T22:18:09Z",
     "nameWithOwner": "KieranCanter/candela.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 11,
     "topics": [
       "neovim-plugin"
     ]

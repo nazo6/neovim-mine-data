@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Continue"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-10-26T07:33:48Z",
+    "description": "A Lua wrapper for continuedev/continue",
+    "isArchived": false,
+    "lastCommit": "2025-10-28T10:32:16Z",
+    "nameWithOwner": "Megatherium/continue.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "continue.nvim",
+  "owner": "Megatherium",
+  "url": "https://github.com/Megatherium/continue.nvim"
+}

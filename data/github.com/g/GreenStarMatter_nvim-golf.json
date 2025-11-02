@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-10-30T16:01:23Z",
+    "description": "This is a NeoVim plugin game which augments a source file, displays the target file in a vertical split, so that the user must correct the target file back to its original state.",
+    "isArchived": false,
+    "lastCommit": "2025-10-30T16:35:37Z",
+    "nameWithOwner": "GreenStarMatter/nvim-golf",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-golf",
+  "owner": "GreenStarMatter",
+  "url": "https://github.com/GreenStarMatter/nvim-golf"
+}

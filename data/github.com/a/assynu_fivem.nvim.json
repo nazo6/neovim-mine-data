@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "FiveM"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-10-26T08:40:43Z",
+    "description": "Enhances lua-ls for FiveM & RedM in Neovim, providing full native autocompletion and support for custom syntax.",
+    "isArchived": false,
+    "lastCommit": "2025-11-02T00:17:21Z",
+    "nameWithOwner": "assynu/fivem.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fivem.nvim",
+  "owner": "assynu",
+  "url": "https://github.com/assynu/fivem.nvim"
+}

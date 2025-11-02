@@ -12,11 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Auto Completion Plugin"
-        },
-        {
-          "level": 4,
-          "name": "Made in Lua"
+          "name": "blink source"
         }
       ],
       "file": "completion.md",
@@ -24,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 59,
+    "commitCountLastYear": 60,
     "createdAt": "2025-01-21T16:49:10Z",
     "description": "⚙️ Configurable GitHub Copilot blink.cmp source for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-09-30T05:00:01Z",
+    "lastCommit": "2025-10-29T04:07:05Z",
     "nameWithOwner": "fang2hou/blink-copilot",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 180,
+    "star": 186,
     "topics": [
       "blink",
       "blink-cmp",

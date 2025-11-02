@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "PHP"
+        },
+        {
+          "level": 3,
+          "name": "Laravel"
+        }
+      ],
+      "file": "php.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-10-27T18:06:02Z",
+    "description": "A quick and easy way to run my most used commands in Laravel apps.",
+    "isArchived": false,
+    "lastCommit": "2025-10-29T04:41:24Z",
+    "nameWithOwner": "SaifOmar/laravel-quick.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "laravel-quick.nvim",
+  "owner": "SaifOmar",
+  "url": "https://github.com/SaifOmar/laravel-quick.nvim"
+}

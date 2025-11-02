@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Genie CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-10-22T21:33:04Z",
+    "description": "An AI-powered assistant for Neovim that connects to services like Gemini and Amazon Q to help you understand and write code directly in your editor.",
+    "isArchived": false,
+    "lastCommit": "2025-10-28T17:51:31Z",
+    "nameWithOwner": "e3oroush/askCode",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "agent",
+      "amazonqcli",
+      "gemini-cli",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "askCode",
+  "owner": "e3oroush",
+  "url": "https://github.com/e3oroush/askCode"
+}

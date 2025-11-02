@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-10-31T22:47:44Z",
+    "description": "Solve tsumego in your favorite text editor",
+    "isArchived": false,
+    "lastCommit": "2025-11-01T23:09:55Z",
+    "nameWithOwner": "linuxswords/nvim-tsumego",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tsumego",
+  "owner": "linuxswords",
+  "url": "https://github.com/linuxswords/nvim-tsumego"
+}

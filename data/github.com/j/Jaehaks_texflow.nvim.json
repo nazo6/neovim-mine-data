@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 96,
+    "commitCountLastYear": 120,
     "createdAt": "2025-08-07T22:26:16Z",
-    "description": "Make Build and search workflow using `texlab` lsp",
+    "description": "Make Build and search workflow for latex as complememt to 'texlab'",
     "isArchived": false,
-    "lastCommit": "2025-10-26T06:07:46Z",
+    "lastCommit": "2025-11-02T04:27:53Z",
     "nameWithOwner": "Jaehaks/texflow.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,9 @@
     },
     "star": 1,
     "topics": [
+      "latex",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
