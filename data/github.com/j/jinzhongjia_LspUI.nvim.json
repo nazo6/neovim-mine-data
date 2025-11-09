@@ -27,10 +27,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -38,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 40,
+    "commitCountLastYear": 41,
     "createdAt": "2023-01-20T02:32:50Z",
     "description": "A modern and useful UI plugin that wraps lsp operations.",
     "isArchived": false,
-    "lastCommit": "2025-10-27T01:41:03Z",
+    "lastCommit": "2025-11-08T18:23:30Z",
     "nameWithOwner": "jinzhongjia/LspUI.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 251,
+    "star": 252,
     "topics": [
       "neovim-plugin",
       "neovim-lua-plugin",

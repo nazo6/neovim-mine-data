@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "GitHub tweaks"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2024-12-22T23:17:03Z",
+    "isArchived": false,
+    "lastCommit": "2025-11-05T16:03:17Z",
+    "nameWithOwner": "tiberium/nvim-gh-dashboard",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gh-dashboard",
+  "owner": "tiberium",
+  "url": "https://github.com/tiberium/nvim-gh-dashboard"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Hover Doc"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-01T17:04:55Z",
+    "description": "A live updating documentation split for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-01T17:32:17Z",
+    "nameWithOwner": "YanniPapandreou/livedocs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "livedocs.nvim",
+  "owner": "YanniPapandreou",
+  "url": "https://github.com/YanniPapandreou/livedocs.nvim"
+}

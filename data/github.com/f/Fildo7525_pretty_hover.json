@@ -27,10 +27,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -38,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 61,
+    "commitCountLastYear": 60,
     "createdAt": "2023-04-09T10:06:16Z",
     "description": "A small and customizable Neovim plugin for pretty printing the hover information from LSP servers",
     "isArchived": false,

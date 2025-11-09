@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 210,
+    "commitCountLastYear": 239,
     "createdAt": "2025-01-12T23:03:52Z",
-    "description": "A tiny Neovim plugin that adds subtle animations to various operations.",
+    "description": "A Neovim plugin that adds smooth, customizable animations to text operations like yank, paste, search, undo/redo, and more.",
     "isArchived": false,
-    "lastCommit": "2025-09-04T20:19:40Z",
+    "lastCommit": "2025-11-07T10:44:41Z",
     "nameWithOwner": "rachartier/tiny-glimmer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 294,
+    "star": 365,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Path"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-03T15:52:28Z",
+    "description": "A simple Neovim plugin to copy file paths to clipboard",
+    "isArchived": false,
+    "lastCommit": "2025-11-03T15:50:58Z",
+    "nameWithOwner": "mikko-kohtala/copy-filepath.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copy-filepath.nvim",
+  "owner": "mikko-kohtala",
+  "url": "https://github.com/mikko-kohtala/copy-filepath.nvim"
+}

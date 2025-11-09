@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Label Jump (Easymotion style)"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2025-11-01T20:07:00Z",
+    "description": "My take on a minimal vim-easymotion",
+    "isArchived": false,
+    "lastCommit": "2025-11-04T02:00:17Z",
+    "nameWithOwner": "elanmed/seek.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "seek.nvim",
+  "owner": "elanmed",
+  "url": "https://github.com/elanmed/seek.nvim"
+}

@@ -9,10 +9,6 @@
         {
           "level": 3,
           "name": "Snippet"
-        },
-        {
-          "level": 4,
-          "name": "Snippet view"
         }
       ],
       "file": "snippet_template.md",
@@ -25,19 +21,15 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "FuzzyFinder"
-        },
-        {
           "level": 3,
-          "name": "Telescope Extensions"
+          "name": "Snippet"
         },
         {
           "level": 4,
-          "name": "Integration for another plugin"
+          "name": "Snippet view"
         }
       ],
-      "file": "fuzzy-finder.md",
+      "file": "snippet_template.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

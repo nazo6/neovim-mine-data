@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-05T05:16:08Z",
+    "description": "Run LLM models in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-07T02:50:51Z",
+    "nameWithOwner": "rmuell9/jarvis.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jarvis.nvim",
+  "owner": "rmuell9",
+  "url": "https://github.com/rmuell9/jarvis.nvim"
+}

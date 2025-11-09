@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 34,
     "createdAt": "2025-10-29T22:41:25Z",
-    "description": "Show installed package version inside of a main package manager file",
+    "description": "Toggle installed package version inside of a main package manager file",
     "isArchived": false,
-    "lastCommit": "2025-11-01T20:02:08Z",
+    "lastCommit": "2025-11-06T13:57:14Z",
     "nameWithOwner": "nemanjajojic/package-version.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 4,
     "topics": [
       "composer",
       "lock",
@@ -35,7 +35,9 @@
       "package",
       "version",
       "php",
-      "neovim"
+      "neovim",
+      "neovim-lua",
+      "npm"
     ]
   },
   "domain": "github.com",

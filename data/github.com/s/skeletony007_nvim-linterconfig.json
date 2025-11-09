@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lint"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-07T14:20:57Z",
+    "description": "Smartly enables and disables linters based on context cues. ",
+    "isArchived": false,
+    "lastCommit": "2025-11-07T15:14:30Z",
+    "nameWithOwner": "skeletony007/nvim-linterconfig",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-linterconfig",
+  "owner": "skeletony007",
+  "url": "https://github.com/skeletony007/nvim-linterconfig"
+}

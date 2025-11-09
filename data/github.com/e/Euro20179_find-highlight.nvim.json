@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        },
+        {
+          "level": 3,
+          "name": "Search highlight"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-11-02T20:04:55Z",
+    "description": "A dead simple plugin that finds the positions of treesitter highlights",
+    "isArchived": false,
+    "lastCommit": "2025-11-03T03:04:52Z",
+    "nameWithOwner": "Euro20179/find-highlight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "find-highlight.nvim",
+  "owner": "Euro20179",
+  "url": "https://github.com/Euro20179/find-highlight.nvim"
+}

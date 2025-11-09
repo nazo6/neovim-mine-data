@@ -8,23 +8,23 @@
         },
         {
           "level": 2,
-          "name": "FuzzyFinder"
+          "name": "Debug"
         },
         {
           "level": 3,
-          "name": "Telescope Extensions"
+          "name": "Debugger"
         },
         {
           "level": 4,
-          "name": "Integration for another plugin"
+          "name": "nvim-dap extension"
         }
       ],
-      "file": "fuzzy-finder.md",
+      "file": "debugger_repl.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2020-11-16T22:15:18Z",
     "description": "Integration for nvim-dap with telescope.nvim",
     "isArchived": false,
@@ -34,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 357,
+    "star": 358,
     "topics": [
     ]
   },

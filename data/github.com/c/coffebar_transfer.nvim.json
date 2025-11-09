@@ -17,28 +17,14 @@
       ],
       "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Deployment"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 13,
     "createdAt": "2023-10-24T20:29:16Z",
     "description": "Syncing files with remote server using rsync and OpenSSH",
     "isArchived": false,
-    "lastCommit": "2025-10-27T23:18:00Z",
+    "lastCommit": "2025-11-05T10:53:30Z",
     "nameWithOwner": "coffebar/transfer.nvim",
     "primaryLanguage": {
       "color": "#000080",

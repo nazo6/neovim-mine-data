@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-04T16:03:57Z",
+    "isArchived": false,
+    "lastCommit": "2025-11-04T16:05:34Z",
+    "nameWithOwner": "adamatom/clangd-db-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clangd-db-picker.nvim",
+  "owner": "adamatom",
+  "url": "https://github.com/adamatom/clangd-db-picker.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Lua"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-06T22:19:59Z",
+    "description": "Live markdown preview in Neovim split window. Treesitter parsing, synced scrolling, styled headers.",
+    "isArchived": false,
+    "lastCommit": "2025-11-08T16:53:01Z",
+    "nameWithOwner": "ducks/mdpreview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdpreview.nvim",
+  "owner": "ducks",
+  "url": "https://github.com/ducks/mdpreview.nvim"
+}

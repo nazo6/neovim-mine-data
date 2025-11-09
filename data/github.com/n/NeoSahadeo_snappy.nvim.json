@@ -20,18 +20,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 29,
     "createdAt": "2025-10-31T19:49:21Z",
-    "description": "... no peaking",
+    "description": "A nvim code export tool that produces an HTML representation of selected code.",
     "isArchived": false,
-    "lastCommit": "2025-11-01T12:59:25Z",
+    "lastCommit": "2025-11-08T18:40:44Z",
     "nameWithOwner": "NeoSahadeo/snappy.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
+      "html",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "screenshot"
     ]
   },
   "domain": "github.com",

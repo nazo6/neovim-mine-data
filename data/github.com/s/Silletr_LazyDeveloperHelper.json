@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Dependency Management"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -21,34 +35,20 @@
       ],
       "file": "python.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Dependency Management"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 420,
+    "commitCountLastYear": 429,
     "createdAt": "2025-07-07T15:24:00Z",
     "description": "Too lazy for write \"pip install -r requirements.txt\", or \"cargo add ...\".. or maybe.. \"luarocks install ..\" and writing it to requirements file? Thats plugin or you!",
     "isArchived": false,
-    "lastCommit": "2025-11-01T12:23:37Z",
+    "lastCommit": "2025-11-08T17:52:02Z",
     "nameWithOwner": "Silletr/LazyDeveloperHelper",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 7,
+    "star": 8,
     "topics": [
       "automation",
       "lua",
@@ -58,11 +58,11 @@
       "plugin",
       "awesome",
       "awesome-list",
-      "pip-automation"
+      "autoinstaller"
     ]
   },
   "domain": "github.com",
   "name": "LazyDeveloperHelper",
   "owner": "Silletr",
-  "url": "https://github.com/Silletr/LazyDevHelper"
+  "url": "https://github.com/Silletr/LazyDeveloperHelper"
 }

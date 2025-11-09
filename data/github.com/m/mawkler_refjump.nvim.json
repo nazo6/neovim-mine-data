@@ -31,10 +31,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -42,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 11,
     "createdAt": "2024-08-21T18:39:00Z",
     "description": "Jump to next/previous LSP reference for item under cursor with ]r/[r",
     "isArchived": false,

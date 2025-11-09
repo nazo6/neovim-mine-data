@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        },
+        {
+          "level": 3,
+          "name": "History"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-01T17:56:18Z",
+    "description": "A Telescope extension for Atuin shell history with advanced features and good vibes! ✨",
+    "isArchived": false,
+    "lastCommit": "2025-11-01T17:57:09Z",
+    "nameWithOwner": "ALPHAvibe/telescope-atuin-vibes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-atuin-vibes.nvim",
+  "owner": "ALPHAvibe",
+  "url": "https://github.com/ALPHAvibe/telescope-atuin-vibes.nvim"
+}

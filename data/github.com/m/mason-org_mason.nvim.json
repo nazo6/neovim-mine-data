@@ -48,10 +48,6 @@
         },
         {
           "level": 3,
-          "name": "(requires Neovim 0.5)"
-        },
-        {
-          "level": 4,
           "name": "LSP Installer"
         }
       ],
@@ -70,7 +66,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9680,
+    "star": 9712,
     "topics": [
       "lua",
       "mason",

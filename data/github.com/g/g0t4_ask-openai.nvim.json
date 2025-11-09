@@ -20,9 +20,9 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 167,
+    "commitCountLastYear": 151,
     "createdAt": "2024-11-04T00:25:58Z",
-    "description": "OSS predictions plugin for neovim (see feat-predictions branch)...  originally just a plugin to ask questions in vim's cmdline",
+    "description": "OSS predictions, ask ?, rewrite, semantic grep, auto-context (i.e. RAG) plugin for neovim (see feat-predictions branch)...  originally just a plugin to ask questions in vim's cmdline",
     "isArchived": false,
     "lastCommit": "2025-08-05T20:26:21Z",
     "nameWithOwner": "g0t4/ask-openai.nvim",

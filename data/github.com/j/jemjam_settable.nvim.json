@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "map function utiliy"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-11-06T03:29:35Z",
+    "description": "Simple plugin to map keymaps and user commands.",
+    "isArchived": false,
+    "lastCommit": "2025-11-07T23:14:29Z",
+    "nameWithOwner": "jemjam/settable.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "settable.nvim",
+  "owner": "jemjam",
+  "url": "https://github.com/jemjam/settable.nvim"
+}

@@ -31,10 +31,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 5,
     "createdAt": "2023-10-24T14:03:00Z",
     "description": "Show diagnostics and lsp info inside a custom window",
     "isArchived": false,
-    "lastCommit": "2025-05-09T00:09:54Z",
+    "lastCommit": "2025-11-03T00:20:51Z",
     "nameWithOwner": "soulis-1256/eagle.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 322,
+    "star": 324,
     "topics": [
       "lua",
       "neovim",

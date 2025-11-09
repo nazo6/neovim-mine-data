@@ -23,10 +23,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -34,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 50,
+    "commitCountLastYear": 49,
     "createdAt": "2020-09-19T22:59:49Z",
     "description": "Neovim plugin for a code outline window",
     "isArchived": false,

@@ -23,10 +23,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 80,
+    "commitCountLastYear": 83,
     "createdAt": "2021-02-14T11:18:45Z",
     "description": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
     "isArchived": false,
-    "lastCommit": "2025-11-01T10:47:04Z",
+    "lastCommit": "2025-11-06T15:23:08Z",
     "nameWithOwner": "mfussenegger/nvim-lint",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2521,
+    "star": 2529,
     "topics": [
       "neovim",
       "linter",

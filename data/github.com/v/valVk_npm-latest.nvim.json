@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "for Rust"
+        },
+        {
+          "level": 3,
+          "name": "NPM"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-07T11:36:50Z",
+    "description": "Show absolute latest npm package versions in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-07T11:56:39Z",
+    "nameWithOwner": "valVk/npm-latest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "javascript",
+      "neovim",
+      "neovim-plugin",
+      "nodejs",
+      "npm",
+      "package-json"
+    ]
+  },
+  "domain": "github.com",
+  "name": "npm-latest.nvim",
+  "owner": "valVk",
+  "url": "https://github.com/valVk/npm-latest.nvim"
+}

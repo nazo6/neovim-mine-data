@@ -1,0 +1,59 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Node"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-11-03T02:21:08Z",
+    "description": "Browser-based Markdown preview plugin for Neovim. Provides fast, real-time rendering pipeline to synchronize Markdown buffers with a live browser view and localwide anchor/link jump. (WebSocket, WASM, NodeJS/Bun)",
+    "isArchived": false,
+    "lastCommit": "2025-11-09T07:34:47Z",
+    "nameWithOwner": "StefanBartl/mdview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "browser",
+      "bun",
+      "doc",
+      "documentation",
+      "fast",
+      "local",
+      "markdown",
+      "markdown-preview",
+      "markdown-renderer",
+      "md"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdview.nvim",
+  "owner": "StefanBartl",
+  "url": "https://github.com/StefanBartl/mdview.nvim"
+}

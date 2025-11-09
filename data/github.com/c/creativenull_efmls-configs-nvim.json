@@ -9,10 +9,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -20,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 21,
     "createdAt": "2021-10-23T20:40:42Z",
     "description": "An unofficial collection of linters and formatters configured for efm-langserver for neovim.",
     "isArchived": false,
-    "lastCommit": "2025-10-08T15:14:10Z",
+    "lastCommit": "2025-11-03T16:50:10Z",
     "nameWithOwner": "creativenull/efmls-configs-nvim",
     "primaryLanguage": {
       "color": "#000080",

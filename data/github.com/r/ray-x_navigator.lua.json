@@ -27,10 +27,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -48,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1372,
+    "star": 1375,
     "topics": [
       "neovim-plugin",
       "language-server-client",

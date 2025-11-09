@@ -31,10 +31,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -42,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 283,
+    "commitCountLastYear": 287,
     "createdAt": "2024-06-29T14:13:21Z",
     "description": "A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.",
     "isArchived": false,
-    "lastCommit": "2025-10-28T00:09:39Z",
+    "lastCommit": "2025-11-09T10:04:36Z",
     "nameWithOwner": "rachartier/tiny-inline-diagnostic.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1393,
+    "star": 1412,
     "topics": [
       "neovim-plugin",
       "lua",

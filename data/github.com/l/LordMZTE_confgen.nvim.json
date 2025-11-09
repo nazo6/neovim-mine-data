@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "DSL"
+        },
+        {
+          "level": 5,
+          "name": "Confgen"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-06T22:46:58Z",
+    "description": "Mirror of https://git.mzte.de/LordMZTE/confgen.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-11-06T22:45:55Z",
+    "nameWithOwner": "LordMZTE/confgen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "confgen.nvim",
+  "owner": "LordMZTE",
+  "url": "https://github.com/LordMZTE/confgen.nvim"
+}

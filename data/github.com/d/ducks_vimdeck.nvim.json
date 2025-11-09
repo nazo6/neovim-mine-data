@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Presentation"
+        }
+      ],
+      "file": "office-tools.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-11-06T21:21:07Z",
+    "description": "Modern Neovim presentation plugin for markdown files. ASCII art headers, clean rendering, Treesitter parsing.",
+    "isArchived": false,
+    "lastCommit": "2025-11-07T23:23:57Z",
+    "nameWithOwner": "ducks/vimdeck.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vimdeck.nvim",
+  "owner": "ducks",
+  "url": "https://github.com/ducks/vimdeck.nvim"
+}

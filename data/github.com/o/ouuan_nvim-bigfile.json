@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 0,
     "createdAt": "2024-11-09T07:56:37Z",
     "description": "Detect big files and disable features like LSP and TreeSitter to improve performance, with per-filetype size limit support.",
     "isArchived": false,

@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-11-03T03:54:03Z",
+    "description": "github REST api implemented in lua",
+    "isArchived": false,
+    "lastCommit": "2025-11-04T04:14:29Z",
+    "nameWithOwner": "wsdjeg/github.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "github.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/github.nvim"
+}

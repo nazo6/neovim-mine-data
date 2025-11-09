@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-05T17:35:24Z",
+    "description": "A tiny Neovim plugin for quick note taking in a floating window. Opens your daily note instantly and autosaves.",
+    "isArchived": false,
+    "lastCommit": "2025-11-06T16:28:39Z",
+    "nameWithOwner": "manprit-tiwari/quicknotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "quicknotes.nvim",
+  "owner": "manprit-tiwari",
+  "url": "https://github.com/manprit-tiwari/quicknotes.nvim"
+}

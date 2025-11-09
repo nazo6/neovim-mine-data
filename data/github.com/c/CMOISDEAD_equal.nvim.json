@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Calculation"
+        }
+      ],
+      "file": "calculation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-11-01T17:03:43Z",
+    "description": "equal.nvim — evaluate math in place. seamless. fast. qalc-powered.",
+    "isArchived": false,
+    "lastCommit": "2025-11-02T03:20:59Z",
+    "nameWithOwner": "CMOISDEAD/equal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "equal.nvim",
+  "owner": "CMOISDEAD",
+  "url": "https://github.com/CMOISDEAD/equal.nvim"
+}

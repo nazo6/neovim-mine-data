@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-06T18:47:29Z",
+    "description": "Neovim Terminal Multiplexer",
+    "isArchived": false,
+    "lastCommit": "2025-11-06T18:49:46Z",
+    "nameWithOwner": "paullj1/nvim-mux",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mux",
+  "owner": "paullj1",
+  "url": "https://github.com/paullj1/nvim-mux"
+}

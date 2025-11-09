@@ -23,10 +23,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -34,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 239,
+    "commitCountLastYear": 244,
     "createdAt": "2021-05-11T06:39:38Z",
     "description": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
     "isArchived": false,
-    "lastCommit": "2025-11-02T00:25:00Z",
+    "lastCommit": "2025-11-08T16:48:43Z",
     "nameWithOwner": "mrcjkb/rustaceanvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2642,
+    "star": 2654,
     "topics": [
       "dap",
       "debug-adapter-protocol",

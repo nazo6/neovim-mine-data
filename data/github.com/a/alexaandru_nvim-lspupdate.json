@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "LSP Installer"
-        }
       ],
-      "file": "lsp.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2021-01-26T12:36:02Z",
     "description": "Updates installed LSP servers, automatically",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2021-12-21T09:46:40Z",
     "nameWithOwner": "alexaandru/nvim-lspupdate",
     "primaryLanguage": {

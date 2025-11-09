@@ -34,10 +34,6 @@
         },
         {
           "level": 3,
-          "name": "(requires Neovim 0.5)"
-        },
-        {
-          "level": 4,
           "name": "Diagnostics"
         }
       ],
@@ -56,7 +52,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 229,
+    "star": 230,
     "topics": [
       "lsp",
       "neovim",

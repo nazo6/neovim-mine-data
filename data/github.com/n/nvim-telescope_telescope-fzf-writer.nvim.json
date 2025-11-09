@@ -8,18 +8,10 @@
         },
         {
           "level": 2,
-          "name": "FuzzyFinder"
-        },
-        {
-          "level": 3,
-          "name": "Telescope Extensions"
-        },
-        {
-          "level": 4,
           "name": "Grep"
         }
       ],
-      "file": "fuzzy-finder.md",
+      "file": "search_replace_grep_select.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -34,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 74,
+    "star": 75,
     "topics": [
     ]
   },

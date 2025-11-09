@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-01T21:38:15Z",
+    "description": "A Neovim plugin to open up a markdown buffer and quickly store your fleeting notes, thoughts and ideas.",
+    "isArchived": false,
+    "lastCommit": "2025-11-01T22:05:48Z",
+    "nameWithOwner": "alifoo/fleeting-notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fleeting-notes.nvim",
+  "owner": "alifoo",
+  "url": "https://github.com/alifoo/fleeting-notes.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Adding and subtracting"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-05T13:52:19Z",
+    "description": "Very basic implementation in lua of the vim VisIncr, produce increasing columns of numbers",
+    "isArchived": false,
+    "lastCommit": "2025-11-05T15:21:05Z",
+    "nameWithOwner": "lofic/dummyvisincr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dummyvisincr.nvim",
+  "owner": "lofic",
+  "url": "https://github.com/lofic/dummyvisincr.nvim"
+}

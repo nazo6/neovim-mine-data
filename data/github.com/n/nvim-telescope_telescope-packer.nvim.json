@@ -8,18 +8,14 @@
         },
         {
           "level": 2,
-          "name": "FuzzyFinder"
+          "name": "Plugin Manager"
         },
         {
           "level": 3,
-          "name": "Telescope Extensions"
-        },
-        {
-          "level": 4,
-          "name": "Integration for another plugin"
+          "name": "Use builtin package feature"
         }
       ],
-      "file": "fuzzy-finder.md",
+      "file": "plugin-manager.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

@@ -38,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 72,
+    "commitCountLastYear": 86,
     "createdAt": "2025-06-12T19:31:09Z",
     "description": "The Spring Initializr for Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-10-07T21:27:58Z",
+    "lastCommit": "2025-11-07T19:04:29Z",
     "nameWithOwner": "jkeresman01/spring-initializr.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -58,7 +58,8 @@
       "spring-boot",
       "spring-initializer",
       "spring-initializr",
-      "springboot"
+      "springboot",
+      "groovy"
     ]
   },
   "domain": "github.com",

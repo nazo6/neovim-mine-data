@@ -27,10 +27,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -38,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 164,
+    "commitCountLastYear": 174,
     "createdAt": "2021-03-21T05:46:20Z",
     "description": "A plugin for setting Neovim LSP with JSON or YAML files",
     "isArchived": false,
-    "lastCommit": "2025-10-27T23:02:15Z",
+    "lastCommit": "2025-11-09T07:03:03Z",
     "nameWithOwner": "tamago324/nlsp-settings.nvim",
     "primaryLanguage": {
       "color": "#000080",

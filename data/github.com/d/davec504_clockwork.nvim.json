@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Clockwork"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-11-06T09:53:58Z",
+    "description": "Nvim plugin for managing timesheets in Jira Clockwork",
+    "isArchived": false,
+    "lastCommit": "2025-11-06T10:32:20Z",
+    "nameWithOwner": "davec504/clockwork.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clockwork.nvim",
+  "owner": "davec504",
+  "url": "https://github.com/davec504/clockwork.nvim"
+}

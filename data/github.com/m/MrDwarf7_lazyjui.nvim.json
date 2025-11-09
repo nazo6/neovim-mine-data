@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jujutsu(jj)"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-07-28T17:24:01Z",
+    "description": "Small plugin to pull up jj/jujutsu using the jjtui Go project.",
+    "isArchived": false,
+    "lastCommit": "2025-08-22T09:49:19Z",
+    "nameWithOwner": "MrDwarf7/lazyjui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazyjui.nvim",
+  "owner": "MrDwarf7",
+  "url": "https://github.com/MrDwarf7/lazyjui.nvim"
+}

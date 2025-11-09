@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "just"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-11-05T09:17:59Z",
+    "description": "run justfile commands directly from neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-06T12:23:25Z",
+    "nameWithOwner": "alirezanobakht13/just-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "just-runner.nvim",
+  "owner": "alirezanobakht13",
+  "url": "https://github.com/alirezanobakht13/just-runner.nvim"
+}

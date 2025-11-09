@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-11-02T18:04:33Z",
+    "description": "✨ Execute Lua seamlessly in Neovim with a dedicated scratch buffer that allows for easy experimentation and instant results using Neovim APIs.",
+    "isArchived": false,
+    "lastCommit": "2025-11-09T09:12:17Z",
+    "nameWithOwner": "m4r3k1598-lang/replua.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "automation",
+      "coding",
+      "configuration",
+      "development",
+      "editor",
+      "lua",
+      "neovim",
+      "nvim",
+      "plugin",
+      "programming"
+    ]
+  },
+  "domain": "github.com",
+  "name": "replua.nvim",
+  "owner": "m4r3k1598-lang",
+  "url": "https://github.com/m4r3k1598-lang/replua.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-11-01T19:47:06Z",
+    "description": "Neovim plugin for Copilot Chat, context management, and advanced UI (nui.nvim).",
+    "isArchived": false,
+    "lastCommit": "2025-11-01T19:55:15Z",
+    "nameWithOwner": "mikeoz32/nvim-agent",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-agent",
+  "owner": "mikeoz32",
+  "url": "https://github.com/mikeoz32/nvim-agent"
+}

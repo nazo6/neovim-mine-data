@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-11-06T12:38:30Z",
+    "description": "A lightweight Neovim plugin for floating and bottom terminals",
+    "isArchived": false,
+    "lastCommit": "2025-11-06T13:33:02Z",
+    "nameWithOwner": "carldersell/floating-terminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floating-terminal.nvim",
+  "owner": "carldersell",
+  "url": "https://github.com/carldersell/floating-terminal.nvim"
+}

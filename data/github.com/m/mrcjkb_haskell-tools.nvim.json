@@ -9,10 +9,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -46,13 +42,13 @@
     "createdAt": "2022-10-15T14:18:38Z",
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "isArchived": false,
-    "lastCommit": "2025-11-02T00:30:16Z",
+    "lastCommit": "2025-11-09T00:28:24Z",
     "nameWithOwner": "mrcjkb/haskell-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 552,
+    "star": 553,
     "topics": [
       "haskell",
       "lsp",

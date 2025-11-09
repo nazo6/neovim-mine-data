@@ -27,10 +27,6 @@
         {
           "level": 2,
           "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "(requires Neovim 0.5)"
         }
       ],
       "file": "README.md",
@@ -42,13 +38,13 @@
     "createdAt": "2021-10-07T07:03:15Z",
     "description": "🛍 JSON schemas for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-11-02T02:30:35Z",
+    "lastCommit": "2025-11-06T21:00:34Z",
     "nameWithOwner": "b0o/SchemaStore.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 923,
+    "star": 929,
     "topics": [
       "nvim",
       "nvim-plugin",

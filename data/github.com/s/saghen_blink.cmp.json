@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Completion"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -21,34 +35,20 @@
       ],
       "file": "completion.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
-        },
-        {
-          "level": 2,
-          "name": "Completion"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 1311,
+    "commitCountLastYear": 1263,
     "createdAt": "2024-07-31T01:56:33Z",
     "description": "Performant, batteries-included completion plugin for Neovim ",
     "isArchived": false,
-    "lastCommit": "2025-10-31T17:48:27Z",
+    "lastCommit": "2025-11-05T16:24:44Z",
     "nameWithOwner": "saghen/blink.cmp",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5518,
+    "star": 5544,
     "topics": [
       "neovim",
       "neovim-lua-plugin",
@@ -58,5 +58,5 @@
   "domain": "github.com",
   "name": "blink.cmp",
   "owner": "saghen",
-  "url": "https://github.com/Saghen/blink.cmp"
+  "url": "https://github.com/saghen/blink.cmp"
 }

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-01T06:44:20Z",
+    "description": "A Telescope extension for managing git worktrees with ease and good vibes! 🎵",
+    "isArchived": false,
+    "lastCommit": "2025-11-02T11:38:56Z",
+    "nameWithOwner": "ALPHAvibe/telescope-worktree-vibes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-worktree-vibes.nvim",
+  "owner": "ALPHAvibe",
+  "url": "https://github.com/ALPHAvibe/telescope-worktree-vibes.nvim"
+}

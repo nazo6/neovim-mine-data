@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "mLua"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-11-07T21:16:02Z",
+    "description": "Neovim integration for MapleStory Worlds mLua support",
+    "isArchived": false,
+    "lastCommit": "2025-11-08T11:25:20Z",
+    "nameWithOwner": "seokgukim/mlua.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "languageserverprotocol",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mlua.nvim",
+  "owner": "seokgukim",
+  "url": "https://github.com/seokgukim/mlua.nvim"
+}

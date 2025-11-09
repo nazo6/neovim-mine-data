@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Number"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-11-05T08:28:50Z",
+    "description": "A powerful neovim plugin to easily convert between various formats",
+    "isArchived": false,
+    "lastCommit": "2025-11-08T00:42:43Z",
+    "nameWithOwner": "Necrom4/convy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "convy.nvim",
+  "owner": "Necrom4",
+  "url": "https://github.com/Necrom4/convy.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-11-08T09:07:43Z",
+    "description": "Triforce is a Neovim plugin with beautiful UI that adds a bit of RPG flavor to your coding — XP, levels, and achievements while you work.",
+    "isArchived": false,
+    "lastCommit": "2025-11-09T09:58:32Z",
+    "nameWithOwner": "gisketch/triforce.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 64,
+    "topics": [
+      "adhd",
+      "gamify",
+      "neovim",
+      "plugin",
+      "tracker"
+    ]
+  },
+  "domain": "github.com",
+  "name": "triforce.nvim",
+  "owner": "gisketch",
+  "url": "https://github.com/gisketch/triforce.nvim"
+}

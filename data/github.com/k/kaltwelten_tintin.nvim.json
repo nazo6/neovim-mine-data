@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "focus"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-04T21:15:38Z",
+    "description": "Neovim plugin making inactive windows appear dimmed",
+    "isArchived": false,
+    "lastCommit": "2025-11-06T08:30:23Z",
+    "nameWithOwner": "kaltwelten/tintin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tintin.nvim",
+  "owner": "kaltwelten",
+  "url": "https://github.com/kaltwelten/tintin.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Environment Variable"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-11-02T14:08:08Z",
+    "description": "A Neovim plugin for managing .env files",
+    "isArchived": false,
+    "lastCommit": "2025-11-06T22:06:03Z",
+    "nameWithOwner": "sociale11/envim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "envim.nvim",
+  "owner": "sociale11",
+  "url": "https://github.com/sociale11/envim.nvim"
+}

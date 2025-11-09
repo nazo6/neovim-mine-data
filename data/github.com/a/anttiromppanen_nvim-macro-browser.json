@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Macro"
+        }
+      ],
+      "file": "macro.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-11-06T23:47:12Z",
+    "description": "A Neovim plugin that displays your recorded macros in a popup window with preview and easy selection.",
+    "isArchived": false,
+    "lastCommit": "2025-11-07T03:05:55Z",
+    "nameWithOwner": "anttiromppanen/nvim-macro-browser",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-macro-browser",
+  "owner": "anttiromppanen",
+  "url": "https://github.com/anttiromppanen/nvim-macro-browser"
+}

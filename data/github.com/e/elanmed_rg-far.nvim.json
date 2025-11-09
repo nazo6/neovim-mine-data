@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2025-11-06T03:13:16Z",
+    "description": "A minimal find-and-replace plugin powered by ripgrep",
+    "isArchived": false,
+    "lastCommit": "2025-11-08T18:19:04Z",
+    "nameWithOwner": "elanmed/rg-far.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rg-far.nvim",
+  "owner": "elanmed",
+  "url": "https://github.com/elanmed/rg-far.nvim"
+}

@@ -20,20 +20,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 36,
     "createdAt": "2025-10-28T12:08:02Z",
     "description": "A project-scoped bookmark manager for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-11-01T15:36:03Z",
+    "lastCommit": "2025-11-09T10:00:15Z",
     "nameWithOwner": "alexekdahl/marksman.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 18,
     "topics": [
       "nvim",
-      "nvim-plugin"
+      "nvim-plugin",
+      "nvim-lua",
+      "nvim-plugins",
+      "nvim-mark"
     ]
   },
   "domain": "github.com",

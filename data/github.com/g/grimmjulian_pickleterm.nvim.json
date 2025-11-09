@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Send"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-08T04:32:54Z",
+    "description": "pickleterm.nvim is a lightweight Neovim plugin that lets you open, reuse, and send commands to named terminal buffers — so you can keep multiple interactive shells “pickled” for later use.  Stop spawning new terminals every time — reuse them intelligently.",
+    "isArchived": false,
+    "lastCommit": "2025-11-08T04:36:51Z",
+    "nameWithOwner": "grimmjulian/pickleterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pickleterm.nvim",
+  "owner": "grimmjulian",
+  "url": "https://github.com/grimmjulian/pickleterm.nvim"
+}
