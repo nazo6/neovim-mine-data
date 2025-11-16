@@ -28,11 +28,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 24,
     "createdAt": "2025-11-03T02:21:08Z",
     "description": "Browser-based Markdown preview plugin for Neovim. Provides fast, real-time rendering pipeline to synchronize Markdown buffers with a live browser view and localwide anchor/link jump. (WebSocket, WASM, NodeJS/Bun)",
     "isArchived": false,
-    "lastCommit": "2025-11-09T07:34:47Z",
+    "lastCommit": "2025-11-11T08:59:42Z",
     "nameWithOwner": "StefanBartl/mdview.nvim",
     "primaryLanguage": {
       "color": "#000080",

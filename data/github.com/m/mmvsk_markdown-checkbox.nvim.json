@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown checkbox"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-09T06:46:51Z",
+    "description": "A minimal Neovim plugin for toggling markdown checkboxes",
+    "isArchived": false,
+    "lastCommit": "2025-11-09T06:49:24Z",
+    "nameWithOwner": "mmvsk/markdown-checkbox.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-checkbox.nvim",
+  "owner": "mmvsk",
+  "url": "https://github.com/mmvsk/markdown-checkbox.nvim"
+}

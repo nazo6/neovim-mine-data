@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Android"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-11-12T21:10:10Z",
+    "description": "A reimplementation of some most useful features from Android Studio",
+    "isArchived": false,
+    "lastCommit": "2025-11-13T13:56:19Z",
+    "nameWithOwner": "Marfien/astudio.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "astudio.nvim",
+  "owner": "Marfien",
+  "url": "https://github.com/Marfien/astudio.nvim"
+}

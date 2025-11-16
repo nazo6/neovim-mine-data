@@ -17,20 +17,38 @@
       ],
       "file": "git-github.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "GitHub"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 34,
     "createdAt": "2024-10-09T01:47:44Z",
     "description": "🌐 Create commit pinned links to git(hub | lab) hosted files/lines directly from Neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-10T18:17:10Z",
+    "lastCommit": "2025-11-10T15:36:57Z",
     "nameWithOwner": "claydugo/browsher.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 11,
+    "star": 12,
     "topics": [
       "git",
       "github",

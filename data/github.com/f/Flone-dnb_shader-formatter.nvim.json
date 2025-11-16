@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Formatter"
-        }
       ],
-      "file": "linter_formatter.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 2,
     "createdAt": "2025-05-30T19:01:19Z",
     "description": "Neovim plugin for using shader formatter. ",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-05-30T19:32:38Z",
     "nameWithOwner": "Flone-dnb/shader-formatter.nvim",
     "primaryLanguage": {

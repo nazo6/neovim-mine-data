@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 49,
+    "createdAt": "2025-11-10T10:43:27Z",
+    "description": "Neovim plugin that uses local LLM to generate docstrings for functions",
+    "isArchived": false,
+    "lastCommit": "2025-11-15T21:00:22Z",
+    "nameWithOwner": "kr4nkenwagen/ai-docstring.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ai-docstring.nvim",
+  "owner": "kr4nkenwagen",
+  "url": "https://github.com/kr4nkenwagen/ai-docstring.nvim"
+}

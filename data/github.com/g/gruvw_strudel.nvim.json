@@ -17,20 +17,34 @@
       ],
       "file": "music.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 43,
     "createdAt": "2025-06-18T08:05:17Z",
     "description": "A Neovim based strudel.cc controller, live coding using Strudel from Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-11-05T20:11:02Z",
+    "lastCommit": "2025-11-15T10:04:24Z",
     "nameWithOwner": "gruvw/strudel.nvim",
     "primaryLanguage": {
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "star": 149,
+    "star": 170,
     "topics": [
       "algorave",
       "coding",
@@ -40,7 +54,8 @@
       "strudel",
       "hydra",
       "editor",
-      "plugin"
+      "plugin",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

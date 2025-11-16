@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-11-10T10:51:57Z",
+    "description": "A Neovim plugin to manage notes in a floating window. Keep your memo in one place across all projects.",
+    "isArchived": false,
+    "lastCommit": "2025-11-12T09:48:24Z",
+    "nameWithOwner": "sh1Nome/floatmemo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floatmemo.nvim",
+  "owner": "sh1Nome",
+  "url": "https://github.com/sh1Nome/floatmemo.nvim"
+}

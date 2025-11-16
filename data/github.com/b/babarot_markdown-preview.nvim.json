@@ -1,0 +1,54 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Lua"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-08T09:51:49Z",
+    "description": " A Neovim plugin for previewing Markdown files with GitHub's official styling using gh-markdown-preview",
+    "isArchived": false,
+    "lastCommit": "2025-11-08T10:15:08Z",
+    "nameWithOwner": "babarot/markdown-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "github-cli",
+      "markdown",
+      "markdown-preview",
+      "neovim",
+      "neovim-pl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-preview.nvim",
+  "owner": "babarot",
+  "url": "https://github.com/babarot/markdown-preview.nvim"
+}

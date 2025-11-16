@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-13T11:01:46Z",
+    "isArchived": false,
+    "lastCommit": "2025-11-13T11:58:21Z",
+    "nameWithOwner": "yuki-yano/snacks-smart-git-status.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-smart-git-status.nvim",
+  "owner": "yuki-yano",
+  "url": "https://github.com/yuki-yano/snacks-smart-git-status.nvim"
+}

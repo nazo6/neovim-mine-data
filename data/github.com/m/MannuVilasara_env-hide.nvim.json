@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-11-09T06:33:05Z",
+    "description": "protect your env files from being shown",
+    "isArchived": false,
+    "lastCommit": "2025-11-09T18:18:26Z",
+    "nameWithOwner": "MannuVilasara/env-hide.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "environment-variables",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "env-hide.nvim",
+  "owner": "MannuVilasara",
+  "url": "https://github.com/MannuVilasara/env-hide.nvim"
+}

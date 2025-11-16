@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-14T20:16:41Z",
+    "description": "A simple Neovim plugin for managing markdown notes and todos with Telescope integration.",
+    "isArchived": false,
+    "lastCommit": "2025-11-14T20:42:46Z",
+    "nameWithOwner": "lbartoletti/notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "note",
+      "notes",
+      "nvim",
+      "nvim-lua",
+      "taking-notes"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes.nvim",
+  "owner": "lbartoletti",
+  "url": "https://github.com/lbartoletti/notes.nvim"
+}

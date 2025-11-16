@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-08T11:40:55Z",
+    "description": "⚡ Seamlessly debug Azure Functions in Neovim with automatic DAP integration",
+    "isArchived": false,
+    "lastCommit": "2025-11-09T11:12:04Z",
+    "nameWithOwner": "fschaal/azfunc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "azfunc.nvim",
+  "owner": "fschaal",
+  "url": "https://github.com/fschaal/azfunc.nvim"
+}

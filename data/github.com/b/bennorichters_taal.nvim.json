@@ -1,0 +1,58 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grammar check"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Language"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 409,
+    "createdAt": "2024-08-23T14:55:38Z",
+    "description": "A Neovim plugin that uses LLMs to improve the grammar and spelling of natural language text.",
+    "isArchived": false,
+    "lastCommit": "2025-11-16T08:39:23Z",
+    "nameWithOwner": "bennorichters/taal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "llm",
+      "neovim",
+      "lua",
+      "neovim-plugin",
+      "claude",
+      "gemini",
+      "openai"
+    ]
+  },
+  "domain": "github.com",
+  "name": "taal.nvim",
+  "owner": "bennorichters",
+  "url": "https://github.com/bennorichters/taal.nvim"
+}

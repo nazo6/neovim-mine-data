@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "winbar"
+        }
+      ],
+      "file": "winbar.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-11-09T23:00:20Z",
+    "description": "Configurable and minimal Neovim WinBar plugin with LSP, Git, and diagnostics integration.",
+    "isArchived": false,
+    "lastCommit": "2025-11-14T18:47:23Z",
+    "nameWithOwner": "mateconpizza/winbar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins",
+      "neovim-winbar",
+      "nvim-plugins",
+      "nvim-winbar",
+      "neovim-ui",
+      "nvim-ui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "winbar.nvim",
+  "owner": "mateconpizza",
+  "url": "https://github.com/mateconpizza/winbar.nvim"
+}

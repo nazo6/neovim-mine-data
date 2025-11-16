@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-11-09T12:40:48Z",
+    "description": "plugin to better control the Diagnostic virtual texts and virtual lines",
+    "isArchived": false,
+    "lastCommit": "2025-11-11T22:17:04Z",
+    "nameWithOwner": "sfn101/xray.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "xray.nvim",
+  "owner": "sfn101",
+  "url": "https://github.com/sfn101/xray.nvim"
+}

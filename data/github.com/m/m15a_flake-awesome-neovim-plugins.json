@@ -20,21 +20,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 201,
+    "commitCountLastYear": 214,
     "createdAt": "2021-12-11T08:13:56Z",
-    "description": "Nix flake of Awesome Neovim plugins",
+    "description": "A Nix flake providing the Awesome Neovim plugins",
     "isArchived": false,
-    "lastCommit": "2025-05-28T17:34:51Z",
+    "lastCommit": "2025-11-16T07:12:23Z",
     "nameWithOwner": "m15a/flake-awesome-neovim-plugins",
     "primaryLanguage": {
-      "color": "#fff3d7",
-      "name": "Fennel"
+      "color": "#7e7eff",
+      "name": "Nix"
     },
     "star": 59,
     "topics": [
       "neovim-plugins",
-      "nix-flake",
-      "flakehub"
+      "nix-flake"
     ]
   },
   "domain": "github.com",

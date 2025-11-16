@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-11-12T16:53:15Z",
+    "isArchived": false,
+    "lastCommit": "2025-11-14T19:53:15Z",
+    "nameWithOwner": "ryanburda/nvim-tmux-wm",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tmux-wm",
+  "owner": "ryanburda",
+  "url": "https://github.com/ryanburda/nvim-tmux-navigator"
+}

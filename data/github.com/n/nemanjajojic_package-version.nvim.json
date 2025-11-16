@@ -16,28 +16,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 42,
     "createdAt": "2025-10-29T22:41:25Z",
-    "description": "Toggle installed package version inside of a main package manager file",
+    "description": "Imagine this: you’re in Neovim, and you want to keep an eye on your installed, outdated, and abandoned packages without having to leave the editor in a single keystroke. Well, now you can! With this plugin, you can toggle package versions right inside your main package manager file.",
     "isArchived": false,
-    "lastCommit": "2025-11-06T13:57:14Z",
+    "lastCommit": "2025-11-13T10:34:38Z",
     "nameWithOwner": "nemanjajojic/package-version.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
       "composer",
-      "lock",
-      "lockfile",
       "neovim-plugin",
       "package",
       "version",
       "php",
       "neovim",
-      "neovim-lua",
-      "npm"
+      "npm",
+      "version-check",
+      "yarn",
+      "js"
     ]
   },
   "domain": "github.com",

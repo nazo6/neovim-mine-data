@@ -2,27 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Textobject"
-        },
-        {
-          "level": 3,
-          "name": "Swap"
-        }
       ],
-      "file": "textobject_operator.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 1,
     "createdAt": "2024-07-15T04:49:28Z",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-02-03T15:50:14Z",
     "nameWithOwner": "haolian9/textswap.nvim",
     "primaryLanguage": {

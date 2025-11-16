@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-05-28T21:56:10Z",
+    "description": "A simple plugin for Neovim to interact with LLMs",
+    "isArchived": false,
+    "lastCommit": "2025-07-02T21:20:11Z",
+    "nameWithOwner": "frodonh/simplellm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "simplellm.nvim",
+  "owner": "frodonh",
+  "url": "https://github.com/frodonh/simplellm.nvim"
+}

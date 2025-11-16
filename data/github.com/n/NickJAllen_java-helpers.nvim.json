@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-11-08T18:41:42Z",
+    "description": "Useful helpers for creating new Java classes, interfaces, enums with correct package declaration",
+    "isArchived": false,
+    "lastCommit": "2025-11-14T13:15:11Z",
+    "nameWithOwner": "NickJAllen/java-helpers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-helpers.nvim",
+  "owner": "NickJAllen",
+  "url": "https://github.com/NickJAllen/java-helpers.nvim"
+}

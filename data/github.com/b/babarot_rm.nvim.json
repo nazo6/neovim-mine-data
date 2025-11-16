@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "Trash"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-09T23:43:33Z",
+    "description": "Safe file deletion plugin for Neovim with customizable commands",
+    "isArchived": false,
+    "lastCommit": "2025-11-10T00:16:37Z",
+    "nameWithOwner": "babarot/rm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rm.nvim",
+  "owner": "babarot",
+  "url": "https://github.com/babarot/rm.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Kotlin"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-11-08T13:48:42Z",
+    "isArchived": false,
+    "lastCommit": "2025-11-14T00:59:32Z",
+    "nameWithOwner": "ryugen04/kotlin-extended-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#e34c26",
+      "name": "HTML"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kotlin-extended-lsp.nvim",
+  "owner": "ryugen04",
+  "url": "https://github.com/ryugen04/kotlin-extended-lsp.nvim"
+}

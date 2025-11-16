@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-11-13T04:35:46Z",
+    "description": "Neovim Plugin to show non-empty buffers and jump beetween them.",
+    "isArchived": false,
+    "lastCommit": "2025-11-14T15:26:00Z",
+    "nameWithOwner": "aclCMNK/BuffersJump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "BuffersJump.nvim",
+  "owner": "aclCMNK",
+  "url": "https://github.com/aclCMNK/BuffersJump.nvim"
+}

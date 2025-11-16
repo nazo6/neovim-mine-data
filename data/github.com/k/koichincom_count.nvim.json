@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        },
+        {
+          "level": 3,
+          "name": "Word Count"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-10T09:45:57Z",
+    "description": "WIP Advanced Word, Char, and Sentence Counting APIs for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-11T06:29:10Z",
+    "nameWithOwner": "koichincom/count.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "count"
+    ]
+  },
+  "domain": "github.com",
+  "name": "count.nvim",
+  "owner": "koichincom",
+  "url": "https://github.com/koichincom/count.nvim"
+}

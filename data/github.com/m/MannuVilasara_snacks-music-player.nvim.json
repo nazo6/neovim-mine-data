@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-11-08T14:58:21Z",
+    "description": "a minimal music player inside nvim using playerctl",
+    "isArchived": false,
+    "lastCommit": "2025-11-09T15:22:24Z",
+    "nameWithOwner": "MannuVilasara/snacks-music-player.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "music-player",
+      "nvim",
+      "nvim-plugin",
+      "playerctl",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-music-player.nvim",
+  "owner": "MannuVilasara",
+  "url": "https://github.com/MannuVilasara/snacks-music-player.nvim"
+}

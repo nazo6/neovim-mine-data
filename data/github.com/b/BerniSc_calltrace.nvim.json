@@ -16,24 +16,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 28,
     "createdAt": "2025-11-03T16:23:26Z",
     "description": "Trace function callpaths from any point in code back to a reference function using LSP and Treesitter",
     "isArchived": false,
-    "lastCommit": "2025-11-08T13:52:37Z",
+    "lastCommit": "2025-11-13T22:34:26Z",
     "nameWithOwner": "BerniSc/calltrace.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 3,
     "topics": [
       "call-graph",
       "lsp",
       "neovim",
       "nvim",
       "plugin",
-      "treesitter"
+      "treesitter",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

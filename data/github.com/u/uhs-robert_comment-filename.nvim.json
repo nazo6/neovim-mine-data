@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "File Header"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-10-27T20:54:43Z",
+    "description": "💬📄  Automatically adds the git project file path as a comment to the top of files when saved. ",
+    "isArchived": false,
+    "lastCommit": "2025-11-12T12:28:35Z",
+    "nameWithOwner": "uhs-robert/comment-filename.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "nvim-lua-pl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment-filename.nvim",
+  "owner": "uhs-robert",
+  "url": "https://github.com/uhs-robert/comment_filename.nvim"
+}

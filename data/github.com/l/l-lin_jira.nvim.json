@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Jira"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 133,
+    "createdAt": "2025-11-11T21:25:49Z",
+    "description": "Neovim plugin for browsing and managing JIRA issues with a fuzzy-finding interface",
+    "isArchived": false,
+    "lastCommit": "2025-11-15T21:17:09Z",
+    "nameWithOwner": "l-lin/jira.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jira.nvim",
+  "owner": "l-lin",
+  "url": "https://github.com/l-lin/jira.nvim"
+}

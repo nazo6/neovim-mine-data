@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-12T14:11:11Z",
+    "description": "A custom DAP viewer for easier .NET debugging",
+    "isArchived": false,
+    "lastCommit": "2025-11-12T14:12:45Z",
+    "nameWithOwner": "austincrft/dotnet-dap-viewer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotnet-dap-viewer.nvim",
+  "owner": "austincrft",
+  "url": "https://github.com/austincrft/dotnet-dap-viewer.nvim"
+}

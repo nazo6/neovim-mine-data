@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-13T11:21:21Z",
+    "description": "Centralized theming system for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-13T11:18:56Z",
+    "nameWithOwner": "danielcopper/nvim-harmony",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-harmony",
+  "owner": "danielcopper",
+  "url": "https://github.com/danielcopper/nvim-harmony"
+}

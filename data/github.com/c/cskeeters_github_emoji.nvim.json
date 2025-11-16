@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Emoji"
+        },
+        {
+          "level": 3,
+          "name": "Emoji FuzzyFinder"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-10T00:44:41Z",
+    "description": "Neovim plugin for entering emojis in GitHub flavored markdown",
+    "isArchived": false,
+    "lastCommit": "2025-11-10T00:50:18Z",
+    "nameWithOwner": "cskeeters/github_emoji.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "github_emoji.nvim",
+  "owner": "cskeeters",
+  "url": "https://github.com/cskeeters/github_emoji.nvim"
+}

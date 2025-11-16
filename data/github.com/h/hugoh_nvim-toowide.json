@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Columnline"
-        },
-        {
-          "level": 3,
-          "name": "limit column"
-        }
       ],
-      "file": "cursorline_columnline.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 24,
     "createdAt": "2025-09-05T23:04:35Z",
     "description": "Neovim plugin to highlight text that exceeds a character limit, the way linters check line length",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-09-13T13:06:14Z",
     "nameWithOwner": "hugoh/nvim-toowide",
     "primaryLanguage": {

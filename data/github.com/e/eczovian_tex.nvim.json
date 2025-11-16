@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-11T19:08:45Z",
+    "description": "A tex plugin for neovim with a focus on remaining in the terminal.",
+    "isArchived": false,
+    "lastCommit": "2025-11-11T22:44:46Z",
+    "nameWithOwner": "eczovian/tex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tex.nvim",
+  "owner": "eczovian",
+  "url": "https://github.com/eczovian/tex.nvim"
+}

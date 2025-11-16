@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "[Split / Join](./split_join.md)"
+        }
+      ],
+      "file": "split_join.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-11T18:41:40Z",
+    "description": "Argument wrapper neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2025-11-11T18:42:33Z",
+    "nameWithOwner": "exdis/argwrap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "argwrap.nvim",
+  "owner": "exdis",
+  "url": "https://github.com/exdis/argwrap.nvim"
+}

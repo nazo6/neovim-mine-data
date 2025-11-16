@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Other Editor"
+        },
+        {
+          "level": 4,
+          "name": "Xcode"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-11-13T00:54:03Z",
+    "description": "Build, Run and Test iOS📲 & macOS  💻 Apps in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-13T00:59:29Z",
+    "nameWithOwner": "tornikegomareli/xcede.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "xcede.nvim",
+  "owner": "tornikegomareli",
+  "url": "https://github.com/tornikegomareli/xcede.nvim"
+}

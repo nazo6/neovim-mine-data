@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "BiBTex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2025-11-15T07:39:37Z",
+    "description": "A Snacks-powered picker for browsing, previewing, and inserting BibTeX references in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-11-15T20:27:31Z",
+    "nameWithOwner": "krissen/snacks-bibtex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-bibtex.nvim",
+  "owner": "krissen",
+  "url": "https://github.com/krissen/snacks-bibtex.nvim"
+}

@@ -2,35 +2,19 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Agent"
-        },
-        {
-          "level": 3,
-          "name": "Amp"
-        }
       ],
-      "file": "ai.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 37,
-    "createdAt": "2025-11-05T14:21:52Z",
-    "description": "Extra utilities to use Sourcegraph's Amp coding agent",
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-12T11:55:17Z",
+    "description": "SourceGraph's Amp Code agent helper to interact with it's cli written in rust",
     "isArchived": false,
-    "lastCommit": "2025-11-09T01:27:48Z",
+    "lastCommit": "2025-11-12T11:55:17Z",
     "nameWithOwner": "wrath-codes/amp-extras.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
-    "star": 1,
+    "star": 0,
     "topics": [
     ]
   },

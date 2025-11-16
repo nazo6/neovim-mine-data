@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Raindrop"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2025-11-11T06:38:47Z",
+    "description": "A Neovim plugin that integrates Raindrop.io bookmarks with Telescope, allowing you to quickly insert bookmark links into markdown files",
+    "isArchived": false,
+    "lastCommit": "2025-11-15T20:55:50Z",
+    "nameWithOwner": "wellsdurant/raindrop-md.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "bookmarks",
+      "lua",
+      "markdown",
+      "neovim",
+      "nvim-plugin",
+      "raindrop",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "raindrop-md.nvim",
+  "owner": "wellsdurant",
+  "url": "https://github.com/wellsdurant/raindrop-md.nvim"
+}

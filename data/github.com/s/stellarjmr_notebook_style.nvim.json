@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-11-11T22:19:02Z",
+    "description": "A Neovim plugin for rendering Python cells with beautiful borders",
+    "isArchived": false,
+    "lastCommit": "2025-11-14T17:53:02Z",
+    "nameWithOwner": "stellarjmr/notebook_style.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notebook_style.nvim",
+  "owner": "stellarjmr",
+  "url": "https://github.com/stellarjmr/notebook_style.nvim"
+}

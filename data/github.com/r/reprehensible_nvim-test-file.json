@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Test"
+        },
+        {
+          "level": 3,
+          "name": "Test file"
+        }
+      ],
+      "file": "test.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-12T22:03:48Z",
+    "isArchived": false,
+    "lastCommit": "2025-11-12T22:20:29Z",
+    "nameWithOwner": "reprehensible/nvim-test-file",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-test-file",
+  "owner": "reprehensible",
+  "url": "https://github.com/reprehensible/nvim-test-file"
+}

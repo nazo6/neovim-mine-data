@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-11T11:27:29Z",
+    "description": "Generate and auto-update table of contents list for markdown",
+    "isArchived": false,
+    "lastCommit": "2025-11-11T12:09:53Z",
+    "nameWithOwner": "mathias-ewald/markdown-toc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "generator",
+      "markdown",
+      "nvim",
+      "table-of-contents",
+      "toc"
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-toc.nvim",
+  "owner": "mathias-ewald",
+  "url": "https://github.com/mathias-ewald/markdown-toc.nvim"
+}

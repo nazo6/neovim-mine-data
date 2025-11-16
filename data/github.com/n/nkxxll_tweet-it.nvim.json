@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "SNS"
+        },
+        {
+          "level": 4,
+          "name": "X (Twitter)"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-11-11T11:45:46Z",
+    "description": "Compose tweets in neovim send them with the browser very easy very fast!",
+    "isArchived": false,
+    "lastCommit": "2025-11-15T11:56:00Z",
+    "nameWithOwner": "nkxxll/tweet-it.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tweet-it.nvim",
+  "owner": "nkxxll",
+  "url": "https://github.com/nkxxll/tweet-it.nvim"
+}

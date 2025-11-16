@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 36,
     "createdAt": "2025-07-26T09:50:42Z",
     "description": "Neovim python language tools",
     "isArchived": false,
-    "lastCommit": "2025-11-02T12:42:59Z",
+    "lastCommit": "2025-11-14T16:48:58Z",
     "nameWithOwner": "CaetanoGenete/python-tools.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,11 @@
     },
     "star": 2,
     "topics": [
+      "developer-tools",
+      "nvim",
+      "nvim-plugin",
+      "python",
+      "neovim"
     ]
   },
   "domain": "github.com",
