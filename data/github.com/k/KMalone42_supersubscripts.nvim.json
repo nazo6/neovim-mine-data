@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto insert"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-17T00:28:55Z",
+    "description": "a simple neovim plugin used to type super/subscripts via a familiar digraph method.",
+    "isArchived": false,
+    "lastCommit": "2025-11-17T00:29:36Z",
+    "nameWithOwner": "KMalone42/supersubscripts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "supersubscripts.nvim",
+  "owner": "KMalone42",
+  "url": "https://github.com/KMalone42/supersubscripts.nvim"
+}

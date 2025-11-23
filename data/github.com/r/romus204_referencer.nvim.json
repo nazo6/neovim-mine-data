@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 17,
     "createdAt": "2025-06-09T18:20:42Z",
     "description": "Lightweight, asynchronous Neovim plugin that uses the LSP to show references to functions, methods, types and other",
     "isArchived": false,
-    "lastCommit": "2025-10-24T08:58:58Z",
+    "lastCommit": "2025-11-19T06:23:05Z",
     "nameWithOwner": "romus204/referencer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 22,
+    "star": 23,
     "topics": [
       "neovim",
       "neovim-plugin"

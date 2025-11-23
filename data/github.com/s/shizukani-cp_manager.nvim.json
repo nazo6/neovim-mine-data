@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-11-16T07:44:16Z",
+    "description": "NeoVim Plugin Manager with Limited Features",
+    "isArchived": false,
+    "lastCommit": "2025-11-21T10:15:34Z",
+    "nameWithOwner": "shizukani-cp/manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "manager.nvim",
+  "owner": "shizukani-cp",
+  "url": "https://github.com/shizukani-cp/manager.nvim"
+}

@@ -8,23 +8,19 @@
         },
         {
           "level": 2,
-          "name": "Note Taking"
-        },
-        {
-          "level": 3,
-          "name": "etc"
+          "name": "Game"
         }
       ],
-      "file": "note-taking.md",
+      "file": "game.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
-    "createdAt": "2025-10-08T14:51:30Z",
+    "commitCountLastYear": 21,
+    "createdAt": "2025-11-15T15:45:22Z",
     "isArchived": false,
-    "lastCommit": "2025-10-16T18:23:19Z",
-    "nameWithOwner": "68mschmitt/memory-palace.nvim",
+    "lastCommit": "2025-11-20T06:49:23Z",
+    "nameWithOwner": "morre95/learning_game.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -34,7 +30,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "memory-palace.nvim",
-  "owner": "68mschmitt",
-  "url": "https://github.com/68mschmitt/memory-palace.nvim"
+  "name": "learning_game.nvim",
+  "owner": "morre95",
+  "url": "https://github.com/morre95/learning_game.nvim"
 }

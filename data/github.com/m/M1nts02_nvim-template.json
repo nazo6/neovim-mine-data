@@ -2,23 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "Template"
-        }
       ],
-      "file": "snippet_template.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 2,
     "createdAt": "2024-01-01T04:45:22Z",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-01-03T15:24:08Z",
     "nameWithOwner": "M1nts02/nvim-template",
     "primaryLanguage": {

@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 245,
+    "commitCountLastYear": 252,
     "createdAt": "2025-10-02T02:51:08Z",
     "description": "⚙️ Load project-local settings (like .vscode/settings.json) into Neovim 0.11+ native LSP settings easily.",
     "isArchived": false,
-    "lastCommit": "2025-11-16T01:30:23Z",
+    "lastCommit": "2025-11-21T16:24:45Z",
     "nameWithOwner": "mrjones2014/codesettings.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 22,
+    "star": 26,
     "topics": [
       "lsp",
       "neovim-plugin",

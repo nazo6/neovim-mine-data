@@ -16,12 +16,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 83,
+    "commitCountLastYear": 126,
     "createdAt": "2025-02-24T18:02:54Z",
-    "description": "A small plugin for managing sessions in NeoVim. Allows you to easily add your own functionality.",
+    "description": "Session management plugin. It's like tmux-sessionizer, but sessionsizer.nvim.",
     "isArchived": false,
-    "lastCommit": "2025-11-16T01:48:00Z",
-    "nameWithOwner": "I0I-I0I/sessions.nvim",
+    "lastCommit": "2025-11-23T00:48:38Z",
+    "nameWithOwner": "I0I-I0I/sessionizer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +31,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "sessions.nvim",
+  "name": "sessionizer.nvim",
   "owner": "I0I-I0I",
   "url": "https://github.com/I0I-I0I/sessions.nvim"
 }

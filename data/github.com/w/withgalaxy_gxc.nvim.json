@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Galaxy"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-18T18:22:14Z",
+    "description": "Neovim plugin for Galaxy .gxc files with LSP support",
+    "isArchived": false,
+    "lastCommit": "2025-11-18T18:22:07Z",
+    "nameWithOwner": "withgalaxy/gxc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gxc.nvim",
+  "owner": "withgalaxy",
+  "url": "https://github.com/withgalaxy/gxc.nvim"
+}

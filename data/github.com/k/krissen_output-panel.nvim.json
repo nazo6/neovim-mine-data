@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Fountain"
+          "name": "Tex"
         }
       ],
       "file": "documentation.md",
@@ -20,26 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
-    "createdAt": "2025-04-16T21:35:47Z",
-    "description": "🖋️ A nvim syntax highlighting plugin for the Fountain screenplay format",
+    "commitCountLastYear": 93,
+    "createdAt": "2025-11-18T08:09:06Z",
+    "description": "Snacks-style floating log overlay for VimTeX: unobtrusive compile status, focused view toggle, and Snacks notifications.",
     "isArchived": false,
-    "lastCommit": "2025-04-17T15:15:01Z",
-    "nameWithOwner": "00msjr/nvim-fountain",
+    "lastCommit": "2025-11-23T08:59:51Z",
+    "nameWithOwner": "krissen/output-panel.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8,
+    "star": 1,
     "topics": [
-      "fountain",
-      "neovim-plugin",
-      "nvim",
-      "screenwriting"
     ]
   },
   "domain": "github.com",
-  "name": "nvim-fountain",
-  "owner": "00msjr",
-  "url": "https://github.com/00msjr/nvim-fountain"
+  "name": "output-panel.nvim",
+  "owner": "krissen",
+  "url": "https://github.com/krissen/output-panel.nvim"
 }

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-19T17:42:28Z",
+    "description": "Modern buffer management plugin for Neovim — nuke, blast, or yeet your buffers with style!",
+    "isArchived": false,
+    "lastCommit": "2025-11-20T02:21:34Z",
+    "nameWithOwner": "mthnglac/bufferinator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferinator.nvim",
+  "owner": "mthnglac",
+  "url": "https://github.com/mthnglac/bufferinator.nvim"
+}

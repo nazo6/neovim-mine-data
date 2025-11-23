@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 242,
+    "createdAt": "2025-10-12T00:13:12Z",
+    "description": "Preview, Explore, and Query data files (parquet, csv, tsv) in Neovim , powered by DuckDB and Telescope.",
+    "isArchived": false,
+    "lastCommit": "2025-11-13T13:05:47Z",
+    "nameWithOwner": "Kyytox/data-explorer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "csv",
+      "data",
+      "duckdb",
+      "fd",
+      "nvim-plugin",
+      "parquet",
+      "telescope-nvim",
+      "tsv",
+      "nvim",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "data-explorer.nvim",
+  "owner": "Kyytox",
+  "url": "https://github.com/Kyytox/data-explorer.nvim"
+}

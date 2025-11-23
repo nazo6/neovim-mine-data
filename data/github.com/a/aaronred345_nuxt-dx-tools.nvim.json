@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Vue"
+        },
+        {
+          "level": 4,
+          "name": "Nuxt"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 127,
+    "createdAt": "2025-11-16T00:55:20Z",
+    "description": "A port of nuxt-dx-tools vscode plugin for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-11-19T16:20:00Z",
+    "nameWithOwner": "aaronred345/nuxt-dx-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nuxt-dx-tools.nvim",
+  "owner": "aaronred345",
+  "url": "https://github.com/aaronred345/nuxt-dx-tools.nvim"
+}

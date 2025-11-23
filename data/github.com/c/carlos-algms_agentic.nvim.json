@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-11-17T20:52:18Z",
+    "description": "Agentic chat and code changes directly in Neovim with ACP providers",
+    "isArchived": false,
+    "lastCommit": "2025-11-20T15:32:33Z",
+    "nameWithOwner": "carlos-algms/agentic.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "agentic.nvim",
+  "owner": "carlos-algms",
+  "url": "https://github.com/carlos-algms/agentic.nvim"
+}

@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Java"
-        }
       ],
-      "file": "java.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,14 +11,14 @@
     "commitCountLastYear": 7,
     "createdAt": "2024-07-20T14:03:36Z",
     "description": "Brings JPABuddy's functionalities to Neovim",
-    "isArchived": false,
-    "lastCommit": "2025-04-24T00:29:22Z",
+    "isArchived": true,
+    "lastCommit": "2025-11-19T21:18:22Z",
     "nameWithOwner": "andreluisos/nvim-javagenie",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 42,
+    "star": 43,
     "topics": [
     ]
   },

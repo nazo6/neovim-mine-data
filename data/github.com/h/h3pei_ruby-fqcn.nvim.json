@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "reference"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-11-21T11:20:34Z",
+    "description": "AST-powered FQCN(fully qualified class names) extractor for Ruby files in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-22T03:36:32Z",
+    "nameWithOwner": "h3pei/ruby-fqcn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "ruby"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ruby-fqcn.nvim",
+  "owner": "h3pei",
+  "url": "https://github.com/h3pei/ruby-fqcn.nvim"
+}

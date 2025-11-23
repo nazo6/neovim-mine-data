@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git utils"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-18T11:08:49Z",
+    "description": "a nvim plugin to easily revert / discard git changes",
+    "isArchived": false,
+    "lastCommit": "2025-11-18T17:14:52Z",
+    "nameWithOwner": "someshkoli/git-rev.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-rev.nvim",
+  "owner": "someshkoli",
+  "url": "https://github.com/someshkoli/git-rev.nvim"
+}

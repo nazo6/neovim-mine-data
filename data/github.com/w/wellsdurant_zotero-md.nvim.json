@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zotero"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2025-11-15T19:42:07Z",
+    "description": "A Neovim plugin for browsing and inserting Zotero references into markdown files using Telescope",
+    "isArchived": false,
+    "lastCommit": "2025-11-17T01:44:31Z",
+    "nameWithOwner": "wellsdurant/zotero-md.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "citations",
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "reference-manager",
+      "telescope",
+      "zotero"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zotero-md.nvim",
+  "owner": "wellsdurant",
+  "url": "https://github.com/wellsdurant/zotero-md.nvim"
+}

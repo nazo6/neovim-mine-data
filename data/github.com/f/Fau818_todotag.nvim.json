@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Todo Comment Highlight"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-11-19T04:53:39Z",
+    "description": "A lightweight and customizable Neovim plugin that highlights todo tags in comments.",
+    "isArchived": false,
+    "lastCommit": "2025-11-19T06:40:25Z",
+    "nameWithOwner": "Fau818/todotag.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todotag.nvim",
+  "owner": "Fau818",
+  "url": "https://github.com/Fau818/todotag.nvim"
+}

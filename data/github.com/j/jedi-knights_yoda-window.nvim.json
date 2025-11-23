@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-17T16:48:36Z",
+    "description": "Window utilities for Yoda.",
+    "isArchived": false,
+    "lastCommit": "2025-11-18T11:35:43Z",
+    "nameWithOwner": "jedi-knights/yoda-window.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yoda-window.nvim",
+  "owner": "jedi-knights",
+  "url": "https://github.com/jedi-knights/yoda-window.nvim"
+}

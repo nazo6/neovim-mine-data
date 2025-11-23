@@ -13,21 +13,41 @@
       ],
       "file": "comment.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Editing Support"
+        },
+        {
+          "level": 3,
+          "name": "Comment"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 8,
     "createdAt": "2024-01-24T08:42:42Z",
-    "description": "A plugin to simplify integration with Tree-sitter comment parser.",
+    "description": "A plugin to simplify integration with tree-sitter-comment parser.",
     "isArchived": false,
-    "lastCommit": "2024-01-25T21:42:57Z",
+    "lastCommit": "2025-11-19T02:58:43Z",
     "nameWithOwner": "alexmozaidze/tree-comment.nvim",
     "primaryLanguage": {
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 3,
+    "star": 9,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

@@ -24,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 110,
+    "commitCountLastYear": 104,
     "createdAt": "2024-11-09T15:02:02Z",
     "description": "neovim plugin that simplifies switching between local paths and registry sources for terraform modules",
     "isArchived": false,
@@ -36,7 +36,8 @@
     },
     "star": 1,
     "topics": [
-      "neovim-plugin"
+      "neovim-plugin",
+      "terraform-modules"
     ]
   },
   "domain": "github.com",

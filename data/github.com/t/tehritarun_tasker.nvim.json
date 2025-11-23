@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-21T17:16:10Z",
+    "description": "Neovim plugin for task documents ",
+    "isArchived": false,
+    "lastCommit": "2025-11-22T08:09:23Z",
+    "nameWithOwner": "tehritarun/tasker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasker.nvim",
+  "owner": "tehritarun",
+  "url": "https://github.com/tehritarun/tasker.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Encrypt"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-11-21T14:48:49Z",
+    "description": "Neovim plugin to transparently (optional) encrypt and decrypt sops files",
+    "isArchived": false,
+    "lastCommit": "2025-11-21T15:12:04Z",
+    "nameWithOwner": "atmask/sops.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sops.nvim",
+  "owner": "atmask",
+  "url": "https://github.com/atmask/sops.nvim"
+}

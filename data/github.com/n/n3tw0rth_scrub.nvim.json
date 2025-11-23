@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 47,
+    "commitCountLastYear": 49,
     "createdAt": "2025-08-13T14:49:34Z",
-    "description": "oil.nvim inspired nvim plugin to manage buffers. (with save/restore buffers from last session)",
+    "description": "oil.nvim inspired nvim plugin to manage buffers and persists open buffers on exit",
     "isArchived": false,
-    "lastCommit": "2025-10-26T09:19:01Z",
+    "lastCommit": "2025-11-23T08:54:25Z",
     "nameWithOwner": "n3tw0rth/scrub.nvim",
     "primaryLanguage": {
       "color": "#000080",

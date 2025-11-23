@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-17T19:47:52Z",
+    "description": "A Neovim plugin for previewing notes on hover",
+    "isArchived": false,
+    "lastCommit": "2025-11-17T20:59:54Z",
+    "nameWithOwner": "TravisLinkey/obsidian-hover.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "obsidian-hover.nvim",
+  "owner": "TravisLinkey",
+  "url": "https://github.com/TravisLinkey/obsidian-hover.nvim"
+}

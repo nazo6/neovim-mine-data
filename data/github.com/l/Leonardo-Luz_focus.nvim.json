@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Training"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-21T17:21:01Z",
+    "description": "A Neovim Plugin that provides a fast-paced number-clicking focus game.",
+    "isArchived": false,
+    "lastCommit": "2025-11-21T20:25:01Z",
+    "nameWithOwner": "Leonardo-Luz/focus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "focus.nvim",
+  "owner": "Leonardo-Luz",
+  "url": "https://github.com/Leonardo-Luz/focus.nvim"
+}

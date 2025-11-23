@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
+          "name": "venv"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-11-17T14:01:13Z",
+    "description": "Smart Python virtual environment integration for Neovim terminals. Auto-detects .venv, cross-platform activation (bash/zsh/Windows), interactive selection. Facade + Builder patterns.",
+    "isArchived": false,
+    "lastCommit": "2025-11-18T14:02:29Z",
+    "nameWithOwner": "jedi-knights/yoda-terminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yoda-terminal.nvim",
+  "owner": "jedi-knights",
+  "url": "https://github.com/jedi-knights/yoda-terminal.nvim"
+}

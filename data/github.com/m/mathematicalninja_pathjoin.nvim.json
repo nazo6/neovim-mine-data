@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "File"
+        },
+        {
+          "level": 3,
+          "name": "Path"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-19T10:49:29Z",
+    "description": "A simple system-agnostic path join for nvim.",
+    "isArchived": false,
+    "lastCommit": "2025-11-19T11:01:01Z",
+    "nameWithOwner": "mathematicalninja/pathjoin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pathjoin.nvim",
+  "owner": "mathematicalninja",
+  "url": "https://github.com/mathematicalninja/pathjoin.nvim"
+}

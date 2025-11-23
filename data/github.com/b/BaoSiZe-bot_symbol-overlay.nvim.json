@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Current word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-11-21T01:42:36Z",
+    "description": "Highlight symbols with keymap-enabled overlays",
+    "isArchived": false,
+    "lastCommit": "2025-11-21T02:10:01Z",
+    "nameWithOwner": "BaoSiZe-bot/symbol-overlay.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "symbol-overlay.nvim",
+  "owner": "BaoSiZe-bot",
+  "url": "https://github.com/BaoSiZe-bot/symbol-overlay.nvim"
+}

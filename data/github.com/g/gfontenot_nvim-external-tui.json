@@ -1,0 +1,36 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with CLI"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-20T01:31:45Z",
+    "isArchived": false,
+    "lastCommit": "2025-11-20T15:43:31Z",
+    "nameWithOwner": "gfontenot/nvim-external-tui",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-external-tui",
+  "owner": "gfontenot",
+  "url": "https://github.com/gfontenot/nvim-external-tui"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Calculation"
+        }
+      ],
+      "file": "calculation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-15T21:14:25Z",
+    "description": "bc math processor neovim plugin for markdown files",
+    "isArchived": false,
+    "lastCommit": "2025-11-15T21:29:35Z",
+    "nameWithOwner": "navicore/bc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bc.nvim",
+  "owner": "navicore",
+  "url": "https://github.com/navicore/bc.nvim"
+}

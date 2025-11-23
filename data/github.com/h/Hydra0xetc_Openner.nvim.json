@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Security"
+          "name": "OS"
         },
         {
           "level": 3,
-          "name": "Secrets"
+          "name": "Android"
         }
       ],
-      "file": "security.md",
+      "file": "os.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2024-05-01T09:39:09Z",
-    "description": "doppler integration into neovim",
+    "commitCountLastYear": 13,
+    "createdAt": "2025-11-21T12:38:09Z",
+    "description": "a simple neovim plugin to open a app inside neovim",
     "isArchived": false,
-    "lastCommit": "2024-05-07T19:18:06Z",
-    "nameWithOwner": "conneroisu/doppler.nvim",
+    "lastCommit": "2025-11-23T06:20:38Z",
+    "nameWithOwner": "Hydra0xetc/Openner.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "doppler.nvim",
-  "owner": "conneroisu",
-  "url": "https://github.com/conneroisu/doppler.nvim"
+  "name": "Openner.nvim",
+  "owner": "Hydra0xetc",
+  "url": "https://github.com/Hydra0xetc/Openner.nvim"
 }

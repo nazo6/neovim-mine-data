@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-17T03:30:25Z",
+    "description": "Neovim plugin for automatically folding MLIR IR dump sections with beautiful display and crash trace preservation.",
+    "isArchived": false,
+    "lastCommit": "2025-11-17T03:58:17Z",
+    "nameWithOwner": "hanhanW/mlir-fold.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mlir-fold.nvim",
+  "owner": "hanhanW",
+  "url": "https://github.com/hanhanW/mlir-fold.nvim"
+}

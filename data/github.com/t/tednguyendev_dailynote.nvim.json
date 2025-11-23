@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-20T15:14:46Z",
+    "description": "A Neovim plugin for managing daily notes across workspaces",
+    "isArchived": false,
+    "lastCommit": "2025-11-22T15:19:34Z",
+    "nameWithOwner": "tednguyendev/dailynote.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dailynote.nvim",
+  "owner": "tednguyendev",
+  "url": "https://github.com/tednguyendev/dailynote.nvim"
+}

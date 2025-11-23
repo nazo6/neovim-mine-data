@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "if err"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-11-14T22:31:25Z",
+    "description": "A Neovim plugin that intelligently collapses Go error handling blocks into a single line, making your code more readable while keeping the semantics of error handling visible.",
+    "isArchived": false,
+    "lastCommit": "2025-11-22T03:58:10Z",
+    "nameWithOwner": "TheNoeTrevino/no-go.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 35,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "no-go.nvim",
+  "owner": "TheNoeTrevino",
+  "url": "https://github.com/TheNoeTrevino/no-go.nvim"
+}

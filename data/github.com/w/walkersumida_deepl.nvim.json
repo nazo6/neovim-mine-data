@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Translate"
+        }
+      ],
+      "file": "translate.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-11-16T02:42:37Z",
+    "description": "Neovim plugin that translates text using the DeepL API with multiple output modes (float, replace, append)",
+    "isArchived": false,
+    "lastCommit": "2025-11-22T12:34:00Z",
+    "nameWithOwner": "walkersumida/deepl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugins",
+      "nvim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "deepl.nvim",
+  "owner": "walkersumida",
+  "url": "https://github.com/walkersumida/deepl.nvim"
+}

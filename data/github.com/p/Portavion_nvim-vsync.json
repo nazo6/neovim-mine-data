@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Other Editor"
+        },
+        {
+          "level": 4,
+          "name": "VS Code"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-11-18T21:31:26Z",
+    "description": "A plugin for bilateral syncing between neovim and vscode",
+    "isArchived": false,
+    "lastCommit": "2025-11-21T19:17:40Z",
+    "nameWithOwner": "Portavion/nvim-vsync",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-vsync",
+  "owner": "Portavion",
+  "url": "https://github.com/Portavion/nvim-vsync"
+}

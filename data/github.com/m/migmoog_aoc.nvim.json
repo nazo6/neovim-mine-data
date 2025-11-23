@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 3,
+          "name": "Advent of code"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-11-15T02:13:26Z",
+    "description": "Neovim plugin for advent of code participants who don't want to leave their editor",
+    "isArchived": false,
+    "lastCommit": "2025-11-21T16:35:07Z",
+    "nameWithOwner": "migmoog/aoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "aoc.nvim",
+  "owner": "migmoog",
+  "url": "https://github.com/migmoog/aoc.nvim"
+}

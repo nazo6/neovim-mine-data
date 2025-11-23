@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git log"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-11-20T01:56:22Z",
+    "isArchived": false,
+    "lastCommit": "2025-11-21T06:16:16Z",
+    "nameWithOwner": "matthewalunni/nvim-gitmovie",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gitmovie",
+  "owner": "matthewalunni",
+  "url": "https://github.com/matthewalunni/nvim-gitmovie"
+}

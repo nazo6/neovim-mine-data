@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-11-17T10:22:45Z",
+    "description": "A Neovim plugin for Markdown vaults with safe renames, media helpers, daily notes, and Snacks-powered pickers.",
+    "isArchived": false,
+    "lastCommit": "2025-11-18T10:39:11Z",
+    "nameWithOwner": "alchrdev/astereon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "astereon.nvim",
+  "owner": "alchrdev",
+  "url": "https://github.com/alchrdev/astereon.nvim"
+}

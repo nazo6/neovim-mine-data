@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "blink source"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2025-11-15T20:24:03Z",
+    "description": "A lightweight BibTeX citation source for Blink completion.",
+    "isArchived": false,
+    "lastCommit": "2025-11-23T07:51:19Z",
+    "nameWithOwner": "krissen/blink-cmp-bibtex",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-bibtex",
+  "owner": "krissen",
+  "url": "https://github.com/krissen/blink-cmp-bibtex"
+}

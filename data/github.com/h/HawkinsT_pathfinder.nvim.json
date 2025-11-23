@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 194,
+    "commitCountLastYear": 201,
     "createdAt": "2025-03-19T00:06:02Z",
     "description": "A Neovim plugin which enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.",
     "isArchived": false,
-    "lastCommit": "2025-09-17T17:11:18Z",
+    "lastCommit": "2025-11-17T17:59:38Z",
     "nameWithOwner": "HawkinsT/pathfinder.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 55,
+    "star": 56,
     "topics": [
       "lua",
       "navigation",

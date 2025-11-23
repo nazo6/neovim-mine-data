@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 34,
     "createdAt": "2024-12-29T14:12:15Z",
     "description": "A Neovim Plugin that provides a text-based Snake game.",
     "isArchived": false,
-    "lastCommit": "2025-10-26T20:27:33Z",
+    "lastCommit": "2025-11-16T14:14:48Z",
     "nameWithOwner": "Leonardo-Luz/snake.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,8 @@
     },
     "star": 4,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

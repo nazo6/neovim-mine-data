@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Refactoring,Debugging"
+        },
+        {
+          "level": 4,
+          "name": "print debug"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-11-15T21:49:44Z",
+    "description": "A Neovim plugin that captures and displays console outputs as virtual text inline with your code. Features automatic framework detection, intelligent project setup, and comprehensive debugging capabilities for modern JavaScript development.",
+    "isArchived": false,
+    "lastCommit": "2025-11-21T05:16:07Z",
+    "nameWithOwner": "chriswritescode-dev/consolelog.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 45,
+    "topics": [
+      "neovim-plugin",
+      "developer-tools",
+      "javascript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "consolelog.nvim",
+  "owner": "chriswritescode-dev",
+  "url": "https://github.com/chriswritescode-dev/consolelog.nvim"
+}

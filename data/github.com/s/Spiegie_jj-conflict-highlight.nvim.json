@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jujutsu(jj)"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-11-16T08:51:31Z",
+    "description": "A plugin to visualise jujutsu conflicts in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-22T11:02:34Z",
+    "nameWithOwner": "Spiegie/jj-conflict-highlight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jj-conflict-highlight.nvim",
+  "owner": "Spiegie",
+  "url": "https://github.com/Spiegie/jj-conflict-highlight.nvim"
+}

@@ -8,29 +8,29 @@
         },
         {
           "level": 2,
-          "name": "Fold"
+          "name": "Diff"
         }
       ],
-      "file": "fold.md",
+      "file": "diff.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
-    "createdAt": "2025-04-26T11:16:45Z",
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-15T05:15:26Z",
     "isArchived": false,
-    "lastCommit": "2025-04-28T07:05:31Z",
-    "nameWithOwner": "theseifhassan/smartfolds.nvim",
+    "lastCommit": "2025-11-16T02:31:39Z",
+    "nameWithOwner": "andrewhwaller/difftastic.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "smartfolds.nvim",
-  "owner": "theseifhassan",
-  "url": "https://github.com/theseifhassan/smartfolds.nvim"
+  "name": "difftastic.nvim",
+  "owner": "andrewhwaller",
+  "url": "https://github.com/andrewhwaller/difftastic.nvim"
 }

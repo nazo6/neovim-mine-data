@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2025-11-21T12:01:16Z",
+    "description": "A fast and lightweight Neovim plugin for fuzzy finding files, grepping code, and managing buffers using the quickfix list",
+    "isArchived": false,
+    "lastCommit": "2025-11-21T13:02:51Z",
+    "nameWithOwner": "anoopkcn/fuzzy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "grep",
+      "neovim",
+      "neovim-plugin",
+      "vim",
+      "quickfix"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fuzzy.nvim",
+  "owner": "anoopkcn",
+  "url": "https://github.com/anoopkcn/fuzzy.nvim"
+}

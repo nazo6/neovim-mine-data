@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Graphviz"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-11-17T16:52:56Z",
+    "description": "Interactive Graphviz Dot Preview for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-18T17:34:13Z",
+    "nameWithOwner": "xuyangy/graphviz-live-preview.nvim",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "graphviz-live-preview.nvim",
+  "owner": "xuyangy",
+  "url": "https://github.com/xuyangy/graphviz-live-preview.nvim"
+}

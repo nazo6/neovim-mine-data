@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Directory"
+          "name": "Security"
         },
         {
           "level": 3,
-          "name": "cd(change directory)"
+          "name": "Secrets"
         }
       ],
-      "file": "directory.md",
+      "file": "security.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2024-10-25T01:13:53Z",
-    "description": "Change or swap your current working directory more easily.",
+    "commitCountLastYear": 0,
+    "createdAt": "2024-05-01T09:39:09Z",
+    "description": "doppler integration into neovim",
     "isArchived": false,
-    "lastCommit": "2025-05-22T00:15:13Z",
-    "nameWithOwner": "j--c/cwd.nvim",
+    "lastCommit": "2024-05-07T19:18:06Z",
+    "nameWithOwner": "connerohnesorge/doppler.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 5,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "cwd.nvim",
-  "owner": "j--c",
-  "url": "https://github.com/j--c/cwd.nvim"
+  "name": "doppler.nvim",
+  "owner": "connerohnesorge",
+  "url": "https://github.com/conneroisu/doppler.nvim"
 }
