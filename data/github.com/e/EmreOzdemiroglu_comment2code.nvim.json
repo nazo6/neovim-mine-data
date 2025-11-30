@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenCode"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-11-26T10:30:36Z",
+    "description": "Write comments and turn them into code — without letting the AI wander off. Inspired by ThePrimeagen.",
+    "isArchived": false,
+    "lastCommit": "2025-11-26T12:39:43Z",
+    "nameWithOwner": "EmreOzdemiroglu/comment2code.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment2code.nvim",
+  "owner": "EmreOzdemiroglu",
+  "url": "https://github.com/EmreOzdemiroglu/comment2code.nvim"
+}

@@ -24,21 +24,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
-    "createdAt": "2025-03-21T16:49:59Z",
+    "commitCountLastYear": 24,
+    "createdAt": "2025-11-25T09:46:39Z",
+    "description": "Show inlay version and go-to-definition for PNPM/Yarn/Bun catalogs.",
     "isArchived": false,
-    "lastCommit": "2025-03-24T01:35:33Z",
-    "nameWithOwner": "AllenSpaces/telescope-node-packages.nvim",
+    "lastCommit": "2025-11-28T10:26:02Z",
+    "nameWithOwner": "Daydreamer-riri/catalog-lens.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 12,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "telescope-node-packages.nvim",
-  "owner": "AllenSpaces",
-  "url": "https://github.com/wukuohao2003/telescope-node-packages.nvim"
+  "name": "catalog-lens.nvim",
+  "owner": "Daydreamer-riri",
+  "url": "https://github.com/Daydreamer-riri/catalog-lens.nvim"
 }

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Convert Case"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-11-24T08:21:54Z",
+    "description": "Dial through case styles (snake_case → PascalCase → camelCase → ...) with a single keystroke. Dead simple, yet practical.",
+    "isArchived": false,
+    "lastCommit": "2025-11-24T13:25:13Z",
+    "nameWithOwner": "h3pei/case-dial.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "case-dial.nvim",
+  "owner": "h3pei",
+  "url": "https://github.com/h3pei/case-dial.nvim"
+}

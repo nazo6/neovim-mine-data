@@ -17,20 +17,34 @@
       ],
       "file": "animation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Media"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 22,
+    "commitCountLastYear": 23,
     "createdAt": "2024-03-09T12:07:12Z",
     "description": "🔊 Seamlessly integrate sound into your Neovim workflow",
     "isArchived": false,
-    "lastCommit": "2025-04-21T11:26:16Z",
+    "lastCommit": "2025-11-26T19:43:54Z",
     "nameWithOwner": "melMass/echo.nvim",
     "primaryLanguage": {
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 8,
+    "star": 9,
     "topics": [
       "neovim",
       "neovim-plugin",

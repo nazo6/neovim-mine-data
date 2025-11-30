@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-11-21T00:32:59Z",
+    "description": "Floating LSP definition viewer for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-23T01:26:22Z",
+    "nameWithOwner": "Cpoing/microscope.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "microscope.nvim",
+  "owner": "Cpoing",
+  "url": "https://github.com/Cpoing/microscope.nvim"
+}

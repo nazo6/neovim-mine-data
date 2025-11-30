@@ -8,6 +8,20 @@
         },
         {
           "level": 2,
+          "name": "Lua"
+        }
+      ],
+      "file": "lua.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
           "name": "LSP"
         },
         {
@@ -35,20 +49,6 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Lua"
-        }
-      ],
-      "file": "lua.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
@@ -62,7 +62,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 73,
+    "star": 74,
     "topics": [
       "lsp",
       "lsp-server",
@@ -75,5 +75,5 @@
   "domain": "github.com",
   "name": "dev-tools.nvim",
   "owner": "YaroSpace",
-  "url": "https://github.com/yarospace/dev-tools.nvim"
+  "url": "https://github.com/YaroSpace/dev-tools.nvim"
 }

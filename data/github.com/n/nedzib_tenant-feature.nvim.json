@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Rails"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-24T15:55:58Z",
+    "description": "Activate feature_flags, made for very especific use cases. Mostly vibe-coded.",
+    "isArchived": false,
+    "lastCommit": "2025-11-24T16:08:45Z",
+    "nameWithOwner": "nedzib/tenant-feature.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tenant-feature.nvim",
+  "owner": "nedzib",
+  "url": "https://github.com/nedzib/tenant-feature.nvim"
+}

@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 45,
+    "commitCountLastYear": 98,
     "createdAt": "2025-11-21T12:01:16Z",
     "description": "A fast and lightweight Neovim plugin for fuzzy finding files, grepping code, and managing buffers using the quickfix list",
     "isArchived": false,
-    "lastCommit": "2025-11-21T13:02:51Z",
+    "lastCommit": "2025-11-30T02:26:23Z",
     "nameWithOwner": "anoopkcn/fuzzy.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
       "grep",
       "neovim",

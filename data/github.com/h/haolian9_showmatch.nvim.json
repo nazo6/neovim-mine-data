@@ -8,20 +8,23 @@
         },
         {
           "level": 2,
-          "name": "Diff"
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "matchparen"
         }
       ],
-      "file": "diff.md",
+      "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
-    "createdAt": "2025-11-04T03:35:27Z",
-    "description": "A longest common subsequence (LCS) file-diff implementation for Neovim",
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-24T16:17:18Z",
     "isArchived": false,
-    "lastCommit": "2025-11-04T05:35:52Z",
-    "nameWithOwner": "elanmed/lcs-diff.nvim",
+    "lastCommit": "2025-11-30T04:59:01Z",
+    "nameWithOwner": "haolian9/showmatch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -31,7 +34,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "lcs-diff.nvim",
-  "owner": "elanmed",
-  "url": "https://github.com/elanmed/lcs-diff.nvim"
+  "name": "showmatch.nvim",
+  "owner": "haolian9",
+  "url": "https://github.com/haolian9/showmatch.nvim"
 }

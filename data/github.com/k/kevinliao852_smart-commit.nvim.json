@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-27T11:41:52Z",
+    "description": "Smart-commit is a lightweight, portable, and AI assistant Neovim plugin that generates high-quality Git commit messages from your stage",
+    "isArchived": false,
+    "lastCommit": "2025-11-27T11:45:50Z",
+    "nameWithOwner": "kevinliao852/smart-commit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-commit.nvim",
+  "owner": "kevinliao852",
+  "url": "https://github.com/kevinliao852/smart-commit.nvim"
+}

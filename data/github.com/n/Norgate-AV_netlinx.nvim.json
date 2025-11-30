@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "NetLinx"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-25T13:41:26Z",
+    "description": "NetLinx plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-11-25T16:28:23Z",
+    "nameWithOwner": "Norgate-AV/netlinx.nvim",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 2,
+    "topics": [
+      "amx",
+      "harman",
+      "neovim",
+      "neovim-plugin",
+      "netlinx",
+      "syntax-highlighting",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "netlinx.nvim",
+  "owner": "Norgate-AV",
+  "url": "https://github.com/Norgate-AV/netlinx.nvim"
+}

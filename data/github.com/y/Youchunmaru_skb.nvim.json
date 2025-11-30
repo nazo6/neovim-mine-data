@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-11-25T21:18:11Z",
+    "description": "skb is a simple knowlege base plugin for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-11-27T13:55:33Z",
+    "nameWithOwner": "Youchunmaru/skb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "skb.nvim",
+  "owner": "Youchunmaru",
+  "url": "https://github.com/Youchunmaru/skb.nvim"
+}

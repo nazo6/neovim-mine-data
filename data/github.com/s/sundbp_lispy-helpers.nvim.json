@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Lisp"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-27T00:08:20Z",
+    "description": "Neovim implementations for parts of the Emacs lispy package.",
+    "isArchived": false,
+    "lastCommit": "2025-11-27T08:46:18Z",
+    "nameWithOwner": "sundbp/lispy-helpers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lispy-helpers.nvim",
+  "owner": "sundbp",
+  "url": "https://github.com/sundbp/lispy-helpers.nvim"
+}

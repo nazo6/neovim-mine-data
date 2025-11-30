@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 77,
     "createdAt": "2025-11-15T20:24:03Z",
     "description": "A lightweight BibTeX citation source for Blink completion.",
     "isArchived": false,
-    "lastCommit": "2025-11-23T07:51:19Z",
+    "lastCommit": "2025-11-23T22:49:26Z",
     "nameWithOwner": "krissen/blink-cmp-bibtex",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,10 @@
     },
     "star": 9,
     "topics": [
+      "blink-cmp",
+      "neovim",
+      "neovim-plugin",
+      "bibtex"
     ]
   },
   "domain": "github.com",

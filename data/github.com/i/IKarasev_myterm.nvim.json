@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-21T20:41:10Z",
+    "description": "Little plugin for kipping same terminal buffer in split or floating window",
+    "isArchived": false,
+    "lastCommit": "2025-11-23T17:40:02Z",
+    "nameWithOwner": "IKarasev/myterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "myterm.nvim",
+  "owner": "IKarasev",
+  "url": "https://github.com/IKarasev/myterm.nvim"
+}

@@ -20,22 +20,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 13,
     "createdAt": "2024-12-16T06:30:10Z",
-    "description": "Neovim plugin for highlighting and trimming unnecessary whitespace. It integrates with conform to provide actual formatting.",
+    "description": "Neovim plugin for highlighting trailing whitespace and extra blank lines",
     "isArchived": false,
-    "lastCommit": "2024-12-22T16:40:37Z",
-    "nameWithOwner": "aanatoly/ws-trim.nvim",
+    "lastCommit": "2025-11-27T04:03:52Z",
+    "nameWithOwner": "aanatoly/ws-hl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "ws-trim.nvim",
+  "name": "ws-hl.nvim",
   "owner": "aanatoly",
   "url": "https://github.com/aanatoly/ws-trim.nvim"
 }

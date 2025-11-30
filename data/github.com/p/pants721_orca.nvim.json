@@ -8,35 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Debug"
+          "name": "Note Taking"
         },
         {
           "level": 3,
-          "name": "REPL"
+          "name": "Journal"
         }
       ],
-      "file": "debugger_repl.md",
+      "file": "note-taking.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2024-04-30T22:14:13Z",
-    "description": "Neovim plugin for cider-jack-in",
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-28T04:40:00Z",
+    "description": "An effort the kill the last vestiges of my connection to the analog world /s.",
     "isArchived": false,
-    "lastCommit": "2024-05-02T10:30:38Z",
-    "nameWithOwner": "TreyBastian/nvim-jack-in",
+    "lastCommit": "2025-11-28T04:57:24Z",
+    "nameWithOwner": "pants721/orca.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 1,
     "topics": [
-      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "nvim-jack-in",
-  "owner": "TreyBastian",
-  "url": "https://github.com/treybastian/nvim-jack-in"
+  "name": "orca.nvim",
+  "owner": "pants721",
+  "url": "https://github.com/pants721/orca.nvim"
 }

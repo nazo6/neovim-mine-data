@@ -20,18 +20,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 93,
+    "commitCountLastYear": 129,
     "createdAt": "2025-11-18T08:09:06Z",
-    "description": "Snacks-style floating log overlay for VimTeX: unobtrusive compile status, focused view toggle, and Snacks notifications.",
+    "description": "A configurable floating output window for Neovim jobs that combines optional adapters for VimTeX and Overseer with a generic run() API and :Make helper for everything else.",
     "isArchived": false,
-    "lastCommit": "2025-11-23T08:59:51Z",
+    "lastCommit": "2025-11-24T21:20:41Z",
     "nameWithOwner": "krissen/output-panel.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 8,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

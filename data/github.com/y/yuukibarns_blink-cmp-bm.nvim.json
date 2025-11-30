@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "blink source"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-28T06:03:52Z",
+    "description": "Okular bookmark completion",
+    "isArchived": false,
+    "lastCommit": "2025-11-28T12:17:27Z",
+    "nameWithOwner": "yuukibarns/blink-cmp-bm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-bm.nvim",
+  "owner": "yuukibarns",
+  "url": "https://github.com/yuukibarns/blink-cmp-bm.nvim"
+}

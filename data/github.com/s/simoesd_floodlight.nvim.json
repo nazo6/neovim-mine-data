@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-11-24T23:02:48Z",
+    "description": "Jump to an arbitrary word, anywhere on your screen.",
+    "isArchived": false,
+    "lastCommit": "2025-11-27T14:15:45Z",
+    "nameWithOwner": "simoesd/floodlight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "floodlight.nvim",
+  "owner": "simoesd",
+  "url": "https://github.com/simoesd/floodlight.nvim"
+}

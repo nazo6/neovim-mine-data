@@ -16,10 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 46,
+    "commitCountLastYear": 58,
     "createdAt": "2025-08-09T16:57:10Z",
+    "description": "Interactive Python development in Neovim with cell-based execution, IPython kernels, and rich media output in your browser",
     "isArchived": false,
-    "lastCommit": "2025-11-23T08:16:32Z",
+    "lastCommit": "2025-11-28T16:50:55Z",
     "nameWithOwner": "ryan-ressmeyer/quench.nvim",
     "primaryLanguage": {
       "color": "#3572A5",
@@ -27,6 +28,10 @@
     },
     "star": 2,
     "topics": [
+      "ipython",
+      "jupyter",
+      "neovim",
+      "python"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Calculation"
+        }
+      ],
+      "file": "calculation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-11-24T00:55:02Z",
+    "description": "Neovim plugin to calculate mathematical expressions with visual mode and variable support",
+    "isArchived": false,
+    "lastCommit": "2025-11-28T09:16:47Z",
+    "nameWithOwner": "Necrom4/calcium.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "calcium.nvim",
+  "owner": "Necrom4",
+  "url": "https://github.com/Necrom4/calcium.nvim"
+}

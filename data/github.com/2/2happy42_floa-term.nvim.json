@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-11-23T20:32:15Z",
+    "description": "This plugin provides a floating terminal window in Neovim, allowing you to run terminal commands in a flexible, movable window that doesn't disrupt your workflow.",
+    "isArchived": false,
+    "lastCommit": "2025-11-23T22:38:16Z",
+    "nameWithOwner": "2happy42/floa-term.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floa-term.nvim",
+  "owner": "2happy42",
+  "url": "https://github.com/2happy42/floa-term.nvim"
+}

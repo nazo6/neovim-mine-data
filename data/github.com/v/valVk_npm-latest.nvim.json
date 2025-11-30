@@ -8,14 +8,18 @@
         },
         {
           "level": 2,
-          "name": "for Rust"
+          "name": "Toolchain"
         },
         {
           "level": 3,
-          "name": "NPM"
+          "name": "Task Runner"
+        },
+        {
+          "level": 4,
+          "name": "npm"
         }
       ],
-      "file": "package-manager.md",
+      "file": "js_ts.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2025-03-08T22:02:20Z",
+    "description": "Spotify tracking songs for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-03-23T10:07:16Z",
+    "nameWithOwner": "aetheldev/music-player.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "spotify"
+    ]
+  },
+  "domain": "github.com",
+  "name": "music-player.nvim",
+  "owner": "aetheldev",
+  "url": "https://github.com/FocusThen/music-player.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "insert pairs"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-26T16:45:35Z",
+    "description": "Mimic smartparens-strict-mode in neovim - refuse to crete unbalanced delimeters.",
+    "isArchived": false,
+    "lastCommit": "2025-11-27T00:03:33Z",
+    "nameWithOwner": "sundbp/strict-paredit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "strict-paredit.nvim",
+  "owner": "sundbp",
+  "url": "https://github.com/sundbp/strict-paredit.nvim"
+}

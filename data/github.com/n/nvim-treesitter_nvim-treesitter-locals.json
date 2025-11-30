@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Treesitter"
+        }
+      ],
+      "file": "treesitter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-11-28T14:52:09Z",
+    "description": "LSP-like functionality based on treesitter locals",
+    "isArchived": false,
+    "lastCommit": "2025-11-28T15:08:22Z",
+    "nameWithOwner": "nvim-treesitter/nvim-treesitter-locals",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-treesitter-locals",
+  "owner": "nvim-treesitter",
+  "url": "https://github.com/nvim-treesitter/nvim-treesitter-locals"
+}

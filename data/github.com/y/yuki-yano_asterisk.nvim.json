@@ -8,37 +8,33 @@
         },
         {
           "level": 2,
-          "name": "Development environment"
+          "name": "Search"
         },
         {
           "level": 3,
-          "name": "Infra"
-        },
-        {
-          "level": 4,
-          "name": "VPN"
+          "name": "Current Word Search"
         }
       ],
-      "file": "integration-apps.md",
+      "file": "search_replace_grep_select.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 2,
-    "createdAt": "2025-11-04T14:17:54Z",
+    "createdAt": "2025-11-21T04:54:28Z",
     "isArchived": false,
-    "lastCommit": "2025-11-06T21:11:47Z",
-    "nameWithOwner": "FocusThen/vpn-script.nvim",
+    "lastCommit": "2025-11-23T11:37:38Z",
+    "nameWithOwner": "yuki-yano/asterisk.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "vpn-script.nvim",
-  "owner": "FocusThen",
-  "url": "https://github.com/FocusThen/vpn-script.nvim"
+  "name": "asterisk.nvim",
+  "owner": "yuki-yano",
+  "url": "https://github.com/yuki-yano/asterisk.nvim"
 }

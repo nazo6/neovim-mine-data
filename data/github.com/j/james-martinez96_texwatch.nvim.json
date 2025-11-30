@@ -8,36 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Web"
+          "name": "Documentation"
         },
         {
           "level": 3,
-          "name": "Spotify"
+          "name": "Tex"
         }
       ],
-      "file": "web-service.md",
+      "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 35,
-    "createdAt": "2025-03-08T22:02:20Z",
-    "description": "Spotify tracking songs for neovim",
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-23T12:28:03Z",
+    "description": "latex to pdf hot reloading",
     "isArchived": false,
-    "lastCommit": "2025-03-23T10:07:16Z",
-    "nameWithOwner": "FocusThen/music-player.nvim",
+    "lastCommit": "2025-11-23T12:29:31Z",
+    "nameWithOwner": "james-martinez96/texwatch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
     "star": 1,
     "topics": [
-      "neovim",
-      "spotify"
     ]
   },
   "domain": "github.com",
-  "name": "music-player.nvim",
-  "owner": "FocusThen",
-  "url": "https://github.com/FocusThen/music-player.nvim"
+  "name": "texwatch.nvim",
+  "owner": "james-martinez96",
+  "url": "https://github.com/james-martinez96/texwatch.nvim"
 }

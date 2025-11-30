@@ -24,12 +24,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 6,
     "createdAt": "2025-04-14T07:39:17Z",
     "description": "Basic fram language support for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-10-16T10:52:57Z",
-    "nameWithOwner": "Brychlikov/fram.nvim",
+    "lastCommit": "2025-11-27T10:41:16Z",
+    "nameWithOwner": "fram-lang/fram.nvim",
     "primaryLanguage": {
       "color": "#8ea64c",
       "name": "Tree-sitter Query"
@@ -40,6 +40,6 @@
   },
   "domain": "github.com",
   "name": "fram.nvim",
-  "owner": "Brychlikov",
+  "owner": "fram-lang",
   "url": "https://github.com/Brychlikov/fram.nvim"
 }

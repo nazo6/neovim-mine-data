@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "delete"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-11-25T06:15:19Z",
+    "description": "Easily close multiple Neovim buffers",
+    "isArchived": false,
+    "lastCommit": "2025-11-30T07:55:32Z",
+    "nameWithOwner": "ljsoph/bufdelete.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufdelete.nvim",
+  "owner": "ljsoph",
+  "url": "https://github.com/ljsoph/bufdelete.nvim"
+}

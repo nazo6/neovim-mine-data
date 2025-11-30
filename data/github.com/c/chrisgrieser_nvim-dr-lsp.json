@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Statusline"
-        },
-        {
-          "level": 3,
-          "name": "Statusline component"
-        }
       ],
-      "file": "statusline.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,11 +22,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 22,
     "createdAt": "2023-06-02T11:41:57Z",
     "description": "Status line component showing the number of LSP definition and reference of the token under the cursor.",
-    "isArchived": false,
-    "lastCommit": "2025-11-17T12:08:51Z",
+    "isArchived": true,
+    "lastCommit": "2025-11-24T12:32:25Z",
     "nameWithOwner": "chrisgrieser/nvim-dr-lsp",
     "primaryLanguage": {
       "color": "#000080",

@@ -17,6 +17,20 @@
       ],
       "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -24,13 +38,13 @@
     "createdAt": "2024-03-09T19:15:13Z",
     "description": "Imitate VSCode's \"Render Whitespace\" feature in visual mode",
     "isArchived": false,
-    "lastCommit": "2025-07-06T05:44:09Z",
+    "lastCommit": "2025-11-24T16:28:15Z",
     "nameWithOwner": "mcauley-penney/visual-whitespace.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 394,
+    "star": 400,
     "topics": [
     ]
   },

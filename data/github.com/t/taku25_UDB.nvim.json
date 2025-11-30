@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-11-24T03:23:38Z",
+    "isArchived": false,
+    "lastCommit": "2025-11-24T09:51:40Z",
+    "nameWithOwner": "taku25/UDB.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "UDB.nvim",
+  "owner": "taku25",
+  "url": "https://github.com/taku25/UDB.nvim"
+}

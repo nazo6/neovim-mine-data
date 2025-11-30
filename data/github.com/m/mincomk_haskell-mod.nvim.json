@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Haskell"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-11-25T00:37:06Z",
+    "description": "Simple neovim plugin to automate Haskell module prefix",
+    "isArchived": false,
+    "lastCommit": "2025-11-25T04:44:51Z",
+    "nameWithOwner": "mincomk/haskell-mod.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "haskell-mod.nvim",
+  "owner": "mincomk",
+  "url": "https://github.com/mincomk/haskell-mod.nvim"
+}

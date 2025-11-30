@@ -8,11 +8,7 @@
         },
         {
           "level": 2,
-          "name": "AI Coding"
-        },
-        {
-          "level": 3,
-          "name": "Claude Code"
+          "name": "AI Completion"
         }
       ],
       "file": "ai.md",
@@ -20,21 +16,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
-    "createdAt": "2025-07-18T04:50:25Z",
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-27T16:16:26Z",
+    "description": "An open-source completion helper for your coding needs. Pilot fast to where you want to go",
     "isArchived": false,
-    "lastCommit": "2025-07-24T03:26:04Z",
-    "nameWithOwner": "ianks/claude-code-ide.nvim",
+    "lastCommit": "2025-11-27T16:19:57Z",
+    "nameWithOwner": "brendonmlopes/nvim-gopilot",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "claude-code-ide.nvim",
-  "owner": "ianks",
-  "url": "https://github.com/ianks/claude-code-ide.nvim"
+  "name": "nvim-gopilot",
+  "owner": "brendonmlopes",
+  "url": "https://github.com/brendonmlopes/nvim-gopilot"
 }

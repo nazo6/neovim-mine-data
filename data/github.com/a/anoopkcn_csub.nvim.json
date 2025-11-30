@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 59,
+    "createdAt": "2025-11-23T13:49:12Z",
+    "description": "Edit the current quickfix list in a scratch buffer. Write the buffer to push the updates back into the original files and quickfix list.",
+    "isArchived": false,
+    "lastCommit": "2025-11-27T17:12:33Z",
+    "nameWithOwner": "anoopkcn/csub.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "search-replace",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "csub.nvim",
+  "owner": "anoopkcn",
+  "url": "https://github.com/anoopkcn/csub.nvim"
+}
