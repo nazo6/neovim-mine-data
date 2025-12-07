@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Paste"
+        },
+        {
+          "level": 3,
+          "name": "Wise paste"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-29T09:48:40Z",
+    "description": "This plugin allows you to paste line-by-line a copied buffer, for code demos and presentations.",
+    "isArchived": false,
+    "lastCommit": "2025-11-29T13:32:23Z",
+    "nameWithOwner": "carlosgrillet/demo-paste.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "demo-paste.nvim",
+  "owner": "carlosgrillet",
+  "url": "https://github.com/carlosgrillet/demo-paste.nvim"
+}

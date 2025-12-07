@@ -8,23 +8,23 @@
         },
         {
           "level": 2,
-          "name": "Git"
+          "name": "Save"
         },
         {
           "level": 3,
-          "name": "git blame"
+          "name": "Edit history"
         }
       ],
-      "file": "git-github.md",
+      "file": "save_backup.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
-    "createdAt": "2025-08-15T04:57:18Z",
+    "commitCountLastYear": 18,
+    "createdAt": "2025-12-02T02:40:00Z",
     "isArchived": false,
-    "lastCommit": "2025-08-15T05:11:45Z",
-    "nameWithOwner": "bsvtmy/blame.nvim",
+    "lastCommit": "2025-12-02T09:29:13Z",
+    "nameWithOwner": "kako-jun/chunkundo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -34,7 +34,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "blame.nvim",
-  "owner": "bsvtmy",
-  "url": "https://github.com/tmybsv/blame.nvim"
+  "name": "chunkundo.nvim",
+  "owner": "kako-jun",
+  "url": "https://github.com/kako-jun/chunkundo.nvim"
 }

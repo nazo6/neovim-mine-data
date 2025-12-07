@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
+          "name": "Poetry"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-11-29T05:09:23Z",
+    "description": "a neovim plugin to work with poetry",
+    "isArchived": false,
+    "lastCommit": "2025-11-29T05:05:44Z",
+    "nameWithOwner": "LeandroDeJesus-S/poetry.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "poetry.nvim",
+  "owner": "LeandroDeJesus-S",
+  "url": "https://github.com/LeandroDeJesus-S/poetry.nvim"
+}

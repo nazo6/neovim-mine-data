@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Verilog"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-04T14:53:13Z",
+    "description": "neovim plugin to use verilog-mode like emacs",
+    "isArchived": false,
+    "lastCommit": "2025-12-04T15:14:28Z",
+    "nameWithOwner": "Junknown99/nvim-verilog-mode",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-verilog-mode",
+  "owner": "Junknown99",
+  "url": "https://github.com/Junknown99/nvim-verilog-mode"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "VS Code features"
+        },
+        {
+          "level": 3,
+          "name": "Remote Development"
+        }
+      ],
+      "file": "vscode-features.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-01T11:54:02Z",
+    "description": "A minimal plugin for deploying Neovim to remote development environments",
+    "isArchived": false,
+    "lastCommit": "2025-12-01T11:49:04Z",
+    "nameWithOwner": "advaypakhale/remote.nvim",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "remote.nvim",
+  "owner": "advaypakhale",
+  "url": "https://github.com/advaypakhale/remote.nvim"
+}

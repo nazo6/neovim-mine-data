@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-30T20:22:55Z",
+    "description": "Simple terminal interaction on Neovim. Might be useless.",
+    "isArchived": false,
+    "lastCommit": "2025-11-30T20:36:42Z",
+    "nameWithOwner": "datsfilipe/console.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "command-line",
+      "console",
+      "lua",
+      "neovim",
+      "nvim",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "console.nvim",
+  "owner": "datsfilipe",
+  "url": "https://github.com/datsfilipe/console.nvim"
+}

@@ -8,24 +8,24 @@
         },
         {
           "level": 2,
-          "name": "Git"
+          "name": "Plugin Manager"
         },
         {
           "level": 3,
-          "name": "search"
+          "name": "Use builtin package feature"
         }
       ],
-      "file": "git-github.md",
+      "file": "plugin-manager.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
-    "createdAt": "2024-12-22T14:20:46Z",
-    "description": "todo",
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-05T04:31:33Z",
+    "description": "A neovim vim.pack wrapper",
     "isArchived": false,
-    "lastCommit": "2024-12-22T22:44:26Z",
-    "nameWithOwner": "jomavf/cosmoseek.nvim",
+    "lastCommit": "2025-12-05T04:32:25Z",
+    "nameWithOwner": "JPierro0513/pack-wrap.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +35,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "cosmoseek.nvim",
-  "owner": "jomavf",
-  "url": "https://github.com/jomavf/cosmoseek.nvim"
+  "name": "pack-wrap.nvim",
+  "owner": "JPierro0513",
+  "url": "https://github.com/JPierro0513/pack-wrap.nvim"
 }

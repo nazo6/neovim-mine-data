@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-11-30T00:42:38Z",
+    "description": "A lightweight Neovim Package Manager (Mostly for learning)",
+    "isArchived": false,
+    "lastCommit": "2025-12-04T22:10:40Z",
+    "nameWithOwner": "TheOneWithTheWrench/wrench.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-configuration",
+      "neovim-plugin",
+      "plugin-manager"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wrench.nvim",
+  "owner": "TheOneWithTheWrench",
+  "url": "https://github.com/TheOneWithTheWrench/wrench.nvim"
+}

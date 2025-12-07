@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "resize"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-02T02:11:46Z",
+    "description": "Automatic resizing of Neovim windows to the golden ratio.",
+    "isArchived": false,
+    "lastCommit": "2025-12-02T03:44:35Z",
+    "nameWithOwner": "lkzz/golden-ratio.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "golden-ratio.nvim",
+  "owner": "lkzz",
+  "url": "https://github.com/lkzz/golden-ratio.nvim"
+}

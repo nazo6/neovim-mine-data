@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-04T04:10:42Z",
+    "description": "exvim lite version for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-05T10:51:09Z",
+    "nameWithOwner": "jwu/exvim-lite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "exvim-lite.nvim",
+  "owner": "jwu",
+  "url": "https://github.com/jwu/exvim-lite.nvim"
+}

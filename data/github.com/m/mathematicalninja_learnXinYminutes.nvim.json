@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tutorial"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-11-29T22:25:53Z",
+    "description": "A way to learn X in Y minutes inside nvim!",
+    "isArchived": false,
+    "lastCommit": "2025-11-29T22:28:50Z",
+    "nameWithOwner": "mathematicalninja/learnXinYminutes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "learnXinYminutes.nvim",
+  "owner": "mathematicalninja",
+  "url": "https://github.com/mathematicalninja/learnXinYminutes.nvim"
+}

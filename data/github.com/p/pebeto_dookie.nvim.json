@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Tree-sitter Supported Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-11-25T08:01:36Z",
+    "description": "A color scheme inspired by Plan9's acme editor, but with a personal touch.",
+    "isArchived": false,
+    "lastCommit": "2025-12-01T03:59:32Z",
+    "nameWithOwner": "pebeto/dookie.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "acme",
+      "colorscheme",
+      "lua",
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-lua",
+      "neovim-theme",
+      "nvim",
+      "nvim-plugin",
+      "plan9"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dookie.nvim",
+  "owner": "pebeto",
+  "url": "https://github.com/pebeto/dookie.nvim"
+}

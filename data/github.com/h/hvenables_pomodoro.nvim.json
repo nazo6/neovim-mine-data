@@ -8,29 +8,30 @@
         },
         {
           "level": 2,
-          "name": "Statusline"
+          "name": "Pomodoro"
         }
       ],
-      "file": "statusline.md",
+      "file": "concentration.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2023-08-15T02:24:11Z",
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-04T11:50:29Z",
+    "description": "A Pomodoro Plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2023-08-16T18:38:09Z",
-    "nameWithOwner": "SingularisArt/nvim-statusline",
+    "lastCommit": "2025-12-05T12:28:03Z",
+    "nameWithOwner": "hvenables/pomodoro.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "nvim-statusline",
-  "owner": "SingularisArt",
-  "url": "https://github.com/SingularisArt/nvim-statusline"
+  "name": "pomodoro.nvim",
+  "owner": "hvenables",
+  "url": "https://github.com/hvenables/pomodoro.nvim"
 }

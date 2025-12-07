@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2025-11-30T16:47:12Z",
+    "description": "Neovim search and replace plugin with live preview.",
+    "isArchived": false,
+    "lastCommit": "2025-12-06T13:16:16Z",
+    "nameWithOwner": "mihaicristianfarcas/nvim-search-and-replace",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-search-and-replace",
+  "owner": "mihaicristianfarcas",
+  "url": "https://github.com/mihaicristianfarcas/nvim-search-and-replace"
+}

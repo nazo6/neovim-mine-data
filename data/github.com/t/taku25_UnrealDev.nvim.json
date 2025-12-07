@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 59,
+    "commitCountLastYear": 68,
     "createdAt": "2025-10-22T06:53:45Z",
     "description": "The Neovim suite for Unreal Engine development. Integrates plugins like UEP, UBT, ULG, UCM, and more for a unified experience.",
     "isArchived": false,
-    "lastCommit": "2025-11-30T00:37:22Z",
+    "lastCommit": "2025-12-07T09:38:34Z",
     "nameWithOwner": "taku25/UnrealDev.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,8 @@
     },
     "star": 9,
     "topics": [
+      "neovim-plugin",
+      "unrealengine5"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "REPL"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-11-30T17:14:58Z",
+    "description": "Simple functions for copying code to a repl.",
+    "isArchived": false,
+    "lastCommit": "2025-11-30T17:25:17Z",
+    "nameWithOwner": "toreerdmann/send-to-repl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "send-to-repl.nvim",
+  "owner": "toreerdmann",
+  "url": "https://github.com/toreerdmann/send-to-repl.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration"
+        },
+        {
+          "level": 3,
+          "name": "LLM CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2025-12-03T16:48:53Z",
+    "description": "A Prompt Generator Plugin for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-12-07T01:01:43Z",
+    "nameWithOwner": "edward-r/prompty.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "prompty.nvim",
+  "owner": "edward-r",
+  "url": "https://github.com/edward-r/prompty.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Strudel"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 89,
+    "createdAt": "2025-12-01T06:24:57Z",
+    "description": "Live code music in Neovim with [Strudel](https://strudel.cc/)",
+    "isArchived": false,
+    "lastCommit": "2025-12-07T08:29:27Z",
+    "nameWithOwner": "Goshujinsama/nvim-strudel",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "star": 16,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-strudel",
+  "owner": "Goshujinsama",
+  "url": "https://github.com/Goshujinsama/nvim-strudel"
+}

@@ -24,18 +24,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 207,
+    "commitCountLastYear": 203,
     "createdAt": "2024-05-06T18:30:40Z",
     "description": "Roslyn LSP plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2025-11-19T07:31:30Z",
+    "lastCommit": "2025-12-04T15:16:09Z",
     "nameWithOwner": "seblyng/roslyn.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 711,
+    "star": 716,
     "topics": [
+      "git",
+      "lua",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim"
     ]
   },
   "domain": "github.com",

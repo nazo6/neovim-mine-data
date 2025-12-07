@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "map function utiliy"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-04-04T08:36:01Z",
+    "description": "key mapping guide for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-03T15:59:02Z",
+    "nameWithOwner": "wsdjeg/keymap-guide.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "keymap-guide.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/keymap-guide.nvim"
+}

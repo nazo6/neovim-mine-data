@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Terminal"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-01T17:42:08Z",
+    "description": "A Neovim plugin for seamless integration with AI CLIs (Claude, Copilot, etc.) using tmux.",
+    "isArchived": false,
+    "lastCommit": "2025-12-06T00:53:34Z",
+    "nameWithOwner": "dansomething/ai-pane.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ai-pane.nvim",
+  "owner": "dansomething",
+  "url": "https://github.com/dansomething/ai-pane.nvim"
+}

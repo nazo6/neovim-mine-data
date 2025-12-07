@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenRouter"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-11-29T13:22:36Z",
+    "description": "Another neovim AI plugin, focusing on simplicity and integration with openrouter.",
+    "isArchived": false,
+    "lastCommit": "2025-12-07T01:17:11Z",
+    "nameWithOwner": "schlerp/nohands.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nohands.nvim",
+  "owner": "schlerp",
+  "url": "https://github.com/schlerp/nohands.nvim"
+}

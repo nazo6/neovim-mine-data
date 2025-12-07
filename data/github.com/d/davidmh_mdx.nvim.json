@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 3,
     "createdAt": "2024-02-05T05:26:35Z",
     "description": "Good enough syntax highlight for MDX in Neovim using Treesitter",
     "isArchived": false,
-    "lastCommit": "2025-01-04T19:03:12Z",
+    "lastCommit": "2025-12-05T16:45:10Z",
     "nameWithOwner": "davidmh/mdx.nvim",
     "primaryLanguage": {
-      "color": "#1e4aec",
-      "name": "Scheme"
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
     },
-    "star": 76,
+    "star": 77,
     "topics": [
       "mdx",
       "neovim",

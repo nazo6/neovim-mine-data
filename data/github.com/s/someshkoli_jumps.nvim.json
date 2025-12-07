@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "jumplist"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-04T12:16:00Z",
+    "description": "A nvim plugin to simplify jumps",
+    "isArchived": false,
+    "lastCommit": "2025-12-04T12:20:26Z",
+    "nameWithOwner": "someshkoli/jumps.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jumps.nvim",
+  "owner": "someshkoli",
+  "url": "https://github.com/someshkoli/jumps.nvim"
+}

@@ -16,22 +16,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2024-09-11T11:48:39Z",
-    "description": "🧮 Count displays how many lines of code you've written in Neovim, making it easy to monitor your progress as you code.",
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-01T09:41:00Z",
+    "description": "The most straightforward Neovim timer plugin for tracking time and logging sessions to a file.",
     "isArchived": false,
-    "lastCommit": "2024-09-13T03:27:51Z",
-    "nameWithOwner": "piperinnshall/count.nvim",
+    "lastCommit": "2025-12-03T11:36:53Z",
+    "nameWithOwner": "mtarld/tempo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "count.nvim",
-  "owner": "piperinnshall",
-  "url": "https://github.com/piperinnshall/count.nvim"
+  "name": "tempo.nvim",
+  "owner": "mtarld",
+  "url": "https://github.com/mtarld/tempo.nvim"
 }

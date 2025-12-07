@@ -8,37 +8,36 @@
         },
         {
           "level": 2,
-          "name": "Image"
+          "name": "Development environment"
         },
         {
           "level": 3,
-          "name": "Screenshot"
+          "name": "IME"
         }
       ],
-      "file": "image.md",
+      "file": "integration-apps.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
-    "createdAt": "2024-07-11T20:34:38Z",
-    "description": "Take code screenshots with freeze straight from Neovim",
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-03T12:04:21Z",
+    "description": "Vim Auto Windows IME (Hangul) switch for Neovim.",
     "isArchived": false,
-    "lastCommit": "2024-10-14T09:16:40Z",
-    "nameWithOwner": "TymekDev/freeze.nvim",
+    "lastCommit": "2025-12-04T11:21:20Z",
+    "nameWithOwner": "seokgukim/vawi.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 3,
     "topics": [
       "neovim",
-      "neovim-plugin",
-      "nvim"
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
-  "name": "freeze.nvim",
-  "owner": "TymekDev",
-  "url": "https://github.com/TymekDev/freeze.nvim"
+  "name": "vawi.nvim",
+  "owner": "seokgukim",
+  "url": "https://github.com/seokgukim/vawi.nvim"
 }

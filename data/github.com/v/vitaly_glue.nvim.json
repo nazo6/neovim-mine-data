@@ -8,34 +8,34 @@
         },
         {
           "level": 2,
-          "name": "Python"
+          "name": "Net"
         },
         {
           "level": 3,
-          "name": "pyenv"
+          "name": "Message broker"
         }
       ],
-      "file": "python.md",
+      "file": "neovim-lua-library.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
-    "createdAt": "2025-03-30T04:33:27Z",
-    "description": "nvim plugin that manages your python & conda environment",
+    "commitCountLastYear": 6,
+    "createdAt": "2025-12-01T16:56:06Z",
+    "description": "A message broker for Neovim plugins",
     "isArchived": false,
-    "lastCommit": "2025-04-01T19:11:41Z",
-    "nameWithOwner": "idossha/nvim-pyenv-manager",
+    "lastCommit": "2025-12-06T23:01:20Z",
+    "nameWithOwner": "vitaly/glue.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "nvim-pyenv-manager",
-  "owner": "idossha",
-  "url": "https://github.com/idossha/nvim-pyenv-manager"
+  "name": "glue.nvim",
+  "owner": "vitaly",
+  "url": "https://github.com/vitaly/glue.nvim"
 }

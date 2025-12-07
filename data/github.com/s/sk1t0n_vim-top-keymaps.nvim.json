@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Show assigned"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-12-02T17:28:26Z",
+    "description": "This plugin shows the most frequently used Vim keymaps in my opinion.",
+    "isArchived": false,
+    "lastCommit": "2025-12-05T12:51:26Z",
+    "nameWithOwner": "sk1t0n/vim-top-keymaps.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "vim",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "neovim-plugin",
+      "vim-keymaps"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vim-top-keymaps.nvim",
+  "owner": "sk1t0n",
+  "url": "https://github.com/sk1t0n/vim-top-keymaps.nvim"
+}

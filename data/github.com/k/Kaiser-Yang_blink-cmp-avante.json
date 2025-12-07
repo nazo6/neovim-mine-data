@@ -2,8 +2,20 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "blink source"
+        }
       ],
-      "file": "Archived.md",
+      "file": "completion.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -14,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "Media"
+          "name": "Completion"
         }
       ],
       "file": "README.md",
@@ -22,28 +34,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
-    "createdAt": "2023-07-24T03:19:06Z",
-    "description": "Moved to https://git.sr.ht/~elisoli/nekovim",
-    "isArchived": true,
-    "lastCommit": "2025-05-05T14:56:44Z",
-    "nameWithOwner": "pandasoli/nekovim",
+    "commitCountLastYear": 18,
+    "createdAt": "2025-01-16T15:48:11Z",
+    "description": "Avante source for blink-cmp",
+    "isArchived": false,
+    "lastCommit": "2025-07-24T02:36:00Z",
+    "nameWithOwner": "Kaiser-Yang/blink-cmp-avante",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 35,
+    "star": 98,
     "topics": [
-      "discord",
-      "neovim-plugin",
-      "discord-rich-presence",
-      "discord-activity",
-      "discord-presence",
-      "rich-presence-discord"
     ]
   },
   "domain": "github.com",
-  "name": "nekovim",
-  "owner": "pandasoli",
-  "url": "https://github.com/pandasoli/nekovim"
+  "name": "blink-cmp-avante",
+  "owner": "Kaiser-Yang",
+  "url": "https://github.com/Kaiser-Yang/blink-cmp-avante"
 }

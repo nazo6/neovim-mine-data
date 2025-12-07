@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Java"
-        }
       ],
-      "file": "java.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 8,
     "createdAt": "2023-11-10T03:13:53Z",
     "description": "Provides APIs to interact with java projects in Neovim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-08-06T07:01:27Z",
     "nameWithOwner": "nvim-java/nvim-java-core",
     "primaryLanguage": {

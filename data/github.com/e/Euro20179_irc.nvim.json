@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
+        },
+        {
+          "level": 4,
+          "name": "IRC"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-03T06:24:11Z",
+    "description": "IRC client in neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-03T19:09:57Z",
+    "nameWithOwner": "Euro20179/irc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "irc",
+      "irc-client",
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "irc.nvim",
+  "owner": "Euro20179",
+  "url": "https://github.com/Euro20179/irc.nvim"
+}

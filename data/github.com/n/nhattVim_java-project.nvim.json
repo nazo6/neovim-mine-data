@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-09-07T13:08:39Z",
+    "description": "Plugin for automatically creating a Java project",
+    "isArchived": false,
+    "lastCommit": "2025-10-07T03:28:17Z",
+    "nameWithOwner": "nhattVim/java-project.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-project.nvim",
+  "owner": "nhattVim",
+  "url": "https://github.com/nhattVim/java-project.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-03-30T04:33:27Z",
+    "description": "manage and execute directly from nvim",
+    "isArchived": false,
+    "lastCommit": "2025-04-01T19:11:41Z",
+    "nameWithOwner": "idossha/py.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "py.nvim",
+  "owner": "idossha",
+  "url": "https://github.com/idossha/nvim-pyenv-manager"
+}

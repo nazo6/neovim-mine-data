@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Lua"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-11-29T06:54:00Z",
+    "description": "Neovim plugin for real-time Markdown preview integration via Marked 2 app on macOS.",
+    "isArchived": false,
+    "lastCommit": "2025-11-29T10:16:28Z",
+    "nameWithOwner": "tkolleh/marked-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "marked-preview.nvim",
+  "owner": "tkolleh",
+  "url": "https://github.com/tkolleh/marked-preview.nvim"
+}

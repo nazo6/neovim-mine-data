@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-12-05T05:44:28Z",
+    "description": "Fast project-wide search and replace for Neovim with live preview and undo support",
+    "isArchived": false,
+    "lastCommit": "2025-12-05T10:17:11Z",
+    "nameWithOwner": "Jason-Bai/search-replace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "developer-tools",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "ripgrep",
+      "search-and-replace",
+      "text-editor"
+    ]
+  },
+  "domain": "github.com",
+  "name": "search-replace.nvim",
+  "owner": "Jason-Bai",
+  "url": "https://github.com/Jason-Bai/search-replace.nvim"
+}

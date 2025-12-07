@@ -26,7 +26,7 @@
   "data": {
     "commitCountLastYear": 49,
     "createdAt": "2025-08-13T14:49:34Z",
-    "description": "oil.nvim inspired nvim plugin to manage buffers and persists open buffers on exit",
+    "description": "scrub.nvim is a small, minimal Neovim plugin for managing buffers and restoring them across sessions. It helps you quickly clean up unwanted buffers and automatically brings back your previous buffer list when you reopen Neovim. Inspired by oil.nvim, the focus is simplicity and a lightweight workflow.",
     "isArchived": false,
     "lastCommit": "2025-11-23T08:54:25Z",
     "nameWithOwner": "n3tw0rth/scrub.nvim",

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "global"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-11-30T01:33:24Z",
+    "description": "A lightweight Neovim plugin that integrates gtags with Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-12-03T15:56:39Z",
+    "nameWithOwner": "wsdjeg/gtags.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gtags.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/gtags.nvim"
+}

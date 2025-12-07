@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-11-29T00:40:43Z",
+    "description": "Dual-agent agentic workflow plugin for Neovim with Claude Code and Gemini CLI support",
+    "isArchived": false,
+    "lastCommit": "2025-12-01T18:57:00Z",
+    "nameWithOwner": "swmcc/agentic.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "agentic.nvim",
+  "owner": "swmcc",
+  "url": "https://github.com/swmcc/agentic.nvim"
+}

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-12-01T15:32:02Z",
+    "description": "🦀 Nicer Rust diagnostics for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-04T18:54:59Z",
+    "nameWithOwner": "alexpasmantier/krust.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+      "diagnostics",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "rust",
+      "rust-analyzer",
+      "cargo",
+      "clippy",
+      "error-messages"
+    ]
+  },
+  "domain": "github.com",
+  "name": "krust.nvim",
+  "owner": "alexpasmantier",
+  "url": "https://github.com/alexpasmantier/krust.nvim"
+}

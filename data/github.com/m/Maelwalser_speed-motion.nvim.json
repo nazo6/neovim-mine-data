@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Typing"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-11-16T15:11:41Z",
+    "description": "Typing practice in neovim to achieve real speed",
+    "isArchived": false,
+    "lastCommit": "2025-12-03T08:11:07Z",
+    "nameWithOwner": "Maelwalser/speed-motion.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "typing-practice",
+      "typingspeedtest"
+    ]
+  },
+  "domain": "github.com",
+  "name": "speed-motion.nvim",
+  "owner": "Maelwalser",
+  "url": "https://github.com/maelwalser/speed-motion.nvim"
+}

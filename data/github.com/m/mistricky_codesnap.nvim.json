@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 48,
     "createdAt": "2024-02-13T06:05:34Z",
     "description": "📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-10-22T08:52:25Z",
+    "lastCommit": "2025-12-03T14:29:05Z",
     "nameWithOwner": "mistricky/codesnap.nvim",
     "primaryLanguage": {
-      "color": "#dea584",
-      "name": "Rust"
+      "color": "#000080",
+      "name": "Lua"
     },
-    "star": 892,
+    "star": 897,
     "topics": [
       "lua",
       "neovim",
