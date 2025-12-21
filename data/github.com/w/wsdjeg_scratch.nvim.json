@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-12-07T10:51:12Z",
+    "isArchived": false,
+    "lastCommit": "2025-12-14T02:17:05Z",
+    "nameWithOwner": "wsdjeg/scratch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratch.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/scratch.nvim"
+}

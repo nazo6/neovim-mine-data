@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-12-19T07:52:25Z",
+    "description": "CommitMate is an AI-assisted commit message generator. 🤝",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T12:20:33Z",
+    "nameWithOwner": "ajatdarojat45/commitmate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "copilot",
+      "git",
+      "lua",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "commitmate.nvim",
+  "owner": "ajatdarojat45",
+  "url": "https://github.com/ajatdarojat45/commitmate.nvim"
+}

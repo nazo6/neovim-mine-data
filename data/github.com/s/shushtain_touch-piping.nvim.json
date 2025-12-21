@@ -2,24 +2,34 @@
   "category": [
     {
       "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        }
       ],
-      "file": "Archived.md",
+      "file": "game.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 11,
     "createdAt": "2025-07-04T13:26:48Z",
-    "description": "Practice Vim navigation with a game.",
-    "isArchived": true,
-    "lastCommit": "2025-09-17T20:57:10Z",
+    "description": "practice in-buffer navigation by solving puzzles",
+    "isArchived": false,
+    "lastCommit": "2025-12-13T17:08:10Z",
     "nameWithOwner": "shushtain/touch-piping.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 4,
     "topics": [
+      "game",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

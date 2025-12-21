@@ -16,10 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 23,
     "createdAt": "2025-07-02T05:30:49Z",
+    "description": "FFI bindings from neovim repo.",
     "isArchived": false,
-    "lastCommit": "2025-07-02T12:20:15Z",
+    "lastCommit": "2025-12-14T01:19:13Z",
     "nameWithOwner": "phanen/nffi.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -31,7 +32,8 @@
       "lua",
       "reflow",
       "terminal",
-      "libnvim"
+      "libnvim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

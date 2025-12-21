@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-10T01:45:47Z",
+    "description": "Neovim plugin to filter JSON and YAML",
+    "isArchived": false,
+    "lastCommit": "2025-12-10T22:37:07Z",
+    "nameWithOwner": "RizaHKhan/filter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "filter.nvim",
+  "owner": "RizaHKhan",
+  "url": "https://github.com/RizaHKhan/filter.nvim"
+}

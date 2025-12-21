@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-12-10T16:42:55Z",
+    "description": "Marks for neovim that work across open splits",
+    "isArchived": false,
+    "lastCommit": "2025-12-11T19:22:14Z",
+    "nameWithOwner": "nd70/global_marks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "global_marks.nvim",
+  "owner": "nd70",
+  "url": "https://github.com/nd70/global_marks.nvim"
+}

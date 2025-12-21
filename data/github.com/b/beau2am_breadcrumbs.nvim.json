@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        },
+        {
+          "level": 3,
+          "name": "Animation"
+        }
+      ],
+      "file": "cursor.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-08T21:21:35Z",
+    "description": "Tiny Neovim plugin that leaves a short-lived breadcrumb trail behind your cursor using virtual text. Helpful if you frequently \"lose\" your cursor while editing.",
+    "isArchived": false,
+    "lastCommit": "2025-12-11T02:06:57Z",
+    "nameWithOwner": "beau2am/breadcrumbs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "breadcrumbs.nvim",
+  "owner": "beau2am",
+  "url": "https://github.com/beau2am/breadcrumbs.nvim"
+}

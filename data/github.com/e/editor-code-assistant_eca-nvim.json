@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "ECA"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 164,
+    "createdAt": "2025-07-31T13:02:57Z",
+    "description": "NVIM integration with ECA",
+    "isArchived": false,
+    "lastCommit": "2025-12-01T21:37:31Z",
+    "nameWithOwner": "editor-code-assistant/eca-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 50,
+    "topics": [
+      "ai",
+      "editor",
+      "neovim",
+      "neovim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "eca-nvim",
+  "owner": "editor-code-assistant",
+  "url": "https://github.com/editor-code-assistant/eca-nvim"
+}

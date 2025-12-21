@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Select"
+        },
+        {
+          "level": 3,
+          "name": "Incremental selection"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-12T18:09:51Z",
+    "description": "incremental selection with tree-sitter",
+    "isArchived": false,
+    "lastCommit": "2025-12-12T18:18:45Z",
+    "nameWithOwner": "shushtain/incselect.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "incselect.nvim",
+  "owner": "shushtain",
+  "url": "https://github.com/shushtain/incselect.nvim"
+}

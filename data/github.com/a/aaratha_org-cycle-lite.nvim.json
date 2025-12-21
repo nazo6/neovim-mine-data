@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-12-19T00:03:12Z",
+    "description": "A lightweight headline cycling/folding plugin for nvim-orgmode",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T00:12:49Z",
+    "nameWithOwner": "aaratha/org-cycle-lite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "orgmode-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "org-cycle-lite.nvim",
+  "owner": "aaratha",
+  "url": "https://github.com/aaratha/org-cycle-lite.nvim"
+}

@@ -4,7 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 246,
+    "commitCountLastYear": 229,
     "createdAt": "2024-08-17T14:08:38Z",
     "description": "A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.",
     "isArchived": false,
-    "lastCommit": "2025-12-07T03:50:33Z",
+    "lastCommit": "2025-12-18T11:54:46Z",
     "nameWithOwner": "Kurama622/llm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 422,
+    "star": 426,
     "topics": [
       "chatgpt",
       "chatglm",

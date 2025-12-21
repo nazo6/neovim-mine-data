@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Typing speed"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-12-19T12:52:20Z",
+    "description": "Learn typing while reading your code.",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T22:22:37Z",
+    "nameWithOwner": "casni14/TypeCheck.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "TypeCheck.nvim",
+  "owner": "casni14",
+  "url": "https://github.com/casni14/TypeCheck.nvim"
+}

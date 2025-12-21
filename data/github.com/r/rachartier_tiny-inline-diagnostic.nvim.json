@@ -26,7 +26,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 241,
+    "commitCountLastYear": 224,
     "createdAt": "2024-06-29T14:13:21Z",
     "description": "A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.",
     "isArchived": false,
-    "lastCommit": "2025-11-29T19:11:35Z",
+    "lastCommit": "2025-12-13T20:57:45Z",
     "nameWithOwner": "rachartier/tiny-inline-diagnostic.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1471,
+    "star": 1500,
     "topics": [
       "neovim-plugin",
       "lua",

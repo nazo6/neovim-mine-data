@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "CMake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-14T00:43:07Z",
+    "description": "CMake extension for loop.nvim",
+    "isArchived": false,
+    "lastCommit": "2025-12-20T12:29:23Z",
+    "nameWithOwner": "mbfoss/loop-cmake.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "loop-cmake.nvim",
+  "owner": "mbfoss",
+  "url": "https://github.com/mbfoss/loop-cmake.nvim"
+}

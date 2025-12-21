@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screenshot"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-12-08T23:38:20Z",
+    "description": "Neovim screenshots 📷 that match your color scheme 🎨.",
+    "isArchived": false,
+    "lastCommit": "2025-12-20T14:05:47Z",
+    "nameWithOwner": "mistweaverco/snap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "screenshot",
+      "tree-sitter",
+      "tree-sitter-highlight"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snap.nvim",
+  "owner": "mistweaverco",
+  "url": "https://github.com/mistweaverco/snap.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "LSP, DAP, linter, formatter"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-12-14T13:10:05Z",
+    "description": "Ensure dependencies (Mason packages, formatters, linters, parsers...) are installed when needed",
+    "isArchived": false,
+    "lastCommit": "2025-12-20T18:21:47Z",
+    "nameWithOwner": "noirbizarre/ensure.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ensure.nvim",
+  "owner": "noirbizarre",
+  "url": "https://github.com/noirbizarre/ensure.nvim"
+}

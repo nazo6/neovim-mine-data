@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-10T21:46:18Z",
+    "description": "ai slop bot plugin for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-12-10T23:27:13Z",
+    "nameWithOwner": "hansmrtn/clanker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "llm",
+      "lua",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "clanker.nvim",
+  "owner": "hansmrtn",
+  "url": "https://github.com/hansmrtn/clanker.nvim"
+}

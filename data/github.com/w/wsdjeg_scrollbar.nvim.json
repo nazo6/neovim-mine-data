@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 23,
     "createdAt": "2020-09-21T13:06:32Z",
     "description": "floating scrollbar plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2025-12-03T16:04:09Z",
+    "lastCommit": "2025-12-14T01:54:22Z",
     "nameWithOwner": "wsdjeg/scrollbar.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 20,
+    "star": 22,
     "topics": [
       "neovim-plugin"
     ]

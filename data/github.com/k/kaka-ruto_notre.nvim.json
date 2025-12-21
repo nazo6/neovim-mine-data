@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-19T02:32:55Z",
+    "description": "Structure your thoughts by time - a minimal, git-backed note system for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T02:31:31Z",
+    "nameWithOwner": "kaka-ruto/notre.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notre.nvim",
+  "owner": "kaka-ruto",
+  "url": "https://github.com/kaka-ruto/notre.nvim"
+}

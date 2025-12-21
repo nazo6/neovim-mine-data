@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 185,
+    "commitCountLastYear": 193,
     "createdAt": "2025-03-25T08:49:24Z",
     "description": "an inline, unified diff viewer for neovim",
     "isArchived": false,
-    "lastCommit": "2025-11-06T10:40:05Z",
+    "lastCommit": "2025-12-17T14:07:01Z",
     "nameWithOwner": "axkirillov/unified.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 114,
+    "star": 116,
     "topics": [
       "neovim",
       "neovim-plugin",

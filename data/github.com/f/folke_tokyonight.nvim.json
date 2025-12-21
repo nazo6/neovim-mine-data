@@ -26,15 +26,11 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
           "name": "Colorscheme"
-        },
-        {
-          "level": 3,
-          "name": "Tree-sitter Supported Colorscheme"
         }
       ],
       "file": "README.md",
@@ -42,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 114,
+    "commitCountLastYear": 103,
     "createdAt": "2021-04-16T17:21:40Z",
     "description": "🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
     "isArchived": false,
@@ -52,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7638,
+    "star": 7671,
     "topics": [
       "neovim",
       "neovim-theme",

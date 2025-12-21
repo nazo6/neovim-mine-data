@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 37,
+    "commitCountLastYear": 35,
     "createdAt": "2023-09-17T11:47:03Z",
     "description": "Neovim project plugin simplifies project management by maintaining project history and providing quick access to projects via Telescope, snacks.nvim or fzf-lua",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 270,
+    "star": 271,
     "topics": [
       "lua",
       "neovim",

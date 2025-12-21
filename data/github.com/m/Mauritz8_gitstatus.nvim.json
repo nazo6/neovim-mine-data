@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 140,
+    "commitCountLastYear": 144,
     "createdAt": "2024-06-14T13:38:46Z",
-    "description": "Interactive Git status window in Neovim",
+    "description": "gitstatus.nvim has moved to Codeberg. This is just a mirror.",
     "isArchived": false,
-    "lastCommit": "2025-11-14T08:15:13Z",
+    "lastCommit": "2025-12-18T04:40:17Z",
     "nameWithOwner": "Mauritz8/gitstatus.nvim",
     "primaryLanguage": {
       "color": "#000080",

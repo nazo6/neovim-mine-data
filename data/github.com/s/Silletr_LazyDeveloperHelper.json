@@ -4,7 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 467,
+    "commitCountLastYear": 482,
     "createdAt": "2025-07-07T15:24:00Z",
     "description": "Too lazy for write \"pip install -r requirements.txt\", or \"cargo add ...\".. or maybe.. \"luarocks install ..\" and writing it to requirements file? Thats plugin or you!",
     "isArchived": false,
-    "lastCommit": "2025-12-05T11:17:13Z",
+    "lastCommit": "2025-12-18T21:08:58Z",
     "nameWithOwner": "Silletr/LazyDeveloperHelper",
     "primaryLanguage": {
       "color": "#3572A5",

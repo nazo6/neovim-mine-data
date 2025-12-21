@@ -1,0 +1,60 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "urtext"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-06-02T10:03:22Z",
+    "description": "Neovim implementation of Urtext, a markup language for Python scriptable-notebooks in a text editor.",
+    "isArchived": false,
+    "lastCommit": "2025-12-13T14:10:36Z",
+    "nameWithOwner": "nbeversl/urtext_neovim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 2,
+    "topics": [
+      "markdown-alternative",
+      "neovim",
+      "neovim-plugin",
+      "notetaking",
+      "notetaking-applications",
+      "obsidian-alternative",
+      "plaintext",
+      "python",
+      "writing-tool"
+    ]
+  },
+  "domain": "github.com",
+  "name": "urtext_neovim",
+  "owner": "nbeversl",
+  "url": "https://github.com/nbeversl/urtext_neovim"
+}

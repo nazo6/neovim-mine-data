@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 359,
+    "commitCountLastYear": 319,
     "createdAt": "2020-06-18T09:14:28Z",
     "description": "An interactive and powerful Git interface for Neovim, inspired by Magit",
     "isArchived": false,
-    "lastCommit": "2025-12-02T11:05:54Z",
+    "lastCommit": "2025-12-12T16:15:39Z",
     "nameWithOwner": "NeogitOrg/neogit",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4978,
+    "star": 5001,
     "topics": [
       "git",
       "lua",

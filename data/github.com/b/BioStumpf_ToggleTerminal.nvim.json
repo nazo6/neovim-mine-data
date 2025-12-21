@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-12-16T09:44:30Z",
+    "description": "This repository hosts a very simple terminal for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-12-16T11:55:59Z",
+    "nameWithOwner": "BioStumpf/ToggleTerminal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ToggleTerminal.nvim",
+  "owner": "BioStumpf",
+  "url": "https://github.com/BioStumpf/ToggleTerminal.nvim"
+}

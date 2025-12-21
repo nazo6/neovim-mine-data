@@ -13,21 +13,42 @@
       ],
       "file": "ai.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "AI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 57,
+    "commitCountLastYear": 62,
     "createdAt": "2025-11-17T20:52:18Z",
-    "description": "Agentic chat and code changes directly in Neovim with ACP providers",
+    "description": "Agentic Chat Interface directly in Neovim with ACP providers from Claude-Code, Gemini, Codex, OpenCode, and Cursor-agent",
     "isArchived": false,
-    "lastCommit": "2025-12-01T19:05:21Z",
+    "lastCommit": "2025-12-20T13:57:30Z",
     "nameWithOwner": "carlos-algms/agentic.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 66,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "neovim-plugins",
+      "nvim-lua",
+      "nvim-plugin",
+      "nvim-plugins"
     ]
   },
   "domain": "github.com",

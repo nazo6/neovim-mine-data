@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        },
+        {
+          "level": 4,
+          "name": "Snippet definitions"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-14T16:50:38Z",
+    "description": "Simple java snippets, made for LuaSnip.",
+    "isArchived": false,
+    "lastCommit": "2025-12-14T19:56:19Z",
+    "nameWithOwner": "simaxme/java-snippets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-snippets.nvim",
+  "owner": "simaxme",
+  "url": "https://github.com/simaxme/java-snippets.nvim"
+}

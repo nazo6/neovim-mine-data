@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2023-12-16T08:01:37Z",
+    "isArchived": false,
+    "lastCommit": "2025-12-13T19:53:11Z",
+    "nameWithOwner": "rrossmiller/todos.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todos.nvim",
+  "owner": "rrossmiller",
+  "url": "https://github.com/rrossmiller/tasklist.nvim"
+}

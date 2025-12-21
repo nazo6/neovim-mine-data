@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-12-15T19:22:19Z",
+    "description": "Quick Hands-On Minimal Database IDE inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-15T19:40:38Z",
+    "nameWithOwner": "mrqwer/nvim-schema-surfer",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "rust",
+      "vim",
+      "database",
+      "postgresql"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-schema-surfer",
+  "owner": "mrqwer",
+  "url": "https://github.com/mrqwer/nvim-schema-surfer"
+}

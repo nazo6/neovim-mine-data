@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 21,
     "createdAt": "2022-04-08T04:33:45Z",
-    "description": "🎈 Floating statuslines for Neovim, winbar alternative",
+    "description": "🎈 Floating statuslines for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-11-16T12:52:10Z",
+    "lastCommit": "2025-12-18T06:22:19Z",
     "nameWithOwner": "b0o/incline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 974,
+    "star": 983,
     "topics": [
       "nvim",
       "neovim",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-07T14:29:08Z",
+    "description": "Command line tweaks. Part of 'mini.nvim' library. ",
+    "isArchived": false,
+    "lastCommit": "2025-12-18T15:44:29Z",
+    "nameWithOwner": "nvim-mini/mini.cmdline",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "lua",
+      "mini-nvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini.cmdline",
+  "owner": "nvim-mini",
+  "url": "https://github.com/nvim-mini/mini.cmdline"
+}

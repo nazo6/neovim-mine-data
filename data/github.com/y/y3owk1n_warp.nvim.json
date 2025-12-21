@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,11 +34,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 73,
+    "commitCountLastYear": 76,
     "createdAt": "2025-07-24T12:43:24Z",
     "description": "⚡️ Warp is a lightweight project-local file list for Neovim — add, view, jump, reorder, and remove files, all from a floating window or a keymap away.",
     "isArchived": false,
-    "lastCommit": "2025-12-06T11:00:45Z",
+    "lastCommit": "2025-12-14T05:51:54Z",
     "nameWithOwner": "y3owk1n/warp.nvim",
     "primaryLanguage": {
       "color": "#000080",

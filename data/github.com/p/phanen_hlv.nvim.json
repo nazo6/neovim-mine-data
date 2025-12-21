@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        },
+        {
+          "level": 3,
+          "name": "Highlight"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-12-09T07:05:02Z",
+    "description": "Highlight visual when in cmdline.",
+    "isArchived": false,
+    "lastCommit": "2025-12-17T16:22:38Z",
+    "nameWithOwner": "phanen/hlv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "cmdline",
+      "neovim-plugin",
+      "visual",
+      "command-preview"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hlv.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/hlv.nvim"
+}

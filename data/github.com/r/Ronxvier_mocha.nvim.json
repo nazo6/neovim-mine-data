@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Compile"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-19T04:43:14Z",
+    "description": "Quality of Life Java features for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T16:02:02Z",
+    "nameWithOwner": "Ronxvier/mocha.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "java",
+      "neovim",
+      "neovim-java-plugin",
+      "neovim-plugin",
+      "vim",
+      "vim-plugin",
+      "java-neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mocha.nvim",
+  "owner": "Ronxvier",
+  "url": "https://github.com/Ronxvier/mocha.nvim"
+}

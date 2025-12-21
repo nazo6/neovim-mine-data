@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Cargo"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-18T23:53:29Z",
+    "description": "mirror from gitlab",
+    "isArchived": false,
+    "lastCommit": "2025-12-20T15:08:55Z",
+    "nameWithOwner": "madelaney/cargo-audit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cargo-audit.nvim",
+  "owner": "madelaney",
+  "url": "https://github.com/madelaney/cargo-audit.nvim"
+}

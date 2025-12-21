@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-12T12:56:06Z",
+    "description": "Helix-style LSP diagnostics in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-14T04:09:20Z",
+    "nameWithOwner": "chriso345/nark.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "diagnostics",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nark.nvim",
+  "owner": "chriso345",
+  "url": "https://github.com/chriso345/nark.nvim"
+}

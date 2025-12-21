@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-12-12T15:18:23Z",
+    "isArchived": false,
+    "lastCommit": "2025-12-14T11:48:18Z",
+    "nameWithOwner": "evilwaveforms/nvim-claudecode-tmux",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-claudecode-tmux",
+  "owner": "evilwaveforms",
+  "url": "https://github.com/evilwaveforms/nvim-claudecode-tmux"
+}

@@ -26,7 +26,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 33,
+    "commitCountLastYear": 49,
     "createdAt": "2024-06-30T12:27:25Z",
     "description": "Display LSP inlay hints at the end of the line, rather than within the line.",
     "isArchived": false,
-    "lastCommit": "2025-12-06T15:27:15Z",
+    "lastCommit": "2025-12-19T23:28:17Z",
     "nameWithOwner": "chrisgrieser/nvim-lsp-endhints",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 214,
+    "star": 217,
     "topics": [
       "inlay-hints",
       "nvim-plugin",

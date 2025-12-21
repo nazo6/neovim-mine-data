@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2025-12-14T00:22:43Z",
+    "description": "lazy.nvim-like minimalist plugin manager, powered by neovim's built-in plugin manager",
+    "isArchived": false,
+    "lastCommit": "2025-12-21T05:25:55Z",
+    "nameWithOwner": "zuqini/zpack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 42,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua",
+      "neovim-plugins",
+      "package-manager",
+      "plugin-manager",
+      "lazy",
+      "lazy-loading",
+      "pack",
+      "vim-pack"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zpack.nvim",
+  "owner": "zuqini",
+  "url": "https://github.com/zuqini/zpack.nvim"
+}

@@ -16,10 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2025-07-14T13:31:23Z",
+    "description": "Universal text formatting with toggleable width enforcement for Neovim. Automatically applies format width rules and provides manual formatting commands for different file types.",
     "isArchived": false,
-    "lastCommit": "2025-07-14T13:32:15Z",
+    "lastCommit": "2025-12-16T14:40:45Z",
     "nameWithOwner": "csmhowitzer/format-width.nvim",
     "primaryLanguage": {
       "color": "#000080",

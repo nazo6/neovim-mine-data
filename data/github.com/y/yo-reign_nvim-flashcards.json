@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Flashcards"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-12-15T00:38:07Z",
+    "description": "anki like flashcards alternative plugin for nvim (with markdown files!)",
+    "isArchived": false,
+    "lastCommit": "2025-12-15T05:01:13Z",
+    "nameWithOwner": "yo-reign/nvim-flashcards",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-flashcards",
+  "owner": "yo-reign",
+  "url": "https://github.com/yo-reign/nvim-flashcards"
+}

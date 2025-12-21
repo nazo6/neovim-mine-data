@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Session"
+        }
+      ],
+      "file": "session.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-13T01:01:17Z",
+    "description": "Save your last page",
+    "isArchived": false,
+    "lastCommit": "2025-12-13T01:14:11Z",
+    "nameWithOwner": "kimpure/savepage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "savepage.nvim",
+  "owner": "kimpure",
+  "url": "https://github.com/kimpure/savepage.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "struct"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-17T11:27:00Z",
+    "isArchived": false,
+    "lastCommit": "2025-12-17T12:38:41Z",
+    "nameWithOwner": "gostructs/gostructs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gostructs.nvim",
+  "owner": "gostructs",
+  "url": "https://github.com/gostructs/gostructs.nvim"
+}

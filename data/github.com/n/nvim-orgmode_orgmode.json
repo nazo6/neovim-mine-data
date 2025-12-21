@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 291,
+    "commitCountLastYear": 284,
     "createdAt": "2021-05-13T19:41:59Z",
     "description": "Orgmode clone written in Lua for Neovim 0.11.0+.",
     "isArchived": false,
-    "lastCommit": "2025-12-03T21:19:06Z",
+    "lastCommit": "2025-12-19T07:30:46Z",
     "nameWithOwner": "nvim-orgmode/orgmode",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3599,
+    "star": 3611,
     "topics": [
       "neovim",
       "neovim-plugin",

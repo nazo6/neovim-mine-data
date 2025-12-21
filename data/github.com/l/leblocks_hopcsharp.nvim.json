@@ -26,7 +26,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 103,
+    "commitCountLastYear": 107,
     "createdAt": "2025-04-25T08:06:47Z",
     "description": "cached treesitter navigation on a big projects, an attempt to make navigation in large c# projects better",
     "isArchived": false,
-    "lastCommit": "2025-11-22T20:40:15Z",
+    "lastCommit": "2025-12-18T08:50:19Z",
     "nameWithOwner": "leblocks/hopcsharp.nvim",
     "primaryLanguage": {
       "color": "#000080",

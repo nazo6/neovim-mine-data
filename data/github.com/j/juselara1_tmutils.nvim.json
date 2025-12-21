@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 4,
     "createdAt": "2024-11-24T23:16:29Z",
     "description": "Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs within Neovim.",
     "isArchived": false,

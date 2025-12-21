@@ -26,7 +26,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,23 +38,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 53,
+    "commitCountLastYear": 63,
     "createdAt": "2025-08-17T03:03:51Z",
-    "description": "A super lightweight neovim plugin giving you context-aware backspace, handling pairs, whitespace and indentation. Make your neovim feel more like an IDE!",
+    "description": "Make your neovim feel more like an IDE! A super lightweight neovim plugin giving you context-aware backspace, handling pairs, whitespace and indentation.",
     "isArchived": false,
-    "lastCommit": "2025-12-07T09:29:04Z",
+    "lastCommit": "2025-12-11T05:58:05Z",
     "nameWithOwner": "qwavies/smart-backspace.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 20,
+    "star": 21,
     "topics": [
       "neovim",
       "neovim-plugin",
       "nvim",
       "nvim-plugin",
-      "plugin",
       "plugin-neovim",
       "productivity"
     ]

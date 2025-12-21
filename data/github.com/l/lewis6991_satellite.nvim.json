@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 12,
     "createdAt": "2022-05-10T15:39:11Z",
     "description": "Decorate scrollbar for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-09-18T12:42:47Z",
+    "lastCommit": "2025-12-18T12:20:13Z",
     "nameWithOwner": "lewis6991/satellite.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 678,
+    "star": 681,
     "topics": [
       "neovim-plugin"
     ]

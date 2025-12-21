@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-12-19T03:59:47Z",
+    "description": "Lightweight Neovim colorscheme picker with persistence and style overrides",
+    "isArchived": false,
+    "lastCommit": "2025-12-20T23:34:54Z",
+    "nameWithOwner": "danhat1020/colorscheme-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "colorscheme",
+      "editor",
+      "fzf",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "telescope",
+      "theme",
+      "ui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "colorscheme-picker.nvim",
+  "owner": "danhat1020",
+  "url": "https://github.com/danhat1020/colorscheme-picker.nvim"
+}

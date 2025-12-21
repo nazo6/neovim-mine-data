@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2025-12-11T19:48:55Z",
+    "description": "💪 pump up your code",
+    "isArchived": false,
+    "lastCommit": "2025-12-13T22:39:58Z",
+    "nameWithOwner": "whleucka/bodybuilder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "code-generation",
+      "deepseek",
+      "gemma3",
+      "gpt-oss",
+      "llama2",
+      "llama3",
+      "lua",
+      "lua-programming",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bodybuilder.nvim",
+  "owner": "whleucka",
+  "url": "https://github.com/whleucka/bodybuilder.nvim"
+}

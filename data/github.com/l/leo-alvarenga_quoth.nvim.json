@@ -1,0 +1,58 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Cowsay"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2025-12-10T17:53:22Z",
+    "description": "A robust, highly configurable, dependency-free random quote provider, capable of lazy-loading quotes on demand and supports custom quote tables and filters",
+    "isArchived": false,
+    "lastCommit": "2025-12-17T11:15:34Z",
+    "nameWithOwner": "leo-alvarenga/quoth.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quoth.nvim",
+  "owner": "leo-alvarenga",
+  "url": "https://github.com/leo-alvarenga/quoth.nvim"
+}

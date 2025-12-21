@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "New features"
+        },
+        {
+          "level": 3,
+          "name": "RSS"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-14T13:49:26Z",
+    "description": "wyw.nvim (While You Wait) is designed to fill the awkward silence between your prompt and the AI's response, or during long test suites. Browse Hacker News, RSS feeds, and Japanese tech platforms without context switching.",
+    "isArchived": false,
+    "lastCommit": "2025-12-14T13:59:45Z",
+    "nameWithOwner": "r7sqtr/wyw.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wyw.nvim",
+  "owner": "r7sqtr",
+  "url": "https://github.com/r7sqtr/wyw.nvim"
+}

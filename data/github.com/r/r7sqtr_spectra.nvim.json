@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Color picker"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-12-03T01:43:24Z",
+    "description": "NvChad-style colorscheme picker for Neovim with color palette preview.",
+    "isArchived": false,
+    "lastCommit": "2025-12-11T02:15:13Z",
+    "nameWithOwner": "r7sqtr/spectra.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spectra.nvim",
+  "owner": "r7sqtr",
+  "url": "https://github.com/r7sqtr/spectra.nvim"
+}

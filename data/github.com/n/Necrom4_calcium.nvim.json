@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -16,22 +30,27 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 27,
     "createdAt": "2025-11-24T00:55:02Z",
-    "description": "Neovim plugin to calculate mathematical expressions with visual mode and variable support",
+    "description": "Neovim plugin to calculate mathematical expressions within a buffer with visual mode, functions and variable support.",
     "isArchived": false,
-    "lastCommit": "2025-11-28T09:16:47Z",
+    "lastCommit": "2025-12-15T22:01:05Z",
     "nameWithOwner": "Necrom4/calcium.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 21,
+    "star": 23,
     "topics": [
+      "calculator",
+      "lua",
+      "math",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",
   "name": "calcium.nvim",
   "owner": "Necrom4",
-  "url": "https://github.com/Necrom4/calcium.nvim"
+  "url": "https://github.com/necrom4/calcium.nvim"
 }

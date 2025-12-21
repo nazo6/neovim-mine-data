@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-15T13:51:47Z",
+    "description": "This plugin is written with only thing in mind. TO HAVE A FREAKING QUICK AND DIRTY NOTE THAT I DON'T FREAKING NEED TO WRITE ANOTHER FILE ON MY STUPID PROJECT.",
+    "isArchived": false,
+    "lastCommit": "2025-12-15T13:49:59Z",
+    "nameWithOwner": "nack098/nvim-note",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-note",
+  "owner": "nack098",
+  "url": "https://github.com/nack098/nvim-note"
+}

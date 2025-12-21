@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-12-14T09:49:37Z",
+    "description": "Natural language to Neovim commands - for the rest of us",
+    "isArchived": false,
+    "lastCommit": "2025-12-14T11:07:57Z",
+    "nameWithOwner": "aorwall/claude-commands.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-commands.nvim",
+  "owner": "aorwall",
+  "url": "https://github.com/aorwall/claude-commands.nvim"
+}

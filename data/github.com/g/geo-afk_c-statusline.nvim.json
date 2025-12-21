@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2025-12-12T18:27:18Z",
+    "description": "a custom statusline based on vary preference",
+    "isArchived": false,
+    "lastCommit": "2025-12-21T02:49:46Z",
+    "nameWithOwner": "geo-afk/c-statusline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "c-statusline.nvim",
+  "owner": "geo-afk",
+  "url": "https://github.com/geo-afk/c-statusline.nvim"
+}

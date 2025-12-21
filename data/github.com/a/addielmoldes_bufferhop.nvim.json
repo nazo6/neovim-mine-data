@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-12T19:57:28Z",
+    "description": "A simple floating window to switch between your Neovim buffers",
+    "isArchived": false,
+    "lastCommit": "2025-12-12T19:54:51Z",
+    "nameWithOwner": "addielmoldes/bufferhop.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferhop.nvim",
+  "owner": "addielmoldes",
+  "url": "https://github.com/addielmoldes/bufferhop.nvim"
+}

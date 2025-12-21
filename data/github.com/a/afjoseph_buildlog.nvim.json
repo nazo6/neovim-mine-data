@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2025-10-20T14:53:56Z",
     "description": "A Neovim plugin for loading Clang build diagnostics from compilation logs into the quickfix list when compiled with -fdiagnostics-format=vi",
     "isArchived": false,
-    "lastCommit": "2025-10-20T14:55:05Z",
+    "lastCommit": "2025-12-08T04:02:53Z",
     "nameWithOwner": "afjoseph/buildlog.nvim",
     "primaryLanguage": {
       "color": "#000080",

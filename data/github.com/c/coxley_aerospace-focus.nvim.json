@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        },
+        {
+          "level": 4,
+          "name": "Window Manager"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-12-15T20:05:40Z",
+    "description": "Plugin for seamless navigation across Neovim and AeroSpace windows",
+    "isArchived": false,
+    "lastCommit": "2025-12-15T20:46:48Z",
+    "nameWithOwner": "coxley/aerospace-focus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "aerospace",
+      "neovim",
+      "neovim-plugin",
+      "tiling-window-manager",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "aerospace-focus.nvim",
+  "owner": "coxley",
+  "url": "https://github.com/coxley/aerospace-focus.nvim"
+}

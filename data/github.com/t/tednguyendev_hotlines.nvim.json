@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Test Coverage"
+        }
+      ],
+      "file": "test.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-06T02:42:49Z",
+    "description": "Works like code coverage, but for localhost",
+    "isArchived": false,
+    "lastCommit": "2025-12-07T13:07:01Z",
+    "nameWithOwner": "tednguyendev/hotlines.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hotlines.nvim",
+  "owner": "tednguyendev",
+  "url": "https://github.com/tednguyendev/hotlines.nvim"
+}

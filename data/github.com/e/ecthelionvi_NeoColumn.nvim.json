@@ -2,23 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Columnline"
-        }
       ],
-      "file": "cursorline_columnline.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -33,7 +25,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2023-03-21T00:14:07Z",
     "description": "Neovim plugin that highlights individual characters with a toggleable ColorColumn.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-10-17T15:28:30Z",
     "nameWithOwner": "ecthelionvi/NeoColumn.nvim",
     "primaryLanguage": {

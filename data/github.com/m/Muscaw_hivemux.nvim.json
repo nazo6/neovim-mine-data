@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-07T13:49:10Z",
+    "description": "A nvim plugin to integrate hivemux session manager",
+    "isArchived": false,
+    "lastCommit": "2025-12-09T08:25:50Z",
+    "nameWithOwner": "Muscaw/hivemux.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "nvim-plugins",
+      "tmux",
+      "tmux-session"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hivemux.nvim",
+  "owner": "Muscaw",
+  "url": "https://github.com/Muscaw/hivemux.nvim"
+}

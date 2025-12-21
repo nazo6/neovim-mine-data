@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Godot"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-12-12T07:52:38Z",
+    "description": "A small plugins to help debug process for Godot Mono + Neovim workflow",
+    "isArchived": false,
+    "lastCommit": "2025-12-16T09:36:13Z",
+    "nameWithOwner": "fm39hz/nvim-dap-godot-mono",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-godot-mono",
+  "owner": "fm39hz",
+  "url": "https://github.com/fm39hz/nvim-dap-godot-mono"
+}

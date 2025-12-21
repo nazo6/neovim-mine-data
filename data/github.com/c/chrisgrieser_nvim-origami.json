@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 118,
+    "commitCountLastYear": 137,
     "createdAt": "2023-07-27T15:33:56Z",
     "description": "Fold with relentless elegance. A collection of quality-of-life features related to folding.",
     "isArchived": false,
-    "lastCommit": "2025-12-06T15:27:46Z",
+    "lastCommit": "2025-12-19T23:28:29Z",
     "nameWithOwner": "chrisgrieser/nvim-origami",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 424,
+    "star": 435,
     "topics": [
       "folding",
       "nvim-plugin",

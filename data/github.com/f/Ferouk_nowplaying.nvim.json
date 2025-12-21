@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-17T00:32:49Z",
+    "description": "Lightweight Neovim plugin that shows what’s playing in Apple Music or Spotify with a floating panel, statusline helper, controls, and artwork rendering.",
+    "isArchived": false,
+    "lastCommit": "2025-12-17T01:32:10Z",
+    "nameWithOwner": "Ferouk/nowplaying.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "apple-music",
+      "applescript",
+      "lualine",
+      "macos",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins",
+      "noice",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nowplaying.nvim",
+  "owner": "Ferouk",
+  "url": "https://github.com/Ferouk/nowplaying.nvim"
+}

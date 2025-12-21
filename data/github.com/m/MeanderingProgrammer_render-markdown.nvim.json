@@ -4,7 +4,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 259,
+    "commitCountLastYear": 254,
     "createdAt": "2024-03-18T04:13:43Z",
     "description": "Plugin to improve viewing Markdown files in Neovim",
     "isArchived": false,
-    "lastCommit": "2025-12-03T03:30:47Z",
+    "lastCommit": "2025-12-16T19:46:35Z",
     "nameWithOwner": "MeanderingProgrammer/render-markdown.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3787,
+    "star": 3846,
     "topics": [
       "lua",
       "neovim",

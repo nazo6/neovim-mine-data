@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenCode"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-10T20:41:28Z",
+    "description": "Code completion with OpenCode server",
+    "isArchived": false,
+    "lastCommit": "2025-12-10T20:47:51Z",
+    "nameWithOwner": "jaswdr/opencode-completion.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "opencode-completion.nvim",
+  "owner": "jaswdr",
+  "url": "https://github.com/jaswdr/opencode-completion.nvim"
+}

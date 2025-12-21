@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "TUI"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-12-14T21:20:30Z",
+    "description": "🎛️ Integrate external TUIs into Neovim effortlessly, enhancing your workflow with a simple API for tool registration and automatic command creation.",
+    "isArchived": false,
+    "lastCommit": "2025-12-21T09:51:37Z",
+    "nameWithOwner": "MirianElena/nvim-external-tui",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "async",
+      "command-line",
+      "customization",
+      "developer-tools",
+      "lua",
+      "markdown",
+      "neovim",
+      "nvim",
+      "open-source",
+      "plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-external-tui",
+  "owner": "MirianElena",
+  "url": "https://github.com/MirianElena/nvim-external-tui"
+}

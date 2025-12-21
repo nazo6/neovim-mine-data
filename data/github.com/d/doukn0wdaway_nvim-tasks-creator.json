@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-06T06:28:11Z",
+    "description": "Extract TODO comments from your code into separate task files for easier management",
+    "isArchived": false,
+    "lastCommit": "2025-12-08T14:07:25Z",
+    "nameWithOwner": "doukn0wdaway/nvim-tasks-creator",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tasks-creator",
+  "owner": "doukn0wdaway",
+  "url": "https://github.com/doukn0wdaway/nvim-tasks-creator"
+}

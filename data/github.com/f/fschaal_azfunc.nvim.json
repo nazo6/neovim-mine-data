@@ -17,6 +17,20 @@
       ],
       "file": "debugger_repl.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Debugging"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -32,6 +46,7 @@
     },
     "star": 3,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

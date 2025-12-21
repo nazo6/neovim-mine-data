@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -42,13 +42,13 @@
     "createdAt": "2023-03-30T15:02:51Z",
     "description": "See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.",
     "isArchived": false,
-    "lastCommit": "2025-08-20T07:08:05Z",
+    "lastCommit": "2025-12-18T11:50:10Z",
     "nameWithOwner": "topaxi/pipeline.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 175,
+    "star": 177,
     "topics": [
       "actions",
       "github",

@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 41,
     "createdAt": "2022-11-20T21:36:02Z",
     "description": "💤 A modern plugin manager for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-11-06T09:26:21Z",
+    "lastCommit": "2025-12-17T11:32:42Z",
     "nameWithOwner": "folke/lazy.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19605,
+    "star": 19723,
     "topics": [
       "neovim",
       "neovim-plugin",

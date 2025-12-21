@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 241,
+    "commitCountLastYear": 243,
     "createdAt": "2023-01-13T10:30:53Z",
     "description": "GitHub workflow for automatically generating Luarocks releases from tags and running busted tests",
     "isArchived": false,
-    "lastCommit": "2025-12-07T05:38:44Z",
+    "lastCommit": "2025-12-19T05:42:32Z",
     "nameWithOwner": "lumen-oss/luarocks-tag-release",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 54,
+    "star": 53,
     "topics": [
       "automation",
       "busted",

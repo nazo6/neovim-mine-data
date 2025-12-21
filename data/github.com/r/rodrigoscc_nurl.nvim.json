@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 190,
+    "commitCountLastYear": 200,
     "createdAt": "2025-10-31T03:33:27Z",
     "description": "HTTP client for Neovim with requests in pure Lua. Programmable, composable, extensible.",
     "isArchived": false,
-    "lastCommit": "2025-12-06T23:50:28Z",
+    "lastCommit": "2025-12-21T00:56:40Z",
     "nameWithOwner": "rodrigoscc/nurl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8,
+    "star": 9,
     "topics": [
       "curl",
       "http",

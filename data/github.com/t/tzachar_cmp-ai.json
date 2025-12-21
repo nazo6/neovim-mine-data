@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -30,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 8,
     "createdAt": "2023-05-05T12:03:30Z",
     "isArchived": false,
     "lastCommit": "2025-04-21T07:45:32Z",
@@ -39,7 +39,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 265,
+    "star": 266,
     "topics": [
       "nvim-cmp"
     ]

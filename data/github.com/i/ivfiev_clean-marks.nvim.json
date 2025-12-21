@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-12-14T19:20:28Z",
+    "description": "Multi-character global marks.",
+    "isArchived": false,
+    "lastCommit": "2025-12-20T18:27:41Z",
+    "nameWithOwner": "ivfiev/clean-marks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "marks",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "clean-marks.nvim",
+  "owner": "ivfiev",
+  "url": "https://github.com/ivfiev/clean-marks.nvim"
+}

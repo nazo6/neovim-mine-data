@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "CQL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-12-19T22:34:04Z",
+    "description": "Support for CQL in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-12-20T00:27:44Z",
+    "nameWithOwner": "Akzestia/nvim-cql-v2",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "cql",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cql-v2",
+  "owner": "Akzestia",
+  "url": "https://github.com/Akzestia/nvim-cql-v2"
+}

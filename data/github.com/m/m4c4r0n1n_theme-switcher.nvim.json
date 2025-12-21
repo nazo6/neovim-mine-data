@@ -8,10 +8,14 @@
         },
         {
           "level": 2,
-          "name": "Appearance"
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
         }
       ],
-      "file": "appearance.md",
+      "file": "syntax_highlight.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

@@ -26,7 +26,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 134,
+    "commitCountLastYear": 105,
     "createdAt": "2023-12-30T15:20:58Z",
     "description": "Smart and highly customizable insertion of various kinds of log statements.",
     "isArchived": false,
-    "lastCommit": "2025-12-06T15:27:43Z",
+    "lastCommit": "2025-12-19T23:28:18Z",
     "nameWithOwner": "chrisgrieser/nvim-chainsaw",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 131,
+    "star": 132,
     "topics": [
       "log-statements",
       "logging",

@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Taskfile"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-12T12:33:44Z",
+    "description": "Neovim plugin for working w/ Taskfiles",
+    "isArchived": false,
+    "lastCommit": "2025-12-13T23:23:58Z",
+    "nameWithOwner": "s0cks/taskfile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "task",
+      "taskfile"
+    ]
+  },
+  "domain": "github.com",
+  "name": "taskfile.nvim",
+  "owner": "s0cks",
+  "url": "https://github.com/s0cks/taskfile.nvim"
+}

@@ -21,14 +21,28 @@
       ],
       "file": "task-runner.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Code Runner"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 38,
     "createdAt": "2025-02-26T16:18:08Z",
     "description": "Async Code Runner for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-12-07T03:34:16Z",
+    "lastCommit": "2025-12-18T05:51:49Z",
     "nameWithOwner": "wsdjeg/code-runner.nvim",
     "primaryLanguage": {
       "color": "#000080",

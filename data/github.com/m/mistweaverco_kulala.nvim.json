@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 169,
+    "commitCountLastYear": 173,
     "createdAt": "2024-06-24T19:56:21Z",
     "description": "A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.",
     "isArchived": false,
-    "lastCommit": "2025-11-26T15:54:36Z",
+    "lastCommit": "2025-12-16T08:36:40Z",
     "nameWithOwner": "mistweaverco/kulala.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1781,
+    "star": 1801,
     "topics": [
       "graphql-client",
       "neovim-plugin",

@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 59,
+    "commitCountLastYear": 66,
     "createdAt": "2025-11-23T13:49:12Z",
     "description": "Edit the current quickfix list in a scratch buffer. Write the buffer to push the updates back into the original files and quickfix list.",
     "isArchived": false,
-    "lastCommit": "2025-11-27T17:12:33Z",
+    "lastCommit": "2025-12-14T05:04:05Z",
     "nameWithOwner": "anoopkcn/csub.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
       "lua",
       "nvim",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Partial execution"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-18T03:04:11Z",
+    "description": "A neovim plugin to run files with a single keymap and display results in a floating window",
+    "isArchived": false,
+    "lastCommit": "2025-12-18T22:25:53Z",
+    "nameWithOwner": "adamascencio/executor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "executor.nvim",
+  "owner": "adamascencio",
+  "url": "https://github.com/adamascencio/executor.nvim"
+}

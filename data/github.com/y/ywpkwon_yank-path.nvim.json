@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Path"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-12-07T17:42:35Z",
+    "description": "A minimal neovim plugin to help copying the file path (in various formats) to the clipboard.",
+    "isArchived": false,
+    "lastCommit": "2025-12-10T23:39:49Z",
+    "nameWithOwner": "ywpkwon/yank-path.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yank-path.nvim",
+  "owner": "ywpkwon",
+  "url": "https://github.com/ywpkwon/yank-path.nvim"
+}

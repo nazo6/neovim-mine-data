@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 179,
+    "commitCountLastYear": 177,
     "createdAt": "2021-03-21T05:46:20Z",
     "description": "A plugin for setting Neovim LSP with JSON or YAML files",
     "isArchived": false,
-    "lastCommit": "2025-12-06T16:03:10Z",
+    "lastCommit": "2025-12-21T06:03:40Z",
     "nameWithOwner": "tamago324/nlsp-settings.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 335,
+    "star": 334,
     "topics": [
       "neovim",
       "neovim-plugin",

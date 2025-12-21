@@ -2,24 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Buffer"
-        },
-        {
-          "level": 3,
-          "name": "Buffer Management"
-        },
-        {
-          "level": 4,
-          "name": "status"
-        }
       ],
-      "file": "buffer.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -27,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2024-02-12T22:56:39Z",
     "description": "Stores various buffer related information in Neovim.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-03-12T06:53:51Z",
     "nameWithOwner": "AxerTheAxe/buffer-store.nvim",
     "primaryLanguage": {

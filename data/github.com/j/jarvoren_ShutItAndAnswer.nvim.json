@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Chat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-12-19T20:44:22Z",
+    "description": "Intended as a plugin to quickly set up a question/answer only chatbot in neovim window.",
+    "isArchived": false,
+    "lastCommit": "2025-12-21T00:29:54Z",
+    "nameWithOwner": "jarvoren/ShutItAndAnswer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ShutItAndAnswer.nvim",
+  "owner": "jarvoren",
+  "url": "https://github.com/jarvoren/ShutItAndAnswer.nvim"
+}

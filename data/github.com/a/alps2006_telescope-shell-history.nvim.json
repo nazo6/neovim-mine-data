@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        },
+        {
+          "level": 3,
+          "name": "History"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-16T07:05:41Z",
+    "description": "A telescope extension for executing your shell history command. ",
+    "isArchived": false,
+    "lastCommit": "2025-12-16T07:03:01Z",
+    "nameWithOwner": "alps2006/telescope-shell-history.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-shell-history.nvim",
+  "owner": "alps2006",
+  "url": "https://github.com/alps2006/telescope-shell-history.nvim"
+}

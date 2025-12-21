@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Viewer"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-17T13:30:36Z",
+    "description": "Image hover previews for Neo-tree, Oil, Nvim-tree, and Snacks.",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T13:43:56Z",
+    "nameWithOwner": "hmdfrds/focal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "image-preview",
+      "image-viewer",
+      "kitty-graphics",
+      "lua",
+      "neo-tree",
+      "neovim",
+      "neovim-plugin",
+      "nvim-tree",
+      "oil-nvim",
+      "sixel"
+    ]
+  },
+  "domain": "github.com",
+  "name": "focal.nvim",
+  "owner": "hmdfrds",
+  "url": "https://github.com/hmdfrds/focal.nvim"
+}

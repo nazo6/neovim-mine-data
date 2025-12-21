@@ -26,7 +26,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 39,
+    "commitCountLastYear": 42,
     "createdAt": "2020-04-26T13:47:22Z",
     "description": "A Metals plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-10-05T09:35:13Z",
+    "lastCommit": "2025-12-21T09:27:01Z",
     "nameWithOwner": "scalameta/nvim-metals",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 541,
+    "star": 543,
     "topics": [
       "nvim-lsp",
       "lsp",

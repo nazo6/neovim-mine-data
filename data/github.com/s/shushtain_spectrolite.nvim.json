@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 35,
     "createdAt": "2025-04-16T13:21:25Z",
-    "description": "Color Converter for Neovim",
+    "description": "convert and highlight colors",
     "isArchived": false,
     "lastCommit": "2025-11-25T02:11:30Z",
     "nameWithOwner": "shushtain/spectrolite.nvim",
@@ -30,8 +30,10 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 4,
     "topics": [
+      "neovim-plugin",
+      "color"
     ]
   },
   "domain": "github.com",

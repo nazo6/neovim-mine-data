@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "YouTube Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-10T09:57:47Z",
+    "description": "play music right from your editor",
+    "isArchived": false,
+    "lastCommit": "2025-12-10T09:49:11Z",
+    "nameWithOwner": "shardulvs/ytmusic.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ytmusic.nvim",
+  "owner": "shardulvs",
+  "url": "https://github.com/shardulvs/ytmusic.nvim"
+}

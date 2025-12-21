@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,13 +34,13 @@
     "createdAt": "2020-02-04T19:00:47Z",
     "description": "A file explorer tree for neovim written in lua",
     "isArchived": false,
-    "lastCommit": "2025-12-02T22:09:19Z",
+    "lastCommit": "2025-12-20T00:59:20Z",
     "nameWithOwner": "nvim-tree/nvim-tree.lua",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8218,
+    "star": 8256,
     "topics": [
       "lua",
       "neovim",

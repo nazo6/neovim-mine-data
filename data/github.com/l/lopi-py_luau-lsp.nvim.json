@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 24,
     "createdAt": "2023-02-22T05:18:27Z",
     "description": "A luau-lsp extension to improve your experience in neovim.",
     "isArchived": false,
-    "lastCommit": "2025-10-02T05:28:16Z",
+    "lastCommit": "2025-12-15T04:51:34Z",
     "nameWithOwner": "lopi-py/luau-lsp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 79,
+    "star": 84,
     "topics": [
       "luau",
       "neovim",

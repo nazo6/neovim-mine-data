@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-06T06:08:12Z",
+    "description": "scratch buffer for nvim",
+    "isArchived": false,
+    "lastCommit": "2025-12-06T06:12:51Z",
+    "nameWithOwner": "arctan2/scratch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratch.nvim",
+  "owner": "arctan2",
+  "url": "https://github.com/arctan2/scratch.nvim"
+}

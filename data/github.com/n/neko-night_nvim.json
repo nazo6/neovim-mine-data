@@ -4,15 +4,11 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
           "name": "Colorscheme"
-        },
-        {
-          "level": 3,
-          "name": "Tree-sitter Supported Colorscheme"
         }
       ],
       "file": "README.md",
@@ -20,7 +16,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 160,
+    "commitCountLastYear": 102,
     "createdAt": "2024-12-19T19:45:08Z",
     "description": "✨ Looking for a theme that fits your vibe? Whether you're into dark mode, light mode, or something in between, this NekoNight has got you covered. Written in Lua for snappy performance, it's a buffet of color schemes for every taste and mood. 🍭",
     "isArchived": false,
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 57,
+    "star": 60,
     "topics": [
       "neovim",
       "neovim-colorscheme",

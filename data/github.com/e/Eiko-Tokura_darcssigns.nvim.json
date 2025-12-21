@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Darcs"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-12-18T15:15:35Z",
+    "description": "Darcs + Neovim integration, similar to gitsigns",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T15:18:25Z",
+    "nameWithOwner": "Eiko-Tokura/darcssigns.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "darcs",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "darcssigns.nvim",
+  "owner": "Eiko-Tokura",
+  "url": "https://github.com/Eiko-Tokura/darcssigns.nvim"
+}

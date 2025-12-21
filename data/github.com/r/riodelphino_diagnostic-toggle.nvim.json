@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-12-06T10:26:47Z",
+    "description": "A nvim plugin for toggling the pre-defined diagnostic styles.",
+    "isArchived": false,
+    "lastCommit": "2025-12-09T16:47:34Z",
+    "nameWithOwner": "riodelphino/diagnostic-toggle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diagnostic-toggle.nvim",
+  "owner": "riodelphino",
+  "url": "https://github.com/riodelphino/diagnostic-toggle.nvim"
+}

@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 48,
+    "commitCountLastYear": 51,
     "createdAt": "2025-03-01T13:09:26Z",
     "description": "seamless neovim integration with goose - work with a powerful AI agent without leaving your editor",
     "isArchived": false,
-    "lastCommit": "2025-11-29T13:45:36Z",
+    "lastCommit": "2025-12-13T23:05:39Z",
     "nameWithOwner": "azorng/goose.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 293,
+    "star": 296,
     "topics": [
       "agent",
       "ai",

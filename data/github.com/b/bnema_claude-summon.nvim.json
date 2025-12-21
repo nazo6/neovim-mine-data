@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-12-10T21:07:06Z",
+    "description": "Summon Claude Code from your comments in neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-12-11T20:55:21Z",
+    "nameWithOwner": "bnema/claude-summon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-summon.nvim",
+  "owner": "bnema",
+  "url": "https://github.com/bnema/claude-summon.nvim"
+}

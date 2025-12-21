@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 12,
     "createdAt": "2024-10-09T01:47:44Z",
     "description": "🌐 Create commit pinned links to git(hub | lab) hosted files/lines directly from Neovim",
     "isArchived": false,
-    "lastCommit": "2025-11-10T15:36:57Z",
+    "lastCommit": "2025-12-11T21:05:13Z",
     "nameWithOwner": "claydugo/browsher.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 14,
     "topics": [
       "git",
       "github",

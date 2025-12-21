@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown table"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-12-06T05:17:30Z",
+    "description": "A Neovim plugin for aligning Markdown tables.",
+    "isArchived": false,
+    "lastCommit": "2025-12-10T23:52:51Z",
+    "nameWithOwner": "sh1Nome/md-table-align.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "md-table-align.nvim",
+  "owner": "sh1Nome",
+  "url": "https://github.com/sh1Nome/md-table-align.nvim"
+}

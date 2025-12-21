@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 61,
+    "commitCountLastYear": 62,
     "createdAt": "2022-05-30T21:02:58Z",
     "description": "Enhance your golang experience",
     "isArchived": false,
-    "lastCommit": "2025-11-27T15:12:38Z",
+    "lastCommit": "2025-12-08T19:29:34Z",
     "nameWithOwner": "olexsmir/gopher.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 377,
+    "star": 405,
     "topics": [
       "go",
       "neovim",

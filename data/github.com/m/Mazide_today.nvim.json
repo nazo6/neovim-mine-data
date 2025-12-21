@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-19T10:15:28Z",
+    "description": "Nvim Plugin to create simple today's note",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T11:29:59Z",
+    "nameWithOwner": "Mazide/today.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "today.nvim",
+  "owner": "Mazide",
+  "url": "https://github.com/Mazide/today.nvim"
+}

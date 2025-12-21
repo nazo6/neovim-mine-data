@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-16T20:02:03Z",
+    "isArchived": false,
+    "lastCommit": "2025-12-16T21:07:18Z",
+    "nameWithOwner": "Morass/history-git-diff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "history-git-diff.nvim",
+  "owner": "Morass",
+  "url": "https://github.com/Morass/history-git-diff.nvim"
+}

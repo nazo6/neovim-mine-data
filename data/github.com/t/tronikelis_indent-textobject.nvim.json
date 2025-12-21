@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Textobject"
+        },
+        {
+          "level": 3,
+          "name": "indent"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-19T06:47:20Z",
+    "description": "Vim textobject based on current indentation level, does not use treesitter",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T06:48:00Z",
+    "nameWithOwner": "tronikelis/indent-textobject.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "indent-textobject.nvim",
+  "owner": "tronikelis",
+  "url": "https://github.com/tronikelis/indent-textobject.nvim"
+}

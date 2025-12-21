@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-12-14T15:43:29Z",
+    "description": "A neovim plugin to use LLMs for code completion (specifically for function implementation) while being as much token efficient as possible",
+    "isArchived": false,
+    "lastCommit": "2025-12-18T11:15:33Z",
+    "nameWithOwner": "Chamal1120/chace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ai-assisted-coding",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chace.nvim",
+  "owner": "Chamal1120",
+  "url": "https://github.com/Chamal1120/chace.nvim"
+}

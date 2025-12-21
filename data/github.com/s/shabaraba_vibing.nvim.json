@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 88,
+    "createdAt": "2025-12-17T11:34:03Z",
+    "description": "Neovim plugin that integrates Claude AI through the Agent SDK",
+    "isArchived": false,
+    "lastCommit": "2025-12-21T09:58:58Z",
+    "nameWithOwner": "shabaraba/vibing.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "agent-sdk",
+      "ai-assistant",
+      "anthropic",
+      "chat",
+      "claude",
+      "claude-ai",
+      "code-assistant",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vibing.nvim",
+  "owner": "shabaraba",
+  "url": "https://github.com/shabaraba/vibing.nvim"
+}

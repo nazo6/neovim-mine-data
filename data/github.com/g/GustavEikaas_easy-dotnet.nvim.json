@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 283,
+    "commitCountLastYear": 286,
     "createdAt": "2024-04-02T18:24:40Z",
-    "description": "A batteries included Neovim plugin for .NET. Debug with netcoredbg, integrated Roslyn LSP, and streamlined build/test workflows for C# projects on .NET Core and .NET Framework",
+    "description": "A fully self-contained Neovim plugin for .NET development. Ships with integrated Roslyn LSP and netcoredbg debugging, offering fast, dependency-free setup and smooth build/test workflows for C# across .NET Core and .NET Framework.",
     "isArchived": false,
-    "lastCommit": "2025-12-07T10:15:12Z",
+    "lastCommit": "2025-12-19T15:15:28Z",
     "nameWithOwner": "GustavEikaas/easy-dotnet.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 554,
+    "star": 571,
     "topics": [
       "dotnet",
       "neovim",

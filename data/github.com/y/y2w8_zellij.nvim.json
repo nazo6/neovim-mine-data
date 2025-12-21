@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Zellij"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-12-13T08:42:17Z",
+    "description": "Zellij integration for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-14T11:45:57Z",
+    "nameWithOwner": "y2w8/zellij.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zellij.nvim",
+  "owner": "y2w8",
+  "url": "https://github.com/y2w8/zellij.nvim"
+}

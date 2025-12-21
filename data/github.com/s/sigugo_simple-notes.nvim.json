@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2025-12-11T14:26:44Z",
+    "description": "Simple notes plugin",
+    "isArchived": false,
+    "lastCommit": "2025-12-11T16:07:49Z",
+    "nameWithOwner": "sigugo/simple-notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-notes.nvim",
+  "owner": "sigugo",
+  "url": "https://github.com/sigugo/simple-notes.nvim"
+}

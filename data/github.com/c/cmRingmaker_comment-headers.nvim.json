@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        },
+        {
+          "level": 3,
+          "name": "Comment Header"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-06T03:53:19Z",
+    "description": "Automatic file header management for Neovim. Inserts and maintains metadata headers in your source files.",
+    "isArchived": false,
+    "lastCommit": "2025-12-06T20:58:43Z",
+    "nameWithOwner": "cmRingmaker/comment-headers.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment-headers.nvim",
+  "owner": "cmRingmaker",
+  "url": "https://github.com/cmRingmaker/comment-headers.nvim"
+}

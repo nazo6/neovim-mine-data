@@ -18,7 +18,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -30,11 +30,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 21,
+    "commitCountLastYear": 22,
     "createdAt": "2021-05-15T16:02:06Z",
     "description": "An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.",
     "isArchived": false,
-    "lastCommit": "2025-06-20T06:31:34Z",
+    "lastCommit": "2025-12-10T21:02:25Z",
     "nameWithOwner": "winston0410/range-highlight.nvim",
     "primaryLanguage": {
       "color": "#000080",

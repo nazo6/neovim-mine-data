@@ -22,7 +22,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -38,13 +38,13 @@
     "createdAt": "2023-04-22T22:35:33Z",
     "description": "A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)",
     "isArchived": false,
-    "lastCommit": "2025-11-12T13:05:59Z",
+    "lastCommit": "2025-12-19T00:47:38Z",
     "nameWithOwner": "dmmulroy/tsc.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 509,
+    "star": 512,
     "topics": [
       "lua",
       "neovim",

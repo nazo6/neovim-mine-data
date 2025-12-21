@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-19T07:31:54Z",
+    "description": "Theme switcher for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-19T08:42:22Z",
+    "nameWithOwner": "dangho1/theme-switcher.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "theme-switcher.nvim",
+  "owner": "dangho1",
+  "url": "https://github.com/dangho1/theme-switcher.nvim"
+}

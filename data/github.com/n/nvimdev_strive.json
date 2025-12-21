@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Plugin Manager"
-        },
-        {
-          "level": 3,
-          "name": "Use builtin package feature"
-        }
       ],
-      "file": "plugin-manager.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 92,
     "createdAt": "2024-08-04T06:40:26Z",
     "description": "minimal neovim plugin management",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-11-06T03:55:49Z",
     "nameWithOwner": "nvimdev/strive",
     "primaryLanguage": {

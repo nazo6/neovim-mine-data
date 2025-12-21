@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Config"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-09T04:31:35Z",
+    "description": "Where nvim plugins are forged.",
+    "isArchived": false,
+    "lastCommit": "2025-12-09T05:44:25Z",
+    "nameWithOwner": "brancisco/anvil.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "anvil.nvim",
+  "owner": "brancisco",
+  "url": "https://github.com/brancisco/anvil.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-11T15:15:20Z",
+    "description": "Neovim Gemini Helper plugin with RAG support",
+    "isArchived": false,
+    "lastCommit": "2025-12-11T15:14:43Z",
+    "nameWithOwner": "takeshy/nvim-gemini-helper",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gemini-helper",
+  "owner": "takeshy",
+  "url": "https://github.com/takeshy/nvim-gemini-helper"
+}

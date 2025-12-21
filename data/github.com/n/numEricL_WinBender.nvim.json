@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2025-12-13T22:50:38Z",
+    "description": "A Neovim plugin for moving and resizing floating windows",
+    "isArchived": false,
+    "lastCommit": "2025-12-17T22:13:14Z",
+    "nameWithOwner": "numEricL/WinBender.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "WinBender.nvim",
+  "owner": "numEricL",
+  "url": "https://github.com/numEricL/WinBender.nvim"
+}

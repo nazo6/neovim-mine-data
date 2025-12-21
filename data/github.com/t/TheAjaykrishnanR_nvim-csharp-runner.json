@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C#"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-06T15:03:06Z",
+    "description": "A Neovim plugin to run C# code snippets using CS-Script that I Vibecoded using Claude.",
+    "isArchived": false,
+    "lastCommit": "2025-12-06T16:49:12Z",
+    "nameWithOwner": "TheAjaykrishnanR/nvim-csharp-runner",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-csharp-runner",
+  "owner": "TheAjaykrishnanR",
+  "url": "https://github.com/TheAjaykrishnanR/nvim-csharp-runner"
+}

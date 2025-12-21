@@ -44,7 +44,7 @@
       "data": [
         {
           "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
         },
         {
           "level": 2,
@@ -56,17 +56,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 140,
+    "commitCountLastYear": 143,
     "createdAt": "2022-05-18T00:03:58Z",
     "description": "A task runner and job management plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-12-03T07:18:40Z",
+    "lastCommit": "2025-12-20T20:09:04Z",
     "nameWithOwner": "stevearc/overseer.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1761,
+    "star": 1772,
     "topics": [
       "neovim",
       "neovim-plugin",

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "MQL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-13T22:57:22Z",
+    "description": "Neovim integration for MSW mlua debugger",
+    "isArchived": false,
+    "lastCommit": "2025-12-13T23:11:18Z",
+    "nameWithOwner": "seokgukim/mlua-debugger.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "maplesotryworlds"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mlua-debugger.nvim",
+  "owner": "seokgukim",
+  "url": "https://github.com/seokgukim/mlua-debugger.nvim"
+}

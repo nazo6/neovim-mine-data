@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mask"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-06-08T11:59:18Z",
+    "description": "A lightweight Neovim plugin for masking text with virtual overlays",
+    "isArchived": false,
+    "lastCommit": "2025-11-27T09:56:56Z",
+    "nameWithOwner": "chriso345/shroud.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "environment-variables",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "shroud.nvim",
+  "owner": "chriso345",
+  "url": "https://github.com/ChrisO345/shroud.nvim"
+}

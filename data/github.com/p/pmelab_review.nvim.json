@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-18T11:47:34Z",
+    "description": "Review git diffs file-by-file with a checklist workflow",
+    "isArchived": false,
+    "lastCommit": "2025-12-18T11:47:26Z",
+    "nameWithOwner": "pmelab/review.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "review.nvim",
+  "owner": "pmelab",
+  "url": "https://github.com/pmelab/review.nvim"
+}

@@ -20,8 +20,9 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 12,
     "createdAt": "2024-12-07T21:40:44Z",
+    "description": "Neovim plugin for tune - chat with ai in a text file",
     "isArchived": false,
     "lastCommit": "2025-10-06T17:44:19Z",
     "nameWithOwner": "iovdin/tune.nvim",
@@ -31,6 +32,11 @@
     },
     "star": 7,
     "topics": [
+      "ai",
+      "llm",
+      "neovim",
+      "neovim-plugin",
+      "text-based"
     ]
   },
   "domain": "github.com",
