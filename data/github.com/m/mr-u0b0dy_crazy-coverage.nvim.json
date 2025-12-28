@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Test Coverage"
+        }
+      ],
+      "file": "test.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-21T15:29:10Z",
+    "description": "Neovim plugin for displaying code coverage",
+    "isArchived": false,
+    "lastCommit": "2025-12-21T16:11:18Z",
+    "nameWithOwner": "mr-u0b0dy/crazy-coverage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "crazy-coverage.nvim",
+  "owner": "mr-u0b0dy",
+  "url": "https://github.com/mr-u0b0dy/crazy-coverage.nvim"
+}

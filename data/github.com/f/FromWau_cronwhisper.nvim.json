@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 7,
     "createdAt": "2025-04-10T16:42:16Z",
-    "description": "Describes the cronjob",
+    "description": "Cron expression parser and human-readable describer for Neovim",
     "isArchived": false,
-    "lastCommit": "2025-04-18T01:12:52Z",
+    "lastCommit": "2025-12-21T21:51:55Z",
     "nameWithOwner": "FromWau/cronwhisper.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,11 @@
     },
     "star": 2,
     "topics": [
+      "cron",
+      "neovim",
+      "nvim-plugin",
+      "neovim-plugin",
+      "nvim"
     ]
   },
   "domain": "github.com",

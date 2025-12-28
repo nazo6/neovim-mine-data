@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Lua Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -17,28 +31,14 @@
       ],
       "file": "neovim-lua-development.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
-        },
-        {
-          "level": 2,
-          "name": "Neovim Lua Development"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 243,
+    "commitCountLastYear": 249,
     "createdAt": "2023-01-13T10:30:53Z",
     "description": "GitHub workflow for automatically generating Luarocks releases from tags and running busted tests",
     "isArchived": false,
-    "lastCommit": "2025-12-19T05:42:32Z",
+    "lastCommit": "2025-12-28T05:44:38Z",
     "nameWithOwner": "lumen-oss/luarocks-tag-release",
     "primaryLanguage": {
       "color": "#000080",
@@ -60,5 +60,5 @@
   "domain": "github.com",
   "name": "luarocks-tag-release",
   "owner": "lumen-oss",
-  "url": "https://github.com/nvim-neorocks/luarocks-tag-release"
+  "url": "https://github.com/lumen-oss/luarocks-tag-release"
 }

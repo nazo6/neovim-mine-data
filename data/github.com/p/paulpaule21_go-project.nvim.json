@@ -8,24 +8,23 @@
         },
         {
           "level": 2,
-          "name": "Buffer"
+          "name": "Go"
         },
         {
           "level": 3,
-          "name": "Buffer Selector"
+          "name": "Template"
         }
       ],
-      "file": "buffer.md",
+      "file": "go.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
-    "createdAt": "2025-12-12T19:57:28Z",
-    "description": "A simple floating window to switch between your Neovim buffers",
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-23T15:29:43Z",
     "isArchived": false,
-    "lastCommit": "2025-12-12T19:54:51Z",
-    "nameWithOwner": "addielmoldes/bufferhop.nvim",
+    "lastCommit": "2025-12-23T16:05:08Z",
+    "nameWithOwner": "paulpaule21/go-project.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -35,7 +34,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "bufferhop.nvim",
-  "owner": "addielmoldes",
-  "url": "https://github.com/addielmoldes/bufferhop.nvim"
+  "name": "go-project.nvim",
+  "owner": "paulpaule21",
+  "url": "https://github.com/paulpaule21/go-project.nvim"
 }

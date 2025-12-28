@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2025-12-24T03:11:54Z",
+    "description": "Integrate Factory AI (Droid) with Neovim — streamline editor-aware AI assistance for research, reviews, and code generation.",
+    "isArchived": false,
+    "lastCommit": "2025-12-24T13:02:29Z",
+    "nameWithOwner": "fahmiauliarahman/droid.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "factory-ai",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "droid.nvim",
+  "owner": "fahmiauliarahman",
+  "url": "https://github.com/fahmiauliarahman/droid.nvim"
+}

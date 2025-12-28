@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "django"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-22T12:58:12Z",
+    "description": "Django utilities for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-26T11:01:06Z",
+    "nameWithOwner": "mizisu/django.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "django.nvim",
+  "owner": "mizisu",
+  "url": "https://github.com/mizisu/django.nvim"
+}

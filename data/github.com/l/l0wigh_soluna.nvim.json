@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Soluna"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-12-21T22:14:25Z",
+    "description": "Neovim plugin to cast spells faster in Soluna",
+    "isArchived": false,
+    "lastCommit": "2025-12-25T02:05:56Z",
+    "nameWithOwner": "l0wigh/soluna.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "soluna.nvim",
+  "owner": "l0wigh",
+  "url": "https://github.com/l0wigh/soluna.nvim"
+}

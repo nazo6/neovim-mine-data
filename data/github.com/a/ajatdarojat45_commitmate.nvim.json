@@ -21,20 +21,34 @@
       ],
       "file": "git-github.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 22,
     "createdAt": "2025-12-19T07:52:25Z",
-    "description": "CommitMate is an AI-assisted commit message generator. 🤝",
+    "description": "An AI-assisted commit message generator following common commit conventions. 🤝",
     "isArchived": false,
-    "lastCommit": "2025-12-19T12:20:33Z",
+    "lastCommit": "2025-12-24T22:18:53Z",
     "nameWithOwner": "ajatdarojat45/commitmate.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 4,
     "topics": [
       "ai",
       "copilot",

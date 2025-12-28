@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "CheatSheet"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-12-23T21:34:36Z",
+    "description": "A lightweight Neovim plugin that displays a cheatsheet of nvim commands",
+    "isArchived": false,
+    "lastCommit": "2025-12-27T21:44:37Z",
+    "nameWithOwner": "JulianSchubel/nvim-cheatsheet",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cheatsheet",
+  "owner": "JulianSchubel",
+  "url": "https://github.com/JulianSchubel/nvim-cheatsheet"
+}

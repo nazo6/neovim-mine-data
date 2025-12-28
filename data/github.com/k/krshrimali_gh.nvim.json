@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Features like gh"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-12-20T10:39:55Z",
+    "description": "[WIP] github extension for neovim, all in 1",
+    "isArchived": false,
+    "lastCommit": "2025-12-21T16:42:01Z",
+    "nameWithOwner": "krshrimali/gh.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gh.nvim",
+  "owner": "krshrimali",
+  "url": "https://github.com/krshrimali/gh.nvim"
+}

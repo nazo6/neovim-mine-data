@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-26T11:57:41Z",
+    "description": "Scrap Paper is a small Neovim plugin that provides a single, persistent scratch buffer for temporary writing.",
+    "isArchived": false,
+    "lastCommit": "2025-12-26T14:25:06Z",
+    "nameWithOwner": "Arfs6/scrappaper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scrappaper.nvim",
+  "owner": "Arfs6",
+  "url": "https://github.com/Arfs6/scrappaper.nvim"
+}

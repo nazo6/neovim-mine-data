@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-23T20:01:36Z",
+    "description": "Way to filter logging in neovim buffer through regexes using telescope pickers. ",
+    "isArchived": false,
+    "lastCommit": "2025-12-27T00:13:54Z",
+    "nameWithOwner": "rodolfojsv/log-filter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "log-filter.nvim",
+  "owner": "rodolfojsv",
+  "url": "https://github.com/rodolfojsv/log-filter.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Typst"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2025-12-26T01:41:58Z",
+    "description": "NeoVim pluging for managing typsts bibliographies.",
+    "isArchived": false,
+    "lastCommit": "2025-12-27T02:49:39Z",
+    "nameWithOwner": "Kirizan/typst-bib.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "typst-bib.nvim",
+  "owner": "Kirizan",
+  "url": "https://github.com/Kirizan/typst-bib.nvim"
+}

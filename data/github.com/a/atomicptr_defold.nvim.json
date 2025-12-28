@@ -34,15 +34,15 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 114,
+    "commitCountLastYear": 124,
     "createdAt": "2025-07-15T11:43:51Z",
     "description": "Batteries-included development environment for the Defold game engine, powered by Neovim",
     "isArchived": false,
-    "lastCommit": "2025-11-04T07:02:46Z",
+    "lastCommit": "2025-12-25T19:27:10Z",
     "nameWithOwner": "atomicptr/defold.nvim",
     "primaryLanguage": {
-      "color": "#db5855",
-      "name": "Clojure"
+      "color": "#dea584",
+      "name": "Rust"
     },
     "star": 16,
     "topics": [
@@ -50,8 +50,8 @@
       "defold-game-engine",
       "neovim",
       "neovim-plugin",
-      "babashka",
-      "clojure"
+      "mlua",
+      "rust"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Jira"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-12-23T02:12:34Z",
+    "description": "Jim - Jira simple TUI to manage issues, filter, see sprint and backlogs, and run JQL.  Jira is still terrible btw, this bypasses the horrible UX for core uses",
+    "isArchived": false,
+    "lastCommit": "2025-12-23T20:40:43Z",
+    "nameWithOwner": "bearded-giant/jim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jim.nvim",
+  "owner": "bearded-giant",
+  "url": "https://github.com/bearded-giant/jim.nvim"
+}

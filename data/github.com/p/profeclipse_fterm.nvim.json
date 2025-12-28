@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-24T05:43:38Z",
+    "description": "Floating Terminal Plugin for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-12-24T06:28:29Z",
+    "nameWithOwner": "profeclipse/fterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fterm.nvim",
+  "owner": "profeclipse",
+  "url": "https://github.com/profeclipse/fterm.nvim"
+}

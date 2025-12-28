@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Model Context Protocol(MCP)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-12-26T08:04:37Z",
+    "description": "Allows registration of Lua functions as MCP tools in NeoVim",
+    "isArchived": false,
+    "lastCommit": "2025-12-26T08:17:48Z",
+    "nameWithOwner": "guill/mcp-tools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mcp-tools.nvim",
+  "owner": "guill",
+  "url": "https://github.com/guill/mcp-tools.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Salesforce"
+        },
+        {
+          "level": 5,
+          "name": "demandware"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-12-25T23:51:00Z",
+    "description": "SFCC Prophet uploader for Neovim - Upload cartridges to Salesforce Commerce Cloud sandboxes with real-time progress feedback",
+    "isArchived": false,
+    "lastCommit": "2025-12-26T05:38:22Z",
+    "nameWithOwner": "IFAKA/prophet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "prophet.nvim",
+  "owner": "IFAKA",
+  "url": "https://github.com/IFAKA/prophet.nvim"
+}

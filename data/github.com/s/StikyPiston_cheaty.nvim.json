@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "CheatSheet"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-12-21T16:38:16Z",
+    "description": "A simple plugin that allows you to create a configurable pop-up cheatsheet!",
+    "isArchived": false,
+    "lastCommit": "2025-12-21T17:25:11Z",
+    "nameWithOwner": "StikyPiston/cheaty.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cheaty.nvim",
+  "owner": "StikyPiston",
+  "url": "https://github.com/stikypiston/cheaty.nvim"
+}

@@ -20,24 +20,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 20,
     "createdAt": "2025-11-30T20:22:55Z",
-    "description": "Simple terminal interaction on Neovim. Might be useless.",
+    "description": "Async command runner, live grep, and file searcher for Neovim. Works for me.",
     "isArchived": false,
-    "lastCommit": "2025-12-14T07:12:14Z",
+    "lastCommit": "2025-12-25T01:00:06Z",
     "nameWithOwner": "datsfilipe/console.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
       "command-line",
       "console",
       "lua",
       "neovim",
       "nvim",
-      "terminal"
+      "terminal",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

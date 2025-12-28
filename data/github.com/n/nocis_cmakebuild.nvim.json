@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "CMake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-20T20:30:13Z",
+    "description": "save and build",
+    "isArchived": false,
+    "lastCommit": "2025-12-20T23:46:38Z",
+    "nameWithOwner": "nocis/cmakebuild.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmakebuild.nvim",
+  "owner": "nocis",
+  "url": "https://github.com/nocis/cmakebuild.nvim"
+}

@@ -20,12 +20,12 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 74,
+    "commitCountLastYear": 88,
     "createdAt": "2025-09-05T07:28:43Z",
-    "description": "Small layer on top of vim.pack API to allow single file plugin configurations",
+    "description": "UnPack is a small layer on top of vim.pack API to allow single file plugin configurations",
     "isArchived": false,
-    "lastCommit": "2025-11-21T18:52:40Z",
-    "nameWithOwner": "mezdelex/unpack",
+    "lastCommit": "2025-12-24T17:05:44Z",
+    "nameWithOwner": "mezdelex/unpack.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
@@ -39,7 +39,7 @@
     ]
   },
   "domain": "github.com",
-  "name": "unpack",
+  "name": "unpack.nvim",
   "owner": "mezdelex",
   "url": "https://github.com/mezdelex/unpack"
 }

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Spring Boot"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-21T09:54:09Z",
+    "description": "The 'Effective' way to develop Spring Boot applications in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-12-21T16:10:37Z",
+    "nameWithOwner": "lazerfit/spring-gen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "java",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "spring",
+      "spring-boot"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spring-gen.nvim",
+  "owner": "lazerfit",
+  "url": "https://github.com/lazerfit/spring-gen.nvim"
+}

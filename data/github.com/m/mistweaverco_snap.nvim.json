@@ -20,23 +20,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 57,
     "createdAt": "2025-12-08T23:38:20Z",
     "description": "Neovim screenshots 📷 that match your color scheme 🎨.",
     "isArchived": false,
-    "lastCommit": "2025-12-20T14:05:47Z",
+    "lastCommit": "2025-12-27T04:30:09Z",
     "nameWithOwner": "mistweaverco/snap.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 12,
+    "star": 22,
     "topics": [
       "neovim",
       "neovim-plugin",
       "screenshot",
       "tree-sitter",
-      "tree-sitter-highlight"
+      "tree-sitter-highlight",
+      "playwright",
+      "playwright-typescript"
     ]
   },
   "domain": "github.com",

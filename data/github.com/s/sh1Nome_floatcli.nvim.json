@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-22T15:08:39Z",
+    "description": "A Neovim plugin for running arbitrary CLI tools in a floating window.",
+    "isArchived": false,
+    "lastCommit": "2025-12-27T14:59:04Z",
+    "nameWithOwner": "sh1Nome/floatcli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "floatcli.nvim",
+  "owner": "sh1Nome",
+  "url": "https://github.com/sh1Nome/floatcli.nvim"
+}

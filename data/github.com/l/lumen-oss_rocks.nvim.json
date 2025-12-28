@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -17,24 +31,10 @@
       ],
       "file": "neovim-lua-development.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
-        },
-        {
-          "level": 2,
-          "name": "Plugin Manager"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 66,
+    "commitCountLastYear": 62,
     "createdAt": "2023-07-05T11:24:40Z",
     "description": "🌒 Neovim plugin management inspired by Cargo, powered by luarocks",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 988,
+    "star": 991,
     "topics": [
       "lua",
       "luarocks",
@@ -59,5 +59,5 @@
   "domain": "github.com",
   "name": "rocks.nvim",
   "owner": "lumen-oss",
-  "url": "https://github.com/nvim-neorocks/rocks.nvim"
+  "url": "https://github.com/lumen-oss/rocks.nvim"
 }

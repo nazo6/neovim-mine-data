@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2025-12-23T17:18:22Z",
+    "description": "Ask Without Bloat: neovim plugin for fast in-file AI help",
+    "isArchived": false,
+    "lastCommit": "2025-12-26T12:57:54Z",
+    "nameWithOwner": "novrion/awb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "ai",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "awb.nvim",
+  "owner": "novrion",
+  "url": "https://github.com/novrion/awb.nvim"
+}

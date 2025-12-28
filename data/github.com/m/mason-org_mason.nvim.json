@@ -4,6 +4,24 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Installer"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -35,24 +53,6 @@
       ],
       "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
-        },
-        {
-          "level": 2,
-          "name": "LSP"
-        },
-        {
-          "level": 3,
-          "name": "LSP Installer"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -66,7 +66,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9838,
+    "star": 9864,
     "topics": [
       "lua",
       "mason",
@@ -83,5 +83,5 @@
   "domain": "github.com",
   "name": "mason.nvim",
   "owner": "mason-org",
-  "url": "https://github.com/williamboman/mason.nvim"
+  "url": "https://github.com/mason-org/mason.nvim"
 }

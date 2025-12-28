@@ -17,6 +17,20 @@
       ],
       "file": "mark.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Marks"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -30,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 40,
+    "star": 43,
     "topics": [
       "neovim",
       "neovim-plugin",

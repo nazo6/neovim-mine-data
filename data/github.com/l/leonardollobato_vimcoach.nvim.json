@@ -8,34 +8,33 @@
         },
         {
           "level": 2,
-          "name": "Web"
+          "name": "Toy"
         },
         {
           "level": 3,
-          "name": "racc.lol"
+          "name": "Training"
         }
       ],
-      "file": "web-service.md",
+      "file": "toy.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
-    "createdAt": "2025-08-12T03:09:07Z",
-    "description": "A neovim plugin for stealing trash pandas from the racc.lol API",
+    "commitCountLastYear": 14,
+    "createdAt": "2025-12-20T23:35:09Z",
     "isArchived": false,
-    "lastCommit": "2025-08-15T14:27:44Z",
-    "nameWithOwner": "keircn/racc.nvim",
+    "lastCommit": "2025-12-21T02:28:06Z",
+    "nameWithOwner": "leonardollobato/vimcoach.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 1,
     "topics": [
     ]
   },
   "domain": "github.com",
-  "name": "racc.nvim",
-  "owner": "keircn",
-  "url": "https://github.com/keircn/racc.nvim"
+  "name": "vimcoach.nvim",
+  "owner": "leonardollobato",
+  "url": "https://github.com/leonardollobato/vimcoach.nvim"
 }

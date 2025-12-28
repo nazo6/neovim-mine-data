@@ -20,21 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 15,
     "createdAt": "2025-12-14T15:43:29Z",
-    "description": "A neovim plugin to use LLMs for code completion (specifically for function implementation) while being as much token efficient as possible",
+    "description": "An AI driven code completion (specifically for function implementation) plugin for neovim while being as much token efficient as possible",
     "isArchived": false,
-    "lastCommit": "2025-12-18T11:15:33Z",
+    "lastCommit": "2025-12-27T12:52:08Z",
     "nameWithOwner": "Chamal1120/chace.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
       "ai-assisted-coding",
       "neovim",
-      "neovim-plugin"
+      "neovim-plugin",
+      "ai-assistant",
+      "ai-tools",
+      "code-completion"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-23T15:13:40Z",
+    "description": "AI via aichat powered Git commit message generator for Neovim with conventional commits, smart formatting, and automatic ticket   integration",
+    "isArchived": false,
+    "lastCommit": "2025-12-25T02:53:42Z",
+    "nameWithOwner": "chmouel/gitcommitai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitcommitai.nvim",
+  "owner": "chmouel",
+  "url": "https://github.com/chmouel/gitcommitai.nvim"
+}

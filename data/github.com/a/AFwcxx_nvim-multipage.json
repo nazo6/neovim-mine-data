@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "layout"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-25T01:45:53Z",
+    "description": "Multi-page vertical views for long files in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-12-25T02:39:04Z",
+    "nameWithOwner": "AFwcxx/nvim-multipage",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-multipage",
+  "owner": "AFwcxx",
+  "url": "https://github.com/AFwcxx/nvim-multipage"
+}

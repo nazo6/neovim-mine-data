@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-22T22:16:52Z",
+    "description": "A Neovim plugin for quickly executing and building your code.",
+    "isArchived": false,
+    "lastCommit": "2025-12-23T22:21:02Z",
+    "nameWithOwner": "tad34s/mejkr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mejkr.nvim",
+  "owner": "tad34s",
+  "url": "https://github.com/tad34s/mejkr.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Statusline component"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-22T00:40:04Z",
+    "description": "A context-aware filename overlay for Neovim. Includes Git status, diagnostics, and filetype icons.",
+    "isArchived": false,
+    "lastCommit": "2025-12-22T23:51:21Z",
+    "nameWithOwner": "lesnik2u/herald.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "herald.nvim",
+  "owner": "lesnik2u",
+  "url": "https://github.com/lesnik2u/herald.nvim"
+}

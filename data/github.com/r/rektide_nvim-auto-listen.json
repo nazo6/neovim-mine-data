@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Remote server"
+        }
+      ],
+      "file": "service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-12-26T22:49:26Z",
+    "description": "Automatically start listen server on .nvim.socket.",
+    "isArchived": false,
+    "lastCommit": "2025-12-27T10:32:06Z",
+    "nameWithOwner": "rektide/nvim-auto-listen",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-auto-listen",
+  "owner": "rektide",
+  "url": "https://github.com/rektide/nvim-auto-listen"
+}

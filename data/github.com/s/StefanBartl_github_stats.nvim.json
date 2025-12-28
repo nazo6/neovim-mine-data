@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Stats"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-12-20T20:42:09Z",
+    "isArchived": false,
+    "lastCommit": "2025-12-27T14:39:56Z",
+    "nameWithOwner": "StefanBartl/github_stats.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "github_stats.nvim",
+  "owner": "StefanBartl",
+  "url": "https://github.com/StefanBartl/github_stats.nvim"
+}

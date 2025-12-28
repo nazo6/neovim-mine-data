@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util wrapper"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2025-12-22T12:41:13Z",
+    "description": "Bug2bug compatibility `vim._with` in pure lua.",
+    "isArchived": false,
+    "lastCommit": "2025-12-22T13:57:57Z",
+    "nameWithOwner": "phanen/with.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "buffer",
+      "context",
+      "neovim-plugin",
+      "option",
+      "window",
+      "autocmd"
+    ]
+  },
+  "domain": "github.com",
+  "name": "with.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/with.nvim"
+}

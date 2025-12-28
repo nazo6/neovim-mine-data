@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2025-12-20T09:49:43Z",
+    "description": "Neovim client for MindWeaver",
+    "isArchived": false,
+    "lastCommit": "2025-12-26T18:02:54Z",
+    "nameWithOwner": "nkapatos/neoweaver.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "knowledge-management",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "note-taking"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neoweaver.nvim",
+  "owner": "nkapatos",
+  "url": "https://github.com/nkapatos/neoweaver.nvim"
+}

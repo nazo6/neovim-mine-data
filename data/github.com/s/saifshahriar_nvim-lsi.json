@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-24T14:12:52Z",
+    "description": "Insert algorithms and ready-made code snippets directly from within Neovim using Telescope, perfect for competitive programmer.",
+    "isArchived": false,
+    "lastCommit": "2025-12-24T14:18:24Z",
+    "nameWithOwner": "saifshahriar/nvim-lsi",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "codeforces",
+      "competitive-programming",
+      "neovim",
+      "nvim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsi",
+  "owner": "saifshahriar",
+  "url": "https://github.com/saifshahriar/nvim-lsi"
+}

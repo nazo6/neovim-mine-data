@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2025-12-24T16:29:32Z",
+    "description": "A Neovim plugin containing various utilities to enhance the studying and notetaking experience on Neovim!",
+    "isArchived": false,
+    "lastCommit": "2025-12-25T13:19:20Z",
+    "nameWithOwner": "StikyPiston/studytools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "studytools.nvim",
+  "owner": "StikyPiston",
+  "url": "https://github.com/StikyPiston/studytools.nvim"
+}
