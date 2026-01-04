@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 74,
+    "createdAt": "2025-12-27T20:23:40Z",
+    "description": "A lightweight, file-backed notepad for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-01T05:42:15Z",
+    "nameWithOwner": "JulianSchubel/nvim-notepad",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-notepad",
+  "owner": "JulianSchubel",
+  "url": "https://github.com/JulianSchubel/nvim-notepad"
+}

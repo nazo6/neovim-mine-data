@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenCode"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2025-12-29T15:31:37Z",
+    "description": "Simple AI Inline Code Generation Plugin for nvim. Uses OpenCode as a backend.",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T10:33:38Z",
+    "nameWithOwner": "haapjari/inline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "code-completion",
+      "code-generation",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "opencode"
+    ]
+  },
+  "domain": "github.com",
+  "name": "inline.nvim",
+  "owner": "haapjari",
+  "url": "https://github.com/haapjari/inline.nvim"
+}

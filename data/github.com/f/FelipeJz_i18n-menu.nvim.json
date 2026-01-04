@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 3,
     "createdAt": "2024-06-19T01:17:52Z",
-    "description": "This plugin simplifies the management of manual translations using react i18n extensions.",
+    "description": "This plugin provides an interactive Neovim menu for resolving and managing translation keys referenced by i18n translation functions.",
     "isArchived": false,
-    "lastCommit": "2025-12-21T17:47:14Z",
+    "lastCommit": "2025-12-29T14:09:15Z",
     "nameWithOwner": "FelipeJz/i18n-menu.nvim",
     "primaryLanguage": {
       "color": "#000080",

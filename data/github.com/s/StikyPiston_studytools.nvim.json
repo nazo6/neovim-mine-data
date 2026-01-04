@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -40,5 +54,5 @@
   "domain": "github.com",
   "name": "studytools.nvim",
   "owner": "StikyPiston",
-  "url": "https://github.com/StikyPiston/studytools.nvim"
+  "url": "https://github.com/stikypiston/studytools.nvim"
 }

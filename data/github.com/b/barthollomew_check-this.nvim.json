@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "Lint"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-28T00:37:06Z",
+    "description": "Lightweight risk checker plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-28T01:40:13Z",
+    "nameWithOwner": "barthollomew/check-this.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "risk-assessment",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "check-this.nvim",
+  "owner": "barthollomew",
+  "url": "https://github.com/barthollomew/check-this.nvim"
+}

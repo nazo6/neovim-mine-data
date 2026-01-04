@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-01-02T09:35:04Z",
+    "description": "Thin wrapper around your command-line",
+    "isArchived": false,
+    "lastCommit": "2026-01-04T08:31:12Z",
+    "nameWithOwner": "juniorsundar/cling.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "cli",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cling.nvim",
+  "owner": "juniorsundar",
+  "url": "https://github.com/juniorsundar/cling.nvim"
+}

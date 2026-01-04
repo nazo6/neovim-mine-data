@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-12-29T13:00:10Z",
+    "description": "A Neovim plugin for navigating git diff hunks. Jump between local (unstaged) changes or remote (vs origin) changes with ease.",
+    "isArchived": false,
+    "lastCommit": "2025-12-29T13:58:45Z",
+    "nameWithOwner": "alexandrelam/diff-navigator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "git",
+      "lazyvim",
+      "neovim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "diff-navigator.nvim",
+  "owner": "alexandrelam",
+  "url": "https://github.com/alexandrelam/diff-navigator.nvim"
+}

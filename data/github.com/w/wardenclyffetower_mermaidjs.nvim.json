@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Mermaid"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-28T16:40:41Z",
+    "description": "An early experiment of a mermaidjs plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-28T16:43:25Z",
+    "nameWithOwner": "wardenclyffetower/mermaidjs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mermaidjs.nvim",
+  "owner": "wardenclyffetower",
+  "url": "https://github.com/wardenclyffetower/mermaidjs.nvim"
+}

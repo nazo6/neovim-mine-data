@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "insert pairs"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-01-02T02:41:05Z",
+    "description": "A new take on an auto-pair plugin that focuses on behaving intuitively.",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T15:18:58Z",
+    "nameWithOwner": "frangio/parity.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "parity.nvim",
+  "owner": "frangio",
+  "url": "https://github.com/frangio/parity.nvim"
+}

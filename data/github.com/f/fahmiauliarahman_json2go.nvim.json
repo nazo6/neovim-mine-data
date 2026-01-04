@@ -22,6 +22,7 @@
   "data": {
     "commitCountLastYear": 1,
     "createdAt": "2025-12-23T14:45:56Z",
+    "description": "A Neovim plugin for Go developers to convert JSON to Go struct definitions. Read JSON from your clipboard, enter a struct name, and get properly formatted Go code.",
     "isArchived": false,
     "lastCommit": "2025-12-23T14:46:25Z",
     "nameWithOwner": "fahmiauliarahman/json2go.nvim",
@@ -31,6 +32,12 @@
     },
     "star": 1,
     "topics": [
+      "go",
+      "golang",
+      "json",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

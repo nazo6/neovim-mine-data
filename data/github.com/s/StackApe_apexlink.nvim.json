@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "VS Code features"
+        },
+        {
+          "level": 3,
+          "name": "Collaborative Editing"
+        }
+      ],
+      "file": "vscode-features.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-31T12:32:01Z",
+    "description": "Team Collaboration plugin for Apex-PDE,  Neovim,  Vim",
+    "isArchived": false,
+    "lastCommit": "2025-12-31T12:49:33Z",
+    "nameWithOwner": "StackApe/apexlink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "apexlink.nvim",
+  "owner": "StackApe",
+  "url": "https://github.com/StackApe/apexlink.nvim"
+}

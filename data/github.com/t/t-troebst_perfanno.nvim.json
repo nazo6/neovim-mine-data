@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 0,
     "createdAt": "2022-02-08T00:22:32Z",
     "description": "NeoVim lua plugin that annotates source code with profiling information from perf, LuaJIT, or other profilers.",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 337,
+    "star": 338,
     "topics": [
       "neovim",
       "neovim-plugin",

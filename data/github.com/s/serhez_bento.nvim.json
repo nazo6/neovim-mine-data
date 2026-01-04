@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-01-01T12:51:04Z",
+    "description": "A minimalist, efficient, and extensible buffer manager for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-01T18:47:14Z",
+    "nameWithOwner": "serhez/bento.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bento.nvim",
+  "owner": "serhez",
+  "url": "https://github.com/serhez/bento.nvim"
+}

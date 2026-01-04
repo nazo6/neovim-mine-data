@@ -40,7 +40,7 @@
         },
         {
           "level": 2,
-          "name": "Utility"
+          "name": "UI"
         }
       ],
       "file": "README.md",
@@ -48,7 +48,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 8,
     "createdAt": "2021-07-30T23:19:09Z",
     "description": "A fancy, configurable, notification manager for NeoVim",
     "isArchived": false,
@@ -58,7 +58,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3490,
+    "star": 3495,
     "topics": [
       "neovim",
       "nvim"

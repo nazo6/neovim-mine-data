@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 144,
+    "createdAt": "2025-03-10T14:38:52Z",
+    "description": "What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!",
+    "isArchived": false,
+    "lastCommit": "2026-01-02T11:47:15Z",
+    "nameWithOwner": "MironPascalCaseFan/debugmaster.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 351,
+    "topics": [
+      "debugging",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim-dap",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "debugmaster.nvim",
+  "owner": "MironPascalCaseFan",
+  "url": "https://github.com/miroshQa/debugmaster.nvim"
+}

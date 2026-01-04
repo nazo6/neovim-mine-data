@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-12-30T05:47:24Z",
+    "description": "A Neovim plugin that displays difftastic's structural diffs in a side-by-side view with syntax highlighting.",
+    "isArchived": false,
+    "lastCommit": "2026-01-04T02:37:22Z",
+    "nameWithOwner": "clabby/difftastic.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 49,
+    "topics": [
+      "difftastic",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "difftastic.nvim",
+  "owner": "clabby",
+  "url": "https://github.com/clabby/difftastic.nvim"
+}

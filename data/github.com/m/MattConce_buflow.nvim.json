@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-27T23:11:44Z",
+    "description": "A buffer manager for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-12-27T23:23:55Z",
+    "nameWithOwner": "MattConce/buflow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buflow.nvim",
+  "owner": "MattConce",
+  "url": "https://github.com/MattConce/buflow.nvim"
+}

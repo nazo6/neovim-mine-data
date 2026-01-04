@@ -22,7 +22,11 @@
         },
         {
           "level": 2,
-          "name": "Utility"
+          "name": "Workflow"
+        },
+        {
+          "level": 3,
+          "name": "Stats Tracking"
         }
       ],
       "file": "README.md",
@@ -30,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 276,
+    "commitCountLastYear": 308,
     "createdAt": "2025-11-08T09:07:43Z",
     "description": "Triforce is a Neovim plugin with beautiful UI that adds a bit of RPG flavor to your coding — XP, levels, and achievements while you work.",
     "isArchived": false,
-    "lastCommit": "2025-12-27T19:46:33Z",
+    "lastCommit": "2026-01-03T05:59:20Z",
     "nameWithOwner": "gisketch/triforce.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 215,
+    "star": 218,
     "topics": [
       "adhd",
       "gamify",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Punctuation"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-29T04:42:05Z",
+    "description": "a lightweight Neovim plugin that converts Chinese full-width punctuation to English half-width punctuation",
+    "isArchived": false,
+    "lastCommit": "2025-12-29T10:06:22Z",
+    "nameWithOwner": "AzarAI-TOP/cpc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cpc.nvim",
+  "owner": "AzarAI-TOP",
+  "url": "https://github.com/AzarAI-TOP/cpc.nvim"
+}

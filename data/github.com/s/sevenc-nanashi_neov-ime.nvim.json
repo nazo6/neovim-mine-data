@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-12-29T02:00:21Z",
+    "description": "Neovim side implementation for Neovide's IME support",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T01:58:49Z",
+    "nameWithOwner": "sevenc-nanashi/neov-ime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neov-ime.nvim",
+  "owner": "sevenc-nanashi",
+  "url": "https://github.com/sevenc-nanashi/neov-ime.nvim"
+}

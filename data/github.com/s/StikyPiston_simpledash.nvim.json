@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup screen (DashBoard)"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-01-02T19:41:50Z",
+    "description": "A simple dashboard for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-02T20:17:31Z",
+    "nameWithOwner": "StikyPiston/simpledash.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "simpledash.nvim",
+  "owner": "StikyPiston",
+  "url": "https://github.com/StikyPiston/simpledash.nvim"
+}

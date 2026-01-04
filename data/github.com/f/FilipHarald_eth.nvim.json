@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Ethereum"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-29T10:46:47Z",
+    "description": "Basic Ethereum-actions directly in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2025-12-29T11:26:23Z",
+    "nameWithOwner": "FilipHarald/eth.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "eth.nvim",
+  "owner": "FilipHarald",
+  "url": "https://github.com/FilipHarald/eth.nvim"
+}

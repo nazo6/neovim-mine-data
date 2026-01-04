@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-30T09:17:31Z",
+    "description": "Agenda view for Markdown todos in Neovim. Assign deadlines and schedule dates for tasks with `@scheduled()` and `@deadline()` attributes",
+    "isArchived": false,
+    "lastCommit": "2025-12-30T09:36:55Z",
+    "nameWithOwner": "Kamyil/markdown-agenda.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-agenda.nvim",
+  "owner": "Kamyil",
+  "url": "https://github.com/Kamyil/markdown-agenda.nvim"
+}

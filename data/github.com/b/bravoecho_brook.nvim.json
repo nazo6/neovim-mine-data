@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 52,
+    "commitCountLastYear": 102,
     "createdAt": "2025-12-12T16:42:02Z",
     "description": "A ripgrep wrapper for Neovim. Streams results asynchronously to the quickfix list, bypasses shell interpretation for security and portability, and sets the search register for seamless n/N navigation.",
     "isArchived": false,
-    "lastCommit": "2025-12-27T09:27:31Z",
+    "lastCommit": "2026-01-04T01:16:34Z",
     "nameWithOwner": "bravoecho/brook.nvim",
     "primaryLanguage": {
       "color": "#000080",

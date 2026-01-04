@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "FuzzyFinder"
-        }
       ],
-      "file": "fuzzy-finder.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -33,7 +25,7 @@
     "commitCountLastYear": 65,
     "createdAt": "2023-07-26T09:58:20Z",
     "description": "A Neovim fuzzy finder that updates on every keystroke.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-08-23T16:30:01Z",
     "nameWithOwner": "linrongbin16/fzfx.nvim",
     "primaryLanguage": {

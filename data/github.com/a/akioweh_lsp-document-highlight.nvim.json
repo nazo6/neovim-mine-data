@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Definition, Reference"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-01-02T22:09:01Z",
+    "description": "Snappy \"cursor word\" highlighting using modern mechanics for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-02T22:37:51Z",
+    "nameWithOwner": "akioweh/lsp-document-highlight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-document-highlight.nvim",
+  "owner": "akioweh",
+  "url": "https://github.com/akioweh/lsp-document-highlight.nvim"
+}

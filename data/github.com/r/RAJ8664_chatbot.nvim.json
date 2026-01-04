@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenRouter"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-27T12:51:06Z",
+    "description": "An experimental Neovim Chatbot plugin powered by LangChain and OpenRouter.",
+    "isArchived": false,
+    "lastCommit": "2025-12-27T13:07:24Z",
+    "nameWithOwner": "RAJ8664/chatbot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "langchain",
+      "neovim",
+      "openrouter",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chatbot.nvim",
+  "owner": "RAJ8664",
+  "url": "https://github.com/RAJ8664/chatbot.nvim"
+}

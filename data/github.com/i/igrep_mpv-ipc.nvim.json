@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2025-12-28T12:59:45Z",
+    "description": "Minimum wrapper around the [mpv](https://mpv.io/) media player using its JSON IPC interface.",
+    "isArchived": false,
+    "lastCommit": "2026-01-04T06:48:54Z",
+    "nameWithOwner": "igrep/mpv-ipc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mpv-ipc.nvim",
+  "owner": "igrep",
+  "url": "https://github.com/igrep/mpv-ipc.nvim"
+}

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2025-12-30T18:42:59Z",
+    "description": "NeoRunner is a simple plugin that allows you to compile and run code directly from Neovim using a terminal split. It comes with defaults for many popular languages but is fully customizable.",
+    "isArchived": false,
+    "lastCommit": "2026-01-02T12:59:56Z",
+    "nameWithOwner": "theawakener0/NeoRunner",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "NeoRunner",
+  "owner": "theawakener0",
+  "url": "https://github.com/theawakener0/NeoRunner"
+}

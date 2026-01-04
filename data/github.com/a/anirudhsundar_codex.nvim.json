@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        },
+        {
+          "level": 4,
+          "name": "Codex"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2025-12-27T16:41:07Z",
+    "description": "A neovim plugin to invoke and interact with OpenAI codex",
+    "isArchived": false,
+    "lastCommit": "2025-12-29T12:12:42Z",
+    "nameWithOwner": "anirudhsundar/codex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codex.nvim",
+  "owner": "anirudhsundar",
+  "url": "https://github.com/anirudhsundar/codex.nvim"
+}

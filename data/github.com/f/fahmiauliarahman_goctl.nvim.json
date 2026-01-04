@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-12-31T07:14:19Z",
+    "description": "A Neovim plugin for golang go-zero .api file support.",
+    "isArchived": false,
+    "lastCommit": "2025-12-31T08:02:26Z",
+    "nameWithOwner": "fahmiauliarahman/goctl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "go",
+      "go-zero",
+      "golang",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "goctl.nvim",
+  "owner": "fahmiauliarahman",
+  "url": "https://github.com/fahmiauliarahman/goctl.nvim"
+}

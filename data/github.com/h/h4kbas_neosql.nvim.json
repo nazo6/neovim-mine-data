@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "PostgreSQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-12-31T11:54:19Z",
+    "description": "A Neovim plugin for PostgreSQL database interaction with an intuitive interface for querying, editing, and exporting data.",
+    "isArchived": false,
+    "lastCommit": "2026-01-02T07:47:19Z",
+    "nameWithOwner": "h4kbas/neosql.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neosql.nvim",
+  "owner": "h4kbas",
+  "url": "https://github.com/h4kbas/neosql.nvim"
+}

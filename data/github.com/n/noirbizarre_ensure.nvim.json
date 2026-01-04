@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 50,
+    "commitCountLastYear": 63,
     "createdAt": "2025-12-14T13:10:05Z",
     "description": "Ensure dependencies (Mason packages, formatters, linters, parsers...) are installed when needed",
     "isArchived": false,
-    "lastCommit": "2025-12-26T16:58:48Z",
+    "lastCommit": "2025-12-30T19:23:30Z",
     "nameWithOwner": "noirbizarre/ensure.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 20,
+    "star": 21,
     "topics": [
       "neovim-plugin"
     ]

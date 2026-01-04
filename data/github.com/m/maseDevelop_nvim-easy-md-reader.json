@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Readable Assistant"
+        },
+        {
+          "level": 3,
+          "name": "Human-readable"
+        },
+        {
+          "level": 4,
+          "name": "bionic reading"
+        }
+      ],
+      "file": "readable-assistant.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-28T00:19:07Z",
+    "description": "Bionic-style reading viewer for Markdown in Neovim - Treesitter aware, skips code blocks",
+    "isArchived": false,
+    "lastCommit": "2025-12-28T02:35:55Z",
+    "nameWithOwner": "maseDevelop/nvim-easy-md-reader",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-easy-md-reader",
+  "owner": "maseDevelop",
+  "url": "https://github.com/maseDevelop/nvim-easy-md-reader"
+}

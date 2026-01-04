@@ -24,24 +24,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 23,
     "createdAt": "2025-12-26T08:45:20Z",
-    "description": "prayertime.nvim is a standalone Neovim plugin that surfaces accurate daily prayer schedules right inside your editor. Display the live countdown in your statusline, pop open a floating panel for the full timetable, or fire notifications so you never miss a prayer.",
+    "description": "prayertime.nvim is a lightweight, standalone Neovim plugin that integrates accurate Islamic prayer schedules directly into your workflow. Stay mindful with live statusline countdowns, floating timetables, and automated Adhan notifications without leaving your editor.",
     "isArchived": false,
-    "lastCommit": "2025-12-27T17:06:30Z",
+    "lastCommit": "2025-12-29T14:22:45Z",
     "nameWithOwner": "muhfaris/prayertime.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 11,
     "topics": [
       "adhan-player",
       "lua",
       "nvim",
       "nvim-plugin",
       "plugins",
-      "prayertimes"
+      "prayertimes",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

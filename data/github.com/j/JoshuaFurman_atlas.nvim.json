@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "toc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-02T06:22:11Z",
+    "description": "A lightweight Neovim plugin that displays a navigable Table of Contents for Markdown files in a floating window.",
+    "isArchived": false,
+    "lastCommit": "2026-01-02T06:44:22Z",
+    "nameWithOwner": "JoshuaFurman/atlas.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "markdown",
+      "navigation",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "atlas.nvim",
+  "owner": "JoshuaFurman",
+  "url": "https://github.com/JoshuaFurman/atlas.nvim"
+}

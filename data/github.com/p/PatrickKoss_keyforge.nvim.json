@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Gaming"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 50,
+    "createdAt": "2025-12-28T14:55:30Z",
+    "description": "Tower defense game to master vim keybindings inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-30T15:20:28Z",
+    "nameWithOwner": "PatrickKoss/keyforge.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 5,
+    "topics": [
+      "bubbletea",
+      "cli",
+      "game",
+      "gamification",
+      "golang",
+      "kata",
+      "learn-vim",
+      "lipgloss",
+      "lsp",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "keyforge.nvim",
+  "owner": "PatrickKoss",
+  "url": "https://github.com/PatrickKoss/keyforge.nvim"
+}

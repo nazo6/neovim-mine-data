@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Highlight"
+        },
+        {
+          "level": 3,
+          "name": "Dim"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-01-01T10:28:52Z",
+    "description": "dim.nvim is a dynamic color–dimming engine for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T15:42:08Z",
+    "nameWithOwner": "ADemkin/dim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dim.nvim",
+  "owner": "ADemkin",
+  "url": "https://github.com/ADemkin/dim.nvim"
+}

@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 17,
     "createdAt": "2025-12-14T15:43:29Z",
-    "description": "An AI driven code completion (specifically for function implementation) plugin for neovim while being as much token efficient as possible",
+    "description": "A token efficient and less intrusive AI code completion plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2025-12-27T12:52:08Z",
+    "lastCommit": "2026-01-02T01:20:01Z",
     "nameWithOwner": "Chamal1120/chace.nvim",
     "primaryLanguage": {
       "color": "#000080",

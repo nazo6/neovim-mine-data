@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Paste"
+        },
+        {
+          "level": 3,
+          "name": "Wise paste"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-28T20:35:31Z",
+    "description": "Adds keys to cut and paste and make the result appropriately spaced",
+    "isArchived": false,
+    "lastCommit": "2025-12-28T21:10:29Z",
+    "nameWithOwner": "tzhouhc/interspaced.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "interspaced.nvim",
+  "owner": "tzhouhc",
+  "url": "https://github.com/tzhouhc/interspaced.nvim"
+}

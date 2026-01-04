@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Maven"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2025-12-27T20:04:43Z",
+    "description": "For mvn command for neovim, like mvn cli, mvn create project, starter.spring.io create.",
+    "isArchived": false,
+    "lastCommit": "2025-12-27T20:49:51Z",
+    "nameWithOwner": "yonchando/maven.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "maven.nvim",
+  "owner": "yonchando",
+  "url": "https://github.com/yonchando/maven.nvim"
+}

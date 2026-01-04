@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "non-monospace"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2025-12-29T16:39:24Z",
+    "description": "neovim gui with non-monospace font support",
+    "isArchived": false,
+    "lastCommit": "2026-01-04T09:58:14Z",
+    "nameWithOwner": "thjbdvlt/leguinvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 9,
+    "topics": [
+      "gtk",
+      "neovim",
+      "neovim-gui",
+      "prose-poetry",
+      "writing-tool",
+      "nvim-gui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "leguinvim",
+  "owner": "thjbdvlt",
+  "url": "https://github.com/thjbdvlt/leguinvim"
+}

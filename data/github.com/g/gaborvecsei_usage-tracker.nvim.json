@@ -22,7 +22,11 @@
         },
         {
           "level": 2,
-          "name": "Utility"
+          "name": "Workflow"
+        },
+        {
+          "level": 3,
+          "name": "Stats Tracking"
         }
       ],
       "file": "README.md",
@@ -40,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 131,
+    "star": 130,
     "topics": [
       "neovim",
       "nvim",

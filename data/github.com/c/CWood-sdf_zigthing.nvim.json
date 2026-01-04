@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Zig"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-01T23:08:38Z",
+    "description": "Gets zig compiler diagnostics into neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T01:35:52Z",
+    "nameWithOwner": "CWood-sdf/zigthing.nvim",
+    "primaryLanguage": {
+      "color": "#ec915c",
+      "name": "Zig"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zigthing.nvim",
+  "owner": "CWood-sdf",
+  "url": "https://github.com/CWood-sdf/zigthing.nvim"
+}

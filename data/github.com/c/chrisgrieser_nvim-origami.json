@@ -22,7 +22,11 @@
         },
         {
           "level": 2,
-          "name": "Utility"
+          "name": "Editing Support"
+        },
+        {
+          "level": 3,
+          "name": "Folding"
         }
       ],
       "file": "README.md",
@@ -30,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 139,
+    "commitCountLastYear": 140,
     "createdAt": "2023-07-27T15:33:56Z",
     "description": "Fold with relentless elegance. A collection of quality-of-life features related to folding.",
     "isArchived": false,
-    "lastCommit": "2025-12-27T10:40:11Z",
+    "lastCommit": "2025-12-30T11:07:50Z",
     "nameWithOwner": "chrisgrieser/nvim-origami",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 443,
+    "star": 444,
     "topics": [
       "folding",
       "nvim-plugin",

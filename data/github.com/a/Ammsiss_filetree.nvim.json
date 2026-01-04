@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "Tree View"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-12-30T21:00:13Z",
+    "description": "File tree plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-02T22:53:52Z",
+    "nameWithOwner": "Ammsiss/filetree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "filetree.nvim",
+  "owner": "Ammsiss",
+  "url": "https://github.com/Ammsiss/filetree.nvim"
+}

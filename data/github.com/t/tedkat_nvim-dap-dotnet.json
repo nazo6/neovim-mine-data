@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-12-28T22:33:25Z",
+    "description": "This module provides functionality to locate and build .NET artifact DLLs for debugging.",
+    "isArchived": false,
+    "lastCommit": "2025-12-31T02:29:35Z",
+    "nameWithOwner": "tedkat/nvim-dap-dotnet",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-dotnet",
+  "owner": "tedkat",
+  "url": "https://github.com/tedkat/nvim-dap-dotnet"
+}

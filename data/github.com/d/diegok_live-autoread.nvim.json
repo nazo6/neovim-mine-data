@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "auto reload"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-12-27T21:44:54Z",
+    "description": "True auto-refresh for visible buffers in Neovim",
+    "isArchived": false,
+    "lastCommit": "2025-12-28T13:07:31Z",
+    "nameWithOwner": "diegok/live-autoread.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "live-autoread.nvim",
+  "owner": "diegok",
+  "url": "https://github.com/diegok/live-autoread.nvim"
+}

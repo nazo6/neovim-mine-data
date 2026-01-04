@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Password Manager"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-01-02T19:02:32Z",
+    "description": "A neovim snacks picker for pass, the standard unix password manager.",
+    "isArchived": false,
+    "lastCommit": "2026-01-04T04:55:57Z",
+    "nameWithOwner": "davidmh/pass.nvim",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 1,
+    "topics": [
+      "gpg",
+      "neovim",
+      "password-manager",
+      "snacks-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pass.nvim",
+  "owner": "davidmh",
+  "url": "https://github.com/davidmh/pass.nvim"
+}

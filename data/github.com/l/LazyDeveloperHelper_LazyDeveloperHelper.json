@@ -1,0 +1,69 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Dependency Management"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
+          "name": "build manager"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 520,
+    "createdAt": "2025-07-07T15:24:00Z",
+    "description": "Too lazy for write \"pip install -r requirements.txt\", or \"cargo add ...\".. or maybe.. \"luarocks install ..\" and writing it to requirements file? Thats plugin or you!",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T17:47:09Z",
+    "nameWithOwner": "LazyDeveloperHelper/LazyDeveloperHelper",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 9,
+    "topics": [
+      "automation",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "pip",
+      "plugin",
+      "awesome",
+      "awesome-list",
+      "autoinstaller",
+      "c"
+    ]
+  },
+  "domain": "github.com",
+  "name": "LazyDeveloperHelper",
+  "owner": "LazyDeveloperHelper",
+  "url": "https://github.com/Silletr/LazyDeveloperHelper"
+}

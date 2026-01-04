@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Checker"
+        },
+        {
+          "level": 3,
+          "name": "Update check"
+        }
+      ],
+      "file": "checker.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 52,
+    "createdAt": "2025-12-31T06:05:47Z",
+    "description": "Inline dependency version checker for Neovim. Shows outdated packages directly in your manifests with color-coded hints.",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T12:20:49Z",
+    "nameWithOwner": "1NickPappas/canary.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "canary.nvim",
+  "owner": "1NickPappas",
+  "url": "https://github.com/1NickPappas/canary.nvim"
+}
