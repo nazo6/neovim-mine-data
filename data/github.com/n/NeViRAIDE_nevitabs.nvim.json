@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Tab"
-        }
       ],
-      "file": "tab.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2024-05-20T06:35:33Z",
     "description": "NeViRAIDE buffers and tabs interactive line",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-07-13T07:18:51Z",
     "nameWithOwner": "NeViRAIDE/nevitabs.nvim",
     "primaryLanguage": {

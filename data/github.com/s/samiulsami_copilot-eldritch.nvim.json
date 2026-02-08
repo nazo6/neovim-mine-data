@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Copilot"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-01-18T18:30:56Z",
+    "description": "Lovecraftian loading spinner for Copilot.lua",
+    "isArchived": false,
+    "lastCommit": "2026-01-18T18:40:28Z",
+    "nameWithOwner": "samiulsami/copilot-eldritch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 16,
+    "topics": [
+      "copilot",
+      "neovim",
+      "neovim-plugin",
+      "spinner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "copilot-eldritch.nvim",
+  "owner": "samiulsami",
+  "url": "https://github.com/samiulsami/copilot-eldritch.nvim"
+}

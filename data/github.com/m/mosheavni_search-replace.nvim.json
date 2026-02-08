@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Replace"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-01-20T06:57:09Z",
+    "description": "My customized search and replace utils",
+    "isArchived": false,
+    "lastCommit": "2026-01-26T09:13:39Z",
+    "nameWithOwner": "mosheavni/search-replace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "search-replace.nvim",
+  "owner": "mosheavni",
+  "url": "https://github.com/mosheavni/search-replace.nvim"
+}

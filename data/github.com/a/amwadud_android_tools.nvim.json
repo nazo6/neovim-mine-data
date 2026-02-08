@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Android"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2025-03-05T16:45:33Z",
+    "description": "Android dev but on neovim!",
+    "isArchived": false,
+    "lastCommit": "2025-03-06T02:08:43Z",
+    "nameWithOwner": "amwadud/android_tools.nvim",
+    "star": 3,
+    "topics": [
+      "android",
+      "neovim",
+      "neovim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "android_tools.nvim",
+  "owner": "amwadud",
+  "url": "https://github.com/aehabdelouadoud/android_tools.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-14T11:55:19Z",
+    "description": "Apply Code Rabbit diffs in nvim",
+    "isArchived": false,
+    "lastCommit": "2026-01-14T11:52:57Z",
+    "nameWithOwner": "KyleKing/patch_it.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "patch_it.nvim",
+  "owner": "KyleKing",
+  "url": "https://github.com/KyleKing/patch_it.nvim"
+}

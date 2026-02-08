@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pomodoro"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2026-01-22T02:55:37Z",
+    "description": "time-bomb.nvim is a minimal Neovim plugin for timers and Pomodoro cycles to boost developer focus. Features floating timers, 6 progress bar styles, and customizable keymaps. Lightweight and intuitive",
+    "isArchived": false,
+    "lastCommit": "2026-01-22T19:17:10Z",
+    "nameWithOwner": "Lachignol/time-bomb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "nvim",
+      "pomodoro",
+      "productivity",
+      "timer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "time-bomb.nvim",
+  "owner": "Lachignol",
+  "url": "https://github.com/Lachignol/time-bomb.nvim"
+}

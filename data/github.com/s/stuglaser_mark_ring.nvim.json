@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-04T18:48:31Z",
+    "description": "Mark ring neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2026-01-04T18:50:28Z",
+    "nameWithOwner": "stuglaser/mark_ring.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mark_ring.nvim",
+  "owner": "stuglaser",
+  "url": "https://github.com/stuglaser/mark_ring.nvim"
+}

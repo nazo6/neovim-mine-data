@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Pull Request"
+        },
+        {
+          "level": 4,
+          "name": "Pull Request Comment"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-01-17T08:19:37Z",
+    "description": "Nit pick your coding agents! This plugin makes code reviews inside Neovim much easier.",
+    "isArchived": false,
+    "lastCommit": "2026-01-17T10:45:02Z",
+    "nameWithOwner": "tobias-walle/nit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nit.nvim",
+  "owner": "tobias-walle",
+  "url": "https://github.com/tobias-walle/nit.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "JSON"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-01-13T17:32:53Z",
+    "description": "Simple project task runner plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-14T11:15:29Z",
+    "nameWithOwner": "phtea/simple_tasks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple_tasks.nvim",
+  "owner": "phtea",
+  "url": "https://github.com/phtea/simple_tasks.nvim"
+}

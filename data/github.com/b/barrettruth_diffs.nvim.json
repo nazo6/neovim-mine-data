@@ -1,0 +1,59 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 161,
+    "createdAt": "2026-02-01T21:23:53Z",
+    "description": "treesitter syntax highlighting for diffs",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T21:59:48Z",
+    "nameWithOwner": "barrettruth/diffs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "treesitter",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "diffs.nvim",
+  "owner": "barrettruth",
+  "url": "https://github.com/barrettruth/diffs.nvim"
+}

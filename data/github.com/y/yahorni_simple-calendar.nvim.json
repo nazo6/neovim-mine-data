@@ -16,10 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 18,
     "createdAt": "2025-10-18T19:55:42Z",
+    "description": "Simple interactive calendar plugin for neovim with daily notes support",
     "isArchived": false,
-    "lastCommit": "2025-10-19T21:35:20Z",
+    "lastCommit": "2026-01-09T19:11:43Z",
     "nameWithOwner": "yahorni/simple-calendar.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -27,6 +28,9 @@
     },
     "star": 0,
     "topics": [
+      "calendar",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

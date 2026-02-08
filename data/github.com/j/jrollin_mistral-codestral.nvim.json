@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Mistral"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-03T14:40:07Z",
+    "description": "nvim mistral plugin for Mistral codestral code completion",
+    "isArchived": false,
+    "lastCommit": "2026-01-06T15:43:45Z",
+    "nameWithOwner": "jrollin/mistral-codestral.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "codestral",
+      "mistral",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mistral-codestral.nvim",
+  "owner": "jrollin",
+  "url": "https://github.com/jrollin/mistral-codestral.nvim"
+}

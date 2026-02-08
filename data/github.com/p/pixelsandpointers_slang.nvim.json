@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "WSL"
+        },
+        {
+          "level": 4,
+          "name": "Slang"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-06T16:40:53Z",
+    "description": "Fixes some common pain points with the Slang Shading Language LSP for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T17:08:50Z",
+    "nameWithOwner": "pixelsandpointers/slang.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "slang.nvim",
+  "owner": "pixelsandpointers",
+  "url": "https://github.com/pixelsandpointers/slang.nvim"
+}

@@ -2,30 +2,22 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Filer"
-        }
       ],
-      "file": "filer.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 11,
     "createdAt": "2024-05-29T10:12:35Z",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-09-15T00:55:21Z",
     "nameWithOwner": "mimikun/oil-image-preview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
     ]
   },

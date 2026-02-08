@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "WSL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-02T19:42:17Z",
+    "description": "Neovim plugin for WDL development powered by Sprocket",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T20:01:47Z",
+    "nameWithOwner": "stjude-rust-labs/sprocket.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sprocket.nvim",
+  "owner": "stjude-rust-labs",
+  "url": "https://github.com/stjude-rust-labs/sprocket.nvim"
+}

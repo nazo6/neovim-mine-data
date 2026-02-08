@@ -13,20 +13,34 @@
       ],
       "file": "test.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Test"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 48,
     "createdAt": "2025-12-21T15:29:10Z",
     "description": "Neovim plugin for displaying code coverage",
     "isArchived": false,
-    "lastCommit": "2025-12-21T16:11:18Z",
+    "lastCommit": "2026-01-19T15:25:16Z",
     "nameWithOwner": "mr-u0b0dy/crazy-coverage.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 8,
     "topics": [
       "coverage",
       "coverage-report",

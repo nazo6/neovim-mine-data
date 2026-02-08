@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "mark note"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-01-26T10:23:37Z",
+    "description": "A Neovim plugin to add annotations",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T08:36:49Z",
+    "nameWithOwner": "czheo/anno.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "anno.nvim",
+  "owner": "czheo",
+  "url": "https://github.com/czheo/anno.nvim"
+}

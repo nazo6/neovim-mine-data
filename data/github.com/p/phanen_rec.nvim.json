@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Video"
+        },
+        {
+          "level": 3,
+          "name": "Screen Recording"
+        }
+      ],
+      "file": "video.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-13T06:11:24Z",
+    "description": "Neovim screencast",
+    "isArchived": false,
+    "lastCommit": "2026-01-13T06:16:51Z",
+    "nameWithOwner": "phanen/rec.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ffmpeg",
+      "h264",
+      "libfreetype",
+      "libx264",
+      "nvim-plugin",
+      "screencast",
+      "ffi"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rec.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/rec.nvim"
+}

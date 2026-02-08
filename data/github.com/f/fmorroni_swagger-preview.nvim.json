@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        },
+        {
+          "level": 4,
+          "name": "OpenAPI"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-01-20T12:35:52Z",
+    "description": "Preview openapi specs with swagger",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T05:58:21Z",
+    "nameWithOwner": "fmorroni/swagger-preview.nvim",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "swagger-preview.nvim",
+  "owner": "fmorroni",
+  "url": "https://github.com/fmorroni/swagger-preview.nvim"
+}

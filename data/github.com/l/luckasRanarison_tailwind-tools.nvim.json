@@ -5,28 +5,10 @@
       ],
       "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
-        },
-        {
-          "level": 2,
-          "name": "Programming Languages Support"
-        },
-        {
-          "level": 3,
-          "name": "Web Development"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 15,
     "createdAt": "2024-03-17T17:43:07Z",
     "description": "An unofficial Tailwind CSS integration and tooling for Neovim",
     "isArchived": true,
@@ -36,7 +18,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 584,
+    "star": 587,
     "topics": [
       "lsp",
       "neovim",

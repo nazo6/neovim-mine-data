@@ -24,23 +24,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 42,
+    "commitCountLastYear": 47,
     "createdAt": "2025-05-03T12:17:31Z",
     "description": "Run Taskfile tasks inside Neovim with floating terminals, previews, and simple keymaps.",
     "isArchived": false,
-    "lastCommit": "2025-09-22T07:28:24Z",
+    "lastCommit": "2026-01-09T23:24:01Z",
     "nameWithOwner": "dasvh/taskfile.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 7,
     "topics": [
       "lua",
       "nvim",
       "nvim-plugin",
       "task",
-      "taskfile"
+      "taskfile",
+      "nvim-telescope"
     ]
   },
   "domain": "github.com",

@@ -13,20 +13,34 @@
       ],
       "file": "neovim-distribution.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Preconfigured Configuration"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 318,
+    "commitCountLastYear": 377,
     "createdAt": "2026-01-03T20:52:21Z",
     "description": "The over-engineered Neovim distribution for developers who want everything",
     "isArchived": false,
-    "lastCommit": "2025-12-23T09:26:33Z",
+    "lastCommit": "2026-02-01T14:32:03Z",
     "nameWithOwner": "abdellatif-temsamani/adev.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 0,
+    "star": 4,
     "topics": [
     ]
   },

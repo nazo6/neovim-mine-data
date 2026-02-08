@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "prefix(conventional-commits)"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-03T02:09:42Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-05T05:08:29Z",
+    "nameWithOwner": "TheOrangePuff/nvim-commit-prefix",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-commit-prefix",
+  "owner": "TheOrangePuff",
+  "url": "https://github.com/TheOrangePuff/nvim-commit-prefix"
+}

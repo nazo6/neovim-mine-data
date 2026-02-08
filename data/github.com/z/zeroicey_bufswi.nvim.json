@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-18T05:16:14Z",
+    "description": "Lightweight buffer switcher for Neovim. Opens a centered floating window listing your \"listed\" buffers (ordered by last used), with simple, ergonomic keys to move, select, and close. Minimal surface, no dependencies.",
+    "isArchived": false,
+    "lastCommit": "2026-01-18T06:01:58Z",
+    "nameWithOwner": "zeroicey/bufswi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "buffer-switcher"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufswi.nvim",
+  "owner": "zeroicey",
+  "url": "https://github.com/zeroicey/bufswi.nvim"
+}

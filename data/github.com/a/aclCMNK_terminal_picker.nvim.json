@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Selector"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-01-08T05:28:50Z",
+    "description": "A Neovim plugin for managing [vim-floaterm](https://github.com/voldikss/vim-floaterm) terminals with fuzzy finder integration. Easily create, select, and switch between floating terminals, with automatic terminal mode entry.",
+    "isArchived": false,
+    "lastCommit": "2026-01-14T02:52:00Z",
+    "nameWithOwner": "aclCMNK/terminal_picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "terminal_picker.nvim",
+  "owner": "aclCMNK",
+  "url": "https://github.com/aclCMNK/terminal_picker.nvim"
+}

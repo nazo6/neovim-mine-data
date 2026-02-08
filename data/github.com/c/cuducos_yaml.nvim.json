@@ -2,53 +2,23 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Configuration File"
-        },
-        {
-          "level": 3,
-          "name": "YAML"
-        }
       ],
-      "file": "configration-file.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
-        },
-        {
-          "level": 2,
-          "name": "Programming Languages Support"
-        },
-        {
-          "level": 3,
-          "name": "YAML"
-        }
-      ],
-      "file": "README.md",
-      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 16,
     "createdAt": "2021-06-09T20:10:54Z",
     "description": "🍒 YAML toolkit for Neovim users",
-    "isArchived": false,
-    "lastCommit": "2025-10-10T12:11:57Z",
+    "isArchived": true,
+    "lastCommit": "2026-01-04T21:11:52Z",
     "nameWithOwner": "cuducos/yaml.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 236,
+    "star": 237,
     "topics": [
       "neovim",
       "nvim",

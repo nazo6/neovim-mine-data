@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 72,
+    "createdAt": "2026-01-29T20:07:15Z",
+    "description": "Neovim plugin to run tasks from a lua script",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T01:16:59Z",
+    "nameWithOwner": "Arthur-Negrao-Smith/JustRun.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "JustRun.nvim",
+  "owner": "Arthur-Negrao-Smith",
+  "url": "https://github.com/Arthur-Negrao-Smith/JustRun.nvim"
+}

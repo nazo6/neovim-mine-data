@@ -1,0 +1,62 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Go to File"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-01-21T16:27:01Z",
+    "description": "🚀 Hop to files, not just words. Terminal-friendly file jumping for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T13:11:25Z",
+    "nameWithOwner": "nolleh/warp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "file-navigation",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "warp.nvim",
+  "owner": "nolleh",
+  "url": "https://github.com/nolleh/warp.nvim"
+}

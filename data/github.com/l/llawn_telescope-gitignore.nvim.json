@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "gitignore"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-02-03T18:56:42Z",
+    "description": "Telescope extension to select .gitignore templates",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T00:53:12Z",
+    "nameWithOwner": "llawn/telescope-gitignore.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "telescope-extension",
+      "telescope-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-gitignore.nvim",
+  "owner": "llawn",
+  "url": "https://github.com/llawn/telescope-gitignore.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Roblox studio"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-28T03:28:22Z",
+    "description": "Neovim plugin for browsing and editing Roblox DataStores via the Open Cloud API. Fully built by Claude Code.",
+    "isArchived": false,
+    "lastCommit": "2026-01-28T03:32:44Z",
+    "nameWithOwner": "weeaboo/datastores.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "datastores.nvim",
+  "owner": "weeaboo",
+  "url": "https://github.com/weeaboo/datastores.nvim"
+}

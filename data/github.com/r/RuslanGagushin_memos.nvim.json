@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-01-14T15:55:34Z",
+    "description": "Memos app plugin for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2026-01-22T06:10:47Z",
+    "nameWithOwner": "RuslanGagushin/memos.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "memos.nvim",
+  "owner": "RuslanGagushin",
+  "url": "https://github.com/RuslanGagushin/memos.nvim"
+}

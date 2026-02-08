@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-01-16T04:29:25Z",
+    "description": "Your statusline deserves a rainbow. nyan.nvim brings the iconic Nyan Cat to Neovim, complete with animated frames and a rainbow trail that grows as you scroll through your code.",
+    "isArchived": false,
+    "lastCommit": "2026-01-16T04:54:30Z",
+    "nameWithOwner": "abosnjakovic/nyan.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nyan.nvim",
+  "owner": "abosnjakovic",
+  "url": "https://github.com/abosnjakovic/nyan.nvim"
+}

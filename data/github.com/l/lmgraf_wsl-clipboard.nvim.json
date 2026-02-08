@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "WSL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-06T11:16:20Z",
+    "description": "The fastest way to sync your Windows and Neovim clipboards on WSL.",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T11:50:55Z",
+    "nameWithOwner": "lmgraf/wsl-clipboard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wsl-clipboard.nvim",
+  "owner": "lmgraf",
+  "url": "https://github.com/lmgraf/wsl-clipboard.nvim"
+}

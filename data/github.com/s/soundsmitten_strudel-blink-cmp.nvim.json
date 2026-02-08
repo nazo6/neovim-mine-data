@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Strudel"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-01-25T23:40:19Z",
+    "description": "blink.cmp source for Strudel",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T23:49:12Z",
+    "nameWithOwner": "soundsmitten/strudel-blink-cmp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "strudel-blink-cmp.nvim",
+  "owner": "soundsmitten",
+  "url": "https://github.com/soundsmitten/strudel-blink-cmp.nvim"
+}

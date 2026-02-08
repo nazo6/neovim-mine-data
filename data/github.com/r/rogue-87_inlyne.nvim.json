@@ -25,14 +25,32 @@
       ],
       "file": "documentation.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Markdown and LaTeX"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 38,
+    "commitCountLastYear": 48,
     "createdAt": "2025-07-24T16:32:36Z",
     "description": "Wrapper for inlyne markdown viewer",
     "isArchived": false,
-    "lastCommit": "2026-01-01T21:20:34Z",
+    "lastCommit": "2026-02-05T18:25:14Z",
     "nameWithOwner": "rogue-87/inlyne.nvim",
     "primaryLanguage": {
       "color": "#000080",

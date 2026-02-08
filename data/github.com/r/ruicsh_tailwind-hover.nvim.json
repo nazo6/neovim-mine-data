@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CSS"
+        },
+        {
+          "level": 3,
+          "name": "tailwind"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-01-18T21:48:21Z",
+    "description": "Shows consolidated Tailwind CSS styles applied to the element under the cursor.",
+    "isArchived": false,
+    "lastCommit": "2026-01-28T21:23:51Z",
+    "nameWithOwner": "ruicsh/tailwind-hover.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tailwind-hover.nvim",
+  "owner": "ruicsh",
+  "url": "https://github.com/ruicsh/tailwind-hover.nvim"
+}

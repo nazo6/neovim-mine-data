@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-04T14:30:56Z",
+    "description": "Gemini Code Assist Adapter for CodeCompanion",
+    "isArchived": false,
+    "lastCommit": "2026-01-04T19:05:16Z",
+    "nameWithOwner": "viespejo/cc-adapter-gemini-code-assist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cc-adapter-gemini-code-assist.nvim",
+  "owner": "viespejo",
+  "url": "https://github.com/viespejo/cc-adapter-gemini-code-assist.nvim"
+}

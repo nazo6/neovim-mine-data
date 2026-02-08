@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Blog"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-01-10T06:29:50Z",
+    "description": "A NeoVim based blog manaager",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T01:17:53Z",
+    "nameWithOwner": "MarellaB/nog.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nog.nvim",
+  "owner": "MarellaB",
+  "url": "https://github.com/MarellaB/nog.nvim"
+}

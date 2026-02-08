@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration"
+        },
+        {
+          "level": 3,
+          "name": "LLM CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-01-12T17:46:17Z",
+    "description": "Connects Fabric AI's 220+ patterns to Neovim. Select text, pick a pattern, get results in a floating window. No terminal round-trips.",
+    "isArchived": false,
+    "lastCommit": "2026-01-13T11:25:08Z",
+    "nameWithOwner": "PhantomYdn/fabric-ai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "ai",
+      "fabric",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "text-processing"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fabric-ai.nvim",
+  "owner": "PhantomYdn",
+  "url": "https://github.com/PhantomYdn/fabric-ai.nvim"
+}

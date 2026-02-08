@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "insert pairs"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-12T16:18:09Z",
+    "description": "Autoclose some matching characters with some advanced options.",
+    "isArchived": false,
+    "lastCommit": "2026-01-13T21:18:36Z",
+    "nameWithOwner": "byitkc/autoclose.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "autoclose.nvim",
+  "owner": "byitkc",
+  "url": "https://github.com/byitkc/autoclose.nvim"
+}

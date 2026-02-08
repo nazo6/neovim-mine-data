@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Ember"
+        },
+        {
+          "level": 4,
+          "name": "p5.js"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 83,
+    "createdAt": "2026-01-07T15:55:10Z",
+    "description": "Better editor support for p5.js workspaces in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T09:56:07Z",
+    "nameWithOwner": "prjctimg/p5.nvim",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "star": 12,
+    "topics": [
+      "neovim-plugin",
+      "p5-js",
+      "live-server",
+      "lua",
+      "manpages",
+      "scaffold-template",
+      "snippets",
+      "typescript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "p5.nvim",
+  "owner": "prjctimg",
+  "url": "https://github.com/prjctimg/p5.nvim"
+}

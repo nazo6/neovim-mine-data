@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Terraform"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-06T04:31:42Z",
+    "description": "A Neovim plugin that extracts Terraform resource addresses from your cursor position",
+    "isArchived": false,
+    "lastCommit": "2026-02-05T08:32:55Z",
+    "nameWithOwner": "ellsclytn/terraform-address.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "terraform-address.nvim",
+  "owner": "ellsclytn",
+  "url": "https://github.com/ellsclytn/terraform-address.nvim"
+}

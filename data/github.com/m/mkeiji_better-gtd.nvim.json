@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Definition, Reference"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-05T04:03:18Z",
+    "description": "A smarter go-to-definition plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-05T04:07:08Z",
+    "nameWithOwner": "mkeiji/better-gtd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "better-gtd.nvim",
+  "owner": "mkeiji",
+  "url": "https://github.com/mkeiji/better-gtd.nvim"
+}

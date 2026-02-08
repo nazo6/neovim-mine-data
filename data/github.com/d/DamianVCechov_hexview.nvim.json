@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hex"
+        },
+        {
+          "level": 3,
+          "name": "Hex Editor"
+        }
+      ],
+      "file": "hex.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-01-24T08:04:43Z",
+    "description": "A Neovim plugin that creates a hex editing mode.",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T07:40:27Z",
+    "nameWithOwner": "DamianVCechov/hexview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hexview.nvim",
+  "owner": "DamianVCechov",
+  "url": "https://github.com/DamianVCechov/hexview.nvim"
+}

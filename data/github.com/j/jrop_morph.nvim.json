@@ -13,20 +13,34 @@
       ],
       "file": "neovim-lua-library.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Lua Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 41,
     "createdAt": "2025-10-14T02:21:07Z",
     "description": "React-like renderer for Neovim",
     "isArchived": false,
-    "lastCommit": "2026-01-03T15:58:03Z",
+    "lastCommit": "2026-02-05T04:56:08Z",
     "nameWithOwner": "jrop/morph.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 53,
+    "star": 94,
     "topics": [
       "hyperscript",
       "nvim",
@@ -34,7 +48,8 @@
       "react",
       "reactive",
       "reactive-state",
-      "renderer"
+      "renderer",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

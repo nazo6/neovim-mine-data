@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Template"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-08T10:35:50Z",
+    "description": "File generation Neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2026-01-15T19:36:05Z",
+    "nameWithOwner": "Sqbika/filegen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "filegen.nvim",
+  "owner": "Sqbika",
+  "url": "https://github.com/Sqbika/filegen.nvim"
+}

@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Chat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 53,
+    "createdAt": "2026-02-02T11:12:57Z",
+    "description": "A lightweight Lua chat plugin for Neovim with AI integration.",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T18:05:48Z",
+    "nameWithOwner": "wsdjeg/chat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chat.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/chat.nvim"
+}

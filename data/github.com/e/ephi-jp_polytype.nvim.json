@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Natural Languages"
+        }
+      ],
+      "file": "natural-languages.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-21T15:46:05Z",
+    "description": "Seamless polyglot typing for diacritics, Cyrillic, and Greek in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T07:30:46Z",
+    "nameWithOwner": "ephi-jp/polytype.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "polytype.nvim",
+  "owner": "ephi-jp",
+  "url": "https://github.com/ephi-jp/polytype.nvim"
+}

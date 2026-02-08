@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-23T00:13:18Z",
+    "description": "A Neovim plugin for reviewing git diffs file by file using vim-fugitive",
+    "isArchived": false,
+    "lastCommit": "2026-01-27T18:26:48Z",
+    "nameWithOwner": "LuccaRomanelli/git-review.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-review.nvim",
+  "owner": "LuccaRomanelli",
+  "url": "https://github.com/LuccaRomanelli/git-review.nvim"
+}

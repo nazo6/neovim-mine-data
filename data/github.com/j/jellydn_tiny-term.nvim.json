@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2026-02-06T00:51:50Z",
+    "description": "A minimal, standalone Neovim 0.11+ terminal",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T04:27:16Z",
+    "nameWithOwner": "jellydn/tiny-term.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tiny-term.nvim",
+  "owner": "jellydn",
+  "url": "https://github.com/jellydn/tiny-term.nvim"
+}

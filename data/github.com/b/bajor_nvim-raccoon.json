@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Pull Request"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 114,
+    "createdAt": "2026-01-31T07:15:05Z",
+    "description": "Neovim plugin for reviewing PRs and browsing commits",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T08:13:43Z",
+    "nameWithOwner": "bajor/nvim-raccoon",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-raccoon",
+  "owner": "bajor",
+  "url": "https://github.com/bajor/nvim-raccoon"
+}

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "MantisBT"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 164,
+    "createdAt": "2026-01-12T22:13:03Z",
+    "description": "MantisBT plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-28T19:10:31Z",
+    "nameWithOwner": "whleucka/mantis.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "bug-tracker",
+      "feature-tracking",
+      "issue-tracker",
+      "mantisbt",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mantis.nvim",
+  "owner": "whleucka",
+  "url": "https://github.com/whleucka/mantis.nvim"
+}

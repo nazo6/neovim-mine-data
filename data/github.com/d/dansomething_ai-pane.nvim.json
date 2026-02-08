@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 13,
     "createdAt": "2025-12-01T17:42:08Z",
     "description": "A Neovim plugin for seamless integration with AI CLIs (Claude, Copilot, etc.) using tmux.",
     "isArchived": false,
-    "lastCommit": "2025-12-18T17:02:05Z",
+    "lastCommit": "2026-01-22T17:06:32Z",
     "nameWithOwner": "dansomething/ai-pane.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,16 @@
     },
     "star": 3,
     "topics": [
+      "neovim",
+      "nvim",
+      "plugin",
+      "terminal",
+      "ai-agents",
+      "ai-assistant",
+      "neovim-plugin",
+      "claude-code",
+      "opencode",
+      "copilot-cli"
     ]
   },
   "domain": "github.com",

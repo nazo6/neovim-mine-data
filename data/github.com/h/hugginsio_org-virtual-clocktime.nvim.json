@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-25T16:07:52Z",
+    "description": "Sum logbook clocktime with virtual text",
+    "isArchived": false,
+    "lastCommit": "2026-01-29T03:14:28Z",
+    "nameWithOwner": "hugginsio/org-virtual-clocktime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "orgmode",
+      "orgmode-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "org-virtual-clocktime.nvim",
+  "owner": "hugginsio",
+  "url": "https://github.com/productivitykit/org-virtual-clocktime.nvim"
+}

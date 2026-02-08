@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Pull Request"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 61,
+    "createdAt": "2026-01-20T00:02:31Z",
+    "description": "Nvim plugin for reviewing PRs with side by side diffs, inline comments, and persistent review state.",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T18:17:19Z",
+    "nameWithOwner": "0xKitsune/pr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pr.nvim",
+  "owner": "0xKitsune",
+  "url": "https://github.com/0xKitsune/pr.nvim"
+}

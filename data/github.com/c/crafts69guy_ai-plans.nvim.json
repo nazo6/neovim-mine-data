@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plan"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-01-18T04:19:22Z",
+    "description": "A Telescope extension for Neovim to browse, search, and manage AI-generated plan files from Claude, ChatGPT, and more.",
+    "isArchived": false,
+    "lastCommit": "2026-01-21T01:34:15Z",
+    "nameWithOwner": "crafts69guy/ai-plans.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ai",
+      "file-management",
+      "markdown",
+      "neovim",
+      "productivity",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ai-plans.nvim",
+  "owner": "crafts69guy",
+  "url": "https://github.com/crafts69guy/ai-plans.nvim"
+}

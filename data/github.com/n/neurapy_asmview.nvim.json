@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Disassemble"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-11T02:30:33Z",
+    "description": "View the decompiled assembly next to the code your writing",
+    "isArchived": false,
+    "lastCommit": "2026-01-11T07:25:22Z",
+    "nameWithOwner": "neurapy/asmview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "asmview.nvim",
+  "owner": "neurapy",
+  "url": "https://github.com/neurapy/asmview.nvim"
+}

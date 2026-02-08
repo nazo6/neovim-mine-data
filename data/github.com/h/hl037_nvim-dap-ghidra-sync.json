@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-18T03:01:39Z",
+    "description": "nvim-dap --> ghidra session synchronization",
+    "isArchived": false,
+    "lastCommit": "2026-01-18T03:13:25Z",
+    "nameWithOwner": "hl037/nvim-dap-ghidra-sync",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-ghidra-sync",
+  "owner": "hl037",
+  "url": "https://github.com/hl037/nvim-dap-ghidra-sync"
+}

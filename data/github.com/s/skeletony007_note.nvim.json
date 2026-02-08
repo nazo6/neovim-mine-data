@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-01-23T03:07:53Z",
+    "description": "Simple notes manager for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-30T00:32:34Z",
+    "nameWithOwner": "skeletony007/note.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "note.nvim",
+  "owner": "skeletony007",
+  "url": "https://github.com/skeletony007/note.nvim"
+}

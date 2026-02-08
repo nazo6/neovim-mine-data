@@ -2,24 +2,14 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
-          "name": "Terminal"
-        },
-        {
-          "level": 4,
-          "name": "Kitty"
-        }
       ],
-      "file": "integration-apps.md",
+      "file": "Archived.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+      ],
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -35,35 +25,13 @@
       ],
       "file": "README.md",
       "source": "https://github.com/rockerBOO/awesome-neovim"
-    },
-    {
-      "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Development environment"
-        },
-        {
-          "level": 3,
-          "name": "Terminal"
-        },
-        {
-          "level": 4,
-          "name": "Kitty"
-        }
-      ],
-      "file": "integration-apps.md",
-      "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 0,
     "createdAt": "2023-08-31T08:09:32Z",
     "description": "Neovim Kitty Font Changer",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-09-30T12:07:39Z",
     "nameWithOwner": "NeViRAIDE/nekifoch.nvim",
     "primaryLanguage": {
@@ -82,5 +50,5 @@
   "domain": "github.com",
   "name": "nekifoch.nvim",
   "owner": "NeViRAIDE",
-  "url": "https://github.com/NeViRAIDE/nekifoch.nvim"
+  "url": "https://github.com/RAprogramm/nekifoch"
 }

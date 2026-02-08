@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-01-20T17:32:19Z",
+    "description": "A minimal Neovim plugin to save your personal notes.",
+    "isArchived": false,
+    "lastCommit": "2026-01-20T22:02:39Z",
+    "nameWithOwner": "Mathiew82/mynotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "notes",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mynotes.nvim",
+  "owner": "Mathiew82",
+  "url": "https://github.com/Mathiew82/mynotes.nvim"
+}

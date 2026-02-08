@@ -30,7 +30,7 @@
         },
         {
           "level": 3,
-          "name": "Boilerplate"
+          "name": "Plugin Template"
         }
       ],
       "file": "README.md",
@@ -38,11 +38,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 263,
+    "commitCountLastYear": 291,
     "createdAt": "2025-06-12T19:31:09Z",
     "description": "The Spring Initializr for Neovim.",
     "isArchived": false,
-    "lastCommit": "2025-12-19T22:26:16Z",
+    "lastCommit": "2026-02-07T22:40:06Z",
     "nameWithOwner": "jkeresman01/spring-initializr.nvim",
     "primaryLanguage": {
       "color": "#000080",

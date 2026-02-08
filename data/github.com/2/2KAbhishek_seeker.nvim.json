@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 48,
+    "createdAt": "2025-10-22T02:40:03Z",
+    "description": "Progressive file seeker for Neovim 🔍🎯",
+    "isArchived": false,
+    "lastCommit": "2026-02-05T01:03:41Z",
+    "nameWithOwner": "2KAbhishek/seeker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 114,
+    "topics": [
+      "cli",
+      "fuzzy-search",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "seeker.nvim",
+  "owner": "2KAbhishek",
+  "url": "https://github.com/2KAbhishek/seeker.nvim"
+}

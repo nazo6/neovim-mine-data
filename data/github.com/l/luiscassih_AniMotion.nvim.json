@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 35,
+    "commitCountLastYear": 11,
     "createdAt": "2025-01-28T21:46:41Z",
     "description": "A Neovim plugin that implements selection-first text editing, similar to Kakoune and Helix editors. Lets you see your selection as you travel, allowing quick operations like change, delete, or yank. Works in normal mode with configurable selection modes.",
     "isArchived": false,
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 38,
+    "star": 37,
     "topics": [
       "lua",
       "neovim",

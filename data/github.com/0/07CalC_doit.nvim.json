@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        },
+        {
+          "level": 4,
+          "name": "Taskwarrior"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-02-01T12:33:31Z",
+    "description": "keep project-wise todo-list, which you're obv not gonna complete",
+    "isArchived": false,
+    "lastCommit": "2026-02-01T13:53:25Z",
+    "nameWithOwner": "07CalC/doit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "doit.nvim",
+  "owner": "07CalC",
+  "url": "https://github.com/07CalC/doit.nvim"
+}

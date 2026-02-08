@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2024-07-20T15:22:03Z",
+    "description": "auto switch IME for neovim. 如何在 Vim 中方便的输入汉字（CJKV characters）",
+    "isArchived": false,
+    "lastCommit": "2026-01-17T07:32:24Z",
+    "nameWithOwner": "Vim-cn/ime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 14,
+    "topics": [
+      "fcitx5",
+      "ibus",
+      "lua",
+      "neovim",
+      "rime",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ime.nvim",
+  "owner": "Vim-cn",
+  "url": "https://github.com/Freed-Wu/ime.nvim"
+}

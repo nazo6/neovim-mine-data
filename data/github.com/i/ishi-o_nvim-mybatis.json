@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "MyBatis"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 56,
+    "createdAt": "2026-01-18T10:39:24Z",
+    "description": "Lightning-fast MyBatis navigation for Neovim, powered by Tree-sitter.",
+    "isArchived": false,
+    "lastCommit": "2026-01-22T15:13:01Z",
+    "nameWithOwner": "ishi-o/nvim-mybatis",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "java",
+      "mybatis",
+      "mybatis3",
+      "neovim",
+      "nvim",
+      "nvim-treesitter",
+      "tree-sitter",
+      "treesitter",
+      "xml"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mybatis",
+  "owner": "ishi-o",
+  "url": "https://github.com/ishi-o/nvim-mybatis"
+}

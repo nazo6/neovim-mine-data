@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Statusline component"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2026-01-07T09:54:18Z",
+    "description": "Show raw, gzip, and brotli bundle sizes for the current buffer directly in your Neovim statusline.",
+    "isArchived": false,
+    "lastCommit": "2026-01-09T09:22:38Z",
+    "nameWithOwner": "CrestNiraj12/compress-size.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "compression",
+      "lua-script",
+      "neovim",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "compress-size.nvim",
+  "owner": "CrestNiraj12",
+  "url": "https://github.com/CrestNiraj12/bundle-size.nvim"
+}

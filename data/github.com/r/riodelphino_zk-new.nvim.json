@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-16T17:58:26Z",
+    "description": "An extension for zk-org/zk-nvim that provides interactive selection for creating new notes.",
+    "isArchived": false,
+    "lastCommit": "2026-01-16T19:49:17Z",
+    "nameWithOwner": "riodelphino/zk-new.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zk-new.nvim",
+  "owner": "riodelphino",
+  "url": "https://github.com/riodelphino/zk-new.nvim"
+}

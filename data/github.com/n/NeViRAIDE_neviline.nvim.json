@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Statusline"
-        }
       ],
-      "file": "statusline.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2024-05-19T23:22:32Z",
     "description": "NeViRAIDE status line.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-07-06T14:11:30Z",
     "nameWithOwner": "NeViRAIDE/neviline.nvim",
     "primaryLanguage": {

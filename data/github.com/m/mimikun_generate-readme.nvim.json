@@ -2,27 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "Template"
-        },
-        {
-          "level": 4,
-          "name": "README"
-        }
       ],
-      "file": "snippet_template.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 10,
     "createdAt": "2024-04-23T10:19:34Z",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-09-15T02:36:34Z",
     "nameWithOwner": "mimikun/generate-readme.nvim",
     "primaryLanguage": {

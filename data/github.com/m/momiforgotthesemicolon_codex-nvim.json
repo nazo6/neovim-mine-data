@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        },
+        {
+          "level": 4,
+          "name": "Codex"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2026-01-04T21:48:25Z",
+    "description": "plugin that runs codex in place",
+    "isArchived": false,
+    "lastCommit": "2026-01-18T21:00:03Z",
+    "nameWithOwner": "momiforgotthesemicolon/codex-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "codex",
+      "lazy",
+      "neovim",
+      "openai",
+      "plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codex-nvim",
+  "owner": "momiforgotthesemicolon",
+  "url": "https://github.com/momiforgotthesemicolon/codex-nvim"
+}

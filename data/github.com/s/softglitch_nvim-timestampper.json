@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Date"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-01-16T07:16:47Z",
+    "description": "Timestamp converter plugin for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2026-01-16T07:24:12Z",
+    "nameWithOwner": "softglitch/nvim-timestampper",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-timestampper",
+  "owner": "softglitch",
+  "url": "https://github.com/softglitch/nvim-timestampper"
+}

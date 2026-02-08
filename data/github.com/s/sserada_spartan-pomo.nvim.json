@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pomodoro"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2026-01-21T22:19:24Z",
+    "description": "A Neovim Pomodoro timer that forces you to rest. It locks your screen and disables input during breaks.",
+    "isArchived": false,
+    "lastCommit": "2026-01-21T23:57:35Z",
+    "nameWithOwner": "sserada/spartan-pomo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "pomodoro",
+      "time-management"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spartan-pomo.nvim",
+  "owner": "sserada",
+  "url": "https://github.com/sserada/spartan-pomo.nvim"
+}

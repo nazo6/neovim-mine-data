@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Track"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-02-05T22:10:42Z",
+    "description": "look at your WHOOP data from nvim",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T02:59:59Z",
+    "nameWithOwner": "idossha/whoop.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "whoop.nvim",
+  "owner": "idossha",
+  "url": "https://github.com/idossha/whoop.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Copy File Context"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-02-05T13:15:16Z",
+    "description": "Copy code with rich context (file paths, line numbers, language detection) formatted for pasting into LLM prompts.  Think of it as a Copy for AI button in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T06:18:04Z",
+    "nameWithOwner": "polacekpavel/prompt-yank.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "prompt",
+      "prompt-engineering"
+    ]
+  },
+  "domain": "github.com",
+  "name": "prompt-yank.nvim",
+  "owner": "polacekpavel",
+  "url": "https://github.com/polacekpavel/prompt-yank.nvim"
+}

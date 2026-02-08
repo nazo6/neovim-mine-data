@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-01-05T20:30:18Z",
+    "description": "A Neovim plugin for streamlined daily note-taking",
+    "isArchived": false,
+    "lastCommit": "2026-01-05T20:31:04Z",
+    "nameWithOwner": "ckyrouac/nfc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nfc.nvim",
+  "owner": "ckyrouac",
+  "url": "https://github.com/ckyrouac/nfc.nvim"
+}

@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        },
+        {
+          "level": 4,
+          "name": "Gemini CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-01-19T00:32:36Z",
+    "description": "gemini cli integration for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T20:05:01Z",
+    "nameWithOwner": "zaucy/gemini.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "gemini-cli",
+      "mcp",
+      "mcp-server",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gemini.nvim",
+  "owner": "zaucy",
+  "url": "https://github.com/zaucy/gemini.nvim"
+}

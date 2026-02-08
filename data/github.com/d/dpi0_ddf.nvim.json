@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-05T08:12:13Z",
+    "description": "Shows a delta diff b/w working tree and staging area for the current buffer",
+    "isArchived": false,
+    "lastCommit": "2026-01-05T10:34:14Z",
+    "nameWithOwner": "dpi0/ddf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "delta",
+      "git-delta",
+      "git-diff",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ddf.nvim",
+  "owner": "dpi0",
+  "url": "https://github.com/dpi0/ddf.nvim"
+}

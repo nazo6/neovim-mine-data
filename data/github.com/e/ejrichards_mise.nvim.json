@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "CLI"
-        },
-        {
-          "level": 4,
-          "name": "mise"
-        }
       ],
-      "file": "cli.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 2,
     "createdAt": "2024-06-18T21:37:37Z",
     "description": "3rd party Neovim plugin that compliments https://mise.jdx.dev/",
-    "isArchived": false,
-    "lastCommit": "2024-12-18T16:06:23Z",
+    "isArchived": true,
+    "lastCommit": "2026-01-08T02:23:38Z",
     "nameWithOwner": "ejrichards/mise.nvim",
     "primaryLanguage": {
       "color": "#000080",

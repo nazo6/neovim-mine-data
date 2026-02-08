@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tab"
+        }
+      ],
+      "file": "tab.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-13T18:57:17Z",
+    "description": "Simple, fast & customisable tab manager for neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-14T17:04:51Z",
+    "nameWithOwner": "Gheruha/tabman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tabman.nvim",
+  "owner": "Gheruha",
+  "url": "https://github.com/Gheruha/tabman.nvim"
+}

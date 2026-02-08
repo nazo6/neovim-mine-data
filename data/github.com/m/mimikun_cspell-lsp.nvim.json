@@ -2,27 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Spell"
-        },
-        {
-          "level": 3,
-          "name": "Spellcheck"
-        }
       ],
-      "file": "spellcheck.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 9,
     "createdAt": "2025-02-06T13:08:44Z",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-09-15T02:36:38Z",
     "nameWithOwner": "mimikun/cspell-lsp.nvim",
     "primaryLanguage": {

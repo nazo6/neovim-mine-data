@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Animation"
+        }
+      ],
+      "file": "animation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 95,
+    "createdAt": "2026-02-04T12:41:49Z",
+    "description": "Cinematic text animation for Neovim dashboards. Watch your ASCII art materialize from chaos.",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T19:51:20Z",
+    "nameWithOwner": "giuseppesalvi/nvim-ascii-animation",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ascii-animation",
+  "owner": "giuseppesalvi",
+  "url": "https://github.com/giuseppesalvi/nvim-ascii-animation"
+}

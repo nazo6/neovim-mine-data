@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Mistral"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-01-18T14:10:07Z",
+    "description": "Plugin nvim written in Rust to create chat based file and FIM. It can run function tools.",
+    "isArchived": false,
+    "lastCommit": "2026-01-20T12:50:55Z",
+    "nameWithOwner": "ide-outils/mistral_nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mistral_nvim",
+  "owner": "ide-outils",
+  "url": "https://github.com/ide-outils/mistral_nvim"
+}

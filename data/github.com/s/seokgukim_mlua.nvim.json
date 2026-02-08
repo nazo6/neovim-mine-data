@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Programing Language / Framework"
+          "name": "WSL"
         },
         {
           "level": 4,
@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 49,
+    "commitCountLastYear": 53,
     "createdAt": "2025-11-07T21:16:02Z",
     "description": "Neovim integration for MapleStory Worlds mLua support",
     "isArchived": false,
-    "lastCommit": "2025-12-31T12:35:03Z",
+    "lastCommit": "2026-01-25T22:16:53Z",
     "nameWithOwner": "seokgukim/mlua.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 5,
+    "star": 6,
     "topics": [
       "languageserverprotocol",
       "neovim",

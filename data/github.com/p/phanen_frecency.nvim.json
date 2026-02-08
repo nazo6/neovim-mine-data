@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "oldfiles"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-06T10:11:56Z",
+    "description": "Frecency files",
+    "isArchived": false,
+    "lastCommit": "2026-01-21T04:09:23Z",
+    "nameWithOwner": "phanen/frecency.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "frecency",
+      "mmap",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "frecency.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/frecency.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "Oracle"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-25T17:22:12Z",
+    "description": "PL/SQL and SQL keyword completion source for blink.cmp",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T20:37:23Z",
+    "nameWithOwner": "pompos02/blink-cmp-plsql.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-plsql.nvim",
+  "owner": "pompos02",
+  "url": "https://github.com/pompos02/blink-cmp-plsql.nvim"
+}

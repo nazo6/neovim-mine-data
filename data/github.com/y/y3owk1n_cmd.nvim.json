@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Command"
-        },
-        {
-          "level": 3,
-          "name": "Shell"
-        }
       ],
-      "file": "command.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 33,
     "createdAt": "2025-08-09T10:31:00Z",
     "description": "Execute CLI commands seamlessly in Neovim with async execution, progress notifications, and smart completion",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-12-14T05:38:54Z",
     "nameWithOwner": "y3owk1n/cmd.nvim",
     "primaryLanguage": {

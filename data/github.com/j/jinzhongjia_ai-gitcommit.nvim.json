@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2026-01-13T14:03:22Z",
+    "description": "generate with git commit",
+    "isArchived": false,
+    "lastCommit": "2026-01-24T04:12:31Z",
+    "nameWithOwner": "jinzhongjia/ai-gitcommit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ai-gitcommit.nvim",
+  "owner": "jinzhongjia",
+  "url": "https://github.com/jinzhongjia/ai-gitcommit.nvim"
+}

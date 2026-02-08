@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Test"
+        },
+        {
+          "level": 3,
+          "name": "Test file"
+        }
+      ],
+      "file": "test.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-01-17T03:01:01Z",
+    "description": ":robot: built with claude. Goto/Create test, find project root and other useful code navigation shortcuts.",
+    "isArchived": false,
+    "lastCommit": "2026-01-17T07:46:20Z",
+    "nameWithOwner": "lukecollier/testsmith.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "testsmith.nvim",
+  "owner": "lukecollier",
+  "url": "https://github.com/lukecollier/testsmith.nvim"
+}

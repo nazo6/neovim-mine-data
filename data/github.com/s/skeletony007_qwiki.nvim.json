@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Wiki"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-01-30T07:04:07Z",
+    "description": "Quickly search pages accross more than one wiki both locally and using APIs",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T23:36:36Z",
+    "nameWithOwner": "skeletony007/qwiki.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qwiki.nvim",
+  "owner": "skeletony007",
+  "url": "https://github.com/skeletony007/qwiki.nvim"
+}

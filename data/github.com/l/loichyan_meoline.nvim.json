@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-01-31T08:39:50Z",
+    "description": "😽 Clean, minimalist, and silent statusline/tabline/winbar for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-03T09:03:04Z",
+    "nameWithOwner": "loichyan/meoline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "nvim-statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "meoline.nvim",
+  "owner": "loichyan",
+  "url": "https://github.com/loichyan/meoline.nvim"
+}

@@ -1,0 +1,69 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
+          "name": "build manager"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Dependency Management"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 126,
+    "createdAt": "2026-01-28T06:52:08Z",
+    "description": "Manage Pipenv from within Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T07:50:07Z",
+    "nameWithOwner": "DrKJeff16/pipenv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-lua-plugin",
+      "nvim-plugin",
+      "pipenv",
+      "python",
+      "virtual-environment"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pipenv.nvim",
+  "owner": "DrKJeff16",
+  "url": "https://github.com/DrKJeff16/pipenv.nvim"
+}

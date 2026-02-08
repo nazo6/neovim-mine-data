@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Vertical Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-01-04T19:26:29Z",
+    "description": "Neovim plugin that snaps the cursor to 0 when moving vertically",
+    "isArchived": false,
+    "lastCommit": "2026-01-17T05:30:32Z",
+    "nameWithOwner": "flayshon/snapcol.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snapcol.nvim",
+  "owner": "flayshon",
+  "url": "https://github.com/flayshon/snapcol.nvim"
+}

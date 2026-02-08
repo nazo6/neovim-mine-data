@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-01-18T21:45:09Z",
+    "description": "Telekasten-like Zettelkasten with fzf-lua",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T09:10:03Z",
+    "nameWithOwner": "m-takeuchi/fzfkasten.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzfkasten.nvim",
+  "owner": "m-takeuchi",
+  "url": "https://github.com/m-takeuchi/fzfkasten.nvim"
+}

@@ -24,18 +24,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 10,
     "createdAt": "2026-01-02T22:09:01Z",
     "description": "Snappy \"cursor word\" highlighting using modern mechanics for neovim",
     "isArchived": false,
-    "lastCommit": "2026-01-02T22:37:51Z",
+    "lastCommit": "2026-01-10T01:00:18Z",
     "nameWithOwner": "akioweh/lsp-document-highlight.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
+      "document-highlight",
+      "lsp",
+      "neovim-plugin",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

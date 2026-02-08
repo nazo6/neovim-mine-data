@@ -8,14 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Toy"
-        },
-        {
-          "level": 3,
-          "name": "Cowsay"
+          "name": "Quote"
         }
       ],
-      "file": "toy.md",
+      "file": "quote.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -30,7 +26,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 133,
+    "star": 135,
     "topics": [
       "neovim",
       "neovim-plugin"

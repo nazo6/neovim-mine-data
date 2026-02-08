@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "url open"
+        }
+      ],
+      "file": "web-browser.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-01-18T15:17:52Z",
+    "description": "Minimal and efficient URL opener for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-18T20:45:14Z",
+    "nameWithOwner": "simonwinther/open-url.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "open-url.nvim",
+  "owner": "simonwinther",
+  "url": "https://github.com/simonwinther/open-url.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-31T20:25:53Z",
+    "description": "Rust semantic editing plugin",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T20:26:59Z",
+    "nameWithOwner": "Nub/clanker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clanker.nvim",
+  "owner": "Nub",
+  "url": "https://github.com/Nub/clanker.nvim"
+}

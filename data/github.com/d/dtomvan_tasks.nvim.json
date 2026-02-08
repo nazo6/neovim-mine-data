@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Task Tracking"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 65,
+    "createdAt": "2026-02-04T17:44:15Z",
+    "description": "@Tsoding's take on in-tree issue reporting/task management.",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T02:14:19Z",
+    "nameWithOwner": "dtomvan/tasks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasks.nvim",
+  "owner": "dtomvan",
+  "url": "https://github.com/dtomvan/tasks.nvim"
+}

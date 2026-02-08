@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Copy File Context"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2025-06-11T04:48:40Z",
+    "description": "Quickly grab context from neovim to provide in LLM prompts",
+    "isArchived": false,
+    "lastCommit": "2025-06-11T04:47:52Z",
+    "nameWithOwner": "androidStern-personal/context-graph.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "context-graph.nvim",
+  "owner": "androidStern-personal",
+  "url": "https://github.com/androidStern/context-graph.nvim"
+}

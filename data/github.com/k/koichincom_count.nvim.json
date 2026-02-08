@@ -20,20 +20,14 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 6,
     "createdAt": "2025-11-10T09:45:57Z",
-    "description": "Working in Progress: Advanced Word, Char, and Sentence Counting Libraries for Neovim in Lua and Zig",
+    "description": "WIP: A Neovim plugin to extend the text counting capabilities.",
     "isArchived": false,
-    "lastCommit": "2025-11-11T06:29:10Z",
+    "lastCommit": "2026-01-23T05:29:30Z",
     "nameWithOwner": "koichincom/count.nvim",
-    "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
-    },
     "star": 2,
     "topics": [
-      "neovim",
-      "count"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Translate"
+        }
+      ],
+      "file": "translate.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-01-10T12:50:38Z",
+    "description": "Neovim plugin to translate comments on hover or immersive inline view.",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T06:08:03Z",
+    "nameWithOwner": "noir4y/comment-translate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "developer-tools",
+      "neovim",
+      "neovim-plugin",
+      "translation",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "comment-translate.nvim",
+  "owner": "noir4y",
+  "url": "https://github.com/noir4y/comment-translate.nvim"
+}

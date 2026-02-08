@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Logseq"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-24T20:43:19Z",
+    "description": "Emulating the Logseq outliner experience in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T13:50:36Z",
+    "nameWithOwner": "Conor-McLeod/logseq-mode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "logseq",
+      "neovim",
+      "outliner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "logseq-mode.nvim",
+  "owner": "Conor-McLeod",
+  "url": "https://github.com/Conor-McLeod/logseq-mode.nvim"
+}

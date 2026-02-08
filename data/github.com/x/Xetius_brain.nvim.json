@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-02-06T09:18:56Z",
+    "description": "AI assistant for inline Neovim help",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T10:37:31Z",
+    "nameWithOwner": "Xetius/brain.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "brain.nvim",
+  "owner": "Xetius",
+  "url": "https://github.com/Xetius/brain.nvim"
+}

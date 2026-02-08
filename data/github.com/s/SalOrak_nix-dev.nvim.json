@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Nix"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-01-16T16:53:33Z",
+    "description": "Simple development shell in neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-17T14:56:55Z",
+    "nameWithOwner": "SalOrak/nix-dev.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nix-dev.nvim",
+  "owner": "SalOrak",
+  "url": "https://github.com/SalOrak/nix-dev.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotenv"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 89,
+    "createdAt": "2026-01-08T12:18:48Z",
+    "description": "Protect sensitive values in your dotenv files via intelligent, blazing fast masking.",
+    "isArchived": false,
+    "lastCommit": "2026-01-14T15:42:18Z",
+    "nameWithOwner": "ph1losof/shelter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "dotenv",
+      "environment-variables",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "shelter.nvim",
+  "owner": "ph1losof",
+  "url": "https://github.com/ph1losof/shelter.nvim"
+}

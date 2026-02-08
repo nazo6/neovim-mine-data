@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-01-04T18:52:54Z",
+    "description": "Minimalistic code-first todo and task tracker Neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2026-01-12T19:59:39Z",
+    "nameWithOwner": "blitzarx1/todoer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "developer-tools",
+      "ide",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todoer.nvim",
+  "owner": "blitzarx1",
+  "url": "https://github.com/blitzarx1/todoer.nvim"
+}

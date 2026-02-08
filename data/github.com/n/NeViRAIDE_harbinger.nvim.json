@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Startup screen (DashBoard)"
-        }
       ],
-      "file": "startup.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2024-05-20T06:52:25Z",
     "description": "NeViRAIDE dashboard (startup screen)",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-07-13T07:15:50Z",
     "nameWithOwner": "NeViRAIDE/harbinger.nvim",
     "primaryLanguage": {

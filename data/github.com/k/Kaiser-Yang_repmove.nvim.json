@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Horizontal Move"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-03T04:47:07Z",
+    "description": "A Neovim plugin that lets ; and , repeat a wide range of motions and jump actions—so you can replay your last navigation (not just f/t) forward or backward with consistent behavior.",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T10:20:23Z",
+    "nameWithOwner": "Kaiser-Yang/repmove.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "repmove.nvim",
+  "owner": "Kaiser-Yang",
+  "url": "https://github.com/Kaiser-Yang/repmove.nvim"
+}

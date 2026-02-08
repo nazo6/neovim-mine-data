@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 89,
+    "commitCountLastYear": 109,
     "createdAt": "2024-06-04T19:27:56Z",
-    "description": "Search and replace in the current buffer with incremental preview, a convenient UI, and modern regex syntax.",
+    "description": "Search & replace in the current buffer or workspace with incremental preview, a convenient UI, and modern regex syntax.",
     "isArchived": false,
-    "lastCommit": "2026-01-01T13:18:57Z",
+    "lastCommit": "2026-02-06T13:03:43Z",
     "nameWithOwner": "chrisgrieser/nvim-rip-substitute",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 298,
+    "star": 304,
     "topics": [
       "nvim-plugin",
       "replace-text",

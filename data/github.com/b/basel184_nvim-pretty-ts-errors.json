@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-01-22T04:56:57Z",
+    "description": "🛠️ Pretty-print TypeScript errors in Neovim with a floating window for clear diagnostics using @pretty-ts-errors/formatter.",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T10:04:17Z",
+    "nameWithOwner": "basel184/nvim-pretty-ts-errors",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "diagnostics",
+      "lazy-nvim",
+      "lua",
+      "luajit",
+      "luarocks",
+      "neovim",
+      "neovim-plugin",
+      "packer-nvim",
+      "rocks-nvim",
+      "typescript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pretty-ts-errors",
+  "owner": "basel184",
+  "url": "https://github.com/basel184/nvim-pretty-ts-errors"
+}

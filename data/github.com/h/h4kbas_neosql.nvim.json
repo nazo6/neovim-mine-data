@@ -20,18 +20,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 10,
     "createdAt": "2025-12-31T11:54:19Z",
     "description": "A Neovim plugin for PostgreSQL database interaction with an intuitive interface for querying, editing, and exporting data.",
     "isArchived": false,
-    "lastCommit": "2026-01-02T07:47:19Z",
+    "lastCommit": "2026-01-17T13:08:28Z",
     "nameWithOwner": "h4kbas/neosql.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 14,
     "topics": [
+      "database-management",
+      "database-viewer",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "postgresql",
+      "neovim-lua",
+      "nvim"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Documentation viewer"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-01T05:24:19Z",
+    "description": "A Neovim plugin to manage and search multiple documentation sources directly from your editor.",
+    "isArchived": false,
+    "lastCommit": "2026-02-01T05:24:49Z",
+    "nameWithOwner": "4DRIAN0RTIZ/docviewer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "docviewer.nvim",
+  "owner": "4DRIAN0RTIZ",
+  "url": "https://github.com/4DRIAN0RTIZ/docviewer.nvim"
+}

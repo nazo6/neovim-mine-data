@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "insert pairs"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-02T11:51:53Z",
+    "description": "Jump to brackets / quotes directly from insert mode",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T06:29:02Z",
+    "nameWithOwner": "alexghergh/pairs-jump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pairs-jump.nvim",
+  "owner": "alexghergh",
+  "url": "https://github.com/alexghergh/pairs-jump.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Marketplace"
+        }
+      ],
+      "file": "service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-01-19T04:53:50Z",
+    "description": "A Neovim-based plugin marketplace with an interactive UI built using buffers and floating windows",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T09:37:15Z",
+    "nameWithOwner": "taher53-s/nvim-plugin-marketplace",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-plugin-marketplace",
+  "owner": "taher53-s",
+  "url": "https://github.com/taher53-s/nvim-plugin-marketplace"
+}

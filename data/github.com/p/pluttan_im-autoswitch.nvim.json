@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-01-22T05:08:49Z",
+    "description": "Auto-switch keyboard layout for Neovim: English in Normal mode, restore in Insert",
+    "isArchived": false,
+    "lastCommit": "2026-01-22T09:40:58Z",
+    "nameWithOwner": "pluttan/im-autoswitch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "im-autoswitch.nvim",
+  "owner": "pluttan",
+  "url": "https://github.com/pluttan/im-autoswitch.nvim"
+}

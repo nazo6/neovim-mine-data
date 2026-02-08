@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 241,
+    "createdAt": "2025-10-16T10:06:15Z",
+    "description": "Snacks plugin to display the title instead of the filename for zk files. The queries are also available.",
+    "isArchived": false,
+    "lastCommit": "2026-01-16T12:45:12Z",
+    "nameWithOwner": "riodelphino/zk-snacks-explorer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zk-snacks-explorer.nvim",
+  "owner": "riodelphino",
+  "url": "https://github.com/riodelphino/snacks-zk.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 61,
+    "createdAt": "2026-01-10T14:58:04Z",
+    "description": "A Neovim plugin for reviewing AI-generated code changes",
+    "isArchived": false,
+    "lastCommit": "2026-01-28T13:21:22Z",
+    "nameWithOwner": "krisajenkins/oversight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "oversight.nvim",
+  "owner": "krisajenkins",
+  "url": "https://github.com/krisajenkins/oversight.nvim"
+}

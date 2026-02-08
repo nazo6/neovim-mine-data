@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-01-24T14:35:05Z",
+    "description": "A Neovim plugin for resolving merge conflicts with conflict marker highlighting and resolution commands.",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T18:05:40Z",
+    "nameWithOwner": "spacedentist/resolve.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 41,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "resolve.nvim",
+  "owner": "spacedentist",
+  "url": "https://github.com/spacedentist/resolve.nvim"
+}

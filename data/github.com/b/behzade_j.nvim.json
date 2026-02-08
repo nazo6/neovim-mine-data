@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2026-01-07T12:55:10Z",
+    "description": "My minimal journaling cli and neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2026-01-07T15:35:12Z",
+    "nameWithOwner": "behzade/j.nvim",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "j.nvim",
+  "owner": "behzade",
+  "url": "https://github.com/behzade/j.nvim"
+}

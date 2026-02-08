@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Calculation"
+        }
+      ],
+      "file": "calculation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-01-07T12:16:26Z",
+    "description": "A Neovim plugin for live Kalker calculations displayed as virtual text.",
+    "isArchived": false,
+    "lastCommit": "2026-01-10T15:00:29Z",
+    "nameWithOwner": "Otard95/kalker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kalker.nvim",
+  "owner": "Otard95",
+  "url": "https://github.com/Otard95/kalker.nvim"
+}

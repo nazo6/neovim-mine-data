@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jujutsu(jj)"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 91,
+    "createdAt": "2026-01-06T06:17:05Z",
+    "description": "Neovim frontend for Jujutsu in the style of vim-fugitive",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T15:37:48Z",
+    "nameWithOwner": "jceb/jiejie.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 40,
+    "topics": [
+      "jujutsu",
+      "neovim",
+      "plugin",
+      "fugitive"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jiejie.nvim",
+  "owner": "jceb",
+  "url": "https://github.com/jceb/jiejie.nvim"
+}

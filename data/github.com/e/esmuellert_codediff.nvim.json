@@ -1,0 +1,56 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 803,
+    "createdAt": "2025-10-23T05:28:45Z",
+    "description": "A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T06:32:27Z",
+    "nameWithOwner": "esmuellert/codediff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1072,
+    "topics": [
+      "diff",
+      "neovim",
+      "vscode",
+      "c",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codediff.nvim",
+  "owner": "esmuellert",
+  "url": "https://github.com/esmuellert/codediff.nvim"
+}

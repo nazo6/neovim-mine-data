@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-17T19:32:51Z",
+    "description": "A simple Neovim plugin for managing todo files in a floating window.",
+    "isArchived": false,
+    "lastCommit": "2026-01-17T20:09:49Z",
+    "nameWithOwner": "JOSA-OpenLab/todo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo.nvim",
+  "owner": "JOSA-OpenLab",
+  "url": "https://github.com/JOSA-OpenLab/todo.nvim"
+}

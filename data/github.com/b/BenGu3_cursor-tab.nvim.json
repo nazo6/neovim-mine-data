@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-01-17T06:27:30Z",
+    "description": "Cursor Tab autocomplete in nvim",
+    "isArchived": false,
+    "lastCommit": "2026-01-20T20:30:35Z",
+    "nameWithOwner": "BenGu3/cursor-tab.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cursor-tab.nvim",
+  "owner": "BenGu3",
+  "url": "https://github.com/BenGu3/cursor-tab.nvim"
+}

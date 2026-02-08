@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quote"
+        }
+      ],
+      "file": "quote.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-17T16:53:22Z",
+    "description": "Daily stoic 🗿 wisdom from within Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-22T11:00:53Z",
+    "nameWithOwner": "prjctimg/stoic.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "quotes",
+      "stoicism",
+      "the-daily-stoic"
+    ]
+  },
+  "domain": "github.com",
+  "name": "stoic.nvim",
+  "owner": "prjctimg",
+  "url": "https://github.com/prjctimg/stoic.nvim"
+}

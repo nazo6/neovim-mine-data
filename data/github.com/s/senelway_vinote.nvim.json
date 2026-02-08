@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-02-01T19:43:39Z",
+    "description": "A floating window note-taking plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T11:33:59Z",
+    "nameWithOwner": "senelway/vinote.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vinote.nvim",
+  "owner": "senelway",
+  "url": "https://github.com/senelway/vinote.nvim"
+}

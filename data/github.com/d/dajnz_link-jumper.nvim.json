@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Go to File"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-01-16T14:42:30Z",
+    "description": "The plugin allows you to jump to various types of links and navigate back through jump history using a couple of hotkeys",
+    "isArchived": false,
+    "lastCommit": "2026-01-19T09:57:31Z",
+    "nameWithOwner": "dajnz/link-jumper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "link-jumper.nvim",
+  "owner": "dajnz",
+  "url": "https://github.com/dajnz/link-jumper.nvim"
+}

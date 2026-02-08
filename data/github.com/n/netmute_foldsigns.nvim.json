@@ -1,0 +1,56 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Editing Support"
+        },
+        {
+          "level": 3,
+          "name": "Folding"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-01-19T19:37:18Z",
+    "description": "Adds foldmarkers as signs",
+    "isArchived": false,
+    "lastCommit": "2026-01-19T19:40:58Z",
+    "nameWithOwner": "netmute/foldsigns.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "foldsigns.nvim",
+  "owner": "netmute",
+  "url": "https://github.com/netmute/foldsigns.nvim"
+}

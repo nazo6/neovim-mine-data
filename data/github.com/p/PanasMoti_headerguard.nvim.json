@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Header"
+        },
+        {
+          "level": 4,
+          "name": "include"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-01-20T10:27:40Z",
+    "description": "a simple header guard generation neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2026-01-20T12:12:17Z",
+    "nameWithOwner": "PanasMoti/headerguard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "headerguard.nvim",
+  "owner": "PanasMoti",
+  "url": "https://github.com/PanasMoti/headerguard.nvim"
+}

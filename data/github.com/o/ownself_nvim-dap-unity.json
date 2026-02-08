@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-01-07T03:19:19Z",
+    "description": "A Neovim plugin for setting up the debugger for Unity",
+    "isArchived": false,
+    "lastCommit": "2026-01-15T03:44:47Z",
+    "nameWithOwner": "ownself/nvim-dap-unity",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-unity",
+  "owner": "ownself",
+  "url": "https://github.com/ownself/nvim-dap-unity"
+}

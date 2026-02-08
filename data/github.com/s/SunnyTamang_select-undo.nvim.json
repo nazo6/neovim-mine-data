@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 0,
     "createdAt": "2024-07-13T12:47:07Z",
     "description": "undo specific lines or partial selections without affecting the rest of the file",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 94,
+    "star": 96,
     "topics": [
       "neovim",
       "neovim-plugin",

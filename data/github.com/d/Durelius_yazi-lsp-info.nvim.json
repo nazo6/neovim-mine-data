@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "ranger"
+        },
+        {
+          "level": 4,
+          "name": "yazi"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-30T17:24:46Z",
+    "description": "Show LSP info in Yazi, with icons",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T14:40:04Z",
+    "nameWithOwner": "Durelius/yazi-lsp-info.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yazi-lsp-info.nvim",
+  "owner": "Durelius",
+  "url": "https://github.com/Durelius/yazi-lsp-info.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Indent"
+        },
+        {
+          "level": 3,
+          "name": "Indent Guide"
+        }
+      ],
+      "file": "indent.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-01-22T19:44:23Z",
+    "description": "Simple indentation guides, heavily inspired by mini.indentscope and snacks.indent",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T20:04:24Z",
+    "nameWithOwner": "pedrog14/simpleindent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simpleindent.nvim",
+  "owner": "pedrog14",
+  "url": "https://github.com/pedrog14/simpleindent.nvim"
+}

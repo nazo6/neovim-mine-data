@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "HTML"
+        },
+        {
+          "level": 3,
+          "name": "live server"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2023-01-08T00:19:29Z",
+    "description": "live reload local development servers inside of neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T19:02:00Z",
+    "nameWithOwner": "barrettruth/live-server.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 194,
+    "topics": [
+      "live-server",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "live-server.nvim",
+  "owner": "barrettruth",
+  "url": "https://github.com/barrett-ruth/live-server.nvim"
+}

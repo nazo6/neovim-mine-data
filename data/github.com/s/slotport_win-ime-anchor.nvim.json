@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-02T12:46:39Z",
+    "description": "A Windows-only Neovim plugin that keeps IME always OFF in NORMAL mode.",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T03:28:28Z",
+    "nameWithOwner": "slotport/win-ime-anchor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "win-ime-anchor.nvim",
+  "owner": "slotport",
+  "url": "https://github.com/slotport/win-ime-anchor.nvim"
+}

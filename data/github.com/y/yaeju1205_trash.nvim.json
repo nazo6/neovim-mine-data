@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "Trash"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2025-10-27T08:48:00Z",
+    "description": "Move files to trash in Nvim",
+    "isArchived": false,
+    "lastCommit": "2025-11-19T06:03:37Z",
+    "nameWithOwner": "yaeju1205/trash.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-lua",
+      "nvim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "trash.nvim",
+  "owner": "yaeju1205",
+  "url": "https://github.com/kimpure/trash.nvim"
+}

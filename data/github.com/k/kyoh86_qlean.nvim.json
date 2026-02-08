@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "keep window"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 68,
+    "createdAt": "2026-01-08T02:00:51Z",
+    "description": "Neovim plugin that prevents the “only auxiliary UI windows remain” problem when you close your last keep window.",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T12:13:20Z",
+    "nameWithOwner": "kyoh86/qlean.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "neovim-plugin-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "qlean.nvim",
+  "owner": "kyoh86",
+  "url": "https://github.com/kyoh86/qlean.nvim"
+}

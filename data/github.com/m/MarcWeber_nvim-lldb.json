@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-27T08:47:37Z",
+    "description": "most flexible minmial linux/osx lldb implementation for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-27T08:54:38Z",
+    "nameWithOwner": "MarcWeber/nvim-lldb",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lldb",
+  "owner": "MarcWeber",
+  "url": "https://github.com/MarcWeber/nvim-lldb"
+}

@@ -13,20 +13,36 @@
       ],
       "file": "office-tools.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 36,
+    "commitCountLastYear": 59,
     "createdAt": "2026-01-01T11:52:13Z",
+    "description": "A lightweight and extensible calendar plugin for Neovim.",
     "isArchived": false,
-    "lastCommit": "2026-01-04T08:54:32Z",
+    "lastCommit": "2026-01-30T08:16:26Z",
     "nameWithOwner": "wsdjeg/calendar.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 39,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

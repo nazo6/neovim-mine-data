@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Religion"
+        },
+        {
+          "level": 4,
+          "name": "Muslim"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-30T13:08:20Z",
+    "description": "A Neovim plugin for Islamic reminders, starting with prayer times powered by the Al-Adhan API.",
+    "isArchived": false,
+    "lastCommit": "2026-01-30T13:07:14Z",
+    "nameWithOwner": "JOSA-OpenLab/azkar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "azkar.nvim",
+  "owner": "JOSA-OpenLab",
+  "url": "https://github.com/JOSA-OpenLab/azkar.nvim"
+}

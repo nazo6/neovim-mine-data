@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-01-10T21:54:42Z",
+    "description": "Plugin for inline gitblame information in nvim",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T19:52:01Z",
+    "nameWithOwner": "maraxor27/nvim-gitblame",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gitblame",
+  "owner": "maraxor27",
+  "url": "https://github.com/maraxor27/nvim-gitblame"
+}

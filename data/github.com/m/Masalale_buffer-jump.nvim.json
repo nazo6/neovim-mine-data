@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-30T18:47:12Z",
+    "description": "LunarVim-style buffer picker for LazyVim - jump to any buffer with a single keypress",
+    "isArchived": false,
+    "lastCommit": "2026-01-30T21:13:52Z",
+    "nameWithOwner": "Masalale/buffer-jump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffer-jump.nvim",
+  "owner": "Masalale",
+  "url": "https://github.com/Masalale/buffer-jump.nvim"
+}

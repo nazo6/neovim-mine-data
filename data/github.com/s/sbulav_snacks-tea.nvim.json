@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Gitea/Forgejo"
+        },
+        {
+          "level": 3,
+          "name": "Pull Request"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2026-01-26T10:16:07Z",
+    "description": "A Forgejo/Gitea integration plugin for Neovim, built as an extension for snacks.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-02-03T10:41:42Z",
+    "nameWithOwner": "sbulav/snacks-tea.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-tea.nvim",
+  "owner": "sbulav",
+  "url": "https://github.com/sbulav/snacks-tea.nvim"
+}

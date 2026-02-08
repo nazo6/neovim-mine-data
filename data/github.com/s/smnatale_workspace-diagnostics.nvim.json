@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-22T13:59:03Z",
+    "description": "Populate diagnostics for all projects files across the workspace",
+    "isArchived": false,
+    "lastCommit": "2026-01-22T15:50:12Z",
+    "nameWithOwner": "smnatale/workspace-diagnostics.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "workspace-diagnostics.nvim",
+  "owner": "smnatale",
+  "url": "https://github.com/smnatale/workspace-diagnostics.nvim"
+}

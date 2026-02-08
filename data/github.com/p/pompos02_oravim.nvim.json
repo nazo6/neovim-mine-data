@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "Oracle"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2026-01-25T17:05:13Z",
+    "description": "Oracle-only Neovim plugin that runs SQL through sqlplus, shows results in a split, and browses the current schema from a lightweight drawer.",
+    "isArchived": false,
+    "lastCommit": "2026-02-03T19:01:51Z",
+    "nameWithOwner": "pompos02/oravim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "oravim.nvim",
+  "owner": "pompos02",
+  "url": "https://github.com/pompos02/oravim.nvim"
+}

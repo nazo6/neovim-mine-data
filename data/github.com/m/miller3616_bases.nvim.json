@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-02T03:06:30Z",
+    "description": "A neovim plugin that parses obsidian style bases files and renders them for viewing and interaction",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T03:33:40Z",
+    "nameWithOwner": "miller3616/bases.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bases.nvim",
+  "owner": "miller3616",
+  "url": "https://github.com/miller3616/bases.nvim"
+}

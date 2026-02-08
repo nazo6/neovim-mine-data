@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 72,
+    "createdAt": "2025-12-17T08:09:08Z",
+    "description": "A TypeScript language-server shim that bridges Neovim's LSP client with tsserver.",
+    "isArchived": false,
+    "lastCommit": "2026-01-06T06:06:57Z",
+    "nameWithOwner": "chojs23/ts-bridge",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 31,
+    "topics": [
+      "javascript",
+      "lsp",
+      "lsp-server",
+      "rust",
+      "typescript",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ts-bridge",
+  "owner": "chojs23",
+  "url": "https://github.com/chojs23/ts-bridge"
+}

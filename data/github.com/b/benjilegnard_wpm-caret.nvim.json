@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Training"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-30T06:12:22Z",
+    "description": "A neovim plugin to display wpm above your cursor in insert mode",
+    "isArchived": false,
+    "lastCommit": "2026-01-30T06:15:23Z",
+    "nameWithOwner": "benjilegnard/wpm-caret.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wpm-caret.nvim",
+  "owner": "benjilegnard",
+  "url": "https://github.com/benjilegnard/wpm-caret.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2025-10-22T22:29:49Z",
+    "description": "Lightweight Neovim plugin that lets you persist and preview colorschemes.",
+    "isArchived": false,
+    "lastCommit": "2025-10-23T11:58:03Z",
+    "nameWithOwner": "nickshiro/better-colorscheme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim-plugin",
+      "nvim-colorschemes"
+    ]
+  },
+  "domain": "github.com",
+  "name": "better-colorscheme.nvim",
+  "owner": "nickshiro",
+  "url": "https://github.com/nickshiro/better-colorscheme.nvim"
+}

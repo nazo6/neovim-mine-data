@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "R"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-01-16T16:17:36Z",
+    "description": "A plugin with helper functions for the R targets package in neovim. ",
+    "isArchived": false,
+    "lastCommit": "2026-02-05T03:26:14Z",
+    "nameWithOwner": "mschmidty/rtargets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rtargets.nvim",
+  "owner": "mschmidty",
+  "url": "https://github.com/mschmidty/rtargets.nvim"
+}

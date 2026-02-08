@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "CAD"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-01T05:07:02Z",
+    "description": "Neovim plugin for .zen PCB design files with LSP support and syntax highlighting",
+    "isArchived": false,
+    "lastCommit": "2026-02-01T05:05:34Z",
+    "nameWithOwner": "diodeinc/zen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zen.nvim",
+  "owner": "diodeinc",
+  "url": "https://github.com/diodeinc/zen.nvim"
+}

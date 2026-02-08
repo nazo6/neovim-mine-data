@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Video"
+        },
+        {
+          "level": 3,
+          "name": "Screen Recording"
+        }
+      ],
+      "file": "video.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2026-02-02T15:00:39Z",
+    "description": "A comprehensive session recording and visualization toolkit for neovim. Automated VHS exports, persistent bookmarks, and non-blocking real-time performance analytics",
+    "isArchived": false,
+    "lastCommit": "2026-02-05T19:56:31Z",
+    "nameWithOwner": "theawakener0/neoreplay.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "replay",
+      "vhs"
+    ]
+  },
+  "domain": "github.com",
+  "name": "neoreplay.nvim",
+  "owner": "theawakener0",
+  "url": "https://github.com/theawakener0/neoreplay.nvim"
+}

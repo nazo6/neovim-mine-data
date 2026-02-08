@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto convert"
+        }
+      ],
+      "file": "auto-insert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2026-01-19T23:22:55Z",
+    "description": "Automatic string interpolation for Neovim. Instantly converts quotes to backticks when typing ${ inside strings. Powered by Treesitter.",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T21:18:36Z",
+    "nameWithOwner": "jos3lo89/autotemplate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "string-interpolation"
+    ]
+  },
+  "domain": "github.com",
+  "name": "autotemplate.nvim",
+  "owner": "jos3lo89",
+  "url": "https://github.com/jos3lo89/autotemplate.nvim"
+}

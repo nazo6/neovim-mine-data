@@ -17,20 +17,34 @@
       ],
       "file": "project.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 4,
     "createdAt": "2025-08-21T18:24:24Z",
     "description": "A tiny plugin that sets up an autocommand to `lcd` to relevant root directories when changing buffers",
     "isArchived": false,
-    "lastCommit": "2025-08-21T18:27:24Z",
+    "lastCommit": "2026-01-08T19:42:10Z",
     "nameWithOwner": "cosmicbuffalo/root_swapper.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },

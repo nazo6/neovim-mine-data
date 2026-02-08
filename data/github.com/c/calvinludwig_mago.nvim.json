@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "PHP"
+        }
+      ],
+      "file": "php.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2026-01-08T17:18:35Z",
+    "description": "Easily integrates Mago, The Oxidized PHP Toolchain, in Neovim!",
+    "isArchived": false,
+    "lastCommit": "2026-01-23T15:28:32Z",
+    "nameWithOwner": "calvinludwig/mago.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "mago",
+      "neovim",
+      "neovim-plugin",
+      "php"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mago.nvim",
+  "owner": "calvinludwig",
+  "url": "https://github.com/calvinludwig/mago.nvim"
+}

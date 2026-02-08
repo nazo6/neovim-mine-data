@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "ftdetect(Filetype detector)"
+        }
+      ],
+      "file": "filetype.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-29T13:10:34Z",
+    "description": "Neovim filetype plugin for HuJSON",
+    "isArchived": false,
+    "lastCommit": "2026-01-29T12:14:11Z",
+    "nameWithOwner": "fionn/nvim-hujson",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "ftplugin",
+      "hujson",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-hujson",
+  "owner": "fionn",
+  "url": "https://github.com/fionn/nvim-hujson"
+}

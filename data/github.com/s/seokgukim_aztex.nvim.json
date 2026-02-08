@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Unicode character"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-23T13:48:30Z",
+    "description": "A Neovim plugin for inserting Unicode symbols using LaTeX-like input.",
+    "isArchived": false,
+    "lastCommit": "2026-01-23T22:50:32Z",
+    "nameWithOwner": "seokgukim/aztex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "aztex.nvim",
+  "owner": "seokgukim",
+  "url": "https://github.com/seokgukim/aztex.nvim"
+}

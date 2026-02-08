@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "CPU/Memory"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-01-29T17:16:48Z",
+    "description": "A Neovim plugin to view and manage processes from within Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T10:23:42Z",
+    "nameWithOwner": "jugarpeupv/processmonitor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "processmonitor.nvim",
+  "owner": "jugarpeupv",
+  "url": "https://github.com/jugarpeupv/processmonitor.nvim"
+}

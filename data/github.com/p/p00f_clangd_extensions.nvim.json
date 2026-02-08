@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 8,
     "createdAt": "2022-02-05T09:45:43Z",
-    "description": "Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~p00f/clangd_extensions.nvim instead",
+    "description": "Clangd's off-spec features for neovim's LSP client. Use https://sr.ht/~chinmay/clangd_extensions.nvim instead",
     "isArchived": false,
-    "lastCommit": "2025-12-20T01:02:22Z",
+    "lastCommit": "2026-01-13T17:29:40Z",
     "nameWithOwner": "p00f/clangd_extensions.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 566,
+    "star": 570,
     "topics": [
       "neovim",
       "clangd",

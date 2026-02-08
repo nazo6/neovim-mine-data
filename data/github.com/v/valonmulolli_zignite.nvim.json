@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Auto detect style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2026-01-04T17:51:30Z",
+    "description": "A blazingly fast, asynchronous code runner for Neovim, powered by Zig.",
+    "isArchived": false,
+    "lastCommit": "2026-01-16T18:10:10Z",
+    "nameWithOwner": "valonmulolli/zignite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "zig",
+      "code-runner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "zignite.nvim",
+  "owner": "valonmulolli",
+  "url": "https://github.com/valonmulolli/zignite.nvim"
+}

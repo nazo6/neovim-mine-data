@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
+          "name": "Keyboard Layout"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-03T19:13:08Z",
+    "description": "a simple live ergogen preview for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T19:17:47Z",
+    "nameWithOwner": "daym0ns/ergogen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ergogen.nvim",
+  "owner": "daym0ns",
+  "url": "https://github.com/daym0ns/ergogen.nvim"
+}

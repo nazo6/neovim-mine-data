@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LLM context"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-02-05T10:43:51Z",
+    "description": "A Neovim plugin for utilising AI within a selected context.",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T01:11:32Z",
+    "nameWithOwner": "mcncl/context.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "context.nvim",
+  "owner": "mcncl",
+  "url": "https://github.com/mcncl/context.nvim"
+}

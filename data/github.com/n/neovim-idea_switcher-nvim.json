@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "open"
+        },
+        {
+          "level": 5,
+          "name": "recent file"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2025-12-11T21:52:08Z",
+    "description": "JetBrain's file switcher, for neovim 😍 <C-Tab> like a pro and jump between open buffers ❤️",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T19:40:51Z",
+    "nameWithOwner": "neovim-idea/switcher-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "intellij-idea",
+      "jetbrains",
+      "neovim",
+      "neovim-lua-plugin",
+      "nvim",
+      "nvim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "switcher-nvim",
+  "owner": "neovim-idea",
+  "url": "https://github.com/neovim-idea/switcher-nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "External"
+        },
+        {
+          "level": 3,
+          "name": "Plugin Template"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2023-03-20T12:42:13Z",
+    "description": "A template for new nvim plugins",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T13:02:36Z",
+    "nameWithOwner": "chrisgrieser/nvim-pseudometa-plugin-template",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 38,
+    "topics": [
+      "neovim-plugin-template",
+      "nvim-plugin-template"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pseudometa-plugin-template",
+  "owner": "chrisgrieser",
+  "url": "https://github.com/chrisgrieser/nvim-pseudometa-plugin-template"
+}

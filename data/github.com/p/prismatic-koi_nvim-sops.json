@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2023-07-30T22:59:24Z",
+    "description": "A simple neovim plugin to encrypt and decrypt sops files",
+    "isArchived": false,
+    "lastCommit": "2026-01-29T22:46:10Z",
+    "nameWithOwner": "prismatic-koi/nvim-sops",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "sops"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-sops",
+  "owner": "prismatic-koi",
+  "url": "https://github.com/lucidph3nx/nvim-sops"
+}

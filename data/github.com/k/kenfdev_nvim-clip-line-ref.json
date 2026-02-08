@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Copy with line info"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-01-17T10:14:40Z",
+    "isArchived": false,
+    "lastCommit": "2026-01-17T14:33:50Z",
+    "nameWithOwner": "kenfdev/nvim-clip-line-ref",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-clip-line-ref",
+  "owner": "kenfdev",
+  "url": "https://github.com/kenfdev/nvim-clip-line-ref"
+}

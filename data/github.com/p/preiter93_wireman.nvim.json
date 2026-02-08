@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "Wireman"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-11T11:41:46Z",
+    "description": "A nvim plugin to open Wireman in a floating terminal",
+    "isArchived": false,
+    "lastCommit": "2026-01-11T15:48:50Z",
+    "nameWithOwner": "preiter93/wireman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wireman.nvim",
+  "owner": "preiter93",
+  "url": "https://github.com/preiter93/wireman.nvim"
+}

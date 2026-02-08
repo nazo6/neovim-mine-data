@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-20T15:16:39Z",
+    "description": "A neovim plugin that helps sync files to a remote target",
+    "isArchived": false,
+    "lastCommit": "2026-01-21T13:49:22Z",
+    "nameWithOwner": "kpjim/nvim-rsync",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-rsync",
+  "owner": "kpjim",
+  "url": "https://github.com/kpjim/nvim-rsync"
+}

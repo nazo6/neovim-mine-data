@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-19T00:13:20Z",
+    "description": "Neovim plugin to navigate commit-level context from a single line.",
+    "isArchived": false,
+    "lastCommit": "2026-01-19T06:49:44Z",
+    "nameWithOwner": "dgrco/blastradius.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "git",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blastradius.nvim",
+  "owner": "dgrco",
+  "url": "https://github.com/dgrco/blastradius.nvim"
+}

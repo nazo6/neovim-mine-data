@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 80,
+    "createdAt": "2026-01-17T06:50:55Z",
+    "description": "A simple memo taking plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-21T05:01:59Z",
+    "nameWithOwner": "Cassin01/sm.nvim",
+    "primaryLanguage": {
+      "color": "#fff3d7",
+      "name": "Fennel"
+    },
+    "star": 2,
+    "topics": [
+      "fennel",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "note-taking",
+      "zettelkasten",
+      "wiki"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sm.nvim",
+  "owner": "Cassin01",
+  "url": "https://github.com/Cassin01/sm.nvim"
+}

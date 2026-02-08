@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-14T19:56:19Z",
+    "description": "A extension for zk-org/zk-nvim to integrate bufferline.nvim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-16T19:17:47Z",
+    "nameWithOwner": "riodelphino/zk-bufferline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zk-bufferline.nvim",
+  "owner": "riodelphino",
+  "url": "https://github.com/riodelphino/zk-bufferline.nvim"
+}

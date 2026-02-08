@@ -8,18 +8,14 @@
         },
         {
           "level": 2,
-          "name": "Toy"
+          "name": "Natural Languages"
         },
         {
           "level": 3,
-          "name": "Study"
-        },
-        {
-          "level": 4,
           "name": "Hangul"
         }
       ],
-      "file": "toy.md",
+      "file": "natural-languages.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -33,7 +29,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
     ]
   },

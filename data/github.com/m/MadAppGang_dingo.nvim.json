@@ -24,18 +24,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 8,
     "createdAt": "2025-12-10T05:06:26Z",
-    "description": "Nevom plugin for Dingo language",
+    "description": "Neovim plugin for Dingo language",
     "isArchived": false,
-    "lastCommit": "2025-12-10T06:53:48Z",
+    "lastCommit": "2026-01-06T13:45:20Z",
     "nameWithOwner": "MadAppGang/dingo.nvim",
     "primaryLanguage": {
-      "color": "#555555",
-      "name": "C"
+      "color": "#f1e05a",
+      "name": "JavaScript"
     },
     "star": 3,
     "topics": [
+      "dingo",
+      "go",
+      "programming"
     ]
   },
   "domain": "github.com",

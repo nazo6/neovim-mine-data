@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-31T17:31:01Z",
+    "description": "Lets you use tmux effectively in nvim !",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T18:45:13Z",
+    "nameWithOwner": "husseinmirzaki/nvim-tmux-integration",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tmux-integration",
+  "owner": "husseinmirzaki",
+  "url": "https://github.com/husseinmirzaki/nvim-tmux-integration"
+}

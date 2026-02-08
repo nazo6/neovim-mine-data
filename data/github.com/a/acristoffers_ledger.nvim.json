@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "ledger"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-02-01T20:28:28Z",
+    "description": "A ledger plugin for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2026-02-03T15:21:42Z",
+    "nameWithOwner": "acristoffers/ledger.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ledger.nvim",
+  "owner": "acristoffers",
+  "url": "https://github.com/acristoffers/ledger.nvim"
+}

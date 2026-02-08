@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C#"
+        },
+        {
+          "level": 5,
+          "name": ".NET"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-02-05T20:44:33Z",
+    "description": ".NET Core development toolkit for Neovim — build, test, debug, and navigate C# projects",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T15:33:43Z",
+    "nameWithOwner": "7akimz/neodev-dotnet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neodev-dotnet.nvim",
+  "owner": "7akimz",
+  "url": "https://github.com/7akimz/neodev-dotnet.nvim"
+}

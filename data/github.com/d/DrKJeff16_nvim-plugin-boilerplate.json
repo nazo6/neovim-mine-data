@@ -1,0 +1,67 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lua Development"
+        },
+        {
+          "level": 3,
+          "name": "Plugin Template"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "External"
+        },
+        {
+          "level": 3,
+          "name": "Plugin Template"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 49,
+    "createdAt": "2026-01-04T04:01:34Z",
+    "description": "An annotated Neovim plugin template with pre-commit, StyLua and selene configs, GitHub actions and more.",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T20:48:01Z",
+    "nameWithOwner": "DrKJeff16/nvim-plugin-boilerplate",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 12,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "neovim-plugin-template",
+      "neovim-plugins",
+      "nvim-plugin",
+      "nvim-plugin-template",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-plugin-boilerplate",
+  "owner": "DrKJeff16",
+  "url": "https://github.com/DrKJeff16/nvim-plugin-boilerplate"
+}

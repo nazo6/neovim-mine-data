@@ -1,0 +1,66 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme switcher"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        },
+        {
+          "level": 3,
+          "name": "Colorscheme Switchers"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 64,
+    "createdAt": "2026-01-09T05:11:56Z",
+    "description": "Use which-key.nvim bindings to cycle between colorschemes.",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T20:46:26Z",
+    "nameWithOwner": "DrKJeff16/which-colorscheme.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "which-key"
+    ]
+  },
+  "domain": "github.com",
+  "name": "which-colorscheme.nvim",
+  "owner": "DrKJeff16",
+  "url": "https://github.com/DrKJeff16/which-colorscheme.nvim"
+}

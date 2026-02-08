@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Lua"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-02-04T00:45:29Z",
+    "description": "Neovim plugin for Vivify markdown preview - Lua port of vivify.vim with modern APIs, cross-platform support, and additional features",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T06:28:45Z",
+    "nameWithOwner": "pidgeon777/vivify.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vivify.nvim",
+  "owner": "pidgeon777",
+  "url": "https://github.com/pidgeon777/vivify.nvim"
+}

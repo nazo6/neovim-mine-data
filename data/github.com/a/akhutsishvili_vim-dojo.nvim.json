@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Training"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-17T17:44:23Z",
+    "description": "Collection of games to train Vim Motions. Inspired by https://github.com/ThePrimeagen/vim-be-good",
+    "isArchived": false,
+    "lastCommit": "2026-01-27T13:53:24Z",
+    "nameWithOwner": "akhutsishvili/vim-dojo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vim-dojo.nvim",
+  "owner": "akhutsishvili",
+  "url": "https://github.com/akhutsishvili/vim-dojo.nvim"
+}

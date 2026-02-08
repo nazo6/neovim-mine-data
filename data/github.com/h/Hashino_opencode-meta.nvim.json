@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenCode"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-24T22:23:09Z",
+    "description": "Enhanced Neovim plugin for OpenCode AI assistant integration with intelligent snippet management",
+    "isArchived": false,
+    "lastCommit": "2026-01-24T22:22:46Z",
+    "nameWithOwner": "Hashino/opencode-meta.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "opencode-meta.nvim",
+  "owner": "Hashino",
+  "url": "https://github.com/Hashino/opencode-meta.nvim"
+}

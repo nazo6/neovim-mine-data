@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Model Context Protocol(MCP)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2026-02-03T20:36:30Z",
+    "description": "AI-powered MCP server for Neovim - bridge your editor to LLM agents",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T06:33:32Z",
+    "nameWithOwner": "arismoko/buddy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buddy.nvim",
+  "owner": "arismoko",
+  "url": "https://github.com/arismoko/buddy.nvim"
+}

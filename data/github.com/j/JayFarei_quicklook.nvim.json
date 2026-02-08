@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-04T16:22:59Z",
+    "description": "Use MacOS built in quick view within nvim",
+    "isArchived": false,
+    "lastCommit": "2026-01-04T16:19:53Z",
+    "nameWithOwner": "JayFarei/quicklook.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "image-preview",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quicklook.nvim",
+  "owner": "JayFarei",
+  "url": "https://github.com/JayFarei/quicklook.nvim"
+}

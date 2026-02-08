@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2026-01-06T13:39:43Z",
+    "description": "A rough, unpolished, and loose note-taking plugin for Neovim. Because not everyone needs shiny volcanic glass to write down a grocery list.",
+    "isArchived": false,
+    "lastCommit": "2026-01-12T19:03:13Z",
+    "nameWithOwner": "tDalile/gravel.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gravel.nvim",
+  "owner": "tDalile",
+  "url": "https://github.com/tDalile/gravel.nvim"
+}

@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 26,
+    "commitCountLastYear": 27,
     "createdAt": "2025-07-20T21:32:27Z",
     "description": "A scaffold for creating items from template",
     "isArchived": false,
-    "lastCommit": "2025-11-26T12:14:16Z",
+    "lastCommit": "2026-01-19T13:36:08Z",
     "nameWithOwner": "sharpchen/new-item.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
       "neovim",
       "neovim-plugin",
@@ -43,7 +43,6 @@
       "config",
       "template",
       "template-engine",
-      "gitignore-templates",
       "dotnet"
     ]
   },

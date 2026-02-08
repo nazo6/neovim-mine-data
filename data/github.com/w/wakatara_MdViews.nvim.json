@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-01-17T22:04:19Z",
+    "description": "A markdown frontmatter parser and displayer for neovim using telescope (and Telekasten)",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T07:51:05Z",
+    "nameWithOwner": "wakatara/MdViews.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "MdViews.nvim",
+  "owner": "wakatara",
+  "url": "https://github.com/wakatara/MdViews"
+}

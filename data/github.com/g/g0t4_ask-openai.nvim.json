@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 5603,
     "createdAt": "2024-11-04T00:25:58Z",
     "description": "OSS predictions, ask ?, rewrite, semantic grep, auto-context (i.e. RAG) plugin for neovim (see feat-predictions branch)...  originally just a plugin to ask questions in vim's cmdline",
     "isArchived": false,
-    "lastCommit": "2025-08-05T20:26:21Z",
+    "lastCommit": "2026-02-06T06:43:20Z",
     "nameWithOwner": "g0t4/ask-openai.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9,
+    "star": 10,
     "topics": [
       "neovim-plugin"
     ]

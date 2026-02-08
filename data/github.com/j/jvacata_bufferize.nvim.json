@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Redirect to scratch buffer"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-01-21T10:22:48Z",
+    "description": "Small neovim plugin to copy vim/nvim command output to disposable buffer",
+    "isArchived": false,
+    "lastCommit": "2026-01-23T21:22:39Z",
+    "nameWithOwner": "jvacata/bufferize.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferize.nvim",
+  "owner": "jvacata",
+  "url": "https://github.com/jvacata/bufferize.nvim"
+}

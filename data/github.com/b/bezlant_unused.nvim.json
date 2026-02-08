@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Show assigned"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-01-04T02:04:18Z",
+    "description": "Track your keymap usage to identify unused keymaps",
+    "isArchived": false,
+    "lastCommit": "2026-01-20T14:46:46Z",
+    "nameWithOwner": "bezlant/unused.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "unused.nvim",
+  "owner": "bezlant",
+  "url": "https://github.com/bezlant/unused.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Natural Languages"
+        }
+      ],
+      "file": "natural-languages.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-01-19T09:51:47Z",
+    "description": "Display live subtitles from asbplayer in your nvim as floating bar. Immerse while coding.",
+    "isArchived": false,
+    "lastCommit": "2026-01-21T08:13:11Z",
+    "nameWithOwner": "SanzharKuandyk/subjoyer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "language-learning",
+      "nvim-lua",
+      "nvim-plugin",
+      "subtitles"
+    ]
+  },
+  "domain": "github.com",
+  "name": "subjoyer.nvim",
+  "owner": "SanzharKuandyk",
+  "url": "https://github.com/SanzharKuandyk/subjoyer.nvim"
+}

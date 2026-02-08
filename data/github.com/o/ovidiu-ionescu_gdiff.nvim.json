@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-12T19:36:48Z",
+    "description": "A lightweight Neovim plugin to perform side-by-side Git diffs against any branch",
+    "isArchived": false,
+    "lastCommit": "2026-01-26T14:26:07Z",
+    "nameWithOwner": "ovidiu-ionescu/gdiff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gdiff.nvim",
+  "owner": "ovidiu-ionescu",
+  "url": "https://github.com/ovidiu-ionescu/gdiff.nvim"
+}

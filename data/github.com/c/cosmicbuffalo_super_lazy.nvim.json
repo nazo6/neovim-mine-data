@@ -17,14 +17,28 @@
       ],
       "file": "plugin-manager.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 18,
+    "commitCountLastYear": 24,
     "createdAt": "2025-10-10T22:16:29Z",
     "description": "Extension for lazy.nvim to enable management of multiple lockfiles across multiple configuration repos",
     "isArchived": false,
-    "lastCommit": "2025-12-02T21:13:28Z",
+    "lastCommit": "2026-02-05T18:39:29Z",
     "nameWithOwner": "cosmicbuffalo/super_lazy.nvim",
     "primaryLanguage": {
       "color": "#000080",

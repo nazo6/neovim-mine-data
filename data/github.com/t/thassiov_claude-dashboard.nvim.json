@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-09T14:22:47Z",
+    "description": "A Neovim dashboard plugin for Claude Code showing todos, tool processes, thinking, and system resources",
+    "isArchived": false,
+    "lastCommit": "2026-01-09T14:10:25Z",
+    "nameWithOwner": "thassiov/claude-dashboard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-dashboard.nvim",
+  "owner": "thassiov",
+  "url": "https://github.com/thassiov/claude-dashboard.nvim"
+}

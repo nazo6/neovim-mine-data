@@ -13,20 +13,34 @@
       ],
       "file": "neovim-lua-development.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Code Runner"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2020-03-31T18:03:30Z",
     "description": "Interactive real time neovim scratchpad for embedded lua engine - type and watch!",
     "isArchived": false,
-    "lastCommit": "2024-05-26T11:37:08Z",
+    "lastCommit": "2026-02-07T15:41:07Z",
     "nameWithOwner": "rafcamlet/nvim-luapad",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 666,
+    "star": 668,
     "topics": [
       "neovim-plugins",
       "neovim",

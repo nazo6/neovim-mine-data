@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pomodoro"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-31T22:18:28Z",
+    "description": "Stay focused with Pomodoro technique in Neovim - Minimal UI, custom sessions & tracking",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T22:51:36Z",
+    "nameWithOwner": "mvtt25/pomodoro.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "pomodoro",
+      "pomodoro-technique",
+      "focus",
+      "statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pomodoro.nvim",
+  "owner": "mvtt25",
+  "url": "https://github.com/mvtt25/pomodoro.nvim"
+}

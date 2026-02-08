@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-11-19T07:19:28Z",
+    "description": "Neovim plugin for Cursor Agent CLI integration",
+    "isArchived": false,
+    "lastCommit": "2026-01-08T00:20:16Z",
+    "nameWithOwner": "aug6th/cursoragent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "ai-assistant",
+      "cursor-agent",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cursoragent.nvim",
+  "owner": "aug6th",
+  "url": "https://github.com/eun2ce/cursoragent.nvim"
+}

@@ -34,11 +34,7 @@
         },
         {
           "level": 2,
-          "name": "Programming Languages Support"
-        },
-        {
-          "level": 3,
-          "name": "Markdown and LaTeX"
+          "name": "Live Preview"
         }
       ],
       "file": "README.md",
@@ -46,17 +42,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 119,
+    "commitCountLastYear": 60,
     "createdAt": "2024-07-24T10:30:05Z",
     "description": "A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.",
     "isArchived": false,
-    "lastCommit": "2026-01-02T04:59:50Z",
+    "lastCommit": "2026-01-24T07:02:23Z",
     "nameWithOwner": "brianhuster/live-preview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 287,
+    "star": 334,
     "topics": [
       "neovim-plugin",
       "lua",

@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Programing Language / Framework"
+          "name": "WSL"
         },
         {
           "level": 4,
@@ -28,17 +28,19 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 54,
     "createdAt": "2025-10-05T01:34:32Z",
+    "description": "A Neovim plugin for Daml, a Haskell-based functional programming language designed for building secure, distributed smart contracts on the Canton network.",
     "isArchived": false,
-    "lastCommit": "2025-11-28T08:13:09Z",
+    "lastCommit": "2026-01-29T01:08:17Z",
     "nameWithOwner": "Sengoku11/daml.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

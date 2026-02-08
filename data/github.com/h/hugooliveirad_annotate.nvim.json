@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Annotation"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-01-21T12:40:29Z",
+    "description": "Code review annotations with virtual text display for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T18:59:25Z",
+    "nameWithOwner": "hugooliveirad/annotate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "annotate.nvim",
+  "owner": "hugooliveirad",
+  "url": "https://github.com/hugooliveirad/annotate.nvim"
+}

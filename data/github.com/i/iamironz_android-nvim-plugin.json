@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Android"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 69,
+    "createdAt": "2026-02-04T15:59:46Z",
+    "description": "Neovim plugin for Android and KMP: build, run, logcat, AVD management, and Gradle tasks.",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T23:58:53Z",
+    "nameWithOwner": "iamironz/android-nvim-plugin",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "adb",
+      "android",
+      "gradle",
+      "ios",
+      "kotlin",
+      "logcat",
+      "neovim",
+      "neovim-plugin",
+      "kmp",
+      "android-development"
+    ]
+  },
+  "domain": "github.com",
+  "name": "android-nvim-plugin",
+  "owner": "iamironz",
+  "url": "https://github.com/iamironz/android-nvim-plugin"
+}

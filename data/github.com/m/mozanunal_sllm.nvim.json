@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 35,
+    "commitCountLastYear": 45,
     "createdAt": "2025-03-15T21:12:46Z",
     "description": "Integrate ChatGPT-style LLMs into Neovim: ask questions, keep multi-file context, pull diagnostics / command output, and chat without leaving your editor. Highly configurable, async, lua-only plugin.",
     "isArchived": false,
-    "lastCommit": "2025-12-26T20:52:43Z",
+    "lastCommit": "2026-02-07T20:55:01Z",
     "nameWithOwner": "mozanunal/sllm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 97,
+    "star": 104,
     "topics": [
       "neovim",
       "neovim-plugin",

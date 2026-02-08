@@ -13,19 +13,34 @@
       ],
       "file": "music.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Media"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 5,
+    "commitCountLastYear": 19,
     "createdAt": "2025-12-31T02:49:52Z",
+    "description": "A simple Neovim music player",
     "isArchived": false,
-    "lastCommit": "2025-12-31T15:03:03Z",
+    "lastCommit": "2026-01-20T23:47:05Z",
     "nameWithOwner": "ricmonmol/nvim-music-player",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 1,
+    "star": 4,
     "topics": [
     ]
   },

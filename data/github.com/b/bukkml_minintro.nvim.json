@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup screen (DashBoard)"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-01-23T09:40:36Z",
+    "description": "Extremely minimalistic Neovim Startup/Intro Screen",
+    "isArchived": false,
+    "lastCommit": "2026-01-23T09:47:59Z",
+    "nameWithOwner": "bukkml/minintro.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "minintro.nvim",
+  "owner": "bukkml",
+  "url": "https://github.com/bukkml/minintro.nvim"
+}

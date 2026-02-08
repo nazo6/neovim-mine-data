@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Mermaid"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-01-26T12:38:31Z",
+    "description": "A feature-rich Neovim plugin for working with [Mermaid](https://mermaid.js.org/) diagrams.",
+    "isArchived": false,
+    "lastCommit": "2026-01-29T12:33:22Z",
+    "nameWithOwner": "kevalin/mermaid.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "mermaid",
+      "mermaid-diagrams",
+      "mermaidjs",
+      "neovim-plugin",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mermaid.nvim",
+  "owner": "kevalin",
+  "url": "https://github.com/kevalin/mermaid.nvim"
+}

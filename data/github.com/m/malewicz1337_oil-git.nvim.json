@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2025-12-30T21:00:53Z",
+    "description": "Async Git status integration for oil.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-01-29T17:11:50Z",
+    "nameWithOwner": "malewicz1337/oil-git.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "oil-nvim",
+      "oil-git",
+      "nvim-plugin",
+      "async",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "oil-git.nvim",
+  "owner": "malewicz1337",
+  "url": "https://github.com/malewicz1337/oil-git.nvim"
+}

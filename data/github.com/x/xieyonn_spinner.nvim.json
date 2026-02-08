@@ -1,0 +1,59 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Spinner"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 60,
+    "createdAt": "2026-01-27T05:20:41Z",
+    "description": "Extensible spinner framework for Neovim plugins and UI.",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T10:13:48Z",
+    "nameWithOwner": "xieyonn/spinner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "spinner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spinner.nvim",
+  "owner": "xieyonn",
+  "url": "https://github.com/xieyonn/spinner.nvim"
+}

@@ -1,0 +1,57 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Cursor"
+        },
+        {
+          "level": 3,
+          "name": "Animation"
+        }
+      ],
+      "file": "cursor.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Animation"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-01-07T15:57:17Z",
+    "description": "A performant cursor animation plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T17:51:52Z",
+    "nameWithOwner": "StikyPiston/smudge.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smudge.nvim",
+  "owner": "StikyPiston",
+  "url": "https://github.com/stikypiston/smudge.nvim"
+}

@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-24T23:35:52Z",
+    "description": "A daily journal for nvim-orgmode",
+    "isArchived": false,
+    "lastCommit": "2026-01-29T03:21:54Z",
+    "nameWithOwner": "hugginsio/org-journal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "orgmode",
+      "orgmode-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "org-journal.nvim",
+  "owner": "hugginsio",
+  "url": "https://github.com/productivitykit/org-journal.nvim"
+}

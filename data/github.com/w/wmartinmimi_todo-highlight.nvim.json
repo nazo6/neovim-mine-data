@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Todo Comment Highlight"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2026-01-22T14:53:12Z",
+    "description": "Highlights TODO comments for easy lookup",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T14:55:43Z",
+    "nameWithOwner": "wmartinmimi/todo-highlight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "highlighter",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-highlight.nvim",
+  "owner": "wmartinmimi",
+  "url": "https://github.com/wmartinmimi/todo-highlight.nvim"
+}

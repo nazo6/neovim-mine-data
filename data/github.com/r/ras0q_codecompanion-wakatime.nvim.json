@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-01-04T14:52:23Z",
+    "description": "A CodeCompanion extension that automatically enables WakaTime AI time tracking during CodeCompanion requests and disables it when finished.",
+    "isArchived": false,
+    "lastCommit": "2026-01-04T15:16:01Z",
+    "nameWithOwner": "ras0q/codecompanion-wakatime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "codecompanion",
+      "codecompanion-extension",
+      "wakatime",
+      "wakatime-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-wakatime.nvim",
+  "owner": "ras0q",
+  "url": "https://github.com/ras0q/codecompanion-wakatime.nvim"
+}

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-01-14T19:17:38Z",
+    "description": "Neovim plugin that exports your open buffers and cursor position to a JSON file for Claude Code to read",
+    "isArchived": false,
+    "lastCommit": "2026-01-19T12:10:09Z",
+    "nameWithOwner": "mknn/nvim-claude-context",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-claude-context",
+  "owner": "mknn",
+  "url": "https://github.com/mknn/nvim-claude-context"
+}

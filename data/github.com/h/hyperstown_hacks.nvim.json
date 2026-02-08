@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util pack"
+        }
+      ],
+      "file": "util-pack.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-01-18T18:45:07Z",
+    "description": "A collection of extremely hacky plugins for Neovim ",
+    "isArchived": false,
+    "lastCommit": "2026-01-20T09:43:38Z",
+    "nameWithOwner": "hyperstown/hacks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hacks.nvim",
+  "owner": "hyperstown",
+  "url": "https://github.com/hyperstown/hacks.nvim"
+}

@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        },
+        {
+          "level": 4,
+          "name": "Gemini CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-06T12:37:11Z",
+    "description": "Neovim integration for the Gemini CLI. Bridges the editor with Gemini's IDE Mode via a lightweight MCP server",
+    "isArchived": false,
+    "lastCommit": "2026-01-09T15:34:43Z",
+    "nameWithOwner": "vaijab/gemini-cli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "ai",
+      "gemini",
+      "gemini-cli",
+      "google-gemini",
+      "mcp",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gemini-cli.nvim",
+  "owner": "vaijab",
+  "url": "https://github.com/vaijab/gemini-cli.nvim"
+}

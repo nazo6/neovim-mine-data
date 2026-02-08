@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "racc.lol"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2025-08-12T03:09:07Z",
+    "description": "A neovim plugin for stealing trash pandas from the racc.lol API",
+    "isArchived": false,
+    "lastCommit": "2025-08-15T14:27:44Z",
+    "nameWithOwner": "keircn/racc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "racc.nvim",
+  "owner": "keircn",
+  "url": "https://github.com/keircn/racc.nvim"
+}

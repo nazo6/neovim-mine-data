@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Node"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-01-28T07:18:49Z",
+    "description": "A beautiful terminal-based markdown preview for Neovim with live rendering, syntax highlighting, etc.",
+    "isArchived": false,
+    "lastCommit": "2026-01-30T09:33:36Z",
+    "nameWithOwner": "roerohan/mark.nvim",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "opentui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mark.nvim",
+  "owner": "roerohan",
+  "url": "https://github.com/roerohan/mark.nvim"
+}

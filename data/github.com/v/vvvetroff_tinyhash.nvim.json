@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-01-23T17:48:06Z",
+    "description": "Simple plugin to make a random hash for my 'jrnl' entries",
+    "isArchived": false,
+    "lastCommit": "2026-01-24T04:35:44Z",
+    "nameWithOwner": "vvvetroff/tinyhash.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tinyhash.nvim",
+  "owner": "vvvetroff",
+  "url": "https://github.com/vvvetroff/tinyhash.nvim"
+}

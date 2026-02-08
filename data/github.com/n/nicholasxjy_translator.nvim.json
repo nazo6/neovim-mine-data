@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Translate"
+        }
+      ],
+      "file": "translate.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-01-24T07:49:28Z",
+    "description": "A nvim translator plugin",
+    "isArchived": false,
+    "lastCommit": "2026-02-01T12:35:32Z",
+    "nameWithOwner": "nicholasxjy/translator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-lua-plugin",
+      "nvim-plugin",
+      "translate-shell",
+      "translation",
+      "nvim-translator"
+    ]
+  },
+  "domain": "github.com",
+  "name": "translator.nvim",
+  "owner": "nicholasxjy",
+  "url": "https://github.com/nicholasxjy/translator.nvim"
+}

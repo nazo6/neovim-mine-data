@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Boolean"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-01-06T21:55:44Z",
+    "description": "For when you really just hate manually doing it.",
+    "isArchived": false,
+    "lastCommit": "2026-01-14T05:40:57Z",
+    "nameWithOwner": "wfletch/on_off.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "on_off.nvim",
+  "owner": "wfletch",
+  "url": "https://github.com/wfletch/on_off.nvim"
+}

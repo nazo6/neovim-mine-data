@@ -22,7 +22,7 @@
         },
         {
           "level": 2,
-          "name": "Utility"
+          "name": "UI"
         }
       ],
       "file": "README.md",
@@ -30,7 +30,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 0,
     "createdAt": "2023-12-16T21:32:45Z",
     "description": "Bmessages.nvim better :messages window using an auto-updating buffer.",
     "isArchived": false,
@@ -40,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 58,
+    "star": 59,
     "topics": [
     ]
   },

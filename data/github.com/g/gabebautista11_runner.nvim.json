@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2026-01-12T15:39:30Z",
+    "description": "Setup a runner.json file to run anything you want with the :Run command!",
+    "isArchived": false,
+    "lastCommit": "2026-01-12T21:51:03Z",
+    "nameWithOwner": "gabebautista11/runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "runner.nvim",
+  "owner": "gabebautista11",
+  "url": "https://github.com/gabebautista11/runner.nvim"
+}

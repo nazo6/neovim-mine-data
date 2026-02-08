@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pyenv"
+        },
+        {
+          "level": 4,
+          "name": "uv"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2026-01-18T12:32:06Z",
+    "description": "Neovim plugin for exploring Python dependencies from uv.lock — lockfile-first, resolved versions, inline badges",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T07:12:48Z",
+    "nameWithOwner": "mhiro2/pydeps.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "python",
+      "uv"
+    ]
+  },
+  "domain": "github.com",
+  "name": "pydeps.nvim",
+  "owner": "mhiro2",
+  "url": "https://github.com/mhiro2/pydeps.nvim"
+}

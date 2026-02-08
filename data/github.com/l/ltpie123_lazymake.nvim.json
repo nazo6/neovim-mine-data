@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-14T22:31:38Z",
+    "description": "Lazy plugin for Neovim wrapped Lazymake",
+    "isArchived": false,
+    "lastCommit": "2026-01-14T22:28:12Z",
+    "nameWithOwner": "ltpie123/lazymake.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazymake.nvim",
+  "owner": "ltpie123",
+  "url": "https://github.com/ltpie123/lazymake.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-18T21:39:51Z",
+    "description": "Opinionated package manager for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-19T14:42:03Z",
+    "nameWithOwner": "TheMagSec/gpack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gpack.nvim",
+  "owner": "TheMagSec",
+  "url": "https://github.com/TheMagSec/gpack.nvim"
+}

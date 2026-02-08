@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "if err"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-01-07T15:05:43Z",
+    "description": "Intelligent Go error handling snippets for Neovim with treesitter-powered return value detection",
+    "isArchived": false,
+    "lastCommit": "2026-01-29T02:22:55Z",
+    "nameWithOwner": "joshuarubin/iferr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "iferr.nvim",
+  "owner": "joshuarubin",
+  "url": "https://github.com/joshuarubin/iferr.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Crate"
+        },
+        {
+          "level": 4,
+          "name": "use"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-01-07T14:27:26Z",
+    "isArchived": false,
+    "lastCommit": "2026-01-29T14:56:16Z",
+    "nameWithOwner": "statiolake/rust-import.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rust-import.nvim",
+  "owner": "statiolake",
+  "url": "https://github.com/statiolake/rust-import.nvim"
+}

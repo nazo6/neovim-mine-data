@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 11,
     "createdAt": "2025-09-21T21:59:58Z",
     "description": "A Neovim plugin around \"nvim-treesitter\" that provides auto-installation of parsers.",
     "isArchived": false,
-    "lastCommit": "2025-09-22T07:41:12Z",
+    "lastCommit": "2026-02-07T05:52:04Z",
     "nameWithOwner": "mks-h/treesitter-autoinstall.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 9,
     "topics": [
       "neovim",
       "nvim-treesitter"

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git open"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-31T12:01:39Z",
+    "description": "Open current line in browser on GitHub/GitLab/Bitbucket",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T12:06:02Z",
+    "nameWithOwner": "albxllm/nvim-gotogit",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "github",
+      "gitlab",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gotogit",
+  "owner": "albxllm",
+  "url": "https://github.com/albxllm/nvim-gotogit"
+}

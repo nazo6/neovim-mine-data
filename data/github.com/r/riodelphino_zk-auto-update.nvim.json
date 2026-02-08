@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-31T14:47:23Z",
+    "description": "A extension for zk-org/zk-nvim to update content automatically.",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T16:43:12Z",
+    "nameWithOwner": "riodelphino/zk-auto-update.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zk-auto-update.nvim",
+  "owner": "riodelphino",
+  "url": "https://github.com/riodelphino/zk-auto-update.nvim"
+}

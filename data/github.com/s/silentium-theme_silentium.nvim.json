@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-01-17T18:49:38Z",
+    "description": "Pragmatic, logical, and monochrome theme for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-28T13:14:23Z",
+    "nameWithOwner": "silentium-theme/silentium.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim",
+      "neovim-colorscheme",
+      "theme",
+      "colorscheme",
+      "neovim-plugin",
+      "syntax-highlighting",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "silentium.nvim",
+  "owner": "silentium-theme",
+  "url": "https://github.com/silentium-theme/silentium.nvim"
+}

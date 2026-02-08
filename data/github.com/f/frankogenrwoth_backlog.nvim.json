@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Task Tracking"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-02-03T09:09:20Z",
+    "description": "backlog is a neovim plug in that i use to manage my todos in a day",
+    "isArchived": false,
+    "lastCommit": "2026-02-03T11:17:01Z",
+    "nameWithOwner": "frankogenrwoth/backlog.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "backlog.nvim",
+  "owner": "frankogenrwoth",
+  "url": "https://github.com/frankogenrwoth/backlog.nvim"
+}

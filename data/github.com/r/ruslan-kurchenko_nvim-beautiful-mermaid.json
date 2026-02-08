@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Mermaid"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-01-30T15:15:50Z",
+    "description": "Neovim plugin to render Mermaid diagrams inline using Beautiful Mermaid and image.nvim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T23:02:28Z",
+    "nameWithOwner": "ruslan-kurchenko/nvim-beautiful-mermaid",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-beautiful-mermaid",
+  "owner": "ruslan-kurchenko",
+  "url": "https://github.com/ruslan-kurchenko/nvim-beautiful-mermaid"
+}

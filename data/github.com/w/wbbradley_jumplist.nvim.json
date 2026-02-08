@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "jumplist"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-01-10T20:50:28Z",
+    "description": "A Neovim plugin that displays the navigation jumplist (Ctrl-o/Ctrl-i stack) in a sidebar window.",
+    "isArchived": false,
+    "lastCommit": "2026-01-16T04:41:49Z",
+    "nameWithOwner": "wbbradley/jumplist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jumplist.nvim",
+  "owner": "wbbradley",
+  "url": "https://github.com/wbbradley/jumplist.nvim"
+}

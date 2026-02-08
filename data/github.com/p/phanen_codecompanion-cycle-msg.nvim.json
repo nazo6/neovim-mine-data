@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-07T10:34:17Z",
+    "description": "<c-p>/<c-n> to cycle msg in codecompanion buffer.",
+    "isArchived": false,
+    "lastCommit": "2026-01-07T10:37:55Z",
+    "nameWithOwner": "phanen/codecompanion-cycle-msg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "codecompanion",
+      "codecompanion-extension",
+      "cycle",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-cycle-msg.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/codecompanion-cycle-msg.nvim"
+}

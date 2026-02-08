@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 58,
+    "createdAt": "2026-01-14T21:59:27Z",
+    "description": "Persistent marks and notes (new concept) built on top of existing Vim Marks and Neovim Extmarks. It makes sure all the marks and important annotations to code will be saved to a file under project scope. It's smart enough to match positions in case of any change.",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T04:00:17Z",
+    "nameWithOwner": "solomonxie/nvim-marks",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-marks",
+  "owner": "solomonxie",
+  "url": "https://github.com/solomonxie/nvim-marks"
+}

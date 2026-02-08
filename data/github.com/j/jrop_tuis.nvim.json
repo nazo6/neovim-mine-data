@@ -1,0 +1,65 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "TUI"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2025-12-28T05:54:16Z",
+    "description": "A collection of TUIs for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-15T04:32:05Z",
+    "nameWithOwner": "jrop/tuis.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 126,
+    "topics": [
+      "aws",
+      "docker",
+      "gcloud",
+      "kubernetes",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "systemd",
+      "tui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tuis.nvim",
+  "owner": "jrop",
+  "url": "https://github.com/jrop/tuis.nvim"
+}

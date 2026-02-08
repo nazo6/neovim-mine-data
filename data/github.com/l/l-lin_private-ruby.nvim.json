@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2026-01-15T12:43:29Z",
+    "description": "Shows private Ruby methods with indicators in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-01-15T12:47:18Z",
+    "nameWithOwner": "l-lin/private-ruby.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "private-ruby.nvim",
+  "owner": "l-lin",
+  "url": "https://github.com/l-lin/private-ruby.nvim"
+}

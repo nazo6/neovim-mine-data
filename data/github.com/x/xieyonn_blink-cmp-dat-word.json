@@ -1,0 +1,60 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "blink source"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Completion"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-08-10T14:15:34Z",
+    "description": "Fast, offline word source for blink.cmp, based on a double-array trie.",
+    "isArchived": false,
+    "lastCommit": "2026-01-28T22:40:24Z",
+    "nameWithOwner": "xieyonn/blink-cmp-dat-word",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "double-array-trie",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-dat-word",
+  "owner": "xieyonn",
+  "url": "https://github.com/xieyonn/blink-cmp-dat-word"
+}

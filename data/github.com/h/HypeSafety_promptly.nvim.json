@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "Zellij"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-11T00:32:22Z",
+    "description": "Send context from Neovim to adjacent Zellij pane. Uses sidekick.nvim's context system.",
+    "isArchived": false,
+    "lastCommit": "2026-01-11T16:59:00Z",
+    "nameWithOwner": "HypeSafety/promptly.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "promptly.nvim",
+  "owner": "HypeSafety",
+  "url": "https://github.com/HypeSafety/promptly.nvim"
+}

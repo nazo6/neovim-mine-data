@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Chat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-02-02T19:55:12Z",
+    "description": "A Neovim plugin that sends text under cursor or visual selection to Ollama or OpenAI-compatible services, displaying the response in a floating window.",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T18:38:09Z",
+    "nameWithOwner": "Root-lee/popai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "popai.nvim",
+  "owner": "Root-lee",
+  "url": "https://github.com/Root-lee/popai.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        },
+        {
+          "level": 3,
+          "name": "AST (Semantic search)"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-02-06T01:19:32Z",
+    "description": "A plugin to integrate Onoma natively into Neovim, enabling fast, typo-resistant, language-agnostic symbol search with fuzzy finding in pickers.",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T17:54:57Z",
+    "nameWithOwner": "ryanmab/onoma.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "onoma.nvim",
+  "owner": "ryanmab",
+  "url": "https://github.com/ryanmab/onoma.nvim"
+}

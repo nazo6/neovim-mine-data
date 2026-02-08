@@ -26,6 +26,7 @@
   "data": {
     "commitCountLastYear": 0,
     "createdAt": "2024-11-08T16:15:20Z",
+    "description": "A Neovim plugin in Lua for generating Dart data class boilerplate code. It supports creating copyWith, (from/to)Map, (from/to)Json, toString, hashCode, and equality operators, streamlining the process of creating data models in Dart.",
     "isArchived": false,
     "lastCommit": "2024-11-26T15:10:33Z",
     "nameWithOwner": "IniyanKanmani/dart-snippets.nvim",

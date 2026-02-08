@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2026-01-17T15:37:10Z",
+    "description": "A Neovim plugin for easy note-taking in Markdown.",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T14:00:21Z",
+    "nameWithOwner": "Sahel13/notes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes.nvim",
+  "owner": "Sahel13",
+  "url": "https://github.com/Sahel13/notes.nvim"
+}

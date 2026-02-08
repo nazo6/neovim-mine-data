@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Hide comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-01-09T12:43:13Z",
+    "description": "A Neovim Plugin to fold all comments in a buffer.",
+    "isArchived": false,
+    "lastCommit": "2026-01-21T16:12:17Z",
+    "nameWithOwner": "Raaghav-Arya/no-comments-please.nvim",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "no-comments-please.nvim",
+  "owner": "Raaghav-Arya",
+  "url": "https://github.com/Raaghav-Arya/no-comments-please.nvim"
+}

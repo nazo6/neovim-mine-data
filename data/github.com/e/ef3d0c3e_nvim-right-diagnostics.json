@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-15T16:37:39Z",
+    "description": "LSP diagnostics on the right",
+    "isArchived": false,
+    "lastCommit": "2026-01-19T07:37:45Z",
+    "nameWithOwner": "ef3d0c3e/nvim-right-diagnostics",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-right-diagnostics",
+  "owner": "ef3d0c3e",
+  "url": "https://github.com/ef3d0c3e/nvim-right-diagnostics"
+}

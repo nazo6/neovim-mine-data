@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Annotation"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 68,
+    "createdAt": "2026-01-23T13:02:47Z",
+    "isArchived": false,
+    "lastCommit": "2026-01-24T14:02:33Z",
+    "nameWithOwner": "kenfdev/nvim-feedbacks",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-feedbacks",
+  "owner": "kenfdev",
+  "url": "https://github.com/kenfdev/nvim-feedbacks"
+}

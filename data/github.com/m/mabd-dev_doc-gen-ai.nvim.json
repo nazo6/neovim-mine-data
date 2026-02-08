@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-01-16T06:36:04Z",
+    "description": "A Neovim plugin that generates code documentation using Local/Remote LLMs",
+    "isArchived": false,
+    "lastCommit": "2026-01-22T18:50:40Z",
+    "nameWithOwner": "mabd-dev/doc-gen-ai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ai",
+      "docuemntation-tool",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "terminal",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "doc-gen-ai.nvim",
+  "owner": "mabd-dev",
+  "url": "https://github.com/mabd-dev/doc-gen-ai.nvim"
+}

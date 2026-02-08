@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-01-08T11:54:39Z",
+    "description": "didn't have one to work with multiple repos so made one 😢",
+    "isArchived": false,
+    "lastCommit": "2026-01-18T15:27:43Z",
+    "nameWithOwner": "frostzt/workspaces.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "workspaces.nvim",
+  "owner": "frostzt",
+  "url": "https://github.com/frostzt/workspaces.nvim"
+}

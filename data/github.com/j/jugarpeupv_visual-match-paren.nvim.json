@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Editing support"
+        },
+        {
+          "level": 3,
+          "name": "matchparen"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2026-01-18T19:13:46Z",
+    "description": "Highlight matching paren in visual mode",
+    "isArchived": false,
+    "lastCommit": "2026-01-30T07:59:56Z",
+    "nameWithOwner": "jugarpeupv/visual-match-paren.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "visual-match-paren.nvim",
+  "owner": "jugarpeupv",
+  "url": "https://github.com/jugarpeupv/visual-match-paren.nvim"
+}

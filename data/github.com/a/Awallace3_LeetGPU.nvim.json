@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Dev"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-01-14T13:53:40Z",
+    "description": "This nvim package is modeled off of https://github.com/kawre/leetcode.nvim but for https://leetgpu.com/challenges/vector-addition",
+    "isArchived": false,
+    "lastCommit": "2026-01-14T19:12:41Z",
+    "nameWithOwner": "Awallace3/LeetGPU.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "LeetGPU.nvim",
+  "owner": "Awallace3",
+  "url": "https://github.com/Awallace3/LeetGPU.nvim"
+}

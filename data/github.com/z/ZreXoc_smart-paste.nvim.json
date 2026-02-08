@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Paste"
+        },
+        {
+          "level": 3,
+          "name": "Wise paste"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-07T11:20:27Z",
+    "description": "Intelligent paste for Python - automatically adjusts indentation to match the current context.",
+    "isArchived": false,
+    "lastCommit": "2026-01-07T11:21:21Z",
+    "nameWithOwner": "ZreXoc/smart-paste.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-paste.nvim",
+  "owner": "ZreXoc",
+  "url": "https://github.com/ZreXoc/smart-paste.nvim"
+}

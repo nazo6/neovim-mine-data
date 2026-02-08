@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Clippy"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-01-06T13:47:22Z",
+    "description": "A Neovim plugin for displaying Rust Clippy diagnostics in Telescope or Quickfix lists.",
+    "isArchived": false,
+    "lastCommit": "2026-01-06T14:18:54Z",
+    "nameWithOwner": "Arne-Berner/nvim-clippy",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-clippy",
+  "owner": "Arne-Berner",
+  "url": "https://github.com/Arne-Berner/nvim-clippy"
+}

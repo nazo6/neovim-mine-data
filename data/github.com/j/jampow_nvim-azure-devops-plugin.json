@@ -8,14 +8,18 @@
         },
         {
           "level": 2,
-          "name": "Web"
+          "name": "Development environment"
         },
         {
           "level": 3,
-          "name": "Dev"
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Azure"
         }
       ],
-      "file": "web-service.md",
+      "file": "integration-apps.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

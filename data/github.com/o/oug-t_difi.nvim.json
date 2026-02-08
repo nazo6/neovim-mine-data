@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-01-31T16:52:14Z",
+    "description": "The official Neovim companion for difi",
+    "isArchived": false,
+    "lastCommit": "2026-02-03T15:30:05Z",
+    "nameWithOwner": "oug-t/difi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "git",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "difi.nvim",
+  "owner": "oug-t",
+  "url": "https://github.com/oug-t/difi.nvim"
+}

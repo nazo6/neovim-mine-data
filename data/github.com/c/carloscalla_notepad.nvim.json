@@ -17,20 +17,34 @@
       ],
       "file": "note-taking.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 18,
     "createdAt": "2025-06-19T16:55:11Z",
     "description": "Neovim plugin for taking quick notes",
     "isArchived": false,
-    "lastCommit": "2026-01-02T13:51:16Z",
+    "lastCommit": "2026-01-27T19:10:32Z",
     "nameWithOwner": "carloscalla/notepad.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },

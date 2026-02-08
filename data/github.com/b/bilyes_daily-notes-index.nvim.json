@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-02-02T01:23:49Z",
+    "description": "A Neovim plugin that automatically maintains a chronologically sorted index for your daily notes. It organizes entries by year/month with day names and markdown links.",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T14:37:28Z",
+    "nameWithOwner": "bilyes/daily-notes-index.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "daily-notes",
+      "lua",
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "productivity"
+    ]
+  },
+  "domain": "github.com",
+  "name": "daily-notes-index.nvim",
+  "owner": "bilyes",
+  "url": "https://github.com/bilyes/daily-notes-index.nvim"
+}

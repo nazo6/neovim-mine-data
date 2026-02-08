@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "use tmux"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2026-01-12T14:05:47Z",
+    "description": "Neovim plugin to run commands in background tmux sessions and attach via terminal buffers",
+    "isArchived": false,
+    "lastCommit": "2026-01-15T03:42:09Z",
+    "nameWithOwner": "huylg/tmux-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-runner.nvim",
+  "owner": "huylg",
+  "url": "https://github.com/huylg/tmux-runner.nvim"
+}

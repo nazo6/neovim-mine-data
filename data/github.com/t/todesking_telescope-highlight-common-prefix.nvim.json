@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        },
+        {
+          "level": 3,
+          "name": "Telescope Extensions"
+        },
+        {
+          "level": 4,
+          "name": "Utils"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-14T00:03:33Z",
+    "description": "Dim common path prefixes between adjacent Telescope results so the unique tail stands out.",
+    "isArchived": false,
+    "lastCommit": "2026-01-15T07:32:41Z",
+    "nameWithOwner": "todesking/telescope-highlight-common-prefix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "telescope-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-highlight-common-prefix.nvim",
+  "owner": "todesking",
+  "url": "https://github.com/todesking/telescope-highlight-common-prefix.nvim"
+}

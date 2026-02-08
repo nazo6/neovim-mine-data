@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 74,
+    "createdAt": "2026-01-17T05:56:03Z",
+    "description": "nvim plugin inspired by emacs dired + ivy/vertico",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T04:28:11Z",
+    "nameWithOwner": "JuaniRaggio/vired.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "dired",
+      "emacs",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vired.nvim",
+  "owner": "JuaniRaggio",
+  "url": "https://github.com/JuaniRaggio/vired.nvim"
+}

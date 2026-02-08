@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "SailPoint"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-02-05T20:38:14Z",
+    "description": "SailPoint ISC plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T12:37:41Z",
+    "nameWithOwner": "yohanduartep/nvim-sailpoint-identitynow",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-sailpoint-identitynow",
+  "owner": "yohanduartep",
+  "url": "https://github.com/yohanduartep/nvim-sailpoint-identitynow"
+}

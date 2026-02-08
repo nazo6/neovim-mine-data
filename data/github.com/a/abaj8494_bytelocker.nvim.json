@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Encrypt"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-06-17T12:23:18Z",
+    "description": "Buffer and Region Encryption Plugin for NeoVim with 3 Cipher implementations",
+    "isArchived": false,
+    "lastCommit": "2026-01-22T05:11:51Z",
+    "nameWithOwner": "abaj8494/bytelocker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bytelocker.nvim",
+  "owner": "abaj8494",
+  "url": "https://github.com/abaj8494/bytelocker"
+}

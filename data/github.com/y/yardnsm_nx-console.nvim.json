@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project syntax"
+        },
+        {
+          "level": 4,
+          "name": "Monorepo"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-01-31T20:06:19Z",
+    "description": "🏃 Nx Console - for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T20:36:31Z",
+    "nameWithOwner": "yardnsm/nx-console.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nx-console.nvim",
+  "owner": "yardnsm",
+  "url": "https://github.com/yardnsm/nx-console.nvim"
+}

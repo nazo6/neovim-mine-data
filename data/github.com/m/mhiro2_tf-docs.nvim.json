@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Terraform"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-01-03T00:49:07Z",
+    "description": "Neovim plugin to resolve and open Terraform Registry docs under cursor.",
+    "isArchived": false,
+    "lastCommit": "2026-01-25T13:59:54Z",
+    "nameWithOwner": "mhiro2/tf-docs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "terraform"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tf-docs.nvim",
+  "owner": "mhiro2",
+  "url": "https://github.com/mhiro2/tf-docs.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Documentation search"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-01-28T14:14:41Z",
+    "description": "A Neovim Lazy plugin for Lazydocs",
+    "isArchived": false,
+    "lastCommit": "2026-01-28T14:45:59Z",
+    "nameWithOwner": "andyjeffries/lazydocs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazydocs.nvim",
+  "owner": "andyjeffries",
+  "url": "https://github.com/andyjeffries/lazydocs.nvim"
+}

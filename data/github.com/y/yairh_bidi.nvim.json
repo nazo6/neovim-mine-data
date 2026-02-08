@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Natural Languages"
+        },
+        {
+          "level": 3,
+          "name": "Hebrew"
+        }
+      ],
+      "file": "natural-languages.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-01-13T07:33:06Z",
+    "description": "Bidirectional support for mixed hebrew and latin script in neovim. ",
+    "isArchived": false,
+    "lastCommit": "2026-01-14T08:14:41Z",
+    "nameWithOwner": "yairh/bidi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bidi.nvim",
+  "owner": "yairh",
+  "url": "https://github.com/yairh/bidi.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Treesitter Node"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-01-23T13:23:28Z",
+    "description": "Neovim plugin for jumping to treesitter nodes (similar to flash.nvim)",
+    "isArchived": false,
+    "lastCommit": "2026-01-29T11:38:33Z",
+    "nameWithOwner": "burneikis/nodejumper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nodejumper.nvim",
+  "owner": "burneikis",
+  "url": "https://github.com/burneikis/nodejumper.nvim"
+}

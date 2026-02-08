@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CodeCompanion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-01-28T14:11:20Z",
+    "description": "Use GitHub Copilot workspace prompt assets (.github/agents/.github/prompts/etc) inside CodeCompanion.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-01-28T14:35:49Z",
+    "nameWithOwner": "felipehespanhol/codecompanion-copilot-workspace.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "codecompanion",
+      "copilot",
+      "lua",
+      "neovim",
+      "prompts",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codecompanion-copilot-workspace.nvim",
+  "owner": "felipehespanhol",
+  "url": "https://github.com/felipehespanhol/codecompanion-copilot-workspace.nvim"
+}

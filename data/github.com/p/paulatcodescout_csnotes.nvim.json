@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-01-23T15:04:37Z",
+    "description": "Claude generated neovim plugin for note taking",
+    "isArchived": false,
+    "lastCommit": "2026-01-27T00:04:55Z",
+    "nameWithOwner": "paulatcodescout/csnotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "note-taking"
+    ]
+  },
+  "domain": "github.com",
+  "name": "csnotes.nvim",
+  "owner": "paulatcodescout",
+  "url": "https://github.com/paulatcodescout/csnotes.nvim"
+}

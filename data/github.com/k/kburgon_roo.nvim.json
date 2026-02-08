@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Selector"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-01-03T07:04:34Z",
+    "description": "A simple buffer bookmarking/jumping utility for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T07:32:16Z",
+    "nameWithOwner": "kburgon/roo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "roo.nvim",
+  "owner": "kburgon",
+  "url": "https://github.com/kburgon/roo.nvim"
+}

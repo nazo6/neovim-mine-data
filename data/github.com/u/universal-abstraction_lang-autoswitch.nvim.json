@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-01-19T02:02:15Z",
+    "description": "Automatic keyboard layout switching for Neovim based on editor focus and mode",
+    "isArchived": false,
+    "lastCommit": "2026-01-31T01:47:46Z",
+    "nameWithOwner": "universal-abstraction/lang-autoswitch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lang-autoswitch.nvim",
+  "owner": "universal-abstraction",
+  "url": "https://github.com/universal-abstraction/lang-autoswitch.nvim"
+}

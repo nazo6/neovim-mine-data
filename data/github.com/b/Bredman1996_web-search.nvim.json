@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "search"
+        }
+      ],
+      "file": "web-browser.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 31,
+    "createdAt": "2026-01-14T03:17:20Z",
+    "description": "Neovim plugin for executing a google search, or navigating to terraform docs",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T01:07:14Z",
+    "nameWithOwner": "Bredman1996/web-search.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "web-search.nvim",
+  "owner": "Bredman1996",
+  "url": "https://github.com/Bredman1996/web-search.nvim"
+}

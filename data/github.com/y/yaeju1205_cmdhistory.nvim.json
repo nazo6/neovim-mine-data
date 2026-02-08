@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        },
+        {
+          "level": 3,
+          "name": "History"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2025-11-01T14:11:31Z",
+    "description": "Persistent cmdline history",
+    "isArchived": false,
+    "lastCommit": "2025-11-14T08:14:54Z",
+    "nameWithOwner": "yaeju1205/cmdhistory.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmdhistory.nvim",
+  "owner": "yaeju1205",
+  "url": "https://github.com/kimpure/cmdhistory.nvim"
+}

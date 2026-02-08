@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-01-27T19:22:58Z",
+    "description": "Create \"global mark\" style pins on buffers that always return to the last edited position of the buffer.",
+    "isArchived": false,
+    "lastCommit": "2026-01-28T07:38:36Z",
+    "nameWithOwner": "cat-phish/buffer-marks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffer-marks.nvim",
+  "owner": "cat-phish",
+  "url": "https://github.com/cat-phish/buffer-marks.nvim"
+}

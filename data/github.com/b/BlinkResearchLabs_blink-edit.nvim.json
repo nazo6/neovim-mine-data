@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-01-27T09:38:23Z",
+    "description": "Pure-Lua Neovim plugin for Cursor-style next-edit predictions using local LLMs.",
+    "isArchived": false,
+    "lastCommit": "2026-02-01T19:24:53Z",
+    "nameWithOwner": "BlinkResearchLabs/blink-edit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 109,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-edit.nvim",
+  "owner": "BlinkResearchLabs",
+  "url": "https://github.com/BlinkResearchLabs/blink-edit.nvim"
+}

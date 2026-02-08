@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git conflict"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 81,
+    "createdAt": "2026-01-31T14:21:11Z",
+    "description": "Easy terminal-native 3-way git conflict resolver vim-like workflow",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T14:55:02Z",
+    "nameWithOwner": "chojs23/ec",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 88,
+    "topics": [
+      "cli",
+      "conflict-resolution",
+      "git",
+      "go",
+      "tui",
+      "conflict",
+      "mergetool",
+      "neovim",
+      "terminal",
+      "golang"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ec",
+  "owner": "chojs23",
+  "url": "https://github.com/chojs23/ec"
+}

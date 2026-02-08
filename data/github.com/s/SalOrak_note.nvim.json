@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Note Taking"
-        },
-        {
-          "level": 3,
-          "name": "etc"
-        }
       ],
-      "file": "note-taking.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 8,
     "createdAt": "2025-11-12T16:52:13Z",
     "description": "Simplest note taking 'plugin'. Is this even a plugin? I would not called it like that but hey.",
-    "isArchived": false,
-    "lastCommit": "2025-11-15T20:31:14Z",
+    "isArchived": true,
+    "lastCommit": "2026-01-07T10:55:48Z",
     "nameWithOwner": "SalOrak/note.nvim",
     "primaryLanguage": {
       "color": "#000080",

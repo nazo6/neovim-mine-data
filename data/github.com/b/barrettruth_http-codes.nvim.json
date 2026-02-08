@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "HTTP"
+        },
+        {
+          "level": 4,
+          "name": "Status"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2024-06-17T20:24:53Z",
+    "description": "HTTP status code viewer for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T19:04:18Z",
+    "nameWithOwner": "barrettruth/http-codes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "fzf-lua",
+      "neovim",
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "http-codes.nvim",
+  "owner": "barrettruth",
+  "url": "https://github.com/barrett-ruth/http-codes.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "HTML"
+        },
+        {
+          "level": 3,
+          "name": "live server"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2026-01-07T15:52:09Z",
+    "description": "A local development server with live reload inside a NeoVim",
+    "isArchived": false,
+    "lastCommit": "2026-02-01T21:57:43Z",
+    "nameWithOwner": "hyperstown/nvim-live-server",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-live-server",
+  "owner": "hyperstown",
+  "url": "https://github.com/hyperstown/nvim-live-server"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Embedded Software"
+        },
+        {
+          "level": 4,
+          "name": "WPILib"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-02T06:16:27Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T06:18:44Z",
+    "nameWithOwner": "Illuminate-dev/nvim-wpilib",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-wpilib",
+  "owner": "Illuminate-dev",
+  "url": "https://github.com/Illuminate-dev/nvim-wpilib"
+}

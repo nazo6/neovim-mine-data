@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "sudo"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-01-26T14:03:45Z",
+    "description": "A utility plugin for Neovim that adds a command to write with sudo, meant for use with non-password authentication.",
+    "isArchived": false,
+    "lastCommit": "2026-01-27T06:18:01Z",
+    "nameWithOwner": "pynappo/sudow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sudow.nvim",
+  "owner": "pynappo",
+  "url": "https://github.com/pynappo/sudow.nvim"
+}

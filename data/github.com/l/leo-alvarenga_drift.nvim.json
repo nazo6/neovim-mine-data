@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Scratch Buffer"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-02-03T15:58:05Z",
+    "description": "A tiny, zen-like mental backlog for Neovim. Quickly jot down what you’re doing, what you’ll do next, or any fleeting idea, without leaving your editor or breaking flow",
+    "isArchived": false,
+    "lastCommit": "2026-02-04T19:29:54Z",
+    "nameWithOwner": "leo-alvarenga/drift.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "drift.nvim",
+  "owner": "leo-alvarenga",
+  "url": "https://github.com/leo-alvarenga/drift.nvim"
+}

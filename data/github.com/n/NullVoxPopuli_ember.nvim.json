@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Ember"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2026-01-03T21:54:53Z",
+    "description": "Automatic configuration of neovim, treesitter, and lsp tools for ember projects.",
+    "isArchived": false,
+    "lastCommit": "2026-01-27T04:13:23Z",
+    "nameWithOwner": "NullVoxPopuli/ember.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ember.nvim",
+  "owner": "NullVoxPopuli",
+  "url": "https://github.com/NullVoxPopuli/ember.nvim"
+}

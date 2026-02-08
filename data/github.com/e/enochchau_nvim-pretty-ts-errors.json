@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "tsc(TypeScript compiler)"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-01-08T06:56:09Z",
+    "description": "pretty ts errors in neovim",
+    "isArchived": false,
+    "lastCommit": "2026-01-09T08:12:36Z",
+    "nameWithOwner": "enochchau/nvim-pretty-ts-errors",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 49,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pretty-ts-errors",
+  "owner": "enochchau",
+  "url": "https://github.com/enochchau/nvim-pretty-ts-errors"
+}

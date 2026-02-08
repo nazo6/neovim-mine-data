@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        },
+        {
+          "level": 3,
+          "name": "AST (Semantic search)"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-01-12T12:45:22Z",
+    "description": "Integrate bartolli/codanna with Telescope, Snacks Picker, and/or Mini.Picker",
+    "isArchived": false,
+    "lastCommit": "2026-01-26T11:42:03Z",
+    "nameWithOwner": "KyleKing/codanna.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codanna.nvim",
+  "owner": "KyleKing",
+  "url": "https://github.com/KyleKing/codanna.nvim"
+}

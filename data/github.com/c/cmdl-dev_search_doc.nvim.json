@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Documentation search"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-01-03T01:03:46Z",
+    "description": "Searches documentation on a file that you set",
+    "isArchived": false,
+    "lastCommit": "2026-01-03T01:49:41Z",
+    "nameWithOwner": "cmdl-dev/search_doc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "search_doc.nvim",
+  "owner": "cmdl-dev",
+  "url": "https://github.com/cmdl-dev/search_doc.nvim"
+}

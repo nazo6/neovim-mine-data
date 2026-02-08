@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Number"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-01-22T09:29:25Z",
+    "description": "A Neovim plugin that adds unobtrusive relative line numbers to the sign column.",
+    "isArchived": false,
+    "lastCommit": "2026-02-02T17:49:43Z",
+    "nameWithOwner": "StikyPiston/unobtrusive-relnums.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "unobtrusive-relnums.nvim",
+  "owner": "StikyPiston",
+  "url": "https://github.com/stikypiston/unobtrusive-relnums.nvim"
+}
