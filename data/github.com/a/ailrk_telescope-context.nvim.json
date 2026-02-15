@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "Jump"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-13T20:33:58Z",
+    "description": "A Neovim plugin to manage named contexts and locations with Telescope integration.",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T20:55:16Z",
+    "nameWithOwner": "ailrk/telescope-context.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-context.nvim",
+  "owner": "ailrk",
+  "url": "https://github.com/ailrk/telescope-context.nvim"
+}

@@ -16,7 +16,7 @@
         },
         {
           "level": 4,
-          "name": "C#"
+          "name": "C #"
         },
         {
           "level": 5,
@@ -32,17 +32,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 139,
+    "commitCountLastYear": 168,
     "createdAt": "2025-09-02T17:15:38Z",
     "description": "File watcher for Roslyn LSP in Neovim (C#)",
     "isArchived": false,
-    "lastCommit": "2026-02-06T18:06:22Z",
+    "lastCommit": "2026-02-13T12:31:38Z",
     "nameWithOwner": "khoido2003/roslyn-filewatch.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 17,
     "topics": [
       "file-watcher",
       "neovim",

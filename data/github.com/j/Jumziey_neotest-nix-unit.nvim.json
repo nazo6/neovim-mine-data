@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Test"
+        },
+        {
+          "level": 3,
+          "name": "Neotest adapter"
+        }
+      ],
+      "file": "test.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-08T22:13:25Z",
+    "description": "Neotest adapter for the nix-unit testing framework",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T22:20:26Z",
+    "nameWithOwner": "Jumziey/neotest-nix-unit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neotest-nix-unit.nvim",
+  "owner": "Jumziey",
+  "url": "https://github.com/Jumziey/neotest-nix-unit.nvim"
+}

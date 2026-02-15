@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-12T20:26:21Z",
+    "description": "Move your running nvim instance to your tmux session",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T10:53:13Z",
+    "nameWithOwner": "shateq/TmuxReparent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "TmuxReparent.nvim",
+  "owner": "shateq",
+  "url": "https://github.com/shateq/TmuxReparent.nvim"
+}

@@ -30,18 +30,20 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 291,
+    "commitCountLastYear": 293,
     "createdAt": "2025-04-03T06:01:59Z",
     "description": "A blueprint/template/guide to customize Neovim's UI using Lua.",
     "isArchived": false,
-    "lastCommit": "2025-12-07T14:01:31Z",
+    "lastCommit": "2026-02-14T03:35:20Z",
     "nameWithOwner": "OXY2DEV/ui.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 153,
+    "star": 154,
     "topics": [
+      "neovim-plugin",
+      "ui"
     ]
   },
   "domain": "github.com",

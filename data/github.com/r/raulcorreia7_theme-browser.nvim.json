@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Background"
+        },
+        {
+          "level": 3,
+          "name": "Switch theme"
+        }
+      ],
+      "file": "background.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-02-07T07:05:41Z",
+    "description": "Neovim theme browser with persistence, runtime install, and startup restore",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T08:01:31Z",
+    "nameWithOwner": "raulcorreia7/theme-browser.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "theme-browser.nvim",
+  "owner": "raulcorreia7",
+  "url": "https://github.com/raulcorreia7/theme-browser.nvim"
+}

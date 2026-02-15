@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-02-07T03:54:53Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T04:01:36Z",
+    "nameWithOwner": "fft-tf/macos-ime-status.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "macos-ime-status.nvim",
+  "owner": "fft-tf",
+  "url": "https://github.com/fft-tf/macos-ime-status.nvim"
+}

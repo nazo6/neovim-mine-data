@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-08T20:03:08Z",
+    "description": "A neovim plugin for 3-way diff merging a swap buffer with edits made on disk",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T20:23:33Z",
+    "nameWithOwner": "flamingoosesoftwareinc/swap-merge.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "swap-merge.nvim",
+  "owner": "flamingoosesoftwareinc",
+  "url": "https://github.com/flamingoosesoftwareinc/swap-merge.nvim"
+}

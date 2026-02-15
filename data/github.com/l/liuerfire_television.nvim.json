@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "fuzzy-finder.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-02-13T03:39:10Z",
+    "description": "A Neovim integration for television, a fast, portable, and hackable fuzzy finder.",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T16:22:04Z",
+    "nameWithOwner": "liuerfire/television.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "television"
+    ]
+  },
+  "domain": "github.com",
+  "name": "television.nvim",
+  "owner": "liuerfire",
+  "url": "https://github.com/liuerfire/television.nvim"
+}

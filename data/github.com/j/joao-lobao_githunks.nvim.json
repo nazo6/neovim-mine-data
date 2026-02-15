@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-11T13:39:25Z",
+    "description": "Neovim plugin to navigate through git hunks and display visual change signs in buffers.",
+    "isArchived": false,
+    "lastCommit": "2026-02-11T14:34:08Z",
+    "nameWithOwner": "joao-lobao/githunks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "githunks.nvim",
+  "owner": "joao-lobao",
+  "url": "https://github.com/joao-lobao/githunks.nvim"
+}

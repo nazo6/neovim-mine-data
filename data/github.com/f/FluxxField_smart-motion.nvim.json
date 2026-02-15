@@ -20,20 +20,19 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 391,
+    "commitCountLastYear": 429,
     "createdAt": "2025-02-28T14:12:57Z",
-    "description": "Composable motion framework for Neovim. Build custom motions from modular parts, chain them seamlessly with flow state, and create your own navigation systems.",
+    "description": "Label-based motion framework for Neovim — jump to words, lines, search matches, treesitter nodes, and more with composable operators (d/y/c/p) and multi-window support.",
     "isArchived": false,
-    "lastCommit": "2026-02-07T18:11:52Z",
+    "lastCommit": "2026-02-11T19:14:29Z",
     "nameWithOwner": "FluxxField/smart-motion.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 123,
+    "star": 137,
     "topics": [
       "easymotion",
-      "flow-state",
       "hop",
       "leap",
       "lua",
@@ -41,7 +40,8 @@
       "navigation",
       "neovim",
       "neovim-plugin",
-      "productivity"
+      "vim",
+      "vim-motions"
     ]
   },
   "domain": "github.com",

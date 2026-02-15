@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
+        },
+        {
+          "level": 4,
+          "name": "Discord"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-02-12T08:41:30Z",
+    "description": "Oxicord in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T08:42:42Z",
+    "nameWithOwner": "kaminzhi/oxicord.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "oxicord.nvim",
+  "owner": "kaminzhi",
+  "url": "https://github.com/kaminzhi/oxicord.nvim"
+}

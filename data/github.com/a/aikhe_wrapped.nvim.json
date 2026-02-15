@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Show assigned"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-02-14T02:46:19Z",
+    "description": "View your Neovim configuration insights, history, and heatmaps.",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T20:04:20Z",
+    "nameWithOwner": "aikhe/wrapped.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 51,
+    "topics": [
+      "neovim",
+      "nvim-plugin",
+      "volt",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wrapped.nvim",
+  "owner": "aikhe",
+  "url": "https://github.com/aikhe/wrapped.nvim"
+}

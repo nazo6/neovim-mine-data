@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Infra"
+        },
+        {
+          "level": 4,
+          "name": "Docker"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-12T18:45:14Z",
+    "description": "wrapper plugin for opal-cli",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T18:58:57Z",
+    "nameWithOwner": "zion-off/opal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "opal.nvim",
+  "owner": "zion-off",
+  "url": "https://github.com/zion-off/opal.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Ghidra"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-07T01:35:39Z",
+    "description": "A neovim plugin for Ghidra (SRE) development",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T01:35:28Z",
+    "nameWithOwner": "jdearmas/ghidra.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ghidra.nvim",
+  "owner": "jdearmas",
+  "url": "https://github.com/jdearmas/ghidra.nvim"
+}

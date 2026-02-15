@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration"
+        },
+        {
+          "level": 3,
+          "name": "42"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-09T11:15:27Z",
+    "description": "nvim header42 lua plugin",
+    "isArchived": false,
+    "lastCommit": "2026-02-09T21:05:51Z",
+    "nameWithOwner": "Ilaivdv/nvim-42header",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-42header",
+  "owner": "Ilaivdv",
+  "url": "https://github.com/Ilaivdv/nvim-42header"
+}

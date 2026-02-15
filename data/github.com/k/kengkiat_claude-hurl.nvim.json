@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-02-08T09:19:44Z",
+    "description": "Route Claude Code's Ctrl+G editor to your existing NeoVim instance",
+    "isArchived": false,
+    "lastCommit": "2026-02-10T10:25:34Z",
+    "nameWithOwner": "kengkiat/claude-hurl.nvim",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 2,
+    "topics": [
+      "ai",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "neovim",
+      "neovim-plugin",
+      "tmux"
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-hurl.nvim",
+  "owner": "kengkiat",
+  "url": "https://github.com/kengkiat/claude-hurl.nvim"
+}

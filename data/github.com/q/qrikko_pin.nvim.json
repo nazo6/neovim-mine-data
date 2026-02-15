@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "extmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-02-13T17:59:04Z",
+    "description": "using neovim exmark to temporarily pin it while comparing",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T23:52:57Z",
+    "nameWithOwner": "qrikko/pin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pin.nvim",
+  "owner": "qrikko",
+  "url": "https://github.com/qrikko/pin.nvim"
+}

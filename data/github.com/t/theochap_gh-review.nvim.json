@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Pull Request"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2026-02-07T05:56:37Z",
+    "description": "Neovim plugin for reviewing GitHub PRs inline",
+    "isArchived": false,
+    "lastCommit": "2026-02-09T19:18:43Z",
+    "nameWithOwner": "theochap/gh-review.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gh-review.nvim",
+  "owner": "theochap",
+  "url": "https://github.com/theochap/gh-review.nvim"
+}

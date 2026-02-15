@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Symbol"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Markdown and LaTeX"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2026-02-11T18:29:11Z",
+    "description": "Prettify symbols for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-15T06:58:52Z",
+    "nameWithOwner": "Prgebish/sigil.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sigil.nvim",
+  "owner": "Prgebish",
+  "url": "https://github.com/Prgebish/sigil.nvim"
+}

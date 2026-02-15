@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-02-09T22:53:37Z",
+    "description": "Neovim plugin for Birdcar Flavored Markdown — completions, task cycling, folding, concealing",
+    "isArchived": false,
+    "lastCommit": "2026-02-09T23:36:01Z",
+    "nameWithOwner": "birdcar/bfm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bfm.nvim",
+  "owner": "birdcar",
+  "url": "https://github.com/birdcar/bfm.nvim"
+}

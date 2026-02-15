@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        },
+        {
+          "level": 3,
+          "name": "AGENTS.md"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 527,
+    "createdAt": "2026-01-30T23:54:10Z",
+    "description": "The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T21:25:53Z",
+    "nameWithOwner": "avifenesh/agnix",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 35,
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-coding-assistant",
+      "claude",
+      "cli",
+      "code-quality",
+      "codex",
+      "copilot",
+      "cursor"
+    ]
+  },
+  "domain": "github.com",
+  "name": "agnix",
+  "owner": "avifenesh",
+  "url": "https://github.com/avifenesh/agnix"
+}

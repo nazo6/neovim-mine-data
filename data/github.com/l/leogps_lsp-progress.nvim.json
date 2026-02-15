@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Progress"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-13T18:46:15Z",
+    "description": "LSP progress visualization for nvim, customizable, unobtrusive and generic.",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T18:49:45Z",
+    "nameWithOwner": "leogps/lsp-progress.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-progress.nvim",
+  "owner": "leogps",
+  "url": "https://github.com/leogps/lsp-progress.nvim"
+}

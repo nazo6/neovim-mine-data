@@ -21,6 +21,20 @@
       ],
       "file": "lsp.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
@@ -34,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 6,
     "topics": [
       "document-highlight",
       "lsp",

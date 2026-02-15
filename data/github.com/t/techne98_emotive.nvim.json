@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Emoji"
+        },
+        {
+          "level": 3,
+          "name": "Emoji FuzzyFinder"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-02-09T10:49:54Z",
+    "description": "An emoji picker for Telescope in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T18:32:55Z",
+    "nameWithOwner": "techne98/emotive.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "lua",
+      "neovim",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "emotive.nvim",
+  "owner": "techne98",
+  "url": "https://github.com/techne98/emotive.nvim"
+}

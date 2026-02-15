@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 179,
+    "commitCountLastYear": 169,
     "createdAt": "2024-08-17T14:08:38Z",
-    "description": "A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.",
+    "description": "A large language model (LLM) plugin for Neovim, provides commands to interact with LLM (like ChatGPT, Copilot, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.",
     "isArchived": false,
-    "lastCommit": "2026-02-07T12:45:57Z",
+    "lastCommit": "2026-02-13T12:49:14Z",
     "nameWithOwner": "Kurama622/llm.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 446,
+    "star": 458,
     "topics": [
       "chatgpt",
       "github-models",

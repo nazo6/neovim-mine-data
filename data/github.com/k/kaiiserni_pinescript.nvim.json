@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "WSL"
+        },
+        {
+          "level": 4,
+          "name": "Pine Script"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-07T11:30:53Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-06T23:40:06Z",
+    "nameWithOwner": "kaiiserni/pinescript.nvim",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pinescript.nvim",
+  "owner": "kaiiserni",
+  "url": "https://github.com/kaiiserni/pinescript.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Mapping stat"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-13T02:54:39Z",
+    "description": "A fitness tracker for your Vim motions.",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T03:24:18Z",
+    "nameWithOwner": "duotang12/vft.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vft.nvim",
+  "owner": "duotang12",
+  "url": "https://github.com/duotang12/vft.nvim"
+}

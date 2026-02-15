@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Terminal"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-02-12T23:52:43Z",
+    "description": "Neovim bridge to send context from nvim to Factory Droid running in a tmux pane.",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T22:48:23Z",
+    "nameWithOwner": "Asylcreek/droid-tmux.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "droid-tmux.nvim",
+  "owner": "Asylcreek",
+  "url": "https://github.com/Asylcreek/droid-tmux.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Register Selector"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2025-09-09T07:43:44Z",
+    "description": "Basic neovim clipboard manager",
+    "isArchived": false,
+    "lastCommit": "2025-09-17T14:14:42Z",
+    "nameWithOwner": "Sebb57/clipThat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "clipThat.nvim",
+  "owner": "Sebb57",
+  "url": "https://github.com/DoussangSebastien/clipThat.nvim"
+}

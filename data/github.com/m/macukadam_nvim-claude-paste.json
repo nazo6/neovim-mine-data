@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Copy File Context"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-02-07T23:50:51Z",
+    "description": "Neovim plugin to collect code references and paste them into a Claude Code tmux session.",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T10:57:37Z",
+    "nameWithOwner": "macukadam/nvim-claude-paste",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-claude-paste",
+  "owner": "macukadam",
+  "url": "https://github.com/macukadam/nvim-claude-paste"
+}

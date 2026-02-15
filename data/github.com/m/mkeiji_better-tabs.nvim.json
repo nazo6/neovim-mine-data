@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-08T07:45:06Z",
+    "description": "Neovim plugin that implements window-specific buffer management",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T06:01:46Z",
+    "nameWithOwner": "mkeiji/better-tabs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "better-tabs.nvim",
+  "owner": "mkeiji",
+  "url": "https://github.com/mkeiji/better-tabs.nvim"
+}

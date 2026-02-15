@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Apple music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-02-07T08:22:58Z",
+    "description": "You can control Apple Music in Vim",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T03:16:33Z",
+    "nameWithOwner": "kaminzhi/apple-music.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "applemusic",
+      "applescript",
+      "lua",
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "apple-music.nvim",
+  "owner": "kaminzhi",
+  "url": "https://github.com/kaminzhi/apple-music.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Task Tracking"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-08T16:25:35Z",
+    "description": "Taskflow.nvim is a SQLite-backed task system for Neovim focused on fast capture, real dashboards, and repeatable workflows.",
+    "isArchived": false,
+    "lastCommit": "2026-02-09T19:23:10Z",
+    "nameWithOwner": "sminrana/nvim-taskflow",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "task-manager",
+      "todolist"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-taskflow",
+  "owner": "sminrana",
+  "url": "https://github.com/sminrana/nvim-taskflow"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Mermaid"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-11T16:34:16Z",
+    "description": "Neovim Plugin for rendering Mermaid diagrams",
+    "isArchived": false,
+    "lastCommit": "2026-02-11T16:34:47Z",
+    "nameWithOwner": "The-Ox-22/beautiful-mermaid.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "beautiful-mermaid.nvim",
+  "owner": "The-Ox-22",
+  "url": "https://github.com/The-Ox-22/beautiful-mermaid.nvim"
+}

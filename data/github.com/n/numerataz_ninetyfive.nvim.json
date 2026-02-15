@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 181,
+    "createdAt": "2025-02-21T21:15:46Z",
+    "description": "A Neovim plugin that provides really fast code suggestions.",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T16:23:16Z",
+    "nameWithOwner": "numerataz/ninetyfive.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 20,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ninetyfive.nvim",
+  "owner": "numerataz",
+  "url": "https://github.com/ninetyfive-gg/ninetyfive.nvim"
+}

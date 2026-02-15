@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "inline note"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2026-02-12T01:53:15Z",
+    "description": "code annotation plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-15T09:31:15Z",
+    "nameWithOwner": "zion-off/mole.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 45,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mole.nvim",
+  "owner": "zion-off",
+  "url": "https://github.com/zion-off/mole.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "WSL"
+        },
+        {
+          "level": 4,
+          "name": "Umple"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-11T04:25:07Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T17:15:07Z",
+    "nameWithOwner": "umple/umple.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "umple.nvim",
+  "owner": "umple",
+  "url": "https://github.com/umple/umple.nvim"
+}

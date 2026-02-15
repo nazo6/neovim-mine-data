@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development Tools"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-11T22:45:52Z",
+    "description": "A helpful TUI for neovim plugin maintainers to keep track of their maintained plugins",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T15:03:09Z",
+    "nameWithOwner": "cosmicbuffalo/maintainer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "maintainer.nvim",
+  "owner": "cosmicbuffalo",
+  "url": "https://github.com/cosmicbuffalo/maintainer.nvim"
+}

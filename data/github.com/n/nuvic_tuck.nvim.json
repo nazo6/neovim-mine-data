@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        },
+        {
+          "level": 3,
+          "name": "Auto fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-02-12T18:24:21Z",
+    "description": "A Neovim plugin that automatically fold function bodies and unfolds on LSP navigation",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T05:41:40Z",
+    "nameWithOwner": "nuvic/tuck.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tuck.nvim",
+  "owner": "nuvic",
+  "url": "https://github.com/nuvic/tuck.nvim"
+}

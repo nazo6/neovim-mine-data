@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-01-16T01:28:20Z",
+    "description": "simpliest neovim inline diff with character level highlighting",
+    "isArchived": false,
+    "lastCommit": "2026-02-11T00:33:53Z",
+    "nameWithOwner": "YouSame2/inlinediff-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 17,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "inlinediff-nvim",
+  "owner": "YouSame2",
+  "url": "https://github.com/YouSame2/inlinediff-nvim"
+}

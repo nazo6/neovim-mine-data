@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "Get LSP Client"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-02-07T21:57:08Z",
+    "description": "Tool for agents to interact with lsps running in neovim instances",
+    "isArchived": false,
+    "lastCommit": "2026-02-09T16:52:33Z",
+    "nameWithOwner": "robcmills/nvim-lsp-bridge",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-lsp-bridge",
+  "owner": "robcmills",
+  "url": "https://github.com/robcmills/nvim-lsp-bridge"
+}

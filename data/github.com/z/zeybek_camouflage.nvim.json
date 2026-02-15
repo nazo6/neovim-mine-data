@@ -1,0 +1,65 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Secrets"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2026-02-10T01:42:26Z",
+    "description": "Mask sensitive values in config files during screen sharing. Supports .env, JSON, YAML, TOML, XML, Terraform/HCL, Dockerfile, and more. Zero file modification - uses Neovim extmarks.",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T10:34:44Z",
+    "nameWithOwner": "zeybek/camouflage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 33,
+    "topics": [
+      "dotenv",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "privacy",
+      "screen-sharing",
+      "secrets",
+      "security",
+      "devops"
+    ]
+  },
+  "domain": "github.com",
+  "name": "camouflage.nvim",
+  "owner": "zeybek",
+  "url": "https://github.com/zeybek/camouflage.nvim"
+}

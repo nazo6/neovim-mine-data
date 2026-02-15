@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Multiple word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-13T09:35:47Z",
+    "description": "A Neovim plugin for temporary highlighting of words and text ranges.",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T09:36:50Z",
+    "nameWithOwner": "jwu/easyhl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "easyhl.nvim",
+  "owner": "jwu",
+  "url": "https://github.com/jwu/easyhl.nvim"
+}

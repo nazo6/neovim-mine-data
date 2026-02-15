@@ -17,20 +17,38 @@
       ],
       "file": "os.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "External"
+        },
+        {
+          "level": 3,
+          "name": "OS-specific"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 69,
+    "commitCountLastYear": 72,
     "createdAt": "2026-02-04T15:59:46Z",
     "description": "Neovim plugin for Android and KMP: build, run, logcat, AVD management, and Gradle tasks.",
     "isArchived": false,
-    "lastCommit": "2026-02-06T23:58:53Z",
+    "lastCommit": "2026-02-10T15:10:05Z",
     "nameWithOwner": "iamironz/android-nvim-plugin",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 8,
+    "star": 11,
     "topics": [
       "adb",
       "android",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Viewer"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-02-07T14:02:02Z",
+    "description": "Image/video gallery browser for Neovim using snacks.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-02-10T17:10:19Z",
+    "nameWithOwner": "TKasperczyk/snacks-gallery.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-gallery.nvim",
+  "owner": "TKasperczyk",
+  "url": "https://github.com/TKasperczyk/snacks-gallery.nvim"
+}

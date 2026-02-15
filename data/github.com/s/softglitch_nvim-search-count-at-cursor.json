@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        },
+        {
+          "level": 3,
+          "name": "Search count"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-12T10:42:13Z",
+    "description": "A Neovim plugin that displays search count in a floating window at your cursor instead of the bottom corner, making it easier to track search progress and notice when searches wrap around.",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T11:40:09Z",
+    "nameWithOwner": "softglitch/nvim-search-count-at-cursor",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-search-count-at-cursor",
+  "owner": "softglitch",
+  "url": "https://github.com/softglitch/nvim-search-count-at-cursor"
+}

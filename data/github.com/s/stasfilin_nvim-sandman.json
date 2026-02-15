@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2026-02-08T06:52:26Z",
+    "description": "Lightweight Neovim plugin to block network access from plugins.",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T14:52:14Z",
+    "nameWithOwner": "stasfilin/nvim-sandman",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+      "lua",
+      "network",
+      "network-security",
+      "networking",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-sandman",
+  "owner": "stasfilin",
+  "url": "https://github.com/stasfilin/nvim-sandman"
+}

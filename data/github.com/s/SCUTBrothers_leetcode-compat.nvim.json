@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 3,
+          "name": "LeetCode"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-11T07:27:30Z",
+    "description": "Neovim LeetCode plugin compatible with VSCode LeetCode file format",
+    "isArchived": false,
+    "lastCommit": "2026-02-11T10:18:08Z",
+    "nameWithOwner": "SCUTBrothers/leetcode-compat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "leetcode-compat.nvim",
+  "owner": "SCUTBrothers",
+  "url": "https://github.com/SCUTBrothers/leetcode-compat.nvim"
+}

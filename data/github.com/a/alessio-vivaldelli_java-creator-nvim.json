@@ -1,0 +1,54 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2025-08-13T14:04:55Z",
+    "description": "Neovim plugin for generating Java files (classes, interfaces, enums, records) with package-aware autocompletion.",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T16:06:46Z",
+    "nameWithOwner": "alessio-vivaldelli/java-creator-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 24,
+    "topics": [
+      "java",
+      "nvim",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "java-creator-nvim",
+  "owner": "alessio-vivaldelli",
+  "url": "https://github.com/alessio-vivaldelli/java-creator-nvim"
+}

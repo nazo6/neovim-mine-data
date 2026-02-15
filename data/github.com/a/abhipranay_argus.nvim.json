@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Code outline"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-07T22:19:35Z",
+    "description": "Go code outline plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T22:36:28Z",
+    "nameWithOwner": "abhipranay/argus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "golang",
+      "lazyvim",
+      "nvim",
+      "nvim-plugin",
+      "outline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "argus.nvim",
+  "owner": "abhipranay",
+  "url": "https://github.com/abhipranay/argus.nvim"
+}

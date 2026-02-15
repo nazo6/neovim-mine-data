@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "AWS"
+        },
+        {
+          "level": 5,
+          "name": "S3"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-12T14:22:50Z",
+    "description": "Wrapper around aws-cli that simplifies copying text snippets to AWS S3.",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T14:51:28Z",
+    "nameWithOwner": "tdfacer/s3-copy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "s3-copy.nvim",
+  "owner": "tdfacer",
+  "url": "https://github.com/tdfacer/s3-copy.nvim"
+}

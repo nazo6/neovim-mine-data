@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 126,
+    "commitCountLastYear": 154,
     "createdAt": "2026-01-28T06:52:08Z",
-    "description": "Manage Pipenv from within Neovim",
+    "description": "Asynchronous Pipenv management from within Neovim.",
     "isArchived": false,
-    "lastCommit": "2026-02-08T07:50:07Z",
+    "lastCommit": "2026-02-14T19:27:11Z",
     "nameWithOwner": "DrKJeff16/pipenv.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 7,
     "topics": [
       "neovim",
       "neovim-lua",

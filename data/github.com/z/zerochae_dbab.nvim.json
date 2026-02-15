@@ -13,19 +13,33 @@
       ],
       "file": "db.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 34,
     "createdAt": "2026-02-05T08:24:09Z",
     "isArchived": false,
-    "lastCommit": "2026-02-07T10:02:57Z",
+    "lastCommit": "2026-02-09T06:43:30Z",
     "nameWithOwner": "zerochae/dbab.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 17,
+    "star": 22,
     "topics": [
     ]
   },

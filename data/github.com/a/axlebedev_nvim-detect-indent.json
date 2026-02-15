@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Indent"
+        },
+        {
+          "level": 3,
+          "name": "Indent Size"
+        }
+      ],
+      "file": "indent.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-10T09:22:58Z",
+    "description": "nvim plugin: detect indent on bufenter",
+    "isArchived": false,
+    "lastCommit": "2026-02-10T10:34:02Z",
+    "nameWithOwner": "axlebedev/nvim-detect-indent",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-detect-indent",
+  "owner": "axlebedev",
+  "url": "https://github.com/axlebedev/nvim-detect-indent"
+}

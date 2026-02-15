@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "LMStudio"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-02-08T13:41:12Z",
+    "description": "Minimal Neovim plugin for inline coding prompts with local LLM setup using LM Studio",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T20:23:46Z",
+    "nameWithOwner": "mikusriekstins/inlinecoder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "inlinecoder.nvim",
+  "owner": "mikusriekstins",
+  "url": "https://github.com/mikusriekstins/inlinecoder.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-10T16:52:57Z",
+    "description": "A minimal, fast, and beautiful floating terminal plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T17:37:11Z",
+    "nameWithOwner": "latuconsinafr/simpleterm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simpleterm.nvim",
+  "owner": "latuconsinafr",
+  "url": "https://github.com/latuconsinafr/simpleterm.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Path"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-02-07T15:16:03Z",
+    "description": "Neovim Plugin to copy current file path to clipboard ",
+    "isArchived": false,
+    "lastCommit": "2026-02-07T21:13:56Z",
+    "nameWithOwner": "lamecksilva/lameck-copypath.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lameck-copypath.nvim",
+  "owner": "lamecksilva",
+  "url": "https://github.com/lamecksilva/lameck-copypath.nvim"
+}

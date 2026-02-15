@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "blink source"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-02-08T19:23:08Z",
+    "description": "Any AI provider into your blink sources (WIP)",
+    "isArchived": false,
+    "lastCommit": "2026-02-09T02:27:41Z",
+    "nameWithOwner": "DrSh4dow/blink-ai.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-ai.nvim",
+  "owner": "DrSh4dow",
+  "url": "https://github.com/DrSh4dow/blink-ai.nvim"
+}

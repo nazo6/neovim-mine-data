@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "Neovim doc"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-12T04:08:10Z",
+    "description": "helpful.vim version lookup lua port",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T04:15:26Z",
+    "nameWithOwner": "phanen/helpful.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "help",
+      "helpful",
+      "nvim-plugin",
+      "vimdoc"
+    ]
+  },
+  "domain": "github.com",
+  "name": "helpful.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/helpful.nvim"
+}

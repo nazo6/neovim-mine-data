@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "Filer switcher"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-02-11T18:22:26Z",
+    "description": "Combines fzf-lua and oil.nvim for finding and file browsing, with seamless toggling between them.",
+    "isArchived": false,
+    "lastCommit": "2026-02-11T20:14:38Z",
+    "nameWithOwner": "ingur/fzf-oil.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzf-oil.nvim",
+  "owner": "ingur",
+  "url": "https://github.com/ingur/fzf-oil.nvim"
+}

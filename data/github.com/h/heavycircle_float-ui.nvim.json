@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "Popup"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-08T21:23:25Z",
+    "description": "FloatUI provides fresh Neovim UI changes emphasizing floating windows.",
+    "isArchived": false,
+    "lastCommit": "2026-02-09T03:24:31Z",
+    "nameWithOwner": "heavycircle/float-ui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-ui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "float-ui.nvim",
+  "owner": "heavycircle",
+  "url": "https://github.com/heavycircle/float-ui.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Google Docs"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-02-07T02:50:38Z",
+    "description": "Edit Google Docs in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-08T00:19:53Z",
+    "nameWithOwner": "nithilgadde/gdocs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gdocs.nvim",
+  "owner": "nithilgadde",
+  "url": "https://github.com/nithilgadde/gdocs.nvim"
+}

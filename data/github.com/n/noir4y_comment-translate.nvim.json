@@ -16,23 +16,27 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 25,
     "createdAt": "2026-01-10T12:50:38Z",
-    "description": "Neovim plugin to translate comments on hover or immersive inline view.",
+    "description": "Neovim plugin to translate comments and strings using hover or immersive inline view, with LLM and local model support",
     "isArchived": false,
-    "lastCommit": "2026-02-08T06:08:03Z",
+    "lastCommit": "2026-02-15T02:42:44Z",
     "nameWithOwner": "noir4y/comment-translate.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 7,
     "topics": [
       "developer-tools",
       "neovim",
       "neovim-plugin",
       "translation",
-      "treesitter"
+      "treesitter",
+      "llm",
+      "local-llm",
+      "localllm",
+      "ollama"
     ]
   },
   "domain": "github.com",

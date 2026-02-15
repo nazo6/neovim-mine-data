@@ -16,13 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 6,
     "createdAt": "2026-01-27T12:05:47Z",
     "description": "Modern code-review plugin for nvim",
     "isArchived": false,
-    "lastCommit": "2026-01-28T13:54:07Z",
+    "lastCommit": "2026-02-12T05:31:22Z",
     "nameWithOwner": "anonymus1145/rev.nvim",
-    "star": 2,
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
     "topics": [
     ]
   },

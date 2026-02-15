@@ -9,6 +9,10 @@
         {
           "level": 2,
           "name": "Agent"
+        },
+        {
+          "level": 3,
+          "name": "Pi Coding Agent"
         }
       ],
       "file": "ai.md",
@@ -16,18 +20,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 25,
     "createdAt": "2026-02-06T15:52:46Z",
-    "description": "The most minimal coding agent, now in neovim",
+    "description": "The most minimal AI coding agent, now in neovim",
     "isArchived": false,
-    "lastCommit": "2026-02-07T22:37:47Z",
+    "lastCommit": "2026-02-09T22:46:37Z",
     "nameWithOwner": "pablopunk/pi.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 23,
+    "star": 26,
     "topics": [
+      "agent",
+      "ai",
+      "coding",
+      "editor",
+      "neovim",
+      "nvim",
+      "pi",
+      "vi",
+      "vibe-coding",
+      "vim"
     ]
   },
   "domain": "github.com",

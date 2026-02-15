@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LICENSE"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-02-11T17:13:08Z",
+    "description": "Plugin for creating LICENSE files",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T15:55:41Z",
+    "nameWithOwner": "SayC8/license_gen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "license_gen.nvim",
+  "owner": "SayC8",
+  "url": "https://github.com/SayC8/license_gen.nvim"
+}

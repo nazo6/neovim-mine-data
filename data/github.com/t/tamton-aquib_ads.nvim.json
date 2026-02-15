@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Joke"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-08T14:45:20Z",
+    "description": "Advertisements inside Neovim.  (no electron required)",
+    "isArchived": false,
+    "lastCommit": "2026-02-09T15:53:30Z",
+    "nameWithOwner": "tamton-aquib/ads.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 19,
+    "topics": [
+      "ads",
+      "neovim",
+      "nvim",
+      "vscode"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ads.nvim",
+  "owner": "tamton-aquib",
+  "url": "https://github.com/tamton-aquib/ads.nvim"
+}

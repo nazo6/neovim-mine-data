@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lint"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-02-11T21:10:41Z",
+    "description": "An Stylelint plugin for Neovim, using VSCode Stylelint LSP and native nvim LSP client",
+    "isArchived": false,
+    "lastCommit": "2026-02-12T09:55:10Z",
+    "nameWithOwner": "leiswatch/nvim-stylelint",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-stylelint",
+  "owner": "leiswatch",
+  "url": "https://github.com/leiswatch/nvim-stylelint"
+}

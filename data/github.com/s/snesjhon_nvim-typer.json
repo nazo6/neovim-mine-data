@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Typing"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-13T00:57:12Z",
+    "description": "monkeytype but for code",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T23:49:04Z",
+    "nameWithOwner": "snesjhon/nvim-typer",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-typer",
+  "owner": "snesjhon",
+  "url": "https://github.com/snesjhon/nvim-typer"
+}

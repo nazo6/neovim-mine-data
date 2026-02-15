@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Operator"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 189,
+    "createdAt": "2025-06-11T19:50:22Z",
+    "description": "A Neovim plugin to mark occurrences of words/patterns/selections in a buffer and perform operations on them.  Inspired by vim-mode-plus's occurrence feature.",
+    "isArchived": false,
+    "lastCommit": "2026-02-13T17:17:03Z",
+    "nameWithOwner": "lettertwo/occurrence.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "occurrence.nvim",
+  "owner": "lettertwo",
+  "url": "https://github.com/lettertwo/occurrence.nvim"
+}

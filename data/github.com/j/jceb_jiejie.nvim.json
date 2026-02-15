@@ -30,22 +30,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 91,
+    "commitCountLastYear": 106,
     "createdAt": "2026-01-06T06:17:05Z",
     "description": "Neovim frontend for Jujutsu in the style of vim-fugitive",
     "isArchived": false,
-    "lastCommit": "2026-02-02T15:37:48Z",
+    "lastCommit": "2026-02-15T08:27:29Z",
     "nameWithOwner": "jceb/jiejie.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 40,
+    "star": 42,
     "topics": [
       "jujutsu",
       "neovim",
       "plugin",
-      "fugitive"
+      "fugitive",
+      "git"
     ]
   },
   "domain": "github.com",

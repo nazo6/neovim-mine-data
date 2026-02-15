@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git status"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-02-13T16:25:24Z",
+    "description": "A minimal, tig-like Git control for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T00:48:26Z",
+    "nameWithOwner": "nabetama/lean-tig.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lean-tig.nvim",
+  "owner": "nabetama",
+  "url": "https://github.com/nabetama/lean-tig.nvim"
+}
