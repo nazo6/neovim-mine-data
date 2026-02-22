@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Task Runner"
+        },
+        {
+          "level": 4,
+          "name": "Vite"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-16T11:41:10Z",
+    "description": "launch-editor for nvim by using lua socket startable at runtime",
+    "isArchived": false,
+    "lastCommit": "2026-02-16T11:36:20Z",
+    "nameWithOwner": "MarcWeber/nvim-vite-launch-editor",
+    "primaryLanguage": {
+      "color": "#89e051",
+      "name": "Shell"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-vite-launch-editor",
+  "owner": "MarcWeber",
+  "url": "https://github.com/MarcWeber/nvim-vite-launch-editor"
+}

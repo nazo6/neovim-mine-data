@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-02-16T14:01:18Z",
+    "description": "Neovim plugin for local LLM integration via REST APIs",
+    "isArchived": false,
+    "lastCommit": "2026-02-17T08:01:34Z",
+    "nameWithOwner": "harshel721/VayAI.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "VayAI.nvim",
+  "owner": "harshel721",
+  "url": "https://github.com/harshel721/VayAI.nvim"
+}

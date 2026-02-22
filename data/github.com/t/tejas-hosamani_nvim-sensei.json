@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Ollama"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-14T18:39:59Z",
+    "description": "A Neovim plugin that connects to a local Ollama instance to answer your Neovim questions in a floating chat window. Get concise, actionable answers without leaving your editor.",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T19:05:02Z",
+    "nameWithOwner": "tejas-hosamani/nvim-sensei",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-sensei",
+  "owner": "tejas-hosamani",
+  "url": "https://github.com/tejas-hosamani/nvim-sensei"
+}

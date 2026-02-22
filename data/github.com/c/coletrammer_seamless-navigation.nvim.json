@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Switcher"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-17T06:01:04Z",
+    "description": "Neovim plugin which implements the seamless navigation protocol (OSC 8671)",
+    "isArchived": false,
+    "lastCommit": "2026-02-17T07:23:58Z",
+    "nameWithOwner": "coletrammer/seamless-navigation.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "seamless-navigation.nvim",
+  "owner": "coletrammer",
+  "url": "https://github.com/coletrammer/seamless-navigation.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Task Tracking"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-02-17T23:33:07Z",
+    "description": "Neovim plugin for yaks development",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T04:46:53Z",
+    "nameWithOwner": "joelgwebber/yaks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yaks.nvim",
+  "owner": "joelgwebber",
+  "url": "https://github.com/joelgwebber/yaks.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PlantUML"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-02-19T02:34:37Z",
+    "description": "PlantUML preview plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T23:09:47Z",
+    "nameWithOwner": "githiago-f/plantuml.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plantuml.nvim",
+  "owner": "githiago-f",
+  "url": "https://github.com/githiago-f/plantuml.nvim"
+}

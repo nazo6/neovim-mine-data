@@ -56,7 +56,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 80,
+    "commitCountLastYear": 40,
     "createdAt": "2022-07-06T18:00:30Z",
     "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
     "isArchived": false,
@@ -66,7 +66,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10032,
+    "star": 10053,
     "topics": [
       "lua",
       "mason",

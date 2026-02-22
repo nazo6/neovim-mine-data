@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "struct"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-16T10:23:28Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-16T13:00:22Z",
+    "nameWithOwner": "sebastianring/go-struct-json.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "go-struct-json.nvim",
+  "owner": "sebastianring",
+  "url": "https://github.com/sebastianring/go-struct-json.nvim"
+}

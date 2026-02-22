@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git add"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2026-02-14T09:41:33Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T11:46:00Z",
+    "nameWithOwner": "ktakayama/partial-stage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "git",
+      "neovim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "partial-stage.nvim",
+  "owner": "ktakayama",
+  "url": "https://github.com/ktakayama/partial-stage.nvim"
+}

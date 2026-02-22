@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Copilot"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-18T06:47:07Z",
+    "description": "Copilot CLI integration for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2026-02-18T06:46:50Z",
+    "nameWithOwner": "analogrelay/copilot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copilot.nvim",
+  "owner": "analogrelay",
+  "url": "https://github.com/analogrelay/copilot.nvim"
+}

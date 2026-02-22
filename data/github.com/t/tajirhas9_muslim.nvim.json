@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Religion"
+        },
+        {
+          "level": 4,
+          "name": "Muslim"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2025-11-30T06:33:29Z",
+    "description": "Get prayer time displayed in neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T13:44:00Z",
+    "nameWithOwner": "tajirhas9/muslim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 27,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "muslim.nvim",
+  "owner": "tajirhas9",
+  "url": "https://github.com/tajirhas9/muslim.nvim"
+}

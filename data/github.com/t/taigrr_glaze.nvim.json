@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "for CLI"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-02-19T00:34:42Z",
+    "description": "🍩 A Mason/Lazy-style manager for Go binaries in Neovim. Go + Lazy = Glaze.",
+    "isArchived": false,
+    "lastCommit": "2026-02-19T06:18:11Z",
+    "nameWithOwner": "taigrr/glaze.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "golang",
+      "lazy-nvim",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "package-manager"
+    ]
+  },
+  "domain": "github.com",
+  "name": "glaze.nvim",
+  "owner": "taigrr",
+  "url": "https://github.com/taigrr/glaze.nvim"
+}

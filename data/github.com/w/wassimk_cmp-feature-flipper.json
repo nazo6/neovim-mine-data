@@ -2,25 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Ruby"
-        }
       ],
-      "file": "ruby.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 4,
     "createdAt": "2022-07-15T22:54:59Z",
-    "description": "An nvim-cmp source for the Ruby flipper gem",
-    "isArchived": false,
-    "lastCommit": "2025-06-29T14:08:57Z",
+    "description": "[DEPRECATED] Use wassimk/flipper-complete.nvim instead",
+    "isArchived": true,
+    "lastCommit": "2026-02-21T03:00:03Z",
     "nameWithOwner": "wassimk/cmp-feature-flipper",
     "primaryLanguage": {
       "color": "#000080",

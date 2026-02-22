@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 79,
+    "createdAt": "2026-01-26T16:03:59Z",
+    "description": "Neovim plugin for sending context to tmux targets. Mange your AI assistants, test runners and more. Zero startup cost, with placeholders smart context and configurable behaviors ",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T16:42:21Z",
+    "nameWithOwner": "MSmaili/wiremux.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 25,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-plugins",
+      "tmux",
+      "tmux-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wiremux.nvim",
+  "owner": "MSmaili",
+  "url": "https://github.com/MSmaili/wiremux.nvim"
+}

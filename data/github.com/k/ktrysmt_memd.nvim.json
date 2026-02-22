@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Mermaid"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-17T14:07:59Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T11:44:21Z",
+    "nameWithOwner": "ktrysmt/memd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "markdown",
+      "mermaid",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "memd.nvim",
+  "owner": "ktrysmt",
+  "url": "https://github.com/ktrysmt/memd.nvim"
+}

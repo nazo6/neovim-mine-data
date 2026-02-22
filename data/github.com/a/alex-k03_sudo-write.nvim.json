@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "sudo"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-17T14:26:43Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-17T15:19:41Z",
+    "nameWithOwner": "alex-k03/sudo-write.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sudo-write.nvim",
+  "owner": "alex-k03",
+  "url": "https://github.com/alex-k03/sudo-write.nvim"
+}

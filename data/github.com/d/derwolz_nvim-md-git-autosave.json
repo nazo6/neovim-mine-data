@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "Auto commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-02-17T20:53:33Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T04:46:49Z",
+    "nameWithOwner": "derwolz/nvim-md-git-autosave",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-md-git-autosave",
+  "owner": "derwolz",
+  "url": "https://github.com/derwolz/nvim-md-git-autosave"
+}

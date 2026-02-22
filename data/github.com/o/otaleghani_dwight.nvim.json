@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-19T10:05:54Z",
+    "description": "\"Assistant to the regional coder\". A Neovim AI assistant that puts you in the driver's seat with project-local skills and context-aware generation.",
+    "isArchived": false,
+    "lastCommit": "2026-02-19T15:20:40Z",
+    "nameWithOwner": "otaleghani/dwight.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "ai",
+      "coding-assistant",
+      "llm",
+      "lsp",
+      "neovim",
+      "neovim-plugin",
+      "opencode",
+      "productivity",
+      "refactoring"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dwight.nvim",
+  "owner": "otaleghani",
+  "url": "https://github.com/otaleghani/dwight.nvim"
+}

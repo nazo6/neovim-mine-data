@@ -2,31 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Language specific"
-        },
-        {
-          "level": 3,
-          "name": "WSL"
-        },
-        {
-          "level": 4,
-          "name": "Umple"
-        }
       ],
-      "file": "language-specific.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 3,
     "createdAt": "2026-02-09T02:50:41Z",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2026-02-11T04:34:32Z",
     "nameWithOwner": "DraftTin/umple.nvim",
     "primaryLanguage": {

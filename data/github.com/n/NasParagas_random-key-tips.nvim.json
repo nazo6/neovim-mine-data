@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "Tips"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-02-20T00:05:52Z",
+    "description": "Notify random keys as tips.",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T14:03:32Z",
+    "nameWithOwner": "NasParagas/random-key-tips.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "random-key-tips.nvim",
+  "owner": "NasParagas",
+  "url": "https://github.com/NasParagas/random-key-tips.nvim"
+}

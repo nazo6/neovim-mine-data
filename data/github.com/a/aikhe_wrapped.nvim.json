@@ -17,25 +17,43 @@
       ],
       "file": "mapping.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Workflow"
+        },
+        {
+          "level": 3,
+          "name": "Stats Tracking"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 25,
     "createdAt": "2026-02-14T02:46:19Z",
     "description": "View your Neovim configuration insights, history, and heatmaps.",
     "isArchived": false,
-    "lastCommit": "2026-02-14T20:04:20Z",
+    "lastCommit": "2026-02-22T02:07:16Z",
     "nameWithOwner": "aikhe/wrapped.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 51,
+    "star": 156,
     "topics": [
       "neovim",
-      "nvim-plugin",
       "volt",
-      "nvim"
+      "nvim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

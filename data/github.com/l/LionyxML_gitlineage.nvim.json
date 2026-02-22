@@ -22,7 +22,7 @@
   "data": {
     "commitCountLastYear": 13,
     "createdAt": "2026-02-05T01:01:11Z",
-    "description": "Neovim plugin to view git history for selected lines. Select a range in visual mode and see how it evolved through commits. Navigate commits, yank SHAs, and open full diffs with diffview.nvim.",
+    "description": "Neovim plugin to view git history for selected lines. Select a range in visual mode and see how it evolved through commits. Navigate commits, yank SHAs, and optionally open full diffs with diffview.nvim.",
     "isArchived": false,
     "lastCommit": "2026-02-14T02:24:21Z",
     "nameWithOwner": "LionyxML/gitlineage.nvim",
@@ -30,7 +30,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 73,
+    "star": 81,
     "topics": [
     ]
   },

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Kustomize"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-02-01T17:07:54Z",
+    "description": "Kustomize user commands for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T21:13:02Z",
+    "nameWithOwner": "DavidRR-F/manifest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "helm",
+      "kubectl",
+      "kustomize",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "manifest.nvim",
+  "owner": "DavidRR-F",
+  "url": "https://github.com/DavidRR-F/kustomize.nvim"
+}

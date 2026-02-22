@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-15T20:23:05Z",
+    "description": "A simple, intuitive git diff plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-15T20:35:00Z",
+    "nameWithOwner": "dev-shetty/easydiff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "git",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "easydiff.nvim",
+  "owner": "dev-shetty",
+  "url": "https://github.com/dev-shetty/easydiff.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Android"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-02-20T01:41:37Z",
+    "description": "A lightweight, powerful Android development plugin for Neovim bringing Gradle building, ADB device management, and an interactive Logcat.",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T01:45:40Z",
+    "nameWithOwner": "AntoineGagnon/android.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "android.nvim",
+  "owner": "AntoineGagnon",
+  "url": "https://github.com/AntoineGagnon/android.nvim"
+}

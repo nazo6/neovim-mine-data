@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 36,
     "createdAt": "2024-12-03T12:23:02Z",
-    "description": "Pick and convert to specific backends for sigma rules within neovim",
+    "description": "Wrapper around sigmacli. Pick and convert to specific backends for sigma rules within neovim",
     "isArchived": false,
-    "lastCommit": "2026-02-10T07:20:57Z",
+    "lastCommit": "2026-02-16T11:38:32Z",
     "nameWithOwner": "pop-ecx/sigma_picker.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Boolean"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-20T18:18:27Z",
+    "description": "Increment and decrement booleans as if they're in ℤ₂",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T11:46:24Z",
+    "nameWithOwner": "fionn/nvim-cycle-boolean",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "increment-decrement",
+      "neovim-plugin",
+      "boolean",
+      "modular-arithmetic"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cycle-boolean",
+  "owner": "fionn",
+  "url": "https://github.com/fionn/nvim-cycle-boolean"
+}

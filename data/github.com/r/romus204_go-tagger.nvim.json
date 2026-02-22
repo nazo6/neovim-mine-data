@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 11,
     "createdAt": "2025-06-04T18:50:29Z",
     "description": "Lightweight Neovim plugin to manage struct field tags in Go source files.",
     "isArchived": false,
-    "lastCommit": "2025-08-20T11:14:26Z",
+    "lastCommit": "2026-02-15T17:18:07Z",
     "nameWithOwner": "romus204/go-tagger.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19,
+    "star": 20,
     "topics": [
       "neovim",
       "neovim-plugin"

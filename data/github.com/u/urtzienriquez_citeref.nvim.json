@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "BiBTex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-02-19T17:46:00Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T22:17:27Z",
+    "nameWithOwner": "urtzienriquez/citeref.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "citeref.nvim",
+  "owner": "urtzienriquez",
+  "url": "https://github.com/urtzienriquez/citeref.nvim"
+}

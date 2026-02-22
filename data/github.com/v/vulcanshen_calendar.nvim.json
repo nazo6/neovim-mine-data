@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Calendar"
+        }
+      ],
+      "file": "office-tools.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-15T08:36:25Z",
+    "description": "A minimal calendar widget for Neovim that embeds below the Snacks.nvim explorer sidebar, showing a monthly calendar with today highlighted and a   live clock with blinking colon",
+    "isArchived": false,
+    "lastCommit": "2026-02-15T08:45:45Z",
+    "nameWithOwner": "vulcanshen/calendar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "calendar.nvim",
+  "owner": "vulcanshen",
+  "url": "https://github.com/vulcanshen/calendar.nvim"
+}

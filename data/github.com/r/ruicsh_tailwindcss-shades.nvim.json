@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CSS"
+        },
+        {
+          "level": 3,
+          "name": "tailwind"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-21T14:12:43Z",
+    "description": "A Neovim plugin to generate Tailwind CSS color palettes from a single hex color.",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T14:17:36Z",
+    "nameWithOwner": "ruicsh/tailwindcss-shades.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tailwindcss-shades.nvim",
+  "owner": "ruicsh",
+  "url": "https://github.com/ruicsh/tailwindcss-shades.nvim"
+}

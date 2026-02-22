@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Language server"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-02-17T12:14:16Z",
+    "description": "Neovim plugin for boundary - DDD/Hexagonal Architecture static analysis. Provides LSP integration (inline diagnostics, hover info), commands for architecture scores and violation reports, and diagram generation. Auto-detects layer violations in Go, Rust, TypeScript, and Java. Requires Neovim 0.11+ and boundary-lsp.",
+    "isArchived": false,
+    "lastCommit": "2026-02-17T16:34:17Z",
+    "nameWithOwner": "rebelopsio/boundary.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ddd",
+      "hexagonal-architecture",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "boundary.nvim",
+  "owner": "rebelopsio",
+  "url": "https://github.com/rebelopsio/boundary.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2026-02-15T16:48:37Z",
+    "description": "Send selection or current filepath to another tmux pane from within neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-16T18:41:55Z",
+    "nameWithOwner": "js/tmux-sendit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tmux-sendit.nvim",
+  "owner": "js",
+  "url": "https://github.com/js/tmux-sendit.nvim"
+}

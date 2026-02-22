@@ -26,6 +26,7 @@
   "data": {
     "commitCountLastYear": 2,
     "createdAt": "2025-09-14T04:53:29Z",
+    "description": "A small Neovim plugin to execute a command defined in project root .visual-run.json against the current visual selection, piping the selected text to the command's standard input.",
     "isArchived": false,
     "lastCommit": "2025-09-14T05:00:12Z",
     "nameWithOwner": "anosatsuk124/visual-run.nvim",
@@ -35,6 +36,8 @@
     },
     "star": 1,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

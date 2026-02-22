@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "remove comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2025-06-01T11:17:55Z",
+    "description": "Remove all comments from source files — Neovim plugin + standalone CLI tool (rmc). AST-based via Tree-sitter.",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T01:53:57Z",
+    "nameWithOwner": "KashifKhn/remove-comments",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 8,
+    "topics": [
+      "cli",
+      "code-cleanup",
+      "comments",
+      "developer-tools",
+      "go",
+      "golang",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "remove-comments"
+    ]
+  },
+  "domain": "github.com",
+  "name": "remove-comments",
+  "owner": "KashifKhn",
+  "url": "https://github.com/KashifKhn/nvim-remove-comments"
+}

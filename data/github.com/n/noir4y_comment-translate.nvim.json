@@ -13,12 +13,26 @@
       ],
       "file": "translate.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Language"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
     "commitCountLastYear": 25,
     "createdAt": "2026-01-10T12:50:38Z",
-    "description": "Neovim plugin to translate comments and strings using hover or immersive inline view, with LLM and local model support",
+    "description": "Translate code comments and strings in Neovim using online or local LLMs and external translators.",
     "isArchived": false,
     "lastCommit": "2026-02-15T02:42:44Z",
     "nameWithOwner": "noir4y/comment-translate.nvim",
@@ -26,7 +40,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 10,
     "topics": [
       "developer-tools",
       "neovim",

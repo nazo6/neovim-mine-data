@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-15T10:39:31Z",
+    "description": "nvim plugin for tagged note snippets",
+    "isArchived": false,
+    "lastCommit": "2026-02-15T11:50:43Z",
+    "nameWithOwner": "snehlsen/zettelkasten.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zettelkasten.nvim",
+  "owner": "snehlsen",
+  "url": "https://github.com/snehlsen/zettelkasten.nvim"
+}

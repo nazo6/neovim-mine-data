@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 99,
+    "commitCountLastYear": 101,
     "createdAt": "2024-05-26T19:04:08Z",
     "description": "Navigate from Neovim to GitHub quickly with this plugin",
     "isArchived": false,
-    "lastCommit": "2026-02-15T00:36:01Z",
+    "lastCommit": "2026-02-20T05:39:54Z",
     "nameWithOwner": "wassimk/gh-navigator.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -35,7 +35,12 @@
       "gh-cli",
       "github",
       "neovim-plugin",
-      "neovim-lua-plugin"
+      "neovim-lua-plugin",
+      "blame",
+      "git",
+      "lua",
+      "neovim",
+      "pull-request"
     ]
   },
   "domain": "github.com",

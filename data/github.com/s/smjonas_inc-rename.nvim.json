@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 15,
     "createdAt": "2022-06-03T18:01:21Z",
     "description": "Incremental LSP renaming based on Neovim's command-preview feature.",
     "isArchived": false,
-    "lastCommit": "2025-11-05T22:04:06Z",
+    "lastCommit": "2026-02-15T18:42:43Z",
     "nameWithOwner": "smjonas/inc-rename.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 822,
+    "star": 825,
     "topics": [
       "neovim",
       "neovim-plugin"

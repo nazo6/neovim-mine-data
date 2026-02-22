@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-15T14:46:01Z",
+    "description": "DirDiff for nvim with lua only ",
+    "isArchived": false,
+    "lastCommit": "2026-02-16T04:32:52Z",
+    "nameWithOwner": "finegs/dirdiff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dirdiff.nvim",
+  "owner": "finegs",
+  "url": "https://github.com/finegs/dirdiff.nvim"
+}

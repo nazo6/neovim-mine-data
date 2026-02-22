@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-02-15T16:16:44Z",
+    "description": "Snapshot-based iteration review plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T22:05:13Z",
+    "nameWithOwner": "msegoviadev/nvim-iterview",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-iterview",
+  "owner": "msegoviadev",
+  "url": "https://github.com/msegoviadev/nvim-iterview"
+}

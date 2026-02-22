@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-02-15T03:20:46Z",
+    "description": "A simple notebook neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2026-02-16T14:37:28Z",
+    "nameWithOwner": "nicholasxjy/jishiben.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim-plugin",
+      "notebook",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jishiben.nvim",
+  "owner": "nicholasxjy",
+  "url": "https://github.com/nicholasxjy/jishiben.nvim"
+}

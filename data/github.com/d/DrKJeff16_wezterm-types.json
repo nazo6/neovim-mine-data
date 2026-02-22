@@ -38,17 +38,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 385,
+    "commitCountLastYear": 468,
     "createdAt": "2023-08-16T04:24:15Z",
-    "description": "WezTerm Lua config types for Lua Language Server, with Neovim and VSCode compatibility.",
+    "description": "WezTerm Lua config types for Lua Language Server, with Neovim and VSCode compatibility. Also supperts various WezTerm plugins.",
     "isArchived": false,
-    "lastCommit": "2026-02-15T04:35:53Z",
+    "lastCommit": "2026-02-21T20:29:47Z",
     "nameWithOwner": "DrKJeff16/wezterm-types",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 162,
+    "star": 170,
     "topics": [
       "lazydev",
       "neovim-plugin",

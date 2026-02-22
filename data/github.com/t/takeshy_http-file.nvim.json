@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "HTTP"
+        },
+        {
+          "level": 4,
+          "name": "Request"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-14T19:57:09Z",
+    "description": "Edit remote files over HTTP/HTTPS in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T22:13:40Z",
+    "nameWithOwner": "takeshy/http-file.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "http-file.nvim",
+  "owner": "takeshy",
+  "url": "https://github.com/takeshy/http-file.nvim"
+}

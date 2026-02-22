@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2026-02-16T02:16:27Z",
+    "description": "DAP adapter between nvim-dap and matlab lsp for debugging. It supports Windows",
+    "isArchived": false,
+    "lastCommit": "2026-02-22T07:36:46Z",
+    "nameWithOwner": "Jaehaks/nvim-dap-matlab",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-matlab",
+  "owner": "Jaehaks",
+  "url": "https://github.com/Jaehaks/nvim-dap-matlab"
+}

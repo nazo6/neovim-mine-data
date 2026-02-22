@@ -2,28 +2,16 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "AI Coding"
-        },
-        {
-          "level": 3,
-          "name": "Claude"
-        }
       ],
-      "file": "ai.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 213,
+    "commitCountLastYear": 178,
     "createdAt": "2024-12-02T04:25:45Z",
     "description": "AI-powered companion for Neovim. Fast, hackable, and stays out of your way.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-08-18T19:38:01Z",
     "nameWithOwner": "default-anton/llm-sidekick.nvim",
     "primaryLanguage": {

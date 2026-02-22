@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-02-17T21:50:33Z",
+    "description": "Buffer aware nvim plugin for Claude Code",
+    "isArchived": false,
+    "lastCommit": "2026-02-19T21:42:38Z",
+    "nameWithOwner": "thbits/jeanCode.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jeanCode.nvim",
+  "owner": "thbits",
+  "url": "https://github.com/thbits/jeanCode.nvim"
+}

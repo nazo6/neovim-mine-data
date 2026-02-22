@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Ruby"
-        },
-        {
-          "level": 3,
-          "name": "Rails"
-        }
       ],
-      "file": "ruby.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 5,
     "createdAt": "2022-07-14T03:26:03Z",
-    "description": "An nvim-cmp source for Ruby on Rails fixture types",
-    "isArchived": false,
-    "lastCommit": "2025-06-29T14:14:08Z",
+    "description": "[DEPRECATED] Use wassimk/rails-fixture-complete.nvim instead",
+    "isArchived": true,
+    "lastCommit": "2026-02-21T02:58:27Z",
     "nameWithOwner": "wassimk/cmp-rails-fixture-types",
     "primaryLanguage": {
       "color": "#000080",

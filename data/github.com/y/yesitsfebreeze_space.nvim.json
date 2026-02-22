@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Window"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-14T19:54:29Z",
+    "description": "a float/space module to place character where you want",
+    "isArchived": false,
+    "lastCommit": "2026-02-14T20:09:03Z",
+    "nameWithOwner": "yesitsfebreeze/space.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "space.nvim",
+  "owner": "yesitsfebreeze",
+  "url": "https://github.com/yesitsfebreeze/space.nvim"
+}

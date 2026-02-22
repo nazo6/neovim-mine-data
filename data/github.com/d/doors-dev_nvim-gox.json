@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "WSL"
+        },
+        {
+          "level": 4,
+          "name": "Gox"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-02-18T15:32:28Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T14:41:56Z",
+    "nameWithOwner": "doors-dev/nvim-gox",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gox",
+  "owner": "doors-dev",
+  "url": "https://github.com/doors-dev/nvim-gox"
+}

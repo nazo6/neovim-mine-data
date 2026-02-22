@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "WSL"
+        },
+        {
+          "level": 4,
+          "name": "Prolog"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-02-14T02:55:13Z",
+    "description": "SWI Notebook Environment for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T00:21:24Z",
+    "nameWithOwner": "gleachkr/swine.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "swine.nvim",
+  "owner": "gleachkr",
+  "url": "https://github.com/gleachkr/swine.nvim"
+}

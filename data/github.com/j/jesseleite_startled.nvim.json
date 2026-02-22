@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup screen (DashBoard)"
+        },
+        {
+          "level": 3,
+          "name": "Logo"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2025-07-15T00:03:51Z",
+    "description": "Custom static start screens for Neovim, made easy 🌴",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T20:21:23Z",
+    "nameWithOwner": "jesseleite/startled.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "startled.nvim",
+  "owner": "jesseleite",
+  "url": "https://github.com/jesseleite/nvim-startled"
+}

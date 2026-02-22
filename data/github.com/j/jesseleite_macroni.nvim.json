@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Macro"
+        }
+      ],
+      "file": "macro.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2023-11-23T03:12:21Z",
+    "description": "Save your macros for future use 🤌",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T20:15:45Z",
+    "nameWithOwner": "jesseleite/macroni.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 66,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "macroni.nvim",
+  "owner": "jesseleite",
+  "url": "https://github.com/jesseleite/nvim-macroni"
+}

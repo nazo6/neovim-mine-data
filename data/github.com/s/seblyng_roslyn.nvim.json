@@ -16,7 +16,7 @@
         },
         {
           "level": 4,
-          "name": "C #"
+          "name": "C"
         }
       ],
       "file": "language-specific.md",
@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 191,
+    "commitCountLastYear": 186,
     "createdAt": "2024-05-06T18:30:40Z",
     "description": "Roslyn LSP plugin for neovim",
     "isArchived": false,
-    "lastCommit": "2026-02-05T22:31:12Z",
+    "lastCommit": "2026-02-20T13:52:03Z",
     "nameWithOwner": "seblyng/roslyn.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 798,
+    "star": 802,
     "topics": [
       "git",
       "lua",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Clock"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-20T21:41:40Z",
+    "description": "Fun plugin that displays a gmt type dial with a day-date complication",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T21:50:11Z",
+    "nameWithOwner": "airkewld/clock.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "clock.nvim",
+  "owner": "airkewld",
+  "url": "https://github.com/airkewld/clock.nvim"
+}

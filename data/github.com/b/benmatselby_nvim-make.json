@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": ":make style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-02-20T19:58:32Z",
+    "description": "Neovim plugin to run make targets",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T11:05:28Z",
+    "nameWithOwner": "benmatselby/nvim-make",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-make",
+  "owner": "benmatselby",
+  "url": "https://github.com/benmatselby/nvim-make"
+}

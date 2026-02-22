@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Terminal"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-02-15T15:51:02Z",
+    "description": "Neovim plugin to add file context and run agents with comment hints TODO/FIXME/etc.",
+    "isArchived": false,
+    "lastCommit": "2026-02-19T05:43:58Z",
+    "nameWithOwner": "willyelm/sidekick.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sidekick.nvim",
+  "owner": "willyelm",
+  "url": "https://github.com/willyelm/sidekick.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Node"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-17T22:30:34Z",
+    "description": "updated markdown-preview.nvim to include admonitions",
+    "isArchived": false,
+    "lastCommit": "2026-02-17T22:31:11Z",
+    "nameWithOwner": "adam-coates/markdown-preview.nvim",
+    "primaryLanguage": {
+      "color": "#f1e05a",
+      "name": "JavaScript"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-preview.nvim",
+  "owner": "adam-coates",
+  "url": "https://github.com/adam-coates/markdown-preview.nvim"
+}

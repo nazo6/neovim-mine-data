@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Palette"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2026-02-19T16:59:55Z",
+    "description": "A command palette and jump panel for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-22T02:45:46Z",
+    "nameWithOwner": "willyelm/pulse.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pulse.nvim",
+  "owner": "willyelm",
+  "url": "https://github.com/willyelm/pulse.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-02-18T18:25:52Z",
+    "description": "A Neovim plugin for interactive log analysis. Detects user-defined patterns in log files and highlights matching lines in a separate window for quick inspection and troubleshooting.",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T23:03:32Z",
+    "nameWithOwner": "RubikNube/loglens.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "loglens.nvim",
+  "owner": "RubikNube",
+  "url": "https://github.com/RubikNube/loglens.nvim"
+}

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "Jump"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-02-16T14:13:31Z",
+    "description": "StarCraft-style marks for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-20T02:27:30Z",
+    "nameWithOwner": "gormanity/starmark.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "marks",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "productivity"
+    ]
+  },
+  "domain": "github.com",
+  "name": "starmark.nvim",
+  "owner": "gormanity",
+  "url": "https://github.com/gormanity/starmark.nvim"
+}
