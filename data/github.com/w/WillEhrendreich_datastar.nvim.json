@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2026-02-27T20:37:55Z",
+    "description": "IDE-quality Datastar support for Neovim — completions, hover docs, diagnostics, signal navigation",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T04:59:49Z",
+    "nameWithOwner": "WillEhrendreich/datastar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "datastar.nvim",
+  "owner": "WillEhrendreich",
+  "url": "https://github.com/WillEhrendreich/datastar.nvim"
+}

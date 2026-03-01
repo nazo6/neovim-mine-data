@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 101,
+    "commitCountLastYear": 102,
     "createdAt": "2021-02-14T11:18:45Z",
     "description": "An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.",
     "isArchived": false,
-    "lastCommit": "2026-02-18T14:21:13Z",
+    "lastCommit": "2026-02-23T20:23:30Z",
     "nameWithOwner": "mfussenegger/nvim-lint",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2654,
+    "star": 2656,
     "topics": [
       "neovim",
       "linter",

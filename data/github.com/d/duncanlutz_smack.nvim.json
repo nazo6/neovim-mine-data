@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Gesture"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-26T19:38:05Z",
+    "description": "Neovim plugin that detects when you physically hit your MacBook and undoes your changes. Hit it harder, undo more.",
+    "isArchived": false,
+    "lastCommit": "2026-02-26T19:51:53Z",
+    "nameWithOwner": "duncanlutz/smack.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smack.nvim",
+  "owner": "duncanlutz",
+  "url": "https://github.com/duncanlutz/smack.nvim"
+}

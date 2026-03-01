@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 19,
     "createdAt": "2026-01-21T16:27:01Z",
-    "description": "🚀 Hop to files, not just words. Terminal-friendly file jumping for Neovim.",
+    "description": "🚀 Hop to anywhere, not just words. Jump based on labels to file paths, URLs, and Markdown links from any buffer(including terminal buf)",
     "isArchived": false,
-    "lastCommit": "2026-02-04T13:11:25Z",
+    "lastCommit": "2026-02-27T12:54:44Z",
     "nameWithOwner": "nolleh/warp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10,
+    "star": 13,
     "topics": [
       "file-navigation",
       "lua",

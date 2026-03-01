@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup screen (DashBoard)"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2026-02-25T19:29:31Z",
+    "description": "A dead-simple, customizable and cozy dashboard with sane defaults and zero config required",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T14:22:08Z",
+    "nameWithOwner": "leo-alvarenga/homecoming.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-lua-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "homecoming.nvim",
+  "owner": "leo-alvarenga",
+  "url": "https://github.com/leo-alvarenga/homecoming.nvim"
+}

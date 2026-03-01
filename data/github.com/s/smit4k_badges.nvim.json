@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown image"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-02-23T18:30:27Z",
+    "description": "Insert badges, directly inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-26T16:07:12Z",
+    "nameWithOwner": "smit4k/badges.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "badges",
+      "markdown",
+      "markdown-badges"
+    ]
+  },
+  "domain": "github.com",
+  "name": "badges.nvim",
+  "owner": "smit4k",
+  "url": "https://github.com/smit4k/badges.nvim"
+}

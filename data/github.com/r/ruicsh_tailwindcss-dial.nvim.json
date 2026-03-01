@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CSS"
+        },
+        {
+          "level": 3,
+          "name": "tailwind"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-02-23T14:34:57Z",
+    "description": "A Neovim plugin that extends dial.nvim to toggle TailwindCSS classes.",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T21:51:18Z",
+    "nameWithOwner": "ruicsh/tailwindcss-dial.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tailwindcss-dial.nvim",
+  "owner": "ruicsh",
+  "url": "https://github.com/ruicsh/tailwindcss-dial.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Chat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-02-22T15:08:19Z",
+    "description": "NeoVim AI Plugin inspired by ThePrimeagen/99",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T15:49:44Z",
+    "nameWithOwner": "benjaminyakobi/chat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chat.nvim",
+  "owner": "benjaminyakobi",
+  "url": "https://github.com/benjaminyakobi/chat.nvim"
+}

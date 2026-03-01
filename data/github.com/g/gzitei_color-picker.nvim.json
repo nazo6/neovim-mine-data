@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Color picker"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-21T04:14:04Z",
+    "description": "Interactive color picker for Neovim with RGB/HSL sliders and multiple output formats",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T04:11:27Z",
+    "nameWithOwner": "gzitei/color-picker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "color-picker.nvim",
+  "owner": "gzitei",
+  "url": "https://github.com/gzitei/color-picker.nvim"
+}

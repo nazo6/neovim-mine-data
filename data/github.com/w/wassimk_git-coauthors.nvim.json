@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "co authored"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-02-21T01:44:40Z",
+    "description": "Autocomplete Co-Authored-By lines in git commits",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T05:11:14Z",
+    "nameWithOwner": "wassimk/git-coauthors.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "blink-cmp",
+      "co-authored-by",
+      "git",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim-cmp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-coauthors.nvim",
+  "owner": "wassimk",
+  "url": "https://github.com/wassimk/git-coauthors.nvim"
+}

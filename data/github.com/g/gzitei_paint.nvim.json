@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Colorizer"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-21T04:31:36Z",
+    "description": "Inline CSS color symbol previews for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T04:30:25Z",
+    "nameWithOwner": "gzitei/paint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "paint.nvim",
+  "owner": "gzitei",
+  "url": "https://github.com/gzitei/paint.nvim"
+}

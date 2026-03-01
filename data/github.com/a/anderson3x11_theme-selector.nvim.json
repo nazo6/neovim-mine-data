@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Background"
+        },
+        {
+          "level": 3,
+          "name": "Switch theme"
+        }
+      ],
+      "file": "background.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-24T18:15:11Z",
+    "description": "A lightweight Neovim plugin to switch colorschemes on the fly from a simple selection menu.",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T18:30:29Z",
+    "nameWithOwner": "anderson3x11/theme-selector.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "colorscheme",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "plugin",
+      "theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "theme-selector.nvim",
+  "owner": "anderson3x11",
+  "url": "https://github.com/anderson3x11/theme-selector.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2026-02-22T21:42:30Z",
+    "description": "Neovim plugin for Ruby LSP client-side commands (code lens run, debug, open file)",
+    "isArchived": false,
+    "lastCommit": "2026-02-26T04:21:20Z",
+    "nameWithOwner": "wassimk/ruby-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ruby-lsp.nvim",
+  "owner": "wassimk",
+  "url": "https://github.com/wassimk/ruby-lsp.nvim"
+}

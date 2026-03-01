@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-02-21T11:54:52Z",
+    "description": "Claude Code in your nVIM IDE",
+    "isArchived": false,
+    "lastCommit": "2026-02-22T07:51:34Z",
+    "nameWithOwner": "rShetty/claude-code.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "ai",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-code.nvim",
+  "owner": "rShetty",
+  "url": "https://github.com/rShetty/claude-code.nvim"
+}

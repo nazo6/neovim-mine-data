@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 66,
+    "createdAt": "2026-02-24T20:07:14Z",
+    "description": "Oil-like task management for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T04:25:39Z",
+    "nameWithOwner": "barrettruth/pending.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pending.nvim",
+  "owner": "barrettruth",
+  "url": "https://github.com/barrettruth/pending.nvim"
+}

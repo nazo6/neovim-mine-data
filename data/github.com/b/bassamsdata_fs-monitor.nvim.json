@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 40,
+    "commitCountLastYear": 42,
     "createdAt": "2026-01-01T17:24:39Z",
     "description": "An async filesystem watcher for Neovim that tracks file and directory changes with checkpoints.",
     "isArchived": false,
-    "lastCommit": "2026-02-14T05:05:51Z",
+    "lastCommit": "2026-02-23T19:32:54Z",
     "nameWithOwner": "bassamsdata/fs-monitor.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 4,
+    "star": 5,
     "topics": [
       "lua",
       "neovim",

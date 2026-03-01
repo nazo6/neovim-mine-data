@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-24T14:23:15Z",
+    "description": "buffer manager for nvim",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T14:25:10Z",
+    "nameWithOwner": "Rainfxxk/bufferman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufferman.nvim",
+  "owner": "Rainfxxk",
+  "url": "https://github.com/Rainfxxk/bufferman.nvim"
+}

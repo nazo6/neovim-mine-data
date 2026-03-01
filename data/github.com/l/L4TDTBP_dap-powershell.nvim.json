@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-24T12:25:07Z",
+    "description": "PowerShell debugging for Neovim with nvim-dap. Output visible in an integrated terminal.",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T12:21:49Z",
+    "nameWithOwner": "L4TDTBP/dap-powershell.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dap-powershell.nvim",
+  "owner": "L4TDTBP",
+  "url": "https://github.com/L4TDTBP/dap-powershell.nvim"
+}

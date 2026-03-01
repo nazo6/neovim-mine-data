@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "just"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-27T06:10:46Z",
+    "description": "Neovim quickfix compiler for just with Rust/cargo output support.",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T06:14:22Z",
+    "nameWithOwner": "jdearmas/just-compiler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "just-compiler.nvim",
+  "owner": "jdearmas",
+  "url": "https://github.com/jdearmas/just-compiler.nvim"
+}

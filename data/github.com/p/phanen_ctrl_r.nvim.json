@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line"
+        },
+        {
+          "level": 3,
+          "name": "Completion"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-21T11:59:08Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T12:00:34Z",
+    "nameWithOwner": "phanen/ctrl_r.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-plugin",
+      "register",
+      "ctrl-r"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ctrl_r.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/ctrl_r.nvim"
+}

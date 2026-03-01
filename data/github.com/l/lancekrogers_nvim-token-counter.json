@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Token Count"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-01-13T21:14:49Z",
+    "description": "Neovim plugin: real-time LLM token counts in your status line. Supports Claude, GPT, Llama, DeepSeek & Qwen. Async, non-blocking, powered by tcount.",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T23:20:32Z",
+    "nameWithOwner": "lancekrogers/nvim-token-counter",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "ai",
+      "claude",
+      "developer-tools",
+      "llm",
+      "lua",
+      "lualine",
+      "neovim",
+      "neovim-plugin",
+      "openai",
+      "statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-token-counter",
+  "owner": "lancekrogers",
+  "url": "https://github.com/lancekrogers/nvim-token-counter"
+}

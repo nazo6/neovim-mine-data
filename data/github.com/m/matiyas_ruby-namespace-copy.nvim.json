@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "reference"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-02-26T07:40:14Z",
+    "description": "Copy Ruby class/module namespace to clipboard using Tree-sitter",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T08:04:16Z",
+    "nameWithOwner": "matiyas/ruby-namespace-copy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "ruby",
+      "treesitter",
+      "clipboard",
+      "developer-tools",
+      "namespace",
+      "productivity",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ruby-namespace-copy.nvim",
+  "owner": "matiyas",
+  "url": "https://github.com/matiyas/ruby-namespace-copy.nvim"
+}

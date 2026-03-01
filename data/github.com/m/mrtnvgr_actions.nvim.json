@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Palette"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-27T12:00:21Z",
+    "description": "Neovim plugin: actions runner menu inspired by REAPER's \"Actions\" window.",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T11:59:27Z",
+    "nameWithOwner": "mrtnvgr/actions.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "actions.nvim",
+  "owner": "mrtnvgr",
+  "url": "https://github.com/mrtnvgr/actions.nvim"
+}

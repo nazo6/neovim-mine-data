@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-27T15:11:08Z",
+    "description": "Neovim plugin for showing git blame on current line",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T15:13:07Z",
+    "nameWithOwner": "ervinismu/git-line-blame.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-line-blame.nvim",
+  "owner": "ervinismu",
+  "url": "https://github.com/ervinismu/git-line-blame.nvim"
+}

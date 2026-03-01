@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-21T08:03:53Z",
+    "description": "Highlight gitsigns.nvim blame via diffs.nvim. ",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T08:05:27Z",
+    "nameWithOwner": "phanen/blame_hl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "blame",
+      "diffs",
+      "gitsigns",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "blame_hl.nvim",
+  "owner": "phanen",
+  "url": "https://github.com/phanen/blame_hl.nvim"
+}

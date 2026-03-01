@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 42,
     "createdAt": "2026-02-20T13:44:09Z",
     "description": "An observability toolkit for Neovim plugins and events.",
     "isArchived": false,
-    "lastCommit": "2026-02-20T13:56:32Z",
+    "lastCommit": "2026-02-25T10:13:04Z",
     "nameWithOwner": "CrestNiraj12/observe.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,11 @@
     },
     "star": 1,
     "topics": [
+      "monitor",
+      "neovim",
+      "neovim-plugin",
+      "performance",
+      "performance-analysis"
     ]
   },
   "domain": "github.com",

@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 20,
+    "commitCountLastYear": 56,
     "createdAt": "2026-02-16T02:16:27Z",
     "description": "DAP adapter between nvim-dap and matlab lsp for debugging. It supports Windows",
     "isArchived": false,
-    "lastCommit": "2026-02-22T07:36:46Z",
+    "lastCommit": "2026-03-01T05:53:58Z",
     "nameWithOwner": "Jaehaks/nvim-dap-matlab",
     "primaryLanguage": {
       "color": "#000080",
@@ -36,6 +36,11 @@
     },
     "star": 1,
     "topics": [
+      "dap",
+      "debugging",
+      "matlab",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

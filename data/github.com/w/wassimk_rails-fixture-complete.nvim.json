@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Test"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-21T02:55:56Z",
+    "description": "Neovim completion for Rails fixture types and names with documentation",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T03:26:26Z",
+    "nameWithOwner": "wassimk/rails-fixture-complete.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "blink-cmp",
+      "completion",
+      "fixtures",
+      "lua",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim-cmp",
+      "rails",
+      "ruby-on-rails"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rails-fixture-complete.nvim",
+  "owner": "wassimk",
+  "url": "https://github.com/wassimk/rails-fixture-complete.nvim"
+}

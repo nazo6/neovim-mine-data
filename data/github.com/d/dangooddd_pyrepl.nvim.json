@@ -20,18 +20,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 172,
+    "commitCountLastYear": 190,
     "createdAt": "2026-02-02T08:20:12Z",
     "description": "REPL experience for Python in Neovim.",
     "isArchived": false,
-    "lastCommit": "2026-02-22T01:23:50Z",
+    "lastCommit": "2026-02-26T11:36:49Z",
     "nameWithOwner": "dangooddd/pyrepl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 26,
+    "star": 27,
     "topics": [
+      "jupyter-notebook",
+      "neovim",
+      "neovim-plugin",
+      "repl",
+      "code-runner"
     ]
   },
   "domain": "github.com",

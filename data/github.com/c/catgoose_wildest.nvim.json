@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        },
+        {
+          "level": 3,
+          "name": "command line completion"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 60,
+    "createdAt": "2026-02-26T11:24:25Z",
+    "description": "The most wildest wildmenu",
+    "isArchived": false,
+    "lastCommit": "2026-03-01T05:06:19Z",
+    "nameWithOwner": "catgoose/wildest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wildest.nvim",
+  "owner": "catgoose",
+  "url": "https://github.com/catgoose/wildest.nvim"
+}

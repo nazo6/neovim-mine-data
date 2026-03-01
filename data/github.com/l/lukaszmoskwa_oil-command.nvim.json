@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-26T23:11:19Z",
+    "description": "Oil file editor extension to run custom commands ",
+    "isArchived": false,
+    "lastCommit": "2026-02-26T23:12:20Z",
+    "nameWithOwner": "lukaszmoskwa/oil-command.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "oil-command.nvim",
+  "owner": "lukaszmoskwa",
+  "url": "https://github.com/lukaszmoskwa/oil-command.nvim"
+}

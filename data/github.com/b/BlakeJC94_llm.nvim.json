@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration"
+        },
+        {
+          "level": 3,
+          "name": "LLM CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-24T05:30:55Z",
+    "description": "A Neovim plugin that integrates the [llm](https://llm.datasette.io/) command-line tool for AI-powered text generation directly into your editor.",
+    "isArchived": false,
+    "lastCommit": "2026-02-25T03:20:43Z",
+    "nameWithOwner": "BlakeJC94/llm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "llm.nvim",
+  "owner": "BlakeJC94",
+  "url": "https://github.com/BlakeJC94/llm.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Infra"
+        },
+        {
+          "level": 4,
+          "name": "Kubernetes"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-02-22T20:08:44Z",
+    "isArchived": false,
+    "lastCommit": "2026-02-26T20:50:13Z",
+    "nameWithOwner": "dahol/k8s.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "k8s.nvim",
+  "owner": "dahol",
+  "url": "https://github.com/dahol/k8s.nvim"
+}

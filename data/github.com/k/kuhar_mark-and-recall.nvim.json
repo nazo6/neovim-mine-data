@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "bookmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-02-23T01:32:53Z",
+    "description": "LLM-friendly bookmarking and quick navigation plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T02:40:08Z",
+    "nameWithOwner": "kuhar/mark-and-recall.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mark-and-recall.nvim",
+  "owner": "kuhar",
+  "url": "https://github.com/kuhar/mark-and-recall.nvim"
+}

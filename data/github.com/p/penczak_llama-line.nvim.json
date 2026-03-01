@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-02-22T19:46:57Z",
+    "description": "In-line completions in Neovim using Ollama",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T13:26:24Z",
+    "nameWithOwner": "penczak/llama-line.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "llama-line.nvim",
+  "owner": "penczak",
+  "url": "https://github.com/penczak/llama-line.nvim"
+}

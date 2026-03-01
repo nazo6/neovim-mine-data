@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Jira"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2026-02-26T07:09:48Z",
+    "description": "Edit your Jira backlog and sprints like a regular Neovim buffer.",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T20:01:50Z",
+    "nameWithOwner": "sbulav/jira-oil.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jira-oil.nvim",
+  "owner": "sbulav",
+  "url": "https://github.com/sbulav/jira-oil.nvim"
+}

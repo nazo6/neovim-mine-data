@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "Tips"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-26T20:40:45Z",
+    "description": "Neovim plugin that shows a random vim trick on startup",
+    "isArchived": false,
+    "lastCommit": "2026-02-26T21:25:02Z",
+    "nameWithOwner": "boyanangelov/startup-tips.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "startup-tips.nvim",
+  "owner": "boyanangelov",
+  "url": "https://github.com/boyanangelov/startup-tips.nvim"
+}

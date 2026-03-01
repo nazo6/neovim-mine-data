@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Operator"
-        }
       ],
-      "file": "textobject_operator.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2022-07-13T14:41:48Z",
     "description": "Jump to, select and operate on AST nodes via the Leap interface with Treesitter (WIP)",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2022-10-10T17:58:08Z",
     "nameWithOwner": "ggandor/leap-ast.nvim",
     "primaryLanguage": {

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "bookmark"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-02-26T09:10:30Z",
+    "description": "Automatic breadcrumbs and persistent bookmarks for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-26T23:17:41Z",
+    "nameWithOwner": "pablosgraduation/waymark.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "waymark.nvim",
+  "owner": "pablosgraduation",
+  "url": "https://github.com/pablosgraduation/waymark.nvim"
+}

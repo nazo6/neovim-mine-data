@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Annotation"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-02-26T12:35:52Z",
+    "description": "A Markdown annotation and highlighting plugin that tags text via a Editing-Toolbar inline, highlights it in colour, and manages notes in a synchronised split buffer. ",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T14:01:46Z",
+    "nameWithOwner": "jbuck95/glossator-nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "glossator-nvim",
+  "owner": "jbuck95",
+  "url": "https://github.com/jbuck95/glossator-nvim"
+}

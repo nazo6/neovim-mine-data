@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Textobject"
+        },
+        {
+          "level": 3,
+          "name": "Surround"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-02-27T15:14:04Z",
+    "description": "A minimal vim-surround",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T04:17:00Z",
+    "nameWithOwner": "elanmed/surround.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "surround.nvim",
+  "owner": "elanmed",
+  "url": "https://github.com/elanmed/surround.nvim"
+}

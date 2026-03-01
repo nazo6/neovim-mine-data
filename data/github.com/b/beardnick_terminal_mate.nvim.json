@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-02-23T15:54:26Z",
+    "description": "Warp-like terminal experience for Neovim + tmux: type commands in Neovim, send to tmux pane",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T04:55:04Z",
+    "nameWithOwner": "beardnick/terminal_mate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "terminal_mate.nvim",
+  "owner": "beardnick",
+  "url": "https://github.com/beardnick/terminal_mate.nvim"
+}

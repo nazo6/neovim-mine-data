@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Code action"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-24T08:46:23Z",
+    "description": "A neovim plugin that displays the light bulb at the end of the line when code actions are available.",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T08:43:40Z",
+    "nameWithOwner": "C163q/codeaction-lightbulb.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codeaction-lightbulb.nvim",
+  "owner": "C163q",
+  "url": "https://github.com/C163q/codeaction-lightbulb.nvim"
+}

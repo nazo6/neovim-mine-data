@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Video"
+        },
+        {
+          "level": 3,
+          "name": "Movie"
+        },
+        {
+          "level": 4,
+          "name": "Manim"
+        }
+      ],
+      "file": "video.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-02-22T01:29:13Z",
+    "description": "Run a Manim scene easily through Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T01:21:08Z",
+    "nameWithOwner": "UsUsStudios/manimvim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "manimvim.nvim",
+  "owner": "UsUsStudios",
+  "url": "https://github.com/UsUsStudios/manimvim.nvim"
+}

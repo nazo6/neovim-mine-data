@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Encrypt"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-02-23T15:00:57Z",
+    "description": "Neovim plugin to encrypt/decrypt text using ansible-vault directly in the editor",
+    "isArchived": false,
+    "lastCommit": "2026-02-23T16:33:20Z",
+    "nameWithOwner": "volkangulen/ansible-vault-encrypt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ansible-vault-encrypt.nvim",
+  "owner": "volkangulen",
+  "url": "https://github.com/volkangulen/ansible-vault-encrypt.nvim"
+}

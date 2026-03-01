@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-27T16:40:40Z",
+    "description": "Neovim plugin to sync the browser view of a running Marimo notebook with the editor cursor",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T16:41:58Z",
+    "nameWithOwner": "brian2001dineen-afk/marimo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "marimo.nvim",
+  "owner": "brian2001dineen-afk",
+  "url": "https://github.com/brian2001dineen-afk/marimo.nvim"
+}

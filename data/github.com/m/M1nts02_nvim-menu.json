@@ -2,27 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Appearance"
-        },
-        {
-          "level": 3,
-          "name": "Menu"
-        }
       ],
-      "file": "appearance.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 8,
     "createdAt": "2025-01-05T09:12:33Z",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-11-09T13:15:35Z",
     "nameWithOwner": "M1nts02/nvim-menu",
     "primaryLanguage": {

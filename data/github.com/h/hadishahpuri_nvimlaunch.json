@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "JSON"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-02-27T23:29:35Z",
+    "description": "A lightweight Neovim plugin that lets you define, run, and manage multiple project-specific commands directly from your editor. By creating a .nvimlaunch file in your project root",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T00:27:05Z",
+    "nameWithOwner": "hadishahpuri/nvimlaunch",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "task-runner",
+      "nvimlaunch"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvimlaunch",
+  "owner": "hadishahpuri",
+  "url": "https://github.com/hadishahpuri/nvimlaunch"
+}

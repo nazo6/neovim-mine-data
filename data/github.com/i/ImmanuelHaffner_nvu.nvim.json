@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Util pack"
+        }
+      ],
+      "file": "util-pack.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-02-22T11:01:23Z",
+    "description": "Neovim Utilities",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T20:37:31Z",
+    "nameWithOwner": "ImmanuelHaffner/nvu.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvu.nvim",
+  "owner": "ImmanuelHaffner",
+  "url": "https://github.com/ImmanuelHaffner/nvu.nvim"
+}

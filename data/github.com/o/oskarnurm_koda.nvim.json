@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 156,
+    "createdAt": "2025-12-26T11:16:45Z",
+    "description": "Code's quiet companion. A minimalist theme for Neovim, written in Lua.",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T23:24:50Z",
+    "nameWithOwner": "oskarnurm/koda.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 237,
+    "topics": [
+      "colorscheme",
+      "neovim",
+      "neovim-colorscheme",
+      "neovim-plugin",
+      "neovim-theme",
+      "fzf-theme",
+      "ghostty-theme",
+      "kitty-theme",
+      "wezterm-theme",
+      "windows-terminal-theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "koda.nvim",
+  "owner": "oskarnurm",
+  "url": "https://github.com/oskarnurm/koda.nvim"
+}

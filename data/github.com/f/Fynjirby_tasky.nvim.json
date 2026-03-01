@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-23T13:44:11Z",
+    "description": "nvim plugin for tasky",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T10:18:17Z",
+    "nameWithOwner": "Fynjirby/tasky.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua-plugin",
+      "nvim-plugin",
+      "tasky",
+      "todo",
+      "neovim-todo",
+      "nvim-todo"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasky.nvim",
+  "owner": "Fynjirby",
+  "url": "https://github.com/Fynjirby/tasky.nvim"
+}

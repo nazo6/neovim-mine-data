@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "Popup"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-27T17:47:59Z",
+    "description": "Neovim implementation of vim's popup_* API.",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T18:01:36Z",
+    "nameWithOwner": "errael/popup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "popup.nvim",
+  "owner": "errael",
+  "url": "https://github.com/errael/popup.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Security"
+        },
+        {
+          "level": 3,
+          "name": "Secrets"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-02-21T13:20:16Z",
+    "description": "Neovim plugin that reveals base64-encoded secrets in env files as inline virtual text",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T23:17:22Z",
+    "nameWithOwner": "pedropombeiro/uncloak.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "uncloak.nvim",
+  "owner": "pedropombeiro",
+  "url": "https://github.com/pedropombeiro/uncloak.nvim"
+}

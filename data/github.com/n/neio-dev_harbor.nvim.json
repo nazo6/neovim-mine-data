@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "open"
+        },
+        {
+          "level": 5,
+          "name": "recent file"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 33,
+    "createdAt": "2026-02-23T19:10:03Z",
+    "description": "Pin frequently used files and quickly switch to them or your last few temporary files with shortcuts.",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T11:01:26Z",
+    "nameWithOwner": "neio-dev/harbor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "harbor.nvim",
+  "owner": "neio-dev",
+  "url": "https://github.com/neio-dev/harbor.nvim"
+}

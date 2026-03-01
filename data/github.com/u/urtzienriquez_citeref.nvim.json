@@ -24,16 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 50,
     "createdAt": "2026-02-19T17:46:00Z",
+    "description": "A Neovim plugin for inserting citations from .bib files and cross-references to R/Quarto code chunks.",
     "isArchived": false,
-    "lastCommit": "2026-02-20T22:17:27Z",
+    "lastCommit": "2026-02-26T09:26:49Z",
     "nameWithOwner": "urtzienriquez/citeref.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
     ]
   },

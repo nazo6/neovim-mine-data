@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Unity"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-21T17:48:13Z",
+    "description": "Neovim plugin — sync active buffer to Unity Editor Project window (ping/select asset)",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T17:48:20Z",
+    "nameWithOwner": "Rival/unity-ping.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "unity-ping.nvim",
+  "owner": "Rival",
+  "url": "https://github.com/Rival/unity-ping.nvim"
+}

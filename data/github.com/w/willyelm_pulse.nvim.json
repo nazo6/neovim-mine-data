@@ -16,18 +16,22 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 44,
+    "commitCountLastYear": 68,
     "createdAt": "2026-02-19T16:59:55Z",
-    "description": "A command palette and jump panel for Neovim",
+    "description": "A single command palette with prefix based pickers for Neovim",
     "isArchived": false,
-    "lastCommit": "2026-02-22T02:45:46Z",
+    "lastCommit": "2026-02-24T08:14:42Z",
     "nameWithOwner": "willyelm/pulse.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 7,
     "topics": [
+      "command-palette",
+      "neovim",
+      "plugin",
+      "programming"
     ]
   },
   "domain": "github.com",

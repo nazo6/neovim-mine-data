@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Package Manager"
+        },
+        {
+          "level": 3,
+          "name": "mise"
+        }
+      ],
+      "file": "package-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-02-21T23:35:16Z",
+    "description": "vibe coded mise plugin for nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-01T01:28:38Z",
+    "nameWithOwner": "sattfatt/mise.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mise.nvim",
+  "owner": "sattfatt",
+  "url": "https://github.com/sattfatt/mise.nvim"
+}

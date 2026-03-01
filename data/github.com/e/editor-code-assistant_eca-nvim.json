@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 199,
+    "commitCountLastYear": 200,
     "createdAt": "2025-07-31T13:02:57Z",
-    "description": "NVIM integration with ECA",
+    "description": "Editor Code Assistant (ECA) integration for NVIM",
     "isArchived": false,
-    "lastCommit": "2026-01-14T12:42:53Z",
+    "lastCommit": "2026-02-25T18:37:39Z",
     "nameWithOwner": "editor-code-assistant/eca-nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,7 +32,8 @@
       "editor",
       "neovim",
       "neovim-plugin",
-      "plugin"
+      "plugin",
+      "llm"
     ]
   },
   "domain": "github.com",

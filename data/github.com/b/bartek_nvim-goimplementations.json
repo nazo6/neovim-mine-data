@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "implement"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-26T23:22:40Z",
+    "description": "a tiny plugin to show amount of implementations for a Go interface",
+    "isArchived": false,
+    "lastCommit": "2026-02-26T23:21:57Z",
+    "nameWithOwner": "bartek/nvim-goimplementations",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-goimplementations",
+  "owner": "bartek",
+  "url": "https://github.com/bartek/nvim-goimplementations"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Copy File Context"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-26T02:42:47Z",
+    "description": "Real-time Neovim visual selection injection for AI coding assistants (Claude Code + OpenCode)",
+    "isArchived": false,
+    "lastCommit": "2026-02-26T02:44:56Z",
+    "nameWithOwner": "tofunori/nvim-ai-bridge",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-ai-bridge",
+  "owner": "tofunori",
+  "url": "https://github.com/tofunori/nvim-ai-bridge"
+}

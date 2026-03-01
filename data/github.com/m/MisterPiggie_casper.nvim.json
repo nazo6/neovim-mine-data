@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "Ghostty"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-21T15:07:13Z",
+    "description": "Sync ghostty theme with nvim",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T09:04:06Z",
+    "nameWithOwner": "MisterPiggie/casper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "casper.nvim",
+  "owner": "MisterPiggie",
+  "url": "https://github.com/MisterPiggie/casper.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jupyter"
+        },
+        {
+          "level": 3,
+          "name": "Databricks"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-24T06:53:40Z",
+    "description": "WIP neovim plugin to work with Databricks",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T07:04:54Z",
+    "nameWithOwner": "Srivatsan260/databricks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "databricks.nvim",
+  "owner": "Srivatsan260",
+  "url": "https://github.com/Srivatsan260/databricks.nvim"
+}

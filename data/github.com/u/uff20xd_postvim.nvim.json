@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2025-07-23T18:01:32Z",
+    "description": "A small neovim plugin for quick shell script writing, testing and execution.",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T14:50:09Z",
+    "nameWithOwner": "uff20xd/postvim.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "postvim.nvim",
+  "owner": "uff20xd",
+  "url": "https://github.com/uff20xd/postcmd.nvim"
+}

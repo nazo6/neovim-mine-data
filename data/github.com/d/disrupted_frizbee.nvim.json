@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-27T22:26:26Z",
+    "description": "fuzzy matching for Neovim, powered by Rust frizbee",
+    "isArchived": false,
+    "lastCommit": "2026-02-27T23:08:30Z",
+    "nameWithOwner": "disrupted/frizbee.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "frizbee.nvim",
+  "owner": "disrupted",
+  "url": "https://github.com/disrupted/frizbee.nvim"
+}

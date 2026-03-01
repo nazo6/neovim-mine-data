@@ -22,6 +22,7 @@
   "data": {
     "commitCountLastYear": 16,
     "createdAt": "2025-12-07T10:51:12Z",
+    "description": "A lightweight scratch file manager for Neovim.",
     "isArchived": false,
     "lastCommit": "2025-12-14T02:17:05Z",
     "nameWithOwner": "wsdjeg/scratch.nvim",
@@ -29,8 +30,9 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 7,
     "topics": [
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

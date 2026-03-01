@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-23T03:07:55Z",
+    "description": "A plugin to search a codebase using ripgrep for the token under cursor",
+    "isArchived": false,
+    "lastCommit": "2026-02-23T04:19:26Z",
+    "nameWithOwner": "nick-orton/token-grep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "quickfix",
+      "ripgrep"
+    ]
+  },
+  "domain": "github.com",
+  "name": "token-grep.nvim",
+  "owner": "nick-orton",
+  "url": "https://github.com/nick-orton/token-grep.nvim"
+}

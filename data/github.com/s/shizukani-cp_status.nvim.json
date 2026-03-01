@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Simple"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-02-23T00:07:10Z",
+    "description": "A lightweight statusline framework focused on component modularity.",
+    "isArchived": false,
+    "lastCommit": "2026-02-23T01:18:06Z",
+    "nameWithOwner": "shizukani-cp/status.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin",
+      "neovim-statusline",
+      "statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "status.nvim",
+  "owner": "shizukani-cp",
+  "url": "https://github.com/shizukani-cp/status.nvim"
+}

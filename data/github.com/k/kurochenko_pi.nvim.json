@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        },
+        {
+          "level": 3,
+          "name": "Pi Coding Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-02-27T19:33:12Z",
+    "description": "Neovim plugin for the Pi coding agent — side panel with bidirectional context passing",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T00:22:33Z",
+    "nameWithOwner": "kurochenko/pi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pi.nvim",
+  "owner": "kurochenko",
+  "url": "https://github.com/kurochenko/pi.nvim"
+}

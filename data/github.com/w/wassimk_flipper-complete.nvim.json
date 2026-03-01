@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Rails"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-21T02:54:36Z",
+    "description": "Neovim completion for Ruby Flipper feature flag names and descriptions",
+    "isArchived": false,
+    "lastCommit": "2026-02-21T03:29:34Z",
+    "nameWithOwner": "wassimk/flipper-complete.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "blink-cmp",
+      "completion",
+      "feature-flags",
+      "flipper",
+      "lua",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "nvim-cmp",
+      "ruby"
+    ]
+  },
+  "domain": "github.com",
+  "name": "flipper-complete.nvim",
+  "owner": "wassimk",
+  "url": "https://github.com/wassimk/flipper-complete.nvim"
+}

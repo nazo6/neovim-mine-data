@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Other Standard Feature Enhancement"
+        },
+        {
+          "level": 3,
+          "name": "Abbreviation"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-02-25T03:02:32Z",
+    "description": "Smart Markdown abbreviation expander for Neovim (roots + prefixes + suffixes + cmp)",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T22:08:33Z",
+    "nameWithOwner": "dgtipon/abbrev-gen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "abbrev-gen.nvim",
+  "owner": "dgtipon",
+  "url": "https://github.com/dgtipon/abbrev-gen.nvim"
+}

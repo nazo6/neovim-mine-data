@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Partial execution"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-02-21T13:31:33Z",
+    "description": "Run your code without leaving Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-22T20:39:29Z",
+    "nameWithOwner": "sm-joy/autorun.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "autorun.nvim",
+  "owner": "sm-joy",
+  "url": "https://github.com/sm-joy/autorun.nvim"
+}

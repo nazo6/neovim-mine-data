@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "F"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 139,
+    "createdAt": "2026-02-23T17:35:31Z",
+    "description": "Neovim frontend for SageFs — live F# development with sub-second hot reload, live testing, coverage, and SSE streaming",
+    "isArchived": false,
+    "lastCommit": "2026-03-01T06:39:03Z",
+    "nameWithOwner": "WillEhrendreich/sagefs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "dotnet",
+      "fsharp",
+      "fsharp-interactive",
+      "live-testing",
+      "mcp-client",
+      "mcp-server",
+      "neovim-plugin",
+      "repl"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sagefs.nvim",
+  "owner": "WillEhrendreich",
+  "url": "https://github.com/WillEhrendreich/sagefs.nvim"
+}

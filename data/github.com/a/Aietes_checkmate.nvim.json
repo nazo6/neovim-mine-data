@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": ":make style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-02-27T14:15:38Z",
+    "description": "checkmate.nvim runs your project checks (lint/typecheck/analyzers), parses output, and fills Neovim quickfix with clean diagnostics. Async, quickfix-first, and package-manager aware (pnpm, bun, npm, yarn).",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T18:03:59Z",
+    "nameWithOwner": "Aietes/checkmate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "checkmate.nvim",
+  "owner": "Aietes",
+  "url": "https://github.com/Aietes/checkmate.nvim"
+}

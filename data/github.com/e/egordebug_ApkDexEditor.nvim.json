@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Android"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-02-25T19:08:31Z",
+    "description": "Android Reverse-Engineering plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T07:22:33Z",
+    "nameWithOwner": "egordebug/ApkDexEditor.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin-android-reverse-apk-dex-smali"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ApkDexEditor.nvim",
+  "owner": "egordebug",
+  "url": "https://github.com/egordebug/ApkDexEditor.nvim"
+}

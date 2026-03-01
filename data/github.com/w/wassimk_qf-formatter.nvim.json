@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        },
+        {
+          "level": 3,
+          "name": "Syntax"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-21T23:35:57Z",
+    "description": "Beautiful quickfix and location list formatting with diagnostic and LSP kind icons for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-02-22T00:15:13Z",
+    "nameWithOwner": "wassimk/qf-formatter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "quickfix"
+    ]
+  },
+  "domain": "github.com",
+  "name": "qf-formatter.nvim",
+  "owner": "wassimk",
+  "url": "https://github.com/wassimk/qf-formatter.nvim"
+}

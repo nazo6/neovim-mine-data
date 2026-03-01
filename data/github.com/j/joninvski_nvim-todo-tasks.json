@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-02-23T14:50:06Z",
+    "description": "simple nvim plugin to manage todo_tasks",
+    "isArchived": false,
+    "lastCommit": "2026-02-24T12:05:41Z",
+    "nameWithOwner": "joninvski/nvim-todo-tasks",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-todo-tasks",
+  "owner": "joninvski",
+  "url": "https://github.com/joninvski/nvim-todo-tasks"
+}

@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 50,
     "createdAt": "2026-02-13T17:59:04Z",
-    "description": "using neovim exmark to temporarily pin it while comparing",
+    "description": "neovim plugin to temporarily pin visual selection or tree-sitter nodes while comparing",
     "isArchived": false,
-    "lastCommit": "2026-02-15T20:09:51Z",
+    "lastCommit": "2026-02-25T23:38:20Z",
     "nameWithOwner": "qrikko/pin.nvim",
     "primaryLanguage": {
       "color": "#000080",

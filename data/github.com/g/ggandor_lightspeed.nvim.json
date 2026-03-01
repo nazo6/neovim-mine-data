@@ -2,38 +2,14 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Motion"
-        },
-        {
-          "level": 3,
-          "name": "Label Jump (Easymotion style)"
-        }
       ],
-      "file": "motion.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Motion"
-        },
-        {
-          "level": 3,
-          "name": "Horizontal Move"
-        }
       ],
-      "file": "motion.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -55,14 +31,14 @@
     "commitCountLastYear": 0,
     "createdAt": "2021-06-14T18:20:10Z",
     "description": "deprecated in favor of leap.nvim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2023-12-01T22:44:22Z",
     "nameWithOwner": "ggandor/lightspeed.nvim",
     "primaryLanguage": {
       "color": "#fff3d7",
       "name": "Fennel"
     },
-    "star": 1557,
+    "star": 1558,
     "topics": [
       "neovim",
       "neovim-plugin",
