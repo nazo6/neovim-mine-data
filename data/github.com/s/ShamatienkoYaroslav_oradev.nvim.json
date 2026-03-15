@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "Oracle"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-03-01T12:45:27Z",
+    "description": "Oracle Database Developer as a Neovim Plugin (a SQLcl wrapper)",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T12:26:02Z",
+    "nameWithOwner": "ShamatienkoYaroslav/oradev.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "oradev.nvim",
+  "owner": "ShamatienkoYaroslav",
+  "url": "https://github.com/ShamatienkoYaroslav/oradev.nvim"
+}

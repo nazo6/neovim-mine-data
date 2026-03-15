@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 132,
+    "createdAt": "2026-03-05T23:05:11Z",
+    "description": "My Cursor style AI assistant plugin for Nvim. Mirror repo.",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T10:09:40Z",
+    "nameWithOwner": "blmayer/tai",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ai",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tai",
+  "owner": "blmayer",
+  "url": "https://github.com/blmayer/tai"
+}

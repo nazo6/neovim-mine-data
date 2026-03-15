@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Wiki"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 48,
+    "createdAt": "2026-03-05T06:38:49Z",
+    "description": "Lightweight personal wiki plugin for Neovim with wikilinks, backlinks, and link panel.",
+    "isArchived": false,
+    "lastCommit": "2026-03-09T14:52:18Z",
+    "nameWithOwner": "dhayer200/wiki.nvim",
+    "primaryLanguage": {
+      "color": "#e34c26",
+      "name": "HTML"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wiki.nvim",
+  "owner": "dhayer200",
+  "url": "https://github.com/dhayer200/wiki.nvim"
+}

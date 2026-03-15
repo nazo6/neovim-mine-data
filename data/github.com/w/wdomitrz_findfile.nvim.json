@@ -2,27 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Search"
-        },
-        {
-          "level": 3,
-          "name": "File search"
-        }
       ],
-      "file": "search_replace_grep_select.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 15,
     "createdAt": "2026-01-24T12:16:05Z",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2026-01-27T01:11:35Z",
     "nameWithOwner": "wdomitrz/findfile.nvim",
     "primaryLanguage": {

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Google Docs"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-08T23:01:34Z",
+    "description": "Neovim plugin to browse, edit, and sync Google Docs as Markdown via the gws CLI",
+    "isArchived": false,
+    "lastCommit": "2026-03-09T00:44:00Z",
+    "nameWithOwner": "teddytennant/gws-docs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gws-docs.nvim",
+  "owner": "teddytennant",
+  "url": "https://github.com/teddytennant/gws-docs.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2026-03-13T12:23:23Z",
+    "description": "A flexible and extensible Neovim plugin for running SQL queries",
+    "isArchived": false,
+    "lastCommit": "2026-03-13T12:36:35Z",
+    "nameWithOwner": "ZzurabSiprashvili/run-sql.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "run-sql.nvim",
+  "owner": "ZzurabSiprashvili",
+  "url": "https://github.com/ZzurabSiprashvili/run-sql.nvim"
+}

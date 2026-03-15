@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "3D printer"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-05T19:08:39Z",
+    "description": "Monitor your 3D Printer without leaving NeoVim!",
+    "isArchived": false,
+    "lastCommit": "2026-03-05T22:07:55Z",
+    "nameWithOwner": "MFoxx/nvim-moonraker",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-moonraker",
+  "owner": "MFoxx",
+  "url": "https://github.com/MFoxx/nvim-moonraker"
+}

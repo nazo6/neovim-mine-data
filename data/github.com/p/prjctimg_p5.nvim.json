@@ -24,26 +24,25 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 287,
+    "commitCountLastYear": 341,
     "createdAt": "2026-01-07T15:55:10Z",
-    "description": "Better editor support for p5.js workspaces in Neovim",
+    "description": "Better editor support for p5.js 🌸 sketchspaces in Neovim",
     "isArchived": false,
-    "lastCommit": "2026-02-27T22:39:34Z",
+    "lastCommit": "2026-03-15T04:21:22Z",
     "nameWithOwner": "prjctimg/p5.nvim",
     "primaryLanguage": {
       "color": "#f1e05a",
       "name": "JavaScript"
     },
-    "star": 13,
+    "star": 16,
     "topics": [
-      "neovim-plugin",
       "p5-js",
       "live-server",
       "lua",
       "manpages",
-      "scaffold-template",
       "snippets",
-      "typescript"
+      "typescript",
+      "neovim"
     ]
   },
   "domain": "github.com",

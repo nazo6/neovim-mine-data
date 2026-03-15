@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Timer"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-03-05T06:59:30Z",
+    "description": "Pomodoro timer for Neovim written in Lua",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T09:32:08Z",
+    "nameWithOwner": "lambertse/nvim-pomodoro",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pomodoro",
+  "owner": "lambertse",
+  "url": "https://github.com/lambertse/nvim-pomodoro"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "View"
+        },
+        {
+          "level": 3,
+          "name": "statuscolumn"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-02T14:19:25Z",
+    "description": "a lightweight statuscolumn plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-02T15:11:30Z",
+    "nameWithOwner": "wsdjeg/statuscolumn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "statuscolumn.nvim",
+  "owner": "wsdjeg",
+  "url": "https://github.com/wsdjeg/statuscolumn.nvim"
+}

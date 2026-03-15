@@ -8,14 +8,14 @@
         },
         {
           "level": 2,
-          "name": "Web"
+          "name": "Music"
         },
         {
           "level": 3,
           "name": "Spotify"
         }
       ],
-      "file": "web-service.md",
+      "file": "music.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 84,
+    "commitCountLastYear": 83,
     "createdAt": "2025-03-14T18:41:14Z",
     "description": "Spotify Music Manager for Neovim",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 30,
+    "star": 31,
     "topics": [
     ]
   },

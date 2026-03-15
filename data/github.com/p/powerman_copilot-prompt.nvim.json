@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Copilot"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2026-03-05T11:30:48Z",
+    "description": "Neovim plugin to generate a system prompt close to the official VS Code Copilot prompt.",
+    "isArchived": false,
+    "lastCommit": "2026-03-06T22:38:55Z",
+    "nameWithOwner": "powerman/copilot-prompt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copilot-prompt.nvim",
+  "owner": "powerman",
+  "url": "https://github.com/powerman/copilot-prompt.nvim"
+}

@@ -21,14 +21,28 @@
       ],
       "file": "debugger_repl.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Debugging"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 34,
+    "commitCountLastYear": 66,
     "createdAt": "2026-02-22T01:33:51Z",
     "description": "A lightweight Neovim plugin for inserting structured console.* statements in JavaScript and TypeScript files.",
     "isArchived": false,
-    "lastCommit": "2026-02-25T00:03:45Z",
+    "lastCommit": "2026-03-13T18:18:41Z",
     "nameWithOwner": "evanmcpheron/rocketlog.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Cloud"
+        },
+        {
+          "level": 4,
+          "name": "Salesforce"
+        },
+        {
+          "level": 5,
+          "name": "demandware"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-02-28T11:57:02Z",
+    "description": "Neovim plugin for Salesforce debug logs, anonymous Apex, and snippets. Integrates with sf.nvim and overseer.nvim.",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T11:56:22Z",
+    "nameWithOwner": "derhach0v/sf-log.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sf-log.nvim",
+  "owner": "derhach0v",
+  "url": "https://github.com/derhach0v/sf-log.nvim"
+}

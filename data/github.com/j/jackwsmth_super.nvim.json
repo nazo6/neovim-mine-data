@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Palette"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-02-14T08:22:31Z",
+    "description": "An experimental command palette extension for Telescope",
+    "isArchived": false,
+    "lastCommit": "2026-03-06T14:38:28Z",
+    "nameWithOwner": "jackwsmth/super.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "super.nvim",
+  "owner": "jackwsmth",
+  "url": "https://github.com/techne98/super.nvim"
+}

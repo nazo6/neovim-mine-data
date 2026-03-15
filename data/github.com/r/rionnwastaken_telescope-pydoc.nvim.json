@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "pydoc"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-05T17:40:11Z",
+    "description": "Search pydoc documentation with telescope and load it to a new buffer",
+    "isArchived": false,
+    "lastCommit": "2026-03-05T18:46:00Z",
+    "nameWithOwner": "rionnwastaken/telescope-pydoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-pydoc.nvim",
+  "owner": "rionnwastaken",
+  "url": "https://github.com/rionnwastaken/telescope-pydoc.nvim"
+}

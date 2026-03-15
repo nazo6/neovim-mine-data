@@ -21,20 +21,34 @@
       ],
       "file": "task-runner.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Code Runner"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 8,
+    "commitCountLastYear": 12,
     "createdAt": "2026-02-27T23:29:35Z",
     "description": "A lightweight Neovim plugin that lets you define, run, and manage multiple project-specific commands directly from your editor. By creating a .nvimlaunch file in your project root",
     "isArchived": false,
-    "lastCommit": "2026-02-28T00:27:05Z",
+    "lastCommit": "2026-03-13T19:22:20Z",
     "nameWithOwner": "hadishahpuri/nvimlaunch",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 8,
     "topics": [
       "neovim",
       "neovim-plugin",

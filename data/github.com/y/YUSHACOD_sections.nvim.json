@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-03-09T10:30:08Z",
+    "description": "simple plugin to create sections in code files, and to navigate them",
+    "isArchived": false,
+    "lastCommit": "2026-03-10T14:29:07Z",
+    "nameWithOwner": "YUSHACOD/sections.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sections.nvim",
+  "owner": "YUSHACOD",
+  "url": "https://github.com/YUSHACOD/sections.nvim"
+}

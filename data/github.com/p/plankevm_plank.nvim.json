@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Plank"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-03-06T17:35:15Z",
+    "description": "Plugin that adds support for plank to Neovim. Enables filetype detection and syntax highlighting.",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T19:01:34Z",
+    "nameWithOwner": "plankevm/plank.nvim",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plank.nvim",
+  "owner": "plankevm",
+  "url": "https://github.com/plankevm/plank.nvim"
+}

@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Contacts"
-        }
       ],
-      "file": "office-tools.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -19,8 +11,8 @@
     "commitCountLastYear": 3,
     "createdAt": "2025-02-05T05:55:16Z",
     "description": "Contact management and autocomplete system for Neovim.",
-    "isArchived": false,
-    "lastCommit": "2025-04-17T04:45:14Z",
+    "isArchived": true,
+    "lastCommit": "2026-03-02T06:17:48Z",
     "nameWithOwner": "michhernand/RLDX.nvim",
     "primaryLanguage": {
       "color": "#000080",

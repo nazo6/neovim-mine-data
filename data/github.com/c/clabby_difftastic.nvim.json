@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 32,
+    "commitCountLastYear": 35,
     "createdAt": "2025-12-30T05:47:24Z",
     "description": "A Neovim plugin that displays difftastic's structural diffs in a side-by-side view with syntax highlighting.",
     "isArchived": false,
-    "lastCommit": "2026-02-23T01:45:17Z",
+    "lastCommit": "2026-03-14T14:50:20Z",
     "nameWithOwner": "clabby/difftastic.nvim",
     "primaryLanguage": {
-      "color": "#000080",
-      "name": "Lua"
+      "color": "#dea584",
+      "name": "Rust"
     },
-    "star": 84,
+    "star": 89,
     "topics": [
       "difftastic",
       "neovim",

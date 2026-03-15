@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Code visualize"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-03-05T22:07:49Z",
+    "description": "Visualize the structure of your codebase as an interactive dependency graph inside of Neovim ",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T18:42:21Z",
+    "nameWithOwner": "smit4k/graphite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "dependency-graph",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "graphite.nvim",
+  "owner": "smit4k",
+  "url": "https://github.com/smit4k/graphite.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 383,
+    "createdAt": "2026-03-07T17:41:53Z",
+    "description": "A Neovim plugin for notebook-style #%% cells with inline rendering, .ipynb interoperability, and keyboard-first workflows.",
+    "isArchived": false,
+    "lastCommit": "2026-03-08T07:46:15Z",
+    "nameWithOwner": "pickledcoder85/neo-notebooks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neo-notebooks.nvim",
+  "owner": "pickledcoder85",
+  "url": "https://github.com/pickledcoder85/neo-notebooks.nvim"
+}

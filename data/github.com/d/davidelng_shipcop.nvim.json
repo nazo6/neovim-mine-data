@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Task Tracking"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-12T18:16:37Z",
+    "description": "Ship fast, record proof, move on",
+    "isArchived": false,
+    "lastCommit": "2026-03-12T23:35:43Z",
+    "nameWithOwner": "davidelng/shipcop.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "shipcop.nvim",
+  "owner": "davidelng",
+  "url": "https://github.com/davidelng/shipcop.nvim"
+}

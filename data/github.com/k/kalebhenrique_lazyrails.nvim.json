@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "Rails"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2026-03-01T19:48:28Z",
+    "description": "Neovim plugin for Ruby on Rails navigation and test helpers",
+    "isArchived": false,
+    "lastCommit": "2026-03-04T20:00:07Z",
+    "nameWithOwner": "kalebhenrique/lazyrails.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazyrails.nvim",
+  "owner": "kalebhenrique",
+  "url": "https://github.com/kalebhenrique/lazyrails.nvim"
+}

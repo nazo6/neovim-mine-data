@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-03-07T00:57:01Z",
+    "description": "Broadcasting your coding status from Neovim to a WebSocket server.",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T07:43:46Z",
+    "nameWithOwner": "DumbNoxx/pulse.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pulse.nvim",
+  "owner": "DumbNoxx",
+  "url": "https://github.com/DumbNoxx/pulse.nvim"
+}

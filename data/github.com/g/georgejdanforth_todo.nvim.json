@@ -20,10 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 21,
     "createdAt": "2026-02-24T16:49:57Z",
+    "description": "A simple, opinionated TODO management plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2026-02-24T20:56:03Z",
+    "lastCommit": "2026-03-07T20:50:23Z",
     "nameWithOwner": "georgejdanforth/todo.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -31,6 +32,9 @@
     },
     "star": 1,
     "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

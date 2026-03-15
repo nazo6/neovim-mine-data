@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-03-11T16:13:01Z",
+    "description": "A Neovim plugin for manipulating markdown todo-lists with GitHub-style checkboxes embedded in callout blocks.",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T18:12:36Z",
+    "nameWithOwner": "czt08883/todo-md.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todo-md.nvim",
+  "owner": "czt08883",
+  "url": "https://github.com/czt08883/todo-md.nvim"
+}

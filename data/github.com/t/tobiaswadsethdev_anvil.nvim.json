@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Jira"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2026-03-11T20:56:04Z",
+    "description": "A Neovim TUI for Jira Cloud. JQL filters, transitions, comments, and Azure DevOps PR reviews",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T16:02:56Z",
+    "nameWithOwner": "tobiaswadsethdev/anvil.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "anvil.nvim",
+  "owner": "tobiaswadsethdev",
+  "url": "https://github.com/tobiaswadsethdev/anvil.nvim"
+}

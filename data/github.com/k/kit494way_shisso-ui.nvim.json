@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        }
+      ],
+      "file": "util-pack.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-01T13:50:37Z",
+    "description": "Simple implementations of `vim.ui.input` and `vim.ui.select` with poor customizability.",
+    "isArchived": false,
+    "lastCommit": "2026-03-01T13:49:51Z",
+    "nameWithOwner": "kit494way/shisso-ui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "plugin",
+      "ui"
+    ]
+  },
+  "domain": "github.com",
+  "name": "shisso-ui.nvim",
+  "owner": "kit494way",
+  "url": "https://github.com/kit494way/shisso-ui.nvim"
+}

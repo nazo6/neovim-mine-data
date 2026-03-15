@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Audio"
+        },
+        {
+          "level": 4,
+          "name": "Text-to-speech"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-03T23:07:22Z",
+    "description": "This plugin makes Neovim talk to you, bro. You select some text, and it reads it out loud. That's it.",
+    "isArchived": false,
+    "lastCommit": "2026-03-05T15:42:38Z",
+    "nameWithOwner": "LeandroDeJesus-S/SayIt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "SayIt.nvim",
+  "owner": "LeandroDeJesus-S",
+  "url": "https://github.com/LeandroDeJesus-S/SayIt.nvim"
+}

@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Note Taking"
-        },
-        {
-          "level": 3,
-          "name": "VimWiki"
-        }
       ],
-      "file": "note-taking.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -37,14 +25,14 @@
     "commitCountLastYear": 6,
     "createdAt": "2023-07-13T05:10:06Z",
     "description": "A stripped down VimWiki for Neovim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-07-07T04:10:47Z",
     "nameWithOwner": "serenevoid/kiwi.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 246,
+    "star": 247,
     "topics": [
       "lua",
       "neovim",

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "CSV"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-03-01T19:35:26Z",
+    "description": "Structural TIR editing for Neovim — pure text, always valid.",
+    "isArchived": false,
+    "lastCommit": "2026-03-15T07:42:58Z",
+    "nameWithOwner": "kibi2/tirenvi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "csv",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "structural-editing",
+      "tabular-editor",
+      "text-editor",
+      "tsv"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tirenvi.nvim",
+  "owner": "kibi2",
+  "url": "https://github.com/kibi2/tirenvi.nvim"
+}

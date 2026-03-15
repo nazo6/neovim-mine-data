@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "AI Coding"
-        },
-        {
-          "level": 3,
-          "name": "OpenAI(ChatGPT)"
-        }
       ],
-      "file": "ai.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 4,
     "createdAt": "2025-10-22T20:01:23Z",
     "description": "simple rpc streaming plugin for nvim",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-10-22T20:55:39Z",
     "nameWithOwner": "mecattaf/llm-stream.nvim",
     "primaryLanguage": {

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "typst"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 63,
+    "createdAt": "2026-03-01T22:21:25Z",
+    "description": "universal previewer for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-13T12:22:45Z",
+    "nameWithOwner": "barrettruth/preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 60,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "preview.nvim",
+  "owner": "barrettruth",
+  "url": "https://github.com/barrettruth/render.nvim"
+}

@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        },
+        {
+          "level": 4,
+          "name": "inlayhint"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-28T23:14:38Z",
+    "description": "Inspect Python inheritance hierarchies (super types, respects MRO) with Telescope using Treesitter + LSP ",
+    "isArchived": false,
+    "lastCommit": "2026-03-01T22:47:03Z",
+    "nameWithOwner": "KirilStrezikozin/telescope-py-super-types.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lsp",
+      "nvim",
+      "nvim-plugin",
+      "pyright",
+      "python",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-py-super-types.nvim",
+  "owner": "KirilStrezikozin",
+  "url": "https://github.com/KirilStrezikozin/telescope-py-super-types.nvim"
+}

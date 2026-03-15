@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        },
+        {
+          "level": 4,
+          "name": "Codex"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-03-09T06:38:47Z",
+    "description": "[WIP] Making neovim use AI instead of teaching AI to use neovim. Tell your agents who's the boss and your 15 currently active projects will help you for that.  ",
+    "isArchived": false,
+    "lastCommit": "2026-03-12T12:39:15Z",
+    "nameWithOwner": "AlexanderGolys/codex-cli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codex-cli.nvim",
+  "owner": "AlexanderGolys",
+  "url": "https://github.com/AlexanderGolys/codex-cli.nvim"
+}

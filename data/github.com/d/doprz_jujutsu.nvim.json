@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jujutsu(jj)"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-03-08T06:02:15Z",
+    "description": "A Neovim plugin for jujutsu integration. Inspired by lazygit.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-08T19:42:26Z",
+    "nameWithOwner": "doprz/jujutsu.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "jj",
+      "jj-vcs",
+      "jjui",
+      "jujutsu",
+      "lazygit",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jujutsu.nvim",
+  "owner": "doprz",
+  "url": "https://github.com/doprz/jujutsu.nvim"
+}

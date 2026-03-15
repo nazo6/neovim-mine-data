@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-07T11:55:35Z",
+    "description": "Neovim plugin that extends the functionality of `:edit` command",
+    "isArchived": false,
+    "lastCommit": "2026-03-08T11:40:28Z",
+    "nameWithOwner": "p-senichenkov/smart-edit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-edit.nvim",
+  "owner": "p-senichenkov",
+  "url": "https://github.com/p-senichenkov/smart-edit.nvim"
+}

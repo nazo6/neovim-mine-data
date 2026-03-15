@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Terminal"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 35,
+    "createdAt": "2026-03-06T23:40:56Z",
+    "description": "Bring your CLI AI tool into Neovim as a persistent sidebar panel",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T21:20:13Z",
+    "nameWithOwner": "juhaku/aiwaku.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "ai",
+      "cli",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "aiwaku.nvim",
+  "owner": "juhaku",
+  "url": "https://github.com/juhaku/aiwaku.nvim"
+}

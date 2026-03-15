@@ -21,20 +21,34 @@
       ],
       "file": "task-runner.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Code Runner"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 18,
     "createdAt": "2026-02-27T22:39:05Z",
     "description": "neovim command runner",
     "isArchived": false,
-    "lastCommit": "2026-02-28T16:51:35Z",
+    "lastCommit": "2026-03-06T13:09:50Z",
     "nameWithOwner": "mikeboiko/nvim-flow",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 5,
     "topics": [
     ]
   },

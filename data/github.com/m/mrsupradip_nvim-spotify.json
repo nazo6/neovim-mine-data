@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Spotify"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-07T21:23:32Z",
+    "description": "A minimal yet aesthetic Spotify widget for Neovim featuring live metadata, progress bar, and terminal-rendered album art.",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T22:07:45Z",
+    "nameWithOwner": "mrsupradip/nvim-spotify",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-spotify",
+  "owner": "mrsupradip",
+  "url": "https://github.com/mrsupradip/nvim-spotify"
+}

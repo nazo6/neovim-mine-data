@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Completion"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2026-03-04T23:31:25Z",
+    "description": "Rust-aware completion sorting for blink.cmp",
+    "isArchived": false,
+    "lastCommit": "2026-03-08T20:30:40Z",
+    "nameWithOwner": "AJamesyD/blink-cmp-rust.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "blink-cmp-rust.nvim",
+  "owner": "AJamesyD",
+  "url": "https://github.com/AJamesyD/blink-cmp-rust.nvim"
+}

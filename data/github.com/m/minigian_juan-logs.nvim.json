@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2026-03-01T23:12:55Z",
+    "description": "A blazingly fast Rust-based large file opener plugin for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-12T17:36:13Z",
+    "nameWithOwner": "minigian/juan-logs.nvim",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 71,
+    "topics": [
+      "large-files",
+      "log-viewer",
+      "neovim",
+      "plugin",
+      "rust"
+    ]
+  },
+  "domain": "github.com",
+  "name": "juan-logs.nvim",
+  "owner": "minigian",
+  "url": "https://github.com/minigian/juan-logs.nvim"
+}

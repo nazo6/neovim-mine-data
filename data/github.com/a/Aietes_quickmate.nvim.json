@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": ":make style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2026-02-27T14:15:38Z",
+    "description": "quickmate.nvim runs your project checks (lint/typecheck/analyzers), parses output, and fills Neovim quickfix with clean diagnostics.",
+    "isArchived": false,
+    "lastCommit": "2026-03-03T10:26:43Z",
+    "nameWithOwner": "Aietes/quickmate.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "quickmate.nvim",
+  "owner": "Aietes",
+  "url": "https://github.com/Aietes/checkmate.nvim"
+}

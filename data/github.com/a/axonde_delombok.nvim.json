@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Refactor / Builder"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-04T21:09:33Z",
+    "description": "Tired of empty Java deLombok support, so create own.",
+    "isArchived": false,
+    "lastCommit": "2026-03-04T21:34:05Z",
+    "nameWithOwner": "axonde/delombok.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "delombok.nvim",
+  "owner": "axonde",
+  "url": "https://github.com/axonde/delombok.nvim"
+}

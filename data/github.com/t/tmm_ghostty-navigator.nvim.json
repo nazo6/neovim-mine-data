@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "Ghostty"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-09T23:03:55Z",
+    "description": "Seamless navigation between Neovim & Ghostty",
+    "isArchived": false,
+    "lastCommit": "2026-03-09T23:35:32Z",
+    "nameWithOwner": "tmm/ghostty-navigator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ghostty-navigator.nvim",
+  "owner": "tmm",
+  "url": "https://github.com/tmm/ghostty-navigator.nvim"
+}

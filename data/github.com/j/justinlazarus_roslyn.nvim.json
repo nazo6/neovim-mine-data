@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C"
+        },
+        {
+          "level": 5,
+          "name": "Compile"
+        },
+        {
+          "level": 6,
+          "name": "Roslyn"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-06T23:16:50Z",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T06:27:09Z",
+    "nameWithOwner": "justinlazarus/roslyn.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "roslyn.nvim",
+  "owner": "justinlazarus",
+  "url": "https://github.com/justinlazarus/roslyn.nvim"
+}

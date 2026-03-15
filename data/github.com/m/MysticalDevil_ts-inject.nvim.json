@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 44,
+    "createdAt": "2026-03-10T16:40:30Z",
+    "description": "  Neovim plugin for Tree-sitter embedded language injections using static queries, with debugging for SQL and string-based code blocks.",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T19:51:34Z",
+    "nameWithOwner": "MysticalDevil/ts-inject.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ts-inject.nvim",
+  "owner": "MysticalDevil",
+  "url": "https://github.com/MysticalDevil/ts-inject.nvim"
+}

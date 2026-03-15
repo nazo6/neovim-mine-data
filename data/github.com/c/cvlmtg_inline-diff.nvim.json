@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 52,
+    "createdAt": "2026-03-06T22:41:03Z",
+    "description": "High performance, live, VSCode-style inline diff for Neovim. Shows the current buffer's changes against a git ref as you type, with word-level highlighting.",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T21:27:18Z",
+    "nameWithOwner": "cvlmtg/inline-diff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "diff",
+      "git",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "inline-diff.nvim",
+  "owner": "cvlmtg",
+  "url": "https://github.com/cvlmtg/inline-diff.nvim"
+}

@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Comment Viewer"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-03-02T17:53:32Z",
+    "isArchived": false,
+    "lastCommit": "2026-03-04T17:58:20Z",
+    "nameWithOwner": "huashuai/nvim-comment-overlay",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-comment-overlay",
+  "owner": "huashuai",
+  "url": "https://github.com/huashuai/nvim-comment-overlay"
+}

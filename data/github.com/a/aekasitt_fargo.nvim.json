@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        },
+        {
+          "level": 3,
+          "name": "Cargo"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-10T15:29:28Z",
+    "description": "Neovim plugin to toggle Cargo workspace crate visibility on file filtering for fff.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T09:41:15Z",
+    "nameWithOwner": "aekasitt/fargo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fargo.nvim",
+  "owner": "aekasitt",
+  "url": "https://github.com/aekasitt/fargo.nvim"
+}

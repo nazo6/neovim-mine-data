@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "rsync"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-04T15:56:05Z",
+    "isArchived": false,
+    "lastCommit": "2026-03-04T16:08:57Z",
+    "nameWithOwner": "LCPAN/remote-upload.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "remote-upload.nvim",
+  "owner": "LCPAN",
+  "url": "https://github.com/LCPAN/remote-upload.nvim"
+}

@@ -38,7 +38,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 14,
+    "commitCountLastYear": 10,
     "createdAt": "2024-07-30T15:44:30Z",
     "description": "A Lua plugin for Neovim that helps manage breakpoints (including exception filters), create advanced breakpoints using vim.ui.input, and display breakpoint properties as virtual text with nvim-dap",
     "isArchived": false,
@@ -48,7 +48,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 17,
+    "star": 18,
     "topics": [
       "debugging",
       "nvim",

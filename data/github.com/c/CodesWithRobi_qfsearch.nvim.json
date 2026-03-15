@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-04T11:39:01Z",
+    "description": "I had enough of searching each quickfix list for a specific keyword! So I made a plugin..",
+    "isArchived": false,
+    "lastCommit": "2026-03-04T12:05:08Z",
+    "nameWithOwner": "CodesWithRobi/qfsearch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "qfsearch.nvim",
+  "owner": "CodesWithRobi",
+  "url": "https://github.com/CodesWithRobi/qfsearch.nvim"
+}

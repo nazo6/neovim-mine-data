@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "HTTP"
+        },
+        {
+          "level": 4,
+          "name": "Request"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2026-02-28T21:15:20Z",
+    "description": "A lightweight, asynchronous HTTP client for Neovim inspired by Thunder Client. Written in Lua, powered by httpie.",
+    "isArchived": false,
+    "lastCommit": "2026-03-09T16:00:08Z",
+    "nameWithOwner": "JD1705/AdoRest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "AdoRest.nvim",
+  "owner": "JD1705",
+  "url": "https://github.com/JD1705/AdoRest.nvim"
+}

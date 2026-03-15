@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-01T12:12:53Z",
+    "description": "A Neovim plugin that shows a live diff preview of Claude Code's file edits before you accept or reject them.",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T06:11:26Z",
+    "nameWithOwner": "Cannon07/claude-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 46,
+    "topics": [
+      "claude",
+      "neovim",
+      "nvim-plugin",
+      "preview",
+      "tmux"
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-preview.nvim",
+  "owner": "Cannon07",
+  "url": "https://github.com/Cannon07/claude-preview.nvim"
+}

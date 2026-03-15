@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-07T08:53:43Z",
+    "description": "Code review annotations in neovim — annotate code, sync to a file, let an agent apply the changes.",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T09:58:16Z",
+    "nameWithOwner": "scristobal/code-review.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-review.nvim",
+  "owner": "scristobal",
+  "url": "https://github.com/scristobal/code-review.nvim"
+}

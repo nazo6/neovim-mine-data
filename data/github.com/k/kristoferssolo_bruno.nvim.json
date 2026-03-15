@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Bruno"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-11T13:32:15Z",
+    "description": "Neovim plugin for Bruno API client with Tree-sitter syntax highlighting. This is a mirror from https://codeberg.org/kristoferssolo/bruno.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T14:41:40Z",
+    "nameWithOwner": "kristoferssolo/bruno.nvim",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 1,
+    "topics": [
+      "bruno",
+      "neovim-plugin",
+      "rest-api"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bruno.nvim",
+  "owner": "kristoferssolo",
+  "url": "https://github.com/kristoferssolo/bruno.nvim"
+}

@@ -17,20 +17,34 @@
       ],
       "file": "startup.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Startup"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 2,
     "createdAt": "2024-10-27T13:18:26Z",
-    "description": "Your Personal Homepage",
+    "description": "A dashboard, similar to GitHub homepage.",
     "isArchived": false,
-    "lastCommit": "2026-01-30T13:01:12Z",
+    "lastCommit": "2026-03-01T10:32:27Z",
     "nameWithOwner": "Kurama622/profile.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 70,
+    "star": 74,
     "topics": [
       "neovim",
       "neovim-lua",

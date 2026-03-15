@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Copilot"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-06T20:47:08Z",
+    "description": "The Copilot agent, but my way",
+    "isArchived": false,
+    "lastCommit": "2026-03-10T16:11:08Z",
+    "nameWithOwner": "ochcaroline/dum.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "copilot",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dum.nvim",
+  "owner": "ochcaroline",
+  "url": "https://github.com/ochcaroline/dum.nvim"
+}

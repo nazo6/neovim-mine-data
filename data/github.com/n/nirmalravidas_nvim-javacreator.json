@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "Spring Boot"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-01T06:15:05Z",
+    "description": "Java file creator and project detection for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-01T08:09:37Z",
+    "nameWithOwner": "nirmalravidas/nvim-javacreator",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "java",
+      "lazyvim",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-javacreator",
+  "owner": "nirmalravidas",
+  "url": "https://github.com/nirmalravidas/nvim-javacreator"
+}

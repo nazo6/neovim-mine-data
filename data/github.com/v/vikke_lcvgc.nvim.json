@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Recording"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 77,
+    "createdAt": "2026-02-27T18:52:46Z",
+    "description": "nvim plugin for Live CV Gate Coder (lcvgc)",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T14:55:29Z",
+    "nameWithOwner": "vikke/lcvgc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lcvgc.nvim",
+  "owner": "vikke",
+  "url": "https://github.com/vikke/lcvgc.nvim"
+}

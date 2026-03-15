@@ -13,20 +13,34 @@
       ],
       "file": "startup.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Startup"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 30,
+    "commitCountLastYear": 45,
     "createdAt": "2026-02-25T19:29:31Z",
     "description": "A dead-simple, customizable and cozy dashboard with sane defaults and zero config required",
     "isArchived": false,
-    "lastCommit": "2026-02-27T14:22:08Z",
+    "lastCommit": "2026-03-14T01:30:55Z",
     "nameWithOwner": "leo-alvarenga/homecoming.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
       "neovim",
       "neovim-lua",

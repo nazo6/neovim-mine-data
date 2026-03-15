@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-02T13:11:37Z",
+    "description": "Neovim plugin to highlight javascript regex in current buffer",
+    "isArchived": false,
+    "lastCommit": "2026-03-02T13:25:01Z",
+    "nameWithOwner": "jugarpeupv/jsregex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jsregex.nvim",
+  "owner": "jugarpeupv",
+  "url": "https://github.com/jugarpeupv/jsregex.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Genie CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-28T15:56:05Z",
+    "description": "AI inline autocomplete plugin for Neovim — ghost text suggestions from any AI provider (OpenRouter, OpenAI, Anthropic)",
+    "isArchived": false,
+    "lastCommit": "2026-03-05T17:58:31Z",
+    "nameWithOwner": "ofcRS/nvim-acai",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-acai",
+  "owner": "ofcRS",
+  "url": "https://github.com/ofcRS/nvim-acai"
+}

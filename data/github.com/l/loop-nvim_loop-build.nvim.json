@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Specific runner"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-01-31T17:54:49Z",
+    "description": "Build task type and templates for loop.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T21:29:37Z",
+    "nameWithOwner": "loop-nvim/loop-build.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "loop-build.nvim",
+  "owner": "loop-nvim",
+  "url": "https://github.com/mbfoss/loop-build.nvim"
+}

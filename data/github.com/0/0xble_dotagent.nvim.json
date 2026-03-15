@@ -1,0 +1,59 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent Skills"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "AI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-03-07T21:40:45Z",
+    "description": "Neovim completion for local agent commands and skills, with env-gated Claude/Codex editor integration",
+    "isArchived": false,
+    "lastCommit": "2026-03-09T02:27:43Z",
+    "nameWithOwner": "0xble/dotagent.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "blink-cmp",
+      "claude-code",
+      "codex",
+      "completion",
+      "llm",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotagent.nvim",
+  "owner": "0xble",
+  "url": "https://github.com/0xble/dotagent.nvim"
+}

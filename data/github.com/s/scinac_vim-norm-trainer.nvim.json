@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Tutorial"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-03-01T15:11:45Z",
+    "description": "Train your :norm skills with practical day-to-day examples in form of levels. Fun Game!!",
+    "isArchived": false,
+    "lastCommit": "2026-03-02T20:19:26Z",
+    "nameWithOwner": "scinac/vim-norm-trainer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 21,
+    "topics": [
+      "lazyvim",
+      "neovim",
+      "neovim-plugin",
+      "tui",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vim-norm-trainer.nvim",
+  "owner": "scinac",
+  "url": "https://github.com/scinac/vim-norm-trainer.nvim"
+}

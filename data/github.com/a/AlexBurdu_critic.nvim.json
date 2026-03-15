@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-01T18:16:53Z",
+    "description": "Neovim plugin for CriticMarkup highlighting and editing",
+    "isArchived": false,
+    "lastCommit": "2026-03-02T19:21:39Z",
+    "nameWithOwner": "AlexBurdu/critic.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "critic.nvim",
+  "owner": "AlexBurdu",
+  "url": "https://github.com/AlexBurdu/critic.nvim"
+}

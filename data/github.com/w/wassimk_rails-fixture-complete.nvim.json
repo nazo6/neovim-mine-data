@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Ruby"
-        },
-        {
-          "level": 3,
-          "name": "Test"
-        }
       ],
-      "file": "ruby.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 6,
     "createdAt": "2026-02-21T02:55:56Z",
-    "description": "Neovim completion for Rails fixture types and names with documentation",
-    "isArchived": false,
-    "lastCommit": "2026-02-21T03:26:26Z",
+    "description": "[DEPRECATED] Use wassimk/rails-fixture-ls.nvim instead",
+    "isArchived": true,
+    "lastCommit": "2026-03-14T21:02:04Z",
     "nameWithOwner": "wassimk/rails-fixture-complete.nvim",
     "primaryLanguage": {
       "color": "#000080",

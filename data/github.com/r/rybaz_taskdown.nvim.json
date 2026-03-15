@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-13T14:39:49Z",
+    "description": "Simple and powerful markdown task management for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-13T14:42:51Z",
+    "nameWithOwner": "rybaz/taskdown.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "taskdown.nvim",
+  "owner": "rybaz",
+  "url": "https://github.com/rybaz/taskdown.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Command"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-08-14T05:57:59Z",
+    "description": "A Neovim plugin that opens a terminal with the Coding Agent (crush, opencode, claude, gemini-cli, etc.) in a vertical split.",
+    "isArchived": false,
+    "lastCommit": "2026-03-05T08:06:37Z",
+    "nameWithOwner": "gitsang/codock.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codock.nvim",
+  "owner": "gitsang",
+  "url": "https://github.com/gitsang/crush.nvim"
+}

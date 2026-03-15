@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2026-03-08T11:27:14Z",
+    "description": "Use familiar GUI shortcuts in Neovim while learning native Vim commands.",
+    "isArchived": false,
+    "lastCommit": "2026-03-13T14:32:05Z",
+    "nameWithOwner": "Only-Moon/gui-keymap.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ctrl-c",
+      "ctrl-v",
+      "gui-editor",
+      "nvim-plugin",
+      "gui-keymap",
+      "vim-plugin",
+      "lazyvim",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "gui-keymap.nvim",
+  "owner": "Only-Moon",
+  "url": "https://github.com/Only-Moon/gui-keymap.nvim"
+}

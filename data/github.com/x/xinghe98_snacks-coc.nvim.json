@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-08T02:16:48Z",
+    "description": "Integrate coc.nvim features into the beautiful and high-performance snacks.nvim picker.",
+    "isArchived": false,
+    "lastCommit": "2026-03-08T02:40:47Z",
+    "nameWithOwner": "xinghe98/snacks-coc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-coc.nvim",
+  "owner": "xinghe98",
+  "url": "https://github.com/xinghe98/snacks-coc.nvim"
+}

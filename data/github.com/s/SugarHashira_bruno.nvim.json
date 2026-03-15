@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Bruno"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-04T17:00:42Z",
+    "description": "Neovim plugin for Bruno collections — supports .bru and Open Collection .yml files",
+    "isArchived": false,
+    "lastCommit": "2026-03-04T17:47:13Z",
+    "nameWithOwner": "SugarHashira/bruno.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bruno.nvim",
+  "owner": "SugarHashira",
+  "url": "https://github.com/SugarHashira/bruno.nvim"
+}

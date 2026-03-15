@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-03-06T19:00:06Z",
+    "description": "Rewrite of vim-buffergator in lua for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-13T17:37:20Z",
+    "nameWithOwner": "themitchells/nvim-buffergator",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-buffergator",
+  "owner": "themitchells",
+  "url": "https://github.com/themitchells/nvim-buffergator"
+}

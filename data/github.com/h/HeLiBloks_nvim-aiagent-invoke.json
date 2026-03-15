@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-07T12:11:30Z",
+    "description": "Neovim plugin to send visual selections to interactive AI CLI agents like Codex",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T12:34:32Z",
+    "nameWithOwner": "HeLiBloks/nvim-aiagent-invoke",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "codex",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-aiagent-invoke",
+  "owner": "HeLiBloks",
+  "url": "https://github.com/HeLiBloks/nvim-aiagent-invoke"
+}

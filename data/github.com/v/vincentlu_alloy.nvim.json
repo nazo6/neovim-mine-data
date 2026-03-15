@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Alloy"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-07T23:33:16Z",
+    "description": "Alloy 6 language support for Neovim with tree-sitter syntax highlighting",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T23:35:08Z",
+    "nameWithOwner": "vincentlu/alloy.nvim",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 1,
+    "topics": [
+      "alloy",
+      "neovim-plugin",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "alloy.nvim",
+  "owner": "vincentlu",
+  "url": "https://github.com/vincentlu/alloy.nvim"
+}

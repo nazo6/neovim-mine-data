@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Godot"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-02T22:29:10Z",
+    "description": "Godot <> Neovim. Run scenes from the comfort of Neovim ",
+    "isArchived": false,
+    "lastCommit": "2026-03-02T22:31:59Z",
+    "nameWithOwner": "SalOrak/godot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "godot.nvim",
+  "owner": "SalOrak",
+  "url": "https://github.com/SalOrak/godot.nvim"
+}

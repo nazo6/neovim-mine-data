@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 13,
     "createdAt": "2026-02-21T13:31:33Z",
     "description": "Run your code without leaving Neovim",
     "isArchived": false,
-    "lastCommit": "2026-02-22T20:39:29Z",
+    "lastCommit": "2026-03-14T18:38:00Z",
     "nameWithOwner": "sm-joy/autorun.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -37,7 +37,9 @@
       "nvim",
       "nvim-lua",
       "nvim-plugin",
-      "plugin"
+      "plugin",
+      "code-runner",
+      "developer-tools"
     ]
   },
   "domain": "github.com",

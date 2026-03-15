@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-03-13T15:34:54Z",
+    "description": "Search and listen to internet radio stations from within Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-13T15:43:20Z",
+    "nameWithOwner": "abidibo/nvim-webradios",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-webradios",
+  "owner": "abidibo",
+  "url": "https://github.com/abidibo/nvim-webradios"
+}

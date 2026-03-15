@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C"
+        },
+        {
+          "level": 5,
+          "name": ".NET"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-03-06T21:15:46Z",
+    "description": "Neovim plugin for managing C# projects and solutions",
+    "isArchived": false,
+    "lastCommit": "2026-03-06T23:34:00Z",
+    "nameWithOwner": "andres-m-rodriguez/csharp-toolkit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "csharp-toolkit.nvim",
+  "owner": "andres-m-rodriguez",
+  "url": "https://github.com/andres-m-rodriguez/csharp-toolkit.nvim"
+}

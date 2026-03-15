@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Presentation"
+        },
+        {
+          "level": 3,
+          "name": "Slidev"
+        }
+      ],
+      "file": "office-tools.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-05T23:24:59Z",
+    "description": "Neovim plugin that syncs your Slidev presentation in the browser with your cursor position in `slides.md`.",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T05:24:42Z",
+    "nameWithOwner": "tadashi-aikawa/slidev-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "slidev-preview.nvim",
+  "owner": "tadashi-aikawa",
+  "url": "https://github.com/tadashi-aikawa/slidev-preview.nvim"
+}

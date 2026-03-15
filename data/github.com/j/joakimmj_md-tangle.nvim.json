@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown code block"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-04T10:41:20Z",
+    "description": "Neovim plugin for tangling markdown files",
+    "isArchived": false,
+    "lastCommit": "2026-03-04T13:13:27Z",
+    "nameWithOwner": "joakimmj/md-tangle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "plugin",
+      "configuration",
+      "configuration-management",
+      "literate-programming",
+      "markdown"
+    ]
+  },
+  "domain": "github.com",
+  "name": "md-tangle.nvim",
+  "owner": "joakimmj",
+  "url": "https://github.com/joakimmj/md-tangle.nvim"
+}

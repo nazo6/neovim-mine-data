@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-07T01:45:37Z",
+    "description": "Finds and truncates oversized log files in your Neovim state directory.",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T01:58:37Z",
+    "nameWithOwner": "0xch4z/chainsaw.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "chainsaw.nvim",
+  "owner": "0xch4z",
+  "url": "https://github.com/0xch4z/chainsaw.nvim"
+}

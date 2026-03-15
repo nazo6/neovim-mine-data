@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2025-02-25T20:34:07Z",
+    "description": "Transform your stupid TODO.md file into a little less stupid nvim enhanced TODO list.",
+    "isArchived": false,
+    "lastCommit": "2025-02-26T00:37:19Z",
+    "nameWithOwner": "theholocoder/todolist.nvim",
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "todolist.nvim",
+  "owner": "theholocoder",
+  "url": "https://github.com/lazybobcat/todolist.nvim"
+}

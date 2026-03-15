@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        },
+        {
+          "level": 4,
+          "name": "Karabiner"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-03-12T05:55:12Z",
+    "description": "Set a Karabiner-Elements variable while Neovim is active.",
+    "isArchived": false,
+    "lastCommit": "2026-03-12T08:22:37Z",
+    "nameWithOwner": "Gai-H/karabiner-active-variable.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "karabiner-active-variable.nvim",
+  "owner": "Gai-H",
+  "url": "https://github.com/Gai-H/karabiner-active-variable.nvim"
+}

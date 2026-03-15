@@ -24,25 +24,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 93,
     "createdAt": "2026-02-08T16:53:37Z",
     "description": "Interactive Docker dashboard directly in your editor. It lets you view and manage containers, images, networks, and logs",
     "isArchived": false,
-    "lastCommit": "2026-02-09T20:38:19Z",
+    "lastCommit": "2026-03-15T09:31:16Z",
     "nameWithOwner": "emrearmagan/dockyard.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 10,
     "topics": [
       "neovim",
       "nvim",
       "nvim-plugin",
-      "bitbucket",
-      "github",
-      "jira",
-      "neovim-plugin"
+      "neovim-plugin",
+      "docker",
+      "docker-compose"
     ]
   },
   "domain": "github.com",

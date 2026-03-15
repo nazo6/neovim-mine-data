@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-03-01T18:48:18Z",
+    "description": "neovim plugin to keep track of progress on projects in current open buffer",
+    "isArchived": false,
+    "lastCommit": "2026-03-01T20:51:51Z",
+    "nameWithOwner": "crcrist/notes-dashboard.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "notes-dashboard.nvim",
+  "owner": "crcrist",
+  "url": "https://github.com/crcrist/notes-dashboard.nvim"
+}

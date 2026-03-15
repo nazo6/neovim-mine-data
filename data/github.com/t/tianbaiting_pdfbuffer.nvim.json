@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-07T13:37:41Z",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T14:03:08Z",
+    "nameWithOwner": "tianbaiting/pdfbuffer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pdfbuffer.nvim",
+  "owner": "tianbaiting",
+  "url": "https://github.com/tianbaiting/pdfbuffer.nvim"
+}

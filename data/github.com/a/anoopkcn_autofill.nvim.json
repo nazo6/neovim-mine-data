@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Lua"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2026-03-06T14:11:31Z",
+    "description": "AI-assisted ghost-text autocompletion for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T09:49:12Z",
+    "nameWithOwner": "anoopkcn/autofill.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "autofill.nvim",
+  "owner": "anoopkcn",
+  "url": "https://github.com/anoopkcn/autofill.nvim"
+}

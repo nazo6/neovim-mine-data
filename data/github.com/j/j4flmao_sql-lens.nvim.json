@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Database"
+        },
+        {
+          "level": 3,
+          "name": "SQL"
+        }
+      ],
+      "file": "db.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2026-03-10T13:11:51Z",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T02:15:30Z",
+    "nameWithOwner": "j4flmao/sql-lens.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sql-lens.nvim",
+  "owner": "j4flmao",
+  "url": "https://github.com/j4flmao/sql-lens.nvim"
+}

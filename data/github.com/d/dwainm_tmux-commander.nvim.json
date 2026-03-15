@@ -7,15 +7,15 @@
           "name": "Table of Contents"
         },
         {
-          "level": 2,
-          "name": "Terminal"
+          "level": 3,
+          "name": "CLI"
         },
         {
-          "level": 3,
-          "name": "External terminal"
+          "level": 4,
+          "name": "tmux"
         }
       ],
-      "file": "terminal.md",
+      "file": "cli.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],

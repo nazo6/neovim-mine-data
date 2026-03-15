@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        },
+        {
+          "level": 4,
+          "name": "ActivityWatch"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-11T03:38:57Z",
+    "description": "Activity watch plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T03:38:04Z",
+    "nameWithOwner": "taigrr/activity-watch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "activity-watch.nvim",
+  "owner": "taigrr",
+  "url": "https://github.com/taigrr/activity-watch.nvim"
+}

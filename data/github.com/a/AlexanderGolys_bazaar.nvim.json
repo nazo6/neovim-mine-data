@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Open README"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-09T06:47:22Z",
+    "description": "[WIP] Previews of what's possible in other plugins all in one bazaar",
+    "isArchived": false,
+    "lastCommit": "2026-03-09T06:46:02Z",
+    "nameWithOwner": "AlexanderGolys/bazaar.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bazaar.nvim",
+  "owner": "AlexanderGolys",
+  "url": "https://github.com/AlexanderGolys/bazaar.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Notification"
+        }
+      ],
+      "file": "message_notification.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-03T15:00:20Z",
+    "description": "Neovim plugin to play sound notifications when Neovim is not focused",
+    "isArchived": false,
+    "lastCommit": "2026-03-05T09:02:07Z",
+    "nameWithOwner": "powerman/sound-notifier.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sound-notifier.nvim",
+  "owner": "powerman",
+  "url": "https://github.com/powerman/sound-notifier.nvim"
+}

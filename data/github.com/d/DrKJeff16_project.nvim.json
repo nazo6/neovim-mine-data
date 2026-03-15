@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1136,
+    "commitCountLastYear": 1151,
     "createdAt": "2024-06-29T21:10:23Z",
-    "description": "A Neovim plugin to detect and chdir to the project root, with its own UI. Iincludes pickers for telescope.nvim, snacks.nvim, fzf-lua and picker.nvim.",
+    "description": "A Neovim plugin to detect and chdir to the project root, with its own UI. Provides lualine component, supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.",
     "isArchived": false,
-    "lastCommit": "2026-02-27T23:51:16Z",
+    "lastCommit": "2026-03-15T00:05:25Z",
     "nameWithOwner": "DrKJeff16/project.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 140,
+    "star": 146,
     "topics": [
       "neovim",
       "neovim-plugin",

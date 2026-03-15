@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Call Hierarchy"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-01T12:55:08Z",
+    "description": "Structure-aware navigation for large codebases in Neovim - fast symbol search, call graph exploration, and hotspot-based refactoring prioritization",
+    "isArchived": false,
+    "lastCommit": "2026-03-10T12:45:37Z",
+    "nameWithOwner": "mhiro2/code-shape.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "code-navigation",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-pluigin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-shape.nvim",
+  "owner": "mhiro2",
+  "url": "https://github.com/mhiro2/code-shape.nvim"
+}

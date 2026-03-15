@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Boolean"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2026-02-28T12:49:01Z",
+    "description": "A Neovim plugin to toggle words under the cursor to their counterpart (e.g., true → false, public → protected → private).",
+    "isArchived": false,
+    "lastCommit": "2026-03-13T14:13:17Z",
+    "nameWithOwner": "leblocks/toggle.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 9,
+    "topics": [
+      "lua",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "toggle.nvim",
+  "owner": "leblocks",
+  "url": "https://github.com/leblocks/toggle.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-13T14:40:57Z",
+    "description": "NeoVim plugin for editing Marimo notebooks.",
+    "isArchived": false,
+    "lastCommit": "2026-03-13T17:33:11Z",
+    "nameWithOwner": "sammy-spills/marimo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "marimo.nvim",
+  "owner": "sammy-spills",
+  "url": "https://github.com/sammy-spills/marimo.nvim"
+}

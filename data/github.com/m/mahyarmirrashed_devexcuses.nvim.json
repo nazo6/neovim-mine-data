@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Joke"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-03-11T17:09:48Z",
+    "description": "Developer excuses, as a Neovim plugin.",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T19:11:39Z",
+    "nameWithOwner": "mahyarmirrashed/devexcuses.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "devtools",
+      "nvim",
+      "nvim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "devexcuses.nvim",
+  "owner": "mahyarmirrashed",
+  "url": "https://github.com/mahyarmirrashed/devexcuses.nvim"
+}

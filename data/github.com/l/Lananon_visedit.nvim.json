@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mode"
+        },
+        {
+          "level": 3,
+          "name": "Visual"
+        }
+      ],
+      "file": "mode.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-03-04T14:50:30Z",
+    "description": "neovim plugin that integrates visual and normal with eachother",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T18:02:54Z",
+    "nameWithOwner": "Lananon/visedit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "visedit.nvim",
+  "owner": "Lananon",
+  "url": "https://github.com/Lananon/visedit.nvim"
+}

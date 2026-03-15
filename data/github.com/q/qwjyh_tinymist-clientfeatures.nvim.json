@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "typst"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-01-22T19:22:32Z",
+    "description": "Advanced features mainly for tinymist preview.",
+    "isArchived": false,
+    "lastCommit": "2026-01-30T07:39:59Z",
+    "nameWithOwner": "qwjyh/tinymist-clientfeatures.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "tinymist",
+      "typst",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tinymist-clientfeatures.nvim",
+  "owner": "qwjyh",
+  "url": "https://github.com/qwjyh/tinymist-clientfeatures.nvim"
+}

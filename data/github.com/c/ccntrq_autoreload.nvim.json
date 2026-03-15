@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "auto reload"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-03T19:10:37Z",
+    "description": "Keep files in your buffers and on disk in sync",
+    "isArchived": false,
+    "lastCommit": "2026-03-05T10:53:48Z",
+    "nameWithOwner": "ccntrq/autoreload.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "autoreload.nvim",
+  "owner": "ccntrq",
+  "url": "https://github.com/ccntrq/autoreload.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-02-28T05:07:59Z",
+    "description": "A claude code / nvim interaction layer",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T05:10:39Z",
+    "nameWithOwner": "sophiehicks1/nvim-claude-code",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-claude-code",
+  "owner": "sophiehicks1",
+  "url": "https://github.com/sophiehicks1/nvim-claude-code"
+}

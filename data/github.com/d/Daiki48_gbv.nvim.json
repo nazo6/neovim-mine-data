@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git log"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-12T05:33:04Z",
+    "description": "Git Branch Visualizer for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-12T09:14:36Z",
+    "nameWithOwner": "Daiki48/gbv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gbv.nvim",
+  "owner": "Daiki48",
+  "url": "https://github.com/Daiki48/gbv.nvim"
+}

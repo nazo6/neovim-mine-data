@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-01T02:17:44Z",
+    "description": "Neovim plugin that pipes visual selections to claude -p and inserts responses back into the buffer",
+    "isArchived": false,
+    "lastCommit": "2026-03-01T14:40:05Z",
+    "nameWithOwner": "unixsuperhero/h-claude.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "h-claude.nvim",
+  "owner": "unixsuperhero",
+  "url": "https://github.com/unixsuperhero/h-claude.nvim"
+}

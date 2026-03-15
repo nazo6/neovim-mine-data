@@ -2,28 +2,16 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Database"
-        },
-        {
-          "level": 3,
-          "name": "SQL"
-        }
       ],
-      "file": "db.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 17,
     "createdAt": "2025-05-10T06:08:54Z",
-    "isArchived": false,
-    "lastCommit": "2025-05-17T05:30:25Z",
+    "isArchived": true,
+    "lastCommit": "2026-03-02T06:14:20Z",
     "nameWithOwner": "michhernand/simple-sqlfluff.nvim",
     "primaryLanguage": {
       "color": "#000080",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-09T02:54:28Z",
+    "description": "Telescope picker for usememos. All the fuzzy search goodies now on your instance (almost).",
+    "isArchived": false,
+    "lastCommit": "2026-03-10T13:46:51Z",
+    "nameWithOwner": "wg-romank/telememos.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "usememos",
+      "telescope"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telememos.nvim",
+  "owner": "wg-romank",
+  "url": "https://github.com/wg-romank/telememos.nvim"
+}

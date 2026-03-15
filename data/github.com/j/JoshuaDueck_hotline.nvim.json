@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git log"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-06T02:38:46Z",
+    "description": "A Neovim plugin to highlight frecently touched lines!",
+    "isArchived": false,
+    "lastCommit": "2026-03-06T03:23:12Z",
+    "nameWithOwner": "JoshuaDueck/hotline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hotline.nvim",
+  "owner": "JoshuaDueck",
+  "url": "https://github.com/JoshuaDueck/hotline.nvim"
+}

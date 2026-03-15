@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Natural Languages"
+        }
+      ],
+      "file": "natural-languages.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-03-07T17:08:30Z",
+    "description": "Linguistic fieldwork made easy with Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-12T23:14:32Z",
+    "nameWithOwner": "confusedkernel/elicit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "elicit.nvim",
+  "owner": "confusedkernel",
+  "url": "https://github.com/confusedkernel/elicit.nvim"
+}

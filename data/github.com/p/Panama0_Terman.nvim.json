@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-12T11:52:30Z",
+    "description": "Neovim terminal session manager",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T05:50:46Z",
+    "nameWithOwner": "Panama0/Terman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "Terman.nvim",
+  "owner": "Panama0",
+  "url": "https://github.com/Panama0/Terman.nvim"
+}

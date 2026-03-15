@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2026-03-08T18:19:59Z",
+    "description": "A lightweight, minimal music player for Neovim powered by **Telescope** and **MPV**. Manage your local music library, control playback, and see what's playing directly in your editor's window title.",
+    "isArchived": false,
+    "lastCommit": "2026-03-08T21:25:52Z",
+    "nameWithOwner": "Hugo1974/musicpicker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "musicpicker.nvim",
+  "owner": "Hugo1974",
+  "url": "https://github.com/Hugo1974/musicpicker.nvim"
+}

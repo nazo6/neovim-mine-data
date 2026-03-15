@@ -1,0 +1,59 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 55,
+    "createdAt": "2026-03-03T08:05:17Z",
+    "description": "A minimal, relational approach to Markdown note management in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-12T20:05:15Z",
+    "nameWithOwner": "gmcusaro/ma.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin",
+      "neovim",
+      "neovim-lua",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ma.nvim",
+  "owner": "gmcusaro",
+  "url": "https://github.com/gmcusaro/ma.nvim"
+}

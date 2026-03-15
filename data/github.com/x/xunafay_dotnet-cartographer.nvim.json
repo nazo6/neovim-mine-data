@@ -1,0 +1,54 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C"
+        },
+        {
+          "level": 5,
+          "name": ".NET"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-08T11:54:05Z",
+    "description": ".NET Solution Explorer in Neovim using Snacks.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-08T12:02:43Z",
+    "nameWithOwner": "xunafay/dotnet-cartographer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "csharp",
+      "dotnet",
+      "file-explorer",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotnet-cartographer.nvim",
+  "owner": "xunafay",
+  "url": "https://github.com/xunafay/dotnet-cartographer.nvim"
+}

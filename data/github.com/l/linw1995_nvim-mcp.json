@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 277,
+    "commitCountLastYear": 282,
     "createdAt": "2025-08-07T14:29:36Z",
     "description": "A Model Context Protocol (MCP) server that provides seamless integration with Neovim instances, enabling AI assistants to interact with your editor through connections and access diagnostic information via structured resources.",
     "isArchived": false,
-    "lastCommit": "2026-02-02T15:39:35Z",
+    "lastCommit": "2026-03-02T08:09:19Z",
     "nameWithOwner": "linw1995/nvim-mcp",
     "primaryLanguage": {
       "color": "#dea584",
       "name": "Rust"
     },
-    "star": 42,
+    "star": 46,
     "topics": [
       "mcp-server",
       "nvim",

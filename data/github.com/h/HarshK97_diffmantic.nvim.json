@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 114,
+    "createdAt": "2026-01-29T14:18:05Z",
+    "description": "Semantic Diff Engine for Neovim Using Tree-sitter",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T02:52:46Z",
+    "nameWithOwner": "HarshK97/diffmantic.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 61,
+    "topics": [
+      "diff",
+      "neovim",
+      "treesitter",
+      "gumtree",
+      "semantic",
+      "smartdiff"
+    ]
+  },
+  "domain": "github.com",
+  "name": "diffmantic.nvim",
+  "owner": "HarshK97",
+  "url": "https://github.com/HarshK97/diffmantic.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jujutsu(jj)"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-03-11T18:54:50Z",
+    "description": "lightweight, and performant magit inspired JJ interface for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-13T20:08:12Z",
+    "nameWithOwner": "ATTron/dojo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "jj",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dojo.nvim",
+  "owner": "ATTron",
+  "url": "https://github.com/ATTron/dojo.nvim"
+}

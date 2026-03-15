@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        },
+        {
+          "level": 4,
+          "name": "Taskwarrior"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-10T02:08:42Z",
+    "description": "A neovim based TUI for Taskwarrior inspired by oil.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-10T02:23:08Z",
+    "nameWithOwner": "armmahajan/taskwarrior.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "taskwarrior.nvim",
+  "owner": "armmahajan",
+  "url": "https://github.com/armmahajan/taskwarrior.nvim"
+}

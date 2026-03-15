@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "vim.ui.select/vim.ui.input"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-03-08T22:02:40Z",
+    "description": "A simple (~40 LOC) implementation of vim.ui.select using a floating window",
+    "isArchived": false,
+    "lastCommit": "2026-03-12T10:58:19Z",
+    "nameWithOwner": "skewb1k/nvim-simple-select",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-simple-select",
+  "owner": "skewb1k",
+  "url": "https://github.com/skewb1k/nvim-simple-select"
+}

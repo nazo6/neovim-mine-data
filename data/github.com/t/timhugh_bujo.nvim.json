@@ -2,29 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Note Taking"
-        },
-        {
-          "level": 3,
-          "name": "etc"
-        }
       ],
-      "file": "note-taking.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 71,
+    "commitCountLastYear": 72,
     "createdAt": "2025-06-26T16:40:05Z",
     "description": "Bullet journaling in neovim",
-    "isArchived": false,
-    "lastCommit": "2025-07-29T20:19:01Z",
+    "isArchived": true,
+    "lastCommit": "2026-03-09T17:28:31Z",
     "nameWithOwner": "timhugh/bujo.nvim",
     "primaryLanguage": {
       "color": "#000080",

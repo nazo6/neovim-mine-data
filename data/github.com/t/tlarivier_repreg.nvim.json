@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Edit Register"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-02-28T13:24:04Z",
+    "description": "Edit Vim registers in a floating buffer. Neovim 0.10+. No dependencies.",
+    "isArchived": false,
+    "lastCommit": "2026-02-28T13:46:05Z",
+    "nameWithOwner": "tlarivier/repreg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "repreg.nvim",
+  "owner": "tlarivier",
+  "url": "https://github.com/tlarivier/repreg.nvim"
+}

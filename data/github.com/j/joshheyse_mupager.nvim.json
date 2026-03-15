@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-05T22:15:24Z",
+    "description": "nvim plugin for mupager",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T04:19:38Z",
+    "nameWithOwner": "joshheyse/mupager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mupager.nvim",
+  "owner": "joshheyse",
+  "url": "https://github.com/joshheyse/mupager.nvim"
+}

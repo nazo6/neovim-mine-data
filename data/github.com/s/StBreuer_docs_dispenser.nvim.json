@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Pandoc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-07T14:50:38Z",
+    "description": "My first neovim plugin. Its basically just a pandoc wrapper to convert docs in markdown into xdocs (word) and textile (redmine).",
+    "isArchived": false,
+    "lastCommit": "2026-03-07T15:14:37Z",
+    "nameWithOwner": "StBreuer/docs_dispenser.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "docs_dispenser.nvim",
+  "owner": "StBreuer",
+  "url": "https://github.com/StBreuer/docs_dispenser.nvim"
+}

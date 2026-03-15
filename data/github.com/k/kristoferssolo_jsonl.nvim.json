@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "JSON"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-03-10T18:52:02Z",
+    "description": " Neovim plugin for JSONL (Newline Delimited JSON) with Tree-sitter syntax highlighting. This is a mirror from https://codeberg.org/kristoferssolo/jsonl.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-11T14:32:41Z",
+    "nameWithOwner": "kristoferssolo/jsonl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "jsonl",
+      "ndjson",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jsonl.nvim",
+  "owner": "kristoferssolo",
+  "url": "https://github.com/kristoferssolo/jsonl.nvim"
+}

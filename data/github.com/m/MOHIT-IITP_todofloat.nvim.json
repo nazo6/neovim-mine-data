@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-09T06:13:03Z",
+    "description": "This a simple todo plugin which you can access while working in any file inside neovim and easily manage your todo.",
+    "isArchived": false,
+    "lastCommit": "2026-03-09T08:35:44Z",
+    "nameWithOwner": "MOHIT-IITP/todofloat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "todofloat.nvim",
+  "owner": "MOHIT-IITP",
+  "url": "https://github.com/MOHIT-IITP/todofloat.nvim"
+}
