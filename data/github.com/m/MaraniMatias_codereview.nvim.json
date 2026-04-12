@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 66,
+    "createdAt": "2026-03-14T23:03:58Z",
+    "description": "Inline code review on any git diff, right inside Neovim and export to markdown file.",
+    "isArchived": false,
+    "lastCommit": "2026-03-24T18:07:27Z",
+    "nameWithOwner": "MaraniMatias/codereview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "code-review",
+      "git",
+      "lazyvim",
+      "markdown",
+      "neovim",
+      "neovim-plugin",
+      "claude-code",
+      "codex",
+      "opencode",
+      "workflow"
+    ]
+  },
+  "domain": "github.com",
+  "name": "codereview.nvim",
+  "owner": "MaraniMatias",
+  "url": "https://github.com/MaraniMatias/codereview.nvim"
+}

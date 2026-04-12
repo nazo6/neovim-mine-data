@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "Ghostty"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-20T00:56:25Z",
+    "description": "A Neovim plugin to interactive preview and apply system fonts to Ghostty terminal using Telescope.",
+    "isArchived": false,
+    "lastCommit": "2026-03-20T00:58:30Z",
+    "nameWithOwner": "mazzoccantelorenzo/ghostty-fonts.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "fonts",
+      "ghostty",
+      "lua",
+      "neovim-plugin",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ghostty-fonts.nvim",
+  "owner": "mazzoccantelorenzo",
+  "url": "https://github.com/mazzoccantelorenzo/ghostty-fonts.nvim"
+}

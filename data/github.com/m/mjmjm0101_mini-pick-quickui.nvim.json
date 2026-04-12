@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Menu"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-08T15:59:25Z",
+    "description": "Search over structured menus defined by quickui.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T23:59:28Z",
+    "nameWithOwner": "mjmjm0101/mini-pick-quickui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "menu",
+      "mini",
+      "neovim",
+      "neovim-plugin",
+      "productivity",
+      "quickui",
+      "ui",
+      "workflow",
+      "mini-pick"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mini-pick-quickui.nvim",
+  "owner": "mjmjm0101",
+  "url": "https://github.com/mjmjm0101/mini-pick-quickui.nvim"
+}

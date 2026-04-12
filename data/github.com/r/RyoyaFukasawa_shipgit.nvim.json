@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-03-30T12:20:59Z",
+    "description": "A fast, floating git client for Neovim with side-by-side diff. Ship your code faster.",
+    "isArchived": false,
+    "lastCommit": "2026-04-01T12:53:02Z",
+    "nameWithOwner": "RyoyaFukasawa/shipgit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "shipgit.nvim",
+  "owner": "RyoyaFukasawa",
+  "url": "https://github.com/RyoyaFukasawa/shipgit.nvim"
+}

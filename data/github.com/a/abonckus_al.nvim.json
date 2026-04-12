@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Cloud"
+          "name": "DataDog"
         },
         {
           "level": 4,
@@ -28,11 +28,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 63,
     "createdAt": "2025-06-05T10:09:55Z",
     "description": "A Neovim plugin that provides AL (Application Language) support for Microsoft Dynamics 365 Business Central development.",
     "isArchived": false,
-    "lastCommit": "2025-08-25T08:26:40Z",
+    "lastCommit": "2026-04-09T09:09:09Z",
     "nameWithOwner": "abonckus/al.nvim",
     "primaryLanguage": {
       "color": "#000080",

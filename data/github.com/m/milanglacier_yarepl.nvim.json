@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 68,
+    "commitCountLastYear": 78,
     "createdAt": "2023-06-03T10:33:31Z",
     "description": "Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat.",
     "isArchived": false,
-    "lastCommit": "2026-02-04T07:39:59Z",
+    "lastCommit": "2026-04-11T16:51:32Z",
     "nameWithOwner": "milanglacier/yarepl.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 249,
+    "star": 248,
     "topics": [
       "neovim",
       "neovim-plugin",

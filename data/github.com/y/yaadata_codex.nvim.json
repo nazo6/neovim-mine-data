@@ -24,18 +24,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 174,
+    "commitCountLastYear": 197,
     "createdAt": "2026-02-09T07:36:44Z",
-    "description": "Read only mirror of https://codeberg.org/yaadata/codex.nvim",
+    "description": "Bringing Openai Codex to Neovim. READ ONLY MIRROR (see README.md)",
     "isArchived": false,
-    "lastCommit": "2026-03-08T23:21:45Z",
+    "lastCommit": "2026-04-08T03:33:12Z",
     "nameWithOwner": "yaadata/codex.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 6,
     "topics": [
+      "codex",
+      "codex-cli",
+      "lua",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

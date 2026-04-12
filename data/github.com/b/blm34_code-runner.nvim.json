@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-28T23:44:49Z",
+    "description": "Neovim plugin to easily run code in a terminal",
+    "isArchived": false,
+    "lastCommit": "2026-03-28T23:44:50Z",
+    "nameWithOwner": "blm34/code-runner.nvim",
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "code-runner.nvim",
+  "owner": "blm34",
+  "url": "https://github.com/blm34/code-runner.nvim"
+}

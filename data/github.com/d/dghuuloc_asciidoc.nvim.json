@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "AsciiDoc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-05T14:28:47Z",
+    "isArchived": false,
+    "lastCommit": "2026-04-05T15:17:57Z",
+    "nameWithOwner": "dghuuloc/asciidoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "asciidoc.nvim",
+  "owner": "dghuuloc",
+  "url": "https://github.com/dghuuloc/asciidoc.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project syntax"
+        },
+        {
+          "level": 4,
+          "name": "Monorepo"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-03-21T21:40:33Z",
+    "isArchived": false,
+    "lastCommit": "2026-03-21T23:23:06Z",
+    "nameWithOwner": "jonesn3/telescope-metarepo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-metarepo.nvim",
+  "owner": "jonesn3",
+  "url": "https://github.com/jonesn3/telescope-metarepo.nvim"
+}

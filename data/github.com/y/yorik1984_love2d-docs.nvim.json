@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Love2D"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 100,
+    "createdAt": "2025-10-05T03:27:50Z",
+    "description": "(Neo)Vim plugin for LÖVE API doc help file",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T14:08:57Z",
+    "nameWithOwner": "yorik1984/love2d-docs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "game-development",
+      "love2d",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "newpaper",
+      "tree-sitter",
+      "vim",
+      "vim-plugin",
+      "highlighting"
+    ]
+  },
+  "domain": "github.com",
+  "name": "love2d-docs.nvim",
+  "owner": "yorik1984",
+  "url": "https://github.com/yorik1984/love2d-docs.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-31T03:52:34Z",
+    "description": "Progressive log search plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-03T06:17:03Z",
+    "nameWithOwner": "regomne/nvim-step-search.lua",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "code-analysis",
+      "grep-alternative",
+      "lazy-nvim",
+      "log-analyzer",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "search-results"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-step-search.lua",
+  "owner": "regomne",
+  "url": "https://github.com/regomne/nvim-step-search.lua"
+}

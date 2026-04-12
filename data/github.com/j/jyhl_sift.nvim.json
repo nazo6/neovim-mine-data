@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenAI(ChatGPT)"
+        },
+        {
+          "level": 4,
+          "name": "Codex"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-19T21:37:02Z",
+    "description": "sift.nvim is a Neovim plugin for agent-driven coding with inline review. Prompt Codex from inside Neovim, preview changes in your real workspace, and accept or reject edits by hunk, file, or all.",
+    "isArchived": false,
+    "lastCommit": "2026-03-23T18:56:37Z",
+    "nameWithOwner": "jyhl/sift.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sift.nvim",
+  "owner": "jyhl",
+  "url": "https://github.com/jyhl/sift.nvim"
+}

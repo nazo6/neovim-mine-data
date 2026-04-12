@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-04-05T18:28:46Z",
+    "description": "View and manage the agentic orchestration from neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-06T14:14:09Z",
+    "nameWithOwner": "curtisault/agentflow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "agentflow.nvim",
+  "owner": "curtisault",
+  "url": "https://github.com/curtisault/agentflow.nvim"
+}

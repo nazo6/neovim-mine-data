@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Lint"
+        }
+      ],
+      "file": "linter_formatter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-08T13:06:11Z",
+    "description": "A Neovim performance linter that warns when expensive conditions lead cheap ones in &&/|| chains, with safe auto-fix for PHP and Go",
+    "isArchived": false,
+    "lastCommit": "2026-04-08T20:37:42Z",
+    "nameWithOwner": "akyrey/condition-order.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "condition-order.nvim",
+  "owner": "akyrey",
+  "url": "https://github.com/akyrey/condition-order.nvim"
+}

@@ -2,25 +2,17 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Keymap"
-        }
       ],
-      "file": "mapping.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
-    "commitCountLastYear": 0,
+    "commitCountLastYear": 1,
     "createdAt": "2016-01-14T13:34:32Z",
     "description": ":musical_keyboard: Plugin vim pour disposition de clavier bépo",
-    "isArchived": false,
-    "lastCommit": "2020-05-11T09:59:17Z",
+    "isArchived": true,
+    "lastCommit": "2026-03-23T12:29:52Z",
     "nameWithOwner": "michamos/vim-bepo",
     "primaryLanguage": {
       "color": "#199f4b",

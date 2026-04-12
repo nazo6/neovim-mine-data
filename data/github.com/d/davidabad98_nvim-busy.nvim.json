@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Notification"
+        }
+      ],
+      "file": "message_notification.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-14T21:55:14Z",
+    "description": "A lightweight, zero-dependency Neovim plugin that shows an animated loading indicator whenever the editor is waiting.",
+    "isArchived": false,
+    "lastCommit": "2026-03-14T23:38:18Z",
+    "nameWithOwner": "davidabad98/nvim-busy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-configuration",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-busy.nvim",
+  "owner": "davidabad98",
+  "url": "https://github.com/davidabad98/nvim-busy.nvim"
+}

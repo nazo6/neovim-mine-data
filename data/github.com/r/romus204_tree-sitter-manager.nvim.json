@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Treesitter"
+        },
+        {
+          "level": 3,
+          "name": "Installer"
+        }
+      ],
+      "file": "treesitter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-04-04T16:20:58Z",
+    "description": "A lightweight Tree-sitter parser manager for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T05:08:12Z",
+    "nameWithOwner": "romus204/tree-sitter-manager.nvim",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 203,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tree-sitter-manager.nvim",
+  "owner": "romus204",
+  "url": "https://github.com/romus204/tree-sitter-manager.nvim"
+}

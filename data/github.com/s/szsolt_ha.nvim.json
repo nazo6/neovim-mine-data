@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Integration with other apps"
+        },
+        {
+          "level": 3,
+          "name": "Home Assistant"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-02T21:52:12Z",
+    "isArchived": false,
+    "lastCommit": "2026-04-02T22:44:05Z",
+    "nameWithOwner": "szsolt/ha.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ha.nvim",
+  "owner": "szsolt",
+  "url": "https://github.com/szsolt/ha.nvim"
+}

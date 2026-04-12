@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Book"
+        },
+        {
+          "level": 4,
+          "name": "Reading"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 30,
+    "createdAt": "2026-04-07T23:17:36Z",
+    "description": "Neovim plugin to search Immanuel Kant's texts",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T09:46:05Z",
+    "nameWithOwner": "chrisgleitze/kant.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kant.nvim",
+  "owner": "chrisgleitze",
+  "url": "https://github.com/chrisgleitze/kant.nvim"
+}

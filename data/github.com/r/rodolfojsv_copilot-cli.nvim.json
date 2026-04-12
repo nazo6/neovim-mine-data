@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Chat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-17T19:33:41Z",
+    "description": "Integration of copilot cli inside neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-17T19:39:26Z",
+    "nameWithOwner": "rodolfojsv/copilot-cli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "copilot-cli.nvim",
+  "owner": "rodolfojsv",
+  "url": "https://github.com/rodolfojsv/copilot-cli.nvim"
+}

@@ -2,24 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Web"
-        },
-        {
-          "level": 3,
-          "name": "SNS"
-        },
-        {
-          "level": 4,
-          "name": "X (Twitter)"
-        }
       ],
-      "file": "web-service.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -27,7 +11,7 @@
     "commitCountLastYear": 3,
     "createdAt": "2025-08-31T12:15:23Z",
     "description": "Can't quit vim but still need to tweet? Yap's got you covered.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-09-01T12:08:52Z",
     "nameWithOwner": "carldaws/yap.nvim",
     "primaryLanguage": {

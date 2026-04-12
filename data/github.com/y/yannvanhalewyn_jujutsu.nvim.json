@@ -9,6 +9,10 @@
         {
           "level": 2,
           "name": "Jujutsu(jj)"
+        },
+        {
+          "level": 4,
+          "name": "diff"
         }
       ],
       "file": "git-github.md",
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 88,
+    "commitCountLastYear": 95,
     "createdAt": "2026-01-04T20:44:35Z",
     "description": "A Neovim frontend for Jujutsu with blazing fast UX",
     "isArchived": false,
-    "lastCommit": "2026-02-05T06:03:06Z",
+    "lastCommit": "2026-03-26T20:08:22Z",
     "nameWithOwner": "yannvanhalewyn/jujutsu.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 43,
+    "star": 49,
     "topics": [
     ]
   },

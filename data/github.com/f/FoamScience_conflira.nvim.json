@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Confluence"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 59,
+    "createdAt": "2026-03-29T15:53:27Z",
+    "description": "Work Jira issues and Confluence pages without leaving Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-08T09:29:36Z",
+    "nameWithOwner": "FoamScience/conflira.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "conflira.nvim",
+  "owner": "FoamScience",
+  "url": "https://github.com/FoamScience/conflira.nvim"
+}

@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        },
+        {
+          "level": 4,
+          "name": "Snippet view"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-17T13:03:13Z",
+    "description": "Neovim plugin to open snip inside a floating terminal window",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T17:03:13Z",
+    "nameWithOwner": "phlx0/snip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "cli",
+      "floating-window",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "snippet",
+      "snippet-manager",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snip.nvim",
+  "owner": "phlx0",
+  "url": "https://github.com/phlx0/snip.nvim"
+}

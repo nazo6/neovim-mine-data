@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "Launch.json"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-03T15:25:35Z",
+    "description": "VSCode-like Run/Debug for Neovim - reads .vscode/launch.json, runs via tmux, debugs via nvim-dap",
+    "isArchived": false,
+    "lastCommit": "2026-04-03T21:17:37Z",
+    "nameWithOwner": "guysoft/vscodium.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "vscodium.nvim",
+  "owner": "guysoft",
+  "url": "https://github.com/guysoft/vscodium.nvim"
+}

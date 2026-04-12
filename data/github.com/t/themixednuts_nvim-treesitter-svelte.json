@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Framework"
+        },
+        {
+          "level": 3,
+          "name": "Svelte"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-26T01:18:43Z",
+    "description": "Opt-in svelte5 parser and queries for nvim-treesitter",
+    "isArchived": false,
+    "lastCommit": "2026-03-26T01:32:50Z",
+    "nameWithOwner": "themixednuts/nvim-treesitter-svelte",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-treesitter-svelte",
+  "owner": "themixednuts",
+  "url": "https://github.com/themixednuts/nvim-treesitter-svelte"
+}

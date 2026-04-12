@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-04-07T09:45:59Z",
+    "description": "A Neovim plugin for capturing code review comments from diff views.",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T10:35:25Z",
+    "nameWithOwner": "martintrojer/redline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "redline.nvim",
+  "owner": "martintrojer",
+  "url": "https://github.com/martintrojer/redline.nvim"
+}

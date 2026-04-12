@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Model Context Protocol(MCP)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2026-03-31T05:37:14Z",
+    "description": "A Neovim plugin that connects to the **StationeersLua MCP server** running inside your game client, giving you full chip read/write, log streaming, error inspection, and documentation search — without leaving your editor.",
+    "isArchived": false,
+    "lastCommit": "2026-04-01T16:39:03Z",
+    "nameWithOwner": "andrew-d-moore/stationeers-mcp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "stationeers-mcp.nvim",
+  "owner": "andrew-d-moore",
+  "url": "https://github.com/andrew-d-moore/stationeers-mcp.nvim"
+}

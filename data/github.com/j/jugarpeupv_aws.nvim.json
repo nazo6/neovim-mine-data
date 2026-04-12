@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "DataDog"
+        },
+        {
+          "level": 4,
+          "name": "AWS"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-03-18T09:26:58Z",
+    "description": "Manage aws services inside a neovim buffer",
+    "isArchived": false,
+    "lastCommit": "2026-04-02T15:55:48Z",
+    "nameWithOwner": "jugarpeupv/aws.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "aws.nvim",
+  "owner": "jugarpeupv",
+  "url": "https://github.com/jugarpeupv/aws.nvim"
+}

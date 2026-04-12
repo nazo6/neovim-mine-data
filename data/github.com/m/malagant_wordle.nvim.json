@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Wordy"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-03-15T18:43:48Z",
+    "description": "🟩 Play Wordle in your terminal! A TUI Wordle game with Neovim integration. Supports English and German.",
+    "isArchived": false,
+    "lastCommit": "2026-03-15T19:40:06Z",
+    "nameWithOwner": "malagant/wordle.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "wordle.nvim",
+  "owner": "malagant",
+  "url": "https://github.com/malagant/wordle.nvim"
+}

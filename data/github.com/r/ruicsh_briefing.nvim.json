@@ -16,10 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 29,
+    "commitCountLastYear": 44,
     "createdAt": "2026-03-07T14:07:48Z",
+    "description": "Crafting prompts before sending them to agentic coding agents.",
     "isArchived": false,
-    "lastCommit": "2026-03-11T07:35:44Z",
+    "lastCommit": "2026-04-08T20:52:10Z",
     "nameWithOwner": "ruicsh/briefing.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -27,6 +28,8 @@
     },
     "star": 1,
     "topics": [
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

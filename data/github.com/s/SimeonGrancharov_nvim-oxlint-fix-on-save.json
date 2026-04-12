@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "Lint"
+        },
+        {
+          "level": 4,
+          "name": "OXC"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-03T13:25:43Z",
+    "isArchived": false,
+    "lastCommit": "2026-04-03T13:29:07Z",
+    "nameWithOwner": "SimeonGrancharov/nvim-oxlint-fix-on-save",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-oxlint-fix-on-save",
+  "owner": "SimeonGrancharov",
+  "url": "https://github.com/SimeonGrancharov/nvim-oxlint-fix-on-save"
+}

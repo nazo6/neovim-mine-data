@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-03-26T14:03:53Z",
+    "description": "A reusable AI provider layer for Neovim plugins.",
+    "isArchived": false,
+    "lastCommit": "2026-04-04T12:02:55Z",
+    "nameWithOwner": "cjvnjde/ai-provider.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "ai",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ai-provider.nvim",
+  "owner": "cjvnjde",
+  "url": "https://github.com/cjvnjde/ai-provider.nvim"
+}

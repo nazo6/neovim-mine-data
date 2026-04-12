@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-21T15:42:25Z",
+    "description": "Canned ergonomic file diff workflow for arbitrary file targets. Mark a buffer, navigate to another, diff them side by side.",
+    "isArchived": false,
+    "lastCommit": "2026-03-21T16:39:58Z",
+    "nameWithOwner": "bew4lsh/disunion.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "disunion.nvim",
+  "owner": "bew4lsh",
+  "url": "https://github.com/bew4lsh/disunion.nvim"
+}

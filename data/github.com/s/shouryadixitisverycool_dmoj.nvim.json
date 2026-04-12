@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Competitive programming"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2026-03-14T02:14:19Z",
+    "description": "A Neovim plugin enabling you to solve DMOJ problems.",
+    "isArchived": false,
+    "lastCommit": "2026-03-29T20:23:40Z",
+    "nameWithOwner": "shouryadixitisverycool/dmoj.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dmoj.nvim",
+  "owner": "shouryadixitisverycool",
+  "url": "https://github.com/shouryadixitisverycool/dmoj.nvim"
+}

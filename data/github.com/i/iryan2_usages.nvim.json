@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Call Hierarchy"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-26T06:26:06Z",
+    "description": "Creates an ancestry tree of the component/function under the cursor via LSP",
+    "isArchived": false,
+    "lastCommit": "2026-03-26T22:56:33Z",
+    "nameWithOwner": "iryan2/usages.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "usages.nvim",
+  "owner": "iryan2",
+  "url": "https://github.com/iryan2/usages.nvim"
+}

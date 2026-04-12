@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Illustrate"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2026-04-05T20:16:54Z",
+    "description": "Painting tool plugin for neovim inspired in MS Paint and Durdraw",
+    "isArchived": false,
+    "lastCommit": "2026-04-08T15:28:47Z",
+    "nameWithOwner": "Loukis-13/paint.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 47,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "paint.nvim",
+  "owner": "Loukis-13",
+  "url": "https://github.com/Loukis-13/paint.nvim"
+}

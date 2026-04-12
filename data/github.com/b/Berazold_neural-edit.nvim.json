@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-18T01:25:29Z",
+    "description": "In-place AI code generation, refactoring, and explanation for Neovim. Supports Grok, Gemini, Anthropic, AWS Bedrock, and custom LLM endpoints.",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T22:49:54Z",
+    "nameWithOwner": "Berazold/neural-edit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neural-edit.nvim",
+  "owner": "Berazold",
+  "url": "https://github.com/Berazold/neural-edit.nvim"
+}

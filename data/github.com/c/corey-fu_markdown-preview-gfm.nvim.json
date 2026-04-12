@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown preview"
+        },
+        {
+          "level": 5,
+          "name": "Go"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-18T03:30:25Z",
+    "description": "Preview Markdown in Browser/Inline mode.",
+    "isArchived": false,
+    "lastCommit": "2026-03-18T05:09:31Z",
+    "nameWithOwner": "corey-fu/markdown-preview-gfm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "markdown-preview-gfm.nvim",
+  "owner": "corey-fu",
+  "url": "https://github.com/corey-fu/markdown-preview-gfm.nvim"
+}

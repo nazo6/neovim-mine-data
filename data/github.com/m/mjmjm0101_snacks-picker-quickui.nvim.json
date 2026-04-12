@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Menu"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-08T15:15:49Z",
+    "description": "Search over structured menus defined by quickui.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T23:59:23Z",
+    "nameWithOwner": "mjmjm0101/snacks-picker-quickui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "menu",
+      "neovim",
+      "neovim-plugin",
+      "productivity",
+      "quickui",
+      "snacks",
+      "snacks-nvim",
+      "ui",
+      "workflow"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-picker-quickui.nvim",
+  "owner": "mjmjm0101",
+  "url": "https://github.com/mjmjm0101/snacks-picker-quickui.nvim"
+}

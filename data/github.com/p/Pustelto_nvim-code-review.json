@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-20T18:41:26Z",
+    "description": "Plugin to quickly capture code review notes in neovim, mostly for feedback to agents",
+    "isArchived": false,
+    "lastCommit": "2026-03-20T20:36:27Z",
+    "nameWithOwner": "Pustelto/nvim-code-review",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-code-review",
+  "owner": "Pustelto",
+  "url": "https://github.com/Pustelto/nvim-code-review"
+}

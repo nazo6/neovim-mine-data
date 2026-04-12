@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2026-03-14T02:30:38Z",
+    "description": "simple neovim plugin manager",
+    "isArchived": false,
+    "lastCommit": "2026-03-28T03:04:54Z",
+    "nameWithOwner": "yaeju1205/nvim-plugin-manager",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugin-manager"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-plugin-manager",
+  "owner": "yaeju1205",
+  "url": "https://github.com/yaeju1205/nvim-plugin-manager"
+}

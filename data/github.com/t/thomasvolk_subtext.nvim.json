@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Note Taking"
-        },
-        {
-          "level": 3,
-          "name": "etc"
-        }
       ],
-      "file": "note-taking.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 1,
     "createdAt": "2025-03-01T13:28:04Z",
     "description": "neovim plugin for subtext notes",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-06-14T19:57:50Z",
     "nameWithOwner": "thomasvolk/subtext.nvim",
     "primaryLanguage": {

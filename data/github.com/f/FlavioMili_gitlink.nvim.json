@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-20T15:09:49Z",
+    "description": "Nvim plugin to copy the link of a git repository on differennt providers, directly from your terminal",
+    "isArchived": false,
+    "lastCommit": "2026-03-23T09:42:51Z",
+    "nameWithOwner": "FlavioMili/gitlink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitlink.nvim",
+  "owner": "FlavioMili",
+  "url": "https://github.com/FlavioMili/gitlink.nvim"
+}

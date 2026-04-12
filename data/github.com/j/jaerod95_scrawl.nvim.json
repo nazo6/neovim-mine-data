@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-09T16:45:23Z",
+    "description": "Neovim plugin for collaborative planning sessions with Claude Code",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T21:54:53Z",
+    "nameWithOwner": "jaerod95/scrawl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scrawl.nvim",
+  "owner": "jaerod95",
+  "url": "https://github.com/jaerod95/scrawl.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "Preview"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-24T12:42:23Z",
+    "description": "Thin wrapper for marksetta and TeXpresso integration as Neovim plugin",
+    "isArchived": false,
+    "lastCommit": "2026-04-04T00:30:36Z",
+    "nameWithOwner": "merv1n34k/marksetta.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "marksetta.nvim",
+  "owner": "merv1n34k",
+  "url": "https://github.com/merv1n34k/marksetta.nvim"
+}

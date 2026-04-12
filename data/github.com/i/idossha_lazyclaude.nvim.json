@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-01T02:49:09Z",
+    "description": "Claude Code management from nvim",
+    "isArchived": false,
+    "lastCommit": "2026-04-01T04:00:06Z",
+    "nameWithOwner": "idossha/lazyclaude.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "ai",
+      "claude",
+      "mcp",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazyclaude.nvim",
+  "owner": "idossha",
+  "url": "https://github.com/idossha/lazyclaude.nvim"
+}

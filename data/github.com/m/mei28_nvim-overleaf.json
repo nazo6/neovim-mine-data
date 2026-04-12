@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-04-03T02:31:44Z",
+    "description": "Neovim plugin for real-time bidirectional sync with Overleaf.  Edit your LaTeX projects locally in Neovim. Changes sync to Overleaf on save, and collaborators' edits appear on your disk in real-time.",
+    "isArchived": false,
+    "lastCommit": "2026-04-06T12:29:45Z",
+    "nameWithOwner": "mei28/nvim-overleaf",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-plugin",
+      "nvim-plugins",
+      "vim-plugin",
+      "vim-plugins",
+      "awesome-neovim",
+      "awesome-vim",
+      "neovim-plugin",
+      "neovim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-overleaf",
+  "owner": "mei28",
+  "url": "https://github.com/mei28/nvim-overleaf"
+}

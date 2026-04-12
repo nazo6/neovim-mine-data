@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Typing"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-17T10:27:49Z",
+    "description": "Learn Vim keymaps through puzzles — 58 interactive exercises across 12 categories",
+    "isArchived": false,
+    "lastCommit": "2026-03-17T10:27:30Z",
+    "nameWithOwner": "matthieudesprez/nvim-game",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-game",
+  "owner": "matthieudesprez",
+  "url": "https://github.com/matthieudesprez/nvim-game"
+}

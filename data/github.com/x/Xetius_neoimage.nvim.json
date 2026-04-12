@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Ascii"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-31T16:20:54Z",
+    "description": "Neovim plugin to create asciiart from images",
+    "isArchived": false,
+    "lastCommit": "2026-03-31T17:19:58Z",
+    "nameWithOwner": "Xetius/neoimage.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neoimage.nvim",
+  "owner": "Xetius",
+  "url": "https://github.com/Xetius/neoimage.nvim"
+}

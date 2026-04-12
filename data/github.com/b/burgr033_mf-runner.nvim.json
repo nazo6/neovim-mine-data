@@ -2,28 +2,16 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "CLI"
-        },
-        {
-          "level": 4,
-          "name": "make"
-        }
       ],
-      "file": "cli.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 2,
     "createdAt": "2024-03-10T00:53:14Z",
-    "description": "code runner based off of Makefiles/justfiles",
-    "isArchived": false,
+    "description": "migrated to codeberg",
+    "isArchived": true,
     "lastCommit": "2026-01-08T12:05:11Z",
     "nameWithOwner": "burgr033/mf-runner.nvim",
     "primaryLanguage": {

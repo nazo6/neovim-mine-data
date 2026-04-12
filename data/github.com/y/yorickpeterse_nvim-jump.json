@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-04-07T19:34:12Z",
+    "description": "The smallest sensible Neovim jump plugin in the west",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T22:41:36Z",
+    "nameWithOwner": "yorickpeterse/nvim-jump",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 81,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-jump",
+  "owner": "yorickpeterse",
+  "url": "https://github.com/yorickpeterse/nvim-jump"
+}

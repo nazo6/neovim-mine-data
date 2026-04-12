@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        },
+        {
+          "level": 3,
+          "name": "Pi Coding Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-29T20:02:04Z",
+    "description": "nvim + pi / bi-directional communication",
+    "isArchived": false,
+    "lastCommit": "2026-03-29T20:04:25Z",
+    "nameWithOwner": "aliou/nvim-pi",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pi",
+  "owner": "aliou",
+  "url": "https://github.com/aliou/nvim-pi"
+}

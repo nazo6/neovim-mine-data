@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Pre-configuration"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-03T20:10:23Z",
+    "description": "Neovim plugin for Goreleaser",
+    "isArchived": false,
+    "lastCommit": "2026-04-03T20:10:06Z",
+    "nameWithOwner": "owenrumney/goreleaser-ls.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "goreleaser",
+      "language-server",
+      "go",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "goreleaser-ls.nvim",
+  "owner": "owenrumney",
+  "url": "https://github.com/owenrumney/goreleaser-ls.nvim"
+}

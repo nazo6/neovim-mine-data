@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-15T18:05:18Z",
+    "description": "Google Drive sync companion plugin for dooing.nvim — synchronize your todo list across machines with three-way merge",
+    "isArchived": false,
+    "lastCommit": "2026-03-17T00:18:06Z",
+    "nameWithOwner": "ImmanuelHaffner/dooing-sync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dooing-sync.nvim",
+  "owner": "ImmanuelHaffner",
+  "url": "https://github.com/ImmanuelHaffner/dooing-sync.nvim"
+}

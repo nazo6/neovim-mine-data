@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2026-04-01T01:09:40Z",
+    "description": "Neovim plugin for local code review, built for use with coding agents",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T18:49:44Z",
+    "nameWithOwner": "ssundarraj/local-review.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "local-review.nvim",
+  "owner": "ssundarraj",
+  "url": "https://github.com/ssundarraj/local-review.nvim"
+}

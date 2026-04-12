@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 11,
     "createdAt": "2026-03-07T21:40:45Z",
     "description": "Neovim completion for local agent commands and skills, with env-gated Claude/Codex editor integration",
     "isArchived": false,
-    "lastCommit": "2026-03-09T02:27:43Z",
+    "lastCommit": "2026-03-22T16:43:24Z",
     "nameWithOwner": "0xble/dotagent.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 8,
     "topics": [
       "blink-cmp",
       "claude-code",

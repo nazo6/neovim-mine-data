@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 127,
+    "createdAt": "2026-03-26T02:12:11Z",
+    "description": "A fully vibecoded plugin for nvim to help me keep my obsidian workflow. I did NOT read a single line of this code. It is all AI generated.",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T03:23:25Z",
+    "nameWithOwner": "Davi-S/nvim-obsidian",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-obsidian",
+  "owner": "Davi-S",
+  "url": "https://github.com/Davi-S/nvim-obsidian"
+}

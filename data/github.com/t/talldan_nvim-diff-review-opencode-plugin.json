@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenCode"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-04-07T09:42:09Z",
+    "description": "An opencode plugin that allows an agent to perform an interactive code review via neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-08T04:26:04Z",
+    "nameWithOwner": "talldan/nvim-diff-review-opencode-plugin",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-diff-review-opencode-plugin",
+  "owner": "talldan",
+  "url": "https://github.com/talldan/nvim-diff-review-opencode-plugin"
+}

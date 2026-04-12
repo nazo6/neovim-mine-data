@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Call Hierarchy"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-04-03T07:35:12Z",
+    "description": "Call-HIerarchy extension for Snacks.nvim Picker",
+    "isArchived": false,
+    "lastCommit": "2026-04-08T18:37:24Z",
+    "nameWithOwner": "dfrommi/snacks-call-hierarchy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-call-hierarchy.nvim",
+  "owner": "dfrommi",
+  "url": "https://github.com/dfrommi/snacks-call-hierarchy.nvim"
+}

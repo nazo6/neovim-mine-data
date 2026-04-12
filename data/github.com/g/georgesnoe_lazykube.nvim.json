@@ -24,18 +24,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
-    "createdAt": "2025-11-30T20:36:03Z",
-    "description": "A lazykube port for neovim | Even more lazier way to manage everything kubernetes related ",
+    "commitCountLastYear": 9,
+    "createdAt": "2026-04-08T18:01:33Z",
+    "description": "A neovim wrapper for lazykube to effortlessly interact with kubernetes within neovim",
     "isArchived": false,
-    "lastCommit": "2025-11-30T20:43:21Z",
+    "lastCommit": "2026-04-08T18:49:39Z",
     "nameWithOwner": "georgesnoe/lazykube.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 0,
     "topics": [
+      "kubernetes",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "wrapper",
+      "plugin"
     ]
   },
   "domain": "github.com",

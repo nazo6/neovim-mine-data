@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Screenshot"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-22T06:53:13Z",
+    "description": "A Neovim plugin for capturing screenshots and pasting them directly into markdown files with one keybind.",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T04:01:49Z",
+    "nameWithOwner": "qq3g7bad/easy-screenshot.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "neovim-lua-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "easy-screenshot.nvim",
+  "owner": "qq3g7bad",
+  "url": "https://github.com/qq3g7bad/easy-screenshot.nvim"
+}

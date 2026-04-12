@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "dotfiles"
+        },
+        {
+          "level": 5,
+          "name": "chezmoi"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-18T23:38:18Z",
+    "description": "manage chezmoi files in neovim with the snacks picker",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T00:15:22Z",
+    "nameWithOwner": "GianniBYoung/chezmoi-snacks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chezmoi-snacks.nvim",
+  "owner": "GianniBYoung",
+  "url": "https://github.com/GianniBYoung/chezmoi-snacks.nvim"
+}

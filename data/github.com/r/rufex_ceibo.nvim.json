@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-15T08:59:23Z",
+    "description": "Neovim plugin to easily comment git diffs",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T08:16:14Z",
+    "nameWithOwner": "rufex/ceibo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai-agents",
+      "neovim-plugin",
+      "git",
+      "review"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ceibo.nvim",
+  "owner": "rufex",
+  "url": "https://github.com/rufex/ceibo.nvim"
+}

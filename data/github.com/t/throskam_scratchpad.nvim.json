@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Scratchpad"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-22T20:48:08Z",
+    "description": "Scratchpad plugin for nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T20:48:41Z",
+    "nameWithOwner": "throskam/scratchpad.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scratchpad.nvim",
+  "owner": "throskam",
+  "url": "https://github.com/throskam/scratchpad.nvim"
+}

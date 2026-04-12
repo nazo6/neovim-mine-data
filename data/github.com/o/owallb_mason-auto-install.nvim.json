@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 13,
+    "commitCountLastYear": 18,
     "createdAt": "2025-06-05T13:06:00Z",
     "description": "Automatically install Mason packages on demand based on file types.",
     "isArchived": false,
-    "lastCommit": "2025-06-08T19:57:14Z",
+    "lastCommit": "2026-04-06T20:30:59Z",
     "nameWithOwner": "owallb/mason-auto-install.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 16,
+    "star": 17,
     "topics": [
       "mason",
       "neovim"

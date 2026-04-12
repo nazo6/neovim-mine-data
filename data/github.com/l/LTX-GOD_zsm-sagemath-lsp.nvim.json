@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-26T08:47:10Z",
+    "description": "a sagemath lsp for nvim(test)",
+    "isArchived": false,
+    "lastCommit": "2026-03-26T09:36:53Z",
+    "nameWithOwner": "LTX-GOD/zsm-sagemath-lsp.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "zsm-sagemath-lsp.nvim",
+  "owner": "LTX-GOD",
+  "url": "https://github.com/LTX-GOD/zsm-sagemath-lsp.nvim"
+}

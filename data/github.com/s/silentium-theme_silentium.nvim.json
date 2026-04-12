@@ -16,25 +16,26 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 28,
     "createdAt": "2026-01-17T18:49:38Z",
-    "description": "Pragmatic, logical, and monochrome theme for Neovim.",
+    "description": "Pragmatic, logical and monochrome theme for Neovim.",
     "isArchived": false,
-    "lastCommit": "2026-03-14T11:02:57Z",
+    "lastCommit": "2026-03-19T07:16:47Z",
     "nameWithOwner": "silentium-theme/silentium.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19,
+    "star": 20,
     "topics": [
       "neovim",
       "neovim-colorscheme",
-      "theme",
-      "colorscheme",
-      "neovim-plugin",
-      "syntax-highlighting",
-      "lua"
+      "lua",
+      "logical",
+      "neovim-theme",
+      "nvim",
+      "pragmatic",
+      "silentium"
     ]
   },
   "domain": "github.com",

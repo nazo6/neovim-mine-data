@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Treesitter"
+        },
+        {
+          "level": 3,
+          "name": "Installer"
+        }
+      ],
+      "file": "treesitter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-04-09T12:31:30Z",
+    "description": "Minimal tree-sitter parser manager for Neovim 0.12+. No dependencies - just git and tree-sitter CLI.",
+    "isArchived": false,
+    "lastCommit": "2026-04-10T16:21:55Z",
+    "nameWithOwner": "reybits/ts-forge.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-plugin",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ts-forge.nvim",
+  "owner": "reybits",
+  "url": "https://github.com/reybits/ts-forge.nvim"
+}

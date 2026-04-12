@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        },
+        {
+          "level": 3,
+          "name": "Search highlight"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-04-02T09:57:10Z",
+    "description": "hlsearch, but only when it actually makes sense!",
+    "isArchived": false,
+    "lastCommit": "2026-04-03T21:33:17Z",
+    "nameWithOwner": "tummetott/smart-hlsearch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-hlsearch.nvim",
+  "owner": "tummetott",
+  "url": "https://github.com/tummetott/smart-hlsearch.nvim"
+}

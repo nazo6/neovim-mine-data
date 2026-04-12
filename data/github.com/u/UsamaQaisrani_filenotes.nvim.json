@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "etc"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-20T22:57:46Z",
+    "description": "Neovim plugin that opens a per-file markdown note in a floating window, scoped to the project root.",
+    "isArchived": false,
+    "lastCommit": "2026-03-21T12:18:04Z",
+    "nameWithOwner": "UsamaQaisrani/filenotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "filenotes.nvim",
+  "owner": "UsamaQaisrani",
+  "url": "https://github.com/UsamaQaisrani/filenotes.nvim"
+}

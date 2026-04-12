@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-08T20:36:11Z",
+    "description": "neovim plugin for hours cli tool",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T22:46:57Z",
+    "nameWithOwner": "keeles/hours.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hours.nvim",
+  "owner": "keeles",
+  "url": "https://github.com/keeles/hours.nvim"
+}

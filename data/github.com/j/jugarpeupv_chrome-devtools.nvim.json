@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "DevTools"
+        }
+      ],
+      "file": "web-browser.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-29T19:39:30Z",
+    "description": "Chrome devtools plugin for inspecting http requests and browser storage from a neovim buffer",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T20:36:09Z",
+    "nameWithOwner": "jugarpeupv/chrome-devtools.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "chrome-devtools.nvim",
+  "owner": "jugarpeupv",
+  "url": "https://github.com/jugarpeupv/chrome-devtools.nvim"
+}

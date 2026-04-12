@@ -20,18 +20,24 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
-    "createdAt": "2025-10-08T20:19:47Z",
-    "description": "a gh-lazy port for neovim | Even more lazier way to manage everything github related",
+    "commitCountLastYear": 18,
+    "createdAt": "2026-04-08T10:52:55Z",
+    "description": "A neovim wrapper for lazy-github to effortlessly interact with github within neovim",
     "isArchived": false,
-    "lastCommit": "2025-10-08T20:55:46Z",
+    "lastCommit": "2026-04-08T14:21:42Z",
     "nameWithOwner": "georgesnoe/lazygithub.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 0,
     "topics": [
+      "github",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "plugin",
+      "wrapper"
     ]
   },
   "domain": "github.com",

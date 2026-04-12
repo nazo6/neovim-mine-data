@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-03-21T19:09:40Z",
+    "description": "Keyboard-driven command picker for Claude Code — navigate and copy shell commands without touching the mouse",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T06:29:26Z",
+    "nameWithOwner": "riensou/ccpick.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "claude",
+      "claude-code",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "productivity"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ccpick.nvim",
+  "owner": "riensou",
+  "url": "https://github.com/riensou/ccpick.nvim"
+}

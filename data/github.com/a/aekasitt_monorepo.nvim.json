@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project syntax"
+        },
+        {
+          "level": 4,
+          "name": "Monorepo"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-03-31T02:48:17Z",
+    "description": "neovim plugin to toggle workspace member visibility on file filtering for fff.nvim",
+    "isArchived": false,
+    "lastCommit": "2026-04-10T15:08:52Z",
+    "nameWithOwner": "aekasitt/monorepo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "monorepo.nvim",
+  "owner": "aekasitt",
+  "url": "https://github.com/aekasitt/monorepo.nvim"
+}

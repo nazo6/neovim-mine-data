@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Specific runner"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-04-07T19:28:09Z",
+    "description": "A simple generic runner for quick test runs or running a file without having to ctrl z all the time",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T19:48:13Z",
+    "nameWithOwner": "ozaydincan/float-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "float-runner.nvim",
+  "owner": "ozaydincan",
+  "url": "https://github.com/ozaydincan/float-runner.nvim"
+}

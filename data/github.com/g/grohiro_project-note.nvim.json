@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Note"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-21T04:33:11Z",
+    "description": "A Neovim plugin to take a project specific note",
+    "isArchived": false,
+    "lastCommit": "2026-03-21T04:35:14Z",
+    "nameWithOwner": "grohiro/project-note.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "project-note.nvim",
+  "owner": "grohiro",
+  "url": "https://github.com/grohiro/project-note.nvim"
+}

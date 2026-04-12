@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Textobject"
+        },
+        {
+          "level": 3,
+          "name": "Surround"
+        }
+      ],
+      "file": "textobject_operator.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-17T06:58:36Z",
+    "description": "Simple plugin for wrapping nodes and types in neovim quickly",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T16:03:02Z",
+    "nameWithOwner": "Oreo412/nvim-wrap-node",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-wrap-node",
+  "owner": "Oreo412",
+  "url": "https://github.com/Oreo412/nvim-wrap-node"
+}

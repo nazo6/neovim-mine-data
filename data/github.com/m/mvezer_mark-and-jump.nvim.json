@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mark"
+        },
+        {
+          "level": 3,
+          "name": "Jump"
+        }
+      ],
+      "file": "mark.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-16T09:37:17Z",
+    "description": "A handy neovim plugin that makes your buffer management simple",
+    "isArchived": false,
+    "lastCommit": "2026-03-16T09:56:44Z",
+    "nameWithOwner": "mvezer/mark-and-jump.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mark-and-jump.nvim",
+  "owner": "mvezer",
+  "url": "https://github.com/mvezer/mark-and-jump.nvim"
+}

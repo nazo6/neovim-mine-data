@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "FastAPI"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 20,
+    "createdAt": "2026-03-01T16:49:58Z",
+    "description": "Inspired by the FastAPI plugin for VSC, API route explorer and tester for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-27T13:58:33Z",
+    "nameWithOwner": "mrpbennett/nimbleapi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "api",
+      "fastapi",
+      "java",
+      "lua",
+      "nvim",
+      "nvim-plugin",
+      "python",
+      "spring"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nimbleapi.nvim",
+  "owner": "mrpbennett",
+  "url": "https://github.com/mrpbennett/fastapi.nvim"
+}

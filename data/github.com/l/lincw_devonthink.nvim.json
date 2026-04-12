@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-17T09:33:12Z",
+    "description": "Make nvim able to communicate with DEVONthink",
+    "isArchived": false,
+    "lastCommit": "2026-04-10T09:45:40Z",
+    "nameWithOwner": "lincw/devonthink.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "devonthink.nvim",
+  "owner": "lincw",
+  "url": "https://github.com/lincw/devontthink.nvim"
+}

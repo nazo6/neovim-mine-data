@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-08T01:39:03Z",
+    "description": "MAIP plugin for Neovim — Lua-native agent management, receipts, trust scores, and Telescope integration",
+    "isArchived": false,
+    "lastCommit": "2026-04-08T01:43:46Z",
+    "nameWithOwner": "truthlocks/maip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "maip.nvim",
+  "owner": "truthlocks",
+  "url": "https://github.com/truthlocks/maip.nvim"
+}

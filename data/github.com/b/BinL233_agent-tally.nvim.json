@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Token Count"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2026-03-22T22:58:58Z",
+    "description": "Track how your AI agents work, what they cost, and your agents heatmaps. Stop guessing your AI spend.",
+    "isArchived": false,
+    "lastCommit": "2026-03-29T18:30:40Z",
+    "nameWithOwner": "BinL233/agent-tally.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 205,
+    "topics": [
+      "nvim",
+      "nvim-plugin",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "agent-tally.nvim",
+  "owner": "BinL233",
+  "url": "https://github.com/BinL233/agent-tally.nvim"
+}

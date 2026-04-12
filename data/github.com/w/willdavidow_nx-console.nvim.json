@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project syntax"
+        },
+        {
+          "level": 4,
+          "name": "Monorepo"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 76,
+    "createdAt": "2026-03-24T21:26:36Z",
+    "description": "An Nx plugin to bring a better Nx experience to Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-26T18:05:25Z",
+    "nameWithOwner": "willdavidow/nx-console.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nx-console.nvim",
+  "owner": "willdavidow",
+  "url": "https://github.com/willdavidow/nx-console.nvim"
+}

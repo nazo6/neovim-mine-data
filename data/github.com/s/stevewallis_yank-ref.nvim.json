@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Line Number"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-20T19:05:56Z",
+    "description": "Neovim plugin for yanking contextual info around cursor position",
+    "isArchived": false,
+    "lastCommit": "2026-03-20T19:52:19Z",
+    "nameWithOwner": "stevewallis/yank-ref.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yank-ref.nvim",
+  "owner": "stevewallis",
+  "url": "https://github.com/stevewallis/yank-ref.nvim"
+}

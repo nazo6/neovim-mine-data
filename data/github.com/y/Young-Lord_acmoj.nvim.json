@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Competitive programming"
+        },
+        {
+          "level": 3,
+          "name": "ACMOJ"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-03-19T05:02:06Z",
+    "description": "Neovim plugin for SJTU ACMOJ",
+    "isArchived": false,
+    "lastCommit": "2026-03-26T08:19:04Z",
+    "nameWithOwner": "Young-Lord/acmoj.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "acmoj.nvim",
+  "owner": "Young-Lord",
+  "url": "https://github.com/Young-Lord/acmoj.nvim"
+}

@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-06T12:22:04Z",
+    "description": "Neovim plugin for code review with inline claims, persistent sessions, and exportable handoffs to AI agents..",
+    "isArchived": false,
+    "lastCommit": "2026-04-06T19:30:04Z",
+    "nameWithOwner": "makefinks/doubt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai-agents",
+      "ai-code-review",
+      "code-review",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "doubt.nvim",
+  "owner": "makefinks",
+  "url": "https://github.com/makefinks/doubt.nvim"
+}

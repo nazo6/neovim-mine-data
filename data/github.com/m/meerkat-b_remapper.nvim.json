@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Remap"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-03-26T11:06:56Z",
+    "description": "An nvim plugin which allows quick key binding remapping in a floating buffer.",
+    "isArchived": false,
+    "lastCommit": "2026-03-25T16:23:37Z",
+    "nameWithOwner": "meerkat-b/remapper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "remapper.nvim",
+  "owner": "meerkat-b",
+  "url": "https://github.com/meerkat-b/remapper.nvim"
+}

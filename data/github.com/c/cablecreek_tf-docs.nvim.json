@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "DataDog"
+        },
+        {
+          "level": 4,
+          "name": "Terraform"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-03-19T08:01:42Z",
+    "description": "🏗️ Terraform provider docs inside nvim - simple & fast",
+    "isArchived": false,
+    "lastCommit": "2026-04-08T03:38:16Z",
+    "nameWithOwner": "cablecreek/tf-docs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "lua",
+      "neovim-plugin",
+      "nvim",
+      "terraform"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tf-docs.nvim",
+  "owner": "cablecreek",
+  "url": "https://github.com/cablecreek/tf-docs.nvim"
+}

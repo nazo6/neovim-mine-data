@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Go to File"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-03-13T13:28:13Z",
+    "description": "Navigate file paths embedded in text: open, jump, and highlight references from LLM output or prose",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T12:45:11Z",
+    "nameWithOwner": "tummetott/pathnav.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pathnav.nvim",
+  "owner": "tummetott",
+  "url": "https://github.com/tummetott/pathnav.nvim"
+}

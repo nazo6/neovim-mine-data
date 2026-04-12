@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Protocol"
+        },
+        {
+          "level": 3,
+          "name": "REST"
+        },
+        {
+          "level": 4,
+          "name": "OpenAPI"
+        }
+      ],
+      "file": "protocol.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-19T07:48:44Z",
+    "description": "small plugin to navigate via openapi routes to controllers",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T08:51:20Z",
+    "nameWithOwner": "kevsommer/openapi-navigation.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "openapi-navigation.nvim",
+  "owner": "kevsommer",
+  "url": "https://github.com/kevsommer/openapi-navigation.nvim"
+}

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "Tree View"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 29,
+    "createdAt": "2026-03-14T16:17:19Z",
+    "description": "Neovim integration for trev file viewer",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T05:48:27Z",
+    "nameWithOwner": "nabekou29/trev.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "terminal",
+      "trev",
+      "file-tree"
+    ]
+  },
+  "domain": "github.com",
+  "name": "trev.nvim",
+  "owner": "nabekou29",
+  "url": "https://github.com/nabekou29/trev.nvim"
+}

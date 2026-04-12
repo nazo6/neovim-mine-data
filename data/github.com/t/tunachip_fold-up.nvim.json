@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Fold"
+        }
+      ],
+      "file": "fold.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-31T10:31:40Z",
+    "description": "Commands for Folding / Unfolding Comma-Seperated Lists in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-31T10:30:27Z",
+    "nameWithOwner": "tunachip/fold-up.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fold-up.nvim",
+  "owner": "tunachip",
+  "url": "https://github.com/tunachip/fold-up.nvim"
+}

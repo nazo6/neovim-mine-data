@@ -13,26 +13,43 @@
       ],
       "file": "git-github.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Workflow"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 11,
+    "commitCountLastYear": 263,
     "createdAt": "2026-02-08T14:12:13Z",
-    "description": "lets you browse and interact with Bitbucket pull requests and Jira issues without leaving your editor.",
+    "description": "A Neovim plugin to browse and manage Jira issues and Bitbucket pull requests without leaving your editor.",
     "isArchived": false,
-    "lastCommit": "2026-02-11T09:36:54Z",
+    "lastCommit": "2026-04-11T17:48:28Z",
     "nameWithOwner": "emrearmagan/atlas.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 17,
     "topics": [
       "neovim",
       "nvim",
       "nvim-plugin",
-      "docker",
-      "neovim-plugin"
+      "neovim-plugin",
+      "atlassian",
+      "bitbucket",
+      "jira",
+      "jira-plugin"
     ]
   },
   "domain": "github.com",

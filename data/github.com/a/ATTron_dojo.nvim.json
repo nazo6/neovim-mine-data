@@ -9,6 +9,10 @@
         {
           "level": 2,
           "name": "Jujutsu(jj)"
+        },
+        {
+          "level": 4,
+          "name": "diff"
         }
       ],
       "file": "git-github.md",
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 21,
     "createdAt": "2026-03-11T18:54:50Z",
     "description": "lightweight, and performant magit inspired JJ interface for neovim",
     "isArchived": false,
-    "lastCommit": "2026-03-13T20:08:12Z",
+    "lastCommit": "2026-03-19T20:05:46Z",
     "nameWithOwner": "ATTron/dojo.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 3,
+    "star": 4,
     "topics": [
       "jj",
       "lua",

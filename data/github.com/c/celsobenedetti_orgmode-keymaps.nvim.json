@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-16T15:11:21Z",
+    "description": "Orgmode keymaps for text formatting",
+    "isArchived": false,
+    "lastCommit": "2026-03-23T13:14:58Z",
+    "nameWithOwner": "celsobenedetti/orgmode-keymaps.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "orgmode-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "orgmode-keymaps.nvim",
+  "owner": "celsobenedetti",
+  "url": "https://github.com/celsobenedetti/orgmode-keymaps.nvim"
+}

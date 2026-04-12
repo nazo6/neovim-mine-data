@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Flashcards"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-15T10:37:50Z",
+    "description": "A FSRS-based spaced repetition plugin for Neovim. Built for learners who believe that asking the right question matters more than memorizing the right answer.",
+    "isArchived": false,
+    "lastCommit": "2026-03-15T12:01:22Z",
+    "nameWithOwner": "Yeijon/mnemonic.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mnemonic.nvim",
+  "owner": "Yeijon",
+  "url": "https://github.com/Yeijon/mnemonic.nvim"
+}

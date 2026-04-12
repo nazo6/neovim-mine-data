@@ -9,6 +9,10 @@
         {
           "level": 2,
           "name": "Jujutsu(jj)"
+        },
+        {
+          "level": 4,
+          "name": "diff"
         }
       ],
       "file": "git-github.md",
@@ -16,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 419,
+    "commitCountLastYear": 407,
     "createdAt": "2026-03-07T07:05:02Z",
     "description": "An interactive and powerful Jujutsu interface for Neovim, inspired by Magit, forked from Neogit",
     "isArchived": false,
-    "lastCommit": "2026-03-14T07:20:41Z",
+    "lastCommit": "2026-04-05T20:51:23Z",
     "nameWithOwner": "NicholasZolton/neojj",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 31,
+    "star": 40,
     "topics": [
       "neovim-plugin"
     ]

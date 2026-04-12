@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "curl"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-23T06:07:30Z",
+    "isArchived": false,
+    "lastCommit": "2026-03-24T14:28:01Z",
+    "nameWithOwner": "yoshixi/curl-runnner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "curl-runnner.nvim",
+  "owner": "yoshixi",
+  "url": "https://github.com/yoshixi/curl-runnner.nvim"
+}

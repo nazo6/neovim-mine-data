@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-03-25T17:00:18Z",
+    "description": "nvim wrapper around the obsidian cli",
+    "isArchived": false,
+    "lastCommit": "2026-04-05T19:41:03Z",
+    "nameWithOwner": "JulianDeclercq/obsidian-cli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "obsidian-cli.nvim",
+  "owner": "JulianDeclercq",
+  "url": "https://github.com/JulianDeclercq/obsidian-cli.nvim"
+}

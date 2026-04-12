@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2026-03-15T20:53:38Z",
+    "description": "Route Neovim diagnostics, selections, and commands to any tmux   pane. Built for Claude Code, works with any terminal process.",
+    "isArchived": false,
+    "lastCommit": "2026-04-03T01:26:53Z",
+    "nameWithOwner": "AccursedGalaxy/cursed.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "claude-code",
+      "diagnostics",
+      "lsp",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "tmux"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cursed.nvim",
+  "owner": "AccursedGalaxy",
+  "url": "https://github.com/AccursedGalaxy/cursed.nvim"
+}

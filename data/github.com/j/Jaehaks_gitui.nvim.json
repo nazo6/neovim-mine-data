@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "gitui"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2026-03-16T05:27:35Z",
+    "description": "gitui wrapper for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T14:04:31Z",
+    "nameWithOwner": "Jaehaks/gitui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitui.nvim",
+  "owner": "Jaehaks",
+  "url": "https://github.com/Jaehaks/gitui.nvim"
+}

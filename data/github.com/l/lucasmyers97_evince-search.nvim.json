@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "Tex Preview"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-01T23:01:46Z",
+    "description": "Neovim plugin enabling latex forward- and inverse-search with Evince PDF viewer.",
+    "isArchived": false,
+    "lastCommit": "2026-04-01T22:58:02Z",
+    "nameWithOwner": "lucasmyers97/evince-search.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "evince-search.nvim",
+  "owner": "lucasmyers97",
+  "url": "https://github.com/lucasmyers97/evince-search.nvim"
+}

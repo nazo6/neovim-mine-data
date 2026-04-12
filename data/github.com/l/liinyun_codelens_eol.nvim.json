@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "textDocument"
+        },
+        {
+          "level": 5,
+          "name": "CodeLens"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-02T19:51:40Z",
+    "description": "move codelens from virtual line to end of line",
+    "isArchived": false,
+    "lastCommit": "2026-04-04T16:49:30Z",
+    "nameWithOwner": "liinyun/codelens_eol.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codelens_eol.nvim",
+  "owner": "liinyun",
+  "url": "https://github.com/liinyun/codelens_eol.nvim"
+}

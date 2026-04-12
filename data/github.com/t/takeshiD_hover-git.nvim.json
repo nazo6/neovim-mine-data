@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git blame"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-27T16:09:11Z",
+    "description": "A hover.nvim provider for showing git commit message on cursor",
+    "isArchived": false,
+    "lastCommit": "2026-03-27T16:08:03Z",
+    "nameWithOwner": "takeshiD/hover-git.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "git",
+      "hover",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hover-git.nvim",
+  "owner": "takeshiD",
+  "url": "https://github.com/takeshiD/hover-git.nvim"
+}

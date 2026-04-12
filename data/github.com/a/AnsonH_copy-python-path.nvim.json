@@ -1,0 +1,62 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "tweaks"
+        },
+        {
+          "level": 4,
+          "name": "path"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2025-06-08T07:35:46Z",
+    "description": "Neovim plugin to copy the reference path of a Python symbol.",
+    "isArchived": false,
+    "lastCommit": "2025-07-01T10:39:18Z",
+    "nameWithOwner": "AnsonH/copy-python-path.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "python"
+    ]
+  },
+  "domain": "github.com",
+  "name": "copy-python-path.nvim",
+  "owner": "AnsonH",
+  "url": "https://github.com/AnsonH/copy-python-path.nvim"
+}

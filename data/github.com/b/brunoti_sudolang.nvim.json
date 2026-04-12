@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "SudoLang"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-07T00:06:41Z",
+    "description": "Neovim plugin for SudoLang syntax highlighting",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T23:44:24Z",
+    "nameWithOwner": "brunoti/sudolang.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sudolang.nvim",
+  "owner": "brunoti",
+  "url": "https://github.com/brunoti/sudolang.nvim"
+}

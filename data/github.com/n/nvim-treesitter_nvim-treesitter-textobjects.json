@@ -8,10 +8,10 @@
         },
         {
           "level": 2,
-          "name": "Textobject"
+          "name": "Treesitter"
         }
       ],
-      "file": "textobject_operator.md",
+      "file": "treesitter.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,16 +30,16 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 50,
+    "commitCountLastYear": 53,
     "createdAt": "2020-09-20T14:53:24Z",
     "isArchived": false,
-    "lastCommit": "2026-03-08T09:38:13Z",
+    "lastCommit": "2026-04-07T09:06:13Z",
     "nameWithOwner": "nvim-treesitter/nvim-treesitter-textobjects",
     "primaryLanguage": {
       "color": "#8ea64c",
       "name": "Tree-sitter Query"
     },
-    "star": 2704,
+    "star": 2732,
     "topics": [
       "neovim",
       "lua",

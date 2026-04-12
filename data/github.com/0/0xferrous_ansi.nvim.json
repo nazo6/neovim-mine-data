@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 9,
+    "commitCountLastYear": 20,
     "createdAt": "2025-07-24T09:40:25Z",
     "description": "A Neovim plugin that renders ANSI color escape codes as actual colors in buffers using concealer.",
     "isArchived": false,
-    "lastCommit": "2026-01-21T06:13:11Z",
+    "lastCommit": "2026-04-08T18:24:11Z",
     "nameWithOwner": "0xferrous/ansi.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 11,
+    "star": 13,
     "topics": [
       "ansi",
       "neovim",

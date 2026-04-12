@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GPG"
+        }
+      ],
+      "file": "security.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-10T14:49:46Z",
+    "description": "decrypt authinfo.gpg lazily in neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T03:47:32Z",
+    "nameWithOwner": "zhafacai/authinfo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "authinfo",
+      "decrypt",
+      "gpg",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "authinfo.nvim",
+  "owner": "zhafacai",
+  "url": "https://github.com/zhafacai/authinfo.nvim"
+}

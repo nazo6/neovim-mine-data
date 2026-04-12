@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-03-30T13:25:10Z",
+    "description": "AI-powered code completions for Neovim using the sweep-next-edit model",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T14:41:46Z",
+    "nameWithOwner": "c0r73x/sweep.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sweep.nvim",
+  "owner": "c0r73x",
+  "url": "https://github.com/c0r73x/sweep.nvim"
+}

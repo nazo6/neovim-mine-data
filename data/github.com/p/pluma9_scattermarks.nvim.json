@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Location"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-21T16:51:21Z",
+    "description": "Neovim plugin to copy loclist entries and jump to them later",
+    "isArchived": false,
+    "lastCommit": "2026-03-21T16:40:59Z",
+    "nameWithOwner": "pluma9/scattermarks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 0,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scattermarks.nvim",
+  "owner": "pluma9",
+  "url": "https://github.com/pluma9/scattermarks.nvim"
+}

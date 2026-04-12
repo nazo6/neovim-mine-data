@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Zettelkasten"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2026-04-01T14:37:52Z",
+    "description": "A tag-based hierarchical note management plugin for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-03T07:18:55Z",
+    "nameWithOwner": "sharp541/taxon.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "taxon.nvim",
+  "owner": "sharp541",
+  "url": "https://github.com/sharp541/taxon.nvim"
+}

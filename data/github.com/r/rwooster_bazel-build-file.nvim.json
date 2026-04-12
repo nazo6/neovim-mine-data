@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Bazel"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-02T20:35:35Z",
+    "description": "Neovim plugin to jump to a bazel build file",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T00:46:16Z",
+    "nameWithOwner": "rwooster/bazel-build-file.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bazel-build-file.nvim",
+  "owner": "rwooster",
+  "url": "https://github.com/rwooster/bazel-build-file.nvim"
+}

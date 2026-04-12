@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PlantUML"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 51,
+    "createdAt": "2026-03-30T18:08:10Z",
+    "description": "Neovim plugin for live PlantUML diagram preview in browser with auto-reload on save and PNG/SVG export",
+    "isArchived": false,
+    "lastCommit": "2026-04-03T07:48:40Z",
+    "nameWithOwner": "mszenfeld/puml-viewer.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "plantuml"
+    ]
+  },
+  "domain": "github.com",
+  "name": "puml-viewer.nvim",
+  "owner": "mszenfeld",
+  "url": "https://github.com/mszenfeld/puml-viewer.nvim"
+}

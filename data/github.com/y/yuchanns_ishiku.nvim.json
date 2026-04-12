@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Treesitter"
+        },
+        {
+          "level": 3,
+          "name": "Installer"
+        }
+      ],
+      "file": "treesitter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-04-05T03:32:33Z",
+    "description": "Neovim treesitter parser manager and runtime integration for vim.treesitter.",
+    "isArchived": false,
+    "lastCommit": "2026-04-05T12:23:55Z",
+    "nameWithOwner": "yuchanns/ishiku.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "nvim-treesitter",
+      "neovim",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ishiku.nvim",
+  "owner": "yuchanns",
+  "url": "https://github.com/yuchanns/ishiku.nvim"
+}

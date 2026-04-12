@@ -1,0 +1,62 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Auto Completion"
+        },
+        {
+          "level": 3,
+          "name": "Auto Completion Plugin"
+        },
+        {
+          "level": 4,
+          "name": "Made in Go"
+        }
+      ],
+      "file": "completion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "AI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 271,
+    "createdAt": "2025-06-13T07:09:13Z",
+    "description": "Neovim edit completion plugin",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T06:53:01Z",
+    "nameWithOwner": "cursortab/cursortab.nvim",
+    "primaryLanguage": {
+      "color": "#00ADD8",
+      "name": "Go"
+    },
+    "star": 154,
+    "topics": [
+      "nvim",
+      "cursor-prediction",
+      "edit-completion"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cursortab.nvim",
+  "owner": "cursortab",
+  "url": "https://github.com/cursortab/cursortab.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Send"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-04-04T02:22:52Z",
+    "description": "Chat to your tmux panes both near and far",
+    "isArchived": false,
+    "lastCommit": "2026-04-04T02:27:54Z",
+    "nameWithOwner": "skbolton/gossip.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gossip.nvim",
+  "owner": "skbolton",
+  "url": "https://github.com/skbolton/gossip.nvim"
+}

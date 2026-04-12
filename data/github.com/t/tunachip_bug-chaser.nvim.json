@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Refactoring,Debugging"
+        },
+        {
+          "level": 4,
+          "name": "stack trace analyze"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-09T22:43:14Z",
+    "description": "Simple Code Runner which opens buffers to the origin of your stack trace errors",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T22:42:09Z",
+    "nameWithOwner": "tunachip/bug-chaser.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "bug-chaser.nvim",
+  "owner": "tunachip",
+  "url": "https://github.com/tunachip/bug-chaser.nvim"
+}

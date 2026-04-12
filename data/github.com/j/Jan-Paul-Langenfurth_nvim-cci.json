@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "CI"
+        },
+        {
+          "level": 3,
+          "name": "CircleCI"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-03-24T20:29:12Z",
+    "description": "Nvim Circle Ci plugin",
+    "isArchived": false,
+    "lastCommit": "2026-03-24T22:44:55Z",
+    "nameWithOwner": "Jan-Paul-Langenfurth/nvim-cci",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-cci",
+  "owner": "Jan-Paul-Langenfurth",
+  "url": "https://github.com/Jan-Paul-Langenfurth/nvim-cci"
+}

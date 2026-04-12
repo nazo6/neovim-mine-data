@@ -13,25 +13,40 @@
       ],
       "file": "command.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Fuzzy Finder"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 68,
+    "commitCountLastYear": 153,
     "createdAt": "2026-02-19T16:59:55Z",
     "description": "A single command palette with prefix based pickers for Neovim",
     "isArchived": false,
-    "lastCommit": "2026-02-24T08:14:42Z",
+    "lastCommit": "2026-03-30T01:33:58Z",
     "nameWithOwner": "willyelm/pulse.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 9,
+    "star": 17,
     "topics": [
       "command-palette",
       "neovim",
       "plugin",
-      "programming"
+      "programming",
+      "zenmode"
     ]
   },
   "domain": "github.com",

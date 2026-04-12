@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git switch"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-01T17:11:32Z",
+    "description": "Quickly creates and names your git branches.",
+    "isArchived": false,
+    "lastCommit": "2026-04-01T17:25:02Z",
+    "nameWithOwner": "patricktrainer/random-branch.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "git",
+      "git-branch",
+      "neovim",
+      "neovim-plugin",
+      "vim",
+      "vim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "random-branch.nvim",
+  "owner": "patricktrainer",
+  "url": "https://github.com/patricktrainer/random-branch.nvim"
+}

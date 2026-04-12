@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Log"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-03T02:38:10Z",
+    "description": "neovim log analyze plugin ",
+    "isArchived": false,
+    "lastCommit": "2026-04-10T09:38:13Z",
+    "nameWithOwner": "sheeaza/logana.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "logana.nvim",
+  "owner": "sheeaza",
+  "url": "https://github.com/sheeaza/logana.nvim"
+}

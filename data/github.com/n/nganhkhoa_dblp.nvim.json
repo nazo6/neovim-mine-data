@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "BiBTex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-06T04:11:06Z",
+    "description": "bib entry search and insert right in your Neovim using DBLP Public API",
+    "isArchived": false,
+    "lastCommit": "2026-04-06T04:11:21Z",
+    "nameWithOwner": "nganhkhoa/dblp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dblp.nvim",
+  "owner": "nganhkhoa",
+  "url": "https://github.com/nganhkhoa/dblp.nvim"
+}

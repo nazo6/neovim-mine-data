@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "auto reload"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-09T23:27:24Z",
+    "description": "Poke nvim to check for external file changes on refocus",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T23:30:30Z",
+    "nameWithOwner": "swaits/tiny-checktime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tiny-checktime.nvim",
+  "owner": "swaits",
+  "url": "https://github.com/swaits/tiny-checktime.nvim"
+}

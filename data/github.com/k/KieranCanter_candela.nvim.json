@@ -17,20 +17,34 @@
       ],
       "file": "configration-file.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 161,
+    "commitCountLastYear": 170,
     "createdAt": "2025-06-10T17:45:37Z",
     "description": "Neovim plugin designed for log analysis. Define regex patterns to highlight matching lines. Use the \"lightbox\" to hide unmatched lines.",
     "isArchived": false,
-    "lastCommit": "2026-01-20T18:59:52Z",
+    "lastCommit": "2026-04-03T21:10:01Z",
     "nameWithOwner": "KieranCanter/candela.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 19,
+    "star": 38,
     "topics": [
       "neovim-plugin"
     ]

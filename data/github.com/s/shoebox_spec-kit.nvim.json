@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Note"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-03-23T09:36:19Z",
+    "description": "Neovim plugin for specification-driven development — manage specs, phases, and tasks with Telescope",
+    "isArchived": false,
+    "lastCommit": "2026-03-25T11:25:05Z",
+    "nameWithOwner": "shoebox/spec-kit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "spec-kit"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spec-kit.nvim",
+  "owner": "shoebox",
+  "url": "https://github.com/shoebox/spec-kit.nvim"
+}

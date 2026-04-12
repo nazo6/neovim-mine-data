@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2026-03-19T08:40:49Z",
+    "description": "Play ambient or lofi music automatically in Neovim to create a calm coding environment with simple setup and customizable tracks.",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T09:17:01Z",
+    "nameWithOwner": "SDKprojectmark2/Ambience.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ambience",
+      "ambient-music",
+      "lofi",
+      "lua",
+      "mpv",
+      "music",
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "socat"
+    ]
+  },
+  "domain": "github.com",
+  "name": "Ambience.nvim",
+  "owner": "SDKprojectmark2",
+  "url": "https://github.com/SDKprojectmark2/Ambience.nvim"
+}

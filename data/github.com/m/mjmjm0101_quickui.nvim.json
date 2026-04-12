@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Appearance"
+        },
+        {
+          "level": 3,
+          "name": "Menu"
+        }
+      ],
+      "file": "appearance.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 41,
+    "createdAt": "2026-04-05T16:00:29Z",
+    "description": "Not just a UI plugin — manage the cognitive load of your own Neovim setup",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T01:15:21Z",
+    "nameWithOwner": "mjmjm0101/quickui.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "developer-tools",
+      "keybindings",
+      "lua",
+      "menu",
+      "neovim",
+      "neovim-plugin",
+      "productivity",
+      "tui",
+      "ui",
+      "workflow"
+    ]
+  },
+  "domain": "github.com",
+  "name": "quickui.nvim",
+  "owner": "mjmjm0101",
+  "url": "https://github.com/mjmjm0101/quickui.nvim"
+}

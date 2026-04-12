@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Competitive programming"
+        },
+        {
+          "level": 3,
+          "name": "Project Euler"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-23T04:14:38Z",
+    "description": "projecteuler in neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-23T04:22:30Z",
+    "nameWithOwner": "noahlias/projecteuler.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "projecteuler.nvim",
+  "owner": "noahlias",
+  "url": "https://github.com/noahlias/projecteuler.nvim"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "COSMOS"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-07T02:44:40Z",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T14:32:37Z",
+    "nameWithOwner": "TheMikeste1/nvim-tree-sitter-cosmos",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-tree-sitter-cosmos",
+  "owner": "TheMikeste1",
+  "url": "https://github.com/TheMikeste1/nvim-tree-sitter-cosmos"
+}

@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 3,
+    "commitCountLastYear": 4,
     "createdAt": "2026-02-10T16:52:57Z",
     "description": "A minimal, fast, and beautiful floating terminal plugin for Neovim.",
     "isArchived": false,
-    "lastCommit": "2026-02-12T17:37:11Z",
+    "lastCommit": "2026-03-19T14:10:03Z",
     "nameWithOwner": "latuconsinafr/simpleterm.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,12 @@
     },
     "star": 4,
     "topics": [
+      "floating-terminal",
+      "nvim",
+      "nvim-plugin",
+      "nvim-terminal",
+      "lua",
+      "neovim"
     ]
   },
   "domain": "github.com",

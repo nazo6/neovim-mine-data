@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-19T11:27:49Z",
+    "description": "Stupidly simple journaling for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T11:33:42Z",
+    "nameWithOwner": "zeapoz/tiny-journal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tiny-journal.nvim",
+  "owner": "zeapoz",
+  "url": "https://github.com/zeapoz/tiny-journal.nvim"
+}

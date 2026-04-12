@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Emoji"
+        }
+      ],
+      "file": "font_emoji.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-07T06:57:52Z",
+    "description": "A plugin to insert your favorite Twitch emotes in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T11:06:45Z",
+    "nameWithOwner": "vkhangpham/emotes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "emotes.nvim",
+  "owner": "vkhangpham",
+  "url": "https://github.com/vkhangpham/emotes.nvim"
+}

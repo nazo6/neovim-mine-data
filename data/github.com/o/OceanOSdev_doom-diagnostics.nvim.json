@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 45,
+    "createdAt": "2026-04-08T23:15:29Z",
+    "description": "Neovim plugin that shows doom guy in neovim with damage depending on how many diagnostics vim reports",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T07:04:55Z",
+    "nameWithOwner": "OceanOSdev/doom-diagnostics.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "doom-diagnostics.nvim",
+  "owner": "OceanOSdev",
+  "url": "https://github.com/OceanOSdev/doom-diagnostics.nvim"
+}

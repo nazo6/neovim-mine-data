@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git log"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 54,
+    "createdAt": "2025-11-20T01:56:22Z",
+    "description": "A neovim plugin that shows git history like a movie",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T18:20:47Z",
+    "nameWithOwner": "matthewalunni/gitflix.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gitflix.nvim",
+  "owner": "matthewalunni",
+  "url": "https://github.com/matthewalunni/nvim-gitmovie"
+}

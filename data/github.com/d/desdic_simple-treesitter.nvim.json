@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Treesitter"
+        },
+        {
+          "level": 3,
+          "name": "Installer"
+        }
+      ],
+      "file": "treesitter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-05T14:19:33Z",
+    "description": "Simple installer for treesitter parsers for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T11:56:59Z",
+    "nameWithOwner": "desdic/simple-treesitter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "simple-treesitter.nvim",
+  "owner": "desdic",
+  "url": "https://github.com/desdic/simple-treesitter.nvim"
+}

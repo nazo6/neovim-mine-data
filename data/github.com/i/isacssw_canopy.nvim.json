@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-21T17:31:11Z",
+    "description": "Neovim plugin for canopy - toggle between your editor and AI agent dashboard",
+    "isArchived": false,
+    "lastCommit": "2026-03-21T22:15:39Z",
+    "nameWithOwner": "isacssw/canopy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "canopy.nvim",
+  "owner": "isacssw",
+  "url": "https://github.com/isacssw/canopy.nvim"
+}

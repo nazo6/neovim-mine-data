@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Cloud"
+          "name": "DataDog"
         },
         {
           "level": 4,
@@ -24,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 25,
     "createdAt": "2024-11-09T15:02:02Z",
     "description": "neovim plugin that simplifies switching between local paths and registry sources for terraform modules",
     "isArchived": false,

@@ -34,7 +34,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 201,
+    "commitCountLastYear": 155,
     "createdAt": "2025-03-19T00:06:02Z",
     "description": "A Neovim plugin which enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.",
     "isArchived": false,
@@ -44,7 +44,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 63,
+    "star": 62,
     "topics": [
       "lua",
       "navigation",

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "resize"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-09T23:26:59Z",
+    "description": "Equalize splits on terminal resize",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T23:30:28Z",
+    "nameWithOwner": "swaits/tiny-equalizer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tiny-equalizer.nvim",
+  "owner": "swaits",
+  "url": "https://github.com/swaits/tiny-equalizer.nvim"
+}

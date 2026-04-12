@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-03-20T00:18:11Z",
+    "description": "Small plugin for quick LLM fixes on the spot",
+    "isArchived": false,
+    "lastCommit": "2026-03-21T23:42:36Z",
+    "nameWithOwner": "igorgn/promptline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "promptline.nvim",
+  "owner": "igorgn",
+  "url": "https://github.com/igorgn/promptline.nvim"
+}

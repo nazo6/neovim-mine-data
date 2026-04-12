@@ -21,20 +21,34 @@
       ],
       "file": "integration-apps.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 93,
+    "commitCountLastYear": 134,
     "createdAt": "2026-02-08T16:53:37Z",
-    "description": "Interactive Docker dashboard directly in your editor. It lets you view and manage containers, images, networks, and logs",
+    "description": "A Neovim plugin to manage Docker containers, images, networks, and logs directly from your editor.",
     "isArchived": false,
-    "lastCommit": "2026-03-15T09:31:16Z",
+    "lastCommit": "2026-04-09T04:51:47Z",
     "nameWithOwner": "emrearmagan/dockyard.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10,
+    "star": 19,
     "topics": [
       "neovim",
       "nvim",

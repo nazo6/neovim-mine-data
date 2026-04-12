@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-07T01:01:41Z",
+    "description": "Obsidian Bridge for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T07:35:03Z",
+    "nameWithOwner": "hidetoshing/obsidianus.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "obsidianus.nvim",
+  "owner": "hidetoshing",
+  "url": "https://github.com/hidetoshing/obsidianus.nvim"
+}

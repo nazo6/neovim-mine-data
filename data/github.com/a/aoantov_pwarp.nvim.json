@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        },
+        {
+          "level": 3,
+          "name": "Project Switcher"
+        }
+      ],
+      "file": "project.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-03-17T14:09:17Z",
+    "description": "Plugin of Neovim to switch between projects",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T12:53:10Z",
+    "nameWithOwner": "aoantov/pwarp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pwarp.nvim",
+  "owner": "aoantov",
+  "url": "https://github.com/aoantov/pwarp.nvim"
+}

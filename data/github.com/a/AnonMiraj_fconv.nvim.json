@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Convert"
+        },
+        {
+          "level": 3,
+          "name": "Number"
+        }
+      ],
+      "file": "convert.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-22T09:32:23Z",
+    "description": "A plugin to conver between and inspect floating points representations",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T10:28:55Z",
+    "nameWithOwner": "AnonMiraj/fconv.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fconv.nvim",
+  "owner": "AnonMiraj",
+  "url": "https://github.com/AnonMiraj/fconv.nvim"
+}

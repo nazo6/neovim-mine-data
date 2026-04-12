@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-14T08:18:20Z",
+    "description": "Neovim simple package manager based on vim.pack",
+    "isArchived": false,
+    "lastCommit": "2026-03-28T08:44:16Z",
+    "nameWithOwner": "vcraescu/pack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pack.nvim",
+  "owner": "vcraescu",
+  "url": "https://github.com/vcraescu/pack.nvim"
+}

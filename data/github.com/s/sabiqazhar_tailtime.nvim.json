@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Coding time"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2026-04-04T04:35:40Z",
+    "description": "Simple Time tracking for Neovim with a beaver's tail ",
+    "isArchived": false,
+    "lastCommit": "2026-04-05T12:41:28Z",
+    "nameWithOwner": "sabiqazhar/tailtime.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tailtime.nvim",
+  "owner": "sabiqazhar",
+  "url": "https://github.com/sabiqazhar/tailtime.nvim"
+}

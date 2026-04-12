@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": ":make style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 32,
+    "createdAt": "2026-03-20T19:07:36Z",
+    "description": "Pick and run `make` targets from NeoVim",
+    "isArchived": false,
+    "lastCommit": "2026-03-25T03:05:10Z",
+    "nameWithOwner": "JamesDevlin5/makefile-targets.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "makefile-targets.nvim",
+  "owner": "JamesDevlin5",
+  "url": "https://github.com/JamesDevlin5/makefile-targets.nvim"
+}

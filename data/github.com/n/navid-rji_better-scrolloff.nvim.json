@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "j/k"
+        },
+        {
+          "level": 4,
+          "name": "Scrolling"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-03-20T17:17:06Z",
+    "description": " A small Neovim plugin for asymmetric scrolloff.",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T17:11:02Z",
+    "nameWithOwner": "navid-rji/better-scrolloff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "better-scrolloff.nvim",
+  "owner": "navid-rji",
+  "url": "https://github.com/navid-rji/better-scrolloff.nvim"
+}

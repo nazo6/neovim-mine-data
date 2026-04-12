@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Backup"
+        },
+        {
+          "level": 3,
+          "name": "Snapshot"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-20T09:33:05Z",
+    "description": "Browse ZFS snapshots of a file in neovim using Telescope",
+    "isArchived": false,
+    "lastCommit": "2026-03-21T15:33:14Z",
+    "nameWithOwner": "clawoflight/telescope-zfs-snapshots.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "telescope-plugin",
+      "zfs",
+      "zfs-snapshots"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-zfs-snapshots.nvim",
+  "owner": "clawoflight",
+  "url": "https://github.com/clawoflight/telescope-zfs-snapshots.nvim"
+}

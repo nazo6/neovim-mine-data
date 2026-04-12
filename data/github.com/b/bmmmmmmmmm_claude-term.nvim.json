@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-18T12:54:59Z",
+    "description": "A Neovim plugin to run Claude Code in a floating terminal window.",
+    "isArchived": false,
+    "lastCommit": "2026-03-18T12:57:48Z",
+    "nameWithOwner": "bmmmmmmmmm/claude-term.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-term.nvim",
+  "owner": "bmmmmmmmmm",
+  "url": "https://github.com/bmmmmmmmmm/claude-term.nvim"
+}

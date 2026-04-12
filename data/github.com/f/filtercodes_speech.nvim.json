@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Audio"
+        },
+        {
+          "level": 4,
+          "name": "Text-to-speech"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-07T11:20:55Z",
+    "description": "Lua Neovim plugin that converts text into spoken audio.",
+    "isArchived": false,
+    "lastCommit": "2026-04-08T12:17:59Z",
+    "nameWithOwner": "filtercodes/speech.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "speech.nvim",
+  "owner": "filtercodes",
+  "url": "https://github.com/filtercodes/speech.nvim"
+}

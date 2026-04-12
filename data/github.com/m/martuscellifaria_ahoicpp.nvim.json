@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "CMake"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Project"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-03-27T07:40:43Z",
+    "description": "A.H.O.I. Labs (Alex's Heavily Opinionated Interfaces) C++ Project plugin for NeoVim",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T12:19:07Z",
+    "nameWithOwner": "martuscellifaria/ahoicpp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ahoicpp.nvim",
+  "owner": "martuscellifaria",
+  "url": "https://github.com/martuscellifaria/ahoicpp.nvim"
+}

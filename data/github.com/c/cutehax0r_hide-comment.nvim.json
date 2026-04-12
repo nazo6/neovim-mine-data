@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Special Comment"
+        },
+        {
+          "level": 3,
+          "name": "Hide comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-03-22T15:47:54Z",
+    "description": "Hide comments completely (not fold) in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T16:05:59Z",
+    "nameWithOwner": "cutehax0r/hide-comment.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "comments",
+      "forked-repo",
+      "neovim",
+      "neovim-lua-plugin",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "hide-comment.nvim",
+  "owner": "cutehax0r",
+  "url": "https://github.com/cutehax0r/hide-comment.nvim"
+}

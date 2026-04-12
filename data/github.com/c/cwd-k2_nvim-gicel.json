@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "GICEL"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2026-03-15T17:00:39Z",
+    "description": "Neovim plugin for GICEL (Go's Indexed Capability Effect Language)",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T23:18:44Z",
+    "nameWithOwner": "cwd-k2/nvim-gicel",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-gicel",
+  "owner": "cwd-k2",
+  "url": "https://github.com/cwd-k2/nvim-gicel"
+}

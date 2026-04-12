@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown evaluate code"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-30T16:08:43Z",
+    "description": "Neovim plugin to evaluate `{{lua: ...}}` blocks inline in your buffer.  Place your cursor inside a block and trigger the evaluation to replace it with the result.",
+    "isArchived": false,
+    "lastCommit": "2026-03-31T00:39:50Z",
+    "nameWithOwner": "paxunix/eval-inline-lua-block.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "eval-inline-lua-block.nvim",
+  "owner": "paxunix",
+  "url": "https://github.com/paxunix/eval-inline-lua-block.nvim"
+}

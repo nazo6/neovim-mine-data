@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-03-18T13:49:16Z",
+    "description": "whitelist functionality for neotree",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T13:31:40Z",
+    "nameWithOwner": "rogovski/neotree-whitelist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neotree-whitelist.nvim",
+  "owner": "rogovski",
+  "url": "https://github.com/rogovski/neotree-whitelist.nvim"
+}

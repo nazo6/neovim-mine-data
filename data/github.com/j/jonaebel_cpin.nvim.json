@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "inline note"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-15T04:02:03Z",
+    "description": "Sticky notes for your code - attach inline annotations to any file:line without touching source files",
+    "isArchived": false,
+    "lastCommit": "2026-03-18T19:52:30Z",
+    "nameWithOwner": "jonaebel/cpin.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "cli",
+      "code-annotations",
+      "developer-tools",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "productivity",
+      "sticky-notes"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cpin.nvim",
+  "owner": "jonaebel",
+  "url": "https://github.com/jonaebel/cpin.nvim"
+}

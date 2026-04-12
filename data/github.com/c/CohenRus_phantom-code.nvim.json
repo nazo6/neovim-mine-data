@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Claude"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-31T22:51:46Z",
+    "description": "personalized neovim ai plugin w/auto complete and simple agentic tasking",
+    "isArchived": false,
+    "lastCommit": "2026-04-03T05:32:24Z",
+    "nameWithOwner": "CohenRus/phantom-code.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "phantom-code.nvim",
+  "owner": "CohenRus",
+  "url": "https://github.com/CohenRus/cohen-ai.nvim"
+}

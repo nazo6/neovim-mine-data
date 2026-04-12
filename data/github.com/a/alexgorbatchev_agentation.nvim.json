@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-03-22T02:32:45Z",
+    "description": "Minimal Neovim bridge for Agentation component-source links.",
+    "isArchived": false,
+    "lastCommit": "2026-03-23T03:01:50Z",
+    "nameWithOwner": "alexgorbatchev/agentation.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "agentation.nvim",
+  "owner": "alexgorbatchev",
+  "url": "https://github.com/alexgorbatchev/agentation.nvim"
+}

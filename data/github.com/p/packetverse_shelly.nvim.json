@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Shell"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-19T19:47:57Z",
+    "description": "Simple and lightweight Neovim plugin to manage shells within the editor.",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T02:34:14Z",
+    "nameWithOwner": "packetverse/shelly.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "shelly.nvim",
+  "owner": "packetverse",
+  "url": "https://github.com/packetverse/shelly.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Motion"
+        },
+        {
+          "level": 3,
+          "name": "Label Jump (Easymotion style)"
+        }
+      ],
+      "file": "motion.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-14T20:54:47Z",
+    "description": "Simple neovim jumping plugin",
+    "isArchived": false,
+    "lastCommit": "2026-03-29T17:21:55Z",
+    "nameWithOwner": "synepis/jumper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jumper.nvim",
+  "owner": "synepis",
+  "url": "https://github.com/synepis/jumper.nvim"
+}

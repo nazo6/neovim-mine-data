@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Chat"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-03-21T16:46:18Z",
+    "description": "NVIM plugin for brief, code agent explanations of selected code ",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T11:22:25Z",
+    "nameWithOwner": "zaderrr/ask.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "agents",
+      "ai",
+      "claude",
+      "codex",
+      "coding",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "ask.nvim",
+  "owner": "zaderrr",
+  "url": "https://github.com/zaderrr/ask.nvim"
+}

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-17T21:49:08Z",
+    "description": "Branch-scoped todo lists for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-18T18:46:12Z",
+    "nameWithOwner": "erykjarocki/branch-todos.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "git",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "productivity",
+      "todos"
+    ]
+  },
+  "domain": "github.com",
+  "name": "branch-todos.nvim",
+  "owner": "erykjarocki",
+  "url": "https://github.com/erykjarocki/branch-todos.nvim"
+}

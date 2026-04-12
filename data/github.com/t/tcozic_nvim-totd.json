@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "Tips"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-04-10T12:57:33Z",
+    "description": "Learn Neovim inside Neovim. A \"Tip of the Day\" plugin featuring spaced repetition, built-in runtime docs, and a safe practice sandbox.",
+    "isArchived": false,
+    "lastCommit": "2026-04-10T17:35:30Z",
+    "nameWithOwner": "tcozic/nvim-totd",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-totd",
+  "owner": "tcozic",
+  "url": "https://github.com/tcozic/nvim-totd"
+}

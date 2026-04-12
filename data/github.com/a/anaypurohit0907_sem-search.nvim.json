@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grep"
+        },
+        {
+          "level": 3,
+          "name": "AST (Semantic search)"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2026-03-15T10:10:58Z",
+    "description": "semantic search for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-17T16:27:58Z",
+    "nameWithOwner": "anaypurohit0907/sem-search.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sem-search.nvim",
+  "owner": "anaypurohit0907",
+  "url": "https://github.com/anaypurohit0907/sem-search.nvim"
+}

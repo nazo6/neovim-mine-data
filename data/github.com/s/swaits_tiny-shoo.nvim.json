@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Buffer"
+        },
+        {
+          "level": 3,
+          "name": "Buffer Management"
+        },
+        {
+          "level": 4,
+          "name": "auto close"
+        }
+      ],
+      "file": "buffer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-09T23:26:36Z",
+    "description": "Close special buffers with q, auto-close orphaned quickfix",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T23:30:27Z",
+    "nameWithOwner": "swaits/tiny-shoo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tiny-shoo.nvim",
+  "owner": "swaits",
+  "url": "https://github.com/swaits/tiny-shoo.nvim"
+}

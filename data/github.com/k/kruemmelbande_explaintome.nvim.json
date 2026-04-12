@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-30T18:00:51Z",
+    "description": "Explain code in nvim using llms",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T18:23:24Z",
+    "nameWithOwner": "kruemmelbande/explaintome.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "explaintome.nvim",
+  "owner": "kruemmelbande",
+  "url": "https://github.com/kruemmelbande/explaintome.nvim"
+}

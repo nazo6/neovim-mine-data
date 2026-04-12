@@ -2,34 +2,14 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Treesitter"
-        }
       ],
-      "file": "treesitter.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Select"
-        },
-        {
-          "level": 3,
-          "name": "Incremental selection"
-        }
       ],
-      "file": "search_replace_grep_select.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -48,22 +28,21 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 463,
+    "commitCountLastYear": 444,
     "createdAt": "2020-04-18T15:24:10Z",
     "description": "Nvim Treesitter configurations and abstraction layer",
-    "isArchived": false,
-    "lastCommit": "2026-03-14T18:46:07Z",
+    "isArchived": true,
+    "lastCommit": "2026-04-03T13:11:40Z",
     "nameWithOwner": "nvim-treesitter/nvim-treesitter",
     "primaryLanguage": {
       "color": "#8ea64c",
       "name": "Tree-sitter Query"
     },
-    "star": 13385,
+    "star": 13631,
     "topics": [
       "neovim",
       "tree-sitter",
-      "nvim-treesitter",
-      "hacktoberfest"
+      "nvim-treesitter"
     ]
   },
   "domain": "github.com",

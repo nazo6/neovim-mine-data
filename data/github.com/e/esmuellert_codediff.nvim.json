@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1045,
+    "commitCountLastYear": 1048,
     "createdAt": "2025-10-23T05:28:45Z",
     "description": "A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.",
     "isArchived": false,
-    "lastCommit": "2026-03-11T02:43:43Z",
+    "lastCommit": "2026-03-31T03:21:12Z",
     "nameWithOwner": "esmuellert/codediff.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1190,
+    "star": 1268,
     "topics": [
       "diff",
       "neovim",

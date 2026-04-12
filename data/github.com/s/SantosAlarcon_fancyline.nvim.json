@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 74,
+    "createdAt": "2026-03-25T19:27:47Z",
+    "description": "Beautiful and customizable statusline for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T12:49:15Z",
+    "nameWithOwner": "SantosAlarcon/fancyline.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "statusline"
+    ]
+  },
+  "domain": "github.com",
+  "name": "fancyline.nvim",
+  "owner": "SantosAlarcon",
+  "url": "https://github.com/SantosAlarcon/fancyline.nvim"
+}

@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Cloud"
+          "name": "DataDog"
         },
         {
           "level": 4,
@@ -24,7 +24,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 17,
     "createdAt": "2025-01-13T13:23:16Z",
     "description": "neovim plugin for validating terraform hcl resources against provider schemas.",
     "isArchived": false,

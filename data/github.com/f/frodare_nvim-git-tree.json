@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-03-18T04:11:40Z",
+    "description": "A neo-tree.nvim custom source that shows files changed between your working tree and a chosen base branch",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T01:34:09Z",
+    "nameWithOwner": "frodare/nvim-git-tree",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-git-tree",
+  "owner": "frodare",
+  "url": "https://github.com/frodare/nvim-git-tree"
+}

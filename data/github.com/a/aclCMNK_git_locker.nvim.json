@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git switch"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-03-28T02:19:02Z",
+    "description": "Neovim plugin to lock edit your project when your branch is master, main or develop",
+    "isArchived": false,
+    "lastCommit": "2026-03-31T15:20:50Z",
+    "nameWithOwner": "aclCMNK/git_locker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git_locker.nvim",
+  "owner": "aclCMNK",
+  "url": "https://github.com/aclCMNK/git_locker.nvim"
+}

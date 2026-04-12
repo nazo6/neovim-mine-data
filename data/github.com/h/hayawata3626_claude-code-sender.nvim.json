@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-30T04:46:44Z",
+    "description": "Send selected code from Neovim to Claude Code with file and line context. Supports tmux and cmux.",
+    "isArchived": false,
+    "lastCommit": "2026-04-04T09:43:18Z",
+    "nameWithOwner": "hayawata3626/claude-code-sender.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "claude-code",
+      "cmux",
+      "code-assistant",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "tmux"
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-code-sender.nvim",
+  "owner": "hayawata3626",
+  "url": "https://github.com/hayawata3626/claude-code-sender.nvim"
+}

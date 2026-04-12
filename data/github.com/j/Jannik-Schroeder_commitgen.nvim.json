@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-03-28T20:50:12Z",
+    "description": "Neovim plugin that generates commit messages using OpenAI, then commits for you.",
+    "isArchived": false,
+    "lastCommit": "2026-03-28T20:53:44Z",
+    "nameWithOwner": "Jannik-Schroeder/commitgen.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commitgen.nvim",
+  "owner": "Jannik-Schroeder",
+  "url": "https://github.com/Jannik-Schroeder/commitgen.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Log"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2026-04-04T07:12:45Z",
+    "description": "LSP output panel for Neovim — tabbed, highlighted, and out of your way",
+    "isArchived": false,
+    "lastCommit": "2026-04-04T08:44:16Z",
+    "nameWithOwner": "abonckus/lsp-output.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lsp-output.nvim",
+  "owner": "abonckus",
+  "url": "https://github.com/abonckus/lsp-output.nvim"
+}

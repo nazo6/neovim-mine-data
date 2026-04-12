@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Task Tracking"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-03-24T22:00:41Z",
+    "description": "Markdown-native task management for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-27T20:39:13Z",
+    "nameWithOwner": "vipul-sharma20/tasks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "obsidian",
+      "vimwiki"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tasks.nvim",
+  "owner": "vipul-sharma20",
+  "url": "https://github.com/vipul-sharma20/tasks.nvim"
+}

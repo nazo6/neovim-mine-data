@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Header"
+        },
+        {
+          "level": 4,
+          "name": "include"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-17T00:54:10Z",
+    "description": "A Neovim plugin to easily create function implementations from their declarations or declarations from their implementations",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T20:22:43Z",
+    "nameWithOwner": "LinkNexus/cpp_header_sync.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "cpp_header_sync.nvim",
+  "owner": "LinkNexus",
+  "url": "https://github.com/LinkNexus/cpp_header_sync.nvim"
+}

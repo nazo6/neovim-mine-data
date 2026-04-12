@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jujutsu(jj)"
+        },
+        {
+          "level": 4,
+          "name": "diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2026-04-02T13:49:35Z",
+    "description": "Neovim plugin for resolving, and visualizing Jujutsu conflicts",
+    "isArchived": false,
+    "lastCommit": "2026-04-04T09:32:17Z",
+    "nameWithOwner": "larpios/jj-conflict.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "jj",
+      "jj-vcs",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jj-conflict.nvim",
+  "owner": "larpios",
+  "url": "https://github.com/larpios/jj-conflict.nvim"
+}

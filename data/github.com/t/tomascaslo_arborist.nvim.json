@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 50,
+    "createdAt": "2026-03-27T06:05:28Z",
+    "description": "Manage multiple Claude Code sessions across git worktrees from inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T19:40:06Z",
+    "nameWithOwner": "tomascaslo/arborist.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "arborist.nvim",
+  "owner": "tomascaslo",
+  "url": "https://github.com/tomascaslo/arborist.nvim"
+}

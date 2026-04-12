@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": ":make style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-04T14:46:49Z",
+    "description": "make-runner.nvim — A Neovim plugin to browse and run Makefile recipes with Telescope or vim.ui.select, supporting multi-recipe chaining with ordered selection.",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T08:34:33Z",
+    "nameWithOwner": "lwsbrdx/make-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "make-runner.nvim",
+  "owner": "lwsbrdx",
+  "url": "https://github.com/lwsbrdx/make-runner.nvim"
+}

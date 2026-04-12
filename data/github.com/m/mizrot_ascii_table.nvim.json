@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown table"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-03-28T13:08:00Z",
+    "description": "Neovim plugin to edit ASCII tables",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T19:09:20Z",
+    "nameWithOwner": "mizrot/ascii_table.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ascii_table.nvim",
+  "owner": "mizrot",
+  "url": "https://github.com/mizrot/ascii_table.nvim"
+}

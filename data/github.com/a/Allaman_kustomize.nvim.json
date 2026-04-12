@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Cloud"
+          "name": "DataDog"
         },
         {
           "level": 4,
@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 37,
+    "commitCountLastYear": 42,
     "createdAt": "2022-11-17T21:07:44Z",
     "description": "A Neovim plugin with some useful functions for working with Kustomize",
     "isArchived": false,
-    "lastCommit": "2025-11-23T15:22:29Z",
+    "lastCommit": "2026-04-08T19:14:07Z",
     "nameWithOwner": "Allaman/kustomize.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 57,
+    "star": 58,
     "topics": [
       "kubernetes",
       "kustomize",

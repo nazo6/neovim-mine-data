@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-24T09:57:43Z",
+    "description": "GDB frontent for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-26T20:30:33Z",
+    "nameWithOwner": "lucilands/gradbg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gradbg.nvim",
+  "owner": "lucilands",
+  "url": "https://github.com/lucilands/gradbg.nvim"
+}

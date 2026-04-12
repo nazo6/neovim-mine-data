@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Style"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-19T23:13:48Z",
+    "description": "Bits of Obsidian, obsidian-things Markdown in nvim",
+    "isArchived": false,
+    "lastCommit": "2026-03-27T22:57:50Z",
+    "nameWithOwner": "lukasschwab/knapping.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "knapping.nvim",
+  "owner": "lukasschwab",
+  "url": "https://github.com/lukasschwab/knapping.nvim"
+}

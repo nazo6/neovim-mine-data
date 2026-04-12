@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-31T15:47:45Z",
+    "description": "Copy the remote repository URL of the current file to clipboard.",
+    "isArchived": false,
+    "lastCommit": "2026-04-01T12:54:06Z",
+    "nameWithOwner": "sh1Nome/yank-git-remote-url.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yank-git-remote-url.nvim",
+  "owner": "sh1Nome",
+  "url": "https://github.com/sh1Nome/yank-git-remote-url.nvim"
+}

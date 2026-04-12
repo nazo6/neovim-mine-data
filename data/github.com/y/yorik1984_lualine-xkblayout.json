@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Statusline"
+        },
+        {
+          "level": 3,
+          "name": "Statusline component"
+        }
+      ],
+      "file": "statusline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2022-05-22T11:28:23Z",
+    "description": "xkblayout lualine component",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T16:00:08Z",
+    "nameWithOwner": "yorik1984/lualine-xkblayout",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "keymap",
+      "lua",
+      "lualine",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "lualine-xkblayout",
+  "owner": "yorik1984",
+  "url": "https://github.com/yorik1984/lualine-xkblayout"
+}

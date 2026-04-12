@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-20T13:59:43Z",
+    "description": "Plugin to show obsidian callout [!question] as flashcards and store the scores",
+    "isArchived": false,
+    "lastCommit": "2026-03-20T17:06:41Z",
+    "nameWithOwner": "theboringhuman/obsidian-flashcards.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "obsidian-flashcards.nvim",
+  "owner": "theboringhuman",
+  "url": "https://github.com/theboringhuman/obsidian-flashcards.nvim"
+}

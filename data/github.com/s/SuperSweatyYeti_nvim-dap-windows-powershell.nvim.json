@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-04-05T21:04:24Z",
+    "description": "Neovim dap adapter support for powershell 5.1",
+    "isArchived": false,
+    "lastCommit": "2026-04-06T01:26:14Z",
+    "nameWithOwner": "SuperSweatyYeti/nvim-dap-windows-powershell.nvim",
+    "primaryLanguage": {
+      "color": "#012456",
+      "name": "PowerShell"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-dap-windows-powershell.nvim",
+  "owner": "SuperSweatyYeti",
+  "url": "https://github.com/SuperSweatyYeti/nvim-dap-windows-powershell.nvim"
+}

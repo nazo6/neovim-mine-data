@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jujutsu(jj)"
+        },
+        {
+          "level": 4,
+          "name": "diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-28T12:49:30Z",
+    "description": "Neovim integration for jj-waltz workspaces",
+    "isArchived": false,
+    "lastCommit": "2026-03-28T13:08:09Z",
+    "nameWithOwner": "EzraCerpac/jj-waltz.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jj-waltz.nvim",
+  "owner": "EzraCerpac",
+  "url": "https://github.com/EzraCerpac/jj-waltz.nvim"
+}

@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "Implement"
+        },
+        {
+          "level": 4,
+          "name": "Clang"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2026-04-04T11:27:35Z",
+    "description": "A NeoVim port of https://github.com/BigBahss/vscode-cmantic",
+    "isArchived": false,
+    "lastCommit": "2026-04-05T10:06:00Z",
+    "nameWithOwner": "troyliu0105/cmantc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cmantc.nvim",
+  "owner": "troyliu0105",
+  "url": "https://github.com/troyliu0105/cmantc.nvim"
+}

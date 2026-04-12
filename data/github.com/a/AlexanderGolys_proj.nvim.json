@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Project"
-        },
-        {
-          "level": 3,
-          "name": "Project Switcher"
-        }
       ],
-      "file": "project.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 14,
     "createdAt": "2026-03-05T08:03:28Z",
     "description": "Better version integrated in codex-cli",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2026-03-09T04:02:05Z",
     "nameWithOwner": "AlexanderGolys/proj.nvim",
     "primaryLanguage": {

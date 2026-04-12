@@ -22,6 +22,7 @@
   "data": {
     "commitCountLastYear": 12,
     "createdAt": "2026-01-28T16:17:35Z",
+    "description": "A Neovim plugin that integrates KiloCode CLI into Neovim, providing a sidebar interface and automatic file change detection.",
     "isArchived": false,
     "lastCommit": "2026-01-29T15:48:28Z",
     "nameWithOwner": "mikaoelitiana/kilo-code.nvim",
@@ -31,6 +32,9 @@
     },
     "star": 2,
     "topics": [
+      "kilo-code",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

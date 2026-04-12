@@ -4,6 +4,20 @@
       "data": [
         {
           "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Utility"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
           "name": "Table of Contents"
         },
         {
@@ -20,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 19,
+    "commitCountLastYear": 20,
     "createdAt": "2026-01-22T09:29:25Z",
     "description": "A Neovim plugin that adds unobtrusive relative line numbers to the sign column.",
     "isArchived": false,
-    "lastCommit": "2026-02-02T17:49:43Z",
+    "lastCommit": "2026-03-27T16:38:30Z",
     "nameWithOwner": "indium114/unobtrusive-relnums.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 10,
+    "star": 11,
     "topics": [
       "neovim",
       "neovim-plugin"
@@ -39,5 +53,5 @@
   "domain": "github.com",
   "name": "unobtrusive-relnums.nvim",
   "owner": "indium114",
-  "url": "https://github.com/stikypiston/unobtrusive-relnums.nvim"
+  "url": "https://github.com/indium114/unobtrusive-relnums.nvim"
 }

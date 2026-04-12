@@ -1,0 +1,66 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "Complexity"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Golang"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 40,
+    "createdAt": "2026-04-04T13:53:06Z",
+    "description": "Complexity analyzer for Golang",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T08:04:07Z",
+    "nameWithOwner": "sjclayton/goplexity.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "go",
+      "golang",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "treesitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "goplexity.nvim",
+  "owner": "sjclayton",
+  "url": "https://github.com/sjclayton/goplexity.nvim"
+}

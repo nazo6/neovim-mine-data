@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Technical interviews"
+        },
+        {
+          "level": 3,
+          "name": "Codewars"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-03T16:18:30Z",
+    "isArchived": false,
+    "lastCommit": "2026-04-04T22:09:34Z",
+    "nameWithOwner": "prosk-sudo/codewars.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codewars.nvim",
+  "owner": "prosk-sudo",
+  "url": "https://github.com/prosk-sudo/codewars.nvim"
+}

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game"
+        },
+        {
+          "level": 3,
+          "name": "Mine Sweeper"
+        }
+      ],
+      "file": "game.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-30T01:57:56Z",
+    "description": "Play the Minesweeper directly inside your Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T02:30:46Z",
+    "nameWithOwner": "Pansther/minesweeper.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "minesweeper",
+      "minesweeper-game",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "minesweeper.nvim",
+  "owner": "Pansther",
+  "url": "https://github.com/Pansther/minesweeper.nvim"
+}

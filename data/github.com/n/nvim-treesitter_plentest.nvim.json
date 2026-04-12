@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Testing"
+        }
+      ],
+      "file": "neovim-lua-development.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-17T08:34:49Z",
+    "description": "Lightweight self-contained busted-style testing harness for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-17T16:34:59Z",
+    "nameWithOwner": "nvim-treesitter/plentest.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "plentest.nvim",
+  "owner": "nvim-treesitter",
+  "url": "https://github.com/nvim-treesitter/plentest.nvim"
+}

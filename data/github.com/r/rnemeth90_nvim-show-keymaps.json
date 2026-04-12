@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "Show assigned"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-07T13:19:26Z",
+    "description": "A Neovim plugin that displays all active keybindings in a centered floating window.",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T13:27:47Z",
+    "nameWithOwner": "rnemeth90/nvim-show-keymaps",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-show-keymaps",
+  "owner": "rnemeth90",
+  "url": "https://github.com/rnemeth90/nvim-show-keymaps"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Pandoc"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-03-17T09:30:10Z",
+    "description": "A pandoc wrapper for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-21T09:39:57Z",
+    "nameWithOwner": "ciocapiat02/pandoc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pandoc.nvim",
+  "owner": "ciocapiat02",
+  "url": "https://github.com/ciocapiat02/pandoc.nvim"
+}

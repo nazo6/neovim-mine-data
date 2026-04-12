@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Code outline"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-03-26T18:35:19Z",
+    "description": "LSP symbol outline sidebar for Neovim, scoped to file, package or workspace. Built on treeasy.nvim with devicons, inline rename, persistent filter and scope cycling.",
+    "isArchived": false,
+    "lastCommit": "2026-03-27T14:57:08Z",
+    "nameWithOwner": "hl037/outlineasy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "outlineasy.nvim",
+  "owner": "hl037",
+  "url": "https://github.com/hl037/outlineasy.nvim"
+}

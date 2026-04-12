@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 177,
+    "commitCountLastYear": 188,
     "createdAt": "2026-02-28T19:43:09Z",
     "description": "Edit database tables like Vim buffers. Staged mutations + live SQL preview, transaction undo, schema browser + ER diagrams + DDL, FK navigation, cross-database federation, data profiling, SQL notebooks, AI SQL via Anthropic/OpenAI/Gemini/Ollama, Parquet/CSV/remote files. PostgreSQL · SQLite · MySQL · DuckDB · MotherDuck",
     "isArchived": false,
-    "lastCommit": "2026-03-14T17:11:54Z",
+    "lastCommit": "2026-04-10T23:51:53Z",
     "nameWithOwner": "joryeugene/dadbod-grip.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 105,
+    "star": 132,
     "topics": [
       "database",
       "lua",

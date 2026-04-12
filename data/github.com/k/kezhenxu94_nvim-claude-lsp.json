@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2026-03-21T15:38:12Z",
+    "description": "neovim plugin for claude code `Ctrl+G` buffers",
+    "isArchived": false,
+    "lastCommit": "2026-03-23T09:59:08Z",
+    "nameWithOwner": "kezhenxu94/nvim-claude-lsp",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 1,
+    "topics": [
+      "claude",
+      "claude-code",
+      "neovim",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-claude-lsp",
+  "owner": "kezhenxu94",
+  "url": "https://github.com/kezhenxu94/nvim-claude-lsp"
+}

@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Gemini"
+        },
+        {
+          "level": 4,
+          "name": "Gemini CLI"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 28,
+    "createdAt": "2026-03-14T20:45:17Z",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T05:09:51Z",
+    "nameWithOwner": "jeantimex/ai-cli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 10,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ai-cli.nvim",
+  "owner": "jeantimex",
+  "url": "https://github.com/jeantimex/gemini-cli.nvim"
+}

@@ -42,13 +42,13 @@
     "createdAt": "2023-03-31T15:38:37Z",
     "description": "Send buffers into early retirement by automatically closing them after x minutes of inactivity.",
     "isArchived": false,
-    "lastCommit": "2026-02-06T13:02:42Z",
+    "lastCommit": "2026-04-06T19:55:46Z",
     "nameWithOwner": "chrisgrieser/nvim-early-retirement",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 248,
+    "star": 250,
     "topics": [
       "buffer-management",
       "neovim-plugin",

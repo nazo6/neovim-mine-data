@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 17,
+    "commitCountLastYear": 18,
     "createdAt": "2026-03-05T06:59:30Z",
     "description": "Pomodoro timer for Neovim written in Lua",
     "isArchived": false,
-    "lastCommit": "2026-03-11T09:32:08Z",
+    "lastCommit": "2026-03-16T17:27:31Z",
     "nameWithOwner": "lambertse/nvim-pomodoro",
     "primaryLanguage": {
       "color": "#000080",
@@ -28,6 +28,7 @@
     },
     "star": 8,
     "topics": [
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

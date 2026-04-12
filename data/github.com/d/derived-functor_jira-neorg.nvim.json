@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Org mode"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 23,
+    "createdAt": "2026-03-16T13:44:20Z",
+    "description": "Simple plugin for fetching JIRA issues to neorg files",
+    "isArchived": false,
+    "lastCommit": "2026-03-25T12:28:48Z",
+    "nameWithOwner": "derived-functor/jira-neorg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "jira",
+      "neorg",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jira-neorg.nvim",
+  "owner": "derived-functor",
+  "url": "https://github.com/derived-functor/jira-neorg.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Comment out"
+        },
+        {
+          "level": 3,
+          "name": "Voice comment"
+        }
+      ],
+      "file": "comment.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-04-04T11:03:12Z",
+    "description": "Voice comments for your code - record, play, explain.",
+    "isArchived": false,
+    "lastCommit": "2026-04-06T18:27:26Z",
+    "nameWithOwner": "NitroVim/voice.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "comments",
+      "neovim",
+      "neovim-plugin",
+      "voice"
+    ]
+  },
+  "domain": "github.com",
+  "name": "voice.nvim",
+  "owner": "NitroVim",
+  "url": "https://github.com/NitroVim/voice.nvim"
+}

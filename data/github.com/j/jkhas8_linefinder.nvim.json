@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Search"
+        },
+        {
+          "level": 3,
+          "name": "Line search"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-04-07T03:39:47Z",
+    "description": "A fast, zero-dependency Neovim plugin for fuzzy searching and jumping to lines in the current buffer",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T03:54:50Z",
+    "nameWithOwner": "jkhas8/linefinder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "linefinder.nvim",
+  "owner": "jkhas8",
+  "url": "https://github.com/jkhas8/linefinder.nvim"
+}

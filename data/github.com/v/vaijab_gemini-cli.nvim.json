@@ -24,17 +24,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 5,
     "createdAt": "2026-01-06T12:37:11Z",
     "description": "Neovim integration for the Gemini CLI. Bridges the editor with Gemini's IDE Mode via a lightweight MCP server",
     "isArchived": false,
-    "lastCommit": "2026-01-09T15:34:43Z",
+    "lastCommit": "2026-04-09T07:18:40Z",
     "nameWithOwner": "vaijab/gemini-cli.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 8,
     "topics": [
       "ai",
       "gemini",

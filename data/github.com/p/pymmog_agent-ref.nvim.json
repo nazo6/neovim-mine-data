@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Copy File Context"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-27T08:56:52Z",
+    "description": "Neovim plugin to yank file:line refs from visual selections",
+    "isArchived": false,
+    "lastCommit": "2026-03-27T08:59:17Z",
+    "nameWithOwner": "pymmog/agent-ref.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "agent-ref.nvim",
+  "owner": "pymmog",
+  "url": "https://github.com/pymmog/agent-ref.nvim"
+}

@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git log"
+        },
+        {
+          "level": 4,
+          "name": "preview contents"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 47,
+    "createdAt": "2026-04-06T11:34:39Z",
+    "description": "The Wayback Machine for your files",
+    "isArchived": false,
+    "lastCommit": "2026-04-07T17:20:00Z",
+    "nameWithOwner": "piersolenski/wayback.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "git",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wayback.nvim",
+  "owner": "piersolenski",
+  "url": "https://github.com/piersolenski/wayback.nvim"
+}

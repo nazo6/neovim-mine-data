@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "layout"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-08T02:01:39Z",
+    "description": "Neovim plugin: splits long files into two vertical panes like a newspaper column — one buffer, one cursor, seamless j/k crossing",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T18:17:16Z",
+    "nameWithOwner": "ishanvarade/scrollflow.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "scrollflow.nvim",
+  "owner": "ishanvarade",
+  "url": "https://github.com/ishanvarade/scrollflow.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "WSL"
+        },
+        {
+          "level": 4,
+          "name": "XVR"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-24T12:59:53Z",
+    "description": "syntax highlighting for xvr on neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-24T20:04:45Z",
+    "nameWithOwner": "xvrlang/xvr.nvim",
+    "primaryLanguage": {
+      "color": "#555555",
+      "name": "C"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "xvr.nvim",
+  "owner": "xvrlang",
+  "url": "https://github.com/xvrlang/xvr.nvim"
+}

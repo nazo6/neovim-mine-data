@@ -30,17 +30,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1010,
+    "commitCountLastYear": 1032,
     "createdAt": "2023-12-27T17:32:51Z",
     "description": "✨ AI Coding, Vim Style",
     "isArchived": false,
-    "lastCommit": "2026-03-10T08:21:20Z",
+    "lastCommit": "2026-04-11T12:03:14Z",
     "nameWithOwner": "olimorris/codecompanion.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6295,
+    "star": 6439,
     "topics": [
       "neovim",
       "openai",
@@ -48,10 +48,10 @@
       "ollama",
       "plugin",
       "copilot",
-      "copilot-chat",
       "gemini",
       "google-gemini",
-      "llm"
+      "llm",
+      "nvim"
     ]
   },
   "domain": "github.com",

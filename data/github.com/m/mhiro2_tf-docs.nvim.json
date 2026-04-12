@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Cloud"
+          "name": "DataDog"
         },
         {
           "level": 4,
@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 30,
     "createdAt": "2026-01-03T00:49:07Z",
     "description": "Neovim plugin to resolve and open Terraform Registry docs under cursor.",
     "isArchived": false,
-    "lastCommit": "2026-03-03T06:10:54Z",
+    "lastCommit": "2026-03-30T23:09:55Z",
     "nameWithOwner": "mhiro2/tf-docs.nvim",
     "primaryLanguage": {
       "color": "#000080",

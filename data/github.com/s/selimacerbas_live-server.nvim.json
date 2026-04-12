@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 16,
+    "commitCountLastYear": 18,
     "createdAt": "2025-10-11T10:15:16Z",
     "description": "A tiny, zero-dependency local web server for Neovim — written in pure Lua with `vim.loop`. Start a server on any file or folder, auto-reload the browser on save, and quickly reopen existing ports.",
     "isArchived": false,
-    "lastCommit": "2026-03-13T01:41:29Z",
+    "lastCommit": "2026-03-22T08:50:08Z",
     "nameWithOwner": "selimacerbas/live-server.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 15,
+    "star": 16,
     "topics": [
       "http-server",
       "live-server",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "EPUB"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-03-31T00:52:18Z",
+    "description": "Epub reader for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-05T15:12:30Z",
+    "nameWithOwner": "Sang-it/reader.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 34,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "reader.nvim",
+  "owner": "Sang-it",
+  "url": "https://github.com/Sang-it/reader.nvim"
+}

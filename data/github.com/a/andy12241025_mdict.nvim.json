@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Dictionary"
+        }
+      ],
+      "file": "dictionary.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-25T08:43:59Z",
+    "description": "Neovim plugin for offline MDict (.mdx) dictionary lookup",
+    "isArchived": false,
+    "lastCommit": "2026-03-26T02:02:58Z",
+    "nameWithOwner": "andy12241025/mdict.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mdict.nvim",
+  "owner": "andy12241025",
+  "url": "https://github.com/andy12241025/mdict.nvim"
+}

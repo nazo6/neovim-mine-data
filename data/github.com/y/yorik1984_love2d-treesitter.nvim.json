@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Love2D"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2026-03-14T18:56:52Z",
+    "description": "Enhanced LÖVE syntax highlighting using Treesitter for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T15:57:42Z",
+    "nameWithOwner": "yorik1984/love2d-treesitter.nvim",
+    "primaryLanguage": {
+      "color": "#8ea64c",
+      "name": "Tree-sitter Query"
+    },
+    "star": 1,
+    "topics": [
+      "love2d",
+      "neovim",
+      "neovim-plugin",
+      "treesitter",
+      "newpaper",
+      "tree-sitter",
+      "lua",
+      "game-development",
+      "highlighting",
+      "theme"
+    ]
+  },
+  "domain": "github.com",
+  "name": "love2d-treesitter.nvim",
+  "owner": "yorik1984",
+  "url": "https://github.com/yorik1984/love2d-treesitter.nvim"
+}

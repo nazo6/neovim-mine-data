@@ -1,0 +1,66 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "HTML"
+        },
+        {
+          "level": 3,
+          "name": "live server"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Web Development"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-20T05:05:50Z",
+    "description": "Live-server integration for Neovim with smart commands and a clickable lualine toggle.",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T08:13:13Z",
+    "nameWithOwner": "ankushbhagats/liveserver.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 11,
+    "topics": [
+      "liveserver",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "web-development",
+      "website-development"
+    ]
+  },
+  "domain": "github.com",
+  "name": "liveserver.nvim",
+  "owner": "ankushbhagats",
+  "url": "https://github.com/ankushbhagats/liveserver.nvim"
+}

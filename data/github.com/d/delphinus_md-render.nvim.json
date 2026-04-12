@@ -28,10 +28,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 165,
     "createdAt": "2026-03-13T09:59:00Z",
+    "description": "A Markdown rendering engine for Neovim — rich formatting, tables, images, video, Mermaid diagrams, and CJK-aware wrapping in floating windows",
     "isArchived": false,
-    "lastCommit": "2026-03-14T00:26:51Z",
+    "lastCommit": "2026-04-10T15:36:58Z",
     "nameWithOwner": "delphinus/md-render.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -39,6 +40,12 @@
     },
     "star": 1,
     "topics": [
+      "floating-window",
+      "lua",
+      "markdown",
+      "markdown-renderer",
+      "neovim",
+      "neovim-plugin"
     ]
   },
   "domain": "github.com",

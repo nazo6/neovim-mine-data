@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Linux"
+        },
+        {
+          "level": 4,
+          "name": "Nix"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-30T00:20:25Z",
+    "description": "A neovim plugin with a clean popup menu to edit and add templated flakes to projects. Makes project startup or exploring that much easier on nix.",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T12:08:32Z",
+    "nameWithOwner": "Braniacsl/flake-templates.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "flake-templates.nvim",
+  "owner": "Braniacsl",
+  "url": "https://github.com/Braniacsl/flake-templates.nvim"
+}

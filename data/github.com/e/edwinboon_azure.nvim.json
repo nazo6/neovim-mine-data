@@ -12,7 +12,7 @@
         },
         {
           "level": 3,
-          "name": "Cloud"
+          "name": "DataDog"
         },
         {
           "level": 4,
@@ -24,11 +24,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 28,
+    "commitCountLastYear": 29,
     "createdAt": "2025-04-22T07:05:47Z",
-    "description": "Plugin that allows you to fetch app settings from your Azure function apps",
+    "description": "Plugin that allows you to fetch or push app settings from your Azure function apps",
     "isArchived": false,
-    "lastCommit": "2026-03-11T07:44:54Z",
+    "lastCommit": "2026-03-23T12:37:15Z",
     "nameWithOwner": "edwinboon/azure.nvim",
     "primaryLanguage": {
       "color": "#000080",

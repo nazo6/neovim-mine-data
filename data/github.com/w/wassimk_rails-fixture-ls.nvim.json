@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Ruby"
+        },
+        {
+          "level": 3,
+          "name": "LSP"
+        }
+      ],
+      "file": "ruby.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-03-14T20:52:54Z",
+    "description": "In-process Neovim LSP server for Rails test fixture completion, hover, and go-to-definition",
+    "isArchived": false,
+    "lastCommit": "2026-03-15T21:47:54Z",
+    "nameWithOwner": "wassimk/rails-fixture-ls.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rails-fixture-ls.nvim",
+  "owner": "wassimk",
+  "url": "https://github.com/wassimk/rails-fixture-ls.nvim"
+}

@@ -1,0 +1,54 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Hardware"
+        },
+        {
+          "level": 3,
+          "name": "Keyboard"
+        },
+        {
+          "level": 4,
+          "name": "IPA Keyboard"
+        }
+      ],
+      "file": "hardware.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-22T11:30:09Z",
+    "description": "An X-SAMPA ↔ IPA converter for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T19:15:32Z",
+    "nameWithOwner": "moltinginstar/xsampa.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "conlanging",
+      "ipa",
+      "linguistics",
+      "neovim",
+      "nvim",
+      "vim",
+      "xsampa",
+      "phonetics",
+      "phonology"
+    ]
+  },
+  "domain": "github.com",
+  "name": "xsampa.nvim",
+  "owner": "moltinginstar",
+  "url": "https://github.com/moltinginstar/xsampa.nvim"
+}

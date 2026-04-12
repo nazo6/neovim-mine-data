@@ -2,16 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Keymap"
-        }
       ],
-      "file": "mapping.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     },
     {
@@ -30,17 +22,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 4,
     "createdAt": "2022-12-27T15:11:04Z",
     "description": "LUA port of tpope's famous vim-unimpaired plugin",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2026-03-15T07:27:23Z",
     "nameWithOwner": "tummetott/unimpaired.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 99,
+    "star": 100,
     "topics": [
       "neovim-plugin",
       "nvim",

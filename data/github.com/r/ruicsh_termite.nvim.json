@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2026-03-19T23:21:55Z",
+    "description": "Stacking float terminal manager for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T07:44:46Z",
+    "nameWithOwner": "ruicsh/termite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 41,
+    "topics": [
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "termite.nvim",
+  "owner": "ruicsh",
+  "url": "https://github.com/ruicsh/termite.nvim"
+}

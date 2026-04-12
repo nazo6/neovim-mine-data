@@ -2,23 +2,15 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 2,
-          "name": "Statusline"
-        }
       ],
-      "file": "statusline.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
   "data": {
     "commitCountLastYear": 8,
     "createdAt": "2025-07-06T21:10:03Z",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2025-07-06T22:29:37Z",
     "nameWithOwner": "olisikh/avante-lualine.nvim",
     "primaryLanguage": {

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "Tree View"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-26T17:22:04Z",
+    "description": "A file tree plugin for Neovim built on treeasy.nvim. Features lazy directory loading, filesystem watching, git status indicators, multi-root support with auto-discovery, buffer sync, and a floating fs operations menu — with a plugin system that lets you extend label rendering and hook into tree lifecycle events.",
+    "isArchived": false,
+    "lastCommit": "2026-03-27T14:55:56Z",
+    "nameWithOwner": "hl037/filetreeasy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "filetreeasy.nvim",
+  "owner": "hl037",
+  "url": "https://github.com/hl037/filetreeasy.nvim"
+}

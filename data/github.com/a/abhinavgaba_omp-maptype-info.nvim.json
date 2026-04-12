@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        },
+        {
+          "level": 3,
+          "name": "OpenMP"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-03-27T20:54:24Z",
+    "description": "Neovim plugin for decoding OpenMP target offload map-type bitmasks from LLVM IR",
+    "isArchived": false,
+    "lastCommit": "2026-03-27T23:25:36Z",
+    "nameWithOwner": "abhinavgaba/omp-maptype-info.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "omp-maptype-info.nvim",
+  "owner": "abhinavgaba",
+  "url": "https://github.com/abhinavgaba/omp-maptype-info.nvim"
+}

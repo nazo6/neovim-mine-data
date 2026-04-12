@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Keymap"
+        },
+        {
+          "level": 3,
+          "name": "map function utiliy"
+        }
+      ],
+      "file": "mapping.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-03-21T22:26:17Z",
+    "description": "Nvim library for clean keymap tables",
+    "isArchived": false,
+    "lastCommit": "2026-04-05T18:52:32Z",
+    "nameWithOwner": "Picalines/mappet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "declarative",
+      "keymap",
+      "neovim",
+      "neovim-lua-library"
+    ]
+  },
+  "domain": "github.com",
+  "name": "mappet.nvim",
+  "owner": "Picalines",
+  "url": "https://github.com/Picalines/mappet.nvim"
+}

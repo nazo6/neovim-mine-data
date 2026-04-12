@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Mail"
+        }
+      ],
+      "file": "office-tools.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-03-23T16:31:00Z",
+    "description": "Neovim plugin to browse captured RustMail emails without leaving the editor",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T21:07:07Z",
+    "nameWithOwner": "rustmailapp/rustmail.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "smtp"
+    ]
+  },
+  "domain": "github.com",
+  "name": "rustmail.nvim",
+  "owner": "rustmailapp",
+  "url": "https://github.com/rustmailapp/rustmail.nvim"
+}

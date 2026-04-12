@@ -1,0 +1,53 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2026-04-09T11:25:14Z",
+    "description": "Telescope-powered script runner plugin for Neovim 0.10+",
+    "isArchived": false,
+    "lastCommit": "2026-04-10T17:22:16Z",
+    "nameWithOwner": "sektant1/executioner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "picker",
+      "runner",
+      "script",
+      "telescope",
+      "telescope-extension"
+    ]
+  },
+  "domain": "github.com",
+  "name": "executioner.nvim",
+  "owner": "sektant1",
+  "url": "https://github.com/sektant1/executioner.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "OpenCode"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 27,
+    "createdAt": "2026-03-24T21:33:03Z",
+    "description": "A Neovim plugin that integrates OpenCode through a tmux pane, letting you send code and prompts directly from your editor, without using Neovim's terminal.",
+    "isArchived": false,
+    "lastCommit": "2026-03-30T11:36:14Z",
+    "nameWithOwner": "simonwinther/opencode-tmux.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "lua",
+      "neovim",
+      "opencode",
+      "tmux"
+    ]
+  },
+  "domain": "github.com",
+  "name": "opencode-tmux.nvim",
+  "owner": "simonwinther",
+  "url": "https://github.com/simonwinther/opencode-tmux.nvim"
+}

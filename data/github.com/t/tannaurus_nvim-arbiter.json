@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 38,
+    "createdAt": "2026-03-15T20:45:37Z",
+    "description": "Review workbench for Neovim. PR-style diffs, line-anchored threads, and a structured feedback loop with AI coding agents. Works with Cursor CLI and Claude Code CLI.",
+    "isArchived": false,
+    "lastCommit": "2026-03-28T18:19:09Z",
+    "nameWithOwner": "tannaurus/nvim-arbiter",
+    "primaryLanguage": {
+      "color": "#dea584",
+      "name": "Rust"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "claude",
+      "cursor",
+      "neovim",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-arbiter",
+  "owner": "tannaurus",
+  "url": "https://github.com/tannaurus/nvim-arbiter"
+}

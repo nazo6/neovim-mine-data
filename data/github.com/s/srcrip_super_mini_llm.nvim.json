@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Multi LLM"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-18T21:58:21Z",
+    "description": "Picture this: a super minimal LLM tool for Neovim. Two commands. Infinite power. 🥷",
+    "isArchived": false,
+    "lastCommit": "2026-03-19T21:11:27Z",
+    "nameWithOwner": "srcrip/super_mini_llm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "super_mini_llm.nvim",
+  "owner": "srcrip",
+  "url": "https://github.com/srcrip/super_mini_llm.nvim"
+}

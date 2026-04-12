@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "ToDo"
+        },
+        {
+          "level": 4,
+          "name": "Taskwarrior"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-03-22T22:15:10Z",
+    "description": "Edit Taskwarrior tasks as markdown in Neovim. Inspired by oil.nvim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-22T22:36:19Z",
+    "nameWithOwner": "MattHandzel/task.nvim",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "task.nvim",
+  "owner": "MattHandzel",
+  "url": "https://github.com/MattHandzel/task.nvim"
+}

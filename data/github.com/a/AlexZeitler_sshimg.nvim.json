@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Paste"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-03-15T22:28:55Z",
+    "description": "Paste images from your local clipboard into remote Neovim over SSH",
+    "isArchived": false,
+    "lastCommit": "2026-03-15T22:55:03Z",
+    "nameWithOwner": "AlexZeitler/sshimg.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "omarchy",
+      "ssh"
+    ]
+  },
+  "domain": "github.com",
+  "name": "sshimg.nvim",
+  "owner": "AlexZeitler",
+  "url": "https://github.com/AlexZeitler/sshimg.nvim"
+}

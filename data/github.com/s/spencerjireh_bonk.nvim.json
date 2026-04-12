@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Completion"
+        },
+        {
+          "level": 3,
+          "name": "Claude"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-03-22T06:04:27Z",
+    "description": "AI code completions for Neovim powered by Claude. Ghost text streaming, context-aware completion.",
+    "isArchived": false,
+    "lastCommit": "2026-04-05T16:57:38Z",
+    "nameWithOwner": "spencerjireh/bonk.nvim",
+    "primaryLanguage": {
+      "color": "#3178c6",
+      "name": "TypeScript"
+    },
+    "star": 1,
+    "topics": [
+      "ai-code-completion",
+      "claude",
+      "claude-agent-sdk",
+      "code-completion",
+      "copilot-alternative",
+      "ghost-text",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "typescript"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bonk.nvim",
+  "owner": "spencerjireh",
+  "url": "https://github.com/spencerjireh/bonk.nvim"
+}

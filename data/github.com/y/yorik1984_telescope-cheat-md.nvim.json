@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Help"
+        },
+        {
+          "level": 3,
+          "name": "CheatSheet"
+        }
+      ],
+      "file": "help.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2022-04-07T21:42:40Z",
+    "description": "telescope-cheat-md.nvim for markdown-based sources",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T15:59:35Z",
+    "nameWithOwner": "yorik1984/telescope-cheat-md.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim-plugin",
+      "plugin",
+      "telescope",
+      "telescope-extension",
+      "telescope-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "telescope-cheat-md.nvim",
+  "owner": "yorik1984",
+  "url": "https://github.com/yorik1984/telescope-cheat-md.nvim"
+}

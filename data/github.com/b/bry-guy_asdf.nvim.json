@@ -2,20 +2,8 @@
   "category": [
     {
       "data": [
-        {
-          "level": 1,
-          "name": "Table of Contents"
-        },
-        {
-          "level": 3,
-          "name": "CLI"
-        },
-        {
-          "level": 4,
-          "name": "asdf"
-        }
       ],
-      "file": "cli.md",
+      "file": "Archived.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
     }
   ],
@@ -23,7 +11,7 @@
     "commitCountLastYear": 0,
     "createdAt": "2024-03-10T09:00:08Z",
     "description": "Use asdf in Neovim.",
-    "isArchived": false,
+    "isArchived": true,
     "lastCommit": "2024-03-13T08:00:47Z",
     "nameWithOwner": "bry-guy/asdf.nvim",
     "primaryLanguage": {

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Rust"
+        }
+      ],
+      "file": "rust.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-03-21T10:26:57Z",
+    "description": "Fuzzy find official rust docs and browse the results in a neovim buffer",
+    "isArchived": false,
+    "lastCommit": "2026-04-06T09:36:33Z",
+    "nameWithOwner": "jugarpeupv/rust-docs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rust-docs.nvim",
+  "owner": "jugarpeupv",
+  "url": "https://github.com/jugarpeupv/rust-docs.nvim"
+}

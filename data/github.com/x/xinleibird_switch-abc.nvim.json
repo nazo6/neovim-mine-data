@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "OS"
+        },
+        {
+          "level": 3,
+          "name": "Mac"
+        },
+        {
+          "level": 4,
+          "name": "input source"
+        }
+      ],
+      "file": "os.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-18T16:45:34Z",
+    "description": "A simple Neovim plugin that automatically switches to the English input method",
+    "isArchived": false,
+    "lastCommit": "2026-03-23T10:35:48Z",
+    "nameWithOwner": "xinleibird/switch-abc.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "switch-abc.nvim",
+  "owner": "xinleibird",
+  "url": "https://github.com/xinleibird/switch-abc.nvim"
+}

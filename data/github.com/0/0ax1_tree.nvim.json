@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        },
+        {
+          "level": 3,
+          "name": "Tree View"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-04-07T23:55:54Z",
+    "description": "Minimal Neovim file explorer in ~800 lines of Lua",
+    "isArchived": false,
+    "lastCommit": "2026-04-08T08:06:08Z",
+    "nameWithOwner": "0ax1/tree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tree.nvim",
+  "owner": "0ax1",
+  "url": "https://github.com/0ax1/tree.nvim"
+}

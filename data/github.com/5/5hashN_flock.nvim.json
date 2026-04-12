@@ -18,6 +18,7 @@
   "data": {
     "commitCountLastYear": 2,
     "createdAt": "2026-02-21T07:28:45Z",
+    "description": "A Boids flocking simulator that runs directly inside your Neovim buffers using virtual text.",
     "isArchived": false,
     "lastCommit": "2026-02-21T15:05:23Z",
     "nameWithOwner": "5hashN/flock.nvim",
@@ -27,6 +28,9 @@
     },
     "star": 1,
     "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin"
     ]
   },
   "domain": "github.com",

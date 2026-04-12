@@ -24,9 +24,9 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 12,
+    "commitCountLastYear": 10,
     "createdAt": "2025-03-20T14:46:43Z",
-    "description": "A Neovim plugin for formatting Maud HTML templates in Rust.",
+    "description": "Neovim formatter for Maud templates in Rust files.",
     "isArchived": false,
     "lastCommit": "2026-01-06T20:24:24Z",
     "nameWithOwner": "eboody/maud-fmt.nvim",
@@ -34,7 +34,7 @@
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 7,
+    "star": 8,
     "topics": [
     ]
   },

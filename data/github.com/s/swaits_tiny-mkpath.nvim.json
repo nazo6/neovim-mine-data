@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Save"
+        },
+        {
+          "level": 3,
+          "name": "Create directory"
+        }
+      ],
+      "file": "save_backup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-09T23:25:59Z",
+    "description": "Auto-create parent dirs on save",
+    "isArchived": false,
+    "lastCommit": "2026-04-09T23:30:26Z",
+    "nameWithOwner": "swaits/tiny-mkpath.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tiny-mkpath.nvim",
+  "owner": "swaits",
+  "url": "https://github.com/swaits/tiny-mkpath.nvim"
+}

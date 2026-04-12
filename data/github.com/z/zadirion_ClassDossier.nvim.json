@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Type Hierarchy"
+        }
+      ],
+      "file": "code-outline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-03-23T13:16:32Z",
+    "description": "ClassDossier gives you a quick, navigable overview of a class or symbol and how it fits into the codebase. It helps you understand usage, relationships, and call hotspots at a glance, which is especially useful in large codebases.",
+    "isArchived": false,
+    "lastCommit": "2026-03-23T13:39:53Z",
+    "nameWithOwner": "zadirion/ClassDossier.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ClassDossier.nvim",
+  "owner": "zadirion",
+  "url": "https://github.com/zadirion/ClassDossier.nvim"
+}

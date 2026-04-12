@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Viewer"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 17,
+    "createdAt": "2026-03-25T09:56:46Z",
+    "description": "A low resolution renderer for models and images within neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-03-29T09:26:06Z",
+    "nameWithOwner": "SalarAlo/rndr.nvim",
+    "primaryLanguage": {
+      "color": "#f34b7d",
+      "name": "C++"
+    },
+    "star": 19,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rndr.nvim",
+  "owner": "SalarAlo",
+  "url": "https://github.com/SalarAlo/rndr.nvim"
+}

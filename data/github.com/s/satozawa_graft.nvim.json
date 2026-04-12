@@ -1,0 +1,67 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown list"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Programming Languages Support"
+        },
+        {
+          "level": 3,
+          "name": "Markdown and LaTeX"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-03-23T04:52:12Z",
+    "description": "Tree-aware text objects and operators for Markdown bullet lists in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-06T00:21:40Z",
+    "nameWithOwner": "satozawa/graft.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "outliner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "graft.nvim",
+  "owner": "satozawa",
+  "url": "https://github.com/satozawa/graft.nvim"
+}
