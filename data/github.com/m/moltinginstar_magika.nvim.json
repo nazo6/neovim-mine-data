@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "ftdetect(Filetype detector)"
+        }
+      ],
+      "file": "filetype.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-10T21:06:46Z",
+    "description": "Magika-powered filetype detection for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T19:17:45Z",
+    "nameWithOwner": "moltinginstar/magika.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "autodetect",
+      "filetype",
+      "ftplugin",
+      "magika",
+      "neovim",
+      "nvim",
+      "vim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "magika.nvim",
+  "owner": "moltinginstar",
+  "url": "https://github.com/moltinginstar/magika.nvim"
+}

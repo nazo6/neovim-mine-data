@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "C/C++"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 49,
+    "createdAt": "2026-04-17T22:02:39Z",
+    "description": "Neovim popup UI for cppman, with searchable C++ reference docs and in-buffer navigation",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T09:50:00Z",
+    "nameWithOwner": "simonwinther/cppman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "cplusplus",
+      "cpp",
+      "cppman",
+      "cppreference",
+      "documentation",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "popup"
+    ]
+  },
+  "domain": "github.com",
+  "name": "cppman.nvim",
+  "owner": "simonwinther",
+  "url": "https://github.com/simonwinther/cppman.nvim"
+}

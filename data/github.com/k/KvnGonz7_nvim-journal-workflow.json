@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-12T18:54:29Z",
+    "description": "Personal journal through nvim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T18:51:13Z",
+    "nameWithOwner": "KvnGonz7/nvim-journal-workflow",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-journal-workflow",
+  "owner": "KvnGonz7",
+  "url": "https://github.com/KvnGonz7/nvim-journal-workflow"
+}

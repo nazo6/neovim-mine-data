@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Python"
+        },
+        {
+          "level": 3,
+          "name": "Docstring"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-04-11T17:17:42Z",
+    "description": "Author and edit Python docstring examples as real doctest transcripts without leaving Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T18:46:26Z",
+    "nameWithOwner": "svm-zhang/doxi.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "developer-tools",
+      "docstring",
+      "doctest",
+      "neovim-plugin",
+      "productivity",
+      "python-tooling"
+    ]
+  },
+  "domain": "github.com",
+  "name": "doxi.nvim",
+  "owner": "svm-zhang",
+  "url": "https://github.com/svm-zhang/doxi.nvim"
+}

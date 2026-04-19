@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "IME"
+        },
+        {
+          "level": 4,
+          "name": "migemo"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-13T18:11:16Z",
+    "description": "Pure-Lua Migemo-search for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T14:55:54Z",
+    "nameWithOwner": "noatdk/kensaku.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kensaku.nvim",
+  "owner": "noatdk",
+  "url": "https://github.com/noatdk/kensaku.nvim"
+}

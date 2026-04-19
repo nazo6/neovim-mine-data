@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Diagnostics"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-04-17T07:28:59Z",
+    "description": "A Neovim plugin that explains LSP diagnostics from linters — *Why is bad?*",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T14:26:21Z",
+    "nameWithOwner": "takeshiD/whyis.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 5,
+    "topics": [
+      "hover",
+      "linter",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "whyis.nvim",
+  "owner": "takeshiD",
+  "url": "https://github.com/takeshiD/whyis.nvim"
+}

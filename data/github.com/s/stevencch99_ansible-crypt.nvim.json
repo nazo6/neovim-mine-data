@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "DataDog"
+        },
+        {
+          "level": 4,
+          "name": "Ansible"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-11T15:32:44Z",
+    "description": "Neovim plugin for seamlessly editing Ansible Vault encrypted files. Auto-decrypts on open, re-encrypts on save, with automatic vault password discovery and multi vault-id support.",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T02:17:09Z",
+    "nameWithOwner": "stevencch99/ansible-crypt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ansible-crypt.nvim",
+  "owner": "stevencch99",
+  "url": "https://github.com/stevencch99/ansible-crypt.nvim"
+}

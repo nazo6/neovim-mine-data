@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown header"
+        },
+        {
+          "level": 5,
+          "name": "Title explorer"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-13T18:27:56Z",
+    "description": "Cached heading picker for snacks.nvim (markdown and LaTeX)",
+    "isArchived": false,
+    "lastCommit": "2026-04-13T18:27:27Z",
+    "nameWithOwner": "Chiarandini/snacks-cached-headings.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin",
+      "latex",
+      "lua",
+      "markdown",
+      "picker",
+      "snacks-nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-cached-headings.nvim",
+  "owner": "Chiarandini",
+  "url": "https://github.com/Chiarandini/snacks-cached-headings.nvim"
+}

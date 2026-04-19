@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Training"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 79,
+    "createdAt": "2026-04-13T13:21:32Z",
+    "description": "Neovim plugin for Lexy. Check documentation from the website \"Learn X in Y minutes\" right from Neovim!",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T10:30:40Z",
+    "nameWithOwner": "antoniorodr/lexy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lexy.nvim",
+  "owner": "antoniorodr",
+  "url": "https://github.com/antoniorodr/lexy.nvim"
+}

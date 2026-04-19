@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 25,
+    "createdAt": "2026-04-12T15:22:35Z",
+    "description": "Neovim plugin for gtr (git worktree runner). Manage git worktrees from Neovim with a picker UI, commands, and statusline integration.",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T15:40:35Z",
+    "nameWithOwner": "malkoG/gtr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gtr.nvim",
+  "owner": "malkoG",
+  "url": "https://github.com/malkoG/gtr.nvim"
+}

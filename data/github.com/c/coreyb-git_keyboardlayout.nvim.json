@@ -26,7 +26,7 @@
   "data": {
     "commitCountLastYear": 16,
     "createdAt": "2025-05-26T18:10:42Z",
-    "description": "Opens a window showing the Dvorak layout.",
+    "description": "Changes the INSERT mode layout.",
     "isArchived": false,
     "lastCommit": "2025-05-29T17:52:21Z",
     "nameWithOwner": "coreyb-git/keyboardlayout.nvim",
@@ -36,6 +36,8 @@
     },
     "star": 1,
     "topics": [
+      "keyboard-layout",
+      "neovim"
     ]
   },
   "domain": "github.com",

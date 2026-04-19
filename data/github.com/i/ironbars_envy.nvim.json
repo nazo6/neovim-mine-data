@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-04-10T16:15:28Z",
+    "description": "NV style plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T20:01:43Z",
+    "nameWithOwner": "ironbars/envy.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "envy.nvim",
+  "owner": "ironbars",
+  "url": "https://github.com/ironbars/envy.nvim"
+}

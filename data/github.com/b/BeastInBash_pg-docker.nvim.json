@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Container"
+        },
+        {
+          "level": 5,
+          "name": "Docker"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-13T20:33:05Z",
+    "description": "nvim plugin to spin up docker container for postgress in interactive manner",
+    "isArchived": false,
+    "lastCommit": "2026-04-14T15:37:58Z",
+    "nameWithOwner": "BeastInBash/pg-docker.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "pg-docker.nvim",
+  "owner": "BeastInBash",
+  "url": "https://github.com/BeastInBash/pg-docker.nvim"
+}

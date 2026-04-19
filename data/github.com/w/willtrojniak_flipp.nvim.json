@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "C/C++"
+          "name": "Arduino"
         },
         {
           "level": 3,
@@ -20,7 +20,7 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 31,
+    "commitCountLastYear": 30,
     "createdAt": "2025-04-11T21:04:26Z",
     "description": "A NeoVim plugin for generating C++ definitions from their declarations",
     "isArchived": false,

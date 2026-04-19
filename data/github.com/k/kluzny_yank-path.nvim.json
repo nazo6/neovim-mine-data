@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Path"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-13T14:18:55Z",
+    "description": "A small neovim plugin to yank file paths",
+    "isArchived": false,
+    "lastCommit": "2026-04-13T14:57:04Z",
+    "nameWithOwner": "kluzny/yank-path.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yank-path.nvim",
+  "owner": "kluzny",
+  "url": "https://github.com/kluzny/yank-path.nvim"
+}

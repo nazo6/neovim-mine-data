@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-04-11T01:19:36Z",
+    "description": "A simple task runner for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-15T18:24:44Z",
+    "nameWithOwner": "taleroangel/dalton.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim",
+      "task-runner"
+    ]
+  },
+  "domain": "github.com",
+  "name": "dalton.nvim",
+  "owner": "taleroangel",
+  "url": "https://github.com/taleroangel/dalton.nvim"
+}

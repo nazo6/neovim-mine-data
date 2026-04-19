@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Core dump"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 15,
+    "createdAt": "2026-04-11T07:31:48Z",
+    "description": "Debug corefile in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-15T12:50:44Z",
+    "nameWithOwner": "Kurama622/corefile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "corefile.nvim",
+  "owner": "Kurama622",
+  "url": "https://github.com/Kurama622/corefile.nvim"
+}

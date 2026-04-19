@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "WSL"
+        },
+        {
+          "level": 4,
+          "name": "IC10"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-04-10T00:02:52Z",
+    "description": "A dedicated Neovim plugin for Stationeers IC10 (Integrated Circuit) language support.",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T02:41:08Z",
+    "nameWithOwner": "Pesterenan/ic10.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ic10.nvim",
+  "owner": "Pesterenan",
+  "url": "https://github.com/Pesterenan/ic10.nvim"
+}

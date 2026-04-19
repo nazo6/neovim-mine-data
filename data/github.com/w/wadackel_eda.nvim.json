@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Filer"
+        }
+      ],
+      "file": "filer.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-04-12T13:47:27Z",
+    "description": "🌿 Explore as a tree, edit as a buffer — a file explorer for Neovim that combines hierarchical navigation with buffer-native file operations.",
+    "isArchived": false,
+    "lastCommit": "2026-04-19T07:14:39Z",
+    "nameWithOwner": "wadackel/eda.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "filer",
+      "neovim",
+      "neovim-plugin",
+      "file-explorer",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "eda.nvim",
+  "owner": "wadackel",
+  "url": "https://github.com/wadackel/eda.nvim"
+}

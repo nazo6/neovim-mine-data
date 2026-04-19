@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 49,
+    "createdAt": "2026-04-11T05:19:58Z",
+    "description": "Plugin for calling tuicr from within neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T05:35:58Z",
+    "nameWithOwner": "xendarboh/tuicr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tuicr.nvim",
+  "owner": "xendarboh",
+  "url": "https://github.com/xendarboh/tuicr.nvim"
+}

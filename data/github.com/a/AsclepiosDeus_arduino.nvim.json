@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Arduino"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-04-16T08:45:51Z",
+    "description": "Minimalist & Persistent Arduino development environment for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-19T09:12:10Z",
+    "nameWithOwner": "AsclepiosDeus/arduino.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "arduino.nvim",
+  "owner": "AsclepiosDeus",
+  "url": "https://github.com/AsclepiosDeus/arduino.nvim"
+}

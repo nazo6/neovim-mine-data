@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Alarm"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 16,
+    "createdAt": "2026-04-15T07:31:59Z",
+    "description": "A simple timer that call a window to popup on window if the given time has been reached",
+    "isArchived": false,
+    "lastCommit": "2026-04-16T07:58:23Z",
+    "nameWithOwner": "aelisonCode/modal_timer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "modal_timer.nvim",
+  "owner": "aelisonCode",
+  "url": "https://github.com/aelisonCode/modal_timer.nvim"
+}

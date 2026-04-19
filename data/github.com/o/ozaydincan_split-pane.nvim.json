@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Window"
+        },
+        {
+          "level": 3,
+          "name": "Window Management"
+        },
+        {
+          "level": 4,
+          "name": "split"
+        }
+      ],
+      "file": "window.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-13T15:26:17Z",
+    "description": "Quick WM like plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-13T17:10:51Z",
+    "nameWithOwner": "ozaydincan/split-pane.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "split-pane.nvim",
+  "owner": "ozaydincan",
+  "url": "https://github.com/ozaydincan/split-pane.nvim"
+}

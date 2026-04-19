@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-04-11T18:09:10Z",
+    "description": "Skill and slash-command autocomplete for Neovim inside Claude Code's Ctrl+G editor",
+    "isArchived": false,
+    "lastCommit": "2026-04-13T19:00:36Z",
+    "nameWithOwner": "walis85300/claude-code-completion.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "blink-cmp",
+      "claude-code",
+      "lua",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "claude-code-completion.nvim",
+  "owner": "walis85300",
+  "url": "https://github.com/walis85300/claude-code-completion.nvim"
+}

@@ -22,6 +22,7 @@
   "data": {
     "commitCountLastYear": 5,
     "createdAt": "2026-02-24T23:10:34Z",
+    "description": "PDF browsing and previewing via Telescope",
     "isArchived": false,
     "lastCommit": "2026-02-24T23:13:24Z",
     "nameWithOwner": "Chiarandini/telescope-pdf-browser.nvim",
@@ -31,6 +32,11 @@
     },
     "star": 1,
     "topics": [
+      "neovim-plugin",
+      "lua",
+      "pdf",
+      "telescope",
+      "telescope-extension"
     ]
   },
   "domain": "github.com",

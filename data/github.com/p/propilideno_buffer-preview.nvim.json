@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "PDF"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-04-14T06:00:13Z",
+    "description": "Turn buffers in Neovim into real previews, not raw bytes.",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T23:04:25Z",
+    "nameWithOwner": "propilideno/buffer-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-buffers",
+      "nvim-plugin",
+      "pdf-viewer"
+    ]
+  },
+  "domain": "github.com",
+  "name": "buffer-preview.nvim",
+  "owner": "propilideno",
+  "url": "https://github.com/propilideno/buffer-preview.nvim"
+}

@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Yank"
+        },
+        {
+          "level": 3,
+          "name": "Path"
+        }
+      ],
+      "file": "yank_paste.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-11T09:22:52Z",
+    "description": "Copy buffer paths to clipboard — 11 path kinds, GitHub permalinks, file tree support, built-in picker. Zero config, LazyVim compatible.",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T12:11:57Z",
+    "nameWithOwner": "hong4rc/copy-path.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+      "clipboard",
+      "copy-path",
+      "file-path",
+      "lazyvim",
+      "lua",
+      "neo-tree",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "copy-path.nvim",
+  "owner": "hong4rc",
+  "url": "https://github.com/hong4rc/copy-path.nvim"
+}

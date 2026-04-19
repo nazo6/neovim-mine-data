@@ -1,0 +1,38 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jupyter"
+        }
+      ],
+      "file": "python.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-04-17T14:11:06Z",
+    "description": "Neovim plugin for running Jupyter Notebooks as single buffers",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T16:33:19Z",
+    "nameWithOwner": "twhlynch/notebook.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "notebook.nvim",
+  "owner": "twhlynch",
+  "url": "https://github.com/twhlynch/notebook.nvim"
+}

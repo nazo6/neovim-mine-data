@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Swagger"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-04-13T21:36:26Z",
+    "description": "LSP server for OpenAPI/Swagger navigation in Neovim — $ref go-to-definition, hover preview, and find-all-references without keymap conflicts. Pure Lua, no external dependencies.",
+    "isArchived": false,
+    "lastCommit": "2026-04-16T13:46:10Z",
+    "nameWithOwner": "akyrey/openapi-navigator.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "openapi-navigator.nvim",
+  "owner": "akyrey",
+  "url": "https://github.com/akyrey/openapi-navigator.nvim"
+}

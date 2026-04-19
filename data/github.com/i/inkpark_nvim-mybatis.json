@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Java"
+        },
+        {
+          "level": 3,
+          "name": "MyBatis"
+        }
+      ],
+      "file": "java.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 78,
+    "createdAt": "2026-04-17T16:53:47Z",
+    "description": "mybatis plugin for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-19T09:22:32Z",
+    "nameWithOwner": "inkpark/nvim-mybatis",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mybatis",
+  "owner": "inkpark",
+  "url": "https://github.com/inkpark/nvim-mybatis"
+}

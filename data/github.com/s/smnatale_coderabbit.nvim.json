@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-04-13T10:04:23Z",
+    "description": "Bring free CodeRabbit AI code reviews into Neovim via the CLI",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T13:03:17Z",
+    "nameWithOwner": "smnatale/coderabbit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "ai-assistant",
+      "bug-detection",
+      "code-quality",
+      "code-review",
+      "coderabbit",
+      "coderabbitai",
+      "neovim",
+      "neovim-plugin",
+      "codereview",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "coderabbit.nvim",
+  "owner": "smnatale",
+  "url": "https://github.com/smnatale/coderabbit.nvim"
+}

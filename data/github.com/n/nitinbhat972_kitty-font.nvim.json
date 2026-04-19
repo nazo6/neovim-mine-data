@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Development environment"
+        },
+        {
+          "level": 3,
+          "name": "Terminal"
+        },
+        {
+          "level": 4,
+          "name": "Kitty"
+        }
+      ],
+      "file": "integration-apps.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-11T17:11:32Z",
+    "description": "A Neovim plugin that lets you switch your editor font via Kitty.",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T17:15:45Z",
+    "nameWithOwner": "nitinbhat972/kitty-font.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kitty-font.nvim",
+  "owner": "nitinbhat972",
+  "url": "https://github.com/nitinbhat972/kitty-font.nvim"
+}

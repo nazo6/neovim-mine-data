@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Arduino"
+        },
+        {
+          "level": 3,
+          "name": "Compile"
+        },
+        {
+          "level": 4,
+          "name": "insight"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-04-16T03:11:56Z",
+    "description": "Neovim plugin to visualize C/C++ class/struct memory layouts using clang",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T01:53:29Z",
+    "nameWithOwner": "J-Cowsert/classlayout.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 32,
+    "topics": [
+      "c",
+      "clang",
+      "clangd",
+      "cpp",
+      "memory-layout",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "classlayout.nvim",
+  "owner": "J-Cowsert",
+  "url": "https://github.com/J-Cowsert/classlayout.nvim"
+}

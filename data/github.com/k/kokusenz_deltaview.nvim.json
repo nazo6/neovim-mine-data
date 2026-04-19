@@ -13,20 +13,34 @@
       ],
       "file": "diff.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 131,
+    "commitCountLastYear": 134,
     "createdAt": "2026-01-01T01:27:10Z",
     "description": "inline/unified diff view in neovim with delta highlighting",
     "isArchived": false,
-    "lastCommit": "2026-04-09T11:49:49Z",
+    "lastCommit": "2026-04-14T21:22:44Z",
     "nameWithOwner": "kokusenz/deltaview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 78,
+    "star": 82,
     "topics": [
     ]
   },

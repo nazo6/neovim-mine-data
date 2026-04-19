@@ -30,6 +30,7 @@
   "data": {
     "commitCountLastYear": 13,
     "createdAt": "2026-02-24T19:36:03Z",
+    "description": "Cached heading picker as a telescope extension",
     "isArchived": false,
     "lastCommit": "2026-03-07T18:54:56Z",
     "nameWithOwner": "Chiarandini/telescope-cached-headings.nvim",
@@ -39,6 +40,12 @@
     },
     "star": 2,
     "topics": [
+      "neovim-plugin",
+      "latex",
+      "lua",
+      "markdown",
+      "telescope",
+      "telescope-extension"
     ]
   },
   "domain": "github.com",

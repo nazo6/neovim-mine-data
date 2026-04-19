@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Diff"
+        }
+      ],
+      "file": "diff.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-17T02:02:06Z",
+    "description": "File-oriented Git review annotations for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T01:56:40Z",
+    "nameWithOwner": "emmanuelchucks/patchmarks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "annotations",
+      "code-review",
+      "git",
+      "llm",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "patchmarks.nvim",
+  "owner": "emmanuelchucks",
+  "url": "https://github.com/emmanuelchucks/patchmarks.nvim"
+}

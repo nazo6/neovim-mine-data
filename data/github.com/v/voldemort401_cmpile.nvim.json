@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "C/C++"
+          "name": "Arduino"
         },
         {
           "level": 3,
@@ -20,12 +20,16 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 15,
+    "commitCountLastYear": 19,
     "createdAt": "2025-05-29T04:30:28Z",
     "description": "Compile C/C++ files directly from nvim ",
     "isArchived": false,
-    "lastCommit": "2026-04-11T07:59:04Z",
+    "lastCommit": "2026-04-12T16:24:35Z",
     "nameWithOwner": "voldemort401/cmpile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
     "star": 1,
     "topics": [
     ]

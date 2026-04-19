@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Markdown"
+        },
+        {
+          "level": 4,
+          "name": "Markdown link"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-16T17:54:10Z",
+    "description": "Inline project-file mentions for Markdown prompt writing.",
+    "isArchived": false,
+    "lastCommit": "2026-04-16T18:16:49Z",
+    "nameWithOwner": "JuanCrg90/mentionpath.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "mentionpath.nvim",
+  "owner": "JuanCrg90",
+  "url": "https://github.com/JuanCrg90/mentionpath.nvim"
+}

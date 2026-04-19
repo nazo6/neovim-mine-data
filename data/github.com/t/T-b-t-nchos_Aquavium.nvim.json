@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 93,
+    "createdAt": "2026-02-14T16:35:50Z",
+    "description": "Aquarium color scheme on Neovim. Designed for use with a transparent terminal background. // 透過背景のターミナル向けにデザインされた水族館風Neovimカラースキーム。// #Aquavium",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T08:20:40Z",
+    "nameWithOwner": "T-b-t-nchos/Aquavium.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 13,
+    "topics": [
+      "neo-vim-extension",
+      "neovim",
+      "neovim-color",
+      "neovim-colors",
+      "neovim-colorschemes",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "neovim-themes"
+    ]
+  },
+  "domain": "github.com",
+  "name": "Aquavium.nvim",
+  "owner": "T-b-t-nchos",
+  "url": "https://github.com/T-b-t-nchos/Aquavium.nvim"
+}

@@ -1,0 +1,55 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 220,
+    "createdAt": "2024-12-28T22:19:17Z",
+    "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev (actively maintained fork).",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T10:04:10Z",
+    "nameWithOwner": "dlyongemallo/diffview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 135,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "diffview.nvim",
+  "owner": "dlyongemallo",
+  "url": "https://github.com/dlyongemallo/diffview.nvim"
+}

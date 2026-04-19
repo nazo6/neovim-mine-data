@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Image"
+        },
+        {
+          "level": 3,
+          "name": "Image Paste"
+        }
+      ],
+      "file": "image.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-04-16T04:41:42Z",
+    "description": "Insert image from clipboard into neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-16T14:47:06Z",
+    "nameWithOwner": "Jacky-Lzx/image-insert.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "image-insert.nvim",
+  "owner": "Jacky-Lzx",
+  "url": "https://github.com/Jacky-Lzx/image-insert.nvim"
+}

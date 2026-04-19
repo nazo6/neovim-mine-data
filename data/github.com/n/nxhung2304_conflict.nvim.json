@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git conflict"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-04-10T13:24:26Z",
+    "description": "Vibe coding a neovim plugin for resolve git conflict",
+    "isArchived": false,
+    "lastCommit": "2026-04-11T08:59:03Z",
+    "nameWithOwner": "nxhung2304/conflict.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "conflict.nvim",
+  "owner": "nxhung2304",
+  "url": "https://github.com/nxhung2304/conflict.nvim"
+}

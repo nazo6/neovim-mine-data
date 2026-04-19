@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2026-02-24T23:01:27Z",
+    "description": "Stream music from nightride.fm within neovim",
+    "isArchived": false,
+    "lastCommit": "2026-03-28T21:50:44Z",
+    "nameWithOwner": "rogue-sly/nightride.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "music",
+      "nvim",
+      "nvim-plugin",
+      "radio"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nightride.nvim",
+  "owner": "rogue-sly",
+  "url": "https://github.com/rogue-87/nightride.nvim"
+}

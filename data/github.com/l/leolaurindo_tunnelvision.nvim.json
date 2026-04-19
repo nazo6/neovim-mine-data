@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Zen Mode"
+        },
+        {
+          "level": 3,
+          "name": "Focus Mode"
+        }
+      ],
+      "file": "concentration.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 21,
+    "createdAt": "2026-04-16T04:43:59Z",
+    "description": "TunnelVision.nvim dims unrelated lines to keep you focused on the targeted symbol.",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T03:35:24Z",
+    "nameWithOwner": "leolaurindo/tunnelvision.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tunnelvision.nvim",
+  "owner": "leolaurindo",
+  "url": "https://github.com/leolaurindo/tunnelvision.nvim"
+}

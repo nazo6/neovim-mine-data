@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Jump"
+        },
+        {
+          "level": 3,
+          "name": "Jump number"
+        }
+      ],
+      "file": "jump.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-11T08:11:58Z",
+    "description": "A high-performance Neovim jump label plugin based on FFI that adds numeric labels to search results for quick navigation.",
+    "isArchived": false,
+    "lastCommit": "2026-04-14T09:48:33Z",
+    "nameWithOwner": "gpncarl/jumph.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "jumph.nvim",
+  "owner": "gpncarl",
+  "url": "https://github.com/gpncarl/jumph.nvim"
+}

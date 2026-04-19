@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-10T15:31:44Z",
+    "description": "Neovim dashboard that lists git worktrees in a sidebar with per-worktree persistent terminals",
+    "isArchived": false,
+    "lastCommit": "2026-04-10T15:33:20Z",
+    "nameWithOwner": "transonhy96/vibetree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "dashboard",
+      "git-worktree",
+      "lazyvim",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "terminal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "vibetree.nvim",
+  "owner": "transonhy96",
+  "url": "https://github.com/transonhy96/vibetree.nvim"
+}

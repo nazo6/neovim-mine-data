@@ -17,20 +17,34 @@
       ],
       "file": "appearance.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 41,
+    "commitCountLastYear": 42,
     "createdAt": "2026-04-05T16:00:29Z",
     "description": "Not just a UI plugin — manage the cognitive load of your own Neovim setup",
     "isArchived": false,
-    "lastCommit": "2026-04-12T01:15:21Z",
+    "lastCommit": "2026-04-18T22:07:55Z",
     "nameWithOwner": "mjmjm0101/quickui.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 5,
     "topics": [
       "developer-tools",
       "keybindings",

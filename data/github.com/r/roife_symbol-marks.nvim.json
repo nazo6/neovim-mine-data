@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Syntax"
+        },
+        {
+          "level": 3,
+          "name": "Multiple word highlight"
+        }
+      ],
+      "file": "syntax_highlight.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-10T00:54:41Z",
+    "description": "Extmarks-based symbol highlighting for Neovim, with persistent marks, scoped matching, preview highlights, and rename support.",
+    "isArchived": false,
+    "lastCommit": "2026-04-14T02:30:23Z",
+    "nameWithOwner": "roife/symbol-marks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "symbol-marks.nvim",
+  "owner": "roife",
+  "url": "https://github.com/roife/symbol-marks.nvim"
+}

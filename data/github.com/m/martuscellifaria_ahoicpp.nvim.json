@@ -8,7 +8,7 @@
         },
         {
           "level": 2,
-          "name": "C/C++"
+          "name": "Arduino"
         },
         {
           "level": 3,
@@ -34,18 +34,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 24,
+    "commitCountLastYear": 35,
     "createdAt": "2026-03-27T07:40:43Z",
-    "description": "A.H.O.I. Labs (Alex's Heavily Opinionated Interfaces) C++ Project plugin for NeoVim",
+    "description": "A.H.O.I. Labs (Alex's Heavily Opinionated Interfaces) C++ Project plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2026-04-11T12:19:07Z",
+    "lastCommit": "2026-04-17T11:35:33Z",
     "nameWithOwner": "martuscellifaria/ahoicpp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 2,
+    "star": 3,
     "topics": [
+      "bootstrapper",
+      "build-tool",
+      "cmake",
+      "cplusplus",
+      "cpp",
+      "cross-platform",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "project-management"
     ]
   },
   "domain": "github.com",

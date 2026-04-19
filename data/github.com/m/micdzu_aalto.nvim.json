@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Colorscheme"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-03-30T12:52:45Z",
+    "description": "A Neovim colorscheme where structure becomes visible — and everything else fades away.",
+    "isArchived": false,
+    "lastCommit": "2026-04-15T19:44:09Z",
+    "nameWithOwner": "micdzu/aalto.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "colorscheme",
+      "dark-theme",
+      "editor-theme",
+      "light-theme",
+      "lua",
+      "neovim",
+      "theme",
+      "treesitter",
+      "lsp",
+      "minimal"
+    ]
+  },
+  "domain": "github.com",
+  "name": "aalto.nvim",
+  "owner": "micdzu",
+  "url": "https://github.com/micdzu/aalto.nvim"
+}

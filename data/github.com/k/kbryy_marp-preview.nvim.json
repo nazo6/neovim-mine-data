@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Query"
+        },
+        {
+          "level": 4,
+          "name": "Marp"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-12T03:15:57Z",
+    "description": "Live Marp slide preview for Neovim with cursor-to-slide sync",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T03:15:49Z",
+    "nameWithOwner": "kbryy/marp-preview.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "marp-preview.nvim",
+  "owner": "kbryy",
+  "url": "https://github.com/kbryy/marp-preview.nvim"
+}

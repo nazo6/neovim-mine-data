@@ -24,12 +24,16 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 34,
     "createdAt": "2026-03-28T23:44:49Z",
     "description": "Neovim plugin to easily run code in a terminal",
     "isArchived": false,
-    "lastCommit": "2026-03-28T23:44:50Z",
+    "lastCommit": "2026-04-14T22:16:10Z",
     "nameWithOwner": "blm34/code-runner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
     "star": 1,
     "topics": [
     ]

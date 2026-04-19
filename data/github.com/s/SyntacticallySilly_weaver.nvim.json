@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-13T04:37:23Z",
+    "description": "weave your plugins.",
+    "isArchived": false,
+    "lastCommit": "2026-04-16T05:21:24Z",
+    "nameWithOwner": "SyntacticallySilly/weaver.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "weaver.nvim",
+  "owner": "SyntacticallySilly",
+  "url": "https://github.com/SyntacticallySilly/weaver.nvim"
+}

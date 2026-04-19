@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 22,
+    "createdAt": "2026-04-13T20:42:02Z",
+    "description": "Lazy.nvim-style plugin specs for native Neovim vim.pack",
+    "isArchived": false,
+    "lastCommit": "2026-04-15T03:52:41Z",
+    "nameWithOwner": "danielfakunle/lazypack.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lazypack.nvim",
+  "owner": "danielfakunle",
+  "url": "https://github.com/danielfakunle/lazypack.nvim"
+}

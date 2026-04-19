@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-15T05:23:50Z",
+    "description": "Simple lib to create completable user commands in neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T20:57:16Z",
+    "nameWithOwner": "drehren/fltcmd.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fltcmd.nvim",
+  "owner": "drehren",
+  "url": "https://github.com/drehren/fltcmd.nvim"
+}

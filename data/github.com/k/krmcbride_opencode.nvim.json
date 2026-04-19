@@ -20,11 +20,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 10,
+    "commitCountLastYear": 28,
     "createdAt": "2026-01-31T04:07:53Z",
-    "description": "Simple OpenCode+Snacks done right",
+    "description": "Neovim plugin for embedding OpenCode attach mode with session-aware prompt injection, reviews, and local event hooks",
     "isArchived": false,
-    "lastCommit": "2026-04-03T01:22:27Z",
+    "lastCommit": "2026-04-17T20:09:00Z",
     "nameWithOwner": "krmcbride/opencode.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -32,6 +32,9 @@
     },
     "star": 0,
     "topics": [
+      "neovim",
+      "neovim-plugin",
+      "opencode"
     ]
   },
   "domain": "github.com",

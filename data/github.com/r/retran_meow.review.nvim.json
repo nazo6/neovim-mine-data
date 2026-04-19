@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2026-04-12T15:29:49Z",
+    "description": "Inline code review annotations for AI-assisted development workflows in Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T14:27:43Z",
+    "nameWithOwner": "retran/meow.review.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "annotations",
+      "code-review",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "project-meow"
+    ]
+  },
+  "domain": "github.com",
+  "name": "meow.review.nvim",
+  "owner": "retran",
+  "url": "https://github.com/retran/meow.review.nvim"
+}

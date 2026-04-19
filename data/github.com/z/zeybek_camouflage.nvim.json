@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 54,
+    "commitCountLastYear": 56,
     "createdAt": "2026-02-10T01:42:26Z",
     "description": "Mask sensitive values in config files during screen sharing. Supports .env, JSON, YAML, TOML, XML, Terraform/HCL, Dockerfile, and more. Zero file modification - uses Neovim extmarks.",
     "isArchived": false,
-    "lastCommit": "2026-02-14T10:34:44Z",
+    "lastCommit": "2026-04-19T09:00:53Z",
     "nameWithOwner": "zeybek/camouflage.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 40,
+    "star": 45,
     "topics": [
       "dotenv",
       "lua",

@@ -1,0 +1,48 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Spell"
+        },
+        {
+          "level": 3,
+          "name": "Spellcheck"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 58,
+    "createdAt": "2026-03-27T15:16:40Z",
+    "description": "An in-process LSP server for Neovim that provides spell checking diagnostics and code actions, leveraging Neovim's built-in spell checking capabilities.",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T08:18:16Z",
+    "nameWithOwner": "chaneyzorn/spellwand.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 29,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "spellchecker",
+      "lsp",
+      "lsp-server",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "spellwand.nvim",
+  "owner": "chaneyzorn",
+  "url": "https://github.com/chaneyzorn/spellwand.nvim"
+}

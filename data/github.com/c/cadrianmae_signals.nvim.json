@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Animation"
+        },
+        {
+          "level": 3,
+          "name": "event sound"
+        }
+      ],
+      "file": "animation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-12T19:32:04Z",
+    "description": "VS Code-style accessibility signals for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T23:20:30Z",
+    "nameWithOwner": "cadrianmae/signals.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "signals.nvim",
+  "owner": "cadrianmae",
+  "url": "https://github.com/cadrianmae/signals.nvim"
+}

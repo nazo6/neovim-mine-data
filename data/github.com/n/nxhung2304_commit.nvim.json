@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-04-10T16:48:45Z",
+    "description": "Vibe coding a neovim plugin for generate commit message",
+    "isArchived": false,
+    "lastCommit": "2026-04-12T14:29:08Z",
+    "nameWithOwner": "nxhung2304/commit.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "commit.nvim",
+  "owner": "nxhung2304",
+  "url": "https://github.com/nxhung2304/commit.nvim"
+}

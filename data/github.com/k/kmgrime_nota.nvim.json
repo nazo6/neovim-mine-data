@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Journal"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-04-15T20:50:07Z",
+    "description": "Small lightweight Neovim plugin for notes in Markdown",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T19:12:33Z",
+    "nameWithOwner": "kmgrime/nota.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "journal",
+      "neovim",
+      "neovim-plugin",
+      "notes",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nota.nvim",
+  "owner": "kmgrime",
+  "url": "https://github.com/kmgrime/nota.nvim"
+}

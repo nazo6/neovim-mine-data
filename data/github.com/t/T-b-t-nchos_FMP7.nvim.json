@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-17T16:16:04Z",
+    "description": "A Neovim plugin to control FMP7 (FMP7.exe) from Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T16:15:58Z",
+    "nameWithOwner": "T-b-t-nchos/FMP7.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "fmp",
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-plugin",
+      "fmp-api",
+      "fmp4",
+      "mxdrv",
+      "fm-synthesis",
+      "opm"
+    ]
+  },
+  "domain": "github.com",
+  "name": "FMP7.nvim",
+  "owner": "T-b-t-nchos",
+  "url": "https://github.com/T-b-t-nchos/FMP7.nvim"
+}

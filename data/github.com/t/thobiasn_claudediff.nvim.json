@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-14T21:29:45Z",
+    "description": "Claude Code diffs rendered inline in the real file buffer",
+    "isArchived": false,
+    "lastCommit": "2026-04-15T06:42:17Z",
+    "nameWithOwner": "thobiasn/claudediff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "claudediff.nvim",
+  "owner": "thobiasn",
+  "url": "https://github.com/thobiasn/claudediff.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Task Tracking"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 125,
+    "createdAt": "2026-04-12T23:00:30Z",
+    "description": "A neovim plugin to make managing spec files less terrible! ",
+    "isArchived": false,
+    "lastCommit": "2026-04-16T00:04:18Z",
+    "nameWithOwner": "imdevan/task-manager.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "task-manager.nvim",
+  "owner": "imdevan",
+  "url": "https://github.com/imdevan/task-manager.nvim"
+}

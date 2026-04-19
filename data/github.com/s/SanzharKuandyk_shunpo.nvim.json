@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command"
+        },
+        {
+          "level": 3,
+          "name": "Shell Command"
+        },
+        {
+          "level": 4,
+          "name": "detach"
+        }
+      ],
+      "file": "command.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-16T07:56:28Z",
+    "description": "Flash-step between running nvim instances on Windows. Detach here, reattach there.",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T19:58:23Z",
+    "nameWithOwner": "SanzharKuandyk/shunpo.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "nvim",
+      "nvim-lua",
+      "nvim-plugin",
+      "windows"
+    ]
+  },
+  "domain": "github.com",
+  "name": "shunpo.nvim",
+  "owner": "SanzharKuandyk",
+  "url": "https://github.com/SanzharKuandyk/shunpo.nvim"
+}

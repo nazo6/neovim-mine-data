@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "Zellij"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 24,
+    "createdAt": "2025-12-13T08:42:17Z",
+    "description": "Seamless Neovim/Zellij integration with built-in navigation, pane/tab management, and Lua scripting.",
+    "isArchived": false,
+    "lastCommit": "2026-04-15T17:46:37Z",
+    "nameWithOwner": "y2w8/neolij.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 15,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neolij.nvim",
+  "owner": "y2w8",
+  "url": "https://github.com/y2w8/zellij.nvim"
+}

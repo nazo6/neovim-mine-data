@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "View"
+        },
+        {
+          "level": 3,
+          "name": "listchars"
+        }
+      ],
+      "file": "readme.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-17T09:17:13Z",
+    "description": "Set up custom `listchars` in neivim and allow easy toggling",
+    "isArchived": false,
+    "lastCommit": "2026-04-17T11:47:33Z",
+    "nameWithOwner": "Corey-Keller/ToggleListChars.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ToggleListChars.nvim",
+  "owner": "Corey-Keller",
+  "url": "https://github.com/Corey-Keller/ToggleListChars.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Command Line UI"
+        }
+      ],
+      "file": "commandline.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-04-12T08:08:57Z",
+    "description": "Popup window and cmdline for nvim",
+    "isArchived": false,
+    "lastCommit": "2026-04-16T07:03:48Z",
+    "nameWithOwner": "aurora0x27/popup.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "popup.nvim",
+  "owner": "aurora0x27",
+  "url": "https://github.com/aurora0x27/popup.nvim"
+}

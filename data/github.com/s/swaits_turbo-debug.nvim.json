@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Debug"
+        },
+        {
+          "level": 3,
+          "name": "Debugger"
+        },
+        {
+          "level": 4,
+          "name": "nvim-dap extension"
+        }
+      ],
+      "file": "debugger_repl.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 78,
+    "createdAt": "2026-04-12T02:10:56Z",
+    "description": "All-in-one debugger setup for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-13T03:44:54Z",
+    "nameWithOwner": "swaits/turbo-debug.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "turbo-debug.nvim",
+  "owner": "swaits",
+  "url": "https://github.com/swaits/turbo-debug.nvim"
+}
