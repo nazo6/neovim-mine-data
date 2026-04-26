@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Agent"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 53,
+    "createdAt": "2026-04-23T05:09:22Z",
+    "description": "Tau.nvim is a native llm coding agent built for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-26T08:17:45Z",
+    "nameWithOwner": "emilpriver/tau.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "agent",
+      "nvim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "tau.nvim",
+  "owner": "emilpriver",
+  "url": "https://github.com/emilpriver/tau.nvim"
+}

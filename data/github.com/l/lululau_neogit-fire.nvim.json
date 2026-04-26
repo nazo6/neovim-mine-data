@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git commit"
+        },
+        {
+          "level": 4,
+          "name": "AI commit"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-22T14:41:13Z",
+    "description": "Emergency save-and-go for Neogit — commit and reset, or branch and push, in one keystroke.",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T14:42:32Z",
+    "nameWithOwner": "lululau/neogit-fire.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neogit-fire.nvim",
+  "owner": "lululau",
+  "url": "https://github.com/lululau/neogit-fire.nvim"
+}

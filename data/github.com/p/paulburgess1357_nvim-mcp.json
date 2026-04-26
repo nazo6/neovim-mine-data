@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Model Context Protocol(MCP)"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 116,
+    "createdAt": "2026-04-05T01:56:42Z",
+    "description": "MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.",
+    "isArchived": false,
+    "lastCommit": "2026-04-24T14:14:49Z",
+    "nameWithOwner": "paulburgess1357/nvim-mcp",
+    "primaryLanguage": {
+      "color": "#3572A5",
+      "name": "Python"
+    },
+    "star": 47,
+    "topics": [
+      "ai",
+      "claude",
+      "codex",
+      "cursor",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "msgpack-rpc",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-mcp",
+  "owner": "paulburgess1357",
+  "url": "https://github.com/paulburgess1357/nvim-mcp"
+}

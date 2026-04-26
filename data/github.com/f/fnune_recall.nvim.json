@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 32,
     "createdAt": "2024-03-08T01:58:27Z",
     "description": "Recall refines the use of Neovim marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.",
     "isArchived": false,
-    "lastCommit": "2026-03-10T08:54:09Z",
+    "lastCommit": "2026-04-24T10:03:27Z",
     "nameWithOwner": "fnune/recall.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 91,
+    "star": 92,
     "topics": [
       "hacktoberfest",
       "neovim-plugin"

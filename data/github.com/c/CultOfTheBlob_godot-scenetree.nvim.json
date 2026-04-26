@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Game Engine"
+        },
+        {
+          "level": 3,
+          "name": "Godot"
+        }
+      ],
+      "file": "game-engine.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-04-20T10:42:20Z",
+    "description": "A plugin for interacting with godot scenes from inside neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T16:46:31Z",
+    "nameWithOwner": "CultOfTheBlob/godot-scenetree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "godot-scenetree.nvim",
+  "owner": "CultOfTheBlob",
+  "url": "https://github.com/CultOfTheBlob/godot-scenetree.nvim"
+}

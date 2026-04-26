@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Grammar check"
+        }
+      ],
+      "file": "spellcheck.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 378,
+    "createdAt": "2026-04-19T19:21:25Z",
+    "description": "Neovim grammar and spelling checker — fork of taal.nvim with visual/paragraph selection, async + cancel, navigation and status-line integration",
+    "isArchived": false,
+    "lastCommit": "2026-04-19T19:19:39Z",
+    "nameWithOwner": "marc-riedel/neogram.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 7,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "neogram.nvim",
+  "owner": "marc-riedel",
+  "url": "https://github.com/marc-riedel/neogram.nvim"
+}

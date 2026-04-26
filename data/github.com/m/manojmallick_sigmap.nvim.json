@@ -16,10 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 2,
+    "commitCountLastYear": 5,
     "createdAt": "2026-04-17T09:52:32Z",
+    "description": "SigMap AI context engine — Neovim plugin. :SigMap, :SigMapQuery, statusline widget, auto-run on save. 96.9% token reduction, 80.0% hit@5.",
     "isArchived": false,
-    "lastCommit": "2026-04-17T10:27:14Z",
+    "lastCommit": "2026-04-20T10:41:44Z",
     "nameWithOwner": "manojmallick/sigmap.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -27,7 +28,16 @@
     },
     "star": 2,
     "topics": [
-      "neovim-plugin"
+      "neovim-plugin",
+      "ai-context",
+      "claude",
+      "github-copilot",
+      "llm",
+      "lua",
+      "mcp",
+      "neovim",
+      "sigmap",
+      "token-reduction"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Browser Integration"
+        },
+        {
+          "level": 4,
+          "name": "url open"
+        }
+      ],
+      "file": "web-browser.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-23T18:52:17Z",
+    "description": "Open URL's straight from your buffer. Telescope support. Node / Python based Server Support.",
+    "isArchived": false,
+    "lastCommit": "2026-04-23T18:51:16Z",
+    "nameWithOwner": "tunachip/open.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "open.nvim",
+  "owner": "tunachip",
+  "url": "https://github.com/tunachip/open.nvim"
+}

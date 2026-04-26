@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Startup screen (DashBoard)"
+        },
+        {
+          "level": 3,
+          "name": "Logo"
+        }
+      ],
+      "file": "startup.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 34,
+    "createdAt": "2026-04-24T05:36:12Z",
+    "description": " Animated ASCII splash screens for Neovim. 29 bundled splashes + bring your own via the   milli CLI / web playground.",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T08:41:17Z",
+    "nameWithOwner": "Amansingh-afk/milli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 141,
+    "topics": [
+      "alpha-nvim",
+      "ascii",
+      "ascii-art",
+      "dashboard-nvim",
+      "lua",
+      "mini-starter",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "milli.nvim",
+  "owner": "Amansingh-afk",
+  "url": "https://github.com/Amansingh-afk/milli.nvim"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git log"
+        },
+        {
+          "level": 4,
+          "name": "preview contents"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-04-18T13:51:14Z",
+    "description": "Neovim viewer for git log -L line history with diff preview and GitHub PR/commit links",
+    "isArchived": false,
+    "lastCommit": "2026-04-20T13:51:44Z",
+    "nameWithOwner": "noizwaves/gloggles.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gloggles.nvim",
+  "owner": "noizwaves",
+  "url": "https://github.com/noizwaves/gloggles.nvim"
+}

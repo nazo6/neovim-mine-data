@@ -1,0 +1,43 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Info"
+        }
+      ],
+      "file": "treesitter.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 37,
+    "createdAt": "2026-04-21T02:31:08Z",
+    "description": "Treesitter-powered buffer manipulation for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T12:53:59Z",
+    "nameWithOwner": "xvzc/bufsitter.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "neovim",
+      "nvim",
+      "nvim-treesitter",
+      "treesitter",
+      "treesitter-api",
+      "buffer-manipulation"
+    ]
+  },
+  "domain": "github.com",
+  "name": "bufsitter.nvim",
+  "owner": "xvzc",
+  "url": "https://github.com/xvzc/bufsitter.nvim"
+}

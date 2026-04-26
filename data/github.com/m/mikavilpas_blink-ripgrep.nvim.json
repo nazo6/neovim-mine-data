@@ -34,17 +34,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 478,
+    "commitCountLastYear": 496,
     "createdAt": "2024-11-03T09:32:37Z",
     "description": "Ripgrep/gitgrep source for the blink.cmp Neovim completion plugin",
     "isArchived": false,
-    "lastCommit": "2026-04-18T01:36:33Z",
+    "lastCommit": "2026-04-26T06:05:39Z",
     "nameWithOwner": "mikavilpas/blink-ripgrep.nvim",
     "primaryLanguage": {
-      "color": "#3178c6",
-      "name": "TypeScript"
+      "color": "#000080",
+      "name": "Lua"
     },
-    "star": 112,
+    "star": 113,
     "topics": [
       "neovim-plugin"
     ]

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "git diff"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-04-18T02:14:09Z",
+    "description": "A minimal plugin to view, navigate, and reset git hunks",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T01:13:45Z",
+    "nameWithOwner": "elanmed/git-diff.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "git-diff.nvim",
+  "owner": "elanmed",
+  "url": "https://github.com/elanmed/git-diff.nvim"
+}

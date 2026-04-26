@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "YAML"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-18T17:28:58Z",
+    "description": "YAML path resolver for Neovim statuslines",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T21:34:03Z",
+    "nameWithOwner": "xingyuXXX/yaml-path.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "yaml-path.nvim",
+  "owner": "xingyuXXX",
+  "url": "https://github.com/xingyuXXX/yaml-path.nvim"
+}

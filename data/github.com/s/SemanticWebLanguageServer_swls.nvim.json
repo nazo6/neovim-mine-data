@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Configuration File"
+        },
+        {
+          "level": 3,
+          "name": "Turtle / SPARQL"
+        }
+      ],
+      "file": "configration-file.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-23T10:29:33Z",
+    "isArchived": false,
+    "lastCommit": "2026-04-23T10:34:28Z",
+    "nameWithOwner": "SemanticWebLanguageServer/swls.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "swls.nvim",
+  "owner": "SemanticWebLanguageServer",
+  "url": "https://github.com/SemanticWebLanguageServer/swls.nvim"
+}

@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Quickfix"
+        }
+      ],
+      "file": "quickfix_location.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-20T11:50:10Z",
+    "description": "Fuzzy QuickFix for neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-21T23:30:21Z",
+    "nameWithOwner": "pirey/fqf.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 6,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fqf.nvim",
+  "owner": "pirey",
+  "url": "https://github.com/pirey/fqf.nvim"
+}

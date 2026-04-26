@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Indent"
+        },
+        {
+          "level": 3,
+          "name": "Indent Size"
+        }
+      ],
+      "file": "indent.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 0,
+    "createdAt": "2022-11-15T01:09:29Z",
+    "description": "A simple neovim plugin to config indent written by Lua.",
+    "isArchived": false,
+    "lastCommit": "2023-04-14T05:54:25Z",
+    "nameWithOwner": "zepn/nvim-indentconfig",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "indent",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "vim",
+      "plugin",
+      "nvim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-indentconfig",
+  "owner": "zepn",
+  "url": "https://github.com/vine91/nvim-indentconfig"
+}

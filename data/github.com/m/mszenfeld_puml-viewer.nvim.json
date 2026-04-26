@@ -20,17 +20,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 51,
+    "commitCountLastYear": 55,
     "createdAt": "2026-03-30T18:08:10Z",
     "description": "Neovim plugin for live PlantUML diagram preview in browser with auto-reload on save and PNG/SVG export",
     "isArchived": false,
-    "lastCommit": "2026-04-03T07:48:40Z",
+    "lastCommit": "2026-04-22T10:34:25Z",
     "nameWithOwner": "mszenfeld/puml-viewer.nvim",
     "primaryLanguage": {
       "color": "#3572A5",
       "name": "Python"
     },
-    "star": 1,
+    "star": 2,
     "topics": [
       "neovim",
       "neovim-plugin",

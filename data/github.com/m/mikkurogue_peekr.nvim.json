@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Definition, Reference"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 9,
+    "createdAt": "2026-04-17T19:53:56Z",
+    "description": "Small neovim plugin for floating window LSP peek ui for definitions, references, symbols etc.",
+    "isArchived": false,
+    "lastCommit": "2026-04-19T20:44:12Z",
+    "nameWithOwner": "mikkurogue/peekr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "lsp",
+      "neovim",
+      "neovim-plugin",
+      "peek",
+      "plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "peekr.nvim",
+  "owner": "mikkurogue",
+  "url": "https://github.com/mikkurogue/peekr.nvim"
+}

@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "BiBTex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-23T20:54:01Z",
+    "description": "Snacks.picker port of telescope-bibtex.nvim — BibTeX citation picker with context-aware .bib file discovery",
+    "isArchived": false,
+    "lastCommit": "2026-04-23T20:54:00Z",
+    "nameWithOwner": "Chiarandini/snacks-bibtex.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snacks-bibtex.nvim",
+  "owner": "Chiarandini",
+  "url": "https://github.com/Chiarandini/snacks-bibtex.nvim"
+}

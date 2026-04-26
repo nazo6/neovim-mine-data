@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toolchain"
+        },
+        {
+          "level": 3,
+          "name": "tsc(TypeScript compiler)"
+        }
+      ],
+      "file": "js_ts.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-04-23T03:28:36Z",
+    "description": " Effect-first TypeScript diagnostic formatter for Neovim. Channel-aware boxes for Effect / Stream / Layer mismatches, and  tidier rendering for everyday TS errors.",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T01:37:53Z",
+    "nameWithOwner": "rashedInt32/effect-error-pretty.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "developer-experience",
+      "diagnostics",
+      "effect",
+      "effect-ts",
+      "error-formatting",
+      "lazyvim",
+      "lsp",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "effect-error-pretty.nvim",
+  "owner": "rashedInt32",
+  "url": "https://github.com/rashedInt32/effect-error-pretty.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Neovim Usage Analytics"
+        },
+        {
+          "level": 3,
+          "name": "Typing speed"
+        }
+      ],
+      "file": "analytics.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-24T15:18:50Z",
+    "description": "Tracks your editing speed",
+    "isArchived": false,
+    "lastCommit": "2026-04-24T15:39:20Z",
+    "nameWithOwner": "z1g-zag-zoomer/nvim-speedster",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-speedster",
+  "owner": "z1g-zag-zoomer",
+  "url": "https://github.com/z1g-zag-zoomer/nvim-speedster"
+}

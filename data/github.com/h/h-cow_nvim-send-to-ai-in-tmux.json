@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 6,
+    "commitCountLastYear": 8,
     "createdAt": "2026-02-16T21:31:51Z",
     "description": "When in neovim running in tmux inject the current file and line number (or highlighted code) into a claude code, codex, or opencode prompt instantly. This makes for easy request for LLM's to edit or answer questions about code.",
     "isArchived": false,
-    "lastCommit": "2026-02-16T21:59:07Z",
+    "lastCommit": "2026-04-19T18:49:33Z",
     "nameWithOwner": "h-cow/nvim-send-to-ai-in-tmux",
     "primaryLanguage": {
       "color": "#000080",

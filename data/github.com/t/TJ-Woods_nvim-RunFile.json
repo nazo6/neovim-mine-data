@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Auto detect style"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 14,
+    "createdAt": "2026-04-19T11:52:59Z",
+    "description": "Neovim plugin that runs files in the terminal",
+    "isArchived": false,
+    "lastCommit": "2026-04-21T12:05:32Z",
+    "nameWithOwner": "TJ-Woods/nvim-RunFile",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-RunFile",
+  "owner": "TJ-Woods",
+  "url": "https://github.com/TJ-Woods/nvim-RunFile"
+}

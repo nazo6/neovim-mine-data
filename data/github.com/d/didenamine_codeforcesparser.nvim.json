@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Competitive programming"
+        },
+        {
+          "level": 3,
+          "name": "Codeforces"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-18T17:02:54Z",
+    "isArchived": false,
+    "lastCommit": "2026-04-20T13:21:20Z",
+    "nameWithOwner": "didenamine/codeforcesparser.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "codeforcesparser.nvim",
+  "owner": "didenamine",
+  "url": "https://github.com/didenamine/codeforcesparser.nvim"
+}

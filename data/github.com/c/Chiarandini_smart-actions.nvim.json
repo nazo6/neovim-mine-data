@@ -1,0 +1,50 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Code action"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 13,
+    "createdAt": "2026-04-18T05:24:18Z",
+    "description": "AI-assisted code actions: quickfix, explain, suppress, refactor, tests",
+    "isArchived": false,
+    "lastCommit": "2026-04-20T05:04:16Z",
+    "nameWithOwner": "Chiarandini/smart-actions.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 8,
+    "topics": [
+      "neovim-plugin",
+      "ai",
+      "code-actions",
+      "lsp",
+      "lua"
+    ]
+  },
+  "domain": "github.com",
+  "name": "smart-actions.nvim",
+  "owner": "Chiarandini",
+  "url": "https://github.com/Chiarandini/smart-actions.nvim"
+}

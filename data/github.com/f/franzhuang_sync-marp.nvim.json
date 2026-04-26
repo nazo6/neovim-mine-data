@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Query"
+        },
+        {
+          "level": 4,
+          "name": "Marp"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-19T13:19:18Z",
+    "description": "Sync your marp preview window with neovim's cursor.",
+    "isArchived": false,
+    "lastCommit": "2026-04-20T11:25:32Z",
+    "nameWithOwner": "franzhuang/sync-marp.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sync-marp.nvim",
+  "owner": "franzhuang",
+  "url": "https://github.com/franzhuang/sync-marp.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "CLI"
+        },
+        {
+          "level": 4,
+          "name": "tmux"
+        }
+      ],
+      "file": "cli.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-04-22T16:42:52Z",
+    "description": "Tmux-like sessionizer for Neovim 0.12+",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T17:21:34Z",
+    "nameWithOwner": "its-saanvi/sessionizer.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "sessionizer.nvim",
+  "owner": "its-saanvi",
+  "url": "https://github.com/its-saanvi/sessionizer.nvim"
+}

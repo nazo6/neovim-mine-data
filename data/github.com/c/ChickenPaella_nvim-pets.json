@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Toy"
+        },
+        {
+          "level": 3,
+          "name": "Pet"
+        }
+      ],
+      "file": "toy.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-24T15:19:44Z",
+    "description": "Pixel-art pets living inside Neovim — vscode-pets equivalent (v0 MVP)",
+    "isArchived": false,
+    "lastCommit": "2026-04-24T15:18:57Z",
+    "nameWithOwner": "ChickenPaella/nvim-pets",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-pets",
+  "owner": "ChickenPaella",
+  "url": "https://github.com/ChickenPaella/nvim-pets"
+}

@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Web"
+        },
+        {
+          "level": 3,
+          "name": "Chat"
+        },
+        {
+          "level": 4,
+          "name": "Discord"
+        }
+      ],
+      "file": "web-service.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-22T04:59:25Z",
+    "description": "A Simple Twitch Chat Window from Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T04:58:32Z",
+    "nameWithOwner": "tunachip/discord-chat.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "discord-chat.nvim",
+  "owner": "tunachip",
+  "url": "https://github.com/tunachip/discord-chat.nvim"
+}

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "CODEOWNERS"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 7,
+    "createdAt": "2026-04-21T19:10:28Z",
+    "description": "Show CODEOWNERS team for the current buffer in your lualine statusline — pure Lua, no external tools",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T02:34:30Z",
+    "nameWithOwner": "nerdomaly/lualine-codeowners.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "lualine-codeowners.nvim",
+  "owner": "nerdomaly",
+  "url": "https://github.com/nerdomaly/lualine-codeowners.nvim"
+}

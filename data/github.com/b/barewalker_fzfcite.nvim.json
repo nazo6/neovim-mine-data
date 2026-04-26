@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Documentation"
+        },
+        {
+          "level": 3,
+          "name": "Tex"
+        },
+        {
+          "level": 4,
+          "name": "BiBTex"
+        }
+      ],
+      "file": "documentation.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-23T13:28:43Z",
+    "description": "Lightweight citation picker for Neovim, powered by fzf-lua. Zotero-free, plain-YAML workflow.",
+    "isArchived": false,
+    "lastCommit": "2026-04-23T21:36:28Z",
+    "nameWithOwner": "barewalker/fzfcite.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "fzfcite.nvim",
+  "owner": "barewalker",
+  "url": "https://github.com/barewalker/fzfcite.nvim"
+}

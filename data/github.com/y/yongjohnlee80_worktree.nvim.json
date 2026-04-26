@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 8,
+    "createdAt": "2026-04-20T07:58:46Z",
+    "description": "The ONE neovim worktree plugin to rule it all: switch, add and remove worktrees in your multi-repo project folder",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T01:22:59Z",
+    "nameWithOwner": "yongjohnlee80/worktree.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "worktree.nvim",
+  "owner": "yongjohnlee80",
+  "url": "https://github.com/yongjohnlee80/worktree.nvim"
+}

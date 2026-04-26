@@ -13,21 +13,44 @@
       ],
       "file": "snippet_template.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Editing Support"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 4,
+    "commitCountLastYear": 20,
     "createdAt": "2026-04-12T08:47:57Z",
-    "description": "Add custom shebangs to the top of your script files.",
+    "description": "Add/modify your shebangs on top of your script files, with live reloading.",
     "isArchived": false,
-    "lastCommit": "2026-04-13T21:01:07Z",
+    "lastCommit": "2026-04-24T19:17:11Z",
     "nameWithOwner": "DrKJeff16/shebang.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 1,
+    "star": 4,
     "topics": [
+      "neovim",
+      "neovim-lua",
+      "neovim-lua-plugin",
+      "neovim-pl",
+      "nvim",
+      "nvim-lua",
+      "nvim-lua-plugin",
+      "nvim-plugin",
+      "shebang"
     ]
   },
   "domain": "github.com",

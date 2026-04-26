@@ -17,20 +17,38 @@
       ],
       "file": "readme.md",
       "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    },
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Awesome Neovim [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)"
+        },
+        {
+          "level": 2,
+          "name": "Editing Support"
+        },
+        {
+          "level": 3,
+          "name": "Comment"
+        }
+      ],
+      "file": "README.md",
+      "source": "https://github.com/rockerBOO/awesome-neovim"
     }
   ],
   "data": {
-    "commitCountLastYear": 453,
+    "commitCountLastYear": 455,
     "createdAt": "2024-12-12T00:37:36Z",
     "description": "Instantly generate sleek, customizable annotations for most languages with a single keystroke. ⌨️✨",
     "isArchived": false,
-    "lastCommit": "2026-04-18T13:48:50Z",
+    "lastCommit": "2026-04-21T13:09:47Z",
     "nameWithOwner": "jeangiraldoo/codedocs.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 72,
+    "star": 81,
     "topics": [
       "neovim",
       "lua",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Go"
+        },
+        {
+          "level": 3,
+          "name": "debug"
+        }
+      ],
+      "file": "go.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-21T09:39:18Z",
+    "description": "An opinionated Go debugger for Neovim: launch.json-driven, worktree-aware, delve-integrated, and pre-wired with the UI you actually want to look at.",
+    "isArchived": false,
+    "lastCommit": "2026-04-24T03:15:56Z",
+    "nameWithOwner": "yongjohnlee80/gobugger.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "gobugger.nvim",
+  "owner": "yongjohnlee80",
+  "url": "https://github.com/yongjohnlee80/gobugger.nvim"
+}

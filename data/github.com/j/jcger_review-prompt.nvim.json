@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-24T10:51:49Z",
+    "description": "Collect code review comments while reading diffs in Neovim, then export them as an AI-ready prompt",
+    "isArchived": false,
+    "lastCommit": "2026-04-24T12:30:32Z",
+    "nameWithOwner": "jcger/review-prompt.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "review-prompt.nvim",
+  "owner": "jcger",
+  "url": "https://github.com/jcger/review-prompt.nvim"
+}

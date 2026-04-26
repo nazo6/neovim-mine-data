@@ -26,7 +26,7 @@
   "data": {
     "commitCountLastYear": 3,
     "createdAt": "2025-08-26T16:18:00Z",
-    "description": "A Neovim plugin for interacting with AWS services.",
+    "description": "Neovim plugin for tailing AWS CloudWatch log groups and streams, with interactive pickers for selection, live previews of active tails, and each feed spawned in its own tmux pane.",
     "isArchived": false,
     "lastCommit": "2026-01-03T14:57:04Z",
     "nameWithOwner": "thevinchi/aws.nvim",
@@ -36,6 +36,16 @@
     },
     "star": 1,
     "topics": [
+      "aws",
+      "aws-cli",
+      "cloudwatch",
+      "cloudwatch-logs",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "observability",
+      "tmux"
     ]
   },
   "domain": "github.com",

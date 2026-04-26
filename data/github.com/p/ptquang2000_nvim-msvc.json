@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Arduino"
+        },
+        {
+          "level": 3,
+          "name": "Compile"
+        },
+        {
+          "level": 4,
+          "name": "MSVC"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-04-24T05:13:27Z",
+    "isArchived": false,
+    "lastCommit": "2026-04-26T04:55:47Z",
+    "nameWithOwner": "ptquang2000/nvim-msvc",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-msvc",
+  "owner": "ptquang2000",
+  "url": "https://github.com/ptquang2000/nvim-msvc"
+}

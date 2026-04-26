@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Music"
+        },
+        {
+          "level": 3,
+          "name": "Guitar tablature"
+        }
+      ],
+      "file": "music.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-24T02:49:03Z",
+    "description": "A plugin for writing guitar tabs in Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-24T03:48:47Z",
+    "nameWithOwner": "hc-nolan/tablature.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tablature.nvim",
+  "owner": "hc-nolan",
+  "url": "https://github.com/hc-nolan/tablature.nvim"
+}

@@ -20,20 +20,23 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 25,
+    "commitCountLastYear": 33,
     "createdAt": "2025-08-13T22:23:04Z",
     "description": "A mini harpoon-like plugin for Neovim",
     "isArchived": false,
-    "lastCommit": "2026-04-19T10:32:23Z",
+    "lastCommit": "2026-04-24T13:30:07Z",
     "nameWithOwner": "vieitesss/miniharp.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 47,
+    "star": 76,
     "topics": [
       "harpoon",
-      "neovim-plugin"
+      "neovim-plugin",
+      "files",
+      "marks",
+      "navigation"
     ]
   },
   "domain": "github.com",

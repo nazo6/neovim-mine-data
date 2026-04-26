@@ -1,0 +1,46 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-18T01:36:37Z",
+    "description": "Run commandline tasks in the background, show its progress while it's happening, and output it to the quickfix list!",
+    "isArchived": false,
+    "lastCommit": "2026-04-18T14:35:36Z",
+    "nameWithOwner": "agokule/taskrunner.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "taskrunner.nvim",
+  "owner": "agokule",
+  "url": "https://github.com/agokule/taskrunner.nvim"
+}

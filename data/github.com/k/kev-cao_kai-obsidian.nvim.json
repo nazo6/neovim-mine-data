@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Obsidian"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 12,
+    "createdAt": "2026-04-20T20:09:58Z",
+    "description": "A Neovim plugin wrapper around obsidian.nvim with extra functionality for my opinionated workflow.",
+    "isArchived": false,
+    "lastCommit": "2026-04-23T14:39:38Z",
+    "nameWithOwner": "kev-cao/kai-obsidian.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "kai-obsidian.nvim",
+  "owner": "kev-cao",
+  "url": "https://github.com/kev-cao/kai-obsidian.nvim"
+}

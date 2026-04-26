@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Flashcards"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 42,
+    "createdAt": "2026-04-21T14:15:35Z",
+    "description": "A Neovim plugin for learning with flashcards, backed by SM-2 spaced repetition.",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T04:55:56Z",
+    "nameWithOwner": "dautroc/nvim-flashcard",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nvim-flashcard",
+  "owner": "dautroc",
+  "url": "https://github.com/dautroc/nvim-flashcard"
+}

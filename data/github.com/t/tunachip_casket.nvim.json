@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Replace"
+        },
+        {
+          "level": 3,
+          "name": "Rename"
+        }
+      ],
+      "file": "search_replace_grep_select.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-22T04:55:39Z",
+    "description": "Dead Simple Case-Kit",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T04:55:49Z",
+    "nameWithOwner": "tunachip/casket.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "casket.nvim",
+  "owner": "tunachip",
+  "url": "https://github.com/tunachip/casket.nvim"
+}

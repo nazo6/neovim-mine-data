@@ -20,23 +20,28 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 7,
+    "commitCountLastYear": 33,
     "createdAt": "2026-04-14T06:00:13Z",
     "description": "Turn buffers in Neovim into real previews, not raw bytes.",
     "isArchived": false,
-    "lastCommit": "2026-04-18T23:04:25Z",
+    "lastCommit": "2026-04-26T03:58:26Z",
     "nameWithOwner": "propilideno/buffer-preview.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 17,
     "topics": [
       "neovim",
       "nvim",
       "nvim-buffers",
       "nvim-plugin",
-      "pdf-viewer"
+      "pdf-viewer",
+      "powerpoint-slides",
+      "presentation-slides",
+      "data-analysis",
+      "data-science",
+      "sqlite"
     ]
   },
   "domain": "github.com",

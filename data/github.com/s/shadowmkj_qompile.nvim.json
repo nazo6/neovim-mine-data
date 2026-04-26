@@ -1,0 +1,52 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Task Runner"
+        },
+        {
+          "level": 3,
+          "name": "Config file style"
+        },
+        {
+          "level": 4,
+          "name": "Lua"
+        }
+      ],
+      "file": "task-runner.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-20T16:09:09Z",
+    "description": "qompile is a minimal Neovim plugin that lets you save a shell command per file and run it with a keybind",
+    "isArchived": false,
+    "lastCommit": "2026-04-20T16:24:12Z",
+    "nameWithOwner": "shadowmkj/qompile.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 3,
+    "topics": [
+      "compile",
+      "editor",
+      "lua",
+      "neovim",
+      "neovim-lua",
+      "neovim-plugin",
+      "productivity"
+    ]
+  },
+  "domain": "github.com",
+  "name": "qompile.nvim",
+  "owner": "shadowmkj",
+  "url": "https://github.com/shadowmkj/qompile.nvim"
+}

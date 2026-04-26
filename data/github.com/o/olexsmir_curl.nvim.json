@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Net"
+        },
+        {
+          "level": 3,
+          "name": "Curl"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-19T19:44:51Z",
+    "description": "use curl within neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-19T19:50:04Z",
+    "nameWithOwner": "olexsmir/curl.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "curl.nvim",
+  "owner": "olexsmir",
+  "url": "https://github.com/olexsmir/curl.nvim"
+}

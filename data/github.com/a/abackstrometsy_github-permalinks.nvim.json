@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "GitHub"
+        },
+        {
+          "level": 3,
+          "name": "Link"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 10,
+    "createdAt": "2026-04-22T11:16:23Z",
+    "description": "Get quick GitHub permalinks for the current file or line.",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T15:39:46Z",
+    "nameWithOwner": "abackstrometsy/github-permalinks.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "github-permalinks.nvim",
+  "owner": "abackstrometsy",
+  "url": "https://github.com/abackstrometsy/github-permalinks.nvim"
+}

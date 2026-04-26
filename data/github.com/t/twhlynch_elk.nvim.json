@@ -1,0 +1,39 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "ASM"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 39,
+    "createdAt": "2026-04-22T06:32:41Z",
+    "description": "Neovim diagnostics provider for LC-3 Assembly bridging the Elk LC-3 toolchain.",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T14:37:05Z",
+    "nameWithOwner": "twhlynch/elk.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "lc3",
+      "neovim"
+    ]
+  },
+  "domain": "github.com",
+  "name": "elk.nvim",
+  "owner": "twhlynch",
+  "url": "https://github.com/twhlynch/elk.nvim"
+}

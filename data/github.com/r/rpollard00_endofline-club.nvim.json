@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "textDocument"
+        },
+        {
+          "level": 5,
+          "name": "CodeLens"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-23T21:54:26Z",
+    "description": "Minimal plugin that moves codelens to the end of the line with virtual_text instead of virtual_line",
+    "isArchived": false,
+    "lastCommit": "2026-04-23T22:03:41Z",
+    "nameWithOwner": "rpollard00/endofline-club.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "endofline-club.nvim",
+  "owner": "rpollard00",
+  "url": "https://github.com/rpollard00/endofline-club.nvim"
+}

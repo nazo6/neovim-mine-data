@@ -16,11 +16,11 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 1,
+    "commitCountLastYear": 9,
     "createdAt": "2026-04-17T16:16:04Z",
     "description": "A Neovim plugin to control FMP7 (FMP7.exe) from Neovim.",
     "isArchived": false,
-    "lastCommit": "2026-04-17T16:15:58Z",
+    "lastCommit": "2026-04-25T17:43:53Z",
     "nameWithOwner": "T-b-t-nchos/FMP7.nvim",
     "primaryLanguage": {
       "color": "#000080",
@@ -34,10 +34,10 @@
       "neovim-lua-plugin",
       "neovim-plugin",
       "fmp-api",
-      "fmp4",
       "mxdrv",
       "fm-synthesis",
-      "opm"
+      "opm",
+      "opn"
     ]
   },
   "domain": "github.com",

@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-04-20T14:07:47Z",
+    "description": "Floating terminal + Claude Code session split for Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-23T14:16:36Z",
+    "nameWithOwner": "Vasilis-Narain/tidal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "tidal.nvim",
+  "owner": "Vasilis-Narain",
+  "url": "https://github.com/Vasilis-Narain/tidal.nvim"
+}

@@ -28,17 +28,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 169,
+    "commitCountLastYear": 179,
     "createdAt": "2026-03-13T09:59:00Z",
-    "description": "A Markdown rendering engine for Neovim — rich formatting, tables, images, video, Mermaid diagrams, and CJK-aware wrapping in floating windows",
+    "description": "A Markdown rendering engine for Neovim — rich formatting, tables, images, video, Mermaid diagrams",
     "isArchived": false,
-    "lastCommit": "2026-04-18T02:17:22Z",
+    "lastCommit": "2026-04-26T04:02:16Z",
     "nameWithOwner": "delphinus/md-render.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 6,
+    "star": 103,
     "topics": [
       "floating-window",
       "lua",

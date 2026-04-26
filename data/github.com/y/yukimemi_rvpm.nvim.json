@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Add runtime path (vim-plug like)"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 19,
+    "createdAt": "2026-04-19T16:28:05Z",
+    "description": "Neovim helper plugin for rvpm — :Rvpm dispatcher, completion, auto-generate, chezmoi routing, log viewer, healthcheck",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T02:50:24Z",
+    "nameWithOwner": "yukimemi/rvpm.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "rvpm.nvim",
+  "owner": "yukimemi",
+  "url": "https://github.com/yukimemi/rvpm.nvim"
+}

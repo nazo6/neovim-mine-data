@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "ASM"
+        }
+      ],
+      "file": "c_cpp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 3,
+    "createdAt": "2026-04-22T19:33:52Z",
+    "description": "Simple Neovim plugin for building and running NES (6502, ca65) projects.",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T23:03:32Z",
+    "nameWithOwner": "dknight/nes.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "nes.nvim",
+  "owner": "dknight",
+  "url": "https://github.com/dknight/nes.nvim"
+}

@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "LSP"
+        },
+        {
+          "level": 3,
+          "name": "LSP Feature Extension UI"
+        },
+        {
+          "level": 4,
+          "name": "Definition, Reference"
+        }
+      ],
+      "file": "lsp.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-23T06:33:13Z",
+    "description": "Guided code exploration for Neovim - definitions, refs, callers, tests, git, and a trail from the current symbol",
+    "isArchived": false,
+    "lastCommit": "2026-04-26T07:03:49Z",
+    "nameWithOwner": "error311/wayfinder.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 65,
+    "topics": [
+      "code-navigation",
+      "developer-tools",
+      "lsp",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "wayfinder.nvim",
+  "owner": "error311",
+  "url": "https://github.com/error311/wayfinder.nvim"
+}

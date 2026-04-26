@@ -16,17 +16,17 @@
     }
   ],
   "data": {
-    "commitCountLastYear": 93,
+    "commitCountLastYear": 100,
     "createdAt": "2026-02-14T16:35:50Z",
     "description": "Aquarium color scheme on Neovim. Designed for use with a transparent terminal background. // 透過背景のターミナル向けにデザインされた水族館風Neovimカラースキーム。// #Aquavium",
     "isArchived": false,
-    "lastCommit": "2026-04-17T08:20:40Z",
+    "lastCommit": "2026-04-25T17:42:08Z",
     "nameWithOwner": "T-b-t-nchos/Aquavium.nvim",
     "primaryLanguage": {
       "color": "#000080",
       "name": "Lua"
     },
-    "star": 13,
+    "star": 14,
     "topics": [
       "neo-vim-extension",
       "neovim",
@@ -35,7 +35,8 @@
       "neovim-colorschemes",
       "neovim-lua-plugin",
       "neovim-plugin",
-      "neovim-themes"
+      "neovim-themes",
+      "awesome-neovim"
     ]
   },
   "domain": "github.com",

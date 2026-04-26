@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Terminal"
+        },
+        {
+          "level": 3,
+          "name": "Terminal Enhancement"
+        }
+      ],
+      "file": "terminal.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 1,
+    "createdAt": "2026-04-24T19:01:12Z",
+    "description": "Toggle terminals inside Neovim with persistent sessions and visual selection sending.",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T08:19:24Z",
+    "nameWithOwner": "rodakd/terms.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "terms.nvim",
+  "owner": "rodakd",
+  "url": "https://github.com/rodakd/terms.nvim"
+}

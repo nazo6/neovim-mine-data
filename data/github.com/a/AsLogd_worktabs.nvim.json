@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Git"
+        },
+        {
+          "level": 3,
+          "name": "worktree"
+        }
+      ],
+      "file": "git-github.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-20T08:06:27Z",
+    "description": "Worktree management for neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-20T08:37:58Z",
+    "nameWithOwner": "AsLogd/worktabs.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "worktabs.nvim",
+  "owner": "AsLogd",
+  "url": "https://github.com/AsLogd/worktabs.nvim"
+}

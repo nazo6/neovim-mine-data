@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 3,
+          "name": "Snippet"
+        }
+      ],
+      "file": "snippet_template.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 46,
+    "createdAt": "2026-04-19T06:32:08Z",
+    "description": "Snippet Auto-Generate Code and Use AI to Enrich That Snippet",
+    "isArchived": false,
+    "lastCommit": "2026-04-20T10:34:07Z",
+    "nameWithOwner": "louishuyng/snipai",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 4,
+    "topics": [
+      "claude-ai",
+      "nvim-plugin",
+      "snippets"
+    ]
+  },
+  "domain": "github.com",
+  "name": "snipai",
+  "owner": "louishuyng",
+  "url": "https://github.com/louishuyng/snipai"
+}

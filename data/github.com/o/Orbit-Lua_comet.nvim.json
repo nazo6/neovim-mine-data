@@ -1,0 +1,41 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "UI"
+        },
+        {
+          "level": 3,
+          "name": "FuzzyFinder"
+        }
+      ],
+      "file": "neovim-lua-library.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 18,
+    "createdAt": "2026-04-20T11:24:31Z",
+    "description": "A sleek, generic two-panel picker and task UI for Neovim.",
+    "isArchived": false,
+    "lastCommit": "2026-04-26T09:14:19Z",
+    "nameWithOwner": "Orbit-Lua/comet.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "comet.nvim",
+  "owner": "Orbit-Lua",
+  "url": "https://github.com/Orbit-Lua/comet.nvim"
+}

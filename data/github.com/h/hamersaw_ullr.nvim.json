@@ -1,0 +1,37 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Review"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 5,
+    "createdAt": "2026-04-22T06:49:44Z",
+    "description": "Parallel code review for Neovim — fans out specialized Claude agents to find bugs, check performance, evaluate tests, and verify compliance",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T06:49:16Z",
+    "nameWithOwner": "hamersaw/ullr.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "ullr.nvim",
+  "owner": "hamersaw",
+  "url": "https://github.com/hamersaw/ullr.nvim"
+}

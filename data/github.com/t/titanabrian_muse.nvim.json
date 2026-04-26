@@ -1,0 +1,47 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "AI Coding"
+        },
+        {
+          "level": 3,
+          "name": "Claude Code"
+        }
+      ],
+      "file": "ai.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 6,
+    "createdAt": "2026-04-22T05:32:53Z",
+    "description": "Inline AI code edits in Neovim via Claude Code — select, prompt, watch it rewrite in place",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T05:29:41Z",
+    "nameWithOwner": "titanabrian/muse.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "lua",
+      "neovim",
+      "neovim-plugin"
+    ]
+  },
+  "domain": "github.com",
+  "name": "muse.nvim",
+  "owner": "titanabrian",
+  "url": "https://github.com/titanabrian/muse.nvim"
+}

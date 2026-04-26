@@ -1,0 +1,45 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Note Taking"
+        },
+        {
+          "level": 3,
+          "name": "Blog"
+        },
+        {
+          "level": 4,
+          "name": "Hugo"
+        }
+      ],
+      "file": "note-taking.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 4,
+    "createdAt": "2026-04-20T18:49:27Z",
+    "description": "A CMS for Hugo sites, living inside Neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-24T13:20:58Z",
+    "nameWithOwner": "TomSchimana/hugo-cms.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "hugo-cms.nvim",
+  "owner": "TomSchimana",
+  "url": "https://github.com/TomSchimana/hugo-cms.nvim"
+}

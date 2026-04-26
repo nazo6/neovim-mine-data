@@ -1,0 +1,51 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "Crystal"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 26,
+    "createdAt": "2026-04-24T16:59:56Z",
+    "description": "Tree-sitter-first Neovim plugin for the Crystal language. Neovim 0.11+.",
+    "isArchived": false,
+    "lastCommit": "2026-04-25T08:43:39Z",
+    "nameWithOwner": "andrius/crystal.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "crystal",
+      "crystal-lang",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "tree-sitter"
+    ]
+  },
+  "domain": "github.com",
+  "name": "crystal.nvim",
+  "owner": "andrius",
+  "url": "https://github.com/andrius/crystal.nvim"
+}

@@ -1,0 +1,49 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Language specific"
+        },
+        {
+          "level": 3,
+          "name": "Programing Language / Framework"
+        },
+        {
+          "level": 4,
+          "name": "C"
+        },
+        {
+          "level": 5,
+          "name": ".NET"
+        }
+      ],
+      "file": "language-specific.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 11,
+    "createdAt": "2026-04-20T11:02:40Z",
+    "description": "A full-featured .NET CLI integration for Neovim. Manage projects, solutions, NuGet packages, and SDK versions through a beautiful two-panel UI or individual commands.",
+    "isArchived": false,
+    "lastCommit": "2026-04-24T16:53:06Z",
+    "nameWithOwner": "Orbit-Lua/dotnet-cli.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 2,
+    "topics": [
+    ]
+  },
+  "domain": "github.com",
+  "name": "dotnet-cli.nvim",
+  "owner": "Orbit-Lua",
+  "url": "https://github.com/Orbit-Lua/dotnet-cli.nvim"
+}

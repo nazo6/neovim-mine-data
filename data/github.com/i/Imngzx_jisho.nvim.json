@@ -1,0 +1,40 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Dictionary"
+        }
+      ],
+      "file": "dictionary.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 36,
+    "createdAt": "2026-04-19T03:35:50Z",
+    "description": "A plugin that helps people learns japanese with using neovim",
+    "isArchived": false,
+    "lastCommit": "2026-04-21T00:09:51Z",
+    "nameWithOwner": "Imngzx/jisho.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 12,
+    "topics": [
+      "neovim-plugin",
+      "neovim-plugins",
+      "nvim-plugins"
+    ]
+  },
+  "domain": "github.com",
+  "name": "jisho.nvim",
+  "owner": "Imngzx",
+  "url": "https://github.com/Imngzx/jisho.nvim"
+}

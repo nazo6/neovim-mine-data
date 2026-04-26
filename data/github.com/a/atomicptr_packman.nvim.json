@@ -1,0 +1,44 @@
+{
+  "category": [
+    {
+      "data": [
+        {
+          "level": 1,
+          "name": "Table of Contents"
+        },
+        {
+          "level": 2,
+          "name": "Plugin Manager"
+        },
+        {
+          "level": 3,
+          "name": "Use builtin package feature"
+        }
+      ],
+      "file": "plugin-manager.md",
+      "source": "https://github.com/yutkat/my-neovim-pluginlist"
+    }
+  ],
+  "data": {
+    "commitCountLastYear": 2,
+    "createdAt": "2026-04-22T09:29:48Z",
+    "description": "vim.pack management interface",
+    "isArchived": false,
+    "lastCommit": "2026-04-22T11:14:52Z",
+    "nameWithOwner": "atomicptr/packman.nvim",
+    "primaryLanguage": {
+      "color": "#000080",
+      "name": "Lua"
+    },
+    "star": 1,
+    "topics": [
+      "neovim",
+      "neovim-plugin",
+      "vim-pack"
+    ]
+  },
+  "domain": "github.com",
+  "name": "packman.nvim",
+  "owner": "atomicptr",
+  "url": "https://github.com/atomicptr/packman.nvim"
+}
